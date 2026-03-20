@@ -12,32 +12,75 @@ const sorted = allArticles.sort((a, b) => {
   return b.data.pubDate.getTime() - a.data.pubDate.getTime();
 });
 const latest = sorted.slice(0, 50);
+
+// Category counts for the live ticker
+const categoryCounts: Record<string, number> = {};
+for (const a of allArticles) {
+  const cat = a.data.category;
+  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
+}
+
+const categories = [
+  { key: 'Politics', icon: '🏛', color: 'indigo' },
+  { key: 'Economy', icon: '📈', color: 'amber' },
+  { key: 'Tech', icon: '⚡', color: 'emerald' },
+  { key: 'Sports', icon: '🏆', color: 'sky' },
+  { key: 'Showbiz', icon: '🎬', color: 'pink' },
+];
+
+// Find the most recent article's pubDate for "last updated"
+const newestDate = allArticles.length > 0
+  ? allArticles.reduce((latest, a) => a.data.pubDate > latest ? a.data.pubDate : latest, allArticles[0].data.pubDate)
+  : new Date();
 ---
 
 <BaseLayout title="Home" description="pulse360 — the world's simplest global news snapshot, refreshed every 4 hours.">
 
-  <!-- About / Manifesto -->
-  <section class="reveal-stagger max-w-3xl mx-auto px-6 pt-16 pb-14 text-center">
-    <h1 class="text-4xl sm:text-5xl font-bold leading-tight text-[var(--color-ink)] mb-6" style="font-family: var(--font-prose)">
-      The world in a glance.
-    </h1>
-    <p class="text-lg sm:text-xl text-[var(--color-muted)] leading-relaxed max-w-xl mx-auto mb-4">
-      No algorithms. No ads. No endless scroll.
-    </p>
-    <p class="text-base text-[var(--color-muted)] leading-relaxed max-w-lg mx-auto opacity-70">
-      Pulse360 distills hundreds of global sources into a single, calm page — what's happening right now, and nothing more. Refreshed every four hours so you're always current, never overwhelmed.
-    </p>
-    <div class="mt-8 flex items-center justify-center gap-6 text-xs uppercase tracking-widest text-[var(--color-muted)] opacity-50">
-      <span>AI-synthesized</span>
-      <span class="w-1 h-1 rounded-full bg-[var(--color-accent)]"></span>
-      <span>195+ sources</span>
-      <span class="w-1 h-1 rounded-full bg-[var(--color-accent)]"></span>
-      <span>Updated every 4h</span>
+  <!-- Compact Hero -->
+  <section class="hero-section max-w-6xl mx-auto px-6 pt-8 pb-6">
+    <!-- Top row: headline + live pulse -->
+    <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-5">
+      <div>
+        <h1 class="text-2xl sm:text-3xl font-bold text-[var(--color-ink)] leading-tight" style="font-family: var(--font-prose)">
+          The world in a glance<span class="text-[var(--color-accent)]">.</span>
+        </h1>
+        <p class="text-sm text-[var(--color-muted)] mt-1.5">
+          AI-synthesized from 195+ sources &middot; No ads &middot; No noise
+        </p>
+      </div>
+      <div class="flex items-center gap-2 text-xs text-[var(--color-muted)] shrink-0">
+        <span class="live-pulse relative flex h-2 w-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-[var(--color-accent)] opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-[var(--color-accent)]"></span>
+        </span>
+        <span class="tabular-nums">
+          {allArticles.length} stories
+        </span>
+        <span class="opacity-40">&middot;</span>
+        <span>Updated every 4h</span>
+      </div>
+    </div>
+
+    <!-- Category nav chips -->
+    <div class="flex flex-wrap gap-2">
+      {categories.map(cat => {
+        const count = categoryCounts[cat.key] || 0;
+        return (
+          <a
+            href={`${import.meta.env.BASE_URL}${cat.key.toLowerCase()}`}
+            class={`category-chip group inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium border border-[var(--color-border)] bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all duration-200`}
+          >
+            <span class="text-sm">{cat.icon}</span>
+            <span>{cat.key}</span>
+            <span class="tabular-nums opacity-50 text-[10px]">{count}</span>
+          </a>
+        );
+      })}
     </div>
   </section>
 
-  <!-- Section label -->
-  <section class="reveal max-w-6xl mx-auto px-6 pt-8 pb-4">
+  <!-- Divider -->
+  <section class="max-w-6xl mx-auto px-6 pb-4">
     <div class="flex items-center gap-4">
       <h2 class="text-sm font-semibold uppercase tracking-widest text-[var(--color-muted)]">Right now</h2>
       <div class="flex-1 h-px bg-[var(--color-border)]"></div>

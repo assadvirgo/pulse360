@@ -131,3 +131,17 @@ body {
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--color-muted); }
+
+/* ─── Hero section entrance ─── */
+.hero-section {
+  animation: fade-up 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Category chip hover scale */
+.category-chip {
+  will-change: transform;
+  transition: all 0.2s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.category-chip:hover {
+  transform: translateY(-1px);
+}
