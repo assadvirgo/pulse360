@@ -1,0 +1,88 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+
+const allArticles = await getCollection('news');
+const sorted = allArticles.sort((a, b) => {
+  // Primary: importance score (highest first)
+  const impDiff = (b.data.importance ?? 0) - (a.data.importance ?? 0);
+  if (impDiff !== 0) return impDiff;
+  // Tiebreaker: newest first
+  return b.data.pubDate.getTime() - a.data.pubDate.getTime();
+});
+const latest = sorted.slice(0, 50);
+---
+
+<BaseLayout title="Home" description="pulse360 — the world's simplest global news snapshot, refreshed every 4 hours.">
+
+  <!-- About / Manifesto -->
+  <section class="reveal-stagger max-w-3xl mx-auto px-6 pt-16 pb-14 text-center">
+    <h1 class="text-4xl sm:text-5xl font-bold leading-tight text-[var(--color-ink)] mb-6" style="font-family: var(--font-prose)">
+      The world in a glance.
+    </h1>
+    <p class="text-lg sm:text-xl text-[var(--color-muted)] leading-relaxed max-w-xl mx-auto mb-4">
+      No algorithms. No ads. No endless scroll.
+    </p>
+    <p class="text-base text-[var(--color-muted)] leading-relaxed max-w-lg mx-auto opacity-70">
+      Pulse360 distills hundreds of global sources into a single, calm page — what's happening right now, and nothing more. Refreshed every four hours so you're always current, never overwhelmed.
+    </p>
+    <div class="mt-8 flex items-center justify-center gap-6 text-xs uppercase tracking-widest text-[var(--color-muted)] opacity-50">
+      <span>AI-synthesized</span>
+      <span class="w-1 h-1 rounded-full bg-[var(--color-accent)]"></span>
+      <span>195+ sources</span>
+      <span class="w-1 h-1 rounded-full bg-[var(--color-accent)]"></span>
+      <span>Updated every 4h</span>
+    </div>
+  </section>
+
+  <!-- Section label -->
+  <section class="reveal max-w-6xl mx-auto px-6 pt-8 pb-4">
+    <div class="flex items-center gap-4">
+      <h2 class="text-sm font-semibold uppercase tracking-widest text-[var(--color-muted)]">Right now</h2>
+      <div class="flex-1 h-px bg-[var(--color-border)]"></div>
+      <span class="text-xs text-[var(--color-muted)] opacity-50 tabular-nums">{latest.length} stories</span>
+    </div>
+  </section>
+
+  <!-- Articles grid -->
+  <section class="max-w-6xl mx-auto px-6 pb-16">
+    {latest.length === 0 ? (
+      <div class="text-center py-24 text-[var(--color-muted)]">
+        <p class="text-lg">Nothing yet.</p>
+        <p class="text-sm mt-2 opacity-60">The researcher publishes every 4 hours.</p>
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {latest.map(article => (
+          <ArticleCard id={article.id} slug={article.id} {...article.data} />
+        ))}
+      </div>
+    )}
+  </section>
+
+  <!-- Archive link -->
+  <div class="reveal max-w-6xl mx-auto px-6 pb-20 text-center">
+    <a
+      href={`${import.meta.env.BASE_URL}archive`}
+      class="group inline-flex items-center gap-2 px-6 py-3 text-sm font-medium rounded-full border border-[var(--color-border)] text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all duration-200"
+    >
+      Browse the archive
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="group-hover:translate-x-0.5 transition-transform"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+    </a>
+  </div>
+
+  <script>
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('is-visible');
+          }
+        });
+      },
+      { threshold: 0.1, rootMargin: '0px 0px -40px 0px' }
+    );
+    document.querySelectorAll('.reveal, .reveal-stagger').forEach((el) => observer.observe(el));
+  </script>
+</BaseLayout>

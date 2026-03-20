@@ -1,0 +1,141 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  canonicalUrl?: string;
+}
+
+const { title, description = 'pulse360 — Global news, synthesized by AI.', image, canonicalUrl } = Astro.props;
+const resolvedImage = image ?? `${Astro.site}og-default.png`;
+const canon = canonicalUrl ?? Astro.url.href;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={resolvedImage} />
+    <meta property="og:url" content={canon} />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={resolvedImage} />
+
+    <link rel="canonical" href={canon} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>{title} — pulse360</title>
+
+    <!-- Dark mode: apply before paint to prevent flash -->
+    <script is:inline>
+      (function () {
+        const stored = localStorage.getItem('pulse360_theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = stored ?? (prefersDark ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+      })();
+    </script>
+  </head>
+  <body>
+    <!-- Accent line at very top -->
+    <div class="accent-line"></div>
+
+    <!-- Sticky header -->
+    <header class="sticky top-0 z-50 backdrop-blur-xl bg-[var(--color-cream)]/85 border-b border-[var(--color-border)]">
+      <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+        <a href={`${import.meta.env.BASE_URL}`} class="flex items-center gap-3 group">
+          <img
+            src={`${import.meta.env.BASE_URL}logo.png`}
+            alt="Pulse360"
+            height="48"
+            class="w-auto h-12 group-hover:scale-105 transition-transform duration-200 logo-adaptive"
+          />
+        </a>
+
+        <div class="flex items-center gap-3">
+          <a
+            href={`${import.meta.env.BASE_URL}archive`}
+            class="text-sm tracking-wider uppercase text-[var(--color-muted)] hover:text-[var(--color-ink)] transition-colors font-medium"
+          >
+            Archive
+          </a>
+          <div class="w-px h-4 bg-[var(--color-border)]"></div>
+          <button
+            id="theme-toggle"
+            aria-label="Toggle dark mode"
+            class="w-8 h-8 flex items-center justify-center rounded-full hover:bg-[var(--color-accent-soft)] transition-all duration-200 text-[var(--color-muted)] hover:text-[var(--color-accent)]"
+          >
+            <svg id="icon-sun" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+            <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="hidden"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="mt-32">
+      <div class="accent-line"></div>
+      <div class="max-w-6xl mx-auto px-6 py-14 flex flex-col items-center gap-5 text-center">
+        <img
+          src={`${import.meta.env.BASE_URL}logo.png`}
+          alt="Pulse360"
+          height="36"
+          class="w-auto h-9 opacity-60 logo-adaptive"
+        />
+        <p class="text-sm text-[var(--color-muted)] opacity-60">
+          AI-synthesized global news &middot; Updated every 4 hours &middot; No ads, no noise
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      const toggle = document.getElementById('theme-toggle');
+      const iconSun = document.getElementById('icon-sun');
+      const iconMoon = document.getElementById('icon-moon');
+
+      function applyTheme(theme: string) {
+        document.documentElement.setAttribute('data-theme', theme);
+        localStorage.setItem('pulse360_theme', theme);
+        if (theme === 'dark') {
+          iconSun?.classList.add('hidden');
+          iconMoon?.classList.remove('hidden');
+        } else {
+          iconSun?.classList.remove('hidden');
+          iconMoon?.classList.add('hidden');
+        }
+      }
+
+      // Init icon state
+      const current = document.documentElement.getAttribute('data-theme') ?? 'light';
+      applyTheme(current);
+
+      toggle?.addEventListener('click', () => {
+        const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        applyTheme(next);
+      });
+    </script>
+  </body>
+</html>

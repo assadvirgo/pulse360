@@ -1,0 +1,94 @@
+---
+interface Props {
+  id: string;
+  title: string;
+  pubDate: Date;
+  description: string;
+  country: string;
+  countryCode: string;
+  category: string;
+  heroImage?: string;
+  sentiment: 'Positive' | 'Negative' | 'Neutral';
+  sourceUrl: string;
+  slug: string;
+}
+
+const { id, title, pubDate, description, country, countryCode, category, heroImage, sentiment, sourceUrl, slug } = Astro.props;
+
+const sentimentDot = {
+  Positive: 'bg-emerald-500',
+  Negative: 'bg-red-500',
+  Neutral: 'bg-zinc-400',
+};
+
+const categoryColors: Record<string, string> = {
+  politics: 'text-indigo-600 dark:text-indigo-400',
+  economy:  'text-amber-600 dark:text-amber-400',
+  sports:   'text-sky-600 dark:text-sky-400',
+  showbiz:  'text-pink-600 dark:text-pink-400',
+};
+
+const sourceDomain = (() => {
+  try { return new URL(sourceUrl).hostname.replace(/^www\./, ''); } catch { return ''; }
+})();
+
+const relativeTime = (() => {
+  const diff = Date.now() - pubDate.getTime();
+  const minutes = Math.floor(diff / 60000);
+  if (minutes < 60) return `${minutes}m ago`;
+  const hours = Math.floor(minutes / 60);
+  if (hours < 24) return `${hours}h ago`;
+  const days = Math.floor(hours / 24);
+  return `${days}d ago`;
+})();
+
+const catLower = category.toLowerCase();
+---
+
+<article
+  class="card-animate group relative bg-[var(--color-surface)] rounded-2xl overflow-hidden border border-[var(--color-border)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[var(--shadow-card-hover)]"
+  style="box-shadow: var(--shadow-card);"
+  data-category={catLower}
+>
+  {heroImage ? (
+    <a href={`${import.meta.env.BASE_URL}news/${slug}`} tabindex="-1" class="block relative overflow-hidden">
+      <img
+        src={heroImage}
+        alt=""
+        loading="lazy"
+        class="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-105"
+      />
+    </a>
+  ) : (
+    <div class="h-1 bg-[var(--color-accent)]"></div>
+  )}
+
+  <div class="p-6 flex flex-col gap-3">
+    <!-- Category + time -->
+    <div class="flex items-center justify-between">
+      <div class="flex items-center gap-2">
+        <span class={`w-1.5 h-1.5 rounded-full ${sentimentDot[sentiment]}`}></span>
+        <span class={`text-xs font-semibold uppercase tracking-widest ${categoryColors[catLower] ?? 'text-[var(--color-muted)]'}`}>
+          {category}
+        </span>
+      </div>
+      <span class="text-xs text-[var(--color-muted)] tabular-nums">{relativeTime}</span>
+    </div>
+
+    <!-- Title -->
+    <a href={`${import.meta.env.BASE_URL}news/${slug}`} class="block">
+      <h2 class="text-base sm:text-lg font-semibold leading-snug text-[var(--color-ink)] group-hover:text-[var(--color-accent)] transition-colors duration-200" style="font-family: var(--font-prose)">
+        {title}
+      </h2>
+    </a>
+
+    <!-- Description -->
+    <p class="text-sm text-[var(--color-muted)] leading-relaxed line-clamp-2">{description}</p>
+
+    <!-- Source -->
+    <div class="pt-2 mt-auto border-t border-[var(--color-border)] flex items-center gap-1.5 text-xs text-[var(--color-muted)]">
+      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="opacity-50"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+      <span>{sourceDomain}</span>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+
+export async function getStaticPaths() {
+  const categories = ['politics', 'economy', 'sports', 'showbiz'];
+  return categories.map(cat => ({ params: { category: cat } }));
+}
+
+const { category } = Astro.params;
+const label = category.charAt(0).toUpperCase() + category.slice(1);
+
+const allArticles = await getCollection('news');
+const filtered = allArticles
+  .filter(a => a.data.category.toLowerCase() === category)
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+---
+
+<BaseLayout title={`${label} News`} description={`Global ${label} news, AI-synthesized.`}>
+  <div class="max-w-5xl mx-auto px-4 py-12">
+    <header class="mb-10">
+      <h1 class="text-3xl font-bold text-[var(--color-ink)]" style="font-family: var(--font-prose)">
+        {label}
+      </h1>
+      <p class="text-[var(--color-muted)] mt-2">{filtered.length} articles from around the world</p>
+    </header>
+
+    {filtered.length === 0 ? (
+      <p class="text-center py-16 text-[var(--color-muted)]">No {label} articles yet.</p>
+    ) : (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {filtered.map(article => (
+          <ArticleCard
+            id={article.id}
+            slug={article.id}
+            {...article.data}
+          />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>
