@@ -19,6 +19,7 @@ from researcher import (
     infer_sentiment,
     interleave_sources,
     is_duplicate,
+    load_sources,
     make_slug,
     sanitize_body,
     sanitize_plain_text,
@@ -300,3 +301,31 @@ class TestWriteArticle:
             assert "countryCode" not in post.metadata
         finally:
             researcher.CONTENT_DIR = original
+
+
+class TestLoadSources:
+    """Verify load_sources reads categories from the correct column."""
+
+    def test_categories_not_countries(self, tmp_path: Path):
+        """Categories should come from column 4 (Categories), not column 3 (Countries)."""
+        md = (
+            "| Name | Type | URL | Countries | Categories | active |\n"
+            "|------|------|-----|-----------|------------|--------|\n"
+            "| ESPN | rss | https://espn.com/rss | global | Sports | yes |\n"
+            "| TechCrunch | rss | https://tc.com/feed | global | Tech | yes |\n"
+            "| BBC | rss | https://bbc.com/rss | global | Politics,Economy | yes |\n"
+        )
+        sources_file = tmp_path / "sources.md"
+        sources_file.write_text(md)
+
+        import researcher
+        original = researcher.SOURCES_FILE
+        researcher.SOURCES_FILE = sources_file
+        try:
+            sources = load_sources()
+            by_name = {s.name: s for s in sources}
+            assert by_name["ESPN"].categories == ["Sports"]
+            assert by_name["TechCrunch"].categories == ["Tech"]
+            assert by_name["BBC"].categories == ["Politics", "Economy"]
+        finally:
+            researcher.SOURCES_FILE = original

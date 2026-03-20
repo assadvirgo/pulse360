@@ -233,7 +233,8 @@ def load_sources() -> list[SourceConfig]:
         categories_raw = ""
         active_raw = "no"
         if len(parts) >= 6:
-            categories_raw = parts[3] if parts[3] else parts[4]
+            # Columns: Name(0) | Type(1) | URL(2) | Countries(3) | Categories(4) | Active(5)
+            categories_raw = parts[4]
             active_raw = parts[5]
         elif len(parts) >= 5:
             categories_raw = parts[3]
