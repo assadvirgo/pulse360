@@ -4,7 +4,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 
 const allArticles = await getCollection('news');
-const sorted = allArticles.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const sorted = allArticles.sort((a, b) =>
+  b.data.pubDate.getTime() - a.data.pubDate.getTime()
+);
 ---
 
 <BaseLayout title="Archive" description="Every article pulse360 has ever published, newest first.">

@@ -5,9 +5,9 @@ import ArticleCard from '../components/ArticleCard.astro';
 
 const allArticles = await getCollection('news');
 const sorted = allArticles.sort((a, b) => {
-  // Primary: importance score (highest first)
-  const impDiff = (b.data.importance ?? 0) - (a.data.importance ?? 0);
-  if (impDiff !== 0) return impDiff;
+  // Primary: displayOrder (lowest first = most important)
+  const orderDiff = (a.data.displayOrder ?? 999) - (b.data.displayOrder ?? 999);
+  if (orderDiff !== 0) return orderDiff;
   // Tiebreaker: newest first
   return b.data.pubDate.getTime() - a.data.pubDate.getTime();
 });

@@ -559,6 +559,39 @@ def build_existing_slugs() -> set[str]:
     return existing
 
 
+@dataclass
+class ExistingArticle:
+    """Represents an article already on disk from a previous run."""
+    slug: str
+    path: Path
+    importance: float
+    title: str
+    category: str
+    displayOrder: int = 999
+
+
+def load_existing_articles() -> list[ExistingArticle]:
+    """Read all existing articles from disk and return them with their importance scores."""
+    articles: list[ExistingArticle] = []
+    if not CONTENT_DIR.exists():
+        return articles
+    for md_file in CONTENT_DIR.rglob("*.md"):
+        try:
+            post = frontmatter.load(str(md_file))
+            articles.append(ExistingArticle(
+                slug=md_file.stem,
+                path=md_file,
+                importance=float(post.get("importance", 0)),
+                title=str(post.get("title", md_file.stem)),
+                category=str(post.get("category", "")),
+                displayOrder=int(post.get("displayOrder", 999)),
+            ))
+        except Exception as exc:
+            log.warning("Failed to parse %s: %s", md_file.name, exc)
+    log.info("Loaded %d existing articles from disk", len(articles))
+    return articles
+
+
 def make_slug(article: RawArticle) -> str:
     date_str = article.published_at.strftime("%Y-%m-%d")
     title_slug = slugify(article.title, max_length=60)
@@ -658,6 +691,7 @@ def write_article(article: RawArticle, body: str, slug: str) -> Path:
         sourceUrl=article.url,
         source=source_domain,
         importance=article.importance,
+        displayOrder=999,
         heroImage="",
         sentiment=sentiment,
         tags=[article.category],
@@ -670,6 +704,52 @@ def write_article(article: RawArticle, body: str, slug: str) -> Path:
         display = output_path
     log.info("Wrote %s", display)
     return output_path
+
+
+def update_display_order(
+    top_items: list[dict],
+    fallen_off: list[ExistingArticle],
+) -> None:
+    """Update displayOrder for the active pool (top 50) and reset
+    any previously-active articles that fell out back to 999.
+    Only touches ~50 files per run, never the full archive."""
+    updated = 0
+
+    # Assign positions 1..N to the active pool
+    for position, item in enumerate(top_items, start=1):
+        if item["is_new"]:
+            article: RawArticle = item["article"]
+            slug: str = item["slug"]
+            cat_dir = CONTENT_DIR / article.category.lower()
+            path = cat_dir / f"{slug}.md"
+        else:
+            path = item["path"]
+
+        if not path.exists():
+            continue
+        try:
+            post = frontmatter.load(str(path))
+            if post.get("displayOrder") != position:
+                post["displayOrder"] = position
+                path.write_text(frontmatter.dumps(post), encoding="utf-8")
+                updated += 1
+        except Exception as exc:
+            log.warning("Failed to update displayOrder for %s: %s", path.name, exc)
+
+    # Reset fallen-off articles to 999 so they leave the homepage
+    for ea in fallen_off:
+        if not ea.path.exists():
+            continue
+        try:
+            post = frontmatter.load(str(ea.path))
+            if post.get("displayOrder") != 999:
+                post["displayOrder"] = 999
+                ea.path.write_text(frontmatter.dumps(post), encoding="utf-8")
+                updated += 1
+        except Exception as exc:
+            log.warning("Failed to reset displayOrder for %s: %s", ea.path.name, exc)
+
+    log.info("Updated displayOrder on %d articles", updated)
 
 
 # ---------------------------------------------------------------------------
@@ -713,41 +793,84 @@ def main() -> None:
         sys.exit(1)
 
     log.info("=== pulse360 researcher starting ===")
+    homepage_size = MAX_ARTICLES_PER_RUN * 2  # 2 iterations → 50
 
-    # Phase 1: Discover & score (no AI tokens spent)
+    # Phase 1: Discover & score new articles (no AI tokens spent)
     sources = load_sources()
     raw_articles = discover(sources)
-    existing_slugs = build_existing_slugs()
 
-    # Phase 2: Filter out duplicates, then pick top N by importance
-    candidates: list[tuple[RawArticle, str]] = []
+    # Phase 2: Load existing articles from disk
+    existing_articles = load_existing_articles()
+    existing_slugs = {a.slug for a in existing_articles}
+
+    # Phase 3: Pick top N *new* candidates by importance → synthesize
+    new_candidates: list[tuple[RawArticle, str]] = []
     for article in raw_articles:
         slug = make_slug(article)
-        if is_duplicate(slug, existing_slugs):
-            log.debug("Skip duplicate: %s", slug)
-            continue
-        candidates.append((article, slug))
+        if slug not in existing_slugs:
+            new_candidates.append((article, slug))
 
-    # Take only the top MAX_ARTICLES_PER_RUN by importance score
-    top_candidates = candidates[:MAX_ARTICLES_PER_RUN]
+    new_candidates.sort(key=lambda x: x[0].importance, reverse=True)
+    to_synthesize = new_candidates[:MAX_ARTICLES_PER_RUN]
+
     log.info(
-        "Filtered %d candidates → top %d for synthesis (saving %d AI calls)",
-        len(candidates), len(top_candidates), len(candidates) - len(top_candidates),
+        "Discovered %d new candidates → synthesizing top %d",
+        len(new_candidates), len(to_synthesize),
     )
 
-    # Phase 3: Synthesize only the top articles (AI tokens spent here)
     new_files: list[Path] = []
-    for article, slug in top_candidates:
+    for article, slug in to_synthesize:
         log.info("Synthesizing [%.1f]: %s", article.importance, article.title[:80])
         try:
             body = synthesize(article)
         except Exception as exc:
             log.warning("Synthesis failed for '%s': %s — skipping", article.title[:60], exc)
             continue
-
         path = write_article(article, body, slug)
         new_files.append(path)
-        existing_slugs.add(slug)
+
+    # Phase 4: Build the active homepage pool (last 2 iterations ≈ 50)
+    # Previous active = articles currently with displayOrder < 999
+    prev_active = [a for a in existing_articles if a.displayOrder < 999]
+
+    # Build merged list: newly written + previously active
+    synthesized_slugs = {make_slug(art) for art, _ in to_synthesize
+                         if any(p.stem == make_slug(art) for p in new_files)}  # slugs that actually got written
+    merged: list[dict] = []
+    for article, slug in to_synthesize:
+        cat_dir = CONTENT_DIR / article.category.lower()
+        path = cat_dir / f"{slug}.md"
+        if path.exists():  # only include if synthesis succeeded
+            merged.append({
+                "slug": slug,
+                "importance": article.importance,
+                "is_new": True,
+                "article": article,
+                "path": path,
+            })
+    for ea in prev_active:
+        merged.append({
+            "slug": ea.slug,
+            "importance": ea.importance,
+            "is_new": False,
+            "path": ea.path,
+            "title": ea.title,
+        })
+
+    merged.sort(key=lambda x: x["importance"], reverse=True)
+    top_pool = merged[:homepage_size]
+    top_slugs = {item["slug"] for item in top_pool}
+
+    # Articles that were active but didn't make the new top pool
+    fallen_off = [a for a in prev_active if a.slug not in top_slugs]
+
+    log.info(
+        "Homepage pool: %d articles (cap %d), %d fell off",
+        len(top_pool), homepage_size, len(fallen_off),
+    )
+
+    # Phase 5: Update displayOrder on the active pool + reset fallen-off
+    update_display_order(top_pool, fallen_off)
 
     log.info("Processed %d new articles", len(new_files))
     git_commit_all(new_files)
