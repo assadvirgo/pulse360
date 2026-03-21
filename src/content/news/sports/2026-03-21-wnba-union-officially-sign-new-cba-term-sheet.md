@@ -3,7 +3,7 @@ category: Sports
 description: The WNBA and WNBPA announced they have reached a tentative agreement
   on a new CBA after the two sides officially completed and signed a term sheet for
   the deal.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-21T01:54:05Z'

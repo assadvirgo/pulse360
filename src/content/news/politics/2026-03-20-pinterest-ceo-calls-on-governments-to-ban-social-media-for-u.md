@@ -2,7 +2,7 @@
 category: Politics
 description: Pinterest’s chief compares social media to tobacco and alcohol, saying
   children need similar protections.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 50.0
 pubDate: '2026-03-20T19:01:54Z'

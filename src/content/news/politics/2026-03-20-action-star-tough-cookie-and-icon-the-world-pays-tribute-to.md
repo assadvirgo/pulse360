@@ -2,7 +2,7 @@
 category: Politics
 description: Tributes have been paid to martial arts icon and action movie star Chuck
   Norris, who has died aged 86.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-03-20T20:49:00Z'

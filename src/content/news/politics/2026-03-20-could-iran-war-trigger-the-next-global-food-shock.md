@@ -2,7 +2,7 @@
 category: Politics
 description: From factories to supermarket shelves, the Iran war is disrupting global
   supply chains.
-displayOrder: 29
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-20T16:20:00Z'
