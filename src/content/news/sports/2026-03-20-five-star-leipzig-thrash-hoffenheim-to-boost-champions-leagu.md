@@ -3,7 +3,7 @@ category: Sports
 description: RB Leipzig thrash Hoffenheim 5-0 in the Bundesliga to secure a vital
   win in the race to finish in the top four and qualify for next season's Champions
   League.
-displayOrder: 35
+displayOrder: 42
 heroImage: ''
 importance: 55.2
 pubDate: '2026-03-20T22:08:42Z'

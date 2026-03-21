@@ -3,7 +3,7 @@ category: Sports
 description: Prosecutors allege "drug transactions" were found on Crimson Tide basketball
   star Aden Holloway's phone after he was arrested on a felony drug charge, according
   to documents…
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-21T12:12:30Z'
