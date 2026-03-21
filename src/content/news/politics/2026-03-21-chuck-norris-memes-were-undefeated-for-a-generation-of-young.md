@@ -2,7 +2,7 @@
 category: Politics
 description: Chuck Norris became an inadvertent source of humour for a viral online
   celebration of his movie tough guy persona.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-21T01:03:01Z'
