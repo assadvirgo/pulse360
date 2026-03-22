@@ -1047,17 +1047,16 @@ def main() -> None:
                 top_pool.append(entry)
                 break
 
-    # Any previously active articles not in homepage_pool should be reset
-    prev_active = [ea for ea in existing_articles if ea.displayOrder < 999]
-    fallen_off = [ea for ea in prev_active if ea.slug not in homepage_slugs]
+    # Any article not in homepage_pool should be reset (not just previously active)
+    all_fallen_off = [ea for ea in existing_articles if ea.slug not in homepage_slugs]
 
     log.info(
-        "Homepage pool: %d articles (cap %d), %d fell off",
-        len(top_pool), homepage_size, len(fallen_off),
+        "Homepage pool: %d articles (cap %d), %d reset",
+        len(top_pool), homepage_size, len(all_fallen_off),
     )
 
-    # Phase 5: Update displayOrder on the active pool + reset fallen-off
-    update_display_order(top_pool, fallen_off)
+    # Phase 5: Update displayOrder on the active pool + reset all others
+    update_display_order(top_pool, all_fallen_off)
 
     # Phase 6: Generate batch sitemap and update sitemap index
     generate_batch_sitemap(new_files)
