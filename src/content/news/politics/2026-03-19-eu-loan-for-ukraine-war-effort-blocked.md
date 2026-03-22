@@ -2,6 +2,7 @@
 category: Politics
 description: Hungary is blocking the European Union from providing Ukraine with a
   loan to help its war effort.
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-03-19T23:59:00Z'

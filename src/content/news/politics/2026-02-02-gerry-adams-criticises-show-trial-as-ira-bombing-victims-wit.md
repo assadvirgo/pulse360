@@ -3,6 +3,7 @@ category: Politics
 description: Former Sinn Fein president Gerry Adams has called a High Court case a
   "show trial" at times, after three victims of Provisional IRA bombings in England
   discontinued their damages…
+displayOrder: 999
 heroImage: ''
 importance: 42.0
 pubDate: '2026-02-02T09:31:00Z'

@@ -2,6 +2,7 @@
 category: Politics
 description: Royer Perez-Jimenez died amid a surge of migrant deaths under Donald
   Trump's immigration crackdown.
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-20T07:57:38Z'

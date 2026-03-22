@@ -2,6 +2,7 @@
 category: Sports
 description: Kenneth Walker's departure leaves a hole in a backfield already weakened
   by Zach Charbonnet's injury.
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-03-20T15:50:35Z'

@@ -2,6 +2,7 @@
 category: Sports
 description: A hollowed-out replica of a German Shepherd dog has become Queens University's
   unofficial mascot in its first NCAA tournament.
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-03-20T15:14:12Z'

@@ -3,6 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: The Last of Us has cast two key roles from the second game,
   siblings Yara and Lev. Bridgerton&#8216;s Michelle Mao and Kyriana Kratter (Star
   Wars: Skeleton Crew) are…'
+displayOrder: 999
 heroImage: ''
 importance: 43.0
 pubDate: '2026-03-20T19:39:25Z'

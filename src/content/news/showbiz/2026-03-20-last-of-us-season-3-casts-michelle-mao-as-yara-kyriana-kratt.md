@@ -3,6 +3,7 @@ category: Showbiz
 description: Michelle Mao and Kyriana Kratter have joined &#8220;The Last of Us&#8221;
   Season 3 at HBO, Variety has confirmed. Mao will star as Yara will Kratter will
   play Lev. Returning cast…
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-03-20T20:25:43Z'

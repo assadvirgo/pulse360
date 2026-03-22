@@ -3,6 +3,7 @@ category: Politics
 description: The US Director of National Intelligence, Tulsi Gabbard, was questioned
   over what Democrats perceive as a discrepancy between White House and intelligence
   community claims.
+displayOrder: 999
 heroImage: ''
 importance: 57.2
 pubDate: '2026-03-18T18:38:21Z'

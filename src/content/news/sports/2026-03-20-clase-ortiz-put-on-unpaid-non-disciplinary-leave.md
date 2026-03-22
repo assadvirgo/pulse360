@@ -3,6 +3,7 @@ category: Sports
 description: As they await trial for an alleged pitch-rigging scheme, Guardians pitchers
   Emmanuel Clase and Luis Ortiz were transferred to unpaid non-disciplinary leave
   Friday following an…
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-20T16:53:38Z'

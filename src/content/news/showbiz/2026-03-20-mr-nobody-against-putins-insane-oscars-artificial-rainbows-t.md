@@ -3,6 +3,7 @@ category: Showbiz
 description: 'On a beautiful spring morning in Copenhagen, a newly minted superstar
   walked into the courtyard of the imposing Kunsthal Charlottenborg museum: Danish
   producer Helle Faber, whose…'
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-20T19:41:15Z'

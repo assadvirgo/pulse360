@@ -3,6 +3,7 @@ category: Showbiz
 description: The Israeli auteur on why 'Yes' is his most confrontational film yet,
   the soldier who gave him 10 more minutes and why he thinks America needs to see
   it.
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-03-20T19:11:20Z'

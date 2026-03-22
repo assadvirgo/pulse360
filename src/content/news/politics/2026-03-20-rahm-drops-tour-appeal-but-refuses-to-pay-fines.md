@@ -3,6 +3,7 @@ category: Politics
 description: Jon Rahm drops an appeal against sanctions imposed by the DP World Tour
   for playing in conflicting LIV Golf events, but declines to pay his outstanding
   fines.
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-03-20T21:21:59Z'

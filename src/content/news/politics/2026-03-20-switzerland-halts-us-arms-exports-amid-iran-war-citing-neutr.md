@@ -2,6 +2,7 @@
 category: Politics
 description: Move comes as Swiss government also closed its airspace to US military
   flights directly linked to the Iran war.
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-20T15:29:24Z'

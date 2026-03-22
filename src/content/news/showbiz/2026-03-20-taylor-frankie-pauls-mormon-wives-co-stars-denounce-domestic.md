@@ -3,6 +3,7 @@ category: Showbiz
 description: Taylor Frankie Paul&#8217;s Secret Lives of Mormon Wives co-stars are
   speaking out amid the fallout from a domestic abuse investigation that put the Hulu
   series on pause. Filming…
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-03-20T19:25:55Z'

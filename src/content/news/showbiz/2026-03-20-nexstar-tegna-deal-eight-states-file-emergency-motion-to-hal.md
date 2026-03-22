@@ -3,6 +3,7 @@ category: Showbiz
 description: Nexstar Media Group declared Thursday that its $6.2 billion takeover
   of rival TV station company Tegna had closed &#8212; but now eight state attorneys
   general seeking to block…
+displayOrder: 999
 heroImage: ''
 importance: 45.8
 pubDate: '2026-03-20T20:47:23Z'

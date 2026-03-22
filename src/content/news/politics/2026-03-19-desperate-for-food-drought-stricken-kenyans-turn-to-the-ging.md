@@ -2,6 +2,7 @@
 category: Politics
 description: Some 26 million people are "facing extreme hunger" in Kenya, Ethiopia
   and Somalia, warns humanitarian organisation Oxfam.
+displayOrder: 999
 heroImage: ''
 importance: 57.2
 pubDate: '2026-03-19T21:06:24Z'

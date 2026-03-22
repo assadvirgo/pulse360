@@ -2,6 +2,7 @@
 category: Politics
 description: Former boxing world champion Ricky Hatton was found "unresponsive" at
   his home in September.
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-03-20T15:20:40Z'

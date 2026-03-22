@@ -2,6 +2,7 @@
 category: Politics
 description: Manchester City boss Pep Guardiola refuses to talk rivalry with Arsenal
   at a time when &#039;the world is going to collapse&#039;.
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-20T15:47:05Z'

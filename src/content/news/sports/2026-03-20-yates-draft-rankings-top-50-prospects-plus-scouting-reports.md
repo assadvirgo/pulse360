@@ -2,6 +2,7 @@
 category: Sports
 description: Who are the best players in this year's class? Where do they stand out?
   Field Yates stacks his top 50 prospects.
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-03-20T17:48:46Z'

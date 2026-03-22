@@ -3,6 +3,7 @@ category: Showbiz
 description: Ryland Grace’s (Ryan Gosling) and Rocky’s (James Ortiz) space odyssey
   has several meaningful needle drops behind it. Even before Ryland is sent to space
   on the titular spaceship…
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-03-20T19:34:30Z'

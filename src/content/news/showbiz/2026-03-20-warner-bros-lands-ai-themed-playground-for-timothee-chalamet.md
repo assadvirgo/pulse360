@@ -3,6 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: Warner Bros. Pictures has closed a film-rights deal for the
   New York Times bestseller Playground by Richard Powers. Plan B, Timothée Chalamet
   and Brian Swardstrom are…'
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-03-20T14:33:28Z'

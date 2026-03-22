@@ -3,6 +3,7 @@ category: Showbiz
 description: 'UPDATED, Friday PM: Amazon MGM Studios&#8217; Project Hail Mary is shooting
   for a massive $31M today (including previews) and the best opening of 2026 so far
   with $71.1M at 4,007…'
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-03-20T20:28:00Z'

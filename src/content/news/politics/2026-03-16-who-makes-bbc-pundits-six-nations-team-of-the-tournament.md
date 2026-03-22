@@ -2,6 +2,7 @@
 category: Politics
 description: BBC Sport pundits John Barclay and Sam Warburton picks for their teams
   of the tournament for the 2026 Six Nations.
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-03-16T10:45:04Z'

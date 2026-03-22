@@ -3,6 +3,7 @@ category: Showbiz
 description: Langston Kerman has joined the cast of NBC&#8217;s currently untitled
   comedy pilot written by Dan Goor and Luke Del Tredici. He will play Justin Royal,
   who is described as…
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-03-20T14:45:00Z'

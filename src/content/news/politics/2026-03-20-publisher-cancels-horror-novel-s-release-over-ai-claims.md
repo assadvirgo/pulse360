@@ -2,6 +2,7 @@
 category: Politics
 description: Author Mia Ballard denies having used AI herself when writing the horror
   story Shy Girl.
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-03-20T15:30:58Z'

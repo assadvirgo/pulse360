@@ -2,6 +2,7 @@
 category: Politics
 description: The darts star's image has been used legally on darts merchandise, snacks
   and fashion brands.
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-03-20T16:16:30Z'

@@ -2,6 +2,7 @@
 category: Politics
 description: The Australian prime minister was booed by protesters during a visit
   to the country's largest mosque.
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-03-20T05:41:00Z'

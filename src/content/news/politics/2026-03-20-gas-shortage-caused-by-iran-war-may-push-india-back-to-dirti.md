@@ -2,6 +2,7 @@
 category: Politics
 description: Reports from across India point to rising sales of biomass fuels like
   firewood and cow dung cakes.
+displayOrder: 999
 heroImage: ''
 importance: 57.2
 pubDate: '2026-03-20T00:59:29Z'

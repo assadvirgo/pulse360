@@ -3,6 +3,7 @@ category: Showbiz
 description: 'SPOILER ALERT: This article contains major spoilers for “Peaky Blinders:
   The Immortal Man,” which premiered on Netflix on March 20. After six seasons of
   “Peaky Blinders,” Tommy…'
+displayOrder: 999
 heroImage: ''
 importance: 41.8
 pubDate: '2026-03-20T21:00:00Z'

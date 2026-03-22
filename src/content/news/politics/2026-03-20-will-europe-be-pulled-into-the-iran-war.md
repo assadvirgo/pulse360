@@ -2,6 +2,7 @@
 category: Politics
 description: Europe is under pressure as Trump pushes allies to support the Iran war.
   How are they responding?
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-20T20:09:28Z'

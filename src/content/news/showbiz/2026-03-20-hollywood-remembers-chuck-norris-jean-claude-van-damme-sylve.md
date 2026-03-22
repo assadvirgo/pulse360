@@ -3,6 +3,7 @@ category: Showbiz
 description: Jean-Claude-Van Damme, Sylvester Stallone, Dolph Lundgren and Stephen
   King are among those paying tribute to Chuck Norris, the veteran action film and
   Walker, Texas Ranger star,…
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-03-20T14:08:18Z'

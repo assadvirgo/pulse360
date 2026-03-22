@@ -2,6 +2,7 @@
 category: Politics
 description: Just under 100 ships have passed thorough the Strait of Hormuz since
   the start of March, according to data analysed by BBC Verify.
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-03-20T00:04:57Z'
