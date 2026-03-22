@@ -2,7 +2,7 @@
 category: Politics
 description: With the war in its fourth week, the Trump administration sends contradictory
   messages on how to proceed.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-22T11:51:27Z'

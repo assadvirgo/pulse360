@@ -3,7 +3,7 @@ category: Tech
 description: An anonymous Substack post accuses compliance startup Delve of “falsely”
   convincing “hundreds of customers they were compliant” with privacy and security
   regulations.
-displayOrder: 37
+displayOrder: 38
 heroImage: ''
 importance: 46.0
 pubDate: '2026-03-22T11:43:51Z'

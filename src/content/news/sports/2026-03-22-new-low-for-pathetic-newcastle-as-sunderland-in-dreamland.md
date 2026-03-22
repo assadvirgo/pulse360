@@ -2,7 +2,7 @@
 category: Sports
 description: From mocking and celebration to despair and disbelief - Newcastle fans
   go through every emotion as their poor Tyne-Wear derby record continues.
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 59.2
 pubDate: '2026-03-22T17:08:28Z'

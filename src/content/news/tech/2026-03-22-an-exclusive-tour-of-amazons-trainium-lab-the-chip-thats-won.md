@@ -2,7 +2,7 @@
 category: Tech
 description: Shortly after Amazon announced its $50 billion investment in OpenAI,
   AWS invited me on a private tour of the chip lab at the heart of the deal.
-displayOrder: 26
+displayOrder: 31
 heroImage: ''
 importance: 57.0
 pubDate: '2026-03-22T12:00:00Z'

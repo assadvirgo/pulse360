@@ -3,7 +3,7 @@ category: Showbiz
 description: After exiting social media in 2024, Barry Keoghan recently got candid
   about the toll online abuse has taken on his career. The Oscar nominee, who has
   been filming his part of the…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-03-22T17:19:25Z'
