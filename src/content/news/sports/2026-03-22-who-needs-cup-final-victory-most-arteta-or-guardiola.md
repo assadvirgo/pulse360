@@ -2,7 +2,7 @@
 category: Sports
 description: Premier League leaders Arsenal face title rivals Manchester City in the
   EFL Cup final on Sunday, but how important could the result prove in title race?
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-03-22T06:09:00Z'
