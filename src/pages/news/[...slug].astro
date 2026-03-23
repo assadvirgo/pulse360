@@ -44,23 +44,25 @@ const related = allArticles
   readingTime={readingTime}
 >
   <Content />
-</ArticleLayout>
 
-{related.length > 0 && (
-  <section class="max-w-6xl mx-auto px-6 pb-16">
-    <div class="flex items-center gap-4 mb-6">
-      <h2 class="text-sm font-semibold uppercase tracking-widest text-[var(--color-muted)]">Related stories</h2>
-      <div class="flex-1 h-px bg-[var(--color-border)]"></div>
-    </div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {related.map(({ article: r }) => (
-        <ArticleCard
-          id={r.id}
-          slug={r.id}
-          readingTime={getReadingTime(r.body ?? '')}
-          {...r.data}
-        />
-      ))}
-    </div>
-  </section>
-)}
+  <Fragment slot="after-article">
+    {related.length > 0 && (
+      <section class="max-w-6xl mx-auto px-6 pb-16 pt-10">
+        <div class="flex items-center gap-4 mb-6">
+          <h2 class="text-sm font-semibold uppercase tracking-widest text-[var(--color-muted)]">Related stories</h2>
+          <div class="flex-1 h-px bg-[var(--color-border)]"></div>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {related.map(({ article: r }) => (
+            <ArticleCard
+              id={r.id}
+              slug={r.id}
+              readingTime={getReadingTime(r.body ?? '')}
+              {...r.data}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+  </Fragment>
+</ArticleLayout>

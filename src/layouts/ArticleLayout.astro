@@ -134,6 +134,8 @@ const articleJsonLd = {
     </div>
   </article>
 
+  <slot name="after-article" />
+
   <script>
     const bar = document.getElementById('progress-bar');
     document.addEventListener('scroll', () => {
