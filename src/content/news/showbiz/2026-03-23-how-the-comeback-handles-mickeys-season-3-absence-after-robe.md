@@ -3,7 +3,7 @@ category: Showbiz
 description: 'SPOILER: This post contains details about The Comeback, Season 3 premiere
   episode &#8216;Valerie Gets a New Chapter&#8217; Nine years after actor Robert Michael
   Morris&#8217;…'
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 51.0
 pubDate: '2026-03-23T03:30:00Z'

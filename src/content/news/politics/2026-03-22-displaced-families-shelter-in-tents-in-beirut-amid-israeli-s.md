@@ -2,7 +2,7 @@
 category: Politics
 description: Families displaced by Israeli strikes are sheltering in tents across
   Beirut, as rain falls.
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 51.5
 pubDate: '2026-03-22T20:33:30Z'

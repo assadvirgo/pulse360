@@ -3,7 +3,7 @@ category: Sports
 description: On Sunday, there was one stat that couldn't be easily dismissed -- the
   margin of defeat. The Wildcats' 19-point loss in an 82-63 defeat against Iowa State
   was Kentucky's largest…
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-23T01:10:09Z'
