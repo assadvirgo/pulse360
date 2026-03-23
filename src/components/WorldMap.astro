@@ -1,0 +1,139 @@
+---
+/**
+ * Interactive SVG world-map with clickable regions.
+ * Each region highlights on hover and links to /country/<code>.
+ * Regions with articles get an accent fill; others stay muted.
+ */
+interface Props {
+  /** Set of country codes that have at least one article */
+  activeCodes?: Set<string>;
+}
+
+const { activeCodes = new Set() } = Astro.props;
+
+// Regions map: simplified world regions → representative SVG rect areas
+// We use a stylised grid-map (cartogram) rather than a true geographic SVG
+// for simplicity, accessibility, and tiny bundle size.
+const regions: { code: string; name: string; x: number; y: number; w: number; h: number }[] = [
+  // North America
+  { code: 'US', name: 'United States', x: 60, y: 100, w: 80, h: 50 },
+  { code: 'CA', name: 'Canada', x: 60, y: 50, w: 80, h: 45 },
+  { code: 'MX', name: 'Mexico', x: 60, y: 155, w: 50, h: 35 },
+  // South America
+  { code: 'BR', name: 'Brazil', x: 160, y: 210, w: 60, h: 60 },
+  { code: 'AR', name: 'Argentina', x: 145, y: 275, w: 40, h: 50 },
+  { code: 'CO', name: 'Colombia', x: 125, y: 175, w: 35, h: 30 },
+  // Europe
+  { code: 'GB', name: 'United Kingdom', x: 295, y: 65, w: 25, h: 30 },
+  { code: 'FR', name: 'France', x: 305, y: 100, w: 30, h: 30 },
+  { code: 'DE', name: 'Germany', x: 340, y: 75, w: 25, h: 30 },
+  { code: 'IT', name: 'Italy', x: 340, y: 110, w: 20, h: 35 },
+  { code: 'ES', name: 'Spain', x: 285, y: 115, w: 30, h: 25 },
+  { code: 'UA', name: 'Ukraine', x: 390, y: 75, w: 35, h: 25 },
+  { code: 'PL', name: 'Poland', x: 365, y: 68, w: 25, h: 25 },
+  { code: 'RO', name: 'Romania', x: 375, y: 100, w: 25, h: 22 },
+  // Africa
+  { code: 'NG', name: 'Nigeria', x: 330, y: 200, w: 30, h: 30 },
+  { code: 'ZA', name: 'South Africa', x: 365, y: 300, w: 35, h: 30 },
+  { code: 'EG', name: 'Egypt', x: 380, y: 145, w: 30, h: 30 },
+  { code: 'KE', name: 'Kenya', x: 400, y: 225, w: 25, h: 25 },
+  { code: 'ET', name: 'Ethiopia', x: 400, y: 195, w: 30, h: 25 },
+  // Middle East
+  { code: 'SA', name: 'Saudi Arabia', x: 420, y: 155, w: 40, h: 35 },
+  { code: 'IL', name: 'Israel', x: 400, y: 140, w: 15, h: 18 },
+  { code: 'IR', name: 'Iran', x: 465, y: 120, w: 40, h: 35 },
+  { code: 'TR', name: 'Turkey', x: 400, y: 105, w: 40, h: 22 },
+  { code: 'AE', name: 'UAE', x: 450, y: 160, w: 20, h: 15 },
+  // Asia
+  { code: 'CN', name: 'China', x: 540, y: 100, w: 70, h: 55 },
+  { code: 'IN', name: 'India', x: 500, y: 155, w: 45, h: 55 },
+  { code: 'JP', name: 'Japan', x: 640, y: 100, w: 25, h: 40 },
+  { code: 'KR', name: 'South Korea', x: 625, y: 105, w: 18, h: 20 },
+  { code: 'ID', name: 'Indonesia', x: 580, y: 220, w: 55, h: 25 },
+  { code: 'PK', name: 'Pakistan', x: 480, y: 130, w: 30, h: 30 },
+  { code: 'TH', name: 'Thailand', x: 565, y: 170, w: 20, h: 30 },
+  { code: 'PH', name: 'Philippines', x: 620, y: 175, w: 20, h: 30 },
+  // Oceania
+  { code: 'AU', name: 'Australia', x: 590, y: 280, w: 65, h: 50 },
+  { code: 'NZ', name: 'New Zealand', x: 670, y: 320, w: 20, h: 30 },
+  // Russia (spans wide)
+  { code: 'RU', name: 'Russia', x: 420, y: 30, w: 200, h: 40 },
+];
+---
+
+<div class="world-map-container w-full overflow-x-auto">
+  <svg
+    viewBox="0 0 720 380"
+    xmlns="http://www.w3.org/2000/svg"
+    class="w-full max-w-4xl mx-auto"
+    role="img"
+    aria-label="World map showing countries with news coverage"
+  >
+    <!-- Background -->
+    <rect width="720" height="380" fill="var(--color-surface)" rx="12" />
+
+    <!-- Grid lines for visual context -->
+    <g opacity="0.08" stroke="var(--color-ink)">
+      {Array.from({ length: 8 }, (_, i) => (
+        <line x1={i * 90} y1="0" x2={i * 90} y2="380" stroke-width="0.5" />
+      ))}
+      {Array.from({ length: 5 }, (_, i) => (
+        <line x1="0" y1={i * 76} x2="720" y2={i * 76} stroke-width="0.5" />
+      ))}
+    </g>
+
+    <!-- Country tiles -->
+    {regions.map(r => {
+      const hasArticles = activeCodes.has(r.code);
+      return (
+        <a href={`${import.meta.env.BASE_URL}country/${r.code}`} class="map-region">
+          <rect
+            x={r.x}
+            y={r.y}
+            width={r.w}
+            height={r.h}
+            rx="4"
+            fill={hasArticles ? 'var(--color-accent)' : 'var(--color-border)'}
+            opacity={hasArticles ? '0.7' : '0.4'}
+            stroke={hasArticles ? 'var(--color-accent)' : 'var(--color-muted)'}
+            stroke-width={hasArticles ? '1.5' : '0.5'}
+            class="transition-all duration-200"
+          />
+          <text
+            x={r.x + r.w / 2}
+            y={r.y + r.h / 2 + 1}
+            text-anchor="middle"
+            dominant-baseline="central"
+            font-size={r.w < 25 ? '7' : '9'}
+            font-weight={hasArticles ? '600' : '400'}
+            fill={hasArticles ? 'white' : 'var(--color-muted)'}
+            class="pointer-events-none select-none"
+            style="font-family: var(--font-ui)"
+          >
+            {r.code}
+          </text>
+        </a>
+      );
+    })}
+  </svg>
+</div>
+
+<style>
+  .map-region:hover rect {
+    opacity: 0.9 !important;
+    fill: var(--color-accent);
+    stroke: var(--color-accent);
+    stroke-width: 2;
+  }
+  .map-region:hover text {
+    fill: white;
+    font-weight: 600;
+  }
+  .map-region {
+    cursor: pointer;
+  }
+  .map-region:focus-visible rect {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+</style>

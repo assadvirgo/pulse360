@@ -75,6 +75,10 @@ const catLower = category.toLowerCase();
         </span>
       </div>
       <div class="flex items-center gap-2">
+        {countryCode && (
+          <a href={`${import.meta.env.BASE_URL}country/${countryCode}`} class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-[var(--color-accent-soft)] text-[var(--color-accent)] hover:bg-[var(--color-accent)] hover:text-white transition-colors">{countryCode}</a>
+        )}
+        {countryCode && <span class="text-xs text-[var(--color-muted)] opacity-40">&middot;</span>}
         {readingTime && (
           <span class="text-xs text-[var(--color-muted)] tabular-nums">{readingTime} min read</span>
         )}

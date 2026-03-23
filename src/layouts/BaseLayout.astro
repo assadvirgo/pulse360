@@ -106,6 +106,13 @@ const canon = canonicalUrl ?? Astro.url.href;
 
         <div class="flex items-center gap-3">
           <a
+            href={`${import.meta.env.BASE_URL}country`}
+            class="text-sm tracking-wider uppercase text-[var(--color-muted)] hover:text-[var(--color-ink)] transition-colors font-medium"
+          >
+            Countries
+          </a>
+          <div class="w-px h-4 bg-[var(--color-border)]"></div>
+          <a
             href={`${import.meta.env.BASE_URL}archive`}
             class="text-sm tracking-wider uppercase text-[var(--color-muted)] hover:text-[var(--color-ink)] transition-colors font-medium"
           >
