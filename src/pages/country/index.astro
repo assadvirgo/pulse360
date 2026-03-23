@@ -1,0 +1,80 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import WorldMap from '../../components/WorldMap.astro';
+
+const allArticles = await getCollection('news');
+
+// Build country counts — only articles with a non-empty countryCode
+const countryCounts: Record<string, { name: string; count: number }> = {};
+for (const a of allArticles) {
+  const code = a.data.countryCode;
+  const name = a.data.country;
+  if (code) {
+    if (!countryCounts[code]) {
+      countryCounts[code] = { name: name || code, count: 0 };
+    }
+    countryCounts[code].count++;
+  }
+}
+
+const activeCodes = new Set(Object.keys(countryCounts));
+const sortedCountries = Object.entries(countryCounts)
+  .sort((a, b) => b[1].count - a[1].count);
+const totalTagged = sortedCountries.reduce((s, [, v]) => s + v.count, 0);
+---
+
+<BaseLayout title="Countries" description="Browse news by country and region on pulse360.">
+  <section class="max-w-6xl mx-auto px-6 pt-14 pb-6">
+    <div class="flex items-center gap-4 mb-2">
+      <a
+        href={`${import.meta.env.BASE_URL}`}
+        class="inline-flex items-center gap-1 text-sm font-medium uppercase tracking-widest text-[var(--color-muted)] hover:text-[var(--color-accent)] transition-colors"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+        Feed
+      </a>
+      <div class="w-px h-4 bg-[var(--color-border)]"></div>
+      <h1 class="text-xl sm:text-2xl font-bold text-[var(--color-ink)]" style="font-family: var(--font-prose)">
+        Countries
+      </h1>
+    </div>
+    <p class="text-sm text-[var(--color-muted)] mb-10 opacity-60">
+      {sortedCountries.length} countries &middot; {totalTagged} tagged articles
+    </p>
+
+    <!-- World Map -->
+    <div class="mb-12 rounded-2xl border border-[var(--color-border)] overflow-hidden" style="box-shadow: var(--shadow-card)">
+      <WorldMap activeCodes={activeCodes} />
+    </div>
+
+    <!-- Country list -->
+    {sortedCountries.length === 0 ? (
+      <div class="text-center py-16 text-[var(--color-muted)]">
+        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="mx-auto mb-4 opacity-30"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        <p class="text-lg">No country-tagged articles yet.</p>
+        <p class="text-sm mt-2 opacity-60">Articles will be tagged with countries during the next research run.</p>
+      </div>
+    ) : (
+      <div>
+        <div class="flex items-center gap-4 mb-6">
+          <h2 class="text-sm font-semibold uppercase tracking-widest text-[var(--color-muted)]">All countries</h2>
+          <div class="flex-1 h-px bg-[var(--color-border)]"></div>
+        </div>
+        <div class="flex flex-wrap gap-2">
+          {sortedCountries.map(([code, { name, count }]) => (
+            <a
+              href={`${import.meta.env.BASE_URL}country/${code}`}
+              class="inline-flex items-center gap-2 px-3 py-2 rounded-lg text-sm border border-[var(--color-border)] bg-[var(--color-surface)] text-[var(--color-muted)] hover:text-[var(--color-accent)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all"
+              style="box-shadow: var(--shadow-card)"
+            >
+              <span class="font-medium text-[var(--color-ink)]">{name}</span>
+              <span class="text-xs font-mono px-1.5 py-0.5 rounded bg-[var(--color-accent-soft)] text-[var(--color-accent)]">{code}</span>
+              <span class="text-xs opacity-50 tabular-nums">{count}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+  </section>
+</BaseLayout>
