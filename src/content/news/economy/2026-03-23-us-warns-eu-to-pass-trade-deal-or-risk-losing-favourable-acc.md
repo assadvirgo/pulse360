@@ -2,7 +2,7 @@
 category: Economy
 description: European parliament set to vote this week on whether to ratify Turnberry
   agreement signed last year
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-23T14:09:08Z'

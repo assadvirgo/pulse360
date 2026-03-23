@@ -3,7 +3,7 @@ category: Showbiz
 description: 'Singapore’s August Media Group has boarded upcoming animated feature
   film&#160;“Malika: Warrior Queen” from U.S.-based Nigerian author and director Roye
   Okupe, creator of hit…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-03-23T15:43:48Z'

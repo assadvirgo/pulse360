@@ -2,7 +2,7 @@
 category: Economy
 description: For restaurants and food companies, the increasing adoption of GLP-1
   drugs present both an opportunity and a threat to their businesses.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-23T13:31:07Z'

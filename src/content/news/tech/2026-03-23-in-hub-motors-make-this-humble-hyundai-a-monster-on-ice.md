@@ -3,7 +3,7 @@ category: Tech
 description: In-wheel motors have been around since the very beginning of electric
   motoring. Ferdinand Porsche developed one way back in 1900, and the US sent them
   to the moon in our Lunar…
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-03-23T15:33:23Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Jospin was head of government from 1997 to 2002 and is credited with
   bringing in the 35-hour working week.
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-23T11:29:26Z'

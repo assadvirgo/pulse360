@@ -2,7 +2,7 @@
 category: Politics
 description: The Israeli tactics of mass expulsion of Lebanese civilians risk directly
   violating international law.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-23T09:21:19Z'
