@@ -1,0 +1,25 @@
+{
+  "name": "pulse360",
+  "short_name": "pulse360",
+  "description": "AI-synthesized global news, refreshed every 4 hours. No ads, no noise.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#6d8c5e",
+  "orientation": "any",
+  "categories": ["news", "magazines"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
