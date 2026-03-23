@@ -2,7 +2,7 @@
 category: Politics
 description: Strikes intensify across Gaza as health officials say 680 Palestinians
   have been killed since October&#039;s &#039;ceasefire&#039;.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-22T20:17:33Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Supermarket executive chair proposes move to limit earnings during exceptional
   market conditions
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-03-23T00:10:12Z'

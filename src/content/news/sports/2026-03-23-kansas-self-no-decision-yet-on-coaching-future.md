@@ -3,7 +3,7 @@ category: Sports
 description: Longtime Kansas coach Bill Self said after Sunday's season-ending loss
   to St. John's that he has not yet made a decision about his coaching future, later
   adding that any decision…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-23T04:04:00Z'

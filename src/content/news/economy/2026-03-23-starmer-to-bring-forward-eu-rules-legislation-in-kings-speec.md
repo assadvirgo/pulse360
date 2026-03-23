@@ -2,7 +2,7 @@
 category: Economy
 description: Some Labour officials hope bill will provoke Brexit dispute with Tories
   and Reform UK
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-23T05:00:25Z'
