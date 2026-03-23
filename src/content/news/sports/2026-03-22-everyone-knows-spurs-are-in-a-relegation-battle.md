@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Coach Bruno Saltor admits everyone at Tottenham is aware they are in
   a relegation battle, and says a 3-0 Premier League defeat at home to fellow strugglers
   Nottingham Forest was a…

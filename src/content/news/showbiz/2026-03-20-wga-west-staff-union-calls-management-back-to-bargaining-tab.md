@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Writers Guild of America West chief negotiator Ellen Stutzman was likely
   wrapping up her first week of talks with the major Hollywood studios Friday afternoon
   when the…

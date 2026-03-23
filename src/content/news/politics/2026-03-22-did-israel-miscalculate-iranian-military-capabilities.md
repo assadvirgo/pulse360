@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Iranian attacks on Arad and Dimona near Israeli nuclear site raise serious
   questions about Israel&#039;s defence strategy.
 displayOrder: 999

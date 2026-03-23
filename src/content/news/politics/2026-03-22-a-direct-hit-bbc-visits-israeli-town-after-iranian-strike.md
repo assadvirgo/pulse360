@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: The BBC's Sebastian Usher reports from Dimona in southern Israel, which
   was hit by an Iranian missile.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: The threshold the Israeli authorities have set for the use of a nuclear
   weapon is dangerously low.
 displayOrder: 999

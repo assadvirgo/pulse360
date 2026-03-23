@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Canada
+countryCode: CA
 description: The pilot and co-pilot were killed, and in total, 41 passengers were
   taken to hospital, along with two firefighters.
 displayOrder: 1

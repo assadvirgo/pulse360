@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Nicholas Brendon, who played Xander Harris on &#8220;Buffy the Vampire
   Slayer&#8221; and Kevin Lynch on &#8220;Criminal Minds,&#8221; died in his sleep
   Friday, according to a…

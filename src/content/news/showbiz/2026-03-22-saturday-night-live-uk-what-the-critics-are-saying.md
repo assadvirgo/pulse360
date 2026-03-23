@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Saturday Night Live UK debuted last night 50 years after its U.S. inspiration
   launched in the U.S. as NBC’s Saturday Night. Tina Fey, so instrumental in SNL‘s
   modern era, was…

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Israel
+countryCode: IL
 description: Perpetual war and fading American popular support is a formula for disaster
 displayOrder: 999
 heroImage: ''

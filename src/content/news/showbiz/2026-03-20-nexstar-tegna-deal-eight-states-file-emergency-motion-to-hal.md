@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Nexstar Media Group declared Thursday that its $6.2 billion takeover
   of rival TV station company Tegna had closed &#8212; but now eight state attorneys
   general seeking to block…

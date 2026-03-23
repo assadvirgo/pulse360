@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: Ireland
+countryCode: IE
 description: Screening in the International Panorama at Series Mania, Europe’s largest
   TV showcase running March 20–27 in Lille, France, RTÉ comedy-drama “These Sacred
   Vows” arrives as part of…

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Scout Motors’ distinct identity is a radical move for Volkswagen, but
   it faces stiff dealer opposition
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Strikes intensify across Gaza as health officials say 680 Palestinians
   have been killed since October&#039;s &#039;ceasefire&#039;.
 displayOrder: 999

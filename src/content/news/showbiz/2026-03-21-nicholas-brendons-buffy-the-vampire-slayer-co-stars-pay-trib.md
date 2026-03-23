@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: As fans and loved ones mourn the death of Nicholas Brendon, his Buffy
   the Vampire Slayer co-stars are paying tribute. Following Brendon&#8217;s death
   at age 54, the cast of the WB…

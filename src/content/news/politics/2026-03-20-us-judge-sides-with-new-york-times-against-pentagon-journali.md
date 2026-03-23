@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: In his ruling, Judge Paul Friedman ruled the Trump administration sought
   to force out &#039;disfavoured journalists&#039;.
 displayOrder: 999

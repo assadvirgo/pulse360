@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: ''
+countryCode: HK
 description: Those who do not comply can be jailed for up to a year and fined up to
   HK$100,000 ($12,700; £9,600).
 displayOrder: 40

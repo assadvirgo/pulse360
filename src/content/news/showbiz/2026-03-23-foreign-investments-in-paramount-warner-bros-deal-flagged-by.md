@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: The senators called for a full review of investments from Middle Eastern
   sovereign wealth funds and Tencent, which they say could influence editorial decisions
   at news outlets…

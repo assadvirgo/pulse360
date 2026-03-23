@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Watch the moment an Iranian strike hits what appears to be a bridge in
   central Tel Aviv, startling pedestrians nearby.
 displayOrder: 999

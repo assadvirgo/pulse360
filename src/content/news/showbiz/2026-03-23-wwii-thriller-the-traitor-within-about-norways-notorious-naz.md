@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: Norway
+countryCode: 'NO'
 description: WWII thriller ‘The Traitor Within’ has debuted exclusive behind-the-scenes
   images ahead of the Series Mania Buyers Upfront on Monday March 23. Based on the
   true story of Norway’s…

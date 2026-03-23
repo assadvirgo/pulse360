@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Australia
+countryCode: AU
 description: Australia's three-match series in West Indies is crucial in the build-up
   to the T20 World Cup later this year
 displayOrder: 999

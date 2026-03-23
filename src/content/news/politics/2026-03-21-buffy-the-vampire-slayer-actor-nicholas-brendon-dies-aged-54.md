@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Brendon died of "natural causes", his family said in a statement, remembering
   him as "passionate" and "sensitive".
 displayOrder: 999

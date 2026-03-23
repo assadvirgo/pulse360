@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Norway
+countryCode: 'NO'
 description: Manchester United and Norway winger Celin Bizet Donnum discusses how
   she's balancing her pregnancy along with a desire to get back on the football pitch.
 displayOrder: 999

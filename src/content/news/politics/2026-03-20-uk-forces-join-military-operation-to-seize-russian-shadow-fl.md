@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: UK forces have joined a military operation with the French navy in the
   Mediterranean to seize an oil tanker, alleged to be part of Russia's shadow fleet.
 displayOrder: 999

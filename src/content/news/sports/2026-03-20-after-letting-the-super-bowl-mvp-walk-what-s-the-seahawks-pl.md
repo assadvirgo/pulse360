@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Kenneth Walker's departure leaves a hole in a backfield already weakened
   by Zach Charbonnet's injury.
 displayOrder: 999

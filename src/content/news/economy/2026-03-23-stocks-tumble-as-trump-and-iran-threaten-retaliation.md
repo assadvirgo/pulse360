@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: Explosions rock Tehran as Israel’s military says it has launched ‘wave
   of extensive strikes targeting infrastructure’
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Robert Mueller oversaw the probe into alleged Russian interference during
   the 2016 United States election.
 displayOrder: 999

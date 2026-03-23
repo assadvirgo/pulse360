@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: The borrowers, including Harvard, Princeton and Yale, benefit from a
   “prestige premium”
 displayOrder: 999

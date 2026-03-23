@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Sri Lanka
+countryCode: LK
 description: President Anura Kumara Dissanayake says request made on February 26,
   two days before US and Israel launched war on Iran.
 displayOrder: 999

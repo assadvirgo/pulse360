@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Spain
+countryCode: ES
 description: Madrid host rivals Atletico at the Santiago Bernabeu as they aim to stay
   in touch with Barca, who are four points clear.
 displayOrder: 999

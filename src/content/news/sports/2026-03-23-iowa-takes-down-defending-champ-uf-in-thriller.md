@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Alvaro Folgueiras nailed a 3-pointer with 4.5 seconds remaining, and
   Iowa eliminated defending national champion Florida in the second round of the men's
   NCAA tournament.

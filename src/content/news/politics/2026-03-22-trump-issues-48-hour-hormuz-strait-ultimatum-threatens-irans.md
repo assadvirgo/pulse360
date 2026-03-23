@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Iran responds to Trump&#039;s threat by saying all US energy infrastructure
   in the region will be targeted if it is attacked.
 displayOrder: 999

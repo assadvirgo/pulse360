@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Trump threatens to hit Iranian energy sites if the Strait of Hormuz is
   not reopened; Tehran vows to retaliate.
 displayOrder: 999

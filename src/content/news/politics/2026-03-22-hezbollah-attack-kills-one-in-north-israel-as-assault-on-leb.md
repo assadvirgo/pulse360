@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Hezbollah has been launching attacks in response to US-Israel war on
   Iran as more Israeli troops enter southern Lebanon.
 displayOrder: 999

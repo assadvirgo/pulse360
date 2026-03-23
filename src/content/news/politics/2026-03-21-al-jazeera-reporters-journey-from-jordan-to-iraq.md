@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Jordan
+countryCode: JO
 description: Al Jazeera’s Nicolas Haque recorded his journey on the long road from
   Amman to Baghdad.
 displayOrder: 999

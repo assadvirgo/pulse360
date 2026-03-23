@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: With the war in its fourth week, the Trump administration sends contradictory
   messages on how to proceed.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Sunday's Carabao Cup final could help tell us whether Arsenal can win
   the Premier League or if this might be the end for Pep Guardiola at Man City.
 displayOrder: 999

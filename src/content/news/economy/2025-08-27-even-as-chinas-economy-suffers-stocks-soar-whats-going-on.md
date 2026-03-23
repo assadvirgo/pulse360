@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: China
+countryCode: CN
 description: The Shanghai composite is defying gravity
 displayOrder: 999
 heroImage: ''

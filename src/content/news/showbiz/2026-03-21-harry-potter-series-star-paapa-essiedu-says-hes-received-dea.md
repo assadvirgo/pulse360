@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: “Harry Potter” actor Paapa Essiedu says he has received race-fuelled
   death threats over his casting as Professor Snape in the upcoming HBO Max adaptation.
   “I’ve been told, ‘Quit…

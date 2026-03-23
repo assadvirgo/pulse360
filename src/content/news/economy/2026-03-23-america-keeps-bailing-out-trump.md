@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: The country’s underlying strengths are absorbing his erratic choices,
   including the war on Iran
 displayOrder: 999

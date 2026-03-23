@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: At least 15 people have been killed by attacks in Israel since the war
   on Iran started late last month.
 displayOrder: 999

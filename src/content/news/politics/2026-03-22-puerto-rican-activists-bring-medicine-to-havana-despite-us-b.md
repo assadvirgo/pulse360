@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: ''
+countryCode: PR
 description: Puerto Rican activists brought suitcases filled with medicine and medical
   supplies to Havana despite US blockade.
 displayOrder: 999

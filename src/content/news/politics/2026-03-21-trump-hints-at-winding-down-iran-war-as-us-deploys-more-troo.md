@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Trump says he is not looking for a ceasefire with Iran as mixed messages
   from US president come amid an escalating war.
 displayOrder: 999

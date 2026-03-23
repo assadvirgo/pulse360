@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: A six-time karate champion and action film star, Norris was hospitalised
   in Hawaii on Thursday for unknown causes.
 displayOrder: 999

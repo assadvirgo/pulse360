@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Bahrain
+countryCode: BH
 description: Bahrain&#039;s account differs from how the US military described the
   March 9 incident, which led to civilian injuries.
 displayOrder: 999

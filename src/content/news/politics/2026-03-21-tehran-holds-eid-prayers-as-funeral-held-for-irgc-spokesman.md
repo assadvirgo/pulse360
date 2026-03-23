@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Eid al-Fitr prayers were held in Tehran after overnight air strikes on
   the capital.
 displayOrder: 999

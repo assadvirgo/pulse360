@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Formidable obstacles stand in the way of any diplomatic effort to end
   the war
 displayOrder: 32

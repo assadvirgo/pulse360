@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: A very different version of William Shakespeare showed up in the first
   episode of &#8220;SNL U.K,&#8221; appearing in a sketch that took comic aim at the
   biggest British film from…

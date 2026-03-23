@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Great Britain's Jeremiah Azu qualifies for Friday evening's 60m semi-finals
   at the World Indoor Athletics Championships in Poland.
 displayOrder: 999

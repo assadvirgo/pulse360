@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Italy
+countryCode: IT
 description: Right-wing PM Giorgia Meloni faces a political test in the two-day referendum
   on contested judicial reform.
 displayOrder: 999

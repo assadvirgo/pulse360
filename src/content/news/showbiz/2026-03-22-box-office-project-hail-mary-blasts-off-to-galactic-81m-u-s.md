@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Phil Lord and Christopher Miller's space epic, starring Ryan Gosling,
   is only the second non-sequel or franchise film of the past decade to open to $80
   million or more…

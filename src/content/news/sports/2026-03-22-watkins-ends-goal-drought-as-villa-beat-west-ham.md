@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Ollie Watkins ends his six-game goal drought, as Aston Villa win 2-0
   over relegation-threatened West Ham United.
 displayOrder: 999

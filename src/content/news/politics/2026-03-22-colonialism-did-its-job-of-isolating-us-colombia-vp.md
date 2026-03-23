@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Colombia
+countryCode: CO
 description: Francia Marquez called for stronger Latin America–Africa ties to boost
   growth and challenge colonial legacies.
 displayOrder: 999

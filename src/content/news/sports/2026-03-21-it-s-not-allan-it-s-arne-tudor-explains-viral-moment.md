@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Tottenham boss Igor Tudor clears up the viral moment where it was thought
   he mistakenly hugged someone thinking it was Liverpool manager Arne Slot.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: UNC officials are in discussions with coach Hubert Davis about the coach's
   future after another first-round loss in the NCAA tournament.
 displayOrder: 999

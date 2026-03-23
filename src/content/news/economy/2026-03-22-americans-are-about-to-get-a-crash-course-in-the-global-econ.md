@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Rising costs for fertilizer, feed, packaging and shipping are going to
   seep into the prices that people see on grocery shelves, experts say.
 displayOrder: 999

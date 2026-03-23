@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Sen. Adam Schiff has drafted a bill to create a federal incentive for
   film and TV production, but said Friday that he still working to gain Republican
   co-sponsors. Schiff held a…

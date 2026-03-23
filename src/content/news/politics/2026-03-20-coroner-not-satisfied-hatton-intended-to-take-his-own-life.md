@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Former boxing world champion Ricky Hatton was found "unresponsive" at
   his home in September.
 displayOrder: 999

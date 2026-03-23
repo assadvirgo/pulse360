@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Brian Brobbey scores in the 90th minute for Sunderland as the Black Cats
   come from behind to beat rivals Newcastle United 2-1 in the Tyne-wear derby at St
   James' Park.

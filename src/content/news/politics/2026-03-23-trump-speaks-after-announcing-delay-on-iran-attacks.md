@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: President Donald Trump has spoken to reporters after announcing the US
   was postponing attacks targeting Iran’s energy.
 displayOrder: 19

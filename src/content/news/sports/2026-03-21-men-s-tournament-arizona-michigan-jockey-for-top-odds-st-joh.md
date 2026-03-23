@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Teams' odds to advance and win the men's college basketball tournament
   as we move into the round of 32.
 displayOrder: 999

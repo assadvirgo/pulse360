@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: The BBC’s Analysis Editor looks at President Trump’s mixed messages on
   the war with Iran.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Poland
+countryCode: PL
 description: Olympic champion and world record holder Keely Hodgkinson qualifies fastest
   for Sunday's 800m final at the World Indoor Athletics Championships in Poland.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Donald Trump has shared his reaction to Chuck Norris&#8217; death at
   age 86. After the actor&#8217;s family announced that he died on Thursday, following
   a hospitalization in…

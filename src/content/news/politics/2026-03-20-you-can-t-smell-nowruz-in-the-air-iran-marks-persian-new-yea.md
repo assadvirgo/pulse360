@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Iranians speak to the BBC about preparing for the Nowruz new year festival
   during the war.
 displayOrder: 999

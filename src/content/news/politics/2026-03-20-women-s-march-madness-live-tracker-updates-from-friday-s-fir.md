@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: We're following all the action from 16 games throughout Day 1 of the
   women's NCAA tournament.
 displayOrder: 999

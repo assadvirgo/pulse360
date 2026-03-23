@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: South Korea
+countryCode: KR
 description: RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for
   the first time since October 2022.
 displayOrder: 999

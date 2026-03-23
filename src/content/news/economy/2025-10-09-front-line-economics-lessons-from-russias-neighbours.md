@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Russia
+countryCode: RU
 description: How to survive on the border of war
 displayOrder: 999
 heroImage: ''

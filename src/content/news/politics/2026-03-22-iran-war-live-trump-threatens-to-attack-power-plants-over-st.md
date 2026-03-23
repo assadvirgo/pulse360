@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Donald Trump threatens to &#039;obliterate&#039; Iran&#039;s power plants
   if it fails to open the Strait of Hormuz within 48 hours.
 displayOrder: 999

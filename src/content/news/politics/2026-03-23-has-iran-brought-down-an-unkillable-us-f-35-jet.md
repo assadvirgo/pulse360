@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: The supersonic fighter jet is designed to avoid detection by radar and
   other technologies.
 displayOrder: 33

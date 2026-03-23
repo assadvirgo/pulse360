@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: The decision comes after footage emerged appearing to show the reality
   star in an altercation with her ex-partner.
 displayOrder: 999

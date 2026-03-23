@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: France
+countryCode: FR
 description: Emmanuel Grégoire is facing a challenge from Rachida Dati on the right
   who is behind in the opinion polls.
 displayOrder: 999

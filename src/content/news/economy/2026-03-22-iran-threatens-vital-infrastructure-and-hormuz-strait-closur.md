@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: Tehran’s military says its strategy has shifted from defensive to offensive
 displayOrder: 999
 heroImage: ''

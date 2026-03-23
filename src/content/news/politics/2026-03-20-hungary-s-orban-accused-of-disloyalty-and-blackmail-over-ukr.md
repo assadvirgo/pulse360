@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Hungary
+countryCode: HU
 description: The Hungarian leader says a pipeline carrying Russian oil through Ukraine
   to Hungary must be repaired before any funds can be released.
 displayOrder: 999

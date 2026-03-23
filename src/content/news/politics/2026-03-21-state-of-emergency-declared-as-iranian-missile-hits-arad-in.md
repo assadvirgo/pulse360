@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: A state of emergency has been declared in Arad, southern Israel after
   an Iranian missile strike.
 displayOrder: 999

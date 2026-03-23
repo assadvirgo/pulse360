@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Travellers have faced hours-long waits at airports around the country
   as a partial government shutdown has left TSA agents without pay.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: ''
+countryCode: HK
 description: Thirty years in, and FilMart still knows how to fill a room. The Hong
   Kong Convention and Exhibition Centre hummed with a density that attendees said
   felt more like the…

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: British sprinter Amy Hunt on inspiring female athletes to get university
   degrees as she prepares to compete at the World Athletics Indoor Championships.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Tom Brady started out like the GOAT of flag football before Team USA
   dominated the Fanatics Flag Football Classic on Saturday.
 displayOrder: 999

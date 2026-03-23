@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Captain Nat Sciver-Brunt returns from England’s training camp in South
   Africa for family reasons.
 displayOrder: 999

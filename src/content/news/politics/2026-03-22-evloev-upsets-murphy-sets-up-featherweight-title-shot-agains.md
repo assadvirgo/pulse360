@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Movsar Evloev rallies after a point deduction against the unbeaten Lerone
   Murphy to win the contest in London.
 displayOrder: 999

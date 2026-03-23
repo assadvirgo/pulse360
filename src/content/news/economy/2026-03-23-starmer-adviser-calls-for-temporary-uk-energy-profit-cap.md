@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United Kingdom
+countryCode: GB
 description: Supermarket executive chair proposes move to limit earnings during exceptional
   market conditions
 displayOrder: 999

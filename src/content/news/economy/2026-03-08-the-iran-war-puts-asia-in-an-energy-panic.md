@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: Stranded Gulf supplies are choking off the region’s economies
 displayOrder: 999
 heroImage: ''

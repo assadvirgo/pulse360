@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: China
+countryCode: CN
 description: Thepchaiya Un-Nooh makes a maximum 147 break in a shock 10-7 win over
   Ronnie O'Sullivan in the World Open final in Yushan, China.
 displayOrder: 999

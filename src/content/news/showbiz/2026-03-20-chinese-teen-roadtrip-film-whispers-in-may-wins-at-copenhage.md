@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: China
+countryCode: CN
 description: Dongnan Chen’s “Whispers in May” won the main prize at CPH:DOX, Copenhagen’s
   documentary film festival, on Friday. The award, known as the Dox:Award, comes with
   a cash prize of…

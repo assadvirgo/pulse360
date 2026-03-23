@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: As conflict enters week 4, here’s the latest on the US-Israel attack
   on Iran and across the Middle East.
 displayOrder: 999

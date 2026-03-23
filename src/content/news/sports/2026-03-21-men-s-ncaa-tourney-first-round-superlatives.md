@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: What were the coolest, weirdest and most notable things to happen in
   the men's NCAA tournament's first round? We've got some of the best right here.
 displayOrder: 999

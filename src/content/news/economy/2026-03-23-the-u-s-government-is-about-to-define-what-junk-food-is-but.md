@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Health and Human Services Secretary Robert F. Kennedy Jr. has described
   ultraprocessed foods as “poison.”
 displayOrder: 38

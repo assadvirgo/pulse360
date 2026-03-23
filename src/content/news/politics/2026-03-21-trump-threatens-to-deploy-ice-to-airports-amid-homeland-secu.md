@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: The US president called on immigration agents to place &#039;heavy emphasis&#039;
   on the arrest of Somali immigrants.
 displayOrder: 999

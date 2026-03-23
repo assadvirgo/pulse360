@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Australia
+countryCode: AU
 description: Recent events abroad and at home have fuelled an ongoing surge of Islamophobia
   in Australia.
 displayOrder: 999

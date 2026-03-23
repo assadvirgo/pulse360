@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: US president says Washington ‘postponing’ threatened attacks on energy
   infrastructure
 displayOrder: 999

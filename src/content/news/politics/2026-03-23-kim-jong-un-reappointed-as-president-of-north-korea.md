@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: North Korea
+countryCode: KP
 description: North Korea’s news agencies reported that Kim Jon Un was reappointed
   to his role as president of State Affairs.
 displayOrder: 999

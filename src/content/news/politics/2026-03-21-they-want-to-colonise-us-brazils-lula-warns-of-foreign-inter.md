@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Brazil
+countryCode: BR
 description: The left-wing Brazilian president is critical of US actions throughout
   Latin America, though he does not name Trump.
 displayOrder: 999

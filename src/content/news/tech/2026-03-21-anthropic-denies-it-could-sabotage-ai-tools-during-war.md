@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: The Department of Defense alleges the AI developer could manipulate models
   in the middle of war. Company executives argue that’s impossible.
 displayOrder: 999

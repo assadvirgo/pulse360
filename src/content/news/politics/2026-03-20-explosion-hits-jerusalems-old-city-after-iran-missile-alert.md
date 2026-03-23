@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: An explosion struck Jerusalem’s Old City seconds after sirens warned
   of an incoming Iranian missile.
 displayOrder: 999

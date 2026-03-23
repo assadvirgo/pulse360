@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Arne Slot needs answers quickly or Liverpool's unwanted records may no
   longer be his only worry.
 displayOrder: 999

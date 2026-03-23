@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Residents of Tehran exchange new year&#039;s wishes as US and Israeli
   attacks continue through the spring equinox.
 displayOrder: 999

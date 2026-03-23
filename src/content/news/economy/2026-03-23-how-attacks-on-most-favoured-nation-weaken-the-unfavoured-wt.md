@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Governments are wrong to assume the US is arguing in good faith for the
   organisation to reform
 displayOrder: 46

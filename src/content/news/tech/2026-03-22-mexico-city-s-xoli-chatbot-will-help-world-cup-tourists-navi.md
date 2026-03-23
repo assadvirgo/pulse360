@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: Mexico
+countryCode: MX
 description: The launch of “Xoli” adds to the technological efforts promoted by the
   federal government to turn the 2026 World Cup into an engine of development for
   the entire country.

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: The video of the strike, hitting just metres from RT's Steve Sweeney
   and his crew, was recorded on Thursday in southern Lebanon.
 displayOrder: 999

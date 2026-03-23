@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Living under the threat of bombardment is terrifying. Barely an hour
   passes in Tehran without the sound of an explosion. Nowhere feels safe.
 displayOrder: 999

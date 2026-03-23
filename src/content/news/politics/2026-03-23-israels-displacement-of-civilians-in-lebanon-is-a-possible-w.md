@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: The Israeli tactics of mass expulsion of Lebanese civilians risk directly
   violating international law.
 displayOrder: 999

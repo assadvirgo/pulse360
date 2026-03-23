@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Jessi Pierce, who covered the Wild as the correspondent for NHL.com for
   the past decade. and her three children were killed Saturday in a house fire in
   Minnesota.

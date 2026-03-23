@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Chaos clubs Tottenham Hotspur and Nottingham Forest are battling to survive
   in the Premier League - and face each other on Sunday.
 displayOrder: 999

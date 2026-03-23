@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Ja'Kobi Gillespie hit six 3-pointers and scored 29 points as sixth-seeded
   Tennessee ended a fabulous season for Miami (Ohio) with a 78-56 win Friday in the
   first round of the NCAA…

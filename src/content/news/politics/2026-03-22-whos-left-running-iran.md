@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Much of the top leadership has been eliminated, but the country is still
   fighting.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: The thousand-yard stare has become the only thing you can guarantee at
   the Tottenham Hotspur Stadium, and it is staring into the abyss of relegation.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Tarris Reed Jr. had one of the most dominant performances in NCAA tournament
   history, posting 31 points and 27 rebounds to help No. 2 seed UConn stave off an
   upset with an 82-71…

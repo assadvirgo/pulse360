@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Qatar
+countryCode: QA
 description: Transfer of planes to Teruel airport signals airline is preparing for
   ongoing Gulf conflict
 displayOrder: 999

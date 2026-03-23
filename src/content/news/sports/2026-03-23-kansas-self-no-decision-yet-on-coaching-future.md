@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Longtime Kansas coach Bill Self said after Sunday's season-ending loss
   to St. John's that he has not yet made a decision about his coaching future, later
   adding that any decision…

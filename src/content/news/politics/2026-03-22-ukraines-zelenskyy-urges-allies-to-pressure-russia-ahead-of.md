@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: With US-Ukraine talks set to resume in Florida, Volodymyr Zelenskyy warns
   Russia is increasing its oil revenues.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Aston Villa manager Unai Emery has high praise for goalscorer Ollie Watkins,
   who was left out of Thomas Tuchel's England squad this week, as they beat West Ham
   2-0.

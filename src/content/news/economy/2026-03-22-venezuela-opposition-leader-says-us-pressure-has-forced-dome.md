@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: María Corina Machado tells the FT that interim president is only following
   orders from Washington
 displayOrder: 999

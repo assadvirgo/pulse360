@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Their latest earnings do not represent unalloyed good news
 displayOrder: 999
 heroImage: ''

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Ukraine
+countryCode: UA
 description: The deaths were reported in four south-eastern Ukrainian regions in the
   past 24 hours.
 displayOrder: 999

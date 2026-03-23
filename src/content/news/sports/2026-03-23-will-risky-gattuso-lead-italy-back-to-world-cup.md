@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Italy
+countryCode: IT
 description: Is Gennaro Gattuso ready to guide Italy, who have not qualified for a
   World Cup since 2014, to the finals in the USA, Canada and Mexico this summer?
 displayOrder: 999

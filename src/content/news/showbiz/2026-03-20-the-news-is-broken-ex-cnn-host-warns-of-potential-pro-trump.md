@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: “The news is broken, we may not be able to put the pieces back together,”
   former CNN White House Correspondent Jim Acosta told a packed Burbank City Hall
   today, warning of the…

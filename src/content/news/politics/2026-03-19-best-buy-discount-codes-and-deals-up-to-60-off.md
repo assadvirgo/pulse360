@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Find the latest Best Buy promo codes and offers, including 10% back in
   rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here
   at WIRED.

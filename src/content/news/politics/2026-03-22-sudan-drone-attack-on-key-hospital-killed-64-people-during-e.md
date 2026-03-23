@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Sudan
+countryCode: SD
 description: The strike killed 64 people, including 13 children, two nurses and a
   doctor, according to the WHO head.
 displayOrder: 999

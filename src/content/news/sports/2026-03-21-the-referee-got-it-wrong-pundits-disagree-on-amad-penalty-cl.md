@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Football Focus' Dion Dublin says he thinks "the referee got it wrong"
   and Manchester United should have been awarded a penalty when Amad Diallo appeared
   to be pulled back inside…

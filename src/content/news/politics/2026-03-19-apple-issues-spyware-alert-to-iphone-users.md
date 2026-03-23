@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Apple is urging users to update their iPhones after the discovery of
   new spyware that can take over phones running older versions of the iOS operating
   system.

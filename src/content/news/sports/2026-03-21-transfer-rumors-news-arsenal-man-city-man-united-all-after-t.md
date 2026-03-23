@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Newcastle midfielder Sandro Tonali is a target for Premier League giants
   Arsenal, Manchester City and Manchester United. Transfer Talk has the latest.
 displayOrder: 999

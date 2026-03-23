@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Pakistan
+countryCode: PK
 description: While the PCB has reduced the venues from six to two, the schedule for
   the games remains unchanged
 displayOrder: 999

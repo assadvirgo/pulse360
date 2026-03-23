@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Israel is investigating how ballistic missiles got through the country's
   sophisticated air defences.
 displayOrder: 999

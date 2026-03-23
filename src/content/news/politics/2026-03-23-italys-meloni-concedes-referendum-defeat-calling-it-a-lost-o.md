@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Italy
+countryCode: IT
 description: The prime minister admits defeat in the high-stakes vote on a justice
   reform package but vows to keep her seat.
 displayOrder: 3

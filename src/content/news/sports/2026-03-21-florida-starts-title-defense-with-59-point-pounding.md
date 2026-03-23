@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Florida began its national title defense with the second-largest victory
   margin in NCAA tournament history, pounding Prairie View A&amp;M 114-55 on Friday
   night.

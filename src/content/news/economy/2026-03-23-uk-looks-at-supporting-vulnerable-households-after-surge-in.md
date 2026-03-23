@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United Kingdom
+countryCode: GB
 description: Keir Starmer says help would have to be targeted and warns against counting
   on ‘quick and early’ end to Iran war
 displayOrder: 15

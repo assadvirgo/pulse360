@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Discussions between Starbucks and the union representing about 6% of
   its company-owned U.S. stores hit a wall last year.
 displayOrder: 999

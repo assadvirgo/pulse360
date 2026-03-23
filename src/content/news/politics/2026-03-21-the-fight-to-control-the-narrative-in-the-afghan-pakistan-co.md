@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Pakistan
+countryCode: PK
 description: The battle between the neighbouring countries is taking place as much
   online as it is on the ground.
 displayOrder: 999

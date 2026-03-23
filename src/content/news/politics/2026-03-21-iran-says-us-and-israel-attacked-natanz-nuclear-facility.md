@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: No leakage of radioactive materials reported in the area in central Iran,
   Tehran&#039;s atomic energy organisation says.
 displayOrder: 999

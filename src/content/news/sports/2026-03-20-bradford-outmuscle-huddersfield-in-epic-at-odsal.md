@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Bradford Bulls earn a third successive home Super League win, beating
   Huddersfield Giants in an epic encounter.
 displayOrder: 999

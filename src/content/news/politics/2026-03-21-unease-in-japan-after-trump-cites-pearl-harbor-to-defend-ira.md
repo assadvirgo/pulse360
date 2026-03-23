@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Japan
+countryCode: JP
 description: US president&#039;s reference to Japan&#039;s 1941 attack has shaken
   Japanese as PM Takaichi&#039;s silence gets mixed reaction.
 displayOrder: 999

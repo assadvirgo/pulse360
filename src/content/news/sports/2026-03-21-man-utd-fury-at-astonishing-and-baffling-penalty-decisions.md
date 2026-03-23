@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Manchester United are left furious over "astonishing" refereeing decisions
   as two penalties were given and one was not in their draw at Bournemouth.
 displayOrder: 999

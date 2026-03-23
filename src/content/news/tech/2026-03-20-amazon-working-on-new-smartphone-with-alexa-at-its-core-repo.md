@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: The device is being developed by the company's Devices and Services division,
   and it would feature personalized features aimed at making it easier to use Amazon's
   suite of apps,…

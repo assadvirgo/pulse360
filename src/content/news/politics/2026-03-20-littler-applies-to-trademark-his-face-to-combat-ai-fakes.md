@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: The darts star's image has been used legally on darts merchandise, snacks
   and fashion brands.
 displayOrder: 999

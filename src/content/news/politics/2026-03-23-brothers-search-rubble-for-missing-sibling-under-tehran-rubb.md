@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Five days after a strike destroyed a building in Tehran, Mahdi Mirzahosseini’s
   brothers are still searching for him.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United Kingdom
+countryCode: GB
 description: Some Labour officials hope bill will provoke Brexit dispute with Tories
   and Reform UK
 displayOrder: 999

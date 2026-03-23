@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: The NBA has rescinded Luka Doncic's 16th technical foul, allowing him
   to play in the Los Angeles Lakers' road game against the Detroit Pistons on Monday
   night.

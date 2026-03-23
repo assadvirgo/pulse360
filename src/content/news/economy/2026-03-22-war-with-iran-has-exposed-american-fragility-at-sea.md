@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: The move from ‘efficiency’ to ‘resilience’ in maritime supply chains
   has a long way to go
 displayOrder: 999

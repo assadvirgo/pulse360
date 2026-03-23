@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Colombia
+countryCode: CO
 description: Colombia's defence minister says it was a "tragic accident" but the cause
   is not yet clear.
 displayOrder: 7

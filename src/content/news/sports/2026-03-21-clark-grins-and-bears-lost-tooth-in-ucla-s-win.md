@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: UCLA's Skyy Clark shook off the pain after losing a chunk of his top
   front tooth late in Friday's first-round game against UCF and helped the Bruins
   secure a 75-71 victory.

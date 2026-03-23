@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Sudan
+countryCode: SD
 description: At least 64 people have died in another attack on a hospital in Sudan,
   according to the World Health Organisation (WHO).&#160;
 displayOrder: 999

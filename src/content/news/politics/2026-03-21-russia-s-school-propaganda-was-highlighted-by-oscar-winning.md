@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Russia
+countryCode: RU
 description: 'The messages are clear: the full-scale invasion is a defensive war and
   patriotism means unquestionable loyalty.'
 displayOrder: 999

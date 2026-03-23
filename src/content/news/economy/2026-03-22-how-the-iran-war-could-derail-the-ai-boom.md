@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: The entire chip supply chain depends on energy and chemical imports from
   the Middle East
 displayOrder: 999

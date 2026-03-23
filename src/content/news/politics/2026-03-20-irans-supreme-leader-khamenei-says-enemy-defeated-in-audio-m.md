@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Supreme Leader Mojtaba Khamenei has released an audio message for the
   Persian New Year.
 displayOrder: 999

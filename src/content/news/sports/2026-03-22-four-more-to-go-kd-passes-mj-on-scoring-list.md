@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Kevin Durant passed Michael Jordan for fifth on the NBA's career scoring
   list after finishing with 27 points in a win over the Heat.
 displayOrder: 999

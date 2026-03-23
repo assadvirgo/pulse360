@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Elon Musk announced plans to build a Terafab plant in Austin, Texas,
   that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips
   at scale for robotics,…

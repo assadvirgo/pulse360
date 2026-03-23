@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Bournemouth got a penalty to snatch a point against Manchester United.
   What happened?
 displayOrder: 999

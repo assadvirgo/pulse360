@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Norway
+countryCode: 'NO'
 description: Norway's crown princess says she regrets her friendship with Jeffrey
   Epstein, insisting in a tearful interview she was "manipulated and deceived".
 displayOrder: 999

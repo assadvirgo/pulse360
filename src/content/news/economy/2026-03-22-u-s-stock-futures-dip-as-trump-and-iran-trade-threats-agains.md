@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: U.S. stock-index futures were little changed on Sunday, as new threats
   of escalation from both President Donald Trump and Iran threatened to intensify
   the conflict roiling the…

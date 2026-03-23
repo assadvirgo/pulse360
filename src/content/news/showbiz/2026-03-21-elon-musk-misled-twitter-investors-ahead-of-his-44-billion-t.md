@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Elon Musk artificially drove down the price of Twitter&#8217;s stock
   in 2022 with tweets claiming the social-media company &#8212; which he had already
   agreed to acquire &#8212;…

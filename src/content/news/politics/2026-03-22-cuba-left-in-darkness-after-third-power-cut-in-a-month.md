@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Cuba
+countryCode: CU
 description: Cuba's power grid has collapsed for the third time this month, leaving
   the country in darkness with no electricity.
 displayOrder: 999

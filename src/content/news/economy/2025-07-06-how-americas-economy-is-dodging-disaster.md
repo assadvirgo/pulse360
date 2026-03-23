@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: It is astonishingly dynamic, even under the weight of tariffs
 displayOrder: 999
 heroImage: ''

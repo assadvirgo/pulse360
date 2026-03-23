@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Brazil
+countryCode: BR
 description: Igor Thiago's route to the Premier League has been far from straightforward
   - BBC Sport charts the rise of Brentford's record-breaking Brazilian striker.
 displayOrder: 999

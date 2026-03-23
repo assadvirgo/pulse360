@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Cuba
+countryCode: CU
 description: An aid flotilla from Mexico is sailing for Cuba as the country suffers
   under a tightening US fuel blockade.
 displayOrder: 999

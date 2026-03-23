@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Australia
+countryCode: AU
 description: The 24-hour long strike is expected to disrupt live television and radio
   broadcasts.
 displayOrder: 999

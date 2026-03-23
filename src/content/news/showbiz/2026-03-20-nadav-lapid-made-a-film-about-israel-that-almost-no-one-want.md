@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: Israel
+countryCode: IL
 description: The Israeli auteur on why 'Yes' is his most confrontational film yet,
   the soldier who gave him 10 more minutes and why he thinks America needs to see
   it.

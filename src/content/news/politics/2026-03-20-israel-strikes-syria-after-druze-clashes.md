@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Syria
+countryCode: SY
 description: Syria condemned the strikes on weapons sites and government infrastructure
   as an "outrageous" assault on Syria's sovereignty.
 displayOrder: 999

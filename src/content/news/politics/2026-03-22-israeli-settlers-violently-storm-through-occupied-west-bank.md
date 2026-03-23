@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Dozens of Israeli settlers stormed a Palestinian village near Nablus
   during Eid al-Fitr, torching homes and vehicles.
 displayOrder: 999

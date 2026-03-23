@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United Kingdom
+countryCode: GB
 description: Reducing maximum speed on new rail line among the ideas being explored
   to cut costs of spiralling bill
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: A San Francisco jury concludes Musk’s claims in 2022 were damaging to
   a group of Twitter investors.
 displayOrder: 999

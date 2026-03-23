@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: The title of Taj Mahal&#8217;s just-announced album, due out May 1, is
   &#8220;Time,&#8221; a simple concept that the blues-folk-soul-reggae artist is better
   equipped to address…

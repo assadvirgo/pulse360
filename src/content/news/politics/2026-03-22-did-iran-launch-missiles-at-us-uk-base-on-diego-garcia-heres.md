@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: UK condemns what it says is Iranian attack on airbase in Indian Ocean,
   but Tehran denies it carried out the launches.
 displayOrder: 999

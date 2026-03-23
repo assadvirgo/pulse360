@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Joe Kent says he resigned as director of the US National Counterterrorism
   Center over opposition to the war in Iran.
 displayOrder: 999

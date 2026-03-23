@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: It was the first time Iranian missiles had penetrated Israeli air defence
   systems in the area around a key nuclear site.
 displayOrder: 999

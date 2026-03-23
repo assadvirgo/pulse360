@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: On Friday night, Lily Allen finally brought &#8220;West End Girl&#8221;
   to the West End. In a full-circle moment for the London-born singer-songwriter,
   the tour for her latest…

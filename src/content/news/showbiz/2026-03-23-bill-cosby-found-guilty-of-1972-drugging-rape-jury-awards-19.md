@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: With a verdict of $19.25 million in damages, a Santa Monica jury has
   found Bill Cosby guilty of drugging and raping Donna Motsinger 54-years ago. Whether
   or not the financially…

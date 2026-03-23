@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: Brazil
+countryCode: BR
 description: Brazilian soccer star Jorginho Frello is accusing Chappell Roan&#8217;s
   team of mistreating his 11-year-old daughter at a hotel in São Paulo. Frello, who
   plays for Flamengo,…

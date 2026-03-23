@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Money lines, spreads, totals and BPI for second-round games in the women's
   college basketball tournament.
 displayOrder: 999

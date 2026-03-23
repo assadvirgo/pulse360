@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: For investors, the war is like the invasion of Ukraine all over again
 displayOrder: 999
 heroImage: ''

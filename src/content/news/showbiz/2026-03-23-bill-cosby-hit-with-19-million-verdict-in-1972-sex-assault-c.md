@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: A jury on Monday awarded a $19 million judgment against Bill Cosby, finding
   him liable for sexually assaulting a woman who was working as a waitress in 1972.
   The plaintiff, Donna…

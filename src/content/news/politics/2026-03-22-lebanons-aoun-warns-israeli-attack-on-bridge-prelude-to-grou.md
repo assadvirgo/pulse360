@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Lebanon
+countryCode: LB
 description: Israeli army chief says the operation against Hezbollah &quot;has only
   begun&quot; and would be &quot;prolonged&quot;.
 displayOrder: 999

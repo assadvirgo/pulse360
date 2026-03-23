@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Robert Fox, who rose from being a film studio runner to assisting directors
   at London’s Royal Court in the early 1970s to the highest echelons of theater production
   that saw him…

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: India
+countryCode: IN
 description: The prime minister wants a $10trn economy by 2047. He should be bolder
 displayOrder: 999
 heroImage: ''

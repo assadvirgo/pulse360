@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: A deal with America chooses certain tariffs over risky retaliation
 displayOrder: 999
 heroImage: ''

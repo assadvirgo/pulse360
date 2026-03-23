@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: Higher interest rates, forced liquidation of positions for margin calls
   and the possibility of central banks having to tap their reserves are conspiring
   to send gold lower,…

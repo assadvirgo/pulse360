@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Spain
+countryCode: ES
 description: Follow the build-up, analysis and live text commentary of the Madrid
   derby as Real host Atletico at the Bernabeu.
 displayOrder: 999

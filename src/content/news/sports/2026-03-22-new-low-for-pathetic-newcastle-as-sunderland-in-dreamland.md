@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: From mocking and celebration to despair and disbelief - Newcastle fans
   go through every emotion as their poor Tyne-Wear derby record continues.
 displayOrder: 999

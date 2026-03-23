@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: BBC Sport's Ask Me Anything team take a look at who owns each team in
   The Hundred.
 displayOrder: 999

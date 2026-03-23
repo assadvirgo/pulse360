@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: China
+countryCode: CN
 description: Han Shen Lin, director of the China Office at the Asia Consultative Group,
   says that China is likely to remain neutral,
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Qatar
+countryCode: QA
 description: Four Qatari military personnel, one Turkish serviceman and two technicians
   from a Turkish defence company were on board.
 displayOrder: 999

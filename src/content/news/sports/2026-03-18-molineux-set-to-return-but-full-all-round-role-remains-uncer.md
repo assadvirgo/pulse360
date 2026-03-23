@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Australia
+countryCode: AU
 description: Caution will be taken with Australia's new captain ahead of the T20 World
   Cup later this year
 displayOrder: 999

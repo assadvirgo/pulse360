@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: 'Danny Smiechowski was "emotionally abused" in his San Diego hometown
   for his taboo style preferences. Now, he tells THR from a Hollywood café, he''s
   a local celebrity: "The best…'

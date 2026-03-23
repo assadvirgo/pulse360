@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: The NFL is discussing getting rid of its 2029-30 opt-out clause in exchange
   for an increase on TV rights that could push CBS to pay more than $3 billion a year.
 displayOrder: 999

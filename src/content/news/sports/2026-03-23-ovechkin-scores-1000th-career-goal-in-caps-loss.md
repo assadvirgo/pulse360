@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Alex Ovechkin scored his 1,000th NHL goal, combining the regular season
   and playoffs, but the league-leading Avalanche beat the Capitals 3-2 in overtime
   Sunday.

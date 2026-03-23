@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Australia
+countryCode: AU
 description: Three months since it came into effect, teenagers tell the BBC how the
   world-first law has impacted their lives so far.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: A longtime hater of the flagship NBC sketch comedy series, Donald Trump
   appears to be a fan of Saturday Night Live UK after its debut this weekend. On Sunday,
   the 45th/47th POTUS…

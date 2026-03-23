@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: US president who pledged to end America’s forever wars has started another
   Middle East conflict with no easy off-ramps
 displayOrder: 999

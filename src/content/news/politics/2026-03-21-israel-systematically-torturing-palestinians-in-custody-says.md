@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Report by Francesca Albanese says &#039;torture in detention used on
   unprecedented scale as punitive collective vengeance&#039;.
 displayOrder: 999

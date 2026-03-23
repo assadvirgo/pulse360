@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Americans increasingly fantasize about a divorce between red and blue
   states—but they dread the thought of civil war. You can’t have one without the other.
 displayOrder: 48

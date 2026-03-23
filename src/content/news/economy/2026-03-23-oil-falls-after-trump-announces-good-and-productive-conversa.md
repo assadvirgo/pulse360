@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Oil prices fell sharply on Monday after President Donald Trump said the
   U.S. and Iran had had “very good and productive conversations” in the past two days.
 displayOrder: 36

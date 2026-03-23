@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: The Department of Defense had required reporters to agree to certain
   rules on what information they could gather in order to maintain access to the Pentagon.
 displayOrder: 999

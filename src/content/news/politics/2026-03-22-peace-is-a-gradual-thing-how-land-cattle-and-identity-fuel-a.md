@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Nigeria
+countryCode: NG
 description: How a lack of justice and trust in the security forces perpetuates deadly
   violence in Plateau state.
 displayOrder: 999

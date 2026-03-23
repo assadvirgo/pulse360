@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Even once-fecund states are having fewer children
 displayOrder: 999
 heroImage: ''

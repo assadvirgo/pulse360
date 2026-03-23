@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Japan
+countryCode: JP
 description: President Trump compared US strikes on Iran to the deadly 1941 Japanese
   attack and declaration of war as part of World War Two.
 displayOrder: 999

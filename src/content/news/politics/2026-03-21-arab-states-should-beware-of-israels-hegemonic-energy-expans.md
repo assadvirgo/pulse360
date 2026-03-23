@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: The Iran war revealed how dependent Israel’s Arab neighbours are on its
   gas exports.
 displayOrder: 999

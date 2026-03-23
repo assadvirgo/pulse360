@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Sudan
+countryCode: SD
 description: The attack on a teaching hospital in Al Deain, the capital of East Darfur
   state, has rendered the facility non-functiona
 displayOrder: 999

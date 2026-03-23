@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Venezuela
+countryCode: VE
 description: Oil majors, hedge funds, Chinese lenders—all have a stake
 displayOrder: 999
 heroImage: ''

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Match of the Day's Kelly Cates, Joe Hart and Danny Murphy discuss how
   Newcastle are "struggling with consistency" since competing in the Champions League.
 displayOrder: 999

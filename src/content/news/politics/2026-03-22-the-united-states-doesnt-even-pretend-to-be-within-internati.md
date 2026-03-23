@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: ‘The United States doesn&#039;t even pretend to be within international
   law’
 displayOrder: 999

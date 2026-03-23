@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: US-Israel attacks on Iran continue as Israeli forces blow up the Qasimiyah
   Bridge in south Lebanon.
 displayOrder: 999

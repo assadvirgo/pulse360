@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Lux Optics co-founder Sebastiaan de With made headlines when he joined
   Apple in late January. The company was behind Halide, one of the most popular photography
   apps for the…

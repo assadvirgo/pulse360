@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Footage shows Israeli firefighters attempting to put out a fire caused
   by a missile attack from Lebanon.
 displayOrder: 999

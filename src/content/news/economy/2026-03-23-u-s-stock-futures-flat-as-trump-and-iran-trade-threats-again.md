@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: U.S. stock-index futures bounced between slight losses and gains on Sunday
   night, as new threats of escalation from both President Donald Trump and Iran threatened
   to intensify…

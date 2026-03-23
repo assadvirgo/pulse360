@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Ireland
+countryCode: IE
 description: A cricket tournament for European nations could launch as early as 2027
   after plans to develop the concept are revealed by Cricket Ireland.
 displayOrder: 999

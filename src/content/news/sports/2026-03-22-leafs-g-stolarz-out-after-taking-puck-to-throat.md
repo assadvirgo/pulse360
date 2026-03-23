@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Canada
+countryCode: CA
 description: Toronto Maple Leafs goaltender Anthony Stolarz missed his expected start
   in Saturday's loss after taking a puck to the throat during warmups.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: '''The Pitt'' star Noah Wyle and IATSE president Matt Loeb testified
   at a hearing over a federal tax incentive and the Paramount, Warner Bros. Discovery
   merger.'

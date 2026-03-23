@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: From oil threats to ultimatums, the US president has a decades-old view
   of how to confront Tehran
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: For restaurants and food companies, the increasing adoption of GLP-1
   drugs present both an opportunity and a threat to their businesses.
 displayOrder: 999

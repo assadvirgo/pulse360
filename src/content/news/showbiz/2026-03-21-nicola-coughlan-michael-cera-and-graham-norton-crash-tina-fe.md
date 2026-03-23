@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: TIna Fey has made TV history, delivering the opening monologue on the
   debut episode of &#8220;SNL U.K.&#8221; As she herself noted on Saturday&#8217;s
   inaugural show, she was now…

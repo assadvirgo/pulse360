@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Japan
+countryCode: JP
 description: All the updates following our text commentary stream of the Women&#039;s
   Asian Cup final in Sydney.
 displayOrder: 999

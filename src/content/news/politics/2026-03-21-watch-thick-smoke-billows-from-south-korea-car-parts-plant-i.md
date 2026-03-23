@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: South Korea
+countryCode: KR
 description: At least 10 people were killed and dozens injured when a huge blaze engulfed
   a car parts factory in the central city of Daejeon.
 displayOrder: 999

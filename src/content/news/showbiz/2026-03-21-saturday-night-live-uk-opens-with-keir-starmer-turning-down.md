@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Keeping in tradition with its American progenitor, the first ever Saturday
   Night Live UK began with a political send-up cold open. A sketch featuring a cowering
   Keir Starmer…

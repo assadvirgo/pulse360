@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Cuba
+countryCode: CU
 description: Minister Carlos Fernandez de Cossio says he is open to US trade talks
   but refused to entertain a leadership shake-up.
 displayOrder: 999

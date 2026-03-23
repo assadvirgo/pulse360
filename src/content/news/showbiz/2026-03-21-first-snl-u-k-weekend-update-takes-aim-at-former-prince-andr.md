@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: 'For the first-ever edition of &#8220;SNL U.K.&#8217;s&#8221; Weekend
   Update, one person was given the royal treatment: former Prince Andrew. Hosts Ania
   Magliano and Paddy Young…'

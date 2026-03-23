@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: France
+countryCode: FR
 description: Jospin was head of government from 1997 to 2002 and is credited with
   bringing in the 35-hour working week.
 displayOrder: 45

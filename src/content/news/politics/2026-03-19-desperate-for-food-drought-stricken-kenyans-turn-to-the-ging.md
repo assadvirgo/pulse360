@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Kenya
+countryCode: KE
 description: Some 26 million people are "facing extreme hunger" in Kenya, Ethiopia
   and Somalia, warns humanitarian organisation Oxfam.
 displayOrder: 999

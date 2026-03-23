@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: There are fears in Lebanon that Israel is preparing for a large-scale
   ground invasion.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Ukraine
+countryCode: UA
 description: Two children, aged 11 and 15 were also injured in the attack which took
   place in Zaporizhzhia.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: China
+countryCode: CN
 description: Jiangsu’s party cadres find success with a bizarre idea
 displayOrder: 999
 heroImage: ''

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Odds for each team to advance through the bracket and to win the 2026
   women's college basketball championship.
 displayOrder: 999

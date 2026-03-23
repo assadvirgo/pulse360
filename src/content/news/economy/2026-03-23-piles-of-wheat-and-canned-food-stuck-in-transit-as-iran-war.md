@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: UN World Food Programme says millions more people may be pushed into
   acute hunger if disruption continues
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: US president postpones possible attacks on Iranian energy infrastructure
   after hailing ‘productive’ talks with Tehran
 displayOrder: 14

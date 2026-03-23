@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: President Donald Trump has ordered the US military to postpone strikes
   against Iranian power plants and energy.
 displayOrder: 9

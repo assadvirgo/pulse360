@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Norway
+countryCode: 'NO'
 description: Crown Princess Mette Marit tells Norwegian TV she wishes she had never
   met the late sex offender.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Slovenia
+countryCode: SI
 description: Voters choosing between incumbent PM Robert Golob and pro-Trump Janez
   Jansa, with neither likely to win a majority.
 displayOrder: 999

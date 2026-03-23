@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted
   others.
 displayOrder: 999

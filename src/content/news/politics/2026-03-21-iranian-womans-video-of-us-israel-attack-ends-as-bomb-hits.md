@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: The fate of an Iranian woman caught in a US-Israeli bomb attack is unknown,
   after video emerged of her filming it.
 displayOrder: 999

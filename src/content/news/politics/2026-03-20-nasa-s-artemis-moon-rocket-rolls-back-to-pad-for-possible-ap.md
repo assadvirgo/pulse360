@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Nasa is preparing a mission to send astronauts around the Moon for the
   first time in more than 50 years.
 displayOrder: 999

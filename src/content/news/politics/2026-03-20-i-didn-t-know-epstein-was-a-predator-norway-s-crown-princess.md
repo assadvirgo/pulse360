@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Norway
+countryCode: 'NO'
 description: Norway's Crown Princess Mette-Marit has said that she wishes she had
   never met late US sex offender Jeffrey Epstein
 displayOrder: 999

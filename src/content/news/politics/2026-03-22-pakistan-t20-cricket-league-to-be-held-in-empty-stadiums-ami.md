@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Pakistan
+countryCode: PK
 description: Pakistan Super League will be held on schedule from March 26, but without
   the crowds and only at two venues.
 displayOrder: 999

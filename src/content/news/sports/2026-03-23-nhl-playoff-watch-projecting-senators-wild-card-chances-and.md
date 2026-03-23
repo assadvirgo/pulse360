@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Canada
+countryCode: CA
 description: Can Ottawa claim a spot to the dance? Plus, updated playoff projections,
   draft lottery standings after Sunday.
 displayOrder: 22

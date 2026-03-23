@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Shortly after the Associated Press reported the death of former FBI director
   Robert Mueller, President Donald Trump took to Truth Social to celebrate his passing.
   “Robert Mueller…

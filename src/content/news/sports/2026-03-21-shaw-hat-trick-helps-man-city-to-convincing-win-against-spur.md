@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Bunny Shaw scores a record-breaking hat-trick inside 21 minutes as Manchester
   City beat Tottenham Hotspur 5-2.
 displayOrder: 999

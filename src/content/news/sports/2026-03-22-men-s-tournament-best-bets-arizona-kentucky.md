@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: As you prepare for tipoff, here are our best bets for the second round,
   plus a pick for the new Eliminator game.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Canada
+countryCode: CA
 description: Under the guise of preserving secularism, this law allows the exclusion
   of people based on their religious identity.
 displayOrder: 999

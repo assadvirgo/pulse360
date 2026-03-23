@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: It is rare to see British sketch comedy on television. In fact, British
   comedy on television is so rare that the genre has been deemed “at risk” in recent
   years. So, naturally,…

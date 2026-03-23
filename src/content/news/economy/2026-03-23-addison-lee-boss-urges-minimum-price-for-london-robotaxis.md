@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United Kingdom
+countryCode: GB
 description: CEO of private hire group says cab drivers need protection against ‘predatory
   pricing’
 displayOrder: 999

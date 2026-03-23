@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: Oil prices fell sharply Monday after President Donald Trump said he had
   postponed threatened strikes on Iranian power plants.
 displayOrder: 16

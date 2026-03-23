@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: 'As the Giannis trade watch enters another offseason, a rare ownership
   structure and financial turmoil have left opposing teams wondering: Who''s in charge
   here?'

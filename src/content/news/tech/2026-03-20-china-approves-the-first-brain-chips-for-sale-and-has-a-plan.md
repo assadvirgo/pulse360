@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: China
+countryCode: CN
 description: While the United States and Europe are moving cautiously forward with
   clinical trials, China is racing toward the commercialization of brain implants.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: The region is on edge as Trump&#039;s deadline for Iran to reopen the
   Strait of Hormuz or face attacks on power plants nears.
 displayOrder: 999

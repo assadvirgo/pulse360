@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Huw Edwards has spoken out for the first time since receiving a suspended
   prison sentence for accessing child abuse images. The disgraced former BBC News
   anchor has issued a…

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Australia
+countryCode: AU
 description: The legspinner claimed three wickets in the first match against West
   Indies but may still be forced out of the XI at the World Cup
 displayOrder: 999

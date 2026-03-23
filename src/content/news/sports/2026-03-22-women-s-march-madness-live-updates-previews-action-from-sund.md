@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: We're following all the action from eight games throughout Day 3 of the
   women's NCAA tournament.
 displayOrder: 999

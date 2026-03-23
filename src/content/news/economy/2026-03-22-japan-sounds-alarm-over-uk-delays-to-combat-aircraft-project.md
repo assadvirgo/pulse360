@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Japan
+countryCode: JP
 description: Tokyo frustrated by funding hold-ups that are preventing the signing
   of a development contract
 displayOrder: 999

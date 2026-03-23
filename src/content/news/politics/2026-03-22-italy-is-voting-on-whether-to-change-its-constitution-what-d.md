@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Italy
+countryCode: IT
 description: The dry subject matter of this weekend's vote seems obscure but for many
   it is a vote on the PM.
 displayOrder: 999

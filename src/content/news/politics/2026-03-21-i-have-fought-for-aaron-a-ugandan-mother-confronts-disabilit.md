@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Uganda
+countryCode: UG
 description: Martha Apolot, 21, rejected by her family and community when her disabled
   son was born, fights daily to meet his needs.
 displayOrder: 999

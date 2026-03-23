@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: A cyberattack on a U.S. car breathalyzer company has left drivers across
   the United States reportedly stranded and unable to start their vehicles.
 displayOrder: 999

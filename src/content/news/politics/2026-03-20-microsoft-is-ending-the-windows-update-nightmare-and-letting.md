@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: In 2015, Microsoft decided that you shouldn't be in control of updating
   your PC anymore. At first, it seemed like a good idea to keep malware at bay - but
   soon, users discovered…

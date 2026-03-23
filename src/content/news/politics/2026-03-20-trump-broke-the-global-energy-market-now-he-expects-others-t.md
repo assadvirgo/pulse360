@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Has President Trump just given the biggest indication yet that he's done
   with this war in Iran?
 displayOrder: 999

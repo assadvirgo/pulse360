@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: South Africa
+countryCode: ZA
 description: South Africa appeared to have stopped below par when they put up 164,
   but their bowlers put on an inspired show against an under-strength New Zealand
 displayOrder: 999

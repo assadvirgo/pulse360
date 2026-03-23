@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: The WNBA and WNBPA announced they have reached a tentative agreement
   on a new CBA after the two sides officially completed and signed a term sheet for
   the deal.

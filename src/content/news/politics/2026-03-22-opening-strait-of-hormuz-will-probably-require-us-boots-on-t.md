@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: ‘Opening Strait of Hormuz will probably require US boots on the ground’
 displayOrder: 999
 heroImage: ''

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: ''
+countryCode: PS
 description: Day of intense hardship as mothers mourn children lost in war and children
   face day without their mothers.
 displayOrder: 999

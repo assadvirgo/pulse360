@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Elon Musk recently outlined ambitious plans for a chip-building collaboration
   Tesla and SpaceX — but he has a history of overpromising.
 displayOrder: 999

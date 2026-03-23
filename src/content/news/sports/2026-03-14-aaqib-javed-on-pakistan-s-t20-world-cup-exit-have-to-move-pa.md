@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Pakistan
+countryCode: PK
 description: The men's national selector said Pakistan missed out of the semi-final
   only because of net run rate and pushed back against criticism of the team and selection
   committee

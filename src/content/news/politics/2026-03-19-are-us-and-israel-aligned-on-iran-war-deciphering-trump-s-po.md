@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: What does Trump's Truth Social post after gas field attacks tell us about
   US-Israeli alignment?
 displayOrder: 999

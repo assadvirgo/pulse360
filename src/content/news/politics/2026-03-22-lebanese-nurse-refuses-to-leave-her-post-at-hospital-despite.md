@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Lebanon
+countryCode: LB
 description: Lebanese nurse remains at her post in the Bekaa Valley after losing her
   fiance in the 2024 Israel-Hezbollah war.
 displayOrder: 999

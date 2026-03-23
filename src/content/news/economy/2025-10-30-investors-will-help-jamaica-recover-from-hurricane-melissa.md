@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Jamaica
+countryCode: JM
 description: The country is in line for a pay-out from catastrophe bonds
 displayOrder: 999
 heroImage: ''

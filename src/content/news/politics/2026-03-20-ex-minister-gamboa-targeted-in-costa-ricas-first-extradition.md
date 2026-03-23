@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Costa Rica
+countryCode: CR
 description: A former Supreme Court justice, Celso Gamboa was accused by the US of
   using government connections to traffic cocaine.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: 'SATURDAY PM: Amazon MGM Studios&#8217; Project Hail Mary had a blessed
   Saturday chalking up $27.1M, just -18% off Friday/preview&#8217;s $33.1M which rockets
   this Ryan Gosling…'

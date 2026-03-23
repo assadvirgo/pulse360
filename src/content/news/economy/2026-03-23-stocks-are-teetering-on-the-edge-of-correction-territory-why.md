@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: The once-reliable trade on Wall Street, that President Trump “always
   chickens out,” could be torpedoed by the Iran conflict.
 displayOrder: 999

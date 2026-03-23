@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: South Korea
+countryCode: KR
 description: Samsung is bringing AirDrop support to the Quick Share feature on Galaxy
   devices, starting with the S26 series. The new AirDrop feature will begin rolling
   out in Korea starting…

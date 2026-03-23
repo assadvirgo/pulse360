@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Australia
+countryCode: AU
 description: The Australian prime minister was booed by protesters during a visit
   to the country's largest mosque.
 displayOrder: 999

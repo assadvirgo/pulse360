@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Rwanda
+countryCode: RW
 description: Rwanda's Fanny Utagushimaninde says it was like "a dream" after becoming
   the youngest woman to make a T20 international century at the age of 15 years and
   223 days.

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Denmark
+countryCode: DK
 description: Denmark's public broadcaster reports that the US operation to seize Venezuela's
   leader sparked fears it would act against Greenland.
 displayOrder: 999

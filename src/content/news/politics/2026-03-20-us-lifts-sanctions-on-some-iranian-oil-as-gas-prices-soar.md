@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: The treasury secretary says the move will quickly bring about 140m barrels
   of oil to global markets.
 displayOrder: 999

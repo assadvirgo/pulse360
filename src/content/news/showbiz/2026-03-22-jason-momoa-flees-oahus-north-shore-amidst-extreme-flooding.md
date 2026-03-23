@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Jason Momoa was forced to evacuate the area where his family was staying
   on Oahu after a massive storm hit Hawaii, causing the worst flooding the island
   has seen in 20 years. The…

@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Anthropic submitted two sworn declarations to a California federal court
   late Friday afternoon, pushing back on the Pentagon's assertion that the AI company
   poses an "unacceptable…

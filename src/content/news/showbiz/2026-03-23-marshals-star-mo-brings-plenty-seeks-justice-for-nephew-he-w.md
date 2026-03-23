@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: The 'Yellowstone' veteran — who continues his role both on- and off-screen
   in the CBS spinoff — talks to The Hollywood Reporter about shining a light on reservation
   stories,…

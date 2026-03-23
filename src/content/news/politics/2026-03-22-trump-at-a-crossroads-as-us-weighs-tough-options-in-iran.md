@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Statements from President Trump that the war is almost over are not matching
   up with the reality on the ground.
 displayOrder: 999

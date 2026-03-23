@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: “The issue is not the weather, high insurance premiums or high maintenance
   fees.”
 displayOrder: 999

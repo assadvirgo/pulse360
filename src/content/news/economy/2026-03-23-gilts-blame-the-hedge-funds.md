@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United Kingdom
+countryCode: GB
 description: No one’s doing it like the Brits
 displayOrder: 999
 heroImage: ''

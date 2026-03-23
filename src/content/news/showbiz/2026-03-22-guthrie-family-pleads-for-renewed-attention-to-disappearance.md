@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: A new special on NBC-affiliated KVOA News 4 Tucson, titled Bring Her
   Home — The Disappearance of Nancy Guthrie, aired this evening, with the Guthrie
   family providing a statement…

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Great Britain's Josh Kerr wins gold in the men's 3,000m at the World
   Indoor Athletics Championships in Poland, with Cole Hocker taking silver for USA
   and and France's Yann Schrub…

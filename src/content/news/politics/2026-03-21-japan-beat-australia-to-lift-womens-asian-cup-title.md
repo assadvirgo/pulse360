@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Japan
+countryCode: JP
 description: Japan edges tournament hosts Australia 1-0 in ⁠the Women&#039;s ⁠Asian
   Cup final to claim third title in four editions.
 displayOrder: 999

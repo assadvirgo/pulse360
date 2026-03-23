@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Officials say ICE agents will bolster security and ease long waiting
   times caused by partial government shutdown
 displayOrder: 999

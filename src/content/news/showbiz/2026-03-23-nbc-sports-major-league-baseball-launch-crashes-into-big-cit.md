@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: When it comes to launching a new season of Major League Baseball on NBC
   and Peacock, NBC Sports isn&#8217;t taking a half-hearted swing. The NBCUniversal
   sports division on Monday…

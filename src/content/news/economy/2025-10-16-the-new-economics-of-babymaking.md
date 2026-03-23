@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: A postcard from one of America’s youngest towns
 displayOrder: 999
 heroImage: ''

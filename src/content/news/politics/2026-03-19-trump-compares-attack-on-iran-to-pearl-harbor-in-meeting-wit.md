@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: In a meeting with Japanese Prime Minister, US President Donald Trump
   was asked why he didn't inform allies about his plan to attack Iran.
 displayOrder: 999

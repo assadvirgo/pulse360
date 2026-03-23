@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Saudi Arabia
+countryCode: SA
 description: Move follows attack on Red Sea port of Yanbu, Saudi Arabia&#039;s main
   oil export outlet, after Iran blocked Hormuz Strait.
 displayOrder: 999

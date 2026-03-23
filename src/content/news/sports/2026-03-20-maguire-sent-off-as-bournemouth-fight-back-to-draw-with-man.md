@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Despite taking the lead twice, Manchester United are held to a 2-2 draw
   at Bournemouth and have Harry Maguire sent off as they drop points in the race for
   a top-four finish in the…

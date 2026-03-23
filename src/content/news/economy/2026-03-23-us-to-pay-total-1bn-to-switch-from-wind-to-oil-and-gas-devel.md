@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Deal comes as Donald Trump faces pressure to limit energy price increases
   triggered by Iran war
 displayOrder: 39

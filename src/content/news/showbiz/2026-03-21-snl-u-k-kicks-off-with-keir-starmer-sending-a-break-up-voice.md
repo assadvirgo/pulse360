@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: '&#8220;Saturday Night Live U.K.&#8221; kicked off its first-ever episode
   by following the American tradition of a political cold open, featuring U.K. Prime
   Minister Keir Starmer…'

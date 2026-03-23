@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: LeBron James sets the record for the most regular-season games played
   in NBA history as he helps the Los Angeles Lakers to a dramatic buzzer-beating 105-104
   victory against the…

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Lilly is betting big on retatrutide as the next pillar of its obesity
   portfolio after its weight loss injection Zepbound and its upcoming pill, orforglipron.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: England manager Thomas Tuchel explains his decisions for selecting Manchester
   United players Harry Maguire and Kobbie Mainoo for his upcoming camp. He also says
   it was a "tough…

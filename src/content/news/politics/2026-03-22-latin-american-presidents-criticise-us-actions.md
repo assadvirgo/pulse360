@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Latin American leaders met at the CELAC Summit in Colombia where President
   Petro called for a Middle East ceasefire.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Dozens of Instagram and TikTok accounts have used AI avatars to promote
   explicit content, the BBC finds.
 displayOrder: 999

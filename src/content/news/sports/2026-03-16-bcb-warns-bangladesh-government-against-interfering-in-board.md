@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Bangladesh
+countryCode: BD
 description: The Bangladesh sports ministry has formed a committee to investigate
   allegations of malpractice during last year's BCB elections
 displayOrder: 999

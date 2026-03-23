@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: India
+countryCode: IN
 description: Indian textile workers are returning home after days without cooking
   gas, as an LPG crisis linked to the Iran war.
 displayOrder: 999

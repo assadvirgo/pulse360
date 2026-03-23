@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Robert Malone made the claim, then retracted it, as HHS denied it.
 displayOrder: 999
 heroImage: ''

@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this
   week in his signature leather jacket to deliver a two-and-a-half-hour keynote,…
 displayOrder: 999

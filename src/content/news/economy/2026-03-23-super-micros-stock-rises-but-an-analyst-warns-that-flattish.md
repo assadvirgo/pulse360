@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: An analyst just downgraded Super Micro’s stock on concerns that the export-control
   scandal involving the server company’s co-founder will weigh on customer trust.
 displayOrder: 18

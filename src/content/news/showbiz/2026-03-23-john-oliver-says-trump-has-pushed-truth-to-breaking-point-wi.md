@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: During his opening monologue on tonight&#8217;s installment of Last Week
   Tonight, John Oliver addressed the spiraling claims by Donald Trump&#8217;s administration
   regarding the…

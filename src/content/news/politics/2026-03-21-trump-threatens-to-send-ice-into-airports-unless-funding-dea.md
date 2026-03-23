@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: The president said ICE would "do security" as airport security staff
   have gone without pay for weeks due to a partial government shutdown.
 displayOrder: 999

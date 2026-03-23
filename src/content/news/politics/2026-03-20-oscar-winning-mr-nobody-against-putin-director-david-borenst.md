@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Denmark
+countryCode: DK
 description: Earlier this week, American director David Borenstein was supposed to
   pitch his next project at CPH:DOX’s prestigious Forum platform. He had to pull out
   at the last minute,…

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Spain
+countryCode: ES
 description: Young women still lean to the left but male youth is more rightwing than
   it has been for decades
 displayOrder: 999

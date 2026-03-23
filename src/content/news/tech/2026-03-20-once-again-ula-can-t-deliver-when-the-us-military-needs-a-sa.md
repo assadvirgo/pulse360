@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: ULA's Vulcan launch vehicle is grounded after a solid rocket booster
   anomaly last month.
 displayOrder: 999

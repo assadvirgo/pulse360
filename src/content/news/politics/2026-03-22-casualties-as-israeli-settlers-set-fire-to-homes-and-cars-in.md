@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Settlers set fire to homes and cars near Jenin amid reports of widespread
   violence across the occupied territory.
 displayOrder: 999

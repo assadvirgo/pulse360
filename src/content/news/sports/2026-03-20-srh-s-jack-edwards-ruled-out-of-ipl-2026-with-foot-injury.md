@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Australia
+countryCode: AU
 description: Jack Edwards's injury adds to the growing list of Australian quick bowlers
   who have been hit with injuries ahead of IPL 2026
 displayOrder: 999

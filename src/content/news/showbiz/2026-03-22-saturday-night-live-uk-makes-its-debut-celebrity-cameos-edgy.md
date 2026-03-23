@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Tina Fey hosted the inaugural episode of 'SNL UK,' broadcast live from
   London Saturday night and watched by over 220,000 people in Britain — but was it
   funny? The Hollywood…

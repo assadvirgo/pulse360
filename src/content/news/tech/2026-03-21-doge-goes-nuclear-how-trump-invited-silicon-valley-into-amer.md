@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: “Assume the NRC is going to do whatever we tell the NRC to do.”
 displayOrder: 999
 heroImage: ''

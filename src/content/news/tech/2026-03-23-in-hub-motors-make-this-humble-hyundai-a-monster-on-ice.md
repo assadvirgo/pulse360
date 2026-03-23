@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: South Korea
+countryCode: KR
 description: In-wheel motors have been around since the very beginning of electric
   motoring. Ferdinand Porsche developed one way back in 1900, and the US sent them
   to the moon in our Lunar…

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: With the costs of the trade war abundantly clear, officials seek to restore
   their truce
 displayOrder: 999

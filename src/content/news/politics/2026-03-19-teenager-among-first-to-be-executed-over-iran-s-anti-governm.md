@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Saleh Mohammadi, a member of Iran's national wrestling team, was found
   guilty of killing police officers alongside two other men, state media say.
 displayOrder: 999

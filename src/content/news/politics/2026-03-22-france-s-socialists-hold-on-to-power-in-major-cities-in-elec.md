@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: France
+countryCode: FR
 description: Paris and Marseille are held by the Socialists in local elections which
   saw the nationalist right win in Nice and certain towns.
 displayOrder: 999

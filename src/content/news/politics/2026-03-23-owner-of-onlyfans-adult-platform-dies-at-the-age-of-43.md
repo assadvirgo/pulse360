@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Leonid Radvinsky, a Ukrainian-American entrepreneur who was the owner
   of the adult content platform OnlyFans, has died.
 displayOrder: 34

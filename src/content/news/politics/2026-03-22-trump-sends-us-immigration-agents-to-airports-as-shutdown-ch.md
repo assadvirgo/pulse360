@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Shutdown standoff forces US President Trump&#039;s hand as airport queues
   spiral and security staff go unpaid.
 displayOrder: 999

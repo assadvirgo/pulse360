@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Stocks reverse losses and oil tumbles after US president says there have
   been ‘constructive’ talks with Tehran
 displayOrder: 25

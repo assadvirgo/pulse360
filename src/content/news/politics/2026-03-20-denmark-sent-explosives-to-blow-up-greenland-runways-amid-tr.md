@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Denmark
+countryCode: DK
 description: Denmark sent soldiers and explosives to Greenland in January so that
   it could blow up runways in the event of a US invasion, the country's public broadcaster
   has said.&#160;

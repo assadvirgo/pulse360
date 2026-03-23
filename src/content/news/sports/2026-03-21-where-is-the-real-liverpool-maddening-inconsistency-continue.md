@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: After a dominant midweek showing, Liverpool came crashing back to earth
   in the Premier League yet again.
 displayOrder: 999

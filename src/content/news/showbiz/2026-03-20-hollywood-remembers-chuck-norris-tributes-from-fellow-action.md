@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: 'UPDATED with more reactions: Arnold Schwarzenegger, Jean-Claude Van
   Damme, Sylvester Stallone, Dolph Lundgren and Stephen King are among those paying
   tribute to Chuck Norris, the…'

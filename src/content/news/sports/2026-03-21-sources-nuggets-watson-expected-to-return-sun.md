@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Peyton Watson is expected to return for Denver on Sunday against the
   Trail Blazers after missing more than six weeks due to a hamstring strain.
 displayOrder: 999

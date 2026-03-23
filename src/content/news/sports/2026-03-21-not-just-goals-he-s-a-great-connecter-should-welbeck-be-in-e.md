@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Danny Welbeck scores two goals against Liverpool on Saturday to take
   his tally for the season to 12 - one day after he was left out of Thomas Tuchel's
   England squad.

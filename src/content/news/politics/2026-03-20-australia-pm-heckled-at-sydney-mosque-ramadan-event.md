@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Australia
+countryCode: AU
 description: The government's response to the Israel-Gaza war and rising Islamophobia
   has angered many Muslim Australians.
 displayOrder: 999

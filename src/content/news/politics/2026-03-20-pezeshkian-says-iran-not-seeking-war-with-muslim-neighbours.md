@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Iran’s President Masoud Pezeshkian says his country is not seeking war
   with its neighbours.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: India
+countryCode: IN
 description: Reports from across India point to rising sales of biomass fuels like
   firewood and cow dung cakes.
 displayOrder: 999

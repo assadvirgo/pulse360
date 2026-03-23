@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: In a sport often dominated by private schools, Northampton School for
   Boys are one win away from securing a league and cup double.
 displayOrder: 999

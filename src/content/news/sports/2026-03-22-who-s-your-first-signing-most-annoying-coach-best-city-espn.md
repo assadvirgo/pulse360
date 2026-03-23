@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Spain
+countryCode: ES
 description: LaLiga players answered ESPN's questions on everything from which one
   star they would sign for their team to those all-important EA FC player ratings.
 displayOrder: 999

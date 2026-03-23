@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: We're tracking how every winner punches its ticket to the Sweet 16 of
   the 2026 NCAA tournament.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Iran says it launched multiple ballistic missile and drone strikes, targeting
   bases across Israel, UAE, and Kuwait.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Harvard University has rejected the complaint as &#039;another pretextual
   and retaliatory action&#039; from the Trump White House.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: In an initial statement, the US military said three people survived the
   strike but did not offer additional details.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Cuba
+countryCode: CU
 description: More than 10 million people are enduring power cuts after Cuba's national
   electrical grid collapsed again.
 displayOrder: 999

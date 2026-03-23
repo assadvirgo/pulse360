@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Leicester City remain at the bottom of the WSL table after Aston Villa
   mount a come back from one goal down to win 2-1 at King Power Stadium.
 displayOrder: 999

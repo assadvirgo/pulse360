@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Rescue teams headed to the site of a suspected Israeli attack in Gaza
   City to control the blaze.
 displayOrder: 999

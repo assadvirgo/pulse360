@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Iranians are concerned about the impact of potential attacks on power
   plants as the scope of US-Israel war expands.
 displayOrder: 999

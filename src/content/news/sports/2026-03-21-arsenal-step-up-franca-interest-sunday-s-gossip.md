@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Roma's Wesley Franca emerges as a target for Arsenal, Liverpool and Chelsea
   keen on Real Madrid midfielder Eduardo Camavinga while Marcus Rashford faces uncertain
   Barcelona future.

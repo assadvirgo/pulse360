@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: Video shows the moment Israeli jets strike the Qasmiyeh Bridge over the
   Litani River in southern Lebanon.
 displayOrder: 999

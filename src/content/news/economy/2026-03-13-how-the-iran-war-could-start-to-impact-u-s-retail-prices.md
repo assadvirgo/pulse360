@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: The retail industry could soon be taking the next hit from the Iran war's
   disruption to the global supply chain.
 displayOrder: 999

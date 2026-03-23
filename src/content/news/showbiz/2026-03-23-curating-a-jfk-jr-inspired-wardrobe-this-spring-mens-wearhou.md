@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: The aftershocks of Hulu&#8217;s &#8220;Love Story&#8221; are being felt
   far beyond the streamer&#8217;s record-breaking viewership numbers. Since the series
   premiered, a new…

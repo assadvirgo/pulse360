@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Saturday Night Live UK. What is it?! Painful, that’s what. Yeah, seriously.
   Beyond seriously unfunny. The show launched on Sky Saturday night with a dire Cold
   Open featuring prime…

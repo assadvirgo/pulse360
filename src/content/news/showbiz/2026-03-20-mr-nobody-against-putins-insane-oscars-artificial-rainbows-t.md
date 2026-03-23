@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: Denmark
+countryCode: DK
 description: 'On a beautiful spring morning in Copenhagen, a newly minted superstar
   walked into the courtyard of the imposing Kunsthal Charlottenborg museum: Danish
   producer Helle Faber, whose…'

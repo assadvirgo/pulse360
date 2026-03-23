@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Spain
+countryCode: ES
 description: All the updates as Real Madrid come from behind to beat Atletico and
   stay in touch with league leaders Barca.
 displayOrder: 999

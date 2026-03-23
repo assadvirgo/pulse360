@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Inspired by real immigrant stories, H1B.Life captures the uncertainty,
   trade-offs, and pure luck that shape the lives of people trying to build a future
   in the US.

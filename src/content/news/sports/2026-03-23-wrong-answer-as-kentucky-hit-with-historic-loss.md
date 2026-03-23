@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: On Sunday, there was one stat that couldn't be easily dismissed -- the
   margin of defeat. The Wildcats' 19-point loss in an 82-63 defeat against Iowa State
   was Kentucky's largest…

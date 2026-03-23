@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: At the time, Musk had tweeted that Twitter had too many bots, which is
   why he was trying to renege on his commitment to buy the company.
 displayOrder: 999

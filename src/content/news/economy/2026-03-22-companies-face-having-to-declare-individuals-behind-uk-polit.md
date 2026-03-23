@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United Kingdom
+countryCode: GB
 description: Change set to be unveiled as part of rules aimed at curbing foreign interference
 displayOrder: 999
 heroImage: ''

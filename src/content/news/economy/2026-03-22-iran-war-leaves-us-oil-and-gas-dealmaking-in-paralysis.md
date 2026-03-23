@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Surging energy prices have made it challenging to calculate transaction
   valuations
 displayOrder: 999

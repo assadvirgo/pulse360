@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: US President Donald Trump said that Iranian leaders are “all gone” and
   that the White House has “nobody left to talk to.
 displayOrder: 999

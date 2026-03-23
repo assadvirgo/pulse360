@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Princess Diana and Winston Churchill were among a selection of dead Great
   Britons brought back to life with “Jurassic Park” technology in an edgy “Saturday
   Night Live U.K.”…

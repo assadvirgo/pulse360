@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Seventh-seeded NC State beat 10th-seeded Tennessee in the first round
   of the NCAA tournament Friday, handing the Lady Vols their eighth straight loss.
 displayOrder: 999

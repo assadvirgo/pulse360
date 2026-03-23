@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: The Kentucky forward has gotten into manga as a way to help time pass
   while he heals from injury.
 displayOrder: 999

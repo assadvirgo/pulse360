@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Hawaii is currently suffering its worst flooding in more than 20 years,
   with people in the hardest-hit areas being urged to "LEAVE NOW" by officials.
 displayOrder: 999

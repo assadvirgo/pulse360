@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Will the pursuit of a closer relationship with the EU risk courting electoral
   disaster by alienating Brexit-backing voters?
 displayOrder: 999

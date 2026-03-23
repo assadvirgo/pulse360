@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Ryan Woodman aims to shine for Dragons to earn a first Wales cap after
   being called up for the Six Nations.
 displayOrder: 999

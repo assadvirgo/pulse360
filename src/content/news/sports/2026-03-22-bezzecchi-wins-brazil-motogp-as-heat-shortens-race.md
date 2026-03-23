@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Brazil
+countryCode: BR
 description: Italy's Marco Bezzecchi's impressive start to the MotoGP season continues
   with victory in Brazil in a race shortened to 31 laps due to extreme heat.
 displayOrder: 999

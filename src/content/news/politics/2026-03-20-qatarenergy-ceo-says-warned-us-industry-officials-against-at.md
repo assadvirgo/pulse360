@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Qatar
+countryCode: QA
 description: QatarEnergy CEO Saad al-Kaabi says he warned US of &#039;consequences&#039;
   of attacking Iranian energy infrastructure.
 displayOrder: 999

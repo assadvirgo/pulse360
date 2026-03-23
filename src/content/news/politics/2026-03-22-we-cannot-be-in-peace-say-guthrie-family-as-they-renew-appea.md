@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: A seven-week nationwide search for 84-year-old Nancy Guthrie, the mother
   of TV anchor Savannah Guthrie has not identified any suspects.
 displayOrder: 999

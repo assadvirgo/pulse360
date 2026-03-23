@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Overseas investors at first—then Americans
 displayOrder: 999
 heroImage: ''

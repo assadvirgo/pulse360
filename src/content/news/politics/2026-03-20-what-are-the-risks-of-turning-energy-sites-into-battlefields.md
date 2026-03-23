@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Oil and gas facilities in the Gulf have been attacked since early in
   the war on Iran.
 displayOrder: 999

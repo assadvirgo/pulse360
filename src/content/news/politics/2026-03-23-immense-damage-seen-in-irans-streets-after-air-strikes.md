@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Videos show the aftermath of strikes in Iran, as search teams recover
   bodies from rubble.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Italy
+countryCode: IT
 description: Two people have been killed after being caught in a large avalanche in
   northern Italy, the country's mountain rescue service has said.
 displayOrder: 999

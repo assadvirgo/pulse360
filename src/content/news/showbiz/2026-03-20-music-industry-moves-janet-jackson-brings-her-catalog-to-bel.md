@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: France
+countryCode: FR
 description: Janet Jackson has signed a long-term deal with France-based independent
   music company Believe that sees her entire catalog moving to the company’s recently
   launched publishing…

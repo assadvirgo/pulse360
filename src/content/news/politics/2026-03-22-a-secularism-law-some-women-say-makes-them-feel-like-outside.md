@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Canada
+countryCode: CA
 description: Canada's Supreme Court will hear a challenge to Quebec's Bill 21, which
   bars some public sector workers, including teachers, from wearing religious symbols.
 displayOrder: 999

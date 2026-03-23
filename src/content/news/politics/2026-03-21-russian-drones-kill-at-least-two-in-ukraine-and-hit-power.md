@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Ukraine
+countryCode: UA
 description: Russian drone strikes have killed at least two people in Zaporizhzhia
   and left most of a northern region without power, Ukrainian officials have said.
 displayOrder: 999

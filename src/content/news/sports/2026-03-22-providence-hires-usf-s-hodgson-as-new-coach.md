@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Providence has hired South Florida's Bryan Hodgson as its next men's
   basketball coach.
 displayOrder: 999

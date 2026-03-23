@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Parts of the UK enjoyed breathtaking views of the Northern Lights overnight
   - and more is forecast for Saturday.
 displayOrder: 999

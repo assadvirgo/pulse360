@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: China
+countryCode: CN
 description: Whispers in May, Dongnan Chen’s film exploring the rite of passage of
   a 14-year-old girl in rural China, won the top award at CPH:DOX in Copenhagen Friday
   night, automatically…

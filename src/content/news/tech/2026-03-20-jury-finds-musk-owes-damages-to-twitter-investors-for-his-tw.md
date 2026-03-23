@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Verdict, while not a complete loss, could still cost him billions.
 displayOrder: 999
 heroImage: ''

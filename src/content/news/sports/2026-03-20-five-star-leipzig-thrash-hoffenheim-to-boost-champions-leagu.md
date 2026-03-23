@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Germany
+countryCode: DE
 description: RB Leipzig thrash Hoffenheim 5-0 in the Bundesliga to secure a vital
   win in the race to finish in the top four and qualify for next season's Champions
   League.

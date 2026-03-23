@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Two pilots have died after a passenger plane collided with a fire truck
   at New York's LaGuardia Airport.
 displayOrder: 13

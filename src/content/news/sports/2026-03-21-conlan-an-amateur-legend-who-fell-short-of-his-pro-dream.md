@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Ireland
+countryCode: IE
 description: Michael Conlan began his professional boxing career with great fanfare
   and an ambition to become a multi-weight champion, but despite going close, he was
   unable to replicate his…

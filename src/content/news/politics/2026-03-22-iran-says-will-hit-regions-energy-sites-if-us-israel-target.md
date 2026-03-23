@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Iran warns of &#039;irreversibly&#039; destroying vital infrastructure
   across region after Trump threatens to bomb power plants.
 displayOrder: 999

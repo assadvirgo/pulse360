@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Theme park lovers who yearn for the mines will have their wish granted
   in 2027 with the debut of Minecraft World. A $70 million project opening within
   Chessington World Adventures…

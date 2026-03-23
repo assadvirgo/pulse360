@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Cuba
+countryCode: CU
 description: Another total failure of its power grid underlines Cuba's hardship under
   a US-imposed fuel blockade.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Faced with reports that two US prosecutors have opened probes, the left-wing
   leader denies links to drug traffickers.
 displayOrder: 999

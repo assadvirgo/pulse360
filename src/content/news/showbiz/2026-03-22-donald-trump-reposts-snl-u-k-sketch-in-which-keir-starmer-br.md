@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: President Trump didn&#8217;t seem to care that &#8220;Saturday Night
   Live U.K.&#8217;s&#8221; first-ever opening sketch was spoofing him, since he posted
   the segment on his Truth…

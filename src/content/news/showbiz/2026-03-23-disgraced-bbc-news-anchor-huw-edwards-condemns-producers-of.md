@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Disgraced former BBC news anchor Huw Edwards has condemned an upcoming
   dramatization of his downfall. Edwards, who became the BBC’s best paid and best
   known news anchor over his…

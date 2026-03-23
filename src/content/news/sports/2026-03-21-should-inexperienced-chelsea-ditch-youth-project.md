@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Match of the Day pundits Alan Shearer and Wayne Rooney insist Chelsea
   need to pivot away from their transfer strategy focused soley on purchasing younger
   players, believing their…

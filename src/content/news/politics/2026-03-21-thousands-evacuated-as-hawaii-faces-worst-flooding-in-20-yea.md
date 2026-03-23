@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: '"Don''t take this storm lightly," Hawaii Governor Josh Green warned
   on Saturday, as more rain is expected on Oahu and Maui.'
 displayOrder: 999

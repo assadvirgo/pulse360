@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Closed borders will make the country smaller, poorer and less innovative
 displayOrder: 999
 heroImage: ''

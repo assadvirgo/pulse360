@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Iran
+countryCode: IR
 description: Gold, often a haven during times of stress, has been falling. Meanwhile,
   stocks are down, but not as much as many expected.
 displayOrder: 999

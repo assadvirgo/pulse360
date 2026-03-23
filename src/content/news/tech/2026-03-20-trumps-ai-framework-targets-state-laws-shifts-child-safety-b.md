@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Trump’s AI framework pushes federal preemption of state laws, emphasizes
   innovation, and shifts responsibility for child safety toward parents while laying
   out lighter-touch rules…

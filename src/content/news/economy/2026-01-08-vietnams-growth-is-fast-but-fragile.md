@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: Vietnam
+countryCode: VN
 description: The economy is unduly reliant on a handful of conglomerates
 displayOrder: 999
 heroImage: ''

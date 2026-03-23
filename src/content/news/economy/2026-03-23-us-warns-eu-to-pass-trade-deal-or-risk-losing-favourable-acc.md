@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: European parliament set to vote this week on whether to ratify Turnberry
   agreement signed last year
 displayOrder: 47

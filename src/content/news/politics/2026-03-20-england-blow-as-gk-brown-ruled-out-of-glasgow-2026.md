@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Jaz Brown could have played a key role for England's Roses at Glasgow
   2026, but a serious Achilles injury has scuppered the goal keeper's hopes.
 displayOrder: 999

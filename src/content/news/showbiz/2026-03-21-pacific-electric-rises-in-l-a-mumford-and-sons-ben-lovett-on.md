@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Taylor Goldsmith, the frontman of Dawes, was addressing the crowd from
   the stage at the grand opening of Pacific Electric, a brand new venue near downtown
   L.A., when he made it…

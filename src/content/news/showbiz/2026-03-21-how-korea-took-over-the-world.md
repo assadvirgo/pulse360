@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: South Korea
+countryCode: KR
 description: Even before “KPop Demon Hunters” picked up those historic statuettes
   on Oscar night, K-culture was already conquering America, with BTS packing stadiums
   and frozen kimbap selling…

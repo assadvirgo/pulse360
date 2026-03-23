@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: St Helens put in a dominant first-half performance to earn a Super League
   win away at Toulouse.
 displayOrder: 999

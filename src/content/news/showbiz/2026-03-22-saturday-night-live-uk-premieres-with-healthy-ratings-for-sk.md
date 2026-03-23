@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Saturday Night Live landed in the UK with nearly 230,000 viewers. Sky&#8217;s
   remake of NBC&#8217;s 50-year-old comedy series has had a mixed set of reviews,
   which skew positive…

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Switzerland
+countryCode: CH
 description: Move comes as Swiss government also closed its airspace to US military
   flights directly linked to the Iran war.
 displayOrder: 999

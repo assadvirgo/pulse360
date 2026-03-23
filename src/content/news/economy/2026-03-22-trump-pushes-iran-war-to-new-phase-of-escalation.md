@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: US president’s 48-hour ultimatum to open Strait of Hormuz follows series
   of tit-for-tat strikes by Tehran
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Cuba
+countryCode: CU
 description: Power grid collapses for a third time in March as the Cuban government
   battles a US-imposed oil blockade.
 displayOrder: 999

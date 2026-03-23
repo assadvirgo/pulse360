@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Our estimate of their impact will update every month
 displayOrder: 999
 heroImage: ''

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: The Niners aren't exercising the option bonus for Trent Williams but
   still hope to work out a deal.
 displayOrder: 999

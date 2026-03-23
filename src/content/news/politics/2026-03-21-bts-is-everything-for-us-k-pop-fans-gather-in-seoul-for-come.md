@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: South Korea
+countryCode: KR
 description: Some 260,000 fans are expected to watch BTS perform together on Saturday
   for the first time since 2022.
 displayOrder: 999

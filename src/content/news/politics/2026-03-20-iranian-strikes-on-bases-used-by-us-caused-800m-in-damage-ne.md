@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Much of the damage was caused in initial retaliatory strikes by Iran
   in the week after the US and Israel launched its operation.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Liverpool are considering Newcastle United's Anthony Gordon as a replacement
   for Cody Gakpo. Transfer Talk has the latest.
 displayOrder: 999

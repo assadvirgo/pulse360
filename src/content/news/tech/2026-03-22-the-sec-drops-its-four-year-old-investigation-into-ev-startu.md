@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: After four years, and multiple subpoenas and depositions, the beleaguered
   startup has dodged yet another bullet.
 displayOrder: 999

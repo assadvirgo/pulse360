@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Nexstar has closed its $6.2 billion acquisition of Tegna after winning
   approval from the Federal Communications Commission and Department of Justice.
 displayOrder: 999

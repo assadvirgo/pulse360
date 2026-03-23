@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: Denmark
+countryCode: DK
 description: '''The Secret Reading Club of Kabul'' and ''The Phantom Pain of Rojava''
   are also among the honorees of the 23rd edition of the Copenhagen documentary festival.'
 displayOrder: 999

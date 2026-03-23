@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: South Africa
+countryCode: ZA
 description: '"The only box we ticked was George Linde, who played a really nice cameo
   towards the end, but we didn''t get any partnerships going," the South Africa batting
   coach said'

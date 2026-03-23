@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Elon Musk has been found liable by a California jury for misleading Twitter
   shareholders amid his $44 billion acquisition of the social media platform in 2022.
   On Friday, the jury…

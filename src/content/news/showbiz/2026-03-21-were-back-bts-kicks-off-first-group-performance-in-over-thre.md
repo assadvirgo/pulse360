@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: South Korea
+countryCode: KR
 description: The K-pop supergroup’s massive outdoor concert, being broadcast live
   from Seoul landmark Gwanghwamun, is officially underway.
 displayOrder: 999

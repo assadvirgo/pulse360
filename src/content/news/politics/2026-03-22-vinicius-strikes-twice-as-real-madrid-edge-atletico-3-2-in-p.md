@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Spain
+countryCode: ES
 description: Real stay within four points of league leaders Barcelona with hard-fought
   win in Madrid derby.
 displayOrder: 999

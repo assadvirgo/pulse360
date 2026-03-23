@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Manufacturer warns of "major crisis" as conflict in Gulf impacts freight
   costs
 displayOrder: 999

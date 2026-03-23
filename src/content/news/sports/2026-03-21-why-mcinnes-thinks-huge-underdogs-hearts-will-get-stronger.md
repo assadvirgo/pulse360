@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Hearts head coach Derek McInnes says they "will get stronger" in the
   final seven games. With players returning to bolster his squad, you can see why.
 displayOrder: 999

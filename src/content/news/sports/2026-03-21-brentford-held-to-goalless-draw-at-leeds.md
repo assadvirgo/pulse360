@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Leeds United play out a goalless draw against Brentford at Elland Road
   seeing themmove four points clear of the Premier League's bottom three.
 displayOrder: 999

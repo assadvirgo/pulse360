@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Great Britain claim three golds in a sensational 28 minutes to make history
   and achieve the team's best-ever haul at the World Athletics Indoor Championships.
 displayOrder: 999

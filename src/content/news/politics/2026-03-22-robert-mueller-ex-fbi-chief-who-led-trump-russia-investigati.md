@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: A former FBI director, Mueller led the high-profile inquiry into alleged
   Russian interference in the 2016 US election
 displayOrder: 999

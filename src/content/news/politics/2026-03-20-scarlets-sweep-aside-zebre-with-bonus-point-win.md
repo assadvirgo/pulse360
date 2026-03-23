@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Scarlets come out on top of the United Rugby Championship basement battle,
   running in six tries against a lacklustre Zebre.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: India
+countryCode: IN
 description: Global trade turmoil presents a rare opportunity
 displayOrder: 999
 heroImage: ''

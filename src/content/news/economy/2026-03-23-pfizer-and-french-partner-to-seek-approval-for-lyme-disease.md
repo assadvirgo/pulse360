@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: France
+countryCode: FR
 description: Pharmaceutical giant Pfizer and French partner Valneva on Monday said
   they planned to seek regulatory approval for a Lyme disease vaccine after a late-stage
   trial.

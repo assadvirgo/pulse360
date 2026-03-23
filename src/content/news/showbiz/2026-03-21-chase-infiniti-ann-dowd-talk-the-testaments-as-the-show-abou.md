@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: France
+countryCode: FR
 description: 'The wait is over: The world premiere of “The Testaments” took place
   at French festival Series Mania.&#160; The new show, produced by MGM Television
   and based on Margaret Atwood’s…'

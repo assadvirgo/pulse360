@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Yemen
+countryCode: YE
 description: The Yemeni armed group says all options are on the table.
 displayOrder: 999
 heroImage: ''

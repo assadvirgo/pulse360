@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: We followed all the action from eight games Sunday as half of the Sweet
   16 was set in the women's NCAA tournament.
 displayOrder: 999

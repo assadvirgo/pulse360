@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: The Trump administration insists Bill Maher will not be receiving the
   prestigious Mark Twain Award for American Humor. “This is fake news,&#8221; White
   House Press Secretary…

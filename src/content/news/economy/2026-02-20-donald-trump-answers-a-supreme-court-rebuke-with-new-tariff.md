@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: The immediate economic impact will be more uncertainty
 displayOrder: 999
 heroImage: ''

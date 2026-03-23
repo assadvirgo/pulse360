@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: China
+countryCode: CN
 description: Building on top of a Chinese model feels particularly fraught right now.
 displayOrder: 999
 heroImage: ''

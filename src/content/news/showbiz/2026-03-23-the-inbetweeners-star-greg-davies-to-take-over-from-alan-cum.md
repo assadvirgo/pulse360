@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United Kingdom
+countryCode: GB
 description: Comedian Greg Davies is set to take over from Alan Cumming as host of
   the BAFTA TV Awards 2026. Davies, who played Mr. Gilbert in “The Inbetweeners” and
   is currently the host of…

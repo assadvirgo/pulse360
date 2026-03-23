@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iraq
+countryCode: IQ
 description: One police officer killed in strike by &#039;outlaw groups&#039; on headquarters
   of Iraqi National Intelligence Service.
 displayOrder: 999

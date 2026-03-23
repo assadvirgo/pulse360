@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Bangladesh
+countryCode: BD
 description: Bashar replaces Gazi Ashraf whose tenure ended in February
 displayOrder: 26
 heroImage: ''

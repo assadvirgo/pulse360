@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: We followed all the action from 16 games throughout Day 2 of the women's
   NCAA tournament.
 displayOrder: 999

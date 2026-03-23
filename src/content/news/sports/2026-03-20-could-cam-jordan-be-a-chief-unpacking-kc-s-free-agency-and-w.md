@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: The Chiefs hope their free agent class can make a bigger impact than
   last year's underwhelming acquisitions.
 displayOrder: 999

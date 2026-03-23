@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Lebanon
+countryCode: LB
 description: Families displaced by Israeli strikes are sheltering in tents across
   Beirut, as rain falls.
 displayOrder: 999

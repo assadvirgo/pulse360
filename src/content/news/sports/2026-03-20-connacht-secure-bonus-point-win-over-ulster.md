@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Ireland
+countryCode: IE
 description: Connacht produce a powerful second-half display to secure a statement
   United Rugby Championship victory over Ulster at the Affidea Stadium.
 displayOrder: 999

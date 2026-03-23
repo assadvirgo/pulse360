@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Strikes on gas sites in the Iran war are driving up energy costs, pushing
   up prices for power, food and more worldwide.
 displayOrder: 12

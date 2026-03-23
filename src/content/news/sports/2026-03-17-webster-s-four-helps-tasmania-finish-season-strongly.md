@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Australia
+countryCode: AU
 description: A successful chase was always unlikely for Queensland who had started
   the round a chance of the final
 displayOrder: 999

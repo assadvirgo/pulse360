@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: Massive Western heat wave, potential El Niño raise concerns about unpredictable,
   extreme weather.
 displayOrder: 999

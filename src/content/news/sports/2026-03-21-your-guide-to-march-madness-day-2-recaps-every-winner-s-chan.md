@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: ESPN's reporters on-site across the country detail how each game was
   won Friday, plus look ahead to Sunday.
 displayOrder: 999

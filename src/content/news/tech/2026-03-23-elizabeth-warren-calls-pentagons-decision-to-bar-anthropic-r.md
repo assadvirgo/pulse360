@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren
   (D-MA) equated the DOD's decision to label Anthropic a "supply-chain risk" as retaliation,
   arguing that the…

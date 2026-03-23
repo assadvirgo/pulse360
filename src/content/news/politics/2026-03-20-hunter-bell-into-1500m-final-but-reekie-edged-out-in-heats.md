@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United Kingdom
+countryCode: GB
 description: Great Britain's Georgia Hunter Bell wins her heat to qualify for the
   final of the women's 1500m at the World Indoor Athletics Championships in Poland,
   but fellow GB athlete Jemma…

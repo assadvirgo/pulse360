@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: Shortly after Amazon announced its $50 billion investment in OpenAI,
   AWS invited me on a private tour of the chip lab at the heart of the deal.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: South Africa
+countryCode: ZA
 description: Stormers move back to second in the United Rugby Championship with a
   four-try victory against Dragons in Cape Town.
 displayOrder: 999

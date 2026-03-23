@@ -1,5 +1,7 @@
 ---
 category: Tech
+country: United States
+countryCode: US
 description: 'The Trump administration on Friday unveiled its new legislative blueprint
   for AI regulation, and the seven-point plan includes a clear message: The federal
   government should avoid…'

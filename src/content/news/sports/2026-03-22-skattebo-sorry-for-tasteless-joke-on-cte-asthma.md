@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United States
+countryCode: US
 description: Giants running back Cam Skattebo apologized Saturday for the comments
   he made on CTE and asthma on a recent podcast appearance.
 displayOrder: 999

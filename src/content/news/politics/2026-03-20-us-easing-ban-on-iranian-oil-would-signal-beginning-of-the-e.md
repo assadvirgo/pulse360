@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: United States
+countryCode: US
 description: The US says it is considering removing sanctions on Iranian oil stranded
   on tankers at sea.
 displayOrder: 999

@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Ukraine
+countryCode: UA
 description: Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine
   bombed by Russia really is, as its oil flow remains suspended.
 displayOrder: 999

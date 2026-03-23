@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Iran
+countryCode: IR
 description: Donald Trump&#039;s Strait of Hormuz deadline for Iran raises concerns
   about attacks on energy in the Middle East.
 displayOrder: 43

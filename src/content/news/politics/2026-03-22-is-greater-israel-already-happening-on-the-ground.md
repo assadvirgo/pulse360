@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: Israel
+countryCode: IL
 description: From a verse in the Bible, to a map, to strategy, to action, Greater
   Israel has stopped being just a concept.
 displayOrder: 999

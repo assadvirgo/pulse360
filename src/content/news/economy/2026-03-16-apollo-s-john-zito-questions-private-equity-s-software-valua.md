@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: While Wall Street figures have flagged risks in private credit, Apollo's
   Zito is among the first within private credit to candidly acknowledge weakness.
 displayOrder: 999

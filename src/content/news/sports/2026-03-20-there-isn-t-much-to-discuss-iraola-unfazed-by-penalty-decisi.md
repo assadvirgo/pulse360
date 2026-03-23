@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Bournemouth manager Andoni Iraola says "there isn't much to discuss"
   when asked about the controversial penalty decisions during his sides 2-2 with Manchester
   United, a draw which…

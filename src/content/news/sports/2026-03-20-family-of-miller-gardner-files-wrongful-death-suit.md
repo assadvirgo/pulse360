@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: Costa Rica
+countryCode: CR
 description: The family of former Yankees outfielder Brett Gardner has filed a wrongful
   death lawsuit against the Costa Rican resort where their 14-year-old son Miller
   was found dead of carbon…

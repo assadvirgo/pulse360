@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Sarah Michelle Gellar, David Boreanaz, Alyson Hannigan and Emma Caulfield
   Ford are remembering Brendon, who died Friday in his sleep of natural causes, his
   family shared in a…

@@ -1,5 +1,7 @@
 ---
 category: Sports
+country: United Kingdom
+countryCode: GB
 description: Premier League leaders Arsenal face title rivals Manchester City in the
   EFL Cup final on Sunday, but how important could the result prove in title race?
 displayOrder: 999

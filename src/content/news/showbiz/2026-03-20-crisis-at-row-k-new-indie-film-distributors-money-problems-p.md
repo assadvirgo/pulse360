@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: Less than eight months after it launched, Row K Entertainment, a new
   Hollywood distribution label, is being beset with unpaid bills and concerns about
   its finances. Eight sources…

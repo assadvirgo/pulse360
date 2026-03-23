@@ -1,5 +1,7 @@
 ---
 category: Showbiz
+country: United States
+countryCode: US
 description: 'UPDATED, Friday PM: Amazon MGM Studios&#8217; Project Hail Mary is shooting
   for a massive $31M today (including previews) and the best opening of 2026 so far
   with $71.1M at 4,007…'

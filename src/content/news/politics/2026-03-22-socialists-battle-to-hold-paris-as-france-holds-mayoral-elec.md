@@ -1,5 +1,7 @@
 ---
 category: Politics
+country: France
+countryCode: FR
 description: The capital could shift to the right after 25 years under the Socialists
   if Rachida Dati defeats Emmanuel Grégoire.
 displayOrder: 999

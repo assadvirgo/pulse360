@@ -1,5 +1,7 @@
 ---
 category: Economy
+country: United States
+countryCode: US
 description: Bob Iger is stepping aside as Josh D'Amaro, who previously served as
   chairman of Disney's experiences division, takes over as CEO.
 displayOrder: 999
