@@ -3,7 +3,7 @@ category: Politics
 description: The Earth's climate is in a "state of emergency", according to the United
   Nations which has warned it is more out of balance than at any other time in observed
   history.&#160;
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-03-23T11:17:00Z'

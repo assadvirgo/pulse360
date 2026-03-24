@@ -5,7 +5,7 @@ countryCode: US
 description: Lilias Folan, sometimes described as &#8220;The First Lady Of Yoga&#8221;
   because of her nearly 30-year-run as host of PBS&#8217; weekday program Lilias,
   Yoga and You, died March…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-03-23T20:43:22Z'
