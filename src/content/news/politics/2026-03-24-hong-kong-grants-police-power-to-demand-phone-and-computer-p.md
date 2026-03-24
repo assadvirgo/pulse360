@@ -2,7 +2,7 @@
 category: Politics
 description: The new provisions allow police to seize items with &#039;seditious intention&#039;,
   bypassing judicial authorisations.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-24T09:12:24Z'

@@ -5,7 +5,7 @@ countryCode: IN
 description: With &#8220;Dhurandhar&#8221; shattering records and 37 films crossing
   the INR1 billion ($10.7 million) box office threshold, India&#8217;s filmed entertainment
   segment posted its…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-03-24T09:34:03Z'

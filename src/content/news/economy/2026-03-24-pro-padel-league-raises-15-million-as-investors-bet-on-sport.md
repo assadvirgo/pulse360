@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Pro Padel League has raised $15 million in new funding as it looks
   to accelerate its next phase of growth in the U.S.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 46.5
 pubDate: '2026-03-24T12:00:01Z'

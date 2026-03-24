@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Results underline fintech’s improving fortunes after clinching full UK
   banking licence
-displayOrder: 19
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-24T10:04:54Z'

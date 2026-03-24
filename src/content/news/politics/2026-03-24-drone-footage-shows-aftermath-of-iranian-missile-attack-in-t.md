@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Drone footage shows extensive damage to a multi-storey residential building
   in Tel Aviv after a wave of Iranian attacks.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-24T09:29:59Z'

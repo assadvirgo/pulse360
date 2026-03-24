@@ -2,7 +2,7 @@
 category: Economy
 description: Christine Lagarde is impatient with Howard Lutnick, short-termist European
   politicians and the slow pace at which Europe is adopting the digital euro
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 66.5
 pubDate: '2026-03-24T11:58:00Z'

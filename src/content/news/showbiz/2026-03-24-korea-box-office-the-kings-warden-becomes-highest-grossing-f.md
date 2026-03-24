@@ -5,7 +5,7 @@ countryCode: KR
 description: Historical drama &#8220;The King&#8217;s Warden&#8221; made cinematic
   history during the weekend of Mar. 20–22, becoming the highest-grossing film of
   all time in South Korea.…
-displayOrder: 4
+displayOrder: 23
 heroImage: ''
 importance: 68.8
 pubDate: '2026-03-24T08:18:03Z'

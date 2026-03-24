@@ -2,7 +2,7 @@
 category: Tech
 description: Enjoy 20% off your first order with a Brooks coupon code, plus top discounts
   and deals on our favorite Brooks running shoes.
-displayOrder: 29
+displayOrder: 47
 heroImage: ''
 importance: 54.2
 pubDate: '2026-03-24T05:00:00Z'

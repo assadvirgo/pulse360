@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Sumitomo Mitsui’s banking unit holds minority stake in US investment
   bank
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 42.5
 pubDate: '2026-03-24T07:23:06Z'
