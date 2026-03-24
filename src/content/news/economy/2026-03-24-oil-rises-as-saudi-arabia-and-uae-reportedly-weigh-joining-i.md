@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Energy prices are once again moving higher after a big decline on Monday.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-24T10:23:00Z'

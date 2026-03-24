@@ -5,7 +5,7 @@ countryCode: US
 description: In the 1970s, soaring inflation — along with misguided efforts by Washington,
   D.C., to control it — wreaked havoc on the economy. In just under a decade, from
   1973 to 1982, the…
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-24T14:44:00Z'

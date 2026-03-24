@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Video shows the aftermath of an airstrike in Iraq’s Anbar province on
   a headquarters of the Popular Mobilisation Forces.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-03-24T08:43:47Z'

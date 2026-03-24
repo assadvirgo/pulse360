@@ -5,7 +5,7 @@ countryCode: US
 description: Layoffs have hit Fortnite developer Epic Games again. Today CEO Tim Sweeney
   announced that the company is cutting more than 1,000 jobs, citing a downturn in
   engagement for…
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 56.2
 pubDate: '2026-03-24T14:54:28Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Last year, Congress dropped widely supported military right-to-repair
   provisions from the annual defense policy bill - and now we may know who was pushing
   them to do it. Recently…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 66.2
 pubDate: '2026-03-24T14:34:34Z'

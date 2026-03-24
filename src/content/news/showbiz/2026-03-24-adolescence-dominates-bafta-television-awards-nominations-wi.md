@@ -5,7 +5,7 @@ countryCode: GB
 description: Adolescence&#8217;s awards hot streak could be heading for a big crescendo
   after the Netflix series dominated nominations for the BAFTA Television Awards.
   The Stephen Graham and…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-03-24T12:00:05Z'

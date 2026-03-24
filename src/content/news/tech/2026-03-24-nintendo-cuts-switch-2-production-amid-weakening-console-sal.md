@@ -5,7 +5,7 @@ countryCode: JP
 description: Nintendo will produce fewer Switch 2 units than it previously projected
   in response to weakening demand for the console in the US, Bloomberg reports. Four
   million units of…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-24T11:45:15Z'

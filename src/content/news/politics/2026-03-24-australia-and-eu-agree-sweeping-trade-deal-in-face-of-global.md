@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australia and the EU sign sweeping trade and security deals after years
   of negotiations.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 59.2
 pubDate: '2026-03-24T12:14:15Z'

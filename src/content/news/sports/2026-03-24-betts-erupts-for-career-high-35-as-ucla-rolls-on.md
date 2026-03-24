@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: UCLA star Lauren Betts had a career-high 25 points to lead the way in
   an 87-68 blowout win over Oklahoma State in the second round of the NCAA tournament.
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-24T12:43:29Z'

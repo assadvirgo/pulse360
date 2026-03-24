@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Fintech, where Peter Mandelson and Harvey Schwartz were board members,
   is given £2mn penalty by Bank of England
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-24T11:12:32Z'
