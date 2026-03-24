@@ -110,7 +110,11 @@ function projectCoord([lon, lat]) {
 function ringToPath(ring) {
   return ring.map((coord, i) => {
     const [x, y] = projectCoord(coord);
-    return `${i === 0 ? 'M' : 'L'}${x} ${y}`;
+    // Break the path when crossing the antimeridian (large longitude jump)
+    const cmd = i === 0 ? 'M' : (
+      Math.abs(coord[0] - ring[i - 1][0]) > 170 ? 'M' : 'L'
+    );
+    return `${cmd}${x} ${y}`;
   }).join('') + 'Z';
 }
 
