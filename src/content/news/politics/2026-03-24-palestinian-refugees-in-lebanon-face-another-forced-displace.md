@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: After Israel’s bombing of Beirut’s southern suburb of Dahiyeh, Palestinian
   refugee Dalal Dawali fled to Beddawi camp.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-24T22:39:48Z'

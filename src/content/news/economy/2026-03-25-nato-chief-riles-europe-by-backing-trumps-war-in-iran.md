@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: European capitals irritated by Mark Rutte’s suggestion they will join
   US armada to Strait of Hormuz
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-25T05:00:22Z'

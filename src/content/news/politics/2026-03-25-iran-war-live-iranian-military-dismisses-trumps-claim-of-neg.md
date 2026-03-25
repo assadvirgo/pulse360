@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US-Israeli strikes on Iran continue despite claims of talks, with at
   least 12 killed, 28 wounded in an attack in Tehran.
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 67.5
 pubDate: '2026-03-25T00:00:00Z'

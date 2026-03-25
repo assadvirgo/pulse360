@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Celtic goalkeeper Kasper Schmeichel undergoes the first of two planned
   shoulder surgeries as the veteran looks to salvage his playing career.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-03-24T23:14:45Z'

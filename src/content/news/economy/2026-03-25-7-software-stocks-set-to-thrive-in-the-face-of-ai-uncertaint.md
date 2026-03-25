@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microsoft is one software company that William Blair analyst Jason Ader
   has called out as a likely winner in the age of artificial intelligence.
-displayOrder: 28
+displayOrder: 46
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-25T00:44:00Z'

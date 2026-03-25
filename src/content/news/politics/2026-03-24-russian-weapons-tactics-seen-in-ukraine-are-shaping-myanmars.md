@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: Russian role felt in Myanmar, from aircraft to waves of conscripts launching
   &#039;meat assaults&#039; made infamous in Ukraine.
-displayOrder: 15
+displayOrder: 35
 heroImage: ''
 importance: 70.5
 pubDate: '2026-03-24T23:43:51Z'

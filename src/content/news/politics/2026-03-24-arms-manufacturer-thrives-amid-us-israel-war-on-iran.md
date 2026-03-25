@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Elbit Systems has seen rapid growth as wars intensify across Iran, Palestine,
   and Lebanon.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-24T21:33:59Z'

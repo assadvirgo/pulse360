@@ -5,7 +5,7 @@ countryCode: KR
 description: Even as Studio N notches hits on Netflix, Disney+ and Crunchyroll, earns
   Emmy nominations and breaks Korean box-office records, its CEO says the company
   is still making the case…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-03-25T07:06:02Z'

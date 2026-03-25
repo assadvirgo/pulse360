@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: U.S. soccer fans are being infected by World Cup fever and
   TNT Sports is now set to explore a similar happening 50 years ago. TNT, which will
   move to HBO Max in the UK…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-03-25T08:00:00Z'

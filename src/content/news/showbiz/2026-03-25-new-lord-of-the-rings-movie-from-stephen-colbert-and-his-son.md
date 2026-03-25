@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. has unveiled that Stephen Colbert and his son are developing
   a brand new &#8220;Lord of the Rings&#8221; movie. The announcement came Tuesday
   night via the…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-03-25T04:05:55Z'

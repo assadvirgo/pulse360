@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Members of 82nd Airborne to join other forces in the Middle East ahead
   of president’s deadline for Tehran to end conflict
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-24T23:17:48Z'

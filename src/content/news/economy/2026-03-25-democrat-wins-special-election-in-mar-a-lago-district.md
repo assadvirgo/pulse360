@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Small-business owner focused campaign on rising costs in Donald Trump’s
   backyard
-displayOrder: 34
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-25T02:44:02Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Circle Internet Group, UiPath, HubSpot and SentinelOne were the four
   worst performers in the iShares Expanded Tech-Software Sector ETF on Tuesday.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-24T19:59:00Z'
