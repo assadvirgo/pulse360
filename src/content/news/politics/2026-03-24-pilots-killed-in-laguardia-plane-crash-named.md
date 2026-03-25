@@ -5,7 +5,7 @@ countryCode: US
 description: Investigators released details from the final three minutes of cockpit
   and tower communications, which showed controllers cleared both the plane and a
   fire truck to cross the…
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 69.2
 pubDate: '2026-03-24T20:34:20Z'

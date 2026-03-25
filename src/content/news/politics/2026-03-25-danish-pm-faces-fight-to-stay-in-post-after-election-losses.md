@@ -5,7 +5,7 @@ countryCode: DK
 description: Denmark's centre-left prime minister has said she wants to stay in her
   job after inconclusive election results left the country facing weeks of coalition
   talks.
-displayOrder: 2
+displayOrder: 3
 heroImage: ''
 importance: 74.0
 pubDate: '2026-03-25T01:45:00Z'

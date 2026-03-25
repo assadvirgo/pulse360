@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;NCIS&#8221; has not been shy about letting some of its tertiary
   characters die a dramatic death, but when it comes to letting any of the show&#8217;s
   main cast come to a…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-25T01:08:14Z'

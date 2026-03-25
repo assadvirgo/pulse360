@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Israeli and Palestinian mothers marched barefoot through Rome, calling
   for greater protection for children.
-displayOrder: 18
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-25T01:18:01Z'

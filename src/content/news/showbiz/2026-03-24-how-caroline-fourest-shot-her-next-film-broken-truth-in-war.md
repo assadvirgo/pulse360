@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: After making her narrative feature debut with “Sisters in Arms,” a thriller
   about a battalion of Kurdish female warriors, Caroline Fourest, a prominent French…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-03-24T19:40:40Z'

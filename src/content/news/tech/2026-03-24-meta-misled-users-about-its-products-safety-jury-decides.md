@@ -5,7 +5,7 @@ countryCode: US
 description: Meta willfully violated New Mexico law by misleading users about the
   safety of its products and engaging in an unconscionable trade practice, a jury
   found. The company will face a…
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 66.2
 pubDate: '2026-03-24T21:54:29Z'
