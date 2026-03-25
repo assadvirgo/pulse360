@@ -5,7 +5,7 @@ countryCode: CA
 description: Charles Wachter, who has exec produced reality shows including Amazon’s
   Beast Games, Netflix’s Million Dollar Secret and Hulu’s Got to Get Out, is launching
   a new production…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-03-24T19:17:06Z'

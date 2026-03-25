@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Public interest in government tech abuses is peaking. EFF's new leader
   plans to build on that.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-03-24T21:00:49Z'

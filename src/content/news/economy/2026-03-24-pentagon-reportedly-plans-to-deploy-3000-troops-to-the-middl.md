@@ -5,7 +5,7 @@ countryCode: US
 description: Oil futures climbed by nearly 5% Tuesday, with global prices settling
   above $104 a barrel following a report that the Pentagon plans to deploy an airborne
   Army unit to the Middle…
-displayOrder: 41
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-24T20:25:00Z'

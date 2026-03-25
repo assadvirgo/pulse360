@@ -2,7 +2,7 @@
 category: Politics
 description: The far right struggled to convert momentum into decisive victories across
   a string of recent elections and referendums.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-24T13:20:18Z'

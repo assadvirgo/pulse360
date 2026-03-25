@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Rescuers are trying to save a young humpback whale which is stranded
   in shallow waters in northern Germany.
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-24T20:21:47Z'
