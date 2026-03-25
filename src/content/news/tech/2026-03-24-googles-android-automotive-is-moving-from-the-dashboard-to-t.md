@@ -5,7 +5,7 @@ countryCode: US
 description: Google announced a new version of its Android Automotive open-source
   operating system for software-defined vehicles. Whereas previously Android Automotive
   operated exclusively in…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-03-24T16:00:00Z'

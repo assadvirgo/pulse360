@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “His revenue sharing, which he did not disclose, creates conflicts of
   interest as advisers may be incentivized to recommend funds that pay them more.
-displayOrder: 28
+displayOrder: 36
 heroImage: ''
 importance: 46.5
 pubDate: '2026-03-24T19:30:00Z'

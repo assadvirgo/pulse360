@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The three stainless steel bison will anchor a new year-round plaza outside
   Highmark Stadium.
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-24T20:10:59Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Several states paused gas taxes when oil prices surged in 2022 following
   Russia’s invasion of Ukraine. This time is different, though.
-displayOrder: 39
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-24T18:21:00Z'

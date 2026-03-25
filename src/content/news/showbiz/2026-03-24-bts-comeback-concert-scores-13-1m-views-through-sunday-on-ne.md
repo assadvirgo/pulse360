@@ -5,7 +5,7 @@ countryCode: KR
 description: BTS made their comeback Saturday, performing for live the first time
   in four years in Seoul, South Korea. Luckily, it was streaming on Netflix for the
   fans across the world who…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-03-24T19:18:43Z'

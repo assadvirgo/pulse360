@@ -5,7 +5,7 @@ countryCode: DK
 description: Danes are voting in a general election called early by the country's
   prime minister, in apparent hopes of exploiting public support for her firm stance
   on Greenland.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-03-24T08:04:00Z'

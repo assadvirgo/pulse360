@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Smoke was seen rising close to Roman ruins in the Lebanese city of Tyre
   after an Israeli strike hit a building nearby.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-24T18:06:04Z'

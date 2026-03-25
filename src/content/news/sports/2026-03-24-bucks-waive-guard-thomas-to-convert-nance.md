@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Bucks waived guard Cam Thomas to convert the contract of forward
   Pete Nance into a standard deal.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-24T12:43:29Z'

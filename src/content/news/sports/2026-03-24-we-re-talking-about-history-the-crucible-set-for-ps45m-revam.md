@@ -5,7 +5,7 @@ countryCode: GB
 description: Matchroom Sport president Barry Hearn says it is "unthinkable" the World
   Snooker Championship would be played anywhere other than the Crucible. The Sheffield
   venue will be…
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 62.2
 pubDate: '2026-03-24T14:20:48Z'

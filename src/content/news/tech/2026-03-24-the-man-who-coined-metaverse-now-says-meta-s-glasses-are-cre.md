@@ -5,7 +5,7 @@ countryCode: US
 description: Neal Stephenson didn't invent the virtual reality headset. But Meta certainly
   knows his name - in 1992, his seminal cyberpunk novel Snow Crash coined the phrase
   "Metaverse" to…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 75.2
 pubDate: '2026-03-24T20:08:14Z'
