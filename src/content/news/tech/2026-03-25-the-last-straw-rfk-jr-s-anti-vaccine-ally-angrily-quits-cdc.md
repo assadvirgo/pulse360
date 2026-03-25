@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Robert Malone quit a vaccine panel, blaming an HHS spokesperson for "trashing"
   him.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-03-25T03:43:55Z'

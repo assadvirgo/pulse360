@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza&#039;s professionals adapt careers to survive, shifting from arts
   and business to whatever they can find to make money.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-25T08:34:07Z'

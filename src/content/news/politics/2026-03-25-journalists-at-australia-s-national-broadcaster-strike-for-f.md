@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Staff have walked out for 24 hours over a pay rise offer that was below
   inflation.
-displayOrder: 24
+displayOrder: 43
 heroImage: ''
 importance: 55.2
 pubDate: '2026-03-25T06:28:34Z'

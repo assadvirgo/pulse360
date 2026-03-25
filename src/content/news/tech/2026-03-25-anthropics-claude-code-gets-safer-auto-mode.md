@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic has launched an "auto mode" for Claude Code, a new tool that
   lets AI make permissions-level decisions on users' behalf. The company says the
   feature offers vibe coders a…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-03-25T11:39:46Z'

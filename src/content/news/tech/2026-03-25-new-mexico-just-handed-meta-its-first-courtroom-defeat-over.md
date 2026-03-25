@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The dollar amount isn’t as important as the fact that this is the first
   jury verdict of its kind against Meta over harm to young people.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-03-25T00:14:12Z'

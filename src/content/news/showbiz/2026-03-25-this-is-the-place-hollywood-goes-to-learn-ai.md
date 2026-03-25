@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: USC it isn’t. But the founders of Curious Refuge believe that film and
   TV professionals need tech training — and they’re the ones to provide it.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-03-25T12:00:00Z'

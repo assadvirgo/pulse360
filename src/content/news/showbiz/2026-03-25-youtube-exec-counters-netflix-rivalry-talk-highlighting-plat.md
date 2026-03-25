@@ -5,7 +5,7 @@ countryCode: FR
 description: A week after Netflix co-CEO Ted Sarandos called YouTube a &#8220;straightforward
   direct competitor,&#8221; the platform&#8217;s managing director in France and South
   Europe…
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 61.8
 pubDate: '2026-03-25T11:23:21Z'

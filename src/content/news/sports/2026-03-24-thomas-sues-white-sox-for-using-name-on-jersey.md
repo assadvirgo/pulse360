@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hall of Famer Frank Thomas has filed a lawsuit against the White Sox,
   alleging unauthorized use of his likeness on City Connect 2.0 uniforms last season.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-24T23:58:44Z'

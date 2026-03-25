@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hubert Davis is out after five seasons in Chapel Hill. Here are names
   expected to be on the short list.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-25T03:42:21Z'

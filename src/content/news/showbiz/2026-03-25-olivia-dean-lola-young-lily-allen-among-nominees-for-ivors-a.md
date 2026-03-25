@@ -5,7 +5,7 @@ countryCode: GB
 description: Olivia Dean, Lola Young, Lily Allen, Coldplay, CMAT and Florence + the
   Machine are among the top nominees for the 71st annual Ivor Novello Awards, honoring
   songwriters and…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-03-25T06:59:00Z'

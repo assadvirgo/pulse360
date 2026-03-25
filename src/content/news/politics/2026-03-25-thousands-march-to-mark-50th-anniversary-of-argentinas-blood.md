@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Thousands of people took to the streets in Buenos Aires to mark the 50th
   anniversary of Argentina’s last military coup.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-25T04:57:23Z'
