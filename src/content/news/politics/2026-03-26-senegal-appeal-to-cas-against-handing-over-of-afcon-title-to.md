@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Senegal hope to overturn CAF&#039;s decision to crown Morocco champions
   after a walkout by Senegalese players in the final.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-03-26T06:16:38Z'

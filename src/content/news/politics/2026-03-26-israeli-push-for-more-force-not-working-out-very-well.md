@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: “The Israeli public opinion is to use more force”
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-03-26T07:59:58Z'
