@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: A California jury awarded the plaintiff $3m in damages in the case
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-25T19:30:22Z'

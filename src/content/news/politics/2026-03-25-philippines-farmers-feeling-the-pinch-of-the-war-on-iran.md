@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Cabbage farmers in the Philippines are harvesting their crops at a loss
   as prices plunge and fuel costs soar.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-25T20:59:41Z'

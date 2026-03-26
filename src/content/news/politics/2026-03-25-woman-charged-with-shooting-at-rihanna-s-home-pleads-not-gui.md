@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 35-year-old from Florida remains detained in Los Angeles after the
   8 March shooting.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-03-25T20:31:25Z'
