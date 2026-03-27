@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Fear for future of peaceful protest in Australia while some say Jewish
   community being prioritised over others.
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-27T02:31:23Z'
