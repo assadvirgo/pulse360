@@ -5,7 +5,7 @@ countryCode: US
 description: Sentiment is now comparable to some of its lowest readings, such as in
   the wake of the government shutdown last fall, the “liberation day” tariffs last
   April and when Russia…
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-27T16:06:00Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Andrew Garfield took a brief detour during his recent Hits Radio interview
   to reveal that he only recently just watched the &#8220;Harry Potter&#8221; movie
   franchise, which…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-27T14:36:55Z'
