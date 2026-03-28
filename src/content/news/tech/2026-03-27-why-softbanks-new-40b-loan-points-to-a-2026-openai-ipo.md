@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month,
   unsecured loan to the Japanese conglomerate.
-displayOrder: 24
+displayOrder: 31
 heroImage: ''
 importance: 54.0
 pubDate: '2026-03-27T21:44:45Z'
