@@ -3,7 +3,7 @@ category: Economy
 country: Yemen
 countryCode: YE
 description: Rebels’ participation puts vital maritime routes at greater risk
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-28T10:47:20Z'

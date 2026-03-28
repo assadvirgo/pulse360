@@ -5,7 +5,7 @@ countryCode: US
 description: “Project Hail Mary” easily claimed the top spot at the Friday box office,
   already flexing its longevity as 2026’s first major four-quadrant hit. “Project
   Hail Mary” grossed $14.6…
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 51.8
 pubDate: '2026-03-28T15:51:07Z'

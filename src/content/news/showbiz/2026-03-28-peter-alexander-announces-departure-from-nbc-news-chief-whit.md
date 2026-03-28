@@ -5,7 +5,7 @@ countryCode: US
 description: Peter Alexander, NBC News&#8217; chief White House correspondent and
   co-host of Today on Saturdays, said that he is departing the network. Alexander,
   who has been with the network…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-03-28T13:17:56Z'

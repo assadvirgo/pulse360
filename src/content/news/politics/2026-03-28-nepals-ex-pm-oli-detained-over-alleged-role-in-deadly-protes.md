@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: New home minister says arrest of former leader is the &#039;beginning
   of justice&#039;.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-28T09:50:07Z'

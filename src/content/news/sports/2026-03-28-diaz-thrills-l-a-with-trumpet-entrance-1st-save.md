@@ -5,7 +5,7 @@ countryCode: US
 description: Dodgers closer Edwin Diaz said it was "pretty fun" hearing his entrance
   music at Dodger Stadium for the first time before he locked down his first save
   with his new team in a 5-4…
-displayOrder: 19
+displayOrder: 30
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-28T13:54:33Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Financier’s cross-examination this week has been culmination of his legal
   challenge against regulatory ban and fine
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-03-28T05:00:40Z'

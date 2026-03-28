@@ -5,7 +5,7 @@ countryCode: US
 description: Barry Caldwell, the animator and director known for Animaniacs (1993-&#8217;98)
   and Osmosis Jones (2001), has died. He was 68. The graphic artist&#8217;s longtime
   friend and…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-03-28T15:57:40Z'

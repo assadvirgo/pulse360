@@ -5,7 +5,7 @@ countryCode: CN
 description: There are always a few reasons people give for not buying a foldable
   phone. Some - price, battery life, camera quality - are mostly a matter of manufacturers
   balancing spec sheets…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-03-28T11:00:00Z'

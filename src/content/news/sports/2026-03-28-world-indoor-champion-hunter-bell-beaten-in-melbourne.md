@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Great Britain's Georgia Hunter Bell is beaten in the 1500m in Melbourne
   in her first race since she was crowned women's world indoor champion.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-03-28T13:10:30Z'
