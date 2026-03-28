@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Black smoke is rising over Tehran and Isfahan after early morning US-Israeli
   airstrikes on the cities.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-28T02:27:33Z'

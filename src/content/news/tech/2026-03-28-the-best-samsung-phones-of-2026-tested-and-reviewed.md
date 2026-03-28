@@ -2,7 +2,7 @@
 category: Tech
 description: From flagship and budget to flipping and folding, Samsung’s Galaxy range
   spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-03-28T10:30:00Z'

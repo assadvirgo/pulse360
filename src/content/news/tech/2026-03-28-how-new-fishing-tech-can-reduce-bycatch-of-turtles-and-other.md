@@ -2,7 +2,7 @@
 category: Tech
 description: Specially equipped nets can help save some species, while allowing fisherman
   to still catch others.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-03-28T11:15:35Z'

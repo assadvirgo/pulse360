@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Uranium facility, steel plants and heavy water complex among targets
   hit as IRGC warns of escalation.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-03-27T20:43:37Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: On Tuesday morning, everything was business as usual at OpenAI. By the
   end of the day, the company had announced that it would scrap its video-generation
   app, Sora, and reverse…
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-03-28T12:00:00Z'

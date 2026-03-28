@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli air strikes on Lebanon forced 29-year-old Hawraa Houmani to flee
   her village when she was nine months pregnant.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-03-28T03:40:07Z'
