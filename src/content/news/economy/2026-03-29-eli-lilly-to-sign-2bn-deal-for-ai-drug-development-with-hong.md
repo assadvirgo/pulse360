@@ -2,7 +2,7 @@
 category: Economy
 description: Global pharmaceutical companies are aggressively searching for new medicines
   in China
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 37.5
 pubDate: '2026-03-29T11:00:11Z'

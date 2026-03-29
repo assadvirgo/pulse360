@@ -2,7 +2,7 @@
 category: Politics
 description: War has shattered Gaza’s power grid, forcing families to rely on generators
   and private charging points.
-displayOrder: 9
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-29T08:21:13Z'

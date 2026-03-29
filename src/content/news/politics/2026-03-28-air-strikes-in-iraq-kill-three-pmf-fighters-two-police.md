@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Iraq turning into &#039;expanding battleground&#039; in war, which began
   on February 28 with US-Israeli strikes on Iran.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-03-28T22:32:05Z'

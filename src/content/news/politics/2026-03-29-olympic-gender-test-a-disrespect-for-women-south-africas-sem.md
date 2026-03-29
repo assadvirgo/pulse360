@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Olympic gold medallist lashes out at IOC and its president, Kirsty Coventry,
   for asking women to prove themselves.
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-29T10:33:51Z'

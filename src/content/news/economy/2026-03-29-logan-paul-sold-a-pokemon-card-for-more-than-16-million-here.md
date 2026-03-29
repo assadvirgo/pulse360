@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some rare Pokémon cards are fetching huge prices and yielding better
   returns than the S&amp;P 500.
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 32.5
 pubDate: '2026-03-29T12:00:01Z'

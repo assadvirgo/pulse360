@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Evacuation orders and strikes turn once-vibrant Lebanese beach town into
   a refuge for holdouts and displaced
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-03-29T04:00:17Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Legendary NFL quarterback Peyton Manning recounts a career-changing meeting
   with Pat Summitt that he credits for sparking a lifelong friendship.
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-29T12:56:58Z'

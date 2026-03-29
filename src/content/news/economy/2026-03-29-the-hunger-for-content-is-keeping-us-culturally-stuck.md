@@ -2,7 +2,7 @@
 category: Economy
 description: The algorithms of the distraction economy are feeding us what we already
   like, creating a loop with no progress
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 35.5
 pubDate: '2026-03-29T04:00:17Z'

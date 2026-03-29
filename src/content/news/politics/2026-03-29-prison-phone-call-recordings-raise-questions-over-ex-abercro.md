@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mike Jeffries' lawyers argue that he is suffering with dementia and late
   onset of Alzheimer's disease.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-03-29T00:02:36Z'

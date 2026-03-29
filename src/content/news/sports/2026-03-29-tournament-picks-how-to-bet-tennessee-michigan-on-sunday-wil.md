@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: How to bet UConn-Duke and Tennessee-Michigan in Sunday's two round-of-eight
   games.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-29T12:20:06Z'

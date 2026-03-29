@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Hundreds of mourners turned out in the pouring rain in Beirut for the
   funerals of three journalists killed by Israeli strikes in southern Lebanon.&#160;
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 58.0
 pubDate: '2026-03-29T10:00:00Z'

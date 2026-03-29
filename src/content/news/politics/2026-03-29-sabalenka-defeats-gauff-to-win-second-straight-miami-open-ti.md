@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: World number one Aryna Sabalenka edges Coco Gauff in a tense three-set
   final to claim the &#039;Sunshine Double&#039; in Florida.
-displayOrder: 11
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-29T05:25:00Z'

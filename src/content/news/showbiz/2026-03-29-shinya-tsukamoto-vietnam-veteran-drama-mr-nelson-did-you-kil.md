@@ -5,7 +5,7 @@ countryCode: JP
 description: Shinya&#8217;s Tsukamoto&#8217;s &#8220;Mr. Nelson, Did You Kill People?&#8221;
   is headed to Japanese cinemas. The film rounds out the Japanese director&#8217;s
   informal trilogy…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-03-29T00:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Keaton Wagler scored 25 points as Illinois beat Iowa on Saturday, sending
   the program to the Final Four for the first time in 21 years.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-29T05:30:00Z'
