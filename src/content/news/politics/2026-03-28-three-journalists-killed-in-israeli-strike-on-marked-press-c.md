@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon&#039;s president condemns &#039;blatant crime&#039;, as Israeli
   strikes kill more journalists.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 60.5
 pubDate: '2026-03-28T15:40:03Z'

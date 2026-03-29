@@ -5,7 +5,7 @@ countryCode: US
 description: In an epic bout for the championship, Premier Boxing Champions travels
   to &#8220;Sin City,&#8221; where American boxer Sebastian &#8220;The Towering Inferno&#8221;
   Fundora…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-03-28T18:30:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: For Caster Semenya, the new Olympics rules are not about providing clarity
   and protecting women's sport but caving into political pressure, and are discriminatory.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-03-28T12:26:00Z'

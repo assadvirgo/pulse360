@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Pakistan&#039;s Naseem Shah under fire for slamming politician&#039;s
   presence at start of closed-doors PSL game in Lahore.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-28T12:28:14Z'

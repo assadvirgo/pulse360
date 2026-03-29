@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The Iran national team played for the first time since the Middle East
   conflict began, losing 2-1 to Nigeria.
-displayOrder: 28
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-28T12:20:59Z'

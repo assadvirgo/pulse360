@@ -5,7 +5,7 @@ countryCode: US
 description: 'The Ryan Gosling-led ''Project Hail Mary'' is falling less than ''Oppenheimer''
   or ''Dune: Part 2,'' while New Line and Skydance''s new horror-comedy ''They Will
   Kill You'' may not even…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-03-28T19:59:31Z'

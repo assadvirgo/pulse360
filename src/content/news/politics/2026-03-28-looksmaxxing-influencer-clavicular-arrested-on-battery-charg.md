@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Peters is accused of instigating a fight between two women and then posting
   a video of it online, authorities say.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-03-28T13:19:20Z'

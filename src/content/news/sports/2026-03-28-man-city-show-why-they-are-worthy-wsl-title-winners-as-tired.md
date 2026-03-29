@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Women's Super League champions-elect Manchester City thrashed second-place
   Man United to go 11 points clear and show why they are the best around.
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-28T17:57:35Z'

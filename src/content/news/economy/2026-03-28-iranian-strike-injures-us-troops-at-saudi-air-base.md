@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Yemen’s Houthi rebels carry out their first attack on Israel since the
   war began
-displayOrder: 27
+displayOrder: 32
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-28T16:32:05Z'

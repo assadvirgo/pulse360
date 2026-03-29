@@ -5,7 +5,7 @@ countryCode: US
 description: The best MMA fighters in the world travel to the United States for PFL
   Pittsburgh. The the main card pits Iowa fighter Johnny Eblen (16-1-0) takes on Missouri
   fighter Bryan Battle…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-03-28T20:00:00Z'
