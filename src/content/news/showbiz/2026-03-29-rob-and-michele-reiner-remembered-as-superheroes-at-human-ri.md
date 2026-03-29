@@ -5,7 +5,7 @@ countryCode: US
 description: Rob and Michele Singer Reiner were remembered Saturday night during this
   year’s Human Rights Campaign gala dinner in Los Angeles. Kelley Robinson, president
   of the LGBTQ+ civil…
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-29T05:43:25Z'

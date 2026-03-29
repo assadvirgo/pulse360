@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Vinod Khosla says voter fears over technology causing job losses will
   shape upcoming US elections
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-29T04:00:08Z'

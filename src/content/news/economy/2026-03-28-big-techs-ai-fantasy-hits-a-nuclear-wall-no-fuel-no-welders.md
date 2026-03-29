@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Big Tech is buying small reactors. Washington is buying time. Russia
   and China? They rule the nuclear-power world.
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-28T17:03:00Z'

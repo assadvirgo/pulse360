@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Wildcats and Fighting Illini are Final Four bound. Here's how they
   punched their tickets to Indianapolis.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-29T05:02:44Z'

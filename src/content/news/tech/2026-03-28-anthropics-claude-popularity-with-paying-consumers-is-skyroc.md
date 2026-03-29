@@ -5,7 +5,7 @@ countryCode: US
 description: Estimates for total Claude consumer users are all over the map (we've
   seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed
   this data, but a spokesperson…
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 58.0
 pubDate: '2026-03-28T14:15:00Z'

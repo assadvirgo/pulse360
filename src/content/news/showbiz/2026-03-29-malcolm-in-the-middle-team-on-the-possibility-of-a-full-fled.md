@@ -5,7 +5,7 @@ countryCode: US
 description: Malcolm in the Middle may be getting the revival treatment, a highly
   anticipated four-part installment from Disney+/Hulu, but its team isn&#8217;t necessarily
   ruling out a…
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 60.0
 pubDate: '2026-03-29T00:18:25Z'

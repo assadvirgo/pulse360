@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: The Iran-backed group could bring a second crucial waterway to a standstill,
   writes Sebastian Usher.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-03-28T19:08:30Z'

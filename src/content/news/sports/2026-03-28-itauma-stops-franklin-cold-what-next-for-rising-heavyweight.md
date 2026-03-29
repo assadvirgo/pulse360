@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Briton Moses Itauma thought 'did I really do that' after knocking out
   Jermaine Franklin with an uppercut in the fifth round of their fight in Manchester.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-03-28T23:44:34Z'

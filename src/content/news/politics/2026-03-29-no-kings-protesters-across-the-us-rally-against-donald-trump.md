@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: One of the flagship No Kings rallies happened in Minnesota, where singer
   Bruce Springsteen performed to crowds.
-displayOrder: 14
+displayOrder: 23
 heroImage: ''
 importance: 49.2
 pubDate: '2026-03-29T04:11:27Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: All three people who died in an Israeli airstrike in Lebanon were television
   journalists, it has been confirmed.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-03-28T17:56:00Z'
