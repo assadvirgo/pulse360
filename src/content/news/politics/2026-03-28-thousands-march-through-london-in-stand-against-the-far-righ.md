@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Organisers say &#039;Together Alliance&#039; event was the largest anti-far-right
   march in British history.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-28T18:32:23Z'

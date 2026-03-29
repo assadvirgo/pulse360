@@ -3,7 +3,7 @@ category: Showbiz
 description: Cult Japanese director Shinya Tsukamoto has unveiled first images and
   more details for his long-gestated, English-language debut Mr. Nelson, Did You Kill
   People? starring Rodney…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 70.0
 pubDate: '2026-03-29T00:00:00Z'

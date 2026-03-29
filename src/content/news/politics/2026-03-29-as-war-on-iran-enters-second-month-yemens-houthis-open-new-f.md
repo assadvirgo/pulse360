@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: The Yemeni group pledges more attacks on Israel as fears mount that the
   worsening conflict will spiral out of control.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-29T00:59:21Z'

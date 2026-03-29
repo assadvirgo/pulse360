@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Senegal parade AFCON trophy at Stade de France ahead of friendly against
   Peru, despite being stripped of the title.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-28T15:58:57Z'

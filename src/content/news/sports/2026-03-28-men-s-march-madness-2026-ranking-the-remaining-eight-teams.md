@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The regional finals look a little chalky -- with 9-seed Iowa in the mix.
   Let's rank the teams once more.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 44.5
 pubDate: '2026-03-28T23:02:19Z'

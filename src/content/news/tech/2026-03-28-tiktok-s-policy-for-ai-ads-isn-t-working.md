@@ -3,7 +3,7 @@ category: Tech
 description: I've been struggling to tell whether the ads appearing in my TikTok feeds
   have been made with generative AI tools. As someone who spends a great deal of time
   scrutinizing images…
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-03-28T14:00:00Z'

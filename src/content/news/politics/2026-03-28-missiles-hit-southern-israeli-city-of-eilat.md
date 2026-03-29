@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israeli social media posts show a strike in the Israeli city of Eilat.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-28T19:59:31Z'

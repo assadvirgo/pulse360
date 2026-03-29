@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ministers are struggling to thrash out reforms at the global body that
   has been buffeted by Trump’s tariffs
-displayOrder: 40
+displayOrder: 43
 heroImage: ''
 importance: 41.5
 pubDate: '2026-03-28T17:22:57Z'

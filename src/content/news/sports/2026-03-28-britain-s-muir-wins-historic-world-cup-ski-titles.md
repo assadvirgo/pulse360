@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Kirsty Muir becomes the first British woman to win both the slopestyle
   and overall World Cup titles by finishing second in the season finale in Switzerland.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-03-28T18:27:22Z'

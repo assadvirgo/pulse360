@@ -5,7 +5,7 @@ countryCode: US
 description: Bruce Springsteen gave a performance of his protest song &#8220;Streets
   of Minneapolis&#8221; on Saturday at the No Kings protest in St. Paul, Minnesota,
   honoring the locals and…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-28T20:53:12Z'
