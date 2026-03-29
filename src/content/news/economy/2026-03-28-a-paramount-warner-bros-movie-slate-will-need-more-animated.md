@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In the last decade Paramount and Warner Bros. have each released eight
   animated features, meanwhile Disney has released 21 and Universal has launched 23.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-03-28T11:00:01Z'

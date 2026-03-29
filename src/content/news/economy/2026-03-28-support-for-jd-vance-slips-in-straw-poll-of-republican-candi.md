@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US vice-president still favourite to succeed Donald Trump but secretary
   of state Marco Rubio is gaining ground
-displayOrder: 12
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-28T21:12:01Z'

@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Survivors tell authorities the bodies of those who died were thrown overboard
   by people smugglers.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-28T13:58:19Z'

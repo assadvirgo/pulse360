@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated
   Al Manar TV.
-displayOrder: 22
+displayOrder: 26
 heroImage: ''
 importance: 49.2
 pubDate: '2026-03-28T19:01:26Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Mumbai Indians begin their IPL 2026 campaign at home against Kolkata
   Knight Riders on Sunday
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-03-28T17:20:34Z'

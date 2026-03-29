@@ -5,7 +5,7 @@ countryCode: US
 description: Giving your adult children their inheritance early might be the only
   way they ever own a home — but be careful not to be overgenerous at your own future
   expense.
-displayOrder: 47
+displayOrder: 43
 heroImage: ''
 importance: 33.5
 pubDate: '2026-03-28T17:03:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces launched renewed attacks in southern Beirut, as the UN
   warns of an imminent humanitarian catastrophe.
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-28T15:45:31Z'

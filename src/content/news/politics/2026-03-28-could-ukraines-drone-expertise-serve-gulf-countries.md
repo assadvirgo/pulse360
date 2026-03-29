@@ -3,7 +3,7 @@ category: Politics
 country: Ukraine
 countryCode: UA
 description: Gulf nations seek new defence partnerships as Iran war escalates.
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 67.5
 pubDate: '2026-03-28T20:50:59Z'

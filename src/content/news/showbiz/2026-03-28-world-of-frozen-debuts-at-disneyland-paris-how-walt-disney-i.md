@@ -5,7 +5,7 @@ countryCode: FR
 description: Visitors of Disneyland Paris finally have the chance to experience Arendelle.
   The World of Frozen opens on Sunday at the park’s Disney Adventure area and features
   an ice sculpture…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-03-28T20:03:28Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: While US-Israeli attacks hit key infrastructure, hardliners demand withdrawal
   from Nuclear Non-Proliferation Treaty.
-displayOrder: 7
+displayOrder: 12
 heroImage: ''
 importance: 73.5
 pubDate: '2026-03-28T17:48:55Z'
