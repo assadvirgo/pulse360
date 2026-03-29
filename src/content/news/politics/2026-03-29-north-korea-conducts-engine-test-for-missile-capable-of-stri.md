@@ -5,7 +5,7 @@ countryCode: KP
 description: Kim Jong Un observed a test of a high-thrust, solid-fuel engine for weapons,
   hailing it as a development to boost North Korea's strategic military capability,
   state media…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-03-29T05:54:00Z'

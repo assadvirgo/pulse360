@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran reportedly hits E-3 Sentry flying radars, which track drones, missiles,
   aircraft from hundreds of kilometres away.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-29T13:33:05Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Up to 70 UK citizens have been detained in the United Arab Emirates (UAE)
   for taking photos and videos of Iranian attacks, it has been claimed by a British-based
   campaign group.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 60.0
 pubDate: '2026-03-29T10:44:00Z'

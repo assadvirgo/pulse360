@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Which receivers in the 2026 draft class will have the most success in
   the pros? We have projections for the top prospects.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-29T12:25:12Z'

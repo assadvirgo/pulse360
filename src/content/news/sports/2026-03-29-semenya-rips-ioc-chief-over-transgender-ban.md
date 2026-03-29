@@ -3,7 +3,7 @@ category: Sports
 description: Two-time Olympic champion runner Caster Semenya expressed her disappointment
   with IOC president Kirsty Coventry over the decision to ban transgender athletes
   from competing at the…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-29T16:51:05Z'

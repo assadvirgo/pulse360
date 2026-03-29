@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran targets Aluminium Bahrain, Emirates Global Aluminium in retaliation
   for US-Israeli attacks on its infrastructure.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-29T07:30:22Z'

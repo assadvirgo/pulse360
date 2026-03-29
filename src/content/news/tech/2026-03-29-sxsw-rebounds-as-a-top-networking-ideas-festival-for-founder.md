@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SXSW made some changes this year, but some founders loved it all the
   same.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 50.0
 pubDate: '2026-03-29T14:01:00Z'

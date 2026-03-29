@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Slow progress on government contracts prompts some groups to consider
   moving abroad
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-29T04:00:08Z'

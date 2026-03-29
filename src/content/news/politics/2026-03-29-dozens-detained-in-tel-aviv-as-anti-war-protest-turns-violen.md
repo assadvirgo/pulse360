@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Police in Tel Aviv dispersed protesters opposing the US-Israeli war on
   Iran on Saturday. Up to 18 people were arrested.
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-29T09:30:28Z'
