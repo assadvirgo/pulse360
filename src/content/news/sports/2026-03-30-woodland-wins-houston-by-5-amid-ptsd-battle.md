@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gary Woodland won the Houston Open by five shots Sunday, his first PGA
   Tour victory since undergoing brain surgery in 2023.
-displayOrder: 7
+displayOrder: 11
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-30T00:56:03Z'

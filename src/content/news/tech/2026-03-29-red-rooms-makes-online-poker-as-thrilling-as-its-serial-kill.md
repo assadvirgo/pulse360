@@ -3,7 +3,7 @@ category: Tech
 description: It's rare for a movie to get technology right. And it's even rarer for
   that movie to be a thriller or horror, where realism takes a backseat to scares
   and tension. But Red Rooms…
-displayOrder: 29
+displayOrder: 41
 heroImage: ''
 importance: 45.2
 pubDate: '2026-03-29T19:45:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Mary Beth Hurt, the actress known for roles in The Age of Innocence and
   Six Degrees of Separation, has died. She was 79. The 3x Tony-nominated actress&#8217;
   daughter Molly…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-03-29T19:47:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Politico has named Jonathan Greenberger as its next global editor in
   chief, succeeding John Harris at the political news outlet. Greenberger will take
   the role on May 1. Harris,…
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 67.0
 pubDate: '2026-03-29T20:37:49Z'

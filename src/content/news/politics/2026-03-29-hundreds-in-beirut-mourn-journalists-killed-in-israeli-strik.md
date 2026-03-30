@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: BBC reports from the funerals of three journalists killed by a targeted
   attack in southern Lebanon.
-displayOrder: 19
+displayOrder: 39
 heroImage: ''
 importance: 62.2
 pubDate: '2026-03-29T15:20:44Z'

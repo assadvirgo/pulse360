@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The prominent private capital firm wants to build a new office in a southern
   US state as it continues to grow
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-03-29T16:13:34Z'

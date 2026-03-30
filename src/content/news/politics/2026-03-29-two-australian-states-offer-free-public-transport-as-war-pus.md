@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Victoria and Tasmania incentivise commuters not to drive as the Iran
   war causes the price of petrol to shoot up.
-displayOrder: 27
+displayOrder: 45
 heroImage: ''
 importance: 58.2
 pubDate: '2026-03-29T15:24:54Z'

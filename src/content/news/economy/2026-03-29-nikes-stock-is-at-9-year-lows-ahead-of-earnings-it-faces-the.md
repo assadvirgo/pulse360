@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The sportswear giant has been trying to focus more on the needs of athletes,
   but analysts say new products aren’t catching on.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-03-29T14:00:00Z'

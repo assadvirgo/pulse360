@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: France and Italy condemn Israeli police for cutting off access to site
   a week before Easter
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-29T18:08:57Z'

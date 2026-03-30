@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Glover, who stars in “The Super Mario Galaxy Movie&#8221; as Yoshi,
   “campaigned for the role,&#8221; according to his co-star Jack Black. Black, who
   reprises his voice role…
-displayOrder: 10
+displayOrder: 17
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-29T21:17:38Z'

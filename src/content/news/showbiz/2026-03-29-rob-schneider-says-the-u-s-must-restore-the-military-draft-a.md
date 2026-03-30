@@ -5,7 +5,7 @@ countryCode: US
 description: Rob Schneider took to X on Friday to declare that the United States “must
   restore the military draft for our nation’s young people” amid the ongoing war with
   Iran. “Each and every…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-03-29T16:32:29Z'

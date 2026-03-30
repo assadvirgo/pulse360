@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The paintings were taken from a museum in Parma by four masked men in
   the middle of the night, police say.
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 49.2
 pubDate: '2026-03-29T21:29:56Z'
