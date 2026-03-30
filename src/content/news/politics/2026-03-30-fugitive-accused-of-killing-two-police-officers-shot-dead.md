@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: A fugitive accused of killing two police officers is believed to have
   been shot dead, Australian police have said.
-displayOrder: 28
+displayOrder: 42
 heroImage: ''
 importance: 44.0
 pubDate: '2026-03-30T03:12:00Z'

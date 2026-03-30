@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: November 8 poll set to be battleground over regulation of AI
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-30T00:03:16Z'

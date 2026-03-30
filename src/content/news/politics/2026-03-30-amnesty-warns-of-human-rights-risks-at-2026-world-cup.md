@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amnesty International says millions of fans attending the 2026 World
   Cup in the US face serious human rights risks.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 60.5
 pubDate: '2026-03-30T04:21:07Z'

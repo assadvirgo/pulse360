@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite general support for war, several Republicans say boots on the
   ground would be a political Rubicon for Trump.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-29T18:53:33Z'

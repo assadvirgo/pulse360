@@ -5,7 +5,7 @@ countryCode: US
 description: US golfer Gary Woodland wins his first PGA title since an operation to
   remove a brain tumour in September 2023 with a five-shot victory at the Texas Children's
   Houston Open.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-03-30T08:21:56Z'

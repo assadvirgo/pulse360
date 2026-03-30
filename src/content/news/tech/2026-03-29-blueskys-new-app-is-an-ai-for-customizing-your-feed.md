@@ -5,7 +5,7 @@ countryCode: US
 description: The latest app from the team behind Bluesky is Attie, an AI assistant
   that lets you build your own algorithm. At the Atmosphere conference, Bluesky's
   former CEO, Jay Graber, and…
-displayOrder: 33
+displayOrder: 45
 heroImage: ''
 importance: 52.2
 pubDate: '2026-03-29T21:44:41Z'

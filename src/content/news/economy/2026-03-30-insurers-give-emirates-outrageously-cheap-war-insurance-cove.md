@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Dubai-based airline paying additional $100,000 a week while others face
   far higher charges
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 46.5
 pubDate: '2026-03-30T04:00:17Z'

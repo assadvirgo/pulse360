@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Christians in Jerusalem marked Holy Week under wartime restrictions as
   Israeli police blocked the Latin Patriarch.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-29T21:01:50Z'

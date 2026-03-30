@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: The military leader, who has been sanctioned by Western countries, is
   now certain to get the job.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 79.2
 pubDate: '2026-03-30T05:26:09Z'

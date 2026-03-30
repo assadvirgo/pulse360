@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Traders weigh signs of escalating conflict as more US troops arrive in
   region and Yemen enters war
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-30T00:26:15Z'

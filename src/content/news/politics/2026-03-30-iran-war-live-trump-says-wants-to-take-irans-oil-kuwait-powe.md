@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Kuwait says an Indian worker has been killed in an Iranian raid as attacks
   across the Gulf continue.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-30T00:00:44Z'

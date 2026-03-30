@@ -5,7 +5,7 @@ countryCode: CA
 description: “I’m living in the States and you know what’s happening there,” the legendary
   folk singer said while receiving a lifetime achievement award at Canada’s music
   awards.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-30T02:28:04Z'
