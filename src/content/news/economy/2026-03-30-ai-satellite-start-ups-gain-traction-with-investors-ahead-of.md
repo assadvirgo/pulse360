@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk and Jeff Bezos’s commitment to putting data centres in space
   boosts fortunes of smaller players
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-30T11:00:02Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli Prime Minister Benjamin Netanyahu has ordered the military to
   expand its invasion in southern Lebanon.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-30T01:09:32Z'

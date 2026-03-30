@@ -5,7 +5,7 @@ countryCode: GB
 description: Architect Dan Meis talks about the challenges of designing Everton's
   Hill Dickinson Stadium - including relegation battles, new owners, a pandemic and
   global war.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-03-30T06:00:12Z'

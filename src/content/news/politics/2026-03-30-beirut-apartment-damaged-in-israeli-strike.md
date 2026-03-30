@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: An Israeli air strike has heavily damaged a residential building in Beirut’s
   southern suburbs.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 51.5
 pubDate: '2026-03-30T11:10:41Z'

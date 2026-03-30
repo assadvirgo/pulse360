@@ -5,7 +5,7 @@ countryCode: KR
 description: Historical drama &#8220;The King&#8217;s Warden&#8221; continued its
   record-breaking trajectory during the weekend of March 27–29, crossing the 15 million
   admissions milestone at…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 74.8
 pubDate: '2026-03-30T06:40:57Z'

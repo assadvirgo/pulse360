@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: A Canadian activist captured dozens of oil tankers and cargo ships crowding
   the vital waterway.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-30T05:40:30Z'

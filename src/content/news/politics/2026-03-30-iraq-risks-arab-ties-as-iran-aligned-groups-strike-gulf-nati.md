@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Joint Arab condemnation of cross-border attacks exposes Baghdad&#039;s
   failure to control armed proxies on its soil.
-displayOrder: 18
+displayOrder: 37
 heroImage: ''
 importance: 51.5
 pubDate: '2026-03-30T09:57:31Z'

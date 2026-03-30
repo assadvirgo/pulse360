@@ -2,7 +2,7 @@
 category: Politics
 description: Fifty years ago, six unarmed Palestinians were killed and over 100 were
   injured protesting Israel’s land confiscations.
-displayOrder: 26
+displayOrder: 45
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-30T06:18:21Z'

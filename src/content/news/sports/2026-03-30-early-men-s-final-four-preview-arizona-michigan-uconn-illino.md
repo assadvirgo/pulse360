@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Who will cut down the nets in Indianapolis? Here's an early look at the
   national semifinals.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-30T07:38:15Z'
