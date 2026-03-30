@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: The Houthis in Yemen have launched their first attacks on Israel, opening
   a new front in the month-long regional war.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-29T16:47:25Z'

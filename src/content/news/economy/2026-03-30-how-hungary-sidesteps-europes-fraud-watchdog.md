@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Viktor Orbán’s government has returned just 18 per cent of funds flagged
   by the EU’s anti-graft body
-displayOrder: 19
+displayOrder: 27
 heroImage: ''
 importance: 42.5
 pubDate: '2026-03-30T04:00:07Z'

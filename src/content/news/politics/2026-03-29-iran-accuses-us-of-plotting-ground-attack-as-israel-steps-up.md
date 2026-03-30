@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Power being restored after Iran&#039;s Ministry of Energy reported outages
   in the capital, Tehran following attacks.
-displayOrder: 24
+displayOrder: 34
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-29T22:36:05Z'

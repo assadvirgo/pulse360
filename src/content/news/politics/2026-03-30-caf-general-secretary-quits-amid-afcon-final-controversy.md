@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Veron Mosengo-Omba&#039;s resignation follows the fallout over the CAF
   board&#039;s decision to strip Senegal of the AFCON title.
-displayOrder: 15
+displayOrder: 22
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-30T02:58:14Z'

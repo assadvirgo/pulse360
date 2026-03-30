@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Blockade of strait, one of the world&#039;s busiest maritime routes,
   would prove disastrous for global economy.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-03-29T15:09:51Z'

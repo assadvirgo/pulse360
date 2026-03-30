@@ -5,7 +5,7 @@ countryCode: US
 description: Rick Pitino has signed a new deal with St. John's that makes him the
   second-highest-paid coach in the Big East, sources told ESPN on Sunday, confirming
   a report by NJ.com.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-30T00:56:04Z'

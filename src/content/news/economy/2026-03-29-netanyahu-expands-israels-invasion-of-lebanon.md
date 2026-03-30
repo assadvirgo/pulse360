@@ -3,7 +3,7 @@ category: Economy
 country: Israel
 countryCode: IL
 description: Forced evacuation orders have displaced more than 1mn people in Lebanon
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-29T16:49:58Z'

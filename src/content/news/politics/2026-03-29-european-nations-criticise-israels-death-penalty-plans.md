@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: France, Germany, Italy and the United Kingdom raise concern over &#039;de
   facto discriminatory character of the bill.&#039;
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 67.5
 pubDate: '2026-03-29T22:44:25Z'

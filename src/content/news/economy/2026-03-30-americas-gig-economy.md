@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Self-employment, at both the high and the low end, is keeping consumption
   afloat — but for how long?
-displayOrder: 33
+displayOrder: 41
 heroImage: ''
 importance: 32.5
 pubDate: '2026-03-30T04:00:26Z'

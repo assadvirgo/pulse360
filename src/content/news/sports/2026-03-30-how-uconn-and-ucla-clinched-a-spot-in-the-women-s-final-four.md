@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: UCLA rallied to beat Duke and UConn held off Notre Dame as both No. 1
   seeds won Sunday in the Elite Eight.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-30T00:38:49Z'
