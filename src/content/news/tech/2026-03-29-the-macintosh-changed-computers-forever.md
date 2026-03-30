@@ -5,7 +5,7 @@ countryCode: US
 description: 'Apple''s most legendary computer has two legacies: there''s the computer
   itself, and there''s the commercial. That commercial. Only a couple of days before
   Steve Jobs debuted the…'
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 58.2
 pubDate: '2026-03-29T12:30:36Z'

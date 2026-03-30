@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Since the US and Israel launched a war on Iran, Israel has closed holy
   sites in Jerusalem, citing safety concerns.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-29T15:26:27Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Joe Pyfer scored the biggest win of his career by finishing two-time
   champion Israel Adesanya by ground-and-pound in Round 2 in the UFC Fight Night main
   event.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-29T12:09:10Z'

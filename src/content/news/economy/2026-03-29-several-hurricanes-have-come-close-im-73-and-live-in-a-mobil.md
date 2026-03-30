@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “I live in a 2016 double-wide mobile home with no mortgage.”
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-29T10:52:00Z'

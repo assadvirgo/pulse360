@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan Doctors Network said RSF and allies shelled residential areas in
   the city of Dilling for several hours.
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-29T19:22:33Z'

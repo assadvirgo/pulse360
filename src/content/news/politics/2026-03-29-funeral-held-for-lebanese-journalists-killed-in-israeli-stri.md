@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Hundreds gathered in Beirut’s southern suburbs for the funeral of three
   Lebanese journalists killed by Israel.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-29T15:25:44Z'

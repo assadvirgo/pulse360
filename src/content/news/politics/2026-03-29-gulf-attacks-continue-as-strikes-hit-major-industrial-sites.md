@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: A number of people are said to have been injured after attacks on aluminium
   sites in the UAE and Bahrain.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-03-29T11:38:20Z'

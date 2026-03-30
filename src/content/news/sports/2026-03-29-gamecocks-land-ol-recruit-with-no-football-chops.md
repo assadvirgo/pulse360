@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Neff Giwa, a 20-year-old Irishman who has never played American football,
   has committed to play at South Carolina as an offensive lineman.
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-29T20:50:02Z'

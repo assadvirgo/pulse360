@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing’s industrial prowess positions it for economic and diplomatic
   gains
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-29T11:00:11Z'

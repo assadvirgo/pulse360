@@ -5,7 +5,7 @@ countryCode: US
 description: In "The Last Critic," we meet Christgau as an elder stateman of rock-crit
   (he’s now 83), a downtown stalwart knocking around the streets of the East Village.
   He’s a bit more bent…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-29T17:49:54Z'

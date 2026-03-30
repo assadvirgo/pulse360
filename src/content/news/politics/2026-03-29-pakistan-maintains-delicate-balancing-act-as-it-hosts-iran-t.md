@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Foreign ministers meet in Islamabad, seeking to de-escalate the US-Israel
   war on Iran.
-displayOrder: 24
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-29T14:35:58Z'

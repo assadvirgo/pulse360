@@ -5,7 +5,7 @@ countryCode: US
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on the legal travails of Big Tech, follow Adi
   Robertson. The Stepback…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-03-29T12:00:00Z'

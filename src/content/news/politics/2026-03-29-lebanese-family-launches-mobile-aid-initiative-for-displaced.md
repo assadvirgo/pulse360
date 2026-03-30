@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A Lebanese family in Beirut has launched a mobile aid initiative to support
   people displaced by the ongoing conflict.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-29T13:17:03Z'

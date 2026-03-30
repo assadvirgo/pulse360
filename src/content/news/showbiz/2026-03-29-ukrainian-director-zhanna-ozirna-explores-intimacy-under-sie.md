@@ -5,7 +5,7 @@ countryCode: UA
 description: At the 40th edition of Switzerland’s Fribourg International Film Festival,
   socially and politically engaged cinema remains at the heart of the lineup. Among
   the titles in…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-29T14:38:07Z'

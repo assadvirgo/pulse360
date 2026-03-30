@@ -2,7 +2,7 @@
 category: Politics
 description: '&#039;I will respect and implement the CAS decision,&#039; Patrice Motsepe
   says amid turbulent times in African football.'
-displayOrder: 32
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-29T14:52:13Z'

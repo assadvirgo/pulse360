@@ -5,7 +5,7 @@ countryCode: US
 description: Eli Lilly &#38; Co. hopes its sponsorship of an event tied to the heroic
   coach Pat Summitt will do just as much for the company as the many commercials it
   runs each year. When…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-29T16:11:03Z'
