@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: It follows a decision by the Spanish government to deny the US use of
   the two jointly run military bases in Andalusia.
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 72.2
 pubDate: '2026-03-30T15:29:15Z'

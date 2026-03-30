@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Egypt’s President Abdel Fattah el-Sisi has called on Trump to end the
   war on Iran.
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 66.5
 pubDate: '2026-03-30T16:01:02Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starcloud becomes the fastest Y Combinator startup to reach unicorn status,
   just 17 months after demo day.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-03-30T11:00:00Z'

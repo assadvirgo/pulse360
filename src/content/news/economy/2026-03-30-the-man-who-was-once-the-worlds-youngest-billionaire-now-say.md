@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As portfolios go, the one put forward by John Arnold, the billionaire
   energy trader turned philanthropist, doesn’t get simpler.
-displayOrder: 25
+displayOrder: 44
 heroImage: ''
 importance: 70.5
 pubDate: '2026-03-30T07:38:00Z'

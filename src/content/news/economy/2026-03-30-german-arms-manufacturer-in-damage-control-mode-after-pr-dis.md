@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Rheinmetall’s CEO has been criticized after making derisive remarks about
   Ukraine’s low-cost and highly efficient drone technology.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-03-30T10:41:00Z'

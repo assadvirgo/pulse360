@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: A Palestinian refugee is teaching traditional ‘tatreez’ embroidery in
   Madrid, helping preserve cultural heritage.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-30T10:50:48Z'

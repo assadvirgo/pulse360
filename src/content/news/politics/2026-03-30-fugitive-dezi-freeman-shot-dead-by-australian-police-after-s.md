@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Freeman has been wanted since the fatal shooting of two police officers
   in Porepunkah in August.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-30T07:07:15Z'

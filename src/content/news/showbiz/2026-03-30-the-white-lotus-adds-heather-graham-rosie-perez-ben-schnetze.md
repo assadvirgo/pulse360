@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Once again, Mike White is assembling an eclectic ensemble
   cast for The White Lotus comprised by big stars, journeyman actors primed for a
   career resurgence, fresh faces…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-03-30T15:00:00Z'

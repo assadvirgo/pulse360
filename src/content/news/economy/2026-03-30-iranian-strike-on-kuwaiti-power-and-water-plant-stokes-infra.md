@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Attack at electricity and desalination facility marks latest escalation
   in Gulf war launched by US and Israel
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-30T14:23:49Z'

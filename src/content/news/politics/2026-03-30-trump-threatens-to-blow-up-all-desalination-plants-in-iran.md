@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Legal expert says targeting civilian sites would be &#039;collective
   punishment&#039;, which is prohibited under laws of war.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 66.5
 pubDate: '2026-03-30T15:51:18Z'

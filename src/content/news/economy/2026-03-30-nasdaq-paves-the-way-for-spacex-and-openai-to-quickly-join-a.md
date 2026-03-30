@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A new “fast entry” rule would make it far easier for new megacap stocks
   to join the Nasdaq-100 soon after going public.
-displayOrder: 35
+displayOrder: 49
 heroImage: ''
 importance: 40.5
 pubDate: '2026-03-30T16:12:00Z'

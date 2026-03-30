@@ -5,7 +5,7 @@ countryCode: FR
 description: Rumors have hit fever pitch in France that Céline Dion will this evening
   confirm a series of fall performances in Paris, in her first major concert program
   since being forced to…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-03-30T10:11:46Z'

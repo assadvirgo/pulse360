@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: European operation ordered to pay £390,000 for payments to video-streaming
   service Okko
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-30T09:47:07Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Indonesian peacekeeper has been confirmed killed in artillery fire as
   Israeli invasion of southern Lebanon intensifies.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 73.5
 pubDate: '2026-03-30T08:54:46Z'

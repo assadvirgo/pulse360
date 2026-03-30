@@ -5,7 +5,7 @@ countryCode: US
 description: Eagles general manager Howie Roseman had a stock answer for every question
   about receiver A.J. Brown that he fielded from the local media at the league meetings
   Sunday, opting for…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-30T12:29:21Z'
