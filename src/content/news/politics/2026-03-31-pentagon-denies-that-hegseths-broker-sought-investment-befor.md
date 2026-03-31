@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Department of Defense demands retraction of report alleging broker
   sought multimillion-dollar investment for Hegseth.
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-31T02:32:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Matt Miller predicted every pick in the 2026 NFL draft, from the Raiders'
   selection at No. 1 to the Broncos' Mr. Irrelevant slot at the end of Round 7.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-31T05:32:28Z'

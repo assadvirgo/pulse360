@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While the trip is not officially confirmed, the King and Queen Camilla
   are reportedly planning to visit the US at the end of April.
-displayOrder: 22
+displayOrder: 31
 heroImage: ''
 importance: 45.2
 pubDate: '2026-03-31T02:57:36Z'

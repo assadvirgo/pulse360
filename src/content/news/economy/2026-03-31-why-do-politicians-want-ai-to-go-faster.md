@@ -2,7 +2,7 @@
 category: Economy
 description: Bullish rhetoric about ‘unleashing’ the technology is badly out of touch
   with the sensibilities of many voters
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-31T04:00:31Z'

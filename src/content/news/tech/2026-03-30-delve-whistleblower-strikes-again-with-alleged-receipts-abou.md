@@ -2,7 +2,7 @@
 category: Tech
 description: Shortly after Delve's founder published a lengthy denial of allegations,
   while promising changes, the accuser came forward with more alleged details.
-displayOrder: 32
+displayOrder: 41
 heroImage: ''
 importance: 64.0
 pubDate: '2026-03-30T18:26:07Z'

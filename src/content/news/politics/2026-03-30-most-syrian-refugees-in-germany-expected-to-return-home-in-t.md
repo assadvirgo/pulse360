@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Merz’s government has taken a tougher line on refugees and migrants,
   amid surging support for the anti-immigration AfD party.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-30T20:07:17Z'

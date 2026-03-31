@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinian Authority calls the bill a &#039;war crime&#039; against
   Palestinians, says it breaches the Fourth Geneva Convention.
-displayOrder: 30
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-30T20:50:36Z'

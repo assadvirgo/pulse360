@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Colston Loveland and Tyler Warren set the bar high last year, and Oregon's
   Kenyon Sadiq has a shot to reach it.
-displayOrder: 19
+displayOrder: 28
 heroImage: ''
 importance: 52.5
 pubDate: '2026-03-31T00:39:18Z'

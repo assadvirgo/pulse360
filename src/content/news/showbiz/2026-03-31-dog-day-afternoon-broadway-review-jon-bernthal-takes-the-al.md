@@ -5,7 +5,7 @@ countryCode: US
 description: As a piece of stagecraft, "Dog Day Afternoon," directed by Mauk Kaufman,
   does a canny job of translating the film’s action, keeping the flow taut and exciting.
   But it also does…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-03-31T04:00:00Z'
