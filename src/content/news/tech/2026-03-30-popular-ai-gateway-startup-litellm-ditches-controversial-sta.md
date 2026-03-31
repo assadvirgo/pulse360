@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: LiteLLM had obtained two security compliance certifications via Delve
   and fell victim to some horrific credential-stealing malware last week.
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 50.0
 pubDate: '2026-03-30T23:08:12Z'

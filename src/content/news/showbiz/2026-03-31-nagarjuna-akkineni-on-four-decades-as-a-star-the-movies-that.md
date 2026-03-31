@@ -5,7 +5,7 @@ countryCode: IN
 description: Somewhere between his breakout in Mani Ratnam&#8217;s &#8216;Gitanjali&#8217;
   in the late 1980s and his forthcoming 100th film, Akkineni Nagarjuna has made four
   decades feel like…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-03-31T05:30:00Z'

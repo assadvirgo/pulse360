@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: Death toll by the Defenseurs Plus rights group significantly exceeds
   ⁠official estimates of 16.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-31T00:02:55Z'

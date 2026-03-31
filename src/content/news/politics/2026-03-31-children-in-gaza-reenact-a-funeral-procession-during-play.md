@@ -2,7 +2,7 @@
 category: Politics
 description: A group of children reenacted a funeral with their doll as they played
   together in a displacement camp in Gaza.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-31T04:41:45Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Macfarlanes has transcended its roots to become one of London’s most
   profitable legal partnerships
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-03-31T04:00:17Z'

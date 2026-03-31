@@ -5,7 +5,7 @@ countryCode: JP
 description: The English-language film, starring Rodney Hicks as an African American
   war veteran alongside Oscar winner Geoffrey Rush, is based on a true story and was
   shot across four…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-03-31T03:43:27Z'

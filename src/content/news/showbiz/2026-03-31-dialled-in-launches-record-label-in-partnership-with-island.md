@@ -5,7 +5,7 @@ countryCode: GB
 description: South Asian culture platform Dialled In has unveiled Dialled In Records,
   a London-based label dedicated to developing and breaking South Asian artists across
   genres. The label has…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-03-31T06:00:00Z'

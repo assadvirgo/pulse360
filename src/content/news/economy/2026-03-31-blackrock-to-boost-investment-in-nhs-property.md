@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Asset manager teams up with Greater Manchester Pension Fund for £1bn
   joint venture as government seeks more private finance
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-03-31T04:00:18Z'

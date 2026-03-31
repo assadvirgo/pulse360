@@ -2,7 +2,7 @@
 category: Economy
 description: Increased costs since outbreak of Middle East conflict prompt more test
   drives and advert views
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-03-31T04:00:18Z'

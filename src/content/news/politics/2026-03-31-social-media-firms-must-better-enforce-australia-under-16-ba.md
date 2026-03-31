@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Regulator eSafety says it has concerns about how Facebook, Instagram,
   Snapchat, TikTok and YouTube are complying with the ban.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-31T02:00:24Z'
