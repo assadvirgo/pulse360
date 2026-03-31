@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Biogen, already developing a drug that can be used to treat several kidney
   disorders, is paying a large premium for Apellis Pharmaceuticals
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 32.5
 pubDate: '2026-03-31T12:07:00Z'

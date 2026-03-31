@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Outrage and widespread condemnation has followed Israel legalising the
   death penalty for Palestinians.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-03-31T04:30:00Z'

@@ -2,7 +2,7 @@
 category: Sports
 description: Moses Itauma disposed of Jermaine Franklin Jr. to move up at heavyweight.
   Here are the latest ESPN divisional rankings.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-31T12:55:27Z'

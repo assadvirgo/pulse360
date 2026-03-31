@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Somali federal government hails Baidoa&#039;s transition, urging peace
   and unity amid political changes and rising tensions.
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 67.5
 pubDate: '2026-03-31T08:27:34Z'

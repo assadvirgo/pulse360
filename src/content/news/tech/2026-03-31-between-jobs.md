@@ -5,7 +5,7 @@ countryCode: US
 description: 'This is part of our package about Apple''s 50th anniversary, read more
   here. It''s a famous story on its way to becoming legendary: Apple cofounder Steve
   Jobs was pushed out of…'
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-31T12:00:00Z'

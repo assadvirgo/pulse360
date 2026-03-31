@@ -2,7 +2,7 @@
 category: Politics
 description: Tahrir Abu Mady has her daughter Malak&#039;s death certificate. But
   a prisoner&#039;s list suggests she might have been arrested.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 47.5
 pubDate: '2026-03-31T10:50:15Z'

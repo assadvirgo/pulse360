@@ -2,7 +2,7 @@
 category: Politics
 description: Civil society joins protests as EU voices express &#039;great concern&#039;
   about Israel&#039;s law targeting Palestinian prisoners.
-displayOrder: 1
+displayOrder: 14
 heroImage: ''
 importance: 64.5
 pubDate: '2026-03-31T11:52:55Z'

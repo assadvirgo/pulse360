@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Porepunkah has been in the spotlight since Dezi Freeman shot dead two
   police officers last year.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-31T04:04:32Z'

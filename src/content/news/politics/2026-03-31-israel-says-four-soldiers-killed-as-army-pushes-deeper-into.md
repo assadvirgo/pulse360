@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hezbollah attempts to make Lebanon ground invasion &#039;costly&#039;
   for Israeli army as it continues its advance.
-displayOrder: 10
+displayOrder: 30
 heroImage: ''
 importance: 66.5
 pubDate: '2026-03-31T07:39:52Z'
