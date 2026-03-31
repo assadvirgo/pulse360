@@ -5,7 +5,7 @@ countryCode: KR
 description: '&#8220;KPop Demon Hunters&#8221; meals have arrived at McDonalds. Starting
   today, fans can order new adult meals tailored to the dueling bands, Huntr/x and
   the Saja Boys, featured…'
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-03-31T15:52:03Z'

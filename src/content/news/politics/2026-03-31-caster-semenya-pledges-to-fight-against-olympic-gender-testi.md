@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: '&#039;We&#039;re going to be vocal about it, we&#039;re going to make
   noise until we&#039;re heard,&#039; South Africa&#039;s gold medallist says.'
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-03-31T10:06:55Z'

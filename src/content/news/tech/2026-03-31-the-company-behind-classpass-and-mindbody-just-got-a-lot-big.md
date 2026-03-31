@@ -5,7 +5,7 @@ countryCode: US
 description: The merger is a sign that the fitness industry is continuing to move
   toward consolidation to compete at a larger scale. Recent moves include MyFitnessPal
   acquiring Cal AI, an AI…
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 68.0
 pubDate: '2026-03-31T14:00:00Z'

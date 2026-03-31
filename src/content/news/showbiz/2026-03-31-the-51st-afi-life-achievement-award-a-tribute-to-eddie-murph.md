@@ -5,7 +5,7 @@ countryCode: US
 description: 'Netflix will stream The 51st AFI Life Achievement Award: A Tribute To
   Eddie Murphy beginning May 31, over a month after the April 18 gala tribute in his
   honor at the Dolby Theatre…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-03-31T15:30:00Z'

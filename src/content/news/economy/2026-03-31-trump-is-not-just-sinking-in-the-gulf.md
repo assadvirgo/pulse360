@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As his poll numbers tank, the president’s trade and immigration agendas
   are encountering judicial resistance too
-displayOrder: 37
+displayOrder: 48
 heroImage: ''
 importance: 49.5
 pubDate: '2026-03-31T11:23:36Z'

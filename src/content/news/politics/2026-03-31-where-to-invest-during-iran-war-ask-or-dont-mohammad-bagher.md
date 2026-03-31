@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran’s parliamentary speaker is using X to shape market sentiment, blending
   war messaging with financial signalling.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-31T14:26:10Z'

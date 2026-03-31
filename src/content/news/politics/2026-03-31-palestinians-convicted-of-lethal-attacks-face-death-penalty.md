@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The new law, passed on Monday, was pushed hard by the far-right and Security
   Minister Itamar Ben-Gvir.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-03-31T11:03:31Z'

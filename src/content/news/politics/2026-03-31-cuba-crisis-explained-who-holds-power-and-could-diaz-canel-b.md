@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: As Cuba faces one of the worst humanitarian crises in its history, questions
   have emerged about the island&#039;s leadership.
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 60.5
 pubDate: '2026-03-31T15:53:20Z'

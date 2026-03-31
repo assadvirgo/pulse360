@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mike Gannon, the software company’s chief revenue officer, is departing
   for personal reasons after a year in the role.
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-31T14:51:00Z'

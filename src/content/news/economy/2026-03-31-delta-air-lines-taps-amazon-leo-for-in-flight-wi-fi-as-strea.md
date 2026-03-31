@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Delta says the Amazon Leo in-flight Wi-Fi will be available starting
   in 2028 on 500 initial aircraft.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-31T11:00:01Z'

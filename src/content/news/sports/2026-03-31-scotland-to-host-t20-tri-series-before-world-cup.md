@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Scotland women will play their first home fixtures since 2022 with a
   T20 tri-series against Bangladesh and the Netherlands across May and June.
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 56.2
 pubDate: '2026-03-31T14:05:30Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: It’s been a strange couple of weeks for ABC in terms of unscripted television
   and things got a little weirder last night. American Idol postponed the results
   of last night’s live…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-03-31T16:21:45Z'
