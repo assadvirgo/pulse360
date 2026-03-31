@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Unlike leagues such as the NHL, MLB and MLS that have embraced platforms
   like Kalshi and Polymarket, the NFL is taking a more cautious stance.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-30T17:58:25Z'

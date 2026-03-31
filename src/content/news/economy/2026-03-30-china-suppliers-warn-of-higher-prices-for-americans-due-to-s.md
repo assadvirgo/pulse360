@@ -5,7 +5,7 @@ countryCode: CN
 description: The Iran war has stalled shipments of oil and its products through the
   Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain
   disruptions.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-30T20:19:38Z'

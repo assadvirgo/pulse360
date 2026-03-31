@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The Australian town has been in the spotlight since Dezi Freeman shot
   dead two police officers last year.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-03-30T18:01:03Z'

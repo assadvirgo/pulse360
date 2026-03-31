@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Producers warn of empty shelves if supermarkets do not raise prices to
   help offset costs linked to Iran war
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-30T23:01:04Z'

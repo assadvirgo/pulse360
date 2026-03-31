@@ -2,7 +2,7 @@
 category: Politics
 description: Jitters in G7 nations as higher energy prices threaten to drive up inflation,
   damage purchasing power and stunt growth.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 73.5
 pubDate: '2026-03-30T16:56:13Z'

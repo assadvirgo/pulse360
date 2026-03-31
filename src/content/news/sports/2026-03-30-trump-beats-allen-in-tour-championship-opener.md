@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Judd Trump beats Mark Allen in a back-and-forth contest to progress in
   the first round of the Tour Championship in Manchester.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-03-30T22:02:20Z'

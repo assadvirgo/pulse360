@@ -5,7 +5,7 @@ countryCode: US
 description: According to a Quinnipiac University poll, 15% of Americans say they'd
   be willing to have a job where their direct supervisor was an AI program that assigned
   tasks and set…
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 57.0
 pubDate: '2026-03-30T23:41:48Z'

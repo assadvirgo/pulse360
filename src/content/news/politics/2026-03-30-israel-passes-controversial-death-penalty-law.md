@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has passed a law which will make the death penalty by hanging
   the default punishment for West Bank Palestinians convicted of murdering Israelis.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-03-30T17:00:00Z'

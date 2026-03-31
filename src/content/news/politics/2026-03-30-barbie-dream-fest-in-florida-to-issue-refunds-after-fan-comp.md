@@ -5,7 +5,7 @@ countryCode: US
 description: Fans, who paid up to $450 (£340), complained of a grey convention centre
   backdrop and a "swag bag" that included only a plastic pouch with a Barbie hand
   sanitiser.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 69.2
 pubDate: '2026-03-30T18:13:45Z'

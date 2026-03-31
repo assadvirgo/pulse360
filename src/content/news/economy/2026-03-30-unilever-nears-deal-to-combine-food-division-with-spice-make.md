@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Move will transform Hellmann’s mayonnaise maker from multi-category conglomerate
   into beauty and personal care company
-displayOrder: 31
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-30T23:13:51Z'
