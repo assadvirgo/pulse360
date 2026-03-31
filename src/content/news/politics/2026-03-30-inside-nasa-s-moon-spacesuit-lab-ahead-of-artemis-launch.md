@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Artemis II spacesuits are designed to protect the astronauts during
   launch and landing, as well as possible emergency scenarios.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-03-30T15:48:53Z'

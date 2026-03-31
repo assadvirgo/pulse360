@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Golden Pass plant owned by QatarEnergy and ExxonMobil may help replace
   shortages hit by Hormuz crisis
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-03-30T16:00:13Z'

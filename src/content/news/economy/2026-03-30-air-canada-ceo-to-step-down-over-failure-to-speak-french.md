@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Michael Rousseau recorded condolence video after fatal plane crash in
   English despite country being officially bi-lingual
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-30T17:29:55Z'

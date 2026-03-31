@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rights group says football tournament in Canada, Mexico and US poses
   risks for fans from local communities and abroad.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 60.5
 pubDate: '2026-03-30T15:58:13Z'

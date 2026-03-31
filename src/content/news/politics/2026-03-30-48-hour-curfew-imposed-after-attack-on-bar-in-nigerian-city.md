@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The raid led to revenge attacks in Jos, with 22 reported dead so far
   in one of the most volatile parts of the country.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-03-30T12:23:38Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Analysts are divided over whether Microsoft’s diversified business model
   is a long-term AI advantage or a convenient present-day excuse.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-03-30T19:20:00Z'

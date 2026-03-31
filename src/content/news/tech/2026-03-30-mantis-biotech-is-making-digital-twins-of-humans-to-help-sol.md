@@ -3,7 +3,7 @@ category: Tech
 description: Mantis takes disparate sources of data to make synthetic datasets that
   can be used to build so-called "digital twins" of the human body, representing anatomy,
   physiology and…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-03-30T14:30:00Z'

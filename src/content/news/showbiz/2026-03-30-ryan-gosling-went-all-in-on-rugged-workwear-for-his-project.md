@@ -5,7 +5,7 @@ countryCode: US
 description: Ryan Gosling may be thrust into space in his latest film but on the ground,
   the actor has been leaning into a distinctly rugged, Western-tinged wardrobe for
   the &#8220;Project…
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 68.8
 pubDate: '2026-03-30T18:49:08Z'

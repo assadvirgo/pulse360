@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England manager Thomas Tuchel says he is not disappointed with the players
   who have pulled out of the squad for Tuesday's friendly against Japan.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-03-30T13:59:35Z'

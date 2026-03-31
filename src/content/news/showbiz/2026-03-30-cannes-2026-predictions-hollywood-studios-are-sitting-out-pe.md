@@ -5,7 +5,7 @@ countryCode: FR
 description: Even without splashy studio titles from Hollywood, the Cannes Film Festival
   looks poised to deliver a robust competition slate filled with new work from legendary
   auteurs. While…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-03-30T19:30:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Recently retired coach Gus Malzahn, who won a national title in 2010
   as Auburn's offensive coordinator, will join former Cal head coach Jeff Tedford
   on the College Football…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 79.5
 pubDate: '2026-03-30T19:16:01Z'

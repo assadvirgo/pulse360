@@ -5,7 +5,7 @@ countryCode: US
 description: Sony Music has appointed Ezekiel &#8220;Zeke&#8221; Lewis as chairman
   and CEO of Epic Records, the company announced Monday. Lewis had served as Epic&#8217;s
   president since 2023,…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-03-30T15:15:13Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Baseball's new ABS system is the talk of the sport. We hand out awards
   after the first weekend of the rule.
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-30T20:46:14Z'

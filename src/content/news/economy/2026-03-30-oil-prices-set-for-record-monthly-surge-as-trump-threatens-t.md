@@ -2,7 +2,7 @@
 category: Economy
 description: Crude prices jumped Monday as uncertainty over an endgame for the war
   increases
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-30T15:20:00Z'

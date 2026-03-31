@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: CAA has emerged from a signing scrum and has landed Jonathan
   Daviss as a client in all areas. Daviss had hit breakout turn as Pope Heyward in
   the Netflix series Outer…'
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-03-30T15:46:21Z'

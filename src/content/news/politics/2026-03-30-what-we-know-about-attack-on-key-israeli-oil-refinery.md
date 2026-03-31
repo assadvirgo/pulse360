@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli authorities said they were containing a large fire at an oil
   refinery in Haifa after it was hit by debris.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-30T19:19:50Z'
