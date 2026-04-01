@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Police inspect a strike site in Tel Aviv after a missile hit the city.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-01T07:55:50Z'

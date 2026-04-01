@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Anthony Albanese used a rare TV address to tell Australians that the
   "months ahead may not be easy" amid the global effects of the war.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-01T10:53:03Z'

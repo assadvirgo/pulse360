@@ -5,7 +5,7 @@ countryCode: US
 description: Earlier this month, Apple announced the AirPods Max 2, a pair of over-ear
   headphones that leverage the company’s H2 chip for AI-powered live translation,
   conversation awareness,…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-03-31T23:53:47Z'

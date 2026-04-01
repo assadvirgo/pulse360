@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: First Black astronaut candidate Ed Dwight says he’s “really proud” of
   Victor Glover who’s set to make history.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-01T05:07:54Z'

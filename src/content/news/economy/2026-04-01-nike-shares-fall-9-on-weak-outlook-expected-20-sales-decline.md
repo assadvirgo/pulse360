@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nike has shown some gains in North America, its largest market, amid
   its turnaround, but the strength was offset by weakness in China.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-01T06:13:56Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values
   the AI lab at $852 billion as it nears an IPO.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-03-31T21:25:04Z'

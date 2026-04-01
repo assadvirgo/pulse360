@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lakers? Cavs? Warriors? A wild card? Before LeBron James makes his decision
   this summer, sources around the league weigh in.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-01T12:32:02Z'

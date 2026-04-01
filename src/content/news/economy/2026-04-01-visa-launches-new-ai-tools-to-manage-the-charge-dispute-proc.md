@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Visa's new tools are part of a larger push by major banks and financial
   institutions to incorporate AI into their businesses.
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-01T12:00:01Z'

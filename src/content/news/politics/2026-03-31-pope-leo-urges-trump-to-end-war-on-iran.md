@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pope Leo XIV has urged US President Donald Trump to find an “off-ramp”
   from the US and Israel’s war on Iran.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-31T23:12:43Z'

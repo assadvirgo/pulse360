@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Alger Focus Equity Fund co-manager Patrick Kelly says investors should
   not lose sight of AI’s impact, with major secular trends in place.
-displayOrder: 27
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-01T11:10:00Z'

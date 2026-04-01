@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The golf champion was arrested and charged with driving under the influence
   after clipping a truck and rolling his car in Florida on Friday.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-03-31T23:44:19Z'

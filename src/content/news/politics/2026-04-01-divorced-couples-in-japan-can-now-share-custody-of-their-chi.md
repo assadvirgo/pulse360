@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japan was, until recently, the only G7 country to not recognise the legal
   concept of joint custody.
-displayOrder: 15
+displayOrder: 40
 heroImage: ''
 importance: 71.2
 pubDate: '2026-04-01T04:11:30Z'

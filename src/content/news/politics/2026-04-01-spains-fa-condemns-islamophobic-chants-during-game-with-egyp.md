@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Pre-World Cup friendly in Spain marred by racist and anti-Muslim chants
   by the home fans.
-displayOrder: 23
+displayOrder: 44
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-01T07:43:14Z'
