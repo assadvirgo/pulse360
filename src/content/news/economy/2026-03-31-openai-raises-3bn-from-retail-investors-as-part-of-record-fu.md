@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: ChatGPT maker taps individuals for first time as it pulls in up to $122bn
-displayOrder: 40
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-31T20:09:47Z'

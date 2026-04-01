@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump reportedly told aides he would end the war in
   Iran without reopening the trade route.
-displayOrder: 18
+displayOrder: 29
 heroImage: ''
 importance: 60.5
 pubDate: '2026-03-31T19:19:00Z'

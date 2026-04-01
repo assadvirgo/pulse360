@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Striker Romelu Lukaku could face disciplinary action after Napoli released
   a statement to say he has ignored a request to return to the club.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-03-31T14:38:27Z'

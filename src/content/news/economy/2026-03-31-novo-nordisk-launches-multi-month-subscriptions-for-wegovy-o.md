@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: Longer subscriptions offer lower monthly pricing, with people expected
   to save up to $1,200 a year on the injection and as much as $600 a year on the pill.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-03-31T18:10:14Z'

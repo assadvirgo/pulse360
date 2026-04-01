@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Defence Minister Israel Katz also says houses in Lebanese villages near
   the Israeli border will be demolished.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-03-31T16:12:59Z'

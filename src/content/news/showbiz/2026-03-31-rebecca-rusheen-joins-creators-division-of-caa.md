@@ -5,7 +5,7 @@ countryCode: US
 description: Rebecca Rusheen has joined CAA as an agent in the Creators division following
   stints at Gersh and the now-defunct A3 Artists Agency. &#8220;Rebecca is a highly
   respected and…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-03-31T19:00:00Z'

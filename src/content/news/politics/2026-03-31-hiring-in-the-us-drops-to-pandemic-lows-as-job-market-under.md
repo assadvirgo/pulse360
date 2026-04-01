@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Labour market stagnation mirrors a slowing private payroll growth, averaging
   just 18,000 monthly in recent months
-displayOrder: 17
+displayOrder: 28
 heroImage: ''
 importance: 59.5
 pubDate: '2026-03-31T19:41:08Z'

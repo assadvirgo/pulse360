@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Al Jazeera’s Alan Fisher explains what Trump’s latest criticism of US
   allies means.
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 63.5
 pubDate: '2026-03-31T16:01:59Z'

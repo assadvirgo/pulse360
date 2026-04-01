@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company’s market cap reached a high of more than $4 billion on its
   first day of trading, but never again came close to that.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-03-31T19:00:00Z'

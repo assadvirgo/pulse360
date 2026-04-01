@@ -5,7 +5,7 @@ countryCode: US
 description: 'After a couple of quiet years, Sonos is back with two new consumer speakers:
   the portable Sonos Play and the more affordable Era 100 SL. They retail for $299
   and $189,…'
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-03-31T17:36:22Z'
