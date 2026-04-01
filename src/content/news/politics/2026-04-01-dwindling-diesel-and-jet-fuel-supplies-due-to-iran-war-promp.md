@@ -2,7 +2,7 @@
 category: Politics
 description: The European Union (EU) could revive measures brought in after Russia
   cut gas supplies in 2022 amid a mounting energy crisis due to the Iran war.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-01T06:23:00Z'

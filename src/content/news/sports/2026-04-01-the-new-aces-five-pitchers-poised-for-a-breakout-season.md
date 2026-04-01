@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tristan H. Cockcroft takes a look at five pitchers who are likely to
   be on many a fantasy championship roster.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-01T15:07:05Z'

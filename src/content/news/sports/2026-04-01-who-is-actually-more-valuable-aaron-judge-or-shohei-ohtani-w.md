@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: They're MLB's unquestioned top two superstars. We break down their value
   to determine which reigns supreme.
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-01T16:40:45Z'

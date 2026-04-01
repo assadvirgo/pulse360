@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The prime minister is preparing Israel for a future of open-ended war
   against perceived threats
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-01T04:00:15Z'

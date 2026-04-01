@@ -5,7 +5,7 @@ countryCode: JP
 description: Things aren't going so well in the video game industry. Consoles are
   getting more expensive, games are shutting down, layoffs are prevalent, the live-service
   space is a mess,…
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-01T13:30:00Z'

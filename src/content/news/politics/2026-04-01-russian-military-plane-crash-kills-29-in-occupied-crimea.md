@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Russian authorities say a technical malfunction caused the An-26 to crash
   into a cliff.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-01T09:55:28Z'

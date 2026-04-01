@@ -5,7 +5,7 @@ countryCode: US
 description: Because the timing of labor market displacement is so uncertain, Muddy
   Waters recommends using derivative exposure to take a bearish view on corporate
   credit.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-01T11:08:00Z'

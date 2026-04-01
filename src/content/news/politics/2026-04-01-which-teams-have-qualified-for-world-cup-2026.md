@@ -2,7 +2,7 @@
 category: Politics
 description: A breakdown of the teams and groups of the FIFA World Cup in Canada,
   Mexico and the US after the final playoffs.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-01T09:33:29Z'

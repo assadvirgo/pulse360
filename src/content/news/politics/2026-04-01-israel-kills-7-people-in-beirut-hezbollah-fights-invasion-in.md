@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli military says it aimed to kill a senior Hezbollah commander
   as it launched its latest attacks on Beirut.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-01T10:05:17Z'

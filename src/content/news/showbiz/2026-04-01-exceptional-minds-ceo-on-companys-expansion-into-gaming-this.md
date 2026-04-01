@@ -5,7 +5,7 @@ countryCode: US
 description: '“Avengers: Infinity War,” “Black Panther” and “Bridgerton” have one
   thing in common – Exceptional Minds. The North Hollywood-based non-profit training
   academy works to bring young…'
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-01T16:15:00Z'

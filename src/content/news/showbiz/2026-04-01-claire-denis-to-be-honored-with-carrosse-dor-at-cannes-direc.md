@@ -5,7 +5,7 @@ countryCode: FR
 description: Claire Denis will be feted with the honorary Golden Carriage (Carrosse
   d’Or) award at the upcoming edition of Cannes Directors’ Fortnight, its parent body
   the French Directors’…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 70.0
 pubDate: '2026-04-01T15:29:27Z'

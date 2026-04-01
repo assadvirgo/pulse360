@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Human rights groups condemn campaigns that seek to register ‘defenders
   of the homeland’ as young as 12
-displayOrder: 33
+displayOrder: 48
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-01T11:42:15Z'

@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: 'Shafi’s 2018 sexual harassment allegations against Zafar are widely
   seen as Pakistan’s highest‑profile #MeToo case.'
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-01T14:40:55Z'

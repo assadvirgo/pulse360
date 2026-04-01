@@ -5,7 +5,7 @@ countryCode: US
 description: American manufacturing grew in March at the fastest pace since mid-2022
   by one measure, but the conflict with Iran added a new level of uncertainty just
   as the effects of the…
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-01T15:07:00Z'

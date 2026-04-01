@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Even with Tuesday’s bounce, Boeing’s stock still dropped 12.5% in March.
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-01T14:13:00Z'
