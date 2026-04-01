@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Both teams made the playoffs last season but their captains' fortunes
   in T20 cricket have fallen since then
-displayOrder: 17
+displayOrder: 28
 heroImage: ''
 importance: 54.5
 pubDate: '2026-03-31T17:55:13Z'

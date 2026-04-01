@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge ruled that President Donald Trump&#8217;s executive order
   last year to end funding for PBS and NPR public media violated the First Amendment.
   In a ruling Tuesday,…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-03-31T18:50:10Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: This is the first time that a loan backed by compute hardware has achieved
   investment-grade status.
-displayOrder: 33
+displayOrder: 45
 heroImage: ''
 importance: 52.5
 pubDate: '2026-03-31T15:25:00Z'

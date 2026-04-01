@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump has reportedly told aides that he’s willing to
   end the U.S. military campaign against Iran even if the strait remains largely closed.
-displayOrder: 18
+displayOrder: 27
 heroImage: ''
 importance: 50.5
 pubDate: '2026-03-31T19:41:00Z'

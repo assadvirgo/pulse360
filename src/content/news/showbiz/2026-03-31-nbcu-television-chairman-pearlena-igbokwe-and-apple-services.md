@@ -5,7 +5,7 @@ countryCode: US
 description: Variety has announced&#160;additional&#160;speakers for the 2026 Entertainment
   Marketing Summit, presented by Deloitte, on April 22 in Los Angeles. Speakers will
   include…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-03-31T18:01:41Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: McCormick’s stock surges amid talks to combine with Unilever’s foods
   business, but there’s no mention of the deal in the earnings report.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-03-31T11:52:00Z'

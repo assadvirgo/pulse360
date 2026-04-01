@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tiger Woods had hydrocodone pills in his pocket and bloodshot eyes at
   the scene of his car crash last week, a sheriff&#8217;s report said.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 54.0
 pubDate: '2026-03-31T17:34:00Z'

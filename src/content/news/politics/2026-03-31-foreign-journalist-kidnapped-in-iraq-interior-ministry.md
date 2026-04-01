@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Iraq&#039;s Ministry of Interior says one suspect arrested after &#039;unknown
   individuals&#039; kidnap journalist.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-03-31T17:27:53Z'

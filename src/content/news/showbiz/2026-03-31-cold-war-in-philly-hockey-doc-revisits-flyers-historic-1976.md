@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Fifty years after one of the most unforgettable nights in
   hockey history, a new documentary will bring the story of the Philadelphia Flyers
   vs. Soviet Central Red Army…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-03-31T16:00:00Z'

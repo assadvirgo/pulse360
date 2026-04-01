@@ -5,7 +5,7 @@ countryCode: US
 description: While Meta has released several versions of its AI glasses over the last
   few years, today it announced it's released two new styles specifically geared toward
   those of us with…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-03-31T15:16:13Z'
