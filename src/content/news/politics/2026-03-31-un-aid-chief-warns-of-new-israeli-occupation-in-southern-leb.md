@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: UN aid chief Tom Fletcher has warned of a potential new Israeli occupation
   in southern Lebanon.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-03-31T21:15:48Z'

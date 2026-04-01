@@ -5,7 +5,7 @@ countryCode: US
 description: Bruce Springsteen has said that his 2026 &#8220;Land of Hope and Dreams&#8221;
   tour with the E Street Band will be political, and he was not exaggerating. On the
   tour’s opening…
-displayOrder: 1
+displayOrder: 22
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-01T03:20:01Z'

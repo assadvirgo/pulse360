@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: How a little-known yet highly influential management course in postwar
   Japan paved the way for Steve Jobs’ obsession with quality
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-01T04:00:06Z'

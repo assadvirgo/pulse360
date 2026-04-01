@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Northern Ireland manager Michael O'Neill says he is "disappointed" by
   clubs who raised concerns with the EFL about his dual role with Blackburn Rovers.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-03-31T22:20:23Z'

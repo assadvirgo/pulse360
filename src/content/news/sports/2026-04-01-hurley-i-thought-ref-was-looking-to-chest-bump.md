@@ -5,7 +5,7 @@ countryCode: US
 description: UConn coach Dan Hurley downplayed his bizarre interaction with an official
   at the end of Sunday's NCAA tournament victory against Duke, saying he thought the
   referee was looking…
-displayOrder: 10
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-01T05:39:27Z'

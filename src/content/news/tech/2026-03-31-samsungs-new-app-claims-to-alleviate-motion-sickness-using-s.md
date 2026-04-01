@@ -5,7 +5,7 @@ countryCode: KR
 description: Samsung released a new free app today called Hearapy, now available for
   Android devices through the Google Play store, that it claims can reduce the symptoms
   of motion sickness…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-03-31T19:56:26Z'

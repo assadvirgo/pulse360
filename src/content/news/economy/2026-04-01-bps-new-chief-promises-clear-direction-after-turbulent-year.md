@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Meg O’Neill’s first message to staff pledges improved performance in
   difficult geopolitical environment
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-01T07:04:13Z'

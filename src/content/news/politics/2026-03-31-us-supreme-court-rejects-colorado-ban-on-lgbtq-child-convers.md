@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In an eight-to-one decision, the high court ruled against a law banning
   the discredited practice on free speech grounds.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-03-31T21:45:57Z'
