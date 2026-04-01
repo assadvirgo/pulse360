@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tiger Woods has said he is "stepping away for a period of time to seek
   treatment" after being charged with driving under the influence.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 64.0
 pubDate: '2026-03-31T22:49:00Z'

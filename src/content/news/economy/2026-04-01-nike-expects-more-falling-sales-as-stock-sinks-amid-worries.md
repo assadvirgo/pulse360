@@ -5,7 +5,7 @@ countryCode: US
 description: Nike reported quarterly results that were a bit better than Wall Street’s
   expectations, but investors still didn’t appear convinced of the sneaker giant’s
   turnaround efforts.
-displayOrder: 39
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-01T00:14:00Z'

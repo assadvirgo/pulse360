@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Fans celebrated as Turkiye ended a 24-year wait to secure a spot in the
   2026 World Cup.
-displayOrder: 16
+displayOrder: 23
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-01T03:02:20Z'

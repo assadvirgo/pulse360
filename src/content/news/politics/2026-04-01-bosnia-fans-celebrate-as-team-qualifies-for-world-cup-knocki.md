@@ -4,7 +4,7 @@ country: Bosnia and Herzegovina
 countryCode: BA
 description: Supporters celebrated as Bosnia and Herzegovina beat Italy in a penalty
   shootout to secure a spot in the 2026 World Cup.
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-01T01:07:51Z'

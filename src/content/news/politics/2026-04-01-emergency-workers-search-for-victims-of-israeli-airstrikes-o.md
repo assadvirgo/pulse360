@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Emergency workers searched through rubble in Beirut after Israeli airstrikes
   hit the Jnah neighbourhood.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-01T00:56:38Z'

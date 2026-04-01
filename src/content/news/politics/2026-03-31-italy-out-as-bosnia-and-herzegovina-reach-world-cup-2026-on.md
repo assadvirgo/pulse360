@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: After the match was level at 1-1 after extra time, Bosnia and Herzegovina
   beat Italy 4-1 on penalties to reach finals.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-03-31T21:52:32Z'

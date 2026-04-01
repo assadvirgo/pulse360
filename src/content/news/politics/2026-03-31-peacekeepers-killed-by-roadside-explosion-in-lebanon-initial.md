@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The deaths of the two Indonesian nationals came less than a day after
   another UN peacekeeper - also Indonesian - was killed in Lebanon.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 65.2
 pubDate: '2026-03-31T22:07:26Z'

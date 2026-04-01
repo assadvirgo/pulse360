@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Republican-appointed judge ruled that Trump was a "steward" of the
   White House, not the owner.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 51.2
 pubDate: '2026-03-31T23:58:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The database giant would be the latest tech company to initiate layoffs
   as it frees up capital to spend on AI projects.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 44.5
 pubDate: '2026-03-31T19:26:00Z'

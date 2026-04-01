@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump is taking to primetime tomorrow, April 1, to address
   the nation about the war in Iran. Scheduled for 9 PM ET, his remarks will be carried
   live by all four…
-displayOrder: 8
+displayOrder: 16
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-01T02:38:10Z'

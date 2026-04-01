@@ -3,7 +3,7 @@ category: Tech
 description: If you’re keen to get a new 4K TV that has built-in streaming services
   provided by Amazon’s Fire TV software, it’s tough to get more for your money than
   with Hisense’s U6. The…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-03-31T18:00:46Z'

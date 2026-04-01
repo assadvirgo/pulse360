@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: More funds run by Cathie Wood’s Ark will have positions in the ChatGPT
   creator.
-displayOrder: 43
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-03-31T22:15:00Z'

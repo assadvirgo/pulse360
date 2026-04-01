@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Who are the favorites to win seasonlong honors? Here are the odds for
   MVP, Cy Young and Rookie of the Year in the AL and NL.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 66.5
 pubDate: '2026-03-31T19:56:53Z'

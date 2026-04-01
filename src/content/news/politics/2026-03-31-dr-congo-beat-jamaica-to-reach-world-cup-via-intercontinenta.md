@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Former Manchester United defender Axel Tuanzebe scores in extra time
   as DR Congo beat Jamaica 1-0 in qualifying playoff.
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 61.5
 pubDate: '2026-03-31T23:52:44Z'

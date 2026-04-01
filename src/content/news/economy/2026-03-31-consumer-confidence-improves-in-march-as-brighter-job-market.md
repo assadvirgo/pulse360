@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Consumers expect higher inflation and interest rates in coming months.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-03-31T15:34:00Z'
