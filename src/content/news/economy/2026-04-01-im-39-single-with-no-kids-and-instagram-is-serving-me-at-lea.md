@@ -5,7 +5,7 @@ countryCode: US
 description: Don’t think about indexed universal life insurance as a “stock alternative”
   as IULs are a type of life-insurance policy. Think about what kind of life insurance
   you’d want, if any.
-displayOrder: 29
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-01T18:19:00Z'

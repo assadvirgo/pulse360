@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amy Madigan won an Oscar for playing Aunt Gladys in Cregger's original
   horror hit that Warner Bros. released last summer.
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-01T19:55:17Z'

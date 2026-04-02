@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President attends proceedings as justices consider one of their most
   consequential cases
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-01T15:56:49Z'

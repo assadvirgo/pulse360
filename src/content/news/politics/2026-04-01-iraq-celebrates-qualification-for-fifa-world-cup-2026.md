@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: The Lions of Mesopotamia secured their World Cup spot with a thrilling
   2-1 victory over Bolivia amid war backdrop.
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-01T11:19:11Z'

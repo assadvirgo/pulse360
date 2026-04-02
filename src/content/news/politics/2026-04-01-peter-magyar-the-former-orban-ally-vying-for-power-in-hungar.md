@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Magyar represents the biggest threat to Viktor Orban's rule in Hungary
   since he won the first of four consecutive victories in 2010.
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-01T13:43:10Z'

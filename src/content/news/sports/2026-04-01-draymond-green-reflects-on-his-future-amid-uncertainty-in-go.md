@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As the Warriors face another season lost to injuries, Green confronts
   an uncertain future.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-01T12:39:54Z'

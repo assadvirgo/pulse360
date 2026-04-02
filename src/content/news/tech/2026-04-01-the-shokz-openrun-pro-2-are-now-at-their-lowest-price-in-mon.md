@@ -3,7 +3,7 @@ category: Tech
 description: As the days get warmer, it’s tempting to take your workouts outside.
   Bone conduction headphones let you listen while staying aware of your surroundings,
   making them ideal for…
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-01T17:11:50Z'

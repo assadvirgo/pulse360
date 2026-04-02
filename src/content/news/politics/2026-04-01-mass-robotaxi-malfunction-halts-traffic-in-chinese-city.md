@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Baidu has not responded to a request for comment about the outage, which
   affected at least 100 cars.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-01T11:34:31Z'

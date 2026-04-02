@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Weapons&#8221; breakout character Aunt Gladys&#8217; story continues
   with a prequel movie, with Zach Shields (&#8220;Godzilla x Kong: The New Empire&#8221;)
   tapped to…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-01T19:47:05Z'

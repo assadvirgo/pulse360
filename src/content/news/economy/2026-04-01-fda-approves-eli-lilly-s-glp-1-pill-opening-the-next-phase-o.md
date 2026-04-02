@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The FDA approval of Eli Lilly's GLP-1 pill Foundayo comes nearly three
   months after Novo Nordisk's oral version of Wegovy hit the market.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-01T15:56:59Z'
