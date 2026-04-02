@@ -5,7 +5,7 @@ countryCode: US
 description: Tiger Woods turns down the role of United States Ryder Cup captain next
   year in Ireland, the PGA of America announces, as he steps away from golf following
   last week's car crash.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-01T22:57:12Z'

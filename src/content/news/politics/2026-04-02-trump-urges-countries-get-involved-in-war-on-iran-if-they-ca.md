@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump says nations that rely on oil from the Strait
   of Hormuz should build up some delayed courage.
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 77.5
 pubDate: '2026-04-02T04:54:53Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: Details follow for Season 14, Episode 12 &#160;of “The
   Masked Singer,” “Finals,” which aired March 25 on Fox. The stars aligned for Ashlee
   Simpson, who was unmasked…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 66.8
 pubDate: '2026-04-02T02:21:58Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The Meta-owned company said it identified around 200 users who were tricked
   into installing a fake version of WhatsApp that was actually Italian-made spyware.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-04-01T16:34:10Z'

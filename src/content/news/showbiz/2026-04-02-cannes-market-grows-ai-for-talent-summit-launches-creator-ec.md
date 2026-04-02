@@ -5,7 +5,7 @@ countryCode: FR
 description: The Cannes Film Festival&#8217;s Marché du Film (May 12-20) is extending
   its AI For Talent Summit which will mark its second year this May after a one-day
   inaugural edition last…
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-02T08:03:23Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Man United's maiden Women's Champions League campaign ended in Munich
   at the quarterfinal stage. Now they need to prove they're not on-hit wonders.
-displayOrder: 23
+displayOrder: 42
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-02T00:27:03Z'

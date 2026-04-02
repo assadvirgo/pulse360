@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: The ​epicentre of the ⁠earthquake was about ⁠120km (75 miles) from Ternate,
   in Indonesia&#039;s North Maluku ‌province.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 79.5
 pubDate: '2026-04-01T23:54:08Z'

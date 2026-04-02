@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 15-time major winner will focus on health following his car crash
   and subsequent DUI arrest on Friday.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-02T04:23:47Z'

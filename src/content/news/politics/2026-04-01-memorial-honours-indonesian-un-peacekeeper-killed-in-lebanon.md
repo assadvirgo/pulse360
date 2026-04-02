@@ -3,7 +3,7 @@ category: Politics
 country: Indonesia
 countryCode: ID
 description: Families and colleagues held a memorial for UN peacekeeper Farizal Rhomadhon.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-01T18:42:33Z'

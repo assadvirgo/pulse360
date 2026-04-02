@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sjoeke Nusken's consolation goal for Chelsea proved to be too little,
   too late in loss to Arsenal in the UWCL.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-02T00:27:02Z'

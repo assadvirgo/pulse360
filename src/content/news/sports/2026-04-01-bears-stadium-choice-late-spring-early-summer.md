@@ -5,7 +5,7 @@ countryCode: US
 description: Kevin Warren. president and CEO of the Chicago Bears, says the team is
   targeting "late spring, early summer" for a decision on where the team's new stadium
   will be built.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-01T20:38:46Z'
