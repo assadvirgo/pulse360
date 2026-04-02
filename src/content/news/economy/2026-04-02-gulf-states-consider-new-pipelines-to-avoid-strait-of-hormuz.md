@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Conflict prompts countries to revisit plans that replicate Saudi Arabia’s
   East-West pipeline despite huge cost and complexity
-displayOrder: 37
+displayOrder: 50
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-02T04:00:15Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Oil traders that normally thrive on volatility caught out by scale of
   crisis as energy shock unfurled
-displayOrder: 26
+displayOrder: 44
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-02T04:00:22Z'

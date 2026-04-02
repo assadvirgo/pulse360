@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US households paid $1,000 more for the same goods over the past year,
   with lower-income families hit the hardest.
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-02T09:28:53Z'

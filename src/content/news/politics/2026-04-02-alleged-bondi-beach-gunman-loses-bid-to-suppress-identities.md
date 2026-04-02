@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: A terror suspect accused of killing 15 people in a shooting spree on
   Bondi Beach has lost a bid to protect the identities of family members.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-02T05:38:00Z'

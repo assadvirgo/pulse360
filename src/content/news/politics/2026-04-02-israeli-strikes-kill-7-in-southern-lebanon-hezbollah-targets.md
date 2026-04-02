@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Fighting in southern Lebanon continues as Israel seeks to establish a
   &#039;security zone&#039; and dismantle Hezbollah.
-displayOrder: 2
+displayOrder: 19
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-02T11:26:47Z'

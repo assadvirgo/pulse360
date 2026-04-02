@@ -4,7 +4,7 @@ country: Gambia
 countryCode: GM
 description: Police fired tear gas and water cannons at protesters in the Gambia who
   were demanding the release of two siblings.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-02T04:37:56Z'

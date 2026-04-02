@@ -5,7 +5,7 @@ countryCode: GB
 description: Gene Fallaize, the director behind Kevin Spacey’s first post-acquittal
   feature “Control,” is tackling World War II for his next film. The as-yet-untitled
   project will be set on…
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-02T10:01:00Z'

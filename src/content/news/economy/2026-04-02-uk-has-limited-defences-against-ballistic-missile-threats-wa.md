@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former commander of Britain’s ground-based air defences also says the
   £1bn earmarked for investment is insufficient
-displayOrder: 27
+displayOrder: 45
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-02T04:00:14Z'

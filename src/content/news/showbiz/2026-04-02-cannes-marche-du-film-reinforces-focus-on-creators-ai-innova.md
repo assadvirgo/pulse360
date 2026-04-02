@@ -5,7 +5,7 @@ countryCode: FR
 description: The industry-leading Marché du Film, Cannes’s prestigious market, has
   reinforced its commitment to looking ahead as it gears to deliver its 2026 edition
   between May 12-20 in the…
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-02T08:00:11Z'

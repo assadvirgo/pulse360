@@ -5,7 +5,7 @@ countryCode: US
 description: The NCAA Division I Cabinet will consider proposed changes to eligibility
   rules, including one that would bar athletes who have entered and remained in a
   professional sports draft…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-02T07:26:44Z'

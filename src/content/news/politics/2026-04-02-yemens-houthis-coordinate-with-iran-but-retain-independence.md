@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Houthi actions align with Iran’s strategy, but maintain autonomy to maximise
   regional influence and domestic objectives.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-02T10:36:37Z'

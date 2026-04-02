@@ -5,7 +5,7 @@ countryCode: IT
 description: The Far East Film Festival has revealed that Chinese superstar Fan Bingbing
   and Japanese actor Yakusho Koji will each receive the Golden Mulberry Award for
   Lifetime Achievement at…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-02T10:00:00Z'

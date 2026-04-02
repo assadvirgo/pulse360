@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: As sowing season approaches across the region, farmers face scarcity
   and rising cost of fertiliser.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-02T07:16:16Z'
