@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump addressed an uneasy nation on Wednesday as the
   United States’ war with Iran entered its second month. He used the prime time slot
   to briefly address…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-02T02:14:32Z'

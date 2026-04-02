@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India has begun counting its around 1.4 billion population in the world’s
   largest census, its first since 2011.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-01T20:06:38Z'

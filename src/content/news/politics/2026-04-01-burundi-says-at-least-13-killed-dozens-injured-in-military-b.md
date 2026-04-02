@@ -4,7 +4,7 @@ country: Burundi
 countryCode: BI
 description: Army spokesperson says houses, buildings, vehicles ​and military equipment
   were destroyed in ammunition depot blast.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-01T20:16:32Z'

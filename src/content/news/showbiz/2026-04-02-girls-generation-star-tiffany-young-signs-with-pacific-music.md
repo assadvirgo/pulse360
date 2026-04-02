@@ -5,7 +5,7 @@ countryCode: KR
 description: Tiffany Young, the Los Angeles-born K-pop pioneer who came of age as
   a lead member of Girls&#8217; Generation, has signed with Pacific Music Group in
   a 360 deal that covers both…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-02T02:00:00Z'

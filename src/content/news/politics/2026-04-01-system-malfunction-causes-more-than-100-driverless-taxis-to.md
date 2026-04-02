@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: A system failure caused more than 100 driverless cars to suddenly stop
   mid-traffic in China.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-01T19:18:00Z'

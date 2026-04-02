@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The chip maker’s repurchasing of equity interest in the joint venture
   related to its Ireland fab supports its manufacturing abilities, an analyst says
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-01T21:22:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Dennis Quaid is set for a lead role in a series set in the world of NASCAR
   currently in development at AMC. Quaid will star in &#8220;Thunder Road,&#8221;
   which is being produced…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-01T22:09:45Z'

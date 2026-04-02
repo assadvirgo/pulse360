@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Controversial US tech group was awarded a £330mn contract in 2023 to
   collate hospital and patient information
-displayOrder: 15
+displayOrder: 22
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-02T04:00:14Z'

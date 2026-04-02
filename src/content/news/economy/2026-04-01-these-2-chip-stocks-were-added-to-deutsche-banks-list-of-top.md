@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Applied Materials shares look set to continue to benefit from recent
   chip-sector strength, while Broadcom’s stock should rebound as AI-chip revenue grows.
-displayOrder: 40
+displayOrder: 45
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-01T19:20:00Z'

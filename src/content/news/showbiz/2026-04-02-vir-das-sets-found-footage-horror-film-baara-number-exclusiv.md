@@ -5,7 +5,7 @@ countryCode: IN
 description: International Emmy-winning Indian comedian Vir Das has set his next directorial
   venture. Found-footage horror film &#8220;Baara Number&#8221; will be produced via
   Das&#8217;…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-02T02:30:00Z'
