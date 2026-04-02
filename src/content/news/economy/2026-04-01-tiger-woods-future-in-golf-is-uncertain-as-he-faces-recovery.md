@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The latest developments leave Woods at least temporarily at the fringes
   of the sport that made him a household name.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-01T18:48:43Z'

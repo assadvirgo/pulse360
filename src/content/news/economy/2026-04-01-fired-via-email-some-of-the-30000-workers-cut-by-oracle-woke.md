@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The cloud-computing and database company began cutting jobs on Tuesday,
   with many workers being alerted over email.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-01T22:12:00Z'

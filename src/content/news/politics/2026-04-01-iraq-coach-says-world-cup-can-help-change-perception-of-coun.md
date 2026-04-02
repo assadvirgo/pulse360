@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Over those past four decades, Iraq has faced a number of crises, including
   wars and separatist movements.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-01T18:03:55Z'

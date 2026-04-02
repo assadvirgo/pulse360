@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has become the first country to vote in favour of capital punishment
   in the 21st century.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-01T20:42:14Z'

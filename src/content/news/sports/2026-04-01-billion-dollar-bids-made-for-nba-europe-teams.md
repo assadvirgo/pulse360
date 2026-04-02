@@ -2,7 +2,7 @@
 category: Sports
 description: Multiple billion-dollar bids have been made for teams in the NBA's proposed
   Euros league, BBC Sport understands.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-04-01T19:29:36Z'

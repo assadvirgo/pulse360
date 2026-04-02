@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinian Authority President Mahmoud Abbas&#039;s Fatah party had
   called for the strike.
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 65.5
 pubDate: '2026-04-01T19:09:05Z'

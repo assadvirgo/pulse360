@@ -5,7 +5,7 @@ countryCode: US
 description: On Wednesday morning, the Supreme Court heard arguments in Trump v. Barbara,
   a case challenging President Donald Trump's 2025 executive order banning birthright
   citizenship.…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-01T23:39:15Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump says he is considering a NATO exit as allies resist cooperation
   in US-Israel war on Iran.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-01T12:03:47Z'
