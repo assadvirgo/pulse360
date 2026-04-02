@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: A week after 23-year-old&#039;s participation in the Tour of Catalonia,
   Guardeno suffers head injuries in collision with car.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-02T13:33:55Z'

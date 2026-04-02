@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: The quake struck between the islands of Manado and Ternate. Tsunami warnings
   have now been lifted.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 77.2
 pubDate: '2026-04-02T04:00:48Z'

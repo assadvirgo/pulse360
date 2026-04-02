@@ -5,7 +5,7 @@ countryCode: US
 description: Since last year, Uber has been offering drivers in a handful of locations
   - California, Colorado, Massachusetts and New York City - $4,000 to swap their gas
   guzzlers for electric…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-02T11:00:00Z'

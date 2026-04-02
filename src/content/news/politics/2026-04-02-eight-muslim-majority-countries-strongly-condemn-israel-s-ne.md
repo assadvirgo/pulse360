@@ -3,7 +3,7 @@ category: Politics
 description: Eight &#8204;Muslim-majority countries have "strongly condemned" a new
   Israeli law which makes death by hanging &#8203;a default &#8204;sentence for Palestinians
   convicted…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-02T08:47:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Budget of $271bn comes against a backdrop of surging violence by Israeli
   settlers towards Palestinians in the West Bank.
-displayOrder: 18
+displayOrder: 37
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-02T11:09:02Z'

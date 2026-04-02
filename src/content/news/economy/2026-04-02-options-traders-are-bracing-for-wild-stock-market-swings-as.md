@@ -5,7 +5,7 @@ countryCode: US
 description: Options data show record positioning for both long calls and short puts
   on the S&amp;P 500, meaning traders are hedging their portfolios for market swings
   in both directions.
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 40.5
 pubDate: '2026-04-02T15:39:00Z'

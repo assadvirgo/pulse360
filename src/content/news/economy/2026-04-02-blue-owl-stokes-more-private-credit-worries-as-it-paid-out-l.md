@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Blue Owl’s stock was falling after its private-credit fund capped redemptions
   at just 23% of what was requested.
-displayOrder: 21
+displayOrder: 41
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-02T15:34:00Z'

@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: After draws against Portugal and Belgium, Mexico are still unbeaten in
   2026.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-02T13:05:40Z'

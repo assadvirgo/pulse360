@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amid fears of stagflation, persistently high interest rates and a weakening
   labor market, our mood changes almost on a daily basis.
-displayOrder: 39
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-02T10:14:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: It's rough out there for the pure EV companies, but despite all the challenges,
   Rivian says its on target for a historic year. Ahead of the launch of the company's
   more affordable…
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-02T15:30:02Z'

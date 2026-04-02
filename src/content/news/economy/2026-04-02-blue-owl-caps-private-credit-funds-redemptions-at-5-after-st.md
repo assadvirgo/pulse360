@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Blue Owl attributed the higher-than-usual requests to "heightened market
   concerns around AI-related disruption to software companies."
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-02T14:50:54Z'

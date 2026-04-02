@@ -2,7 +2,7 @@
 category: Politics
 description: The chief prosecutor of the International Criminal Court (ICC) will face
   disciplinary proceedings over accusations of sexual misconduct, it has been reported.
-displayOrder: 20
+displayOrder: 40
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-02T12:02:00Z'
