@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bullion prices may fall if the Federal Reserve decides to hold interest
   rates for the rest of the year, which the market has priced in.
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-02T23:32:00Z'

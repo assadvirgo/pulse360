@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The judge left in place three allegations against Baldoni, meaning the
   civil trial will go ahead next month.
-displayOrder: 26
+displayOrder: 33
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-02T22:47:48Z'

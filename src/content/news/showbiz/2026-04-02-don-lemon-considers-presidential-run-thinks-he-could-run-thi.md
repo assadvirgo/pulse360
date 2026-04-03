@@ -5,7 +5,7 @@ countryCode: US
 description: With the 2028 presidential election inching closer every day, Don Lemon
   is the latest public figure to flirt with running for office. The CNN alum recently
   teased &#8220;it could…
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 63.0
 pubDate: '2026-04-02T22:10:24Z'

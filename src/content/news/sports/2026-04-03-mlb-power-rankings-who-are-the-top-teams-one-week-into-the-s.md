@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With baseball now underway, how much has changed since our preseason
   rankings? Our Week 1 rankings tell the story.
-displayOrder: 8
+displayOrder: 15
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-03T01:30:09Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Flory Bidunga, who projects as a second-round pick, would be the top
   player in the portal among the more than 800 players so far who intend to enter.
-displayOrder: 3
+displayOrder: 4
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-03T04:50:31Z'

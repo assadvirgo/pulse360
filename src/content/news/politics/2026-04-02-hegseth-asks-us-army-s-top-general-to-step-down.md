@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gen Randy George was nominated for the role in 2023 by former President
   Joe Biden.
-displayOrder: 22
+displayOrder: 28
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-02T22:57:37Z'

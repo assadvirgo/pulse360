@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gateway Capital, the Milwaukee-based venture firm founded by Dana Guthrie,
   can now begin investment operations for its $25M Fund II.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-02T19:45:19Z'
