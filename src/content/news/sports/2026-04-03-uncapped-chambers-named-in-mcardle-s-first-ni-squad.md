@@ -5,7 +5,7 @@ countryCode: GB
 description: Uncapped striker Cora Chambers is included in new Northern Ireland boss
   Michael McArdle's first squad for their April World Cup qualifying double-header
   against Malta.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-03T10:23:00Z'

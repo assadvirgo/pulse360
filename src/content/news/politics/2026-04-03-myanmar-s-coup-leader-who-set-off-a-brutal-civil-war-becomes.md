@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: General Min Aung Hlaing has been chosen as the next president by the
   newly-elected parliament.
-displayOrder: 1
+displayOrder: 17
 heroImage: ''
 importance: 91.2
 pubDate: '2026-04-03T06:49:37Z'

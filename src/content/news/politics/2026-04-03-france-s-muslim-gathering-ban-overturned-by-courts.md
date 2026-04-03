@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The Paris police department had argued that the four-day gathering was
   a security threat because it could be a target of terrorism.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-03T12:20:28Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: United States-based scholars sign open letter raising concerns about
   conduct, rhetoric during US-Israeli war on Iran.
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-03T10:49:25Z'

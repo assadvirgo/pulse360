@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: United Airlines became the second U.S. carrier in a week to raise check
   bag fees as the industry grapples with a more than 80% jump in jet fuel costs.
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-03T12:32:11Z'

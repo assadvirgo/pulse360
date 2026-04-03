@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: He will replace Randy George, who was asked to step down from his post
   by Defence Secretary Pete Hegseth.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-03T11:52:50Z'

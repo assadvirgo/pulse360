@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “No matter what I do, the beds still look a bit creased and worn, even
   grubby, in pictures.”
-displayOrder: 30
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-03T14:56:00Z'

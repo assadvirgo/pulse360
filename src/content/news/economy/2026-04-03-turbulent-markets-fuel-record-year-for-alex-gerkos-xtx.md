@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Billionaire’s trading business is one of the most profitable UK private
   companies
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-03T10:08:56Z'

@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Meanwhile in UAE, 12 people were injured by debris fall and Oracle and
   Amazon Web Services data centres were hit.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-03T08:59:42Z'

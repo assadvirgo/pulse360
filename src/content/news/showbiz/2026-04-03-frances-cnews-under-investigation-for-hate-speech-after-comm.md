@@ -5,7 +5,7 @@ countryCode: FR
 description: CNews, France’s equivalent to Fox News, is under formal investigation
   for possible hate speech following allegedly racist comments targeting the newly
   elected Black mayor of…
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-03T15:06:11Z'
