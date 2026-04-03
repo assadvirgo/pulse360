@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI has purchased TBPN, an online talk show that often interviews
   AI executives and other tech leaders. The show goes live every weekday at 2PM PT,
   often for a three-hour…
-displayOrder: 27
+displayOrder: 38
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-02T17:40:07Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Hudson Stone, who stars as Desi in the Disney Channel movie “Camp Rock
   3,” has signed an exclusive recording contract with Hollywood Records. The singer-actor,
   who turns 15 in…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-02T20:47:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Verizon has benefited from a flight to safety and from strong initial
   reception to new corporate direction. But progress “still needs to be proven over
   multiple quarters.”
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-02T20:46:00Z'

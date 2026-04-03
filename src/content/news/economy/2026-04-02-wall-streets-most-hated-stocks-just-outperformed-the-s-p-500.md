@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pariah Capital, an imaginary fund created by MarketWatch, has also outperformed
   the Nasdaq and most active fund managers during the Iran war
-displayOrder: 35
+displayOrder: 48
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-02T15:47:00Z'

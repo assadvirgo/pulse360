@@ -5,7 +5,7 @@ countryCode: IL
 description: Tzruya “Suki” Lahav, an Israeli songwriter and poet who is best remembered
   by American music fans as a violinist who recorded and toured with Bruce Springsteen
   and the E Street…
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-02T23:36:04Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Trump administration is preparing to impose new tariffs on drugmakers
   that have not struck deals with the president to lower their U.S. drug prices.
-displayOrder: 30
+displayOrder: 39
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-02T19:45:59Z'

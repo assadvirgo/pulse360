@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Lamine Yamal condemns xenophobic fans at Egypt friendly at a time when
   Spain is trying to secure 2030 World Cup final.
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-02T19:50:38Z'
