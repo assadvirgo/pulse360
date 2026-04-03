@@ -5,7 +5,7 @@ countryCode: US
 description: Sean Gamble, chief executive of the nation’s third largest theater chain,
   saw his total compensation rise about 10% in 2025 from the year before to $10.8
   million. The pay package…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-02T16:01:03Z'

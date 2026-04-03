@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Walmart-owned warehouse club raised its fees as some analysts say
   higher gas prices could drive more shoppers toward membership retailers.
-displayOrder: 39
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-02T17:59:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The restaurant industry has been struggling with declining traffic and
   sluggish sales growth.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-02T13:12:14Z'

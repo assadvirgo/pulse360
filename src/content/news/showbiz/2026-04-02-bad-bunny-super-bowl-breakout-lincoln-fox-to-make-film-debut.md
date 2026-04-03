@@ -5,7 +5,7 @@ countryCode: US
 description: The young actor, who was presented a Grammy during the halftime show,
   will star as an immigrant child in 'Home' opposite Mike Vogel, Alexa PenaVega and
   Dennis Haysbert.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-02T18:03:29Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: As one of the most popular duos in country music (or country-pop crossover),
   Dan + Shay are known as serious romantics, to the point where they acknowledge and
   joke about how many…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-02T18:45:28Z'

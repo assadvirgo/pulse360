@@ -5,7 +5,7 @@ countryCode: US
 description: Just before the start of fighting in the Middle East, mortgage rates
   had dropped to their lowest level since 2022, with the 30-year rate at 5.98% on
   Feb. 26, Freddie Mac data show.
-displayOrder: 44
+displayOrder: 49
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-02T16:09:00Z'

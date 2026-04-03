@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: A US-Israeli strike targeted the B1 bridge in Karaj, west of Tehran,
   killing at least two people.
-displayOrder: 35
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-02T16:54:52Z'

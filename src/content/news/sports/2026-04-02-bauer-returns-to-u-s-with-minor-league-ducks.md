@@ -5,7 +5,7 @@ countryCode: US
 description: Former Cy Young winner Trevor Bauer has signed with the Long Island Ducks
   of the Atlantic League and is scheduled to pitch opening night April 21 for the
   minor league team.
-displayOrder: 17
+displayOrder: 28
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-02T20:19:26Z'

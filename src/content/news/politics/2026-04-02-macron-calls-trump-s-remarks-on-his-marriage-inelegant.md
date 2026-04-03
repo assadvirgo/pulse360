@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French President Emmanuel Macron has said Donald Trump's comments about
   his marriage were "neither elegant nor up to standard".
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-02T12:33:03Z'

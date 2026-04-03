@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK PM Keir Starmer urges non-military solutions ahead of coalition meeting
   to ease gridlock in vital Strait of Hormuz.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-02T13:27:36Z'

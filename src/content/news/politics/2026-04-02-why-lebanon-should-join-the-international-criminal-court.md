@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: ICC jurisdiction in Lebanon would mean a chance of accountability for
   Israeli war crimes and renewed political pressure.
-displayOrder: 18
+displayOrder: 29
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-02T14:15:11Z'

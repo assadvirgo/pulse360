@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The comments were an apparent jab at the US leader's sometimes contradictory
   stance on the US-Israeli war against Iran.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-02T13:41:27Z'

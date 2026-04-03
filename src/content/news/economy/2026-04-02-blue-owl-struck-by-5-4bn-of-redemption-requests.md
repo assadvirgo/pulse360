@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Private credit firm caps withdrawals after investors attempted to pull
   more than 40% from one fund
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-02T16:33:53Z'

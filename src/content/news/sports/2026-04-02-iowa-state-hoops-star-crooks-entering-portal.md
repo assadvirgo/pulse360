@@ -5,7 +5,7 @@ countryCode: US
 description: Iowa State women's basketball star Audi Crooks will be entering the transfer
   portal for her final year of collegiate eligibility, she announced on social media
   Thursday.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-02T16:59:41Z'

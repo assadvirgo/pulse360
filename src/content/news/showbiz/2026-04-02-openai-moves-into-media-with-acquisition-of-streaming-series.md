@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI is increasingly moving into the world of entertainment. The company
   has acquired streaming business series TBPN, which has been described as ‘What…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-02T18:55:30Z'

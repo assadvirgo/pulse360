@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bondi's time as America's top law enforcement officer was overshadowed
   by the justice department's handling of the Jeffrey Epstein investigation.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-02T19:26:56Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Days after missing out on World Cup 2026 spot, Italy are warned that
   their cohosting of Euro 2032 could be in doubt.
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-02T13:56:38Z'

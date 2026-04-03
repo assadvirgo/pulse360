@@ -5,7 +5,7 @@ countryCode: US
 description: The actors, who play engaged couple Rachel and Nicky in the buzzy horror
   series, talk to The Hollywood Reporter about their different endings — one is hopeful,
   the other is "a…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-02T19:57:51Z'
