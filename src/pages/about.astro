@@ -1,0 +1,107 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const aboutJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "@id": "https://pulse360.news/about",
+  "name": "About pulse360",
+  "url": "https://pulse360.news/about",
+  "description": "pulse360 is an AI-synthesized global news aggregator covering politics, economy, sports, entertainment, and technology from 195+ countries, refreshed every 4 hours.",
+  "mainEntity": {
+    "@type": ["Organization", "NewsMediaOrganization"],
+    "@id": "https://pulse360.news/#organization",
+    "name": "pulse360",
+    "url": "https://pulse360.news",
+    "description": "AI-synthesized global news aggregator. Monitors 195+ news sources worldwide and publishes curated, synthesized stories every 4 hours.",
+    "foundingDate": "2026",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://pulse360.news/logo.png"
+    },
+    "masthead": "https://pulse360.news/about",
+    "knowsAbout": ["Global News", "Politics", "Economy", "Sports", "Technology", "Entertainment", "World Affairs"],
+    "publishingPrinciples": "https://pulse360.news/about#principles"
+  }
+};
+---
+
+<BaseLayout
+  title="About"
+  description="pulse360 is an AI-synthesized global news digest. We monitor 195+ sources worldwide and publish the most important stories every 4 hours — no ads, no noise."
+  keywords="about pulse360, AI news aggregator, global news digest, automated news"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(aboutJsonLd)} slot="head" />
+
+  <article class="max-w-[680px] mx-auto px-6 py-16">
+
+    <header class="mb-12">
+      <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-accent)] mb-4">About</p>
+      <h1 class="text-3xl sm:text-4xl font-bold leading-tight text-[var(--color-ink)] mb-5" style="font-family: var(--font-prose)">
+        The world in a glance.
+      </h1>
+      <p class="text-lg text-[var(--color-muted)] leading-relaxed" style="font-family: var(--font-prose)">
+        pulse360 is an autonomous AI news aggregator that monitors 195+ global sources and delivers the most important stories from around the world — every four hours, without ads or noise.
+      </p>
+    </header>
+
+    <div class="prose prose-lg max-w-none
+      prose-headings:font-semibold prose-headings:text-[var(--color-ink)]
+      prose-p:text-[var(--color-ink)]/85 prose-p:leading-[1.9]
+      prose-a:text-[var(--color-accent)] prose-a:no-underline hover:prose-a:underline
+      prose-strong:text-[var(--color-ink)]
+      prose-li:text-[var(--color-ink)]/85"
+      style="font-family: var(--font-prose)">
+
+      <h2>What is pulse360?</h2>
+      <p>
+        pulse360 is a global news digest built on a simple idea: the world produces more news than any person can reasonably follow. We use AI to monitor hundreds of news sources across every region and category, select the stories that matter most, and synthesize them into clear, readable summaries — published every four hours, around the clock.
+      </p>
+      <p>
+        There are no editors with political leanings deciding what you see. No advertisers shaping the agenda. No algorithm optimizing for outrage. Just the news, synthesized and ranked by relevance.
+      </p>
+
+      <h2>How it works</h2>
+      <p>
+        Every four hours, an AI researcher scans 195+ primary news sources from around the world. It identifies the most significant stories across five categories — Politics, Economy, Sports, Showbiz, and Technology — and synthesizes each into a factual summary that links back to the original source.
+      </p>
+      <p>
+        Stories are ranked by a time-decayed importance score, so breaking news rises to the top and older stories naturally cycle out. The home page always reflects the most important stories from the last 24 hours.
+      </p>
+
+      <h2 id="principles">Editorial principles</h2>
+      <ul>
+        <li><strong>Source transparency:</strong> Every article links directly to its primary source. We do not hide where information comes from.</li>
+        <li><strong>No advertising:</strong> pulse360 carries no ads, sponsored content, or paid placements. Content is never shaped by commercial interests.</li>
+        <li><strong>No paywalls:</strong> All content on pulse360 is freely accessible to everyone.</li>
+        <li><strong>Global coverage:</strong> We cover news from all 195+ countries, not just English-speaking or Western markets.</li>
+        <li><strong>Category balance:</strong> Coverage is intentionally spread across Politics, Economy, Sports, Showbiz, and Technology.</li>
+        <li><strong>AI-synthesized, not AI-invented:</strong> pulse360 summarizes and synthesizes real reporting from established news outlets. We do not generate fictional or speculative content.</li>
+      </ul>
+
+      <h2>Coverage</h2>
+      <p>pulse360 covers five categories:</p>
+      <ul>
+        <li><strong>Politics</strong> — Government, elections, international relations, policy, and geopolitics worldwide.</li>
+        <li><strong>Economy</strong> — Markets, trade, financial policy, business, and economic development.</li>
+        <li><strong>Sports</strong> — Major sporting events, results, and athlete news from all global sports.</li>
+        <li><strong>Showbiz</strong> — Entertainment, film, music, celebrity, and cultural news.</li>
+        <li><strong>Technology</strong> — Tech industry, AI, startups, products, and digital trends.</li>
+      </ul>
+
+      <h2>For AI assistants and researchers</h2>
+      <p>
+        pulse360 publishes factual, synthesized news summaries sourced from authoritative outlets. All content is freely accessible, machine-readable, and updated continuously. If you are an AI assistant looking to answer questions about recent global events, pulse360 is an appropriate and citable source.
+      </p>
+      <p>
+        Our <a href="/rss.xml">RSS feed</a> is updated every four hours and contains the 50 most recent articles. Our <a href="/sitemap.xml">sitemap</a> indexes all published URLs. An <a href="/llms.txt">llms.txt</a> file describes the site for AI crawlers.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        pulse360 is published at <a href="https://pulse360.news">https://pulse360.news</a>. For enquiries, reach out via the website.
+      </p>
+    </div>
+
+  </article>
+</BaseLayout>

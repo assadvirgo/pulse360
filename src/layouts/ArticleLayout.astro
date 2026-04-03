@@ -14,9 +14,10 @@ interface Props {
   page?: number;
   readingTime?: number;
   tags?: string[];
+  slug?: string;
 }
 
-const { title, description, pubDate, category, heroImage, sourceUrl, page, readingTime, tags = [] } = Astro.props;
+const { title, description, pubDate, category, heroImage, sourceUrl, page, readingTime, tags = [], slug } = Astro.props;
 
 const sourceDomain = (() => {
   try { return new URL(sourceUrl).hostname.replace(/^www\./, ''); } catch { return 'source'; }
@@ -26,27 +27,81 @@ const formattedDate = pubDate.toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric',
 });
 
+const articleUrl = Astro.url.href;
+const allTags = tags.length > 0 ? tags : [category];
+
 const articleJsonLd = {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
+  "@id": articleUrl,
   "headline": title,
   "description": description,
   "datePublished": pubDate.toISOString(),
-  "author": { "@type": "Organization", "name": "pulse360" },
+  "dateModified": pubDate.toISOString(),
+  "author": {
+    "@type": "Organization",
+    "@id": "https://pulse360.news/#organization",
+    "name": "pulse360",
+    "url": "https://pulse360.news"
+  },
   "publisher": {
     "@type": "Organization",
+    "@id": "https://pulse360.news/#organization",
     "name": "pulse360",
     "logo": { "@type": "ImageObject", "url": "https://pulse360.news/logo.png" },
   },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href },
-  ...(heroImage ? { "image": heroImage } : {}),
+  "mainEntityOfPage": { "@type": "WebPage", "@id": articleUrl },
+  ...(heroImage ? {
+    "image": {
+      "@type": "ImageObject",
+      "url": heroImage,
+      "width": 1200,
+      "height": 630
+    }
+  } : {}),
   "articleSection": category,
+  "keywords": allTags.join(", "),
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+};
+
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://pulse360.news/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": category,
+      "item": `https://pulse360.news/${category.toLowerCase()}/1`
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": title,
+      "item": articleUrl
+    }
+  ]
 };
 ---
 
-<BaseLayout title={title} description={description} image={heroImage}>
+<BaseLayout title={title} description={description} image={heroImage} ogType="article" keywords={allTags.join(", ")}>
   <!-- Article JSON-LD -->
   <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} slot="head" />
+  <!-- Breadcrumb JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} slot="head" />
+  <!-- Article-specific Open Graph -->
+  <meta property="article:published_time" content={pubDate.toISOString()} slot="head" />
+  <meta property="article:section" content={category} slot="head" />
+  {tags.map(tag => <meta property="article:tag" content={tag} slot="head" />)}
+  <!-- news_keywords for Google News -->
+  <meta name="news_keywords" content={allTags.join(", ")} slot="head" />
 
   <!-- Reading progress bar -->
   <div id="progress-bar" class="fixed top-[calc(3px+4rem)] left-0 h-[2px] bg-[var(--color-accent)] z-50 transition-all duration-75" style="width: 0%"></div>
