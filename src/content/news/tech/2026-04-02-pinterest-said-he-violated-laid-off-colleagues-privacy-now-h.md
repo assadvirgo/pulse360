@@ -5,7 +5,7 @@ countryCode: US
 description: It was late January, and Pinterest engineer Teddy Martin was on edge
   about recent layoffs at the company. Martin had just survived a round of cuts, but
   he and other employees were…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-02T19:27:52Z'

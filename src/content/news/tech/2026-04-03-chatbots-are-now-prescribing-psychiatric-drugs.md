@@ -5,7 +5,7 @@ countryCode: US
 description: Utah is allowing an AI system to prescribe psychiatric drugs without
   a doctor. It's only the second time the state - and the country - has delegated
   this kind of clinical…
-displayOrder: 4
+displayOrder: 6
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-03T11:43:21Z'

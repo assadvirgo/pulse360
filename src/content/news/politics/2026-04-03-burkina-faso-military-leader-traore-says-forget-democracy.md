@@ -4,7 +4,7 @@ country: Burkina Faso
 countryCode: BF
 description: Traore reneged on promises to hold elections and has since scrapped political
   parties in the country.
-displayOrder: 3
+displayOrder: 5
 heroImage: ''
 importance: 66.5
 pubDate: '2026-04-03T11:21:00Z'

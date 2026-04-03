@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: In a surprise move, the 26-year-old, a founding member of the K-pop mega-group
   NCT, will exit the boy group and its subunits next week.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-03T07:35:54Z'

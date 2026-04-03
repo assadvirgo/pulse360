@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Karim Al-Haj Hussein survived an Israeli strike on his home in Lebanon’s
   Baalbek that killed his family members.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-02T21:22:53Z'

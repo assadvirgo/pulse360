@@ -5,7 +5,7 @@ countryCode: US
 description: Arizona head coach Tommy Lloyd said he's not a "multitasker" amid rumors
   tying him to the North Carolina opening as his team prepares to play Michigan in
   the Final Four on…
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-03T12:45:04Z'

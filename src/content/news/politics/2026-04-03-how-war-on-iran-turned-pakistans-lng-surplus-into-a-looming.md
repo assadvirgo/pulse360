@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Pakistan braces for gas shortage crisis as LNG supplies collapse amid
   escalating regional conflict.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-03T04:55:17Z'

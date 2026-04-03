@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: President Trump has warned Iran of strikes on bridges and electric power
   plants if its leaders do not agree to his terms to end the war.
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 69.2
 pubDate: '2026-04-03T10:35:55Z'

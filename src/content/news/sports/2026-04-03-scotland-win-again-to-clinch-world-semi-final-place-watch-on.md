@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Scotland reel off their 10th successive victory at the World Men's Curling
   Championship to clinch a place in the semi-finals in Utah.
-displayOrder: 16
+displayOrder: 37
 heroImage: ''
 importance: 53.2
 pubDate: '2026-04-03T07:45:56Z'

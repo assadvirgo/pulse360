@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pam Bondi was fired by Trump, with the president saying she would be
   &#039;transitioning&#039; to a new role in the private sector
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-03T08:19:49Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Head coach Danny Rohl wants Rangers to retain the mindset of "hunters"
   in the three-way battle for the Scottish Premiership title, even if his side go
   top this weekend.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-03T10:56:57Z'

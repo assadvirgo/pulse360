@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With candy prices up, here’s how people are saving money while putting
   their Easter baskets together.
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 32.5
 pubDate: '2026-04-03T12:01:00Z'

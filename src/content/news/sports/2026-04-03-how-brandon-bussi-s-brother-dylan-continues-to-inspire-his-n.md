@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 27-year-old goalie has had a record-breaking debut season for the
   Hurricanes, and his brother remains in his mindset.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-03T06:24:32Z'

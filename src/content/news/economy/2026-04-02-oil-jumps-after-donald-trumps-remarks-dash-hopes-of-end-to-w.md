@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: West Texas Intermediate settles at highest since mid-2022 on US president’s
   threat to hit Iran ‘extremely hard’
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-02T19:38:08Z'

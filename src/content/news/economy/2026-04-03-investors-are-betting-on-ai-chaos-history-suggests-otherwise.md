@@ -2,7 +2,7 @@
 category: Economy
 description: The experience of past tech revolutions suggests savvy incumbents might
   muddle through and even thrive
-displayOrder: 30
+displayOrder: 45
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-03T11:00:05Z'

@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Water plant hit in Kuwait as Iran warns to expand attacks if Trump follows
   through on threats to escalate strikes.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-03T05:00:00Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The event, which takes place in the Italian city of Udine, is set to
   honor Fan Bingbing and Koji Yakusho with lifetime achievement awards.
-displayOrder: 12
+displayOrder: 31
 heroImage: ''
 importance: 47.8
 pubDate: '2026-04-03T11:52:05Z'
