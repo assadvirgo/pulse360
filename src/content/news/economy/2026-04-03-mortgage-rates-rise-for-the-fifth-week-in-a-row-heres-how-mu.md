@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Just before the start of fighting in the Middle East, mortgage rates
   had dropped to their lowest level since 2022.
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-03T00:52:00Z'

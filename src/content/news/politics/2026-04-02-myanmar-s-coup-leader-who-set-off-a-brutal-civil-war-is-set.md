@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: General Min Aung is set to be chosen as the next president by the newly-elected
   parliament.
-displayOrder: 1
+displayOrder: 15
 heroImage: ''
 importance: 95.2
 pubDate: '2026-04-02T22:14:00Z'

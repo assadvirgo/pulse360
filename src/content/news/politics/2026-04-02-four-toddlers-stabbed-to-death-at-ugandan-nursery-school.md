@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: The suspect is in custody but his motive is unknown, the police say in
   a brief statement.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-02T21:23:44Z'

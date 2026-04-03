@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel&#039;s attacks on hospitals, medical centres and healthcare workers
   are fuelling displacement and a health crisis.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-03T07:34:43Z'

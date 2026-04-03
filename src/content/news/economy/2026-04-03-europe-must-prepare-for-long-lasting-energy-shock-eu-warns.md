@@ -2,7 +2,7 @@
 category: Economy
 description: Energy commissioner says bloc is assessing fuel rationing and releasing
   more oil from strategic reserves
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-03T04:00:32Z'

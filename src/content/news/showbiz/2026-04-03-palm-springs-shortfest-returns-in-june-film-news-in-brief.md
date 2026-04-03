@@ -5,7 +5,7 @@ countryCode: US
 description: The Palm Springs International ShortFest will return from June 23-29
   for the 32nd annual showcase of short-form cinema. Last year, the fest programmed
   the Oscar-winning live…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-04-03T00:30:00Z'

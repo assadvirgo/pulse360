@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Scarce cargoes have boosted European diesel futures to equivalent of
   $211 a barrel, almost double the price of crude oil
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-04-03T04:00:32Z'

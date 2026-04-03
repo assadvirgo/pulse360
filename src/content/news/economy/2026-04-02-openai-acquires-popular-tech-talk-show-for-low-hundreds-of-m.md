@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ChatGPT-maker moves into broadcasting with deal for TBPN after it had
   pledged to abandon ‘side-quests’
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-02T19:33:31Z'

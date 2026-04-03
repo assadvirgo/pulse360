@@ -2,7 +2,7 @@
 category: Tech
 description: Explore Chewy coupon codes for $30 off, $20 off your first order $49,
   50% off pet food, and more April 2026 discounts.
-displayOrder: 5
+displayOrder: 23
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-03T05:00:00Z'

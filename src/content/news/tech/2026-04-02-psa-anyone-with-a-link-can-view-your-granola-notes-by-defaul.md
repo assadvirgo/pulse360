@@ -3,7 +3,7 @@ category: Tech
 description: If you use the AI-powered note-taking app Granola, you might want to
   double-check your privacy settings. Though Granola says your notes are "private
   by default," it makes them…
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-02T21:56:16Z'

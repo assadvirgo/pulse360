@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Residents are left guessing which regime target might live alongside
   them as strikes rain down on Iran’s capital
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-03T04:00:22Z'

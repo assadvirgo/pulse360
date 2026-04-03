@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Makers of plastic and glass bottles are struggling to access raw materials
   as the war squeezes supplies.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-02T23:16:37Z'
