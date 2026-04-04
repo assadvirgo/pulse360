@@ -5,7 +5,7 @@ countryCode: PH
 description: Production has been paused on Season 4 of Drag Race Philippines following
   the sudden death of Misua, who passed away Thursday. A cause of death was not announced.
   She was 27. The…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-03T14:39:19Z'

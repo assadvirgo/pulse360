@@ -5,7 +5,7 @@ countryCode: US
 description: Where's the Trump phone? We're going to keep talking about it every week.
   We've reached out, as usual, to ask about the Trump phone's whereabouts. Crickets.
   Despite recent signs…
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-03T14:00:00Z'

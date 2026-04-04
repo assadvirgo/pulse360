@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona forward Lamine Yamal speaks out against Islamophobic chants
   during Spain&#039;s match with Egypt.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-03T12:38:01Z'

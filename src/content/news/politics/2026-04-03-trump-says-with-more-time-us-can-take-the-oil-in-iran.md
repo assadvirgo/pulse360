@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite weeks long Iranian blockade on Strait of Hormuz, US president
   claims Washington can &#039;easily&#039; reopen waterway.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-03T15:18:34Z'

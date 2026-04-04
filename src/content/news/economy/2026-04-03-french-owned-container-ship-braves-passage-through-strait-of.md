@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: CMA CGM Kribi is first ship owned by major western line known to have
   transited since start of war
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-03T10:05:17Z'

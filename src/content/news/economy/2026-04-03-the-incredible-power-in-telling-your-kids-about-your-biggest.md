@@ -3,7 +3,7 @@ category: Economy
 description: Parents who feel they have not invested or managed their money well in
   the past can be “honest about lessons learned — discussing what they would do differently
   and modeling a…
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-03T15:07:00Z'

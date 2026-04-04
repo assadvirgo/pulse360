@@ -5,7 +5,7 @@ countryCode: US
 description: Kendra Wilkinson made a move into real estate in 2020 and is now staking
   her claim to Malibu’s luxury market, where a chance encounter several years ago
   has now landed her with a…
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-03T08:57:00Z'

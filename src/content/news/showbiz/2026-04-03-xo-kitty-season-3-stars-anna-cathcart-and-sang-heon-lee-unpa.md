@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This post contains spoilers for Season 3 of Netflix’s
   ‘XO, Kitty.’ It looks like Min Ho Moon (Sang Heon Lee) has a big moment coming for
   him hinted by XO, Kitty…'
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-03T17:20:00Z'

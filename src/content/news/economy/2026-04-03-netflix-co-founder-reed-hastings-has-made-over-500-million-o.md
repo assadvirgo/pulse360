@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Netflix co-founder Reed Hastings has made more than half a billion dollars
   since the end of 2024 converting options into common stock, then selling it.
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-03T17:38:00Z'

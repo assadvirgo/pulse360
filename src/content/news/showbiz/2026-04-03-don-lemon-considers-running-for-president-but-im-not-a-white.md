@@ -5,7 +5,7 @@ countryCode: US
 description: Former CNN anchor Don Lemon may have focused on being an independent
   journalist after being fired from CNN in 2023, but he might have even more ambitious
   plans in mind for the…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-03T15:17:42Z'

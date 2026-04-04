@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: US President Trump has made clear his desire to change Cuba's leadership
   and has placed the country under an oil embargo.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-03T14:18:04Z'

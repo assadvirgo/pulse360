@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Threat comes as Israeli invasion of southern Lebanon expands, spurring
   more fear, displacement and deadly attacks.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-03T14:43:39Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Employers added 178,000 jobs, far more than had expected, the Labor Department
   says.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-03T13:35:11Z'

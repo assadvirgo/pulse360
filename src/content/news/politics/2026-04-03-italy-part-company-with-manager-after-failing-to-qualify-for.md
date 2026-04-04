@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Manager Gennaro Gattuso and Italy agree to "mutually terminate" his contract
   after their failure to qualify for a third successive World Cup.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-04-03T13:04:44Z'

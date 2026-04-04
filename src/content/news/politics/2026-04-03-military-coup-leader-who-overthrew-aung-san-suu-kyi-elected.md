@@ -5,7 +5,7 @@ countryCode: MM
 description: The head of Myanmar's ruling military junta, who overthrew the previous
   government five years ago, has been elected president after winning a parliamentary
   vote.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 80.0
 pubDate: '2026-04-03T06:43:00Z'
