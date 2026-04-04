@@ -5,7 +5,7 @@ countryCode: US
 description: '"Dee had a quiet power that commanded respect without ever needing to
   demand it. Her legacy is not just in her work, but in how she made people feel —
   and that will stay with us…'
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-04T01:43:41Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinian Christians in Gaza marked Good Friday at the Holy Family
   Church during a fragile ceasefire.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-04T00:30:08Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Ashab al-Yamin, which uses Iran-linked Telegram channels, has taken responsibility
   for assaults on ambulances, a synagogue and banks
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-04T04:00:42Z'

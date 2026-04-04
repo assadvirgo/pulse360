@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Scotland's Robert MacIntyre maintains his strong form with a round of
   64 for a four-shot halfway lead at the Texas Open in San Antonio.
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-04T07:57:54Z'

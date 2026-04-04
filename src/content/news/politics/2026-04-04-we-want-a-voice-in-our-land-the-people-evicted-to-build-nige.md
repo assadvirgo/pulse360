@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: People evicted to build Nigeria's capital accuse the government of failing
   to fulfill its promises to them.
-displayOrder: 24
+displayOrder: 44
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-04T00:17:20Z'

@@ -3,7 +3,7 @@ category: Politics
 country: France
 countryCode: FR
 description: French-owned ship transits through Iran-controlled Strait of Hormuz route
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 44.0
 pubDate: '2026-04-04T08:44:00Z'

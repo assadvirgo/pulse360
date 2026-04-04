@@ -5,7 +5,7 @@ countryCode: US
 description: Glen Anderson, president of Rainmaker Securities, says the secondary
   market for private shares has never been more active — with Anthropic the hottest
   trade around, OpenAI losing…
-displayOrder: 13
+displayOrder: 36
 heroImage: ''
 importance: 68.0
 pubDate: '2026-04-04T01:31:00Z'
