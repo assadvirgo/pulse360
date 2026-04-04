@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As tens of thousands of satellites are launched into orbit over the next
   several years, operators will need to buy a lot of semiconductors.
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-03T18:33:00Z'

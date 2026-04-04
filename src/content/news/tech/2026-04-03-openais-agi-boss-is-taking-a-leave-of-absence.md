@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI is undergoing another round of C-suite changes, according to an
   internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment -
   who was until recently the…
-displayOrder: 16
+displayOrder: 22
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-03T20:22:59Z'

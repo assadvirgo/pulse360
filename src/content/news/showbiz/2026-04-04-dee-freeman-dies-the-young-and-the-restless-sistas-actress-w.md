@@ -5,7 +5,7 @@ countryCode: US
 description: Dolores &#8216;Dee&#8217; Freeman, the actress who appeared in The Young
   and the Restless and Tyler Perry&#8217;s Sistas, has died. She was 66. The actress&#8217;
   family announced…
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-04T03:13:55Z'

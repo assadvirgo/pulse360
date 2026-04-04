@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump is seeking a historic increase in defense spending,
   in what may turn out to be a relief for the industry amid the conflict in Iran.
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-03T16:29:00Z'

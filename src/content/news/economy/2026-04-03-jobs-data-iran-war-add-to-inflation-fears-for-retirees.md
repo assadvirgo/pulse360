@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The U.S. Treasury bond market is getting increasingly worried about inflation.
-displayOrder: 30
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-03T18:54:00Z'

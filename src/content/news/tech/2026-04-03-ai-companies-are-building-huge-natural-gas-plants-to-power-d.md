@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta, Microsoft, and Google are all betting big on new natural gas power
   plants to run their AI data centers. They may regret it.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-03T19:48:22Z'

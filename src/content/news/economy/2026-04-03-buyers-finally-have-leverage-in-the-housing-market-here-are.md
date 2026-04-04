@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Though house hunters face challenges from rising mortgage rates and climbing
   home prices, the power is now in their hands.
-displayOrder: 31
+displayOrder: 40
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-03T19:34:00Z'

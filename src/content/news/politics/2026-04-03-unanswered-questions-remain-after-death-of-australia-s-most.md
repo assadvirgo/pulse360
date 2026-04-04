@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Double-murderer Dezi Freeman evaded capture for seven months in the bush
   but police believe he had help.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-03T19:19:02Z'

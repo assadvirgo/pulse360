@@ -5,7 +5,7 @@ countryCode: US
 description: The NBA is investigating the Bucks' handling of Giannis Antetokounmpo,
   sources told ESPN's Shams Charania, after the star forward told reporters Friday
   that he is being held out…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-04T05:09:48Z'

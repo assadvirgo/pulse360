@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: At least eight people are dead, and a child injured, after a 5.9 magnitude
   earthquake hit parts of Afghanistan and Pakistan late on Friday.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-04-03T18:56:00Z'

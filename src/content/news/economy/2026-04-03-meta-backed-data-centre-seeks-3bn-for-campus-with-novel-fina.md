@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ‘Project Walleye’ lenders would be first to fund both construction and
   power
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-03T21:14:25Z'

@@ -4,7 +4,7 @@ country: Oman
 countryCode: OM
 description: CMA CGM&#039;s vessel becomes the first French-owned ship to traverse
   Hormuz since the US–Israel war on Iran began.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-03T16:24:00Z'

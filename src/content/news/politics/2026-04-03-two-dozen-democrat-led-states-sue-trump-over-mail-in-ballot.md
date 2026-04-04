@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rights groups have raised concerns about Trump&#039;s efforts to change
   election administration before midterms.
-displayOrder: 25
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-03T19:28:35Z'

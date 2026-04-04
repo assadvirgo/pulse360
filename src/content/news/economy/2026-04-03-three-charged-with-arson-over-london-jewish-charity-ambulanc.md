@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Incident in Golders Green is one of a series of similar events around
   Europe since the start of the US-led war in Iran
-displayOrder: 18
+displayOrder: 25
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-03T22:55:29Z'

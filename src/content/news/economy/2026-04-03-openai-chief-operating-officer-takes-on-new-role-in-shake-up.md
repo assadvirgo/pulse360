@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brad Lightcap assigned fresh responsibilities focusing on special projects
   as group prepares for an initial public offering
-displayOrder: 43
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-03T22:13:27Z'

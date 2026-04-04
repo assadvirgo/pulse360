@@ -5,7 +5,7 @@ countryCode: US
 description: The coming-of-age drama hailed from 'Outer Banks' creators Jonas and
   Josh Pate, who formed a real-life rock band to star at the center of the musical
   coming-of-age drama.
-displayOrder: 8
+displayOrder: 10
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-03T23:11:40Z'

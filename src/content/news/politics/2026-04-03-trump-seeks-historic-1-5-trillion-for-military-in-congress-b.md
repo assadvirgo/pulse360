@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The request for defence spending is the largest in decades and accompanies
   cuts to domestic programmes.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-03T15:48:57Z'
