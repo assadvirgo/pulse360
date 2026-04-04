@@ -5,7 +5,7 @@ countryCode: US
 description: An executive order signed by President Donald Trump on Friday aims to
   limit NCAA athletes to a five-year playing window and how often they can transfer
   between schools.
-displayOrder: 7
+displayOrder: 9
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-04T00:53:23Z'

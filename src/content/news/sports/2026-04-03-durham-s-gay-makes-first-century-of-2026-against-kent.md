@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Emilio Gay makes the first century of the County Championship season
   as Durham edge ahead of Kent on day one.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-03T18:21:39Z'

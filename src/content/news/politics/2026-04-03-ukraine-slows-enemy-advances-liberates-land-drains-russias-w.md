@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine achieves significant victories on the battlefield thanks to burgeoning
   drone production.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-03T15:44:16Z'

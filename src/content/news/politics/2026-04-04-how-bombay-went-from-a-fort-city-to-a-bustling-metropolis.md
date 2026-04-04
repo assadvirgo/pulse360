@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: A new exhibition charts Bombay's passage through the centuries via paintings,
   photographs and prints.
-displayOrder: 12
+displayOrder: 13
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-04T00:09:54Z'
