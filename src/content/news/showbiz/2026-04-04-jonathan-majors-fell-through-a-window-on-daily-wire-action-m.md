@@ -5,7 +5,7 @@ countryCode: US
 description: Jonathan Majors&#8217; new action movie, backed by Ben Shapiro&#8217;s
   The Daily Wire and Dallas Sonnier&#8217;s Bonfire Legend, is facing scrutiny following
   an on-set accident…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 45.8
 pubDate: '2026-04-04T15:47:27Z'

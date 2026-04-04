@@ -5,7 +5,7 @@ countryCode: IE
 description: Hugo Keenan is delighted to put his injury nightmare behind him as he
   prepares for Leinster's European Champions Cup meeting with Edinburgh in Dublin
   on Sunday.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-04T09:12:18Z'

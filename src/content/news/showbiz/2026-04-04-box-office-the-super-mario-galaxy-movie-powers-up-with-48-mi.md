@@ -5,7 +5,7 @@ countryCode: US
 description: Mamma mia! “The Super Mario Galaxy Movie” powered up at the Friday box
   office and is on its way to an explosive opening weekend. “The Super Mario Galaxy
   Movie” earned $48.3…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-04-04T15:54:14Z'

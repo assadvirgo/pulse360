@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Erling Haaland treble and goal by Antoine Semenyo give City 4-0 win,
   as Liverpool&#039;s Mohamed Salah misses a penalty.
-displayOrder: 21
+displayOrder: 30
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-04T13:57:15Z'

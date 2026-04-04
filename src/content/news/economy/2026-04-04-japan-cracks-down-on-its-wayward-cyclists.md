@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Enforcement regime will levy fines for infractions including using headphones
   and riding with one hand
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-04T04:00:42Z'

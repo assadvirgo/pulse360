@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Canada recently banned 2,500 models of "assault-style" firearms - but
   a plan to buy-back tens of thousands of guns fell short by half.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-04T00:32:45Z'

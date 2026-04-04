@@ -5,7 +5,7 @@ countryCode: US
 description: As The Boys presents a terrifying dystopia under Homelander (Antony Starr)
   in the fifth and final season, Eric Kripke recently noted that any narrative similarities
   to our current…
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-04T15:55:21Z'

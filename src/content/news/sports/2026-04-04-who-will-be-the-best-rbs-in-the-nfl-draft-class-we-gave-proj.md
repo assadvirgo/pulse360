@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: We have stat projections for the top running back prospects in the 2026
   NFL draft class, from Jeremiyah Love to late-round sleepers.
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-04T12:22:01Z'

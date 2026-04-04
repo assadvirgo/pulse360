@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Hundreds of petrol stations across Australia have run out of fuel as
   the Iran war disrupts global oil shipments and pushes up prices.
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-04T12:10:10Z'
