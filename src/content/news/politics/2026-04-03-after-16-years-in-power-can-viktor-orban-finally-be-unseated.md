@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungary is going to the polls in nine days - after 16 years in power,
   can Viktor Orban be unseated?
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-03T23:04:24Z'

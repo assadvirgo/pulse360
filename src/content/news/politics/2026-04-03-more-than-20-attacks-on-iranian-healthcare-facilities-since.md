@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: WHO chief Tedros Adhanom Ghebreyesus says &#039;multiple attacks&#039;
   on Iranian healthcare facilities have been reported.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-03T19:16:56Z'

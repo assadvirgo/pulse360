@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company is undergoing major leadership restructuring as its CEO of
   AGI deployment goes on leave for “several weeks.”
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-03T19:38:35Z'

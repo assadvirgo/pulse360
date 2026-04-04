@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With the midterms right around the corner, the new group is positioned
   to back candidates who support the AI company's policy agenda.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 68.0
 pubDate: '2026-04-03T20:22:18Z'

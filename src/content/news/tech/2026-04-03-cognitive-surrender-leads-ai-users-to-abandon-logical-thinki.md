@@ -2,7 +2,7 @@
 category: Tech
 description: Experiments show large majorities uncritically accepting "faulty" AI
   answers.
-displayOrder: 31
+displayOrder: 40
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-03T21:06:15Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: One of the two crew members on the American F-15E aircraft has been rescued
-displayOrder: 38
+displayOrder: 42
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-04T00:07:27Z'

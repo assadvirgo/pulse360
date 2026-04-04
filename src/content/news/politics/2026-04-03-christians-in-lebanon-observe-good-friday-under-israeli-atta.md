@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Christians across Lebanon observed Good Friday, praying for peace as
   Israeli strikes and evacuation orders continue.
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-03T21:05:17Z'

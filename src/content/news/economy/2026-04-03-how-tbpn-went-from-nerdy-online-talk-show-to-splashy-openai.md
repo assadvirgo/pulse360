@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The less “antagonistic” tone of TBPN resonated with a Silicon Valley
   audience. Now the show is going mainstream.
-displayOrder: 43
+displayOrder: 44
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-03T22:02:00Z'
