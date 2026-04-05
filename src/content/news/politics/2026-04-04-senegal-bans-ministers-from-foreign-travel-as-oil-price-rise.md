@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: The fuel cost is nearly double what the government budgeted for putting
   pressure on stretched finances.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-04-04T10:15:01Z'

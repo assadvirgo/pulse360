@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Hundreds of Alianza Lima fans had gathered for a pregame rally ahead
   of a match against local rivals Universitario de Deportes.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-04T06:34:56Z'

@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: The household&#039;s only survivor was a young boy who was injured in
   the tremor.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 76.5
 pubDate: '2026-04-04T07:23:53Z'

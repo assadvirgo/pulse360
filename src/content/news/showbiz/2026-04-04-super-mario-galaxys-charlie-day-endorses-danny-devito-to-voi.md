@@ -5,7 +5,7 @@ countryCode: US
 description: As The Super Mario Galaxy Movie expands on the Nintendo onscreen universe,
   Charlie Day wants to bring in a fellow It&#8217;s Always Sunny in Philadelphia star.
   The actor, who…
-displayOrder: 4
+displayOrder: 7
 heroImage: ''
 importance: 67.0
 pubDate: '2026-04-04T17:23:50Z'

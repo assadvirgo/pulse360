@@ -3,7 +3,7 @@ category: Tech
 description: The Soundcore Nebula P1 from Anker isn't the most portable Google TV
   projector I've ever reviewed, nor is it the brightest. It doesn't even have a built-in
   battery. Instead it's a…
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-04T07:00:00Z'

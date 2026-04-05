@@ -3,7 +3,7 @@ category: Tech
 description: '"This looks like AI." It''s a phrase I dread seeing as a writer who
   dabbles in illustration and amateur photography. In a world where generative AI
   technology is increasingly adept…'
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-04T13:00:00Z'

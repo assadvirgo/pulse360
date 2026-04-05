@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A Russian drone hit a busy spot in the southern Ukrainian town on Saturday
   morning, injuring another 21 people.
-displayOrder: 25
+displayOrder: 32
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-04T14:00:31Z'

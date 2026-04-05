@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Video shows vehicles on fire in central Israel after debris from an intercepted
   Iranian projectile struck Ramat Gan.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-04T14:40:04Z'

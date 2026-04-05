@@ -5,7 +5,7 @@ countryCode: US
 description: Dee Freeman, a veteran performer known for her roles on “Sistas” and
   “The Young and the Restless,” has died. She was 66. Freeman died April 2 following
   a battle with cancer, her…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-04T16:56:33Z'
