@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Why did Founders Fund invest $220 million in cattle management startup
   Halter?
-displayOrder: 25
+displayOrder: 28
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-04T21:30:00Z'

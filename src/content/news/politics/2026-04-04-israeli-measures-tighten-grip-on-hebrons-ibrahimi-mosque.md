@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hebron’s Ibrahimi Mosque sees intensified control, with Israeli measures
   resembling policies applied at Al-Aqsa Mosque.
-displayOrder: 28
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-04T22:37:35Z'

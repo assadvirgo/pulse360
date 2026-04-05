@@ -2,7 +2,7 @@
 category: Politics
 description: Trump and Netanyahu are harbouring the same illusions Saddam Hussein
   had in 1980 when he invaded Iran.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-04-04T16:32:20Z'

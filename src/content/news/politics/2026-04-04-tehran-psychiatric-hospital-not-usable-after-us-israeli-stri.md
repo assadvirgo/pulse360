@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: A psychiatric hospital in Tehran is no longer functioning after a US-Israeli
   strike, the hospital chief says.
-displayOrder: 20
+displayOrder: 25
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-04T19:48:15Z'

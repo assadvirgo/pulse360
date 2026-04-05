@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A state bill is a glimpse of how corporations are limiting people's ability
   to make their own fixes and upgrades.
-displayOrder: 29
+displayOrder: 35
 heroImage: ''
 importance: 48.0
 pubDate: '2026-04-04T20:36:49Z'

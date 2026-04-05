@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Illinois added another hard-luck loss in the Final Four, as an uncharacteristic
   performance from its offense sunk its hopes vs. UConn on Saturday.
-displayOrder: 3
+displayOrder: 4
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-05T04:51:29Z'

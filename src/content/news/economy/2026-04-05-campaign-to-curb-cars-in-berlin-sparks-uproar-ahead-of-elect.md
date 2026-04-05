@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Conservatives and far right are opposing a citizens’ initiative to restrict
   traffic in the German capital
-displayOrder: 13
+displayOrder: 15
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-05T04:00:12Z'
