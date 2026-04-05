@@ -5,7 +5,7 @@ countryCode: US
 description: The April 4 episode of &#8220;Saturday Night Live&#8221; marked Jack
   Black&#8217;s fifth hosting stint, granting him entry into the exclusive &#8220;five-timers
   club.&#8221;…
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 67.8
 pubDate: '2026-04-05T03:53:58Z'

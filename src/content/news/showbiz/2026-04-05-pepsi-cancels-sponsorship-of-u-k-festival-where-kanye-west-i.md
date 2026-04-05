@@ -5,7 +5,7 @@ countryCode: GB
 description: The scheduled three-night headlining appearance by Ye, formerly Kanye
   West, at the Wireless Festival in London is only growing in controversy. The festival&#8217;s
   sponsor, Pepsi,…
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-05T11:06:37Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Michigan star Yaxel Lendeborg suffered a left MCL sprain and left ankle
   sprain in Saturday's win over Arizona, but team trainer Chris Williams told ESPN
   he is "very confident" the…
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-05T15:58:12Z'

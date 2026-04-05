@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: The committee investigating allegations of malpractice in the board elections
   in October last year has submitted its report to the Bangladesh government
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-05T08:10:47Z'

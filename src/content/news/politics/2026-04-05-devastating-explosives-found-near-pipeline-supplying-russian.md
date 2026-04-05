@@ -4,7 +4,7 @@ country: Serbia
 countryCode: RS
 description: Explosives of "devastating power" have been found near a pipeline supplying
   Russian gas to Hungary and Serbia, according to Serbia's president.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-05T13:38:00Z'

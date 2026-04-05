@@ -5,7 +5,7 @@ countryCode: US
 description: Steve Kroft may have won numerous Emmys, Peabody Awards and a Lifetime
   Achievement Award for his 30-year tenure as a 60 Minutes correspondent, but when
   asked by Bill…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.0
 pubDate: '2026-04-05T03:24:53Z'

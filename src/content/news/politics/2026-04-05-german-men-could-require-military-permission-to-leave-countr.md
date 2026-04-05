@@ -5,7 +5,7 @@ countryCode: DE
 description: German men aged between 17 and 45 could have to get military approval
   if they want to leave the country for more than three months, according to recent
   changes to the law.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-05T08:46:00Z'
