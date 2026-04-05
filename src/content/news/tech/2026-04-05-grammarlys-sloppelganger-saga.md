@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield.
   The Stepback arrives…
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-05T12:00:00Z'

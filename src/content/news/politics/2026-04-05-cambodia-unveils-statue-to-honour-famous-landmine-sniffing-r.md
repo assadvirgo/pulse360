@@ -4,7 +4,7 @@ country: Cambodia
 countryCode: KH
 description: The statue honours the late African giant pouched rat who sniffed out
   more than 100 landmines during his lifetime.
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-05T01:09:11Z'

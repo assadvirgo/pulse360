@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Keir Starmer’s government steps up efforts to get American AI start-up
   to grow its presence in Britain
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-05T04:00:12Z'

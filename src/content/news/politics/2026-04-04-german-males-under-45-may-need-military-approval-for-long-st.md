@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Under the law, travel approvals must generally be granted and it remains
   unclear how the rule would be enforced if breached.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-04T21:16:42Z'

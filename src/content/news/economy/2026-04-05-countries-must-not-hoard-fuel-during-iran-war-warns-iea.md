@@ -2,7 +2,7 @@
 category: Economy
 description: Fatih Birol makes veiled reference to China as he urges nations to avoid
   export bans despite worsening supply shock
-displayOrder: 24
+displayOrder: 45
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-05T03:00:20Z'

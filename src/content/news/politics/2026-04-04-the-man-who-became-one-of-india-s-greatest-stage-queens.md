@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Chapal Bhaduri was Bengal’s biggest stage queen - until women arrived
   and the spotlight moved on.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 57.2
 pubDate: '2026-04-04T22:20:51Z'

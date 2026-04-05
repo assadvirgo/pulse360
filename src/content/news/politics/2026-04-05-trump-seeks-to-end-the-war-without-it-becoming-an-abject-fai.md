@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Barbara Slavin of the Stimson Center says Trump misread the situation
   in Iran and now scrambles for a way out.
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-05T07:58:05Z'
