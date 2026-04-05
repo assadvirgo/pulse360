@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Dozens of people wounded as Israel intensifies attacks in Lebanon, including
   in and around Tyre.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-04T13:07:25Z'

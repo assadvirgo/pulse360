@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: At least 11 people are injured as Israel strikes near the Lebanese Italian
   Hospital in Tyre, damaging the facility.
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-04T13:07:25Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: United is overhauling its fare classes, offering cheaper business class
   and premium economy fares that are more restrictive.
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-04T14:56:33Z'

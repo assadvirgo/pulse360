@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Shifting government content controls and postpandemic Hollywood trends
   have made China less of a player in the global box office landscape.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-04T12:00:01Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Scotland win bronze at the World Men's Curling Championship thanks to
   an 11-6 victory over the United States in Utah.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-04T18:20:38Z'

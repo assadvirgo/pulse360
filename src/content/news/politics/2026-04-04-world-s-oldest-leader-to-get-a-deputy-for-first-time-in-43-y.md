@@ -4,7 +4,7 @@ country: Cameroon
 countryCode: CM
 description: Cameroon's President Paul Biya, 93, won his eighth successive term last
   year in a disputed election.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-04T18:30:58Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Glasgow Warriors battle past Bulls to reach the Champions Cup quarter-finals
   in a thrilling scrap in the rain and wind at Scotstoun.
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 70.2
 pubDate: '2026-04-04T18:50:49Z'

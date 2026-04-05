@@ -5,7 +5,7 @@ countryCode: GB
 description: Creators Seth Rogen and Evan Goldberg recently told The Times of London
   that “The Studio” Season 2 will be “acknowledging” the death of series star Catherine
   O’Hara, who died in…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-04T18:09:27Z'

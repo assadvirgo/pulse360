@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stress in private credit makes the relative stability of major U.S. banks
   look increasingly attractive.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-04T16:56:00Z'

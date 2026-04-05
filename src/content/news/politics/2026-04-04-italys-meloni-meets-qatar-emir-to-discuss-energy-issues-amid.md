@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Prime Minister Meloni is the first EU and NATO country leader to visit
   the region since the war began.
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 83.5
 pubDate: '2026-04-04T17:39:55Z'

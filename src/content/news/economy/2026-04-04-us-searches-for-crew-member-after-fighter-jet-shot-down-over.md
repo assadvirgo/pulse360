@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: One of the two personnel on the American F-15E aircraft has been rescued
   while a second warplane has been lost
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-04T11:06:51Z'

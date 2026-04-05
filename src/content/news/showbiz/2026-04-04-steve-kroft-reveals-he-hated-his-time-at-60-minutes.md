@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The longtime correspondent, who retired in 2019, said he "probably wouldn't
   do it again" but did find it "exhilarating" to do the stories he did.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-04T22:34:52Z'

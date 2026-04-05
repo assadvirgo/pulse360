@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Prior to her death, Virginia Giuffre accused Epstein of trafficking her
   to Charles&#039;s brother, the former Prince Andrew.
-displayOrder: 21
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-04T21:03:40Z'

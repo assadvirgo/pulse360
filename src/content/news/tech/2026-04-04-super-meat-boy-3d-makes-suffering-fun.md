@@ -3,7 +3,7 @@ category: Tech
 description: 'The original Super Meat Boy is one of the best-known indie games of
   all time. Released in 2010, it''s a brutally difficult 2D platformer, but so fun
   to play: The short levels…'
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-04-04T12:00:00Z'
