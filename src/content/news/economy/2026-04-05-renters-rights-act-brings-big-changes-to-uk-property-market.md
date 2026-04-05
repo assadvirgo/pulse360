@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: New rules aim to provide safety and security for tenants, but landlords
   are anxious
-displayOrder: 38
+displayOrder: 44
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-05T04:00:12Z'

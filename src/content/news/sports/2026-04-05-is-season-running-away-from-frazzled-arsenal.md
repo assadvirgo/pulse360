@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Arsenal must regroup after their hopes of a quadruple were wrecked in
   two weeks by successive defeats for the first time this season.
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-05T05:16:14Z'

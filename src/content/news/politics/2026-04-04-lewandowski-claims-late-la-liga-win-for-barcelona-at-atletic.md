@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona move seven points clear of Real Madrid at the top of Spanish
   football&#039;s La Liga after beating Atletico 2-1.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-04T21:28:12Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Michigan's 18-point margin of victory over Arizona is tied for the largest
   in an NCAA men's tournament game between 1-seeds since 1979.
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-05T04:51:29Z'

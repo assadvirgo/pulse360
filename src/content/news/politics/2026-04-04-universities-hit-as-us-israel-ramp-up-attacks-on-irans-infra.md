@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Authorities say at least 30 universities impacted by US and Israeli strikes
   since the start of the war.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-04T19:17:24Z'

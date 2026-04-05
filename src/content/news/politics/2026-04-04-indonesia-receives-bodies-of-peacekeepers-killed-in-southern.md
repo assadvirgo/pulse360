@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Foreign Minister Sugiono told reporters that Indonesia wants a thorough
   UN investigation into the deaths.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-04T20:21:51Z'

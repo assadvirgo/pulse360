@@ -2,7 +2,7 @@
 category: Economy
 description: What was once seen as a virtue is now viewed as a moral weakness — leaving
   a society mired in toxicity
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 32.5
 pubDate: '2026-04-05T04:00:17Z'

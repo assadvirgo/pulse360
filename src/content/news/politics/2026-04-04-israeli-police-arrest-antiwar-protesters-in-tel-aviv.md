@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli police clashed with protesters and made arrests in Tel Aviv as
   demonstrators rallied against the war on Iran.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-04T20:04:21Z'

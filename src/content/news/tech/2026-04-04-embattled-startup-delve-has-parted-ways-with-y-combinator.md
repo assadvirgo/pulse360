@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The controversy around Delve appears to have cost the compliance startup
   its relationship with accelerator Y Combinator.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-04T21:03:43Z'

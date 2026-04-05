@@ -3,7 +3,7 @@ category: Politics
 country: Pakistan
 countryCode: PK
 description: War in the Middle East is worsening economic crisis in Pakistan.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-04T20:42:26Z'

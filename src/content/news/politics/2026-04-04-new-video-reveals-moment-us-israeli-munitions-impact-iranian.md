@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: New video shows the moment multiple US-Israeli strikes hit the B1 bridge
   in Iran&#039;s northern Alborz province on Thursday.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-04T17:02:25Z'
