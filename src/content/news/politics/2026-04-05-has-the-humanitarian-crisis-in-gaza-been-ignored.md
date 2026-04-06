@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Conditions in Gaza worsen amid the United States-Israel war on Iran.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-05T20:16:16Z'

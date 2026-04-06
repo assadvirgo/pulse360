@@ -3,7 +3,7 @@ category: Tech
 description: Let's pretend you work in IT and you're looking for a new digital service
   desk platform to help your employees reset passwords or onboard new hires. You use
   Google's AI Mode to…
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 42.2
 pubDate: '2026-04-06T11:00:00Z'

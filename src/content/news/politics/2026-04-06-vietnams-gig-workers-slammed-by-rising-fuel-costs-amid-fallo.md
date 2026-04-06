@@ -4,7 +4,7 @@ country: Vietnam
 countryCode: VN
 description: Diesel prices have more than doubled in the Southeast Asian nation amid
   Iran&#039;s blockade of the Strait of Hormuz.
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T01:14:00Z'

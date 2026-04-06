@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Chief secretary to prime minister is less central to Starmer’s Number
   10 operation after arrival of new head of civil service
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-06T04:00:40Z'

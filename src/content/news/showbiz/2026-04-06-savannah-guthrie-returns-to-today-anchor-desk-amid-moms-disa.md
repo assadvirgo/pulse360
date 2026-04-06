@@ -5,7 +5,7 @@ countryCode: US
 description: Savannah Guthrie returned to NBC&#8217;s &#8220;Today&#8221; on April
   6 amid the continued disappearance of her mother, Nancy. Joined by co-anchor Craig
   Melvin, Guthrie got right…
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-06T11:11:04Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: The fear of failure has become unavoidable, especially after three successive
   runners-up finishes in the Premier League, but Mikel Arteta holds Arsenal's fate
   in his hands.
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T12:32:36Z'

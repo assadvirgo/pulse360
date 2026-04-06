@@ -5,7 +5,7 @@ countryCode: CN
 description: Universal’s “The Super Mario Galaxy Movie” blasted into first place at
   the China box office during the April 3–5 weekend, according to data from Artisan
   Gateway, earning RMB57.1…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-04-06T07:04:35Z'

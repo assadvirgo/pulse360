@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Only eight players have pulled off the feat in the same season. Who are
   the most likely "double champs?"
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-06T12:17:11Z'

@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Al Jazeera’s Linh Nguyen explains the Handala Hack Team.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-06T09:29:09Z'

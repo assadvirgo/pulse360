@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Google’s TurboQuant cracks the memory-chip cartel — and the hardware-heavy
   AI thesis now looks like yesterday’s news.
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-06T11:50:00Z'

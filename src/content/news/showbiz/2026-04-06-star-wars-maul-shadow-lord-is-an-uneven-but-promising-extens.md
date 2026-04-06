@@ -3,7 +3,7 @@ category: Showbiz
 description: Next month, the “Star Wars” franchise will return to theaters after an
   astonishing seven-year absence with Jon Favreau’s “The Mandalorian and Grogu,” a
   feature spinoff of the…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-06T07:01:00Z'

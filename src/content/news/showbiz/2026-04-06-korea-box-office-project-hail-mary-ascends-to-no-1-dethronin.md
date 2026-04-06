@@ -5,7 +5,7 @@ countryCode: KR
 description: '&#8220;Project Hail Mary&#8221; rose to the top position at the South
   Korean box office during the weekend of Apr. 3–05, 2026. According to data from
   KOBIS, the tracking service…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-06T07:44:10Z'

@@ -5,7 +5,7 @@ countryCode: ES
 description: Arsenal, Man United, Man City, Liverpool, Chelsea, PSG and Bayern have
   been contacted about a possible move for Real Madrid forward Vinicius Jr. Transfer
   Talk has the latest.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-06T08:54:30Z'
