@@ -3,7 +3,7 @@ category: Sports
 country: United States
 countryCode: US
 description: We proposed 32 trades -- one at every slot -- to shake up Round 1.
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T15:27:22Z'

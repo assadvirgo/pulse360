@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: He had two stints at American Television and Communications and helped
   usher the cable industry into the broadband era.
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-06T15:17:50Z'

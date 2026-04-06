@@ -2,7 +2,7 @@
 category: Politics
 description: The GCC and Iran can come up with a new security architecture for the
   Strait of Hormuz that can give Trump an off-ramp.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-06T05:40:17Z'

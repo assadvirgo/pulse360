@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Lightning and Sabres are both playoff-bound, but the No. 1 divisional
   seed is up for grabs.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-06T12:17:11Z'

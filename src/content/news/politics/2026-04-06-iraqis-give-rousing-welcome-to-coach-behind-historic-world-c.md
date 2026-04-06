@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Iraqis in Sydney turned out in full force to welcome coach Graham Arnold
   as he returned to Australia.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T09:36:36Z'

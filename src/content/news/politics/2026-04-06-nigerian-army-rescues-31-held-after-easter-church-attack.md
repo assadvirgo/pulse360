@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Five civilians were killed by the gunmen and their bodies were recovered
   at the scene, the army said.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-06T09:08:45Z'

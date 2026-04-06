@@ -5,7 +5,7 @@ countryCode: VN
 description: Vietnamese psychological thriller &#8220;Bunny!!&#8221; has cleared $1
   million across North America and Europe in its first week of international play,
   distributor 3388 Films has…
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-06T15:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The pcTattletale founder escapes a custodial sentence following the first
   successful prosecution of a spyware maker in the U.S. in over a decade.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-06T13:03:04Z'

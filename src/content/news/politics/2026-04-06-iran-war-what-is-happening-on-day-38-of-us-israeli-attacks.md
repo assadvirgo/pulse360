@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tensions continue after Trump&#039;s threat on Truth Social for Iran
   to reopen the Strait of Hormuz.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T08:01:40Z'

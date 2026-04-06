@@ -5,7 +5,7 @@ countryCode: BR
 description: Fernando Coimbra (‘Narcos,’ ‘Perry Mason’) was 11 years old when his
   country came to a halt to watch an unfolding tragedy that would come to be known
   as the “Brazilian Chernobyl.”…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-06T11:11:44Z'

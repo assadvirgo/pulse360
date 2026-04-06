@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Proposal for 45-day ceasefire reported to have been shared by Pakistan,
   Egypt and Turkey ahead of Trump deadline
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-06T10:45:57Z'
