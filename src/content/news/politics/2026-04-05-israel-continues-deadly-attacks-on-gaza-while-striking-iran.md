@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has kept up its attacks on Gaza while striking Iran and Lebanon,
   killing at least four Palestinians on Sunday.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-05T18:36:32Z'

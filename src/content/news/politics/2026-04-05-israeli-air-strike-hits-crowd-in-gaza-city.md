@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Several Palestinians were rushed to hospital with severe injuries after
   an Israeli air strike hit a crowd in Gaza City.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-05T20:09:18Z'

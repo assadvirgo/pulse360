@@ -2,7 +2,7 @@
 category: Economy
 description: New insights into motivation and strength of feeling could help democracy
   work better
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-06T04:00:16Z'

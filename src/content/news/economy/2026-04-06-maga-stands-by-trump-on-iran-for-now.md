@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On the streets of small-town Georgia, the president’s base is backing
   the war as swing voters waver
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 45.5
 pubDate: '2026-04-06T04:00:27Z'

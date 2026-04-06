@@ -2,7 +2,7 @@
 category: Economy
 description: Excessive spending to cushion soaring prices would have ‘serious fiscal
   implications’, says economy commissioner
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-06T04:00:40Z'

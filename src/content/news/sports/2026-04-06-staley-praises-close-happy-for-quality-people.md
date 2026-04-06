@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: South Carolina coach Dawn Staley spoke glowingly of UCLA coach Cori Close
   after the Gamecocks' loss to the Bruins in the NCAA championship game Sunday.
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-06T07:37:57Z'

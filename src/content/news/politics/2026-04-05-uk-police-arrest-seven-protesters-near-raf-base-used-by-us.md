@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The activists were protesting the alleged use of the RAF base as a departure
   point for US aircraft.
-displayOrder: 30
+displayOrder: 46
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-05T21:05:44Z'

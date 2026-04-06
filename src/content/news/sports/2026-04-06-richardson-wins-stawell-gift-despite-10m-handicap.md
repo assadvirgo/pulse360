@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: American Sha-Carri Richardson overcomes a disadvantage of up to 10 metres
   to become only the third woman to win the Stawell Gift from the back of the field.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-04-06T07:43:39Z'
