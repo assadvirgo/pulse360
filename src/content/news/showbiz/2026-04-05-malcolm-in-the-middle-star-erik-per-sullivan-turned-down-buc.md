@@ -5,7 +5,7 @@ countryCode: US
 description: The “Malcolm in the Middle” revival will not feature the return of Erik
   Per Sullivan, despite the show’s efforts to pull him away from his studies at Harvard
   University to play…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-05T17:10:03Z'

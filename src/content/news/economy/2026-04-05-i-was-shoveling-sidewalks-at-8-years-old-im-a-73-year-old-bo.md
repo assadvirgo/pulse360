@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “My parents knew nothing about finance and investing, so my buddies and
   I had to figure it out on our own.”
-displayOrder: 45
+displayOrder: 44
 heroImage: ''
 importance: 25.5
 pubDate: '2026-04-05T20:17:00Z'

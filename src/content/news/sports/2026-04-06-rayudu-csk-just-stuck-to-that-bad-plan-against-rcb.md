@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: RCB "a team that's making the right decision at the right time," Aaron
   Finch says after their 43-run win over CSK
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T04:41:13Z'

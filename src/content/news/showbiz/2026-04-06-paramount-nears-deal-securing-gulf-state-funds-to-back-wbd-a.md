@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Skydance seems to be nearing a deal to secure funding from
   three Gulf nation sovereign wealth funds to back its proposed acquisition of Warner
   Bros. Discovery, according…
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-06T00:50:21Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hamas’s armed wing says it will not discuss disarmament before Israel
   fully implements the first phase of ceasefire.
-displayOrder: 26
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-05T20:03:50Z'

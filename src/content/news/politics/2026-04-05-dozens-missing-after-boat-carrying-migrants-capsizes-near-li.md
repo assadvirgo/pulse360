@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: Dozens of people are missing and at least two confirmed dead after a
   boat carrying migrants capsized off coast of Libya.
-displayOrder: 34
+displayOrder: 36
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-05T19:38:53Z'

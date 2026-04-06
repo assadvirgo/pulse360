@@ -5,7 +5,7 @@ countryCode: US
 description: The Boy Who Lived is back – in a behind-the-scenes documentary of HBO’s
   upcoming adaptation of the “Harry Potter” books. Released April 5, the 30-minute
   special, titled “Finding…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-05T21:07:36Z'
