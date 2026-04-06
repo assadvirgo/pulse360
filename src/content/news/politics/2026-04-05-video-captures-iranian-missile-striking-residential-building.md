@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Video captured the moment of a direct hit by an Iranian missile on a
   residential building in Israel’s Haifa.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-05T18:22:14Z'

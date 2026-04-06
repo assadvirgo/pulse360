@@ -2,7 +2,7 @@
 category: Politics
 description: Spokesperson Abu Obeida says calling for the group&#039;s disarmament
   amounts to an attempt to continue Israel&#039;s genocide.
-displayOrder: 17
+displayOrder: 25
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-05T20:09:24Z'

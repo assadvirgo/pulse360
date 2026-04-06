@@ -3,7 +3,7 @@ category: Tech
 description: Los Thuthanaka basically came out of nowhere last year to capture Pitchfork's
   album of the year with their self-titled debut. Because it wasn't available on streaming,
   it largely…
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-05T18:30:00Z'

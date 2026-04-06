@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The BBC's Orla Guerin travels to the edge of the critical waterway that
   Iran has put a stranglehold on.
-displayOrder: 14
+displayOrder: 22
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-05T21:30:19Z'

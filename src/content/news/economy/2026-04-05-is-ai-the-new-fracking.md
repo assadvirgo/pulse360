@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The backlash against data centres chimes with energy Nimbyism of the
   past
-displayOrder: 40
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-05T15:00:27Z'

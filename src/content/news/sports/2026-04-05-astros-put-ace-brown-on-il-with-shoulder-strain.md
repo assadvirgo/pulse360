@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Astros have placed ace Hunter Brown on the 15-day injured list with
   a strain in his pitching shoulder.
-displayOrder: 12
+displayOrder: 19
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-05T20:40:10Z'

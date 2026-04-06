@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Pope Leo XIV used his first Easter mass at the Vatican to urge global
   leaders to “choose peace”.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-05T16:11:13Z'

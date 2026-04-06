@@ -2,7 +2,7 @@
 category: Politics
 description: A leading political economist breaks down how war can reward power and
   be beneficial for profits and political survival.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-05T19:54:01Z'

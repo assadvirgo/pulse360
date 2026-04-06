@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Alabama coach Nate Oats has signed a new contract that will make him
   one of the five highest-paid college basketball coaches in the country.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-05T20:40:10Z'

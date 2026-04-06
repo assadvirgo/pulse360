@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Caroline Dubois floored Terri Harper before outpointing her British rival
   to become the unified lightweight world champion in London.
-displayOrder: 10
+displayOrder: 17
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-05T21:34:40Z'

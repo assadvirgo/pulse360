@@ -5,7 +5,7 @@ countryCode: US
 description: Dan Levy told CBS Sunday Morning that he was considering a “Schitt’s
   Creek” sequel series before the death of his co-star, Catherine O’Hara. Although
   he asserted that a sequel…
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-05T23:42:19Z'
