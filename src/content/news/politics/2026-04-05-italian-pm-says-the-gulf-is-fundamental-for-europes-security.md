@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: In a visit to the GulfItalian PM Meloni emphasized the importance of
   the region to Italian and European security.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-05T12:44:06Z'

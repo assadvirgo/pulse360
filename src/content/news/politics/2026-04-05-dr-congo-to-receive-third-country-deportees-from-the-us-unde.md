@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: DRC gov&#039;t says deportees will begin to arrive this month, under
   a &#039;temporary&#039; arrangment paid for by the US.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-05T15:20:03Z'

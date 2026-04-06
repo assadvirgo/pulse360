@@ -5,7 +5,7 @@ countryCode: US
 description: Lisa Kudrow said during a recent Interview Magazine profile that she’s
   “not drawn” to new multi-camera sitcoms. The “Friends” star thinks it’s because
   new shows are “too afraid”…
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-05T17:27:05Z'

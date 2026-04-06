@@ -5,7 +5,7 @@ countryCode: US
 description: Jeff Bezos badly wanted a voice computer. He had been saying so publicly
   since the very early days of Amazon, telling anyone who would listen about why voice
   might make it easier…
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-05T12:24:45Z'

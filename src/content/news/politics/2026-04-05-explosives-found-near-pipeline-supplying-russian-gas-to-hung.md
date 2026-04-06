@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungarian Prime Minister Viktor Orban has suggested explosives found
   near a pipeline supplying Russian gas to Hungary and Serbia was "an act of sabotage".
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-05T13:38:00Z'

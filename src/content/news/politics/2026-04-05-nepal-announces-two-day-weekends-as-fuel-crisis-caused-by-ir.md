@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: Saturday had been the only day off in Himalayan nation, which relies
   almost entirely on India for its fuel supplies.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-05T14:48:51Z'

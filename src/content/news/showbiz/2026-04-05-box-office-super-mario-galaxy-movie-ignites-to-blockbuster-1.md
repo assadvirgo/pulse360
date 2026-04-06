@@ -5,7 +5,7 @@ countryCode: US
 description: Wahoo! Universal and Illumination&#8217;s animated sequel &#8220;The
   Super Mario Galaxy Movie&#8221; has activated the domestic box office with $130
   million in its opening weekend…
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-05T14:38:44Z'

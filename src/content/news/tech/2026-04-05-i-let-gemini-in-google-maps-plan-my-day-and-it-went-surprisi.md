@@ -5,7 +5,7 @@ countryCode: US
 description: You may be familiar with Gemini as the thing that's in every Google service
   you use - whether you want it or not. While it's been a constant, sometimes unwelcome
   presence in Gmail…
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-05T14:00:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: UNRWA&#039;s mandate to provide for Palestinian refugees makes it a direct
   threat to the Israeli genocidal project.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-05T08:40:26Z'

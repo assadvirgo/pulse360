@@ -5,7 +5,7 @@ countryCode: US
 description: The first thing you notice about the Slate Truck is its size. It's small,
   surprisingly so. In a country where trucks often come with their own zip code, Slate's
   pickup is…
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-05T13:00:00Z'

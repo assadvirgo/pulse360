@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The US and Israel have repeatedly hit the plant, raising risks of radioactive
   contamination far beyond Iran&#039;s borders.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-05T15:05:49Z'

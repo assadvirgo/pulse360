@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Hezbollah fires projectiles at northern Israel while Israeli troops push
   deeper into southern Lebanon.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-05T16:15:14Z'
