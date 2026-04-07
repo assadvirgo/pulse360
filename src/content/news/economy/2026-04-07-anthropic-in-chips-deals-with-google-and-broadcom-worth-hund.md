@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI start-up secures more computing capacity as annualised revenues hit
   $30bn
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-07T00:46:58Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces launched renewed strikes across Lebanon, hitting the south
   and Beirut’s outskirts, killing civilians.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-06T19:40:59Z'

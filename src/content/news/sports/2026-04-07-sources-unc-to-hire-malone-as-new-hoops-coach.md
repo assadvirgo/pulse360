@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: North Carolina intends to hire former longtime NBA coach Michael Malone
   as the school's next basketball coach, sources told ESPN.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-07T05:22:27Z'

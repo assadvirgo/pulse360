@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The judge said the musician's behaviour when he was arrested in LA last
   year was "aberrant from his normal conduct".
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-06T21:55:11Z'

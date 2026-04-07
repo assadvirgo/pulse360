@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Proposed deal would combine world’s largest music group with a blank-cheque
   company
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-07T07:17:42Z'

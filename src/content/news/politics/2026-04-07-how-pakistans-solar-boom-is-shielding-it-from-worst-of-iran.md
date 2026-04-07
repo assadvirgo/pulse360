@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: A quarter of Pakistani households are now using solar panels. This insulates
   millions of families from the energy crisis
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-07T07:52:47Z'

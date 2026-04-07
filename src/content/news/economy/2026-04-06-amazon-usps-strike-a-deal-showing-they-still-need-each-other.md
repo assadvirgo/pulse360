@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The agreement arrives as Amazon continues to expand its warehouse network
   and focus on same-day deliveries.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-06T22:22:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: A new infrastructure is being built rapidly to avoid the strategic chokepoint
   and ensure global energy and food security
-displayOrder: 25
+displayOrder: 44
 heroImage: ''
 importance: 40.5
 pubDate: '2026-04-07T04:00:32Z'

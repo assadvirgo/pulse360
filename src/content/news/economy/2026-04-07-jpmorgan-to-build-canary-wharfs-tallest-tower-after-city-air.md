@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bank wins clearance for 265-metre skyscraper after talks over low-flying
   aircraft
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-07T04:00:32Z'

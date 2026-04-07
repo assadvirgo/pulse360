@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Drones are reported to have fired missiles into an area near Maghazi
   refugee camp.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-06T20:34:47Z'

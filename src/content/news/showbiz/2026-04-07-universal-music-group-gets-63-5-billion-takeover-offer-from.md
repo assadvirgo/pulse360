@@ -5,7 +5,7 @@ countryCode: US
 description: Lucian Grainge, CEO of the musical home of the likes of Taylor Swift,
   and his team "have done an excellent job... However, UMG's stock price has languished
   due to a combination of…
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-07T07:53:25Z'
