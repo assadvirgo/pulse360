@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Strait of Hormuz saw an uptick in traffic over the weekend, as a
   looming U.S. deadline for Iran to reopen the key waterway kept markets on edge.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-06T21:04:00Z'

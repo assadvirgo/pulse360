@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A child was rescued from the rubble of a collapsed home in Odesa after
   a Russian strike killed at least three people.
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-06T19:34:14Z'

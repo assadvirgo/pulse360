@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: WHO driver Majdi Aslan was killed and a WHO doctor wounded, along with
   several other Palestinians.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-06T15:58:34Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The pattern is clear — insurance companies get rewarded for their ability
   to profit from system complexity.
-displayOrder: 44
+displayOrder: 50
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-06T15:22:00Z'

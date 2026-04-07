@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: South Korea says Pyongyang is wary as it seeks to renew diplomatic dialogue
   with the US.
-displayOrder: 27
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T18:32:16Z'

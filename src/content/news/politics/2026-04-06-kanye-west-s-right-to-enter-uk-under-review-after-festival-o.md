@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The rapper's appearance in London in July has caused controversy because
   of his past antisemitic comments.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-06T19:29:02Z'

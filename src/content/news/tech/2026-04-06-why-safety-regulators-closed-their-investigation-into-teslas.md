@@ -5,7 +5,7 @@ countryCode: US
 description: NHTSA closed its investigation into Tesla's "Actually Smart Summon" feature,
   saying that only a fraction of cases resulted in an incident, and that no incidents
   resulted in…
-displayOrder: 28
+displayOrder: 38
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-06T18:17:23Z'

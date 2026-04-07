@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The White House is moving to scrap a program that helps low-income people
   pay their utility bills at a time when Americans’ energy costs are surging.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-06T20:35:00Z'
