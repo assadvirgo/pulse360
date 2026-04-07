@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Economics, security and domestic politics all point the Starmer government
   towards Brussels
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-06T10:23:03Z'

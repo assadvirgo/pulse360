@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Over one million people displaced across Lebanon as Israel escalates
   military campaign with air raids, ground invasion.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-06T09:21:57Z'

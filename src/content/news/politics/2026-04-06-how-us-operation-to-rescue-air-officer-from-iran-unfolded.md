@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump says US service member whose fighter jet was shot down
   over Iran is rescued during two raids.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-06T12:42:47Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: If you thought “The Boys” was dark before, just remember that the penultimate
   season of the pitch-black superhero satire aired prior to the reelection of President
   Donald J.…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-04-06T16:00:00Z'

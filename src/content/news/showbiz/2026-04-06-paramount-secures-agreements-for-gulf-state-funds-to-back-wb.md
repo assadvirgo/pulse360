@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATE: David Ellison&#8217;s Paramount Skydance has secured funding
   commitments from three Gulf nation sovereign wealth funds to back its proposed acquisition
   of Warner Bros.…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-04-06T17:43:00Z'

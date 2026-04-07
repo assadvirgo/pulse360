@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungary’s illiberal champion has benefited from the misjudgments and
   complacency of other leaders
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-06T16:12:31Z'

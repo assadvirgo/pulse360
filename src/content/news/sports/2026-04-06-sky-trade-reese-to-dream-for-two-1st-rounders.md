@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Sky have traded two-time WNBA All-Star and two-time rebounding champ
   Angel Reese to the Dream for first-round draft picks in 2027 and 2028.
-displayOrder: 11
+displayOrder: 17
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T20:42:48Z'

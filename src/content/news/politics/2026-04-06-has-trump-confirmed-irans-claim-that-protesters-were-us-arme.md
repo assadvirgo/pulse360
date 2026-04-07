@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says Washington armed Kurdish Iranian opposition groups
   during the January demonstrations.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-04-06T11:52:36Z'
