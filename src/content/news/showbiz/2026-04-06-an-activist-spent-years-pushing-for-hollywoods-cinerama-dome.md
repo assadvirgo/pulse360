@@ -5,7 +5,7 @@ countryCode: US
 description: The LAPD told Benjamin Steinberg that the family ownership of the iconic
   theatre considered his latest protest a form of harassment. He's since called off
   his long-running…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-04-06T23:26:48Z'

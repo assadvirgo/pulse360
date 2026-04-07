@@ -3,7 +3,7 @@ category: Economy
 description: Just because the U.S. is a net exporter of certain fuels doesn’t mean
   its economy won’t feel some serious blowback from higher global energy costs driven
   by the conflict in Iran.
-displayOrder: 42
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-06T21:48:00Z'

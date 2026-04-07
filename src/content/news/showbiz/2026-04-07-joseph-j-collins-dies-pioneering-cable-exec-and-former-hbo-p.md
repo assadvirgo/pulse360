@@ -5,7 +5,7 @@ countryCode: US
 description: Joseph J. Collins, a leading cable executive as the pay-TV platform became
   a dominant part of the media industry in the late 20th century, has died. He was
   81. A family…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-04-07T00:57:22Z'

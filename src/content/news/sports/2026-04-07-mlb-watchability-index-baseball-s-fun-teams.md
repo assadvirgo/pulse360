@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Young talent, diving catches, home runs and ... bobbleheads? Here are
   baseball's most exciting squads for 2026.
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-07T05:22:27Z'

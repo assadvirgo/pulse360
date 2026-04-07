@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The father and son died in jail after being arrested on suspicion of
   breaching Covid lockdown rules in 2020.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-06T21:21:13Z'

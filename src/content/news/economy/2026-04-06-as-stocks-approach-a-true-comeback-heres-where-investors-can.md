@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The S&amp;P 500 remains down this year despite its recent rebound.
-displayOrder: 40
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-06T22:00:00Z'

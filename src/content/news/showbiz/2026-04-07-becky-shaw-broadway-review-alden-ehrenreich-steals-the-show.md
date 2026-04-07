@@ -5,7 +5,7 @@ countryCode: US
 description: 'Alden Ehrenreich might be lucky &#8220;Solo: A Star Wars Story&#8221;
   was such a box office bomb. Because what was bad for his bank account was fantastic
   for his creative freedom,…'
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-07T02:00:00Z'

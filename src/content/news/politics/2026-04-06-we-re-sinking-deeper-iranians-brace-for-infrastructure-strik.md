@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Ordinary Iranians respond to the US president's threat to destroy Iran's
   power plants and bridges unless it opens the Strait of Hormuz.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-04-06T15:40:35Z'

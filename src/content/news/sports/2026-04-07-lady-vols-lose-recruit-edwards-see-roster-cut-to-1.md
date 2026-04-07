@@ -5,7 +5,7 @@ countryCode: US
 description: On the same day that Tennessee guard Jaida Civil announced she's entering
   the transfer portal, Oliviyah Edwards, the No. 2 recruit in the SC Next 100 class
   of 2026, requested a…
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-07T01:11:19Z'

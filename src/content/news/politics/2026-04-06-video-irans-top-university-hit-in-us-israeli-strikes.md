@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Footage shows damaged research buildings at Tehran’s Sharif University
   following a US-Israeli strike.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-06T18:17:58Z'

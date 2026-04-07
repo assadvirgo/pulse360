@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It may not be a quick turnaround for the software sector, but here are
   three themes investors should monitor as they consider whether to re-engage.
-displayOrder: 28
+displayOrder: 38
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-06T19:18:00Z'

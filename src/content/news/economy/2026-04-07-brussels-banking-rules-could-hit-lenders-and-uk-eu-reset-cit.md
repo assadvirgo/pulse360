@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Concern that efforts to boost European defence spending could also be
   damaged
-displayOrder: 16
+displayOrder: 23
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-07T04:00:32Z'

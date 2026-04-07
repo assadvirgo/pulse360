@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On the first day of WNBA free agency, Angel Reese is headed to Atlanta
   after two seasons in Chicago.
-displayOrder: 8
+displayOrder: 16
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-07T03:09:15Z'

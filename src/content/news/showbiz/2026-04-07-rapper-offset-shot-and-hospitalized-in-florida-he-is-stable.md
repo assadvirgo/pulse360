@@ -5,7 +5,7 @@ countryCode: US
 description: Rapper Offset was shot in Hollywood, Florida on Monday, and is currently
   in stable condition. A spokesperson for Offset said in a statement to Variety that
   he&#8217;s being…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-07T01:55:24Z'
