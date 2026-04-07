@@ -5,7 +5,7 @@ countryCode: IT
 description: A Rome court has ruled that Netflix price hikes in Italy are illegal.
   The decision sides with a consumer advocacy group which claims the streaming giant
   broke local rules by…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-07T09:12:50Z'

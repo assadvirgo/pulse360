@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: At least seven people killed in Ukraine and three in Russia, a day after
   Zelenskyy renewed his Easter ceasefire offer.
-displayOrder: 3
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-07T10:12:04Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Kanye West has offered to meet members of the Jewish community in the
   U.K. following the furore over his headline booking at this year&#8217;s Wireless
   Festival, BBC News…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-07T08:22:38Z'

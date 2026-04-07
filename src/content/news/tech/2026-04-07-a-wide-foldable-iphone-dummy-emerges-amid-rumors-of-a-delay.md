@@ -5,7 +5,7 @@ countryCode: US
 description: We might have our first good look at the shape of the oddly wide iPhone
   Fold, after leaker and journalist Sonny Dickson shared photos of what he says is
   a dummy unit of the…
-displayOrder: 11
+displayOrder: 30
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-07T11:27:04Z'

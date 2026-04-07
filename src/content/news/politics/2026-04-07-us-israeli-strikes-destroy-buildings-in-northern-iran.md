@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Video shows widespread destruction in Pardis, northern Iran. The Israeli
   military said they bombed Iran on April 7.
-displayOrder: 16
+displayOrder: 37
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-07T09:53:20Z'

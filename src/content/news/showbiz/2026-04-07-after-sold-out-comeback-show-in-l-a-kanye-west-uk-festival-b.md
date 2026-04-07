@@ -5,7 +5,7 @@ countryCode: GB
 description: A Kanye West festival appearance is causing chaos in the UK. The controversial
   singer, who has been lambasted for months for antisemitic outbursts at a time of
   heightened tension,…
-displayOrder: 1
+displayOrder: 15
 heroImage: ''
 importance: 70.0
 pubDate: '2026-04-07T08:16:50Z'

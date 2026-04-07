@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The operation to extract him from the ground in hostile territory was
   hugely complex and involved multiple US government agencies.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-06T21:31:24Z'

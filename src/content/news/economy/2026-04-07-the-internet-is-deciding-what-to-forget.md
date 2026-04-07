@@ -2,7 +2,7 @@
 category: Economy
 description: Do digital bananas in Hawaiian shirts chatting up pineapples need to
   be saved for posterity? Probably not
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-07T04:00:45Z'

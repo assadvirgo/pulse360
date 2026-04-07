@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Almost nothing was known about the Royal Hill casino until the Thai military
   took control of it in December.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-06T23:09:23Z'

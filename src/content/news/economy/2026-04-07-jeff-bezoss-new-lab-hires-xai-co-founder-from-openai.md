@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kyle Kosic joins Project Prometheus, the secretive start-up working on
   systems that can understand the physical world
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-07T04:00:45Z'

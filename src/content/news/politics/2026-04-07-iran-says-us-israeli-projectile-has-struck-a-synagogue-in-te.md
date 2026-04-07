@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: A US-Israeli strike has caused extensive damage to a synagogue in Tehran,
   according to a video by Mehr News.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-07T06:03:57Z'

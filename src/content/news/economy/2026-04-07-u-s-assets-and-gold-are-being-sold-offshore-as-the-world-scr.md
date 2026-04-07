@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It’s six weeks into the Iran war, and foreign countries have begun selling
   U.S. assets and gold to afford the cost of higher oil prices.
-displayOrder: 8
+displayOrder: 28
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-07T11:30:00Z'

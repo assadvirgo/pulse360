@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming
   to raise $100 million for its first fund. It has already written some checks.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-06T21:54:26Z'

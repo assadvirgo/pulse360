@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lost aircraft and radars contribute to estimated $500mn daily price tag
   and leave US exposed elsewhere
-displayOrder: 33
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-07T04:00:32Z'
