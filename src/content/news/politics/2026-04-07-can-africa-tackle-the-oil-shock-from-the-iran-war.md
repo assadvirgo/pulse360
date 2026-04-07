@@ -2,7 +2,7 @@
 category: Politics
 description: African nations are scrambling to secure oil and gas as the Iran war
   disrupts supplies from the Middle East.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-07T11:13:09Z'

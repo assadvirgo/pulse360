@@ -5,7 +5,7 @@ countryCode: US
 description: Costume designer Sarah Millman came onto witchy cult horror movie “Forbidden
   Fruits” with a constrained budget, a tight prep window and a cast of characters
   who each needed to…
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-07T15:27:28Z'

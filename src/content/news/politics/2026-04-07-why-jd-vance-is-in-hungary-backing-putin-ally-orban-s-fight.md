@@ -5,7 +5,7 @@ countryCode: HU
 description: US vice president JD Vance has flown to Hungary in an attempt to boost
   its nationalist Prime Minister Viktor Orban's chances in the country's upcoming
   general election.
-displayOrder: 17
+displayOrder: 38
 heroImage: ''
 importance: 76.0
 pubDate: '2026-04-07T06:28:00Z'

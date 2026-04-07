@@ -5,7 +5,7 @@ countryCode: US
 description: What happens when DJI, the world's leading maker of drones, is no longer
   welcome in the United States? You might think other dronemakers would see a huge
   opportunity with their…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-07T13:30:00Z'

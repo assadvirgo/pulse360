@@ -2,7 +2,7 @@
 category: Tech
 description: Pizza is universal. And it is perfect. But you’re going to need a better
   oven. These are the best outdoor pizza ovens on the market.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-07T11:33:00Z'

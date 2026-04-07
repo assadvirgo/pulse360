@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former captain Harry Maguire signs a new one-year contract with Manchester
   United.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-07T11:58:50Z'

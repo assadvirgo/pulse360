@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Skydance confirmed syndication agreements with Middle Eastern
   funds to back its proposed acquisition of Warner Bros. Discovery and said it believes
   that the “resulting…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-07T15:23:35Z'

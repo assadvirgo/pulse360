@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The music giant behind acts such as Taylor Swift and Sabrina Carpenter
   gets an offer from Bill Ackman's Pershing Square.
-displayOrder: 25
+displayOrder: 45
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-07T10:35:36Z'

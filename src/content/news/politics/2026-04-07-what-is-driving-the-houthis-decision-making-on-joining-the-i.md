@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: 'There are two currents within the Houthis: one favouring caution, and
   another favouring commitment to allies.'
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-07T08:07:05Z'

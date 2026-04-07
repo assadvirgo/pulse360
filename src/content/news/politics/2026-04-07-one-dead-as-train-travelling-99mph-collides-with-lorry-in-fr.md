@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The lorry driver is in custody after the train driver died during the
   collision in northern France.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-07T11:56:35Z'

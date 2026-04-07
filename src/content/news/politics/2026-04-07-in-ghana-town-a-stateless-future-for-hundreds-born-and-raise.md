@@ -4,7 +4,7 @@ country: Gambia
 countryCode: GM
 description: In a small Gambian village founded decades ago by Ghanaian fishermen,
   their descendants languish without ID documents.
-displayOrder: 27
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-07T11:08:00Z'

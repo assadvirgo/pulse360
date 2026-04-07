@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Increasingly angry US president escalates threats to Iran as his Democratic
   rivals rebuke him as &#039;sick&#039; and &#039;genocidal&#039;.
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-07T13:53:52Z'

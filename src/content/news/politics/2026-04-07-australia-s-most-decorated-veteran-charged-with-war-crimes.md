@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australia's most decorated living veteran has been charged with allegedly
   killing five unarmed Afghans between 2009 and 2012.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-07T09:00:00Z'

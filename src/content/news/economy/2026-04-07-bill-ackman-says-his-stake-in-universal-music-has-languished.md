@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Pershing Square has proposed a merger to address the stock’s “underperformance.”
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-07T09:12:00Z'

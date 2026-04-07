@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Gunfire could be heard on videos filmed during a shooting near the Israeli
   consulate in the Turkish city of Istanbul.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-07T11:34:27Z'

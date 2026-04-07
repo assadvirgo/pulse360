@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: Peters, Fraser + Dunlop (PFD), which reps the likes of Michael
   Caine, Bear Grylls and Princess Diana&#8217;s brother Charles Spencer, has promoted
   Rosie Gurtovoy to run…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-07T15:27:40Z'

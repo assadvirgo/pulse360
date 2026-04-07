@@ -5,7 +5,7 @@ countryCode: US
 description: U.S. stocks were lower Tuesday — but with the S&amp;P 500 still modestly
   positive in April — as President Donald Trump intensified his threats against Iran
   to reopen the Strait of…
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-07T16:03:00Z'
