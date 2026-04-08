@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Fox&#8217;s medical drama Doc is taking a page out of Grey&#8217;s
   Anatomy&#8216;s playbook with a two-hour Season 2 finale featuring a cataclysmic
   event that leaves…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-07T16:15:00Z'

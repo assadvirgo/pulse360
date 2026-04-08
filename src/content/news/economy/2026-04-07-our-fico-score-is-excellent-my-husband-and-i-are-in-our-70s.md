@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “We currently have a home equity line of credit in the amount of $30,000
   and a car loan of $15,000.”
-displayOrder: 29
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-07T18:20:00Z'

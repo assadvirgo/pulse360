@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: No information has been provided specifying how the soldiers ended up
   fighting for Russia.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-07T16:40:17Z'

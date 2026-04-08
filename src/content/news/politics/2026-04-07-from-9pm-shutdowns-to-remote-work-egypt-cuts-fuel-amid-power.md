@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Egypt is one of the countries implementing energy conservation measures
   amid the US-Israel war on Iran.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-07T15:05:40Z'

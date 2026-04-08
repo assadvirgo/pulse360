@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of Constellation Brands have bounced this year, amid hopes that
   beer drinking will pick back up.
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-07T18:32:00Z'

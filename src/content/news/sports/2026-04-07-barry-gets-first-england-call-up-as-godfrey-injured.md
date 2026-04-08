@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bay FC forward Keira Barry receives her first call-up to the England
   squad for the upcoming Women's World Cup qualifiers against Spain and Iceland.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-07T10:00:33Z'

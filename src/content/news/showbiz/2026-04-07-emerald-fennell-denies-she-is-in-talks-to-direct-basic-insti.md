@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED with denials by Fennell reps, studio: Emerald Fennell and Amazon
   have both denied claims made by screenwriter Joe Eszterhas that the Wuthering Heights
   filmmaker is…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-07T15:55:00Z'

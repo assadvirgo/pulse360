@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anthropic shared that its annualized revenue has grown to $30 billion,
   in a sign of its rapidly evolving financial fortunes.
-displayOrder: 32
+displayOrder: 44
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-07T15:54:00Z'

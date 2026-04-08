@@ -2,7 +2,7 @@
 category: Economy
 description: Non-bank lenders rapidly reduce holdings of EM debt during shocks such
   as the Iran war, analysis suggests
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-04-07T14:00:05Z'

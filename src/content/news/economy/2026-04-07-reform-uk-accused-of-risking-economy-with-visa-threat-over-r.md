@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Populist party says it would bar citizens of countries demanding compensation
   over transatlantic slave trade
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-07T16:10:36Z'

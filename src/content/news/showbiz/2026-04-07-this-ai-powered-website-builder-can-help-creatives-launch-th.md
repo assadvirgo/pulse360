@@ -5,7 +5,7 @@ countryCode: US
 description: In Hollywood, a career is often a constellation of side hustles. An assistant
   launches a styling business between gigs. A production designer takes on freelance
   branding work. A…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-07T19:46:23Z'

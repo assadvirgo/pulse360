@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Proposed transaction would combine world’s largest music group with a
   blank-cheque company
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-07T15:40:37Z'

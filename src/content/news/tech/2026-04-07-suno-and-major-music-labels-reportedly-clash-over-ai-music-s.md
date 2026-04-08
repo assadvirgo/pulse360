@@ -5,7 +5,7 @@ countryCode: US
 description: The AI-powered musicmaker Suno is struggling to reach licensing deals
   with Universal Music Group and Sony Music Entertainment. That's according to a report
   from the Financial…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-07T16:21:22Z'

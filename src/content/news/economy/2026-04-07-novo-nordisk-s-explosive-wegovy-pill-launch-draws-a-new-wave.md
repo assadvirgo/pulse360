@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CNBC spoke with five U.S. patients who recently started the pill following
   its launch and have varying initial experiences with the drug.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-07T11:00:01Z'

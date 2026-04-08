@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran condemns systematic attacks on civilian sites, including academic
   hubs, as war devastates critical infrastructure.
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-07T17:03:21Z'
