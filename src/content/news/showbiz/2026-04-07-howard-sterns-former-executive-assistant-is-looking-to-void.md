@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Leslie Kuh, who's lived with Stern and his wife in their Southampton
   mansion since 2024, targets an animal rescue organization operated by the couple.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-07T18:09:48Z'

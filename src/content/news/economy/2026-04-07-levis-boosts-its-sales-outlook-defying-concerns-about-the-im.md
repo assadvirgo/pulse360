@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The jeans maker says shoppers are snapping up its new gear — and it became
   the latest clothing company to say the TV series “Love Story” was helping sales.
-displayOrder: 43
+displayOrder: 46
 heroImage: ''
 importance: 32.5
 pubDate: '2026-04-07T23:45:00Z'

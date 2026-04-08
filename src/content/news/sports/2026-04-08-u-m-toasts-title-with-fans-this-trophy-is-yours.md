@@ -5,7 +5,7 @@ countryCode: US
 description: Michigan's men's basketball team returned to campus as national champions
   Tuesday, and coach Dusty May told dozens of fans who greeted them at the Crisler
   Center that "this trophy…
-displayOrder: 12
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-08T00:22:41Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Departures from Gulf state raise concerns among school operators banking
   on growth in student numbers
-displayOrder: 40
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-07T20:02:31Z'

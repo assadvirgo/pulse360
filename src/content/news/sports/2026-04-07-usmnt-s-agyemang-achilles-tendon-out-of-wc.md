@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: United States international Patrick Agyemang will miss his home World
   Cup after suffering a serious Achilles tendon injury.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-07T17:08:18Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: But financier needs the backing of Vincent Bolloré and his Vivendi media
   group
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-07T17:50:17Z'

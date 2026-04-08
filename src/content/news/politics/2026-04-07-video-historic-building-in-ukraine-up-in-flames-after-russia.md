@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A two-storey historical building in eastern Ukraine engulfed in flames
   after a Russian drone hit its infrastructure.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-07T19:14:12Z'

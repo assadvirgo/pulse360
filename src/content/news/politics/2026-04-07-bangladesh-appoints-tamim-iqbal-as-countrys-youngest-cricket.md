@@ -3,7 +3,7 @@ category: Politics
 country: Bangladesh
 countryCode: BD
 description: Former Bangladesh captain takes charge after previous board dissolved.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-07T14:39:45Z'
