@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: US Vice-President JD Vance intervenes in the campaign to give Orbán a
   ringing endorsement in Budapest.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-07T18:11:38Z'

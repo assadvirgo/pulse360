@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Sunday’s election will show if it’s possible to defeat Orbán’s illiberal
   democracy
-displayOrder: 12
+displayOrder: 20
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-08T04:00:16Z'

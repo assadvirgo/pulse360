@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Steve "Mongo" McMichael died in 2025 at age 67 after a five-year battle
   with ALS, and his wife Misty donated his brain to research.
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-07T20:38:28Z'

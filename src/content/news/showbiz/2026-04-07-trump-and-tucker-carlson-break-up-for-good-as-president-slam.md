@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The war of words ramped up after the popular MAGA-sphere web personality
   laid into him over his "vile" Easter morning Truth Social missive.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-07T23:46:38Z'

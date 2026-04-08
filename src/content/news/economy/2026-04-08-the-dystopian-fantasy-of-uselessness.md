@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Fears that AI will strip our lives of meaning are based on three fallacies
-displayOrder: 37
+displayOrder: 40
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-08T04:00:07Z'

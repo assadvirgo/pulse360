@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli prime minister welcomes US decision to suspend attacks on Iran,
   but says the truce does not apply to Lebanon.
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-08T03:17:42Z'

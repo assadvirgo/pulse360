@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: Offensive left Libyan public burdened with unpaid loans, and key figures
   have faced no consequences, the report says.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-07T21:02:27Z'

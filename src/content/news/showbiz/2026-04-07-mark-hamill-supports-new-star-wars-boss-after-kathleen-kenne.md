@@ -5,7 +5,7 @@ countryCode: US
 description: Mark Hamill is giving the new leadership at Lucasfilm an enthusiastic
   endorsement. Speaking to USA Today, the Luke Skywalker actor said he &#8220;can&#8217;t
   think of better…
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 74.8
 pubDate: '2026-04-07T21:35:18Z'

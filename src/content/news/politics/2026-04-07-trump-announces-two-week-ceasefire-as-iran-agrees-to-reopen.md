@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president nevertheless warned that the suspension was dependent
   on Iran reopening the Strait of Hormuz.
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 87.5
 pubDate: '2026-04-07T22:48:53Z'

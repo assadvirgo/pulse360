@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Eclipse will put some of that money towards incubating, or building startups.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-07T21:24:54Z'
