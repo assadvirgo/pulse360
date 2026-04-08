@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: San Francisco-based start-up surges from push into more complex and potentially
   more lucrative AI services
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-08T04:00:16Z'

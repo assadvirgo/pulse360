@@ -3,7 +3,7 @@ category: Politics
 country: Greece
 countryCode: GR
 description: Greece will ban under-15s from social media from next year.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-08T07:22:00Z'

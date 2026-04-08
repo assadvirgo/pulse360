@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Co-creator Bill Lawrence explains why the season three finale felt like
   the end — even though it's not — and where the show will jump when it returns.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-04-08T07:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Just two seasons after arriving in Ann Arbor, May returned to his home
   state of Indiana to cut down the nets.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-08T12:15:57Z'

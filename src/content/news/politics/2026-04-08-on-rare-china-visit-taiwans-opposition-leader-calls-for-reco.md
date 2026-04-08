@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: KMT chief Cheng Li-wun, the party&#039;s first leader to visit China
   in a decade, hopes to meet Chinese President Xi Jinping.
-displayOrder: 7
+displayOrder: 25
 heroImage: ''
 importance: 70.5
 pubDate: '2026-04-08T08:00:36Z'

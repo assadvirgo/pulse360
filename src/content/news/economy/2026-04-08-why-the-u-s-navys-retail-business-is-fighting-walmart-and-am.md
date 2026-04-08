@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Navy runs more than 300 stores globablly but its operations are at
   risk because retail giants like Walmart, Amazon and Target are taking market share.
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-08T11:00:01Z'

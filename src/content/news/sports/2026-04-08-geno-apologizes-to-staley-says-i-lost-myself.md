@@ -5,7 +5,7 @@ countryCode: US
 description: UConn Huskies coach Geno Auriemma said in a statement Tuesday night that
   he lost himself with his behavior toward South Carolina coach Dawn Staley during
   his team's Final Four…
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-08T05:41:18Z'

@@ -5,7 +5,7 @@ countryCode: GT
 description: Guatemala’s Jayro Bustamante, whose feature “Mountains of Fire” (“Cordillera
   de Fuego”) screens at the 14th IFF Panama, is in production on his latest work,
   “Eruption,”…
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-08T11:57:03Z'

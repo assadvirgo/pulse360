@@ -5,7 +5,7 @@ countryCode: US
 description: A report in The New York Times claims to have identified the person who
   goes by the pseudonym Satoshi Nakamato, the inventor of bitcoin and one of the richest
   people on Earth.
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-08T10:16:00Z'

@@ -4,7 +4,7 @@ country: Zimbabwe
 countryCode: ZW
 description: The ruling party has unveiled a draft law that strips voters of the chance
   to elect the president.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 79.2
 pubDate: '2026-04-07T23:15:33Z'

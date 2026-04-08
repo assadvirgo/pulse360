@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Avalanche Energy is working on an DARPA project to build a new class
   of materials capable of turning damaging radiation into electricity.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-08T11:30:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tehran says it will allow ‘safe passage’ through Strait of Hormuz during
   2-week ceasefire
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-08T01:14:47Z'

@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Yemeni teachers juggle multiple jobs and endure hunger as protests grow
   over meager and delayed salaries.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-08T07:06:06Z'
