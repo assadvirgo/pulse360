@@ -5,7 +5,7 @@ countryCode: IN
 description: 'India&#8217;s Sun Pictures has unveiled the title of its large-scale
   fantasy-action collaboration between director Atlee, Allu Arjun and Deepika Padukone:
   &#8220;Raaka.&#8221; The…'
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-08T07:22:00Z'

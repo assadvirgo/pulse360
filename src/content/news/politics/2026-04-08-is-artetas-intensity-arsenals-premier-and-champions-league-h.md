@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Arsenal squeeze 1-0 win at Sporting Lisbon to end winless run, but is
   pressure telling after another below-par outing?
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-08T02:56:09Z'

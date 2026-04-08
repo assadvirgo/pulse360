@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Cecile Kohler and Jacques Paris are on their way home after being allowed
   to leave the country, the French president says.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-07T19:18:08Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon has announced that starting on May 20th, 2026, Kindle e-readers
   and Kindle Fire devices released in 2012 and earlier will "no longer be able to
   purchase, borrow, or…
-displayOrder: 37
+displayOrder: 50
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-07T21:44:20Z'
