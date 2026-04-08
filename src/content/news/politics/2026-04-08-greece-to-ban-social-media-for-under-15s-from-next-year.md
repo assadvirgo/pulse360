@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: It follows similar moves in other European countries, including France
   and Spain.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-08T11:39:43Z'

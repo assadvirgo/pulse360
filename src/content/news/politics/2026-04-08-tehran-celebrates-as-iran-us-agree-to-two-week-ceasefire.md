@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran hails the pause in hostilities as a &#039;victory&#039;, crediting
   national unity and patience for the agreement.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-08T08:21:05Z'

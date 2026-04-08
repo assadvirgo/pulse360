@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli military fires barrage of missiles on Lebanese capital as it
   vows to continue war on Hizbollah
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-08T12:58:43Z'

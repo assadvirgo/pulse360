@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft first started trying to get rid of the Control Panel in 2012,
   with the launch of Windows 8. More than a decade later, it's still working on migrating
   all the old Control…
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-08T09:23:58Z'

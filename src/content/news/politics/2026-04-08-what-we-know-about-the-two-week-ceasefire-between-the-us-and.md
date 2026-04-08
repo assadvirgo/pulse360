@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The provisional truce comes more than a month after the US and Israel
   launched coordinated attacks on Iran.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-08T11:00:53Z'

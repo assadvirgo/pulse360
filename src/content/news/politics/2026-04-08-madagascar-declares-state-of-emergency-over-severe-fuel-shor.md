@@ -4,7 +4,7 @@ country: Madagascar
 countryCode: MG
 description: The presidency says it is taking action as it fears fuel shortages could
   lead to public disorder.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-08T11:07:30Z'
