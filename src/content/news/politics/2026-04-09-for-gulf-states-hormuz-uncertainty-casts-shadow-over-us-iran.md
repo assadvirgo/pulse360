@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Experts say Gulf countries are wary of the US agreeing to a deal that
   gives Iran leverage over the vital energy route.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 77.5
 pubDate: '2026-04-09T05:58:36Z'

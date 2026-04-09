@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Fear and confusion grip Lebanon as Israeli strikes devastate the country
   and its place in the ceasefire is contested.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 71.5
 pubDate: '2026-04-08T20:57:02Z'

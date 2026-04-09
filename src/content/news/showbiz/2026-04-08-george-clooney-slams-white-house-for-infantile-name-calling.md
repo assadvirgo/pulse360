@@ -5,7 +5,7 @@ countryCode: US
 description: George Clooney fired back at the White House after Communications Director
   Steven Cheung released a statement condemning the two-time Oscar winner for saying
   President Donald…
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 84.8
 pubDate: '2026-04-08T22:42:56Z'

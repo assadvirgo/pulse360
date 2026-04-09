@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New NASA &#039;Earthset&#039; photo from Artemis II echoes Apollo 8’s
   iconic &#039;Earthrise&#039; in historic lunar flyby.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-08T20:19:40Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Strategy would echo doomsday trades that earned Pershing Square a big
   windfall during the pandemic
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-09T04:00:26Z'

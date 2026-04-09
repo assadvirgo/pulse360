@@ -5,7 +5,7 @@ countryCode: US
 description: A legal order seeking the golfer's medications - including dosage and
   warnings about driving on pill bottles - will be issued later this month, court
   record shows.
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-08T22:46:58Z'

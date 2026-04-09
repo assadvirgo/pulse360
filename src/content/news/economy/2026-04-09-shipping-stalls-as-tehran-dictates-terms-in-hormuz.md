@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Despite US-Iran ceasefire deal fewer tankers passed the crucial waterway
   than during fiercest days of fighting
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-09T04:00:26Z'

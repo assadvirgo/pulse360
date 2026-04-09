@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Ben Roberts-Smith's case is not only unprecedented for Australia but
   "extraordinary" for the globe too, scholars say.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 88.2
 pubDate: '2026-04-09T08:23:11Z'

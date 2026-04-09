@@ -3,7 +3,7 @@ category: Showbiz
 description: Few would stretch as far as calling &#8220;Under the Tuscan Sun&#8221;
   a classic, and yet that easy-breezy Diane Lane vehicle from 2003 has an enduring
   cultural presence of sorts:…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-09T04:00:00Z'

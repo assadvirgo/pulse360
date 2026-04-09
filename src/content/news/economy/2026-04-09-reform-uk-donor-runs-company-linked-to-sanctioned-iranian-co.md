@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Dubai-based Orico described by French court as ‘subsidiary’ of a group
   that is majority owned by foundation with close ties to Islamic regime
-displayOrder: 30
+displayOrder: 38
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-09T04:00:06Z'

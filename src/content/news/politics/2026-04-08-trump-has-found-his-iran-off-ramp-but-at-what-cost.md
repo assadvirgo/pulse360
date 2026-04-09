@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Domestically and internationally, the effects of the war will be felt
   for years to come.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-08T21:01:37Z'
