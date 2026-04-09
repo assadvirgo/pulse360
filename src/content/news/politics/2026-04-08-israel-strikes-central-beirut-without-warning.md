@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli attacks pound central Beirut after Iran ceasefire, killing dozens
   and wounding hundreds, officials say.
-displayOrder: 6
+displayOrder: 26
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-08T15:01:54Z'

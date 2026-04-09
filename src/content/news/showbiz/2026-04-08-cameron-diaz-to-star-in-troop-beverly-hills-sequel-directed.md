@@ -5,7 +5,7 @@ countryCode: US
 description: It&#8217;s Cookie Time! Cameron Diaz is set to star in a sequel to the
   hit 80s comedy &#8220;Troop Beverly Hills,&#8221; directed by Clea DuVall. The new
   movie is in development…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-08T19:52:16Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Bombardment prompted Iran to halt passage of oil tankers through Strait
   of Hormuz
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-08T19:36:44Z'

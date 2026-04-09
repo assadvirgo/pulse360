@@ -5,7 +5,7 @@ countryCode: US
 description: Unionized staff at ProPublica, one of the country's leading nonprofit
   newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the
   public to honor a digital…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-04-08T11:53:28Z'

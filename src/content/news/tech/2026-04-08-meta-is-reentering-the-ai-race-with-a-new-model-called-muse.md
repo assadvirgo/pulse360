@@ -5,7 +5,7 @@ countryCode: US
 description: Meta Superintelligence Labs is launching its first model since Mark Zuckerberg
   spent billions overhauling the company's AI efforts. Called Muse Spark, the model
   now powers the…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-08T16:12:54Z'

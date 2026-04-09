@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Several strikes reported across the Gulf region hours after the US and
   Iran announce a ceasefire for two weeks.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 71.5
 pubDate: '2026-04-08T10:43:30Z'

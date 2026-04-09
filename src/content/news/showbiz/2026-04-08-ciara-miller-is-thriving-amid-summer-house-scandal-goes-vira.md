@@ -5,7 +5,7 @@ countryCode: US
 description: The reality star subtly addressed the controversy surrounding her co-stars
   — ex West Wilson and friend Amanda Batula — and their new relationship at the 'Euphoria'
   season three…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-08T19:30:27Z'

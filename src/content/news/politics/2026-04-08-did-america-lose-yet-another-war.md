@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The war on Iran has repeated the failures of past US conflicts defined
   by hubris and ignorance.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-08T14:57:19Z'

@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Several strikes reported across the Gulf region hours after the US and
   Iran announce a ceasefire for two weeks.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-08T10:43:30Z'

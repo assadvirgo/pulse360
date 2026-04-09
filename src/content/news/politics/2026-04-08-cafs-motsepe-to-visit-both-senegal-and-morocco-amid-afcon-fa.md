@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Senegal, who were stripped of the AFCON title, are appealing the decision
   for the trophy to be awarded to Morocco.
-displayOrder: 16
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-08T14:51:22Z'

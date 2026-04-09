@@ -5,7 +5,7 @@ countryCode: US
 description: 'Peter Dinklage has joined the cast of FX&#8217;s &#8220;Alien: Earth&#8221;
   Season 2, Variety has confirmed. While his character details are still kept under
   wraps, the…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-08T20:07:35Z'

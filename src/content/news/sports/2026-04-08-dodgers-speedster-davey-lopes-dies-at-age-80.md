@@ -5,7 +5,7 @@ countryCode: US
 description: Davey Lopes, a speedy four-time All-Star who won the World Series with
   the Dodgers in 1981, died Wednesday at the age of 80 after a battle with Parkinson's
   disease.
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-08T20:47:55Z'

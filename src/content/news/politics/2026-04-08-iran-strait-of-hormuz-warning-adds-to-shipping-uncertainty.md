@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Only a few vessels have crossed the strait since the US-Iran ceasefire
   deal, according to BBC Verify analysis.
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 79.2
 pubDate: '2026-04-08T17:21:31Z'

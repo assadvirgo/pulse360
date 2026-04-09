@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Halifax reports market slowdown as mortgage rates rise
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-08T08:33:13Z'
