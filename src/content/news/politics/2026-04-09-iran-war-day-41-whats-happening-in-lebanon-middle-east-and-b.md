@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon has declared a national day of mourning after Israeli attacks
   killed at least 254 people in a single day.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-09T06:32:44Z'

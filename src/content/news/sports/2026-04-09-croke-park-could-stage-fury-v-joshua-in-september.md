@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Talks are under way for Tyson Fury and Anthony Joshua's long-awaited
   heavyweight fight to be staged in Dublin in September.
-displayOrder: 11
+displayOrder: 30
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-09T10:48:07Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Fury, who returns to the ring against Makhmudov on Saturday, says he
   wants to face his compatriot Joshua next.
-displayOrder: 10
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-09T08:39:50Z'

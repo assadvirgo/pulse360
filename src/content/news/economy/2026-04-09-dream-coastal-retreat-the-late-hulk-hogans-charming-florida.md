@@ -5,7 +5,7 @@ countryCode: US
 description: Hulk Hogan’s waterfront Florida “cottage” has been put on the market
   for $4.5 million, just two months after his primary residence—where he died in July
   2025—was listed for just…
-displayOrder: 29
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-09T09:04:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president has lashed out at European partners for declining to
   contribute military forces to the war on Iran.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-08T21:47:23Z'

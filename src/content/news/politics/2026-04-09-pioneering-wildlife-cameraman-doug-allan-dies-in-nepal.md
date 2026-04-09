@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: The cameraman and photographer won eight Emmy Awards for his work on
   acclaimed series like Blue Planet alongside Sir David Attenborough.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-09T01:01:26Z'

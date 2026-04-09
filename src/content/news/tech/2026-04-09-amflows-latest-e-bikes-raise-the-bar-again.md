@@ -3,7 +3,7 @@ category: Tech
 description: Amflow, the e-bike brand spun out of DJI, is back with two impressive
   electric mountain bike ranges built around its incredibly dense Avinox motors. The
   e-MTBs aim to break the…
-displayOrder: 8
+displayOrder: 28
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-09T08:30:02Z'

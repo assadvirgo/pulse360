@@ -5,7 +5,7 @@ countryCode: FR
 description: Ego Productions, the French premium label within the Mediawan Group,
   and Seoul-based Flix Oven have signed a memorandum of understanding to jointly develop
   and produce films and…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-09T08:00:43Z'

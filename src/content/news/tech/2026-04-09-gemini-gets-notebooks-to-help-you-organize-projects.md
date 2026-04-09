@@ -5,7 +5,7 @@ countryCode: US
 description: Google's Gemini is getting a feature called "notebooks" to help you organize
   things about certain topics in a single place while using the AI chatbot, the company
   announced on…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-09T00:06:12Z'

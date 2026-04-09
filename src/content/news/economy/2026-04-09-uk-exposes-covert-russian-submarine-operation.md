@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Defence secretary says mission was monitored ‘24-7’ by British warships
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-09T11:05:27Z'
