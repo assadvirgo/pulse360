@@ -2,7 +2,7 @@
 category: Politics
 description: Armed men have raided Maghazi refugee camp in central Gaza, apparently
   with support from the Israeli army.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-08T17:10:19Z'

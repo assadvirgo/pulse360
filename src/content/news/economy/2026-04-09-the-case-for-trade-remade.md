@@ -2,7 +2,7 @@
 category: Economy
 description: There are good reasons to believe it is likely to follow the rewiring
   of global finance earlier this century
-displayOrder: 36
+displayOrder: 41
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-09T04:00:16Z'

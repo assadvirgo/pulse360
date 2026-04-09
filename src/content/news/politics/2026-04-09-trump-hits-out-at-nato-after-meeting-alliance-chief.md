@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump has repeated his criticism of NATO after holding talks with
   the alliance's secretary general in Washington.
-displayOrder: 21
+displayOrder: 26
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-09T01:40:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Two-time Oscar winner George Clooney has responded to a catty
   White House statement following the actor/director/producer/writer&#8217;s public
   accusation that Donald…'
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 81.0
 pubDate: '2026-04-08T22:08:20Z'

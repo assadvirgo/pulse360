@@ -4,7 +4,7 @@ country: Burkina Faso
 countryCode: BF
 description: Few heads of state command a cult following like the youngest world leader
   and military ruler of Burkina Faso, President Ibrahim Traor&#233;.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-08T20:13:00Z'

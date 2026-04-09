@@ -5,7 +5,7 @@ countryCode: US
 description: The popular open source VPN maker is the second high-profile developer
   to say Microsoft locked his account without notifying him and is blocking their
   ability to send software…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-08T21:50:41Z'

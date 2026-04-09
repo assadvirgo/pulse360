@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Institutional investors are pivoting toward the “picks and shovels” of
   the power sector — and opening a new frontier for AI-driven growth.
-displayOrder: 45
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-08T19:42:00Z'

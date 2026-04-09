@@ -5,7 +5,7 @@ countryCode: US
 description: “Beef” creator Lee Sung Jin didn’t think twice before agreeing to work
   on the latest script for the upcoming &#8220;X-Men&#8221; reboot. “No matter how
   much you got going on, you…
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-09T04:42:28Z'

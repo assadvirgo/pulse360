@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Constellation Brands withdrew its previously issued fiscal 2028 outlook
   on Wednesday and reported "subdued" demand across its categories.
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-08T22:48:45Z'

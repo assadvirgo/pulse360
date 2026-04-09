@@ -5,7 +5,7 @@ countryCode: US
 description: 'James Gunn&#8217;s plan to add more star power to his &#8220;Superman&#8221;
   sequel, &#8220;Man of Tomorrow,&#8221; continues: the DC Studios co-chief is currently
   casting the…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-08T23:32:34Z'
