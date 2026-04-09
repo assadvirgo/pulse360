@@ -5,7 +5,7 @@ countryCode: US
 description: If there's one thing I know about Microsoft after covering the company
   for more than 20 years, it's that it will always respond to a competitive threat.
   Apple's MacBook Air…
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-09T16:00:00Z'

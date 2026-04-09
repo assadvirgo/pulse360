@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount said today it’s successfully completed the syndication of a
   previously disclosed bridge facility and entered into permanent financing transactions
   with a group of 18…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-09T15:20:15Z'

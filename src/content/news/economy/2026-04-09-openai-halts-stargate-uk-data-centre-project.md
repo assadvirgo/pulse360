@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Company blames high energy costs and regulatory uncertainty in blow to
   Starmer’s effort to build ‘sovereign’ AI
-displayOrder: 34
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-09T11:38:31Z'

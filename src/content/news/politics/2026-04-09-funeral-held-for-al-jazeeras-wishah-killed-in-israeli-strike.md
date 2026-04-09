@@ -2,7 +2,7 @@
 category: Politics
 description: More than 260 journalists have been killed by Israel in Gaza since the
   start of the genocide in October 2023.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-09T11:54:24Z'

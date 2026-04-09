@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It’s OK to postpone saving for college until you have these 4 financial
   priorities under control
-displayOrder: 35
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-09T15:04:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Evidence on white-collar work displacement is beginning to match the
   theory
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-09T11:30:03Z'

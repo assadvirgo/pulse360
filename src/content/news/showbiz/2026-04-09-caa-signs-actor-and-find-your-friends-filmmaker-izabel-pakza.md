@@ -5,7 +5,7 @@ countryCode: US
 description: CAA has signed Iranian-Greek American filmmaker, writer and actress Izabel
   Pakzad for representation. The signing comes as Pakzad&#8217;s feature directorial
   debut, &#8220;Find…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-09T15:55:00Z'

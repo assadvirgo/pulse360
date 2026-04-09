@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Traders wary that traffic through the Strait of Hormuz is still restricted.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-09T08:20:00Z'

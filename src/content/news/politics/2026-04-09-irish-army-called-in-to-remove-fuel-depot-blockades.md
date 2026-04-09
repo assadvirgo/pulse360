@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: The Irish government has asked the army to help remove vehicles blocking
   fuel depots as protests entered a third day.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-04-09T10:55:00Z'

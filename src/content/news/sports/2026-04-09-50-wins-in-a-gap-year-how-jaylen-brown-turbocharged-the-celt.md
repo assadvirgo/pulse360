@@ -5,7 +5,7 @@ countryCode: US
 description: Between memorizing the astrological signs of his teammates and undergoing
   extreme underwater training, Brown didn't need to be a hero in Boston. He simply
   needed to lead. "I'm not…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-09T12:41:28Z'

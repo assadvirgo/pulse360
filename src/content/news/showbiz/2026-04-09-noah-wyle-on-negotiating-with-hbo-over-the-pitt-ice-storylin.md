@@ -5,7 +5,7 @@ countryCode: US
 description: '&#160;Noah Wyle really loves Hollywood. The actor, a third-generation
   Angelino, grew up just north of Hollywood Boulevard and has taken thousands of steps
   over the stars on the…'
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-09T15:30:00Z'

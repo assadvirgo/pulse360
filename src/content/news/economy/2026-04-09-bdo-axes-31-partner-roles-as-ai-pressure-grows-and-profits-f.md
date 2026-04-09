@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Move comes amid downturn for professional services after hiring spree
   during pandemic
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-09T06:55:21Z'
