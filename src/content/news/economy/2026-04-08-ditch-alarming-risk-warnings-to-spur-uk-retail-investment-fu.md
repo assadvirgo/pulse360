@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Trials show more balanced messages boost share of wealth in equities
-displayOrder: 22
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-08T23:01:01Z'

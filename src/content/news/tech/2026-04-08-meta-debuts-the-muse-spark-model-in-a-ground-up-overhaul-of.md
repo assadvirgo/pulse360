@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: This is the first model Meta has released under its Superintelligence
   Labs, led by former ScaleAI CEO Alexandr Wang.
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-08T18:53:19Z'

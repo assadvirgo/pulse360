@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says war in Lebanon is &#039;separate skirmish&#039; as
   Israel kills dozens across the country after regional truce.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 86.5
 pubDate: '2026-04-08T15:40:30Z'

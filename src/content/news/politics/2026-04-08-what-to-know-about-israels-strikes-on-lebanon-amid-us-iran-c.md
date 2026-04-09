@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel unleashed a massive bombardment on Israel a day after the US and
   Iran reached a ceasefire agreement.
-displayOrder: 8
+displayOrder: 13
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-08T21:20:03Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon&#039;s PM Nawaf Salam expressed optimism in de-escalation hours
   after Tehran and Washington struck a ceasefire deal.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-08T17:03:56Z'

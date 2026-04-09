@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: National Wealth Fund gave Gigaclear £240mn guarantee three years ago
   and is now the biggest shareholder
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-08T18:42:13Z'

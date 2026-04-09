@@ -5,7 +5,7 @@ countryCode: US
 description: Happy ceasefire day and welcome to Regulator, a newsletter for Verge
   subscribers about Big Tech's rocky journey through the world of politics. If you're
   not a subscriber yet, you…
-displayOrder: 19
+displayOrder: 26
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-08T20:14:00Z'

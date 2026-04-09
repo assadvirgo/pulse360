@@ -5,7 +5,7 @@ countryCode: GB
 description: Nearly 17 years after Dyson first announced its Air Multiplier fans -
   one of its first big consumer products after vacuums - the company has miniaturized
   their design to create a…
-displayOrder: 16
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-09T00:01:00Z'

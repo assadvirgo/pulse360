@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Jos Buttler finds form at the IPL before winning the match for Gujarat
   Titans with a final-ball run-out in a remarkable one-run victory over Delhi Capitals.
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-08T18:42:07Z'

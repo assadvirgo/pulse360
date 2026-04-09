@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel carried out an unprecedented wave of attacks across Lebanon, saying
   it launched 100 air strikes in 10 minutes.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-08T15:10:52Z'

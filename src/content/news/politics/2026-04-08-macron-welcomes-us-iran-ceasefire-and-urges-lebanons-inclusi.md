@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French President Emmanuel Macron welcomed the US-Iran ceasefire as “very
   good news&quot;.
-displayOrder: 12
+displayOrder: 15
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-08T21:39:14Z'

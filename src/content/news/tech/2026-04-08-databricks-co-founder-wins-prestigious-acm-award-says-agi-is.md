@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Matei Zaharia has won the top honor from the Association for Computing
   Machinery. Now he's working on AI for research and says AGI is simply misunderstood.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-08T15:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Nick Babiarz is coming back to Ginsberg / Libby as Vice President,
   Awards. The news follows the recent announcement that partner Lee Ginsberg is exiting
   the firm to…'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-04-08T19:19:58Z'

@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: US Defense Secretary Pete Hegseth claimed a decisive victory over Iran.
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 70.5
 pubDate: '2026-04-08T15:47:24Z'

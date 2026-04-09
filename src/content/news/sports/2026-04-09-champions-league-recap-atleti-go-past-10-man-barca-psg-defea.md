@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Both Atlético Madrid and Paris Saint-Germain get 2-0 first-leg wins on
   a day of quarterfinals action in the UEFA Champions League.
-displayOrder: 20
+displayOrder: 23
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-09T00:48:21Z'

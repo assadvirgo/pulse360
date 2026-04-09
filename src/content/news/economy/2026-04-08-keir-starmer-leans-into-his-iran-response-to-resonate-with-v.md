@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Labour’s sober election pitch puts the prime minister’s handling of the
   war in the Middle East at its centre
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-08T13:27:36Z'
