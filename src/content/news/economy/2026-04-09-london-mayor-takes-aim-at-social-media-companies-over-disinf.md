@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Research published by City Hall found accounts aligned with extreme right
   are among those smearing capital online
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-09T17:03:08Z'

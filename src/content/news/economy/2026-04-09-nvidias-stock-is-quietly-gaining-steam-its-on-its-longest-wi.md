@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nvidia’s stock trades meaningfully below its 52-week high, suggesting
   to one analyst that it could see sustained gains if the AI trade comes back alive.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-09T20:58:00Z'

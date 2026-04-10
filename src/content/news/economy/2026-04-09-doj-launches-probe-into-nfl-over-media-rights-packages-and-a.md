@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Department of Justice is raising concerns about the NFL's offerings
   across various platforms and affordability of consumers.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-09T17:56:44Z'

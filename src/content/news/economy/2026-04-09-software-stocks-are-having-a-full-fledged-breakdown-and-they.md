@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A strategist notes that the sector is once again testing a technical
   support level, which increases the likelihood that it will break that support.
-displayOrder: 30
+displayOrder: 39
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-09T19:51:00Z'

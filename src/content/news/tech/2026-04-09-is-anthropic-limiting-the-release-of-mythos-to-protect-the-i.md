@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic said this week that it limited the release of its newest model,
   dubbed Mythos, because it is too capable of finding security exploits in software
   relied upon by users…
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-09T18:50:05Z'

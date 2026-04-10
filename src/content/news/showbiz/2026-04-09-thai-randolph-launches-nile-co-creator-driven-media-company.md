@@ -5,7 +5,7 @@ countryCode: US
 description: 'Entertainment industry veteran Thai Randolph has taken the wraps off
   her new venture: NILE &#38; Co., described as a content and commerce platform that
   works with &#8220;creators…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-09T20:53:09Z'

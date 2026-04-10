@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: More than 250 people have been killed in a barrage of air strikes on
   Lebanon since the ceasefire was declared.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-09T14:52:54Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Key US objectives at the start of the war were to stop Iran getting a
   nuclear weapon and degrading its arsenal.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-09T13:11:03Z'

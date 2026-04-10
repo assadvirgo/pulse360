@@ -2,7 +2,7 @@
 category: Politics
 description: Conflict upends flow of critical raw materials for manufacturing, aviation
   and technology.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-04-09T15:30:00Z'

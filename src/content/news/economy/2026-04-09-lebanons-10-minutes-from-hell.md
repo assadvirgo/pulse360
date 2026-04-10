@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A string of rapid Israeli attacks killed hundreds of people in one of
   the deadliest episodes in the country’s history
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-09T20:29:16Z'

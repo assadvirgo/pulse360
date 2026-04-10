@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Thousands gathered across Iran to honor Ali Khamenei, whose assassination
   marked the start of the US-Israeli attack.
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-09T18:23:47Z'

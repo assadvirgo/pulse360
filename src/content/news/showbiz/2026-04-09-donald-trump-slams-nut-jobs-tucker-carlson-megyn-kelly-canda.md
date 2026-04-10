@@ -5,7 +5,7 @@ countryCode: US
 description: Highlighting a rift in the right-wing political spectrum, President Donald
   Trump lashed out against four widely followed conservative influencers &#8212; Tucker
   Carlson, Megyn…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 78.8
 pubDate: '2026-04-09T21:29:07Z'

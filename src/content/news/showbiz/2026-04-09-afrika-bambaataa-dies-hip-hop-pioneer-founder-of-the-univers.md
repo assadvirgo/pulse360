@@ -5,7 +5,7 @@ countryCode: US
 description: Afrika Bambaataa, one of the progenitors of hip-hop whose breakthrough
   track “Planet Rock” helped define electro-funk and influence generations of artists,
   has died according to…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-04-09T21:22:29Z'
