@@ -5,7 +5,7 @@ countryCode: US
 description: This week's rundown of Hollywood's biggest winners and losers, from a
   beloved power couple to the "Black Snape" uproar to Warner. Bros' fan-frustrating
   flex.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-10T13:54:41Z'

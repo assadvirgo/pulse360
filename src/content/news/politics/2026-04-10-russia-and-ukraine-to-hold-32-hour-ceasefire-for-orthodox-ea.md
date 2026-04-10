@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Vladimir Putin and Volodymyr Zelenskyy have said their countries will
   hold a 32-hour ceasefire over the Orthodox Easter weekend.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-10T07:13:00Z'

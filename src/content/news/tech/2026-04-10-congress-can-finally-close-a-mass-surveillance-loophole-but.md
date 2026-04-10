@@ -5,7 +5,7 @@ countryCode: US
 description: A warrantless wiretapping authority that has facilitated surveillance
   for decades is up for renewal in Congress. Section 702 of the Foreign Intelligence
   Surveillance Act (FISA),…
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-10T15:45:00Z'

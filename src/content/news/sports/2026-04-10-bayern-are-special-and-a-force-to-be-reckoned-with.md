@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: There may be no team better prepared to win the Champions League than
   the Bundesliga leaders.
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-10T12:34:46Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: FIFA added new, even more expensive tiers of tickets for this year's
   World Cup, asking up to $4,105 for a front category 1 seat at the U.S. opener against
   Paraguay in Inglewood,…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-10T06:37:01Z'

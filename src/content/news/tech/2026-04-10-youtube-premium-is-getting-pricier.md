@@ -5,7 +5,7 @@ countryCode: US
 description: YouTube Premium is getting more expensive in the US, with prices rising
   by $2 on standard individual accounts and as much as $4 for the family plan. The
   price hike is already in…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-10T11:23:06Z'

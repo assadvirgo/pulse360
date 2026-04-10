@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Stefano Gabbana, the co-founder of Italian luxury fashion house Dolce
   & Gabbana, stepped down as the brand's chairman.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-10T10:10:00Z'

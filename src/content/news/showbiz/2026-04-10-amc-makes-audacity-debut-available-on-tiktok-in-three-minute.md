@@ -5,7 +5,7 @@ countryCode: US
 description: You don’t need to be a tech mogul to watch “The Audacity,” the new AMC&#160;drama
   that tells the story of a Silicon Valley guru who must navigate his way around a
   consumer data…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 66.8
 pubDate: '2026-04-10T14:49:01Z'

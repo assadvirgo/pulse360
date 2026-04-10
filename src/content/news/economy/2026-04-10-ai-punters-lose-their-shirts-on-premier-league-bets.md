@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Models by Google, OpenAI, Anthropic and xAI struggle when asked to predict
   scores over football season
-displayOrder: 30
+displayOrder: 45
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-10T11:50:17Z'

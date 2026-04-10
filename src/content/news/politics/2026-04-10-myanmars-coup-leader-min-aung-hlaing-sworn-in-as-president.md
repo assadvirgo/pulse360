@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: Min Aung Hlaing seeks to &#039;enhance&#039; international relations
   and ties with ASEAN after coup plunged Myanmar into chaos.
-displayOrder: 8
+displayOrder: 29
 heroImage: ''
 importance: 80.5
 pubDate: '2026-04-10T07:36:09Z'

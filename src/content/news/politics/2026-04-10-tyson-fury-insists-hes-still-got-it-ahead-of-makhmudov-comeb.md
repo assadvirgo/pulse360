@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: While eyeing a fight with Anthony Joshua, Fury first faces a Russian-born
   heavyweight who wrestled a bear for fun.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-10T06:15:37Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Laurel Pecchia is expanding her role at Lionsgate with a promotion to
   Senior Vice President, Corporation Communications. Pecchia joined the studio in
   June 2022 as Vice President,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-10T16:00:00Z'

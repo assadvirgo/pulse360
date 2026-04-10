@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Myles Lewis-Skelly and Ethan Nwaneri are among five players who could
   be allowed to leave Arsenal. Transfer Talk has the latest.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-10T09:10:12Z'
