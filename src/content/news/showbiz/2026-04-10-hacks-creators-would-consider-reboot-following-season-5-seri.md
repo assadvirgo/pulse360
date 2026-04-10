@@ -5,7 +5,7 @@ countryCode: US
 description: Don&#8217;t count out a &#8220;Hacks&#8221; reboot just yet. When asked
   about the possibility of coming back for one, Hannah Einbinder told Variety, &#8220;Of
   course I would. Any…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-10T03:19:33Z'

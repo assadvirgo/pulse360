@@ -5,7 +5,7 @@ countryCode: US
 description: As Malcolm in the Middle returns after 20 years, creator Linwood Boomer
   and his wife/executive producer Tracy Katsky had plenty of family moments to look
   back on for inspiration.…
-displayOrder: 7
+displayOrder: 26
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-10T04:30:00Z'

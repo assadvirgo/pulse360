@@ -5,7 +5,7 @@ countryCode: US
 description: The consumer protection agency says the company violated the FTC Act
   and its Rule on Unfair or Deceptive Fees by "deceptively" advertising ticket prices
   on its website without…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-09T20:04:12Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: A Medical student was holding onto hopes of being a doctor, when the
   Gaza war caused restriction on attaining education.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-09T21:16:52Z'

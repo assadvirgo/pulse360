@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: In a statement read out on television, Mojtaba Khamenei said Tehran will
   &#039;demand compensation&#039; for war damages.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-09T20:16:45Z'

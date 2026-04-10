@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lucy Powell, an ally of Andy Burnham, says party members would take ‘dim
   view’ of challenge despite looming election losses
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-10T04:00:33Z'

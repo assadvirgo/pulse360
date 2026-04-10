@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: A Pakistan-brokered US-Iran ceasefire has taken effect but disputes over
   its scope are fuelling regional tensions.
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-10T06:14:38Z'

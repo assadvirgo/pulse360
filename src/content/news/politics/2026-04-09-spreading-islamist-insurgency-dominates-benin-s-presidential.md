@@ -4,7 +4,7 @@ country: Benin
 countryCode: BJ
 description: Cross-border raids from militant Islamists are increasingly threatening
   the West African state's stability.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-09T23:02:13Z'
