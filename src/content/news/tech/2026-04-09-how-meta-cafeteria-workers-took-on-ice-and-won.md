@@ -5,7 +5,7 @@ countryCode: US
 description: In Seattle, activists inside tech giants are leaning into grassroots
   fundraising and peer support as petitions and protests draw little response from
   executives.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-09T11:00:00Z'

@@ -5,7 +5,7 @@ countryCode: CL
 description: 'EXCLUSIVE: Chilean director Manuela Martelli will make her Cannes Official
   Selection debut this May as with her second feature Meltdown premiering in Un Certain
   Regard, and…'
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 70.0
 pubDate: '2026-04-09T19:44:40Z'

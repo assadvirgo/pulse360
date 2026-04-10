@@ -3,7 +3,7 @@ category: Tech
 description: If you make a mistake in an Instagram comment, you can now finally fix
   it without having to delete the comment and make it again. On Thursday, Instagram
   announced that users can…
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-09T19:20:46Z'

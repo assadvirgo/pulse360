@@ -2,7 +2,7 @@
 category: Politics
 description: Mourners gathered for the funeral of Al Jazeera Mubasher journalist Mohammed
   Wishah in in Gaza.
-displayOrder: 17
+displayOrder: 22
 heroImage: ''
 importance: 64.5
 pubDate: '2026-04-09T15:41:48Z'

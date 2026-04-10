@@ -5,7 +5,7 @@ countryCode: US
 description: 'In recent months, some cities have sought a new recruit in their forever
   war against potholes: Waymo. Municipal officials in multiple cities where Waymo
   operates have reached out…'
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-09T13:00:00Z'

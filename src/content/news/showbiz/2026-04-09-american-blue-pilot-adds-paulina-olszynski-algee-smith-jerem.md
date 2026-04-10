@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: HBO Max&#8217;s American Blue pilot continues to build its
   series regular cast with the addition of Paulina Olszynski (Best Thing), Algee Smith
   (Euphoria), Jeremy Bobb…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-09T20:00:00Z'

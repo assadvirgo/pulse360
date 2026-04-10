@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A small electric SUV is reportedly in the early stages of development
   at Tesla, after years without a new product launch.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-09T17:32:00Z'

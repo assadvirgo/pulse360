@@ -3,7 +3,7 @@ category: Showbiz
 description: Global sales and distribution company Filmhub has acquired the rights
   to &#8220;Burt,&#8221; a micro-indie dramedy about an estranged father and son navigating
   Parkinson&#8217;s…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-09T18:15:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wall Street still has various questions about CoreWeave’s expanded Meta
   partnership and the company’s financing plans.
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-09T19:43:00Z'
