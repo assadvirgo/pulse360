@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Senegalese prime minister Ousmane Sonko accused Donald Trump of plunging
   the world into “chaos”.
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-10T09:45:28Z'

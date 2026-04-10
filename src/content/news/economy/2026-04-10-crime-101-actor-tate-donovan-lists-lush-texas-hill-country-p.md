@@ -5,7 +5,7 @@ countryCode: US
 description: Hollywood actor and former “Friends” star Tate Donovan is selling the
   beautiful Texas property he has owned for the last decade, listing it for just a
   hair under $1.7 million.
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-10T09:02:00Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: Good afternoon Insiders, Max Goldbart here bringing you the latest from
   Cannes lineup week plus plenty more. Read on. And sign up here. Cannes Unveils 2026
   Selection But Keeps Biz…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-10T12:00:00Z'

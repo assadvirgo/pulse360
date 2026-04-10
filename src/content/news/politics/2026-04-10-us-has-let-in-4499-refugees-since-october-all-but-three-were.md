@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump has given priority to Afrikaners, a white minority group he says
   is being persecuted. South Africa has objected to his characterisation.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-10T08:28:12Z'

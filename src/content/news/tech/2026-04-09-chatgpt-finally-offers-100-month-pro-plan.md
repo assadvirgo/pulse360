@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'OpenAI announced on Thursday something that power users have been asking
   for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.'
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-09T21:29:11Z'

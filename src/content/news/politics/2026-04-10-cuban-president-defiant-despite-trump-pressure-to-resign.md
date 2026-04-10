@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Miguel Diaz-Canel vows to resist US pressure as Trump escalates threats,
   tightens oil blockade on the island.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-10T11:34:14Z'

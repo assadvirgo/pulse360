@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Vladimir Putin announced the truce, which will last from Saturday afternoon
   through Easter Sunday.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-10T11:56:12Z'

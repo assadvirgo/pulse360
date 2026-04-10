@@ -5,7 +5,7 @@ countryCode: GB
 description: BAFTA has apologized &#8220;unreservedly&#8221; to the Black and disabled
   communities over the N-word debacle, having identified &#8220;a number of structural
   weaknesses&#8221; in…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-10T10:06:48Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Donald Trump irate at France and Spain’s refusal to authorise use of
   military facilities
-displayOrder: 32
+displayOrder: 48
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-10T04:00:32Z'

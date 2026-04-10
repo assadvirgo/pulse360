@@ -5,7 +5,7 @@ countryCode: IT
 description: An investigative documentary titled “All the Evil in the World&#8221;
   — about the murder of leftist Italian graduate student Giulio Regeni, who in 2016
   was tortured to death in…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-10T12:15:45Z'

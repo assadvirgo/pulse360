@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinian journalist Muath Amarne said his prosthetic eye fell out
   after an infection while in Israeli detention.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-10T05:00:51Z'

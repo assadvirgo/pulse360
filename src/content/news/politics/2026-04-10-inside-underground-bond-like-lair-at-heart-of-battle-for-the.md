@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: In Norway's High North, buried deep inside a mountain, sits a Bond-like
   lair.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-10T07:45:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Four food-supply chokeholds are squeezing investor portfolios. Here’s
   what to do before your grocery bill proves it in October.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-04-10T00:29:00Z'

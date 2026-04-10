@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon is seeing not just a displacement crisis but a rapidly developing
   food security crisis too, says UN.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-10T10:17:16Z'

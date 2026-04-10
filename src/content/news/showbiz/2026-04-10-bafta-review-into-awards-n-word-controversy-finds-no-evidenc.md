@@ -5,7 +5,7 @@ countryCode: GB
 description: BAFTA has revealed the outcome of the independent review into the N-word
   controversy that erupted at its recent film awards on Feb. 22., which it said revealed
   a &#8220;number of…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-10T10:07:09Z'
