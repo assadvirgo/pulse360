@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The BBC has been able to obtain testimony from parents and those trying
   to help children deal with the distress that comes with war.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-09T16:06:39Z'

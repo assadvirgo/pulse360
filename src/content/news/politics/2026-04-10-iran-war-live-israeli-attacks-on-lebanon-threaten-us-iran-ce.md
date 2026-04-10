@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran’s parliament speaker Mohammad Bagher Ghalibaf warns ‘time is running
   out’ amid Israel’s attacks on Lebanon.
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-10T00:00:00Z'

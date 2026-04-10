@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Residents in Sidon are surveying the destruction after Israeli strikes
   flattened a religious complex.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-09T17:37:15Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Producer price index for the world’s dominant manufacturer turns positive
   year-on-year for the first time since 2022
-displayOrder: 23
+displayOrder: 30
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-10T04:08:23Z'

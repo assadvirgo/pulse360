@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Crime and corruption are top issues for voters as the country struggles
   to cope with persistent political instability.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-09T15:52:12Z'

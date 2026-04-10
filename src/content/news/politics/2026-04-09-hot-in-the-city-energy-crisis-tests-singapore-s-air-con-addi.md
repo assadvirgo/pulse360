@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: The rise in energy prices has hit Asia particularly hard as many nations
   are heavily reliant on Gulf oil.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-09T22:03:15Z'

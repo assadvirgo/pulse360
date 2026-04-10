@@ -5,7 +5,7 @@ countryCode: US
 description: Florida Attorney General James Uthmeier is launching an investigation
   into OpenAI over public safety and national security risks, as reported earlier
   by Reuters. In a statement on…
-displayOrder: 18
+displayOrder: 27
 heroImage: ''
 importance: 60.2
 pubDate: '2026-04-09T22:17:06Z'

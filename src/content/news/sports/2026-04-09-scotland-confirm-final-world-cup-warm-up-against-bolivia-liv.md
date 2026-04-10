@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Scotland confirm a friendly against Bolivia in Harrison, New Jersey on
   6 June as their final warm-up game before this summer's World Cup finals.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 70.2
 pubDate: '2026-04-09T14:09:16Z'

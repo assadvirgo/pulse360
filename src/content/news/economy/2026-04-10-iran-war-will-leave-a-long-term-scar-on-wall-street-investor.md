@@ -2,7 +2,7 @@
 category: Economy
 description: Commodity prices and bond yields unlikely to return to pre-conflict levels
   quickly
-displayOrder: 11
+displayOrder: 18
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-10T04:00:32Z'

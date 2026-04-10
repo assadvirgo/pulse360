@@ -5,7 +5,7 @@ countryCode: US
 description: Eligibility rulings for three Broadway productions are now set as the
   Tony Awards race gets underway. The administration committee clarified key category
   placements that could…
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-09T23:24:22Z'

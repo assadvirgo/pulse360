@@ -5,7 +5,7 @@ countryCode: US
 description: The Wild signed a defenseman named Viking Gustafsson Nyberg, a former
   UConn standout who signed a two-year, entry-level contract that begins with the
   current season.
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-09T20:49:55Z'

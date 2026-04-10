@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Doctors warn of worsening crises as vital supplies run low and Israeli
   attacks devastate Beirut and surrounding areas.
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-09T21:36:43Z'
