@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Euphoria&#8221; creator Sam Levinson focused much of the HBO
   series&#8217; third season around Fezco, the character played by Angus Cloud, before
   the actor&#8217;s death…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-10T16:10:56Z'

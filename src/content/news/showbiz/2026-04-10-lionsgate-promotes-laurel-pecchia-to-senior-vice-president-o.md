@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lionsgate has promoted Laurel Pecchia to the tole of senior vice president
   of corporate communications, Variety has learned. In her role, she helps lead Lionsgate&#8217;s…
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 67.8
 pubDate: '2026-04-10T16:00:00Z'

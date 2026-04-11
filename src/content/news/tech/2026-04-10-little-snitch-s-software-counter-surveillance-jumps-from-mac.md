@@ -3,7 +3,7 @@ category: Tech
 description: The popular macOS app Little Snitch brought its network-monitoring tools
   over to Linux this week. In a blog post announcing the launch, one of the developers
   at Objective…
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-10T16:57:55Z'

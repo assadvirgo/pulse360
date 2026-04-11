@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Dutch police have warned that dozens of women and girls were coerced
   into degrading sexual acts on camera in several countries.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-10T13:24:03Z'

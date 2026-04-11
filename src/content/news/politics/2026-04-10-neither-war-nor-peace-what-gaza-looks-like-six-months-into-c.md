@@ -2,7 +2,7 @@
 category: Politics
 description: Following October 2025 agreement, attacks continue, aid is insufficient
   and regional conflicts deepen instability.
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-10T13:17:37Z'

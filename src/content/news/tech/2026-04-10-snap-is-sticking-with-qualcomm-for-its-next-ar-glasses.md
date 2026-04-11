@@ -5,7 +5,7 @@ countryCode: US
 description: Snap's upcoming consumer AR glasses are still set to launch sometime
   this year, and they'll be powered by a Snapdragon XR chip from Qualcomm, according
   to an announcement of a…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-10T12:00:00Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: Sunny Side of the Doc, the international documentary marketplace held
   in La Rochelle, France, has announced the first speakers for its upcoming 2026 edition.
   The 37th SSD, running…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-10T18:56:26Z'

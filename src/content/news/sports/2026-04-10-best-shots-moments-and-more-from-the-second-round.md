@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The first golf major of the year continues Friday as the Masters enters
   its second round.
-displayOrder: 19
+displayOrder: 24
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-10T20:00:06Z'

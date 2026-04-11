@@ -5,7 +5,7 @@ countryCode: US
 description: In a double-overtime classic, Denver's Kent Anderson scored the winning
   goal to stun Michigan 4-3 and send the Pioneers to Saturday's Frozen Four title
   game against Wisconsin.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-10T16:38:15Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Chrysler Pacifica — the brand's last standing model — is expected
   to grow in sales, according to Chrysler and Dodge CEO Matt McAlear.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-04-10T16:06:31Z'

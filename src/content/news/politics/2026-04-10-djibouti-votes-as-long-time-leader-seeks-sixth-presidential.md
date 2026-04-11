@@ -4,7 +4,7 @@ country: Djibouti
 countryCode: DJ
 description: Politicians scrapped the presidential age limit last year, allowing Ismail
   Omar Guelleh to run yet again.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-10T08:30:59Z'

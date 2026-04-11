@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: At least nine of the 14 or so vessels to have transited chokepoint since
   the pause in fighting have ties to Tehran
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-10T18:05:48Z'
