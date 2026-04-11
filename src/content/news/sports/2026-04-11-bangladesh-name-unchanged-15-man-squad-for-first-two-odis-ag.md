@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: Five players in Bangladesh's ODI squad are currently involved in the
   PSL in Pakistan, but are expected to link up with the squad soon
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-11T06:42:25Z'

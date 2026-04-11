@@ -5,7 +5,7 @@ countryCode: US
 description: Lakers coach JJ Redick believes other West teams that still have their
   seeding to be determined prefer Los Angeles as their first-round opponent in the
   playoffs.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-11T15:40:10Z'

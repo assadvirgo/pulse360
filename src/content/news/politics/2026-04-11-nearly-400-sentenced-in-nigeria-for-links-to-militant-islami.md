@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Judges handed down sentences ranging from five years to life imprisonment
   following mass trials.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-11T14:41:31Z'

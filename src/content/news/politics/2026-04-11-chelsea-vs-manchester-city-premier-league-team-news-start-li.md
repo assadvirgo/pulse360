@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Second-placed Manchester City travel to Chelsea as the Premier League
   title race approaches crunch time.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-11T07:16:05Z'

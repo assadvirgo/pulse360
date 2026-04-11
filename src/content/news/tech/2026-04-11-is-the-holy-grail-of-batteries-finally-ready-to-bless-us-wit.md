@@ -5,7 +5,7 @@ countryCode: FI
 description: 'Earlier this year, a relatively unknown startup from Finland made a
   startling announcement: It had finally solved solid-state batteries. Not only that,
   but Donut Lab, a spinoff of…'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-11T11:00:00Z'

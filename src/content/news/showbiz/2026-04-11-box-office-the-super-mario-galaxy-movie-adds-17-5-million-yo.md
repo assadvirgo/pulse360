@@ -5,7 +5,7 @@ countryCode: US
 description: It’s a “Super Mario World,” and we’re just living in it. Universal and
   Illumination’s “Super Mario Galaxy Movie” led the box office again on its second
   Friday in North American…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-11T15:53:11Z'

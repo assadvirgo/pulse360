@@ -5,7 +5,7 @@ countryCode: GB
 description: After creator Sam Levinson chimed in on the Euphoria composer&#8217;s
   exit, Labrinth is setting the record straight once again. Ahead of the HBO series&#8217;
   Season 3 premiere on…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-11T15:48:58Z'

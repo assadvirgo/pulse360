@@ -5,7 +5,7 @@ countryCode: US
 description: Everything in the movie, from the chomping shark attacks that churn up
   the splashing water with Hawaiian Punch foam to the way that a humungous great white
   meets her fate at the…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-11T04:51:19Z'

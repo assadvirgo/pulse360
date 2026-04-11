@@ -2,7 +2,7 @@
 category: Politics
 description: An early-morning strike hits a group of civilians in ​​Bureij camp as
   drones attack a tent in Khan Younis.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-11T08:35:13Z'
