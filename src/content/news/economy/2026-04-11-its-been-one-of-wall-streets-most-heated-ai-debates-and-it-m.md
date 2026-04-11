@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Are copper cables or optical components best positioned to support the
   AI-networking boom? An analyst sees room for both technologies to win big.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 40.5
 pubDate: '2026-04-11T11:30:00Z'

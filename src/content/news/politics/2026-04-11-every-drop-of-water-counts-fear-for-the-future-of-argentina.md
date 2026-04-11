@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: A controversial law to remove protections for the country's glaciers
   has passed, opening the doors for mining.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-11T02:02:56Z'

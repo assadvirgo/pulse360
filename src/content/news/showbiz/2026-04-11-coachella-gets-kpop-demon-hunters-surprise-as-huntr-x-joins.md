@@ -5,7 +5,7 @@ countryCode: US
 description: Coachella attendees who turned out to watch Katseye perform got a &#8220;Golden&#8221;
   treat when the singers behind Huntr/x — Ejae (Rumi), Audrey Nuna (Mira), and Rei
   Ami (Zoey)…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-11T03:24:00Z'

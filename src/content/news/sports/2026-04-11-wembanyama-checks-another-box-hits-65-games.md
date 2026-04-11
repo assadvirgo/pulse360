@@ -5,7 +5,7 @@ countryCode: US
 description: Victor Wembanyama reached the 65-game threshold for awards eligibility
   on Friday with a 40-point outing that included 13 rebounds in a 139-120 win over
   the Dallas Mavericks.
-displayOrder: 17
+displayOrder: 39
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-11T06:35:32Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Two-time WNBA scoring champion Brittney Griner is finalizing a seven-figure
   deal to join the Connecticut Sun, sources confirmed to ESPN's Alexa Philippou on
   Friday.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-11T06:35:32Z'

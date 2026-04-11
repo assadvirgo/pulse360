@@ -5,7 +5,7 @@ countryCode: US
 description: The OpenAI CEO covers a lot of ground in the personal blog post, shared
   Friday afternoon, by opening up on Ronan Farrow and Andrew Marantz’s investigation
   and reliving his past…
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-11T03:07:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: For years, rumours swirled about who could be behind the bodies that
   washed up on the shores of Gilgo Beach.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-11T01:19:55Z'

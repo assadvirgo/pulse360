@@ -5,7 +5,7 @@ countryCode: US
 description: Rory McIlroy closed with six birdies over his last seven holes to finish
   at 7-under 65 and push his lead to six shots on Friday, the largest at the Masters
   after 36 holes.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-11T04:48:34Z'

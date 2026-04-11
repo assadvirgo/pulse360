@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Saudi Arabia and Qatar have both suffered significant damage to production
   capacity during the US-Israeli war against Iran
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-11T04:00:50Z'
