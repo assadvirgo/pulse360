@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A senior Lebanese official earlier told the BBC that Lebanon would only
   take part in talks if a ceasefire was in place.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-10T22:43:03Z'

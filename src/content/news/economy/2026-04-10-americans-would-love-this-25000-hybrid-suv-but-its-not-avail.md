@@ -5,7 +5,7 @@ countryCode: US
 description: Chinese vehicles may not be for sale in the U.S. yet, but they’re already
   getting positive reviews. “Other automakers should be paying attention,” said a
   vehicle-test editor at…
-displayOrder: 35
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-10T21:19:00Z'

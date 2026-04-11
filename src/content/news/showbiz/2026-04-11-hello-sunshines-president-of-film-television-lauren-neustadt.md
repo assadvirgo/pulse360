@@ -5,7 +5,7 @@ countryCode: US
 description: With the second season of Apple TV and Hello Sunshine’s The Last Thing
   He Told Me drama series drawing to a close today, it only made sense that Deadline
   got to chat via phone…
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-11T02:04:32Z'

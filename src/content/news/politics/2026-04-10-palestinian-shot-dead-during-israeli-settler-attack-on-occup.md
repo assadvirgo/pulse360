@@ -2,7 +2,7 @@
 category: Politics
 description: The killing came as ex-security chiefs warned "government sponsored Jewish
   terrorism" was out of control.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-10T17:08:27Z'

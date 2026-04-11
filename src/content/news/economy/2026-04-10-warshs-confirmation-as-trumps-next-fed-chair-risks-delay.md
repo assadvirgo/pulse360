@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sluggish process could leave Jay Powell at helm of central bank despite
   US president’s push for policy reset
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-10T21:56:42Z'

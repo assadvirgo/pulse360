@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bath come from 21 points down to beat Prem leaders Northampton 43-41
   and reach the semi-finals of the Champions Cup in an incredible clash at the Rec.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-10T21:02:19Z'

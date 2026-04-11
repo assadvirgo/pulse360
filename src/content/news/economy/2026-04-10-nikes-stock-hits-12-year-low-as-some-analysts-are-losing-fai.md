@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nike’s chief innovation officer is leaving, just as analysts worry whether
   the execution of the company’s turnaround needs an outside perspective.
-displayOrder: 37
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-10T20:01:00Z'

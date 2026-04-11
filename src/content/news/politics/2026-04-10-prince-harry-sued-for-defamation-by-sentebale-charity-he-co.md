@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A spokesperson for Prince Harry said he &quot;categorically&quot; rejects
   the &quot;offensive and damaging&quot; libel claim.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-10T20:05:01Z'

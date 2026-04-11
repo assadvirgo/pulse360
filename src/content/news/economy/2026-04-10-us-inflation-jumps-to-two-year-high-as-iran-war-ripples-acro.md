@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Consumer sentiment sinks to record low as petrol prices post record monthly
   surge in March
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-10T17:00:25Z'

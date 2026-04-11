@@ -5,7 +5,7 @@ countryCode: US
 description: The Federal Aviation Administration (FAA) has struggled for years to
   have enough air traffic controllers to address shortages, with the US Government
   Accountability Office (GAO)…
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-10T20:50:51Z'

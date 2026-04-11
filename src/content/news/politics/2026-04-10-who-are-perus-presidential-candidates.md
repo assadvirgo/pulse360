@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Voters in Peru are heading to the polls to elect a new president and
   a new congress on Sunday. But who are they?
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-10T19:45:46Z'

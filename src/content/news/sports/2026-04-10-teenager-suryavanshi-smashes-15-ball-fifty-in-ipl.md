@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Vaibhav Suryavanshi, 15, continues his astonishing run of form in the
   IPL as Rajasthan Royals beat Royal Challengers Bengaluru by six wickets.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-10T18:48:42Z'
