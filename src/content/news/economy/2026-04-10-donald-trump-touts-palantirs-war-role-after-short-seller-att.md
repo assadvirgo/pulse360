@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president’s endorsement follows criticism from famed investor Michael
   Burry
-displayOrder: 38
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-10T17:32:53Z'

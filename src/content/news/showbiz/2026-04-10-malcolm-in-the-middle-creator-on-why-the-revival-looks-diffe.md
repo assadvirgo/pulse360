@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This article contains spoilers for &#8220;Malcolm in
   the Middle: Life&#8217;s Still Unfair&#8221; You&#8217;re not the boss of me now,
   but Linwood Boomer is still…'
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-10T23:30:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: British PM Starmer said he and US President Donald Trump discussed “military
   capabilities” to reopen Hormuz.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-10T17:03:30Z'

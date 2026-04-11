@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine&#039;s Zelenskyy previously announced that 228 Ukrainian experts
   had been deployed to the region.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-10T15:19:16Z'

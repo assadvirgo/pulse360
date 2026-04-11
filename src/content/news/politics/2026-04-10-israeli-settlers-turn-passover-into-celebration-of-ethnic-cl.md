@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinians displaced by settler violence confront loss of community
   as settlers celebrate their forced expulsions.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-10T16:56:41Z'

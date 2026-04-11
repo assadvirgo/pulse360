@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s Netanyahu accused Spain of waging a &#039;diplomatic war&#039;
   against Israel.
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-10T16:39:40Z'

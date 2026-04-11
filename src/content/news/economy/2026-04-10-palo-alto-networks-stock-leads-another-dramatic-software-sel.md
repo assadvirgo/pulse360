@@ -5,7 +5,7 @@ countryCode: US
 description: Investors seem increasingly spooked by Mythos, a forthcoming Anthropic
   model that the company has said is so powerful it could penetrate existing cyber
   defenses if it’s misused by…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-10T15:20:00Z'

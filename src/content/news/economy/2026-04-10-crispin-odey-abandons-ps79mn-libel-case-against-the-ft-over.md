@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The FT had said 15 women were willing to testify in court against former
   hedge fund boss
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-10T17:56:05Z'

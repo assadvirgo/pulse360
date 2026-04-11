@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mythos model was able to detect critical software vulnerabilities that
   were missed by legacy systems
-displayOrder: 36
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-10T21:02:35Z'

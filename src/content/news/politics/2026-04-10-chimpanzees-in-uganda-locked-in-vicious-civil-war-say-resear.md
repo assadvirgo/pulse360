@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: The once close-knit community of Ngogo chimpanzees have been at loggerheads
   for the last eight years.
-displayOrder: 19
+displayOrder: 27
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-10T16:52:55Z'

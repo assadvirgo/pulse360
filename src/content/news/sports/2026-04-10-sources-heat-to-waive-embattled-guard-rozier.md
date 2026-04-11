@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Miami guard Terry Rozier, who has been on leave since October amid a
   sports gambling probe, will be waived by the Heat on Friday, sources tell ESPN.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-10T16:38:16Z'
