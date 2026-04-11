@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: President Lula&#039;s government said it has seized 1,168 illicit arms
   imported from the US in the last 12 months alone.
-displayOrder: 14
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-10T23:39:22Z'

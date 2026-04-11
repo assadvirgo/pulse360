@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The narrative around Marvell is refocusing around the company’s optical
   business.
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-10T19:18:00Z'

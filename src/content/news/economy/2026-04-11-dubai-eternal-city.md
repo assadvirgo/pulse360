@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Why, amid the uncertainty, the city’s professional class holds an unshakeable
   belief in its resilience
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-11T04:00:21Z'

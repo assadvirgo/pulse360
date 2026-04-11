@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: As Péter Magyar's opposition movement leads in the polls, tens of thousands
   of anti-Orbán supporters fill Heroes' Square in Budapest.
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-11T00:17:18Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon will only take part in talks with Israel if a ceasefire is already
   in place, a senior official tells the BBC.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-10T19:43:42Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Accusations of rape and other misconduct against Congressman Eric Swalwell
   (D-CA) has thrown California&#8217;s already chaotic California gubernatorial&#160;race
   into unknown…
-displayOrder: 5
+displayOrder: 25
 heroImage: ''
 importance: 67.0
 pubDate: '2026-04-11T01:17:21Z'

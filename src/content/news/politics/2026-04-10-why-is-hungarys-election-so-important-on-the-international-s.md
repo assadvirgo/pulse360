@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Washington, Moscow, Kyiv and Brussels will be eagerly awaiting the outcome
   of the election.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-10T20:38:52Z'

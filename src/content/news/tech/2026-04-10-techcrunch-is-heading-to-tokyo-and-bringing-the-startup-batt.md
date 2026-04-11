@@ -5,7 +5,7 @@ countryCode: JP
 description: 'SusHi Tech 2026 is zeroing in on four technology domains reshaping society:
   AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots,
   sessions on…'
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 78.0
 pubDate: '2026-04-10T16:38:43Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Disney&#8217;s shuffling of its communications team under new CEO Josh
   D&#8217;Amaro and his communications chief Paul Roeder continues. On Friday, the
   company said that Nastasya…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-11T01:13:51Z'
