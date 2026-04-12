@@ -5,7 +5,7 @@ countryCode: GB
 description: Tyson Fury shook off some ring rust on his comeback to earn a unanimous
   points win over Arslanbek Makhmudov on Saturday and potentially set up a long-awaited
   clash with Anthony…
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-12T05:38:17Z'

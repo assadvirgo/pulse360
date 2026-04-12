@@ -5,7 +5,7 @@ countryCode: GB
 description: Tyson Fury and Anthony Joshua shared a moment on Saturday, but getting
   the British heavyweights together this year may not be as straightforward as many
   suspected.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-12T06:45:26Z'

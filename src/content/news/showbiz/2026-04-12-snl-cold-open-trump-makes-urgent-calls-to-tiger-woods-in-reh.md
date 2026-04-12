@@ -5,7 +5,7 @@ countryCode: US
 description: James Austin Johnson&#8217;s Donald Trump opened Saturday&#8217;s &#8220;SNL&#8221;
   with a series of increasingly ridiculous &#8220;urgent&#8221; phone calls to Tiger
   Woods (Kenan…
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 47.8
 pubDate: '2026-04-12T04:05:38Z'

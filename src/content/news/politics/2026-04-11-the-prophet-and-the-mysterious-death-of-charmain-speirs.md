@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A BBC Disclosure investigation has uncovered significant questions about
   what happened at the hotel where Charmain died.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-11T23:14:11Z'

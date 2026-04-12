@@ -5,7 +5,7 @@ countryCode: US
 description: The Commodity Futures Trading Commission announced Friday that it has
   won a temporary restraining order preventing Arizona from pursuing its criminal
   case against Kalshi.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-11T21:20:24Z'

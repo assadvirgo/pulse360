@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Two American warships have passed through the contested waterway for
   first time since start of war
-displayOrder: 44
+displayOrder: 50
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-11T19:23:34Z'

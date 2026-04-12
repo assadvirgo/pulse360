@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Swiss musician To Athena has performed inside a cave in a melting glacier
   to highlight ice loss in the Alps.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-12T05:01:41Z'

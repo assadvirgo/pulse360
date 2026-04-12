@@ -5,7 +5,7 @@ countryCode: CA
 description: Though it was not entirely without precedent as the progenitor of faux-found-footage
   horror, few films have been more widely imitated than 1999’s “The Blair Witch Project”
   — if…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-11T23:44:18Z'

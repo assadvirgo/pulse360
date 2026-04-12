@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel says it has reprimanded Spain’s top diplomat in Tel Aviv over
   the blowing up of an effigy of its Prime Minister.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-12T00:08:28Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Nigel Farage and Kemi Badenoch distance themselves from the US president,
   having once celebrated his example
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-12T04:00:20Z'
