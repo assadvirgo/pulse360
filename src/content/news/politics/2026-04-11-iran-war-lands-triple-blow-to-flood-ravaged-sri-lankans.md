@@ -4,7 +4,7 @@ country: Sri Lanka
 countryCode: LK
 description: The Iran war could not have come at a worse time for Sri Lanka, reeling
   from devastating floods and an economic crisis.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-11T23:06:49Z'

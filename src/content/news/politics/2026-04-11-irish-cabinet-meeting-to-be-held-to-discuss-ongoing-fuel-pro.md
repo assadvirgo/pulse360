@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Hundreds of petrol stations in the Republic of Ireland have run out of
   fuel as the protests and blockades continued for a fifth day.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-11T20:12:22Z'

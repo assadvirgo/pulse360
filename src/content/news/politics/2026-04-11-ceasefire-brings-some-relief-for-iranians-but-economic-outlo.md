@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Activity picks up in Tehran&#039;s Grand Bazaar compared with before
   the ceasefire, but vendors say sales remain slow.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-11T17:29:23Z'

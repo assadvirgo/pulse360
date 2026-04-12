@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Deployment under mutual defence pact comes as Islamabad hosts US-Iran
   ceasefire talks.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 66.5
 pubDate: '2026-04-11T19:35:54Z'

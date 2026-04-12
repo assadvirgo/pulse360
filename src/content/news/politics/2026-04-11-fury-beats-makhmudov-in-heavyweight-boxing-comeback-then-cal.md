@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Tyson Fury beats Arslanbek Makhmudov in a unanimous points decision as
   he makes his heavyweight comeback.
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-11T22:28:58Z'

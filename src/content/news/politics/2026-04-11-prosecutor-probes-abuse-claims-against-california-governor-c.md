@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The high-profile Democrat, a leading contender in California's governor
   race, has firmly denied the accusations.
-displayOrder: 26
+displayOrder: 36
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-11T22:57:28Z'

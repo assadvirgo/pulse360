@@ -3,7 +3,7 @@ category: Showbiz
 description: Who could&#8217;ve guessed that the biggest water-cooler moment from
   night 1 of Coachella 2026 would not be a musical cameo or a particularly galvanizing
   moment from one of the…
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-12T01:14:58Z'

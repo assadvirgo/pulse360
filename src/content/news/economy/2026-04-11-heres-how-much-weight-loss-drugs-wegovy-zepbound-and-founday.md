@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The GLP-1 market is growing fast. Here’s how much the most popular medications
   will cost you.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-11T17:40:00Z'

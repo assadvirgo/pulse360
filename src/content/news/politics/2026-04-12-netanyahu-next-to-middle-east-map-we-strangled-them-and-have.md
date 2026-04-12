@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Standing by a map, Israeli Prime Minister Benjamin Netanyahu describes
   how six countries wanted to strangle us’.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-12T02:09:28Z'

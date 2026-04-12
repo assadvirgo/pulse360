@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Teams with championship hopes fall down our list while unexpected contenders
   have made surprise starts.
-displayOrder: 24
+displayOrder: 34
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-11T22:33:58Z'

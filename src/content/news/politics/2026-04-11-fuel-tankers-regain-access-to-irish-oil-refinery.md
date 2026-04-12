@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Demonstrations due to high prices caused by the US-Israeli war against
   Iran are affecting traffic on several roads.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-11T15:57:26Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Many who support the president have expressed frustration with how Trump's
   former attorney general Pam Bondi handled the Epstein files.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-12T00:30:44Z'

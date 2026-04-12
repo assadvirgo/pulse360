@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Hundreds of people gather in Trafalgar Square for demonstration, as elderly
   woman with cane is escorted away by police.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-11T15:01:18Z'

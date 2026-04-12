@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Kyle Abbott and Sonny Baker claim four wickets apiece to help Hampshire
   take control on day two of their County Championship match against Yorkshire.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-11T19:17:31Z'

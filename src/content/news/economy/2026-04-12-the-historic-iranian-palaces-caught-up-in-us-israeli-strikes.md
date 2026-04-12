@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: World Heritage sites including Tehran’s Golestan Palace were damaged
   in bombings
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-12T04:00:12Z'
