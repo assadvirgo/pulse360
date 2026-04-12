@@ -5,7 +5,7 @@ countryCode: GB
 description: John Nolan, a British stage and screen actor whose career spanned decades
   of theater, television and film — including roles in Christopher Nolan’s “Batman”
   trilogy and the CBS…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-11T16:50:29Z'

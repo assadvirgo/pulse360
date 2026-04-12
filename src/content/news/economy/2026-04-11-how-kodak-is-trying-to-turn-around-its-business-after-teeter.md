@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Photography company Eastman Kodak has seen its fair share of financial
   struggles, but CEO Jim Continenza is determined to fuel its success.
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-11T12:00:01Z'

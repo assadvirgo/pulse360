@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Somerset's Craig Overton reaches 141 against Essex on day two of their
   County Championship match at Chelmsford.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-11T18:36:33Z'

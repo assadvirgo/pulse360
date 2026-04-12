@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungarian prime minister and his Fidesz party ‌face first closely contested
   polls in Sunday&#039;s parliamentary election.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-11T12:04:15Z'

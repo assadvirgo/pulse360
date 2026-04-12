@@ -4,7 +4,7 @@ country: Djibouti
 countryCode: DJ
 description: Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll
   boycotted by the main opposition candidates.
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-11T09:42:39Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A British tourist is in a serious condition, while another two are stable
   in hospital, after a fatal bus crash in the Canary Islands.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-11T13:22:00Z'

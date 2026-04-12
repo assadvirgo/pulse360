@@ -4,7 +4,7 @@ country: Benin
 countryCode: BJ
 description: Finance minister is favourite to win on Sunday as incumbent Talon will
   step down after leading the country for 10 years.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-11T09:00:39Z'

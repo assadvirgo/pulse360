@@ -5,7 +5,7 @@ countryCode: CA
 description: As well as being the first woman to lead Canada's armed forces, General
   Jennie Carignan is also in command as her country pushes to rearm on a scale not
   seen since the Cold War.
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-11T15:02:00Z'

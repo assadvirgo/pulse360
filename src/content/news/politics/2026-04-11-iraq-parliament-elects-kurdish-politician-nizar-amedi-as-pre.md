@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: New president pledges &#039;Iraq First&#039; after securing 227 votes,
   ending five months of political deadlock.
-displayOrder: 17
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-11T17:24:02Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: John Nolan, the actor who starred in Dark Knight Rises and Person of
   Interest, has died. He was 87. The uncle of Christopher Nolan and Jonathan Nolan,
   his death was reported by…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-11T19:03:52Z'

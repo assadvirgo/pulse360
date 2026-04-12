@@ -5,7 +5,7 @@ countryCode: GB
 description: Mikel Arteta lamented his Arsenal side's "strange" performance in their
   2-1 defeat to Bournemouth on Saturday, saying the result was a "big punch in the
   face."
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-11T15:40:10Z'

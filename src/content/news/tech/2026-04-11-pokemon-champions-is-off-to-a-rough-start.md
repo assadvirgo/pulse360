@@ -3,7 +3,7 @@ category: Tech
 description: Like many live-service games before it, Pok&#233;mon Champions' launch
   has been messy. The free-to-start battle sim, which is out now on the Switch and
   Switch 2 (and also coming…
-displayOrder: 27
+displayOrder: 37
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-11T15:00:00Z'

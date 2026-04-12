@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon held funeral ceremonies for 13 members of the country’s State
   Security agency killed in an Israeli strike.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-11T14:17:16Z'

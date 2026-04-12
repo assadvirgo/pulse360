@@ -5,7 +5,7 @@ countryCode: US
 description: 'Hours after Malcolm in the Middle: Life&#8217;s Still Unfair debuted
   on Hulu, Frankie Muniz walked away from a crash at his other job. On Friday, the
   actor and NASCAR Craftsman…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-11T17:08:11Z'

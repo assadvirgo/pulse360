@@ -5,7 +5,7 @@ countryCode: US
 description: Ahead of the “Euphoria” Season 3 premiere on Sunday and his Coachella
   performance this weekend, composer&#160;Labrinth&#160;spoke out about the show and
   his music. In a new…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-11T16:00:02Z'
