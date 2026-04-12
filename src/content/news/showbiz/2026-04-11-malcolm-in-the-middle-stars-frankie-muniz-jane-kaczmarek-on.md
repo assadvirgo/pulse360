@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This article contains spoilers for &#8220;Malcolm in
   the Middle: Life&#8217;s Still Unfair&#8221; &#8220;Malcolm in the Middle: Life&#8217;s
   Still Unfair&#8221;…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-11T21:00:00Z'

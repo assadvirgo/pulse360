@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Fuel tankers have regained access to an oil refinery that was blocked
   by protesters in Ireland.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-04-11T18:26:00Z'

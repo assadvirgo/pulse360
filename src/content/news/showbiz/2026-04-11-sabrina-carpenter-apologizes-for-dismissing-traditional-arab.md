@@ -5,7 +5,7 @@ countryCode: US
 description: Sabrina Carpenter is apologizing for dismissing a traditional Arabic
   celebratory call as &#8220;weird&#8221; following backlash that her comments were
   insensitive and xenophobic.…
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-11T23:31:28Z'

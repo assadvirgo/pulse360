@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 'Armchair Expert' podcaster said he "ended up loving him so much"
   about the 'Grey's Anatomy' star, who died in February at age 53 after an ALS diagnosis.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-11T16:59:02Z'

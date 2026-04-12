@@ -5,7 +5,7 @@ countryCode: US
 description: The child star stepped away from acting to pursue a career in racing.
   However, he recently returned for the Hulu and Disney+ four-episode series, where
   he stars opposite original…
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-11T21:52:58Z'

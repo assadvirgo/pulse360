@@ -5,7 +5,7 @@ countryCode: US
 description: Michigan coach Dusty May has agreed to a new deal that will have him
   continuing to lead the Wolverines "for many years to come," athletic director Warde
   Manuel said Saturday.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-11T20:39:10Z'

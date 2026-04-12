@@ -5,7 +5,7 @@ countryCode: LB
 description: After six weeks of relentless Israeli bombardment, there was a fragile
   hope that the ceasefire between the United States and Iran might ease tensions in
   Lebanon.
-displayOrder: 16
+displayOrder: 37
 heroImage: ''
 importance: 70.0
 pubDate: '2026-04-11T14:27:00Z'

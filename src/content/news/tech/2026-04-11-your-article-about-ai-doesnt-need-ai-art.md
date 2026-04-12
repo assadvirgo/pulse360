@@ -5,7 +5,7 @@ countryCode: US
 description: The illustration for The New Yorker's profile of OpenAI CEO Sam Altman
   is a jump scare. Altman stands in a blue sweater with a blank expression. Around
   his head hovers a cluster…
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-11T15:00:00Z'

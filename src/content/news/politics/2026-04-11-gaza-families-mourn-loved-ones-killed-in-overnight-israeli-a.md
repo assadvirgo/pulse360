@@ -2,7 +2,7 @@
 category: Politics
 description: Families gather over bodies outside a Gaza hospital after overnight Israeli
   air strikes killed seven people.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-11T18:02:34Z'
