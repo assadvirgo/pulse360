@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on the AI coding and vibe-coding booms, follow
   David Pierce. The Stepback…
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-12T12:00:00Z'

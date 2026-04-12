@@ -4,7 +4,7 @@ country: Benin
 countryCode: BJ
 description: Benin is voting for its next president. Al Jazeera’s Ahmed Idris is in
   Cotonou, explaining what’s at stake.
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-12T13:25:22Z'

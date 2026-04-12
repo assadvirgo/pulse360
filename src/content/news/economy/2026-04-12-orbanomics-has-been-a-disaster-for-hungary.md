@@ -3,7 +3,7 @@ category: Economy
 country: Hungary
 countryCode: HU
 description: The country’s economic model has stoked inflation and weighed on growth
-displayOrder: 33
+displayOrder: 45
 heroImage: ''
 importance: 45.5
 pubDate: '2026-04-12T11:00:03Z'

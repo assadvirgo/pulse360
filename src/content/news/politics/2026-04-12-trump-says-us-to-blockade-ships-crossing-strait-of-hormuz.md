@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump says the US Navy will immediately blockade
   the Strait of Hormuz.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-12T15:09:17Z'

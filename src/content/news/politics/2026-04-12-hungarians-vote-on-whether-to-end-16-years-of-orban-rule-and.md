@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Most polls favour Péter Magyar, who fronts a grassroots party, and early
   figures suggest a big turnout of voters.
-displayOrder: 14
+displayOrder: 36
 heroImage: ''
 importance: 68.2
 pubDate: '2026-04-12T07:44:27Z'

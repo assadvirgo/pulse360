@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 1996 draft didn't produce a first-round QB, but the Jets found a
   playmaker with star power in Johnson.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-12T12:12:57Z'

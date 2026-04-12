@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: The incident occurred at a "tourist event attended by many young people",
   Haiti's prime minister says.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-12T07:22:28Z'

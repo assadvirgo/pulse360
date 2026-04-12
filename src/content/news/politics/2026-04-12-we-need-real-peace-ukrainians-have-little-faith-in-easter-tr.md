@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Easter festivities are muted in Kharkiv as Ukrainians expect fighting
   to flare up again after a weekend truce.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-12T09:38:31Z'
