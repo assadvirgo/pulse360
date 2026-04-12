@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: The BBC's Europe Editor Katya Adler reports from Prime Minister Victor
   Orbán's home town of Felscút.
-displayOrder: 12
+displayOrder: 35
 heroImage: ''
 importance: 71.2
 pubDate: '2026-04-12T02:52:03Z'

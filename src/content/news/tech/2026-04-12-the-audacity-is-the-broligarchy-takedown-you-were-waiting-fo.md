@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AMC’s new black comedy about a manchild tech titan spinning out of control
   is a skewering Silicon Valley’s billionaire class deserves.
-displayOrder: 8
+displayOrder: 26
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-12T12:00:00Z'

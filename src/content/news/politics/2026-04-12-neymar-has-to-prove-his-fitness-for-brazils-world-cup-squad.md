@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Brazil&#039;s coach says Neymar could be in contention for the squad
   if he attains full fitness in the next two months.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-12T06:56:08Z'

@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Small Swiss town is welcoming individuals and companies seeking refuge
   from war in the Middle East
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-12T04:00:12Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Alejandro Garnacho is struggling to stand out at Chelsea - so can the
   £40m signing from Manchester United still realise his potential at Stamford Bridge?
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-12T05:50:40Z'

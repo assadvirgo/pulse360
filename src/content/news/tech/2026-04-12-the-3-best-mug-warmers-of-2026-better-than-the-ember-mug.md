@@ -3,7 +3,7 @@ category: Tech
 description: The first rule of coffee is that it must stay hot. After weeks or even
   years of testing, these are the three coffee warmers that will best keep it that
   way.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-12T09:36:00Z'

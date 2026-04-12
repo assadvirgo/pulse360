@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Carlos Ulberg takes the UFC light heavyweight title with a first-round
   knockout win over Jiri Prochazka in Miami.
-displayOrder: 16
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-12T06:27:30Z'

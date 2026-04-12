@@ -2,7 +2,7 @@
 category: Economy
 description: Firms that normally profit from volatility were caught out by sudden
   rise in energy prices, new report finds
-displayOrder: 37
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-12T04:00:20Z'

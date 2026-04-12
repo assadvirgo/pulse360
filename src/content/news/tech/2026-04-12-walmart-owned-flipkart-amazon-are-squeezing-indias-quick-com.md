@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Flipkart's ongoing expansion beyond major cities and heavy discounting
   is raising risks for India's quick commerce startups, analysts say.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-12T03:00:00Z'
