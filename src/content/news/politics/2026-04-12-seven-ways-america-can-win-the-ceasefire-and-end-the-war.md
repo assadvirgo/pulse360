@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump needs to take decisive action to secure regional peace and a win
   in the midterm elections.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 75.5
 pubDate: '2026-04-12T16:30:26Z'

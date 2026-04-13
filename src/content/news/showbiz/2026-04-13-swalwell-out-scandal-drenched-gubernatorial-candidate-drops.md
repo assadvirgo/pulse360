@@ -5,7 +5,7 @@ countryCode: US
 description: And then there were nine. Days after four women including a former staffer,
   accused Eric Swalwell of rape and other misconduct, the cable news friendly Congressman
   has faced up to…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-13T01:37:00Z'

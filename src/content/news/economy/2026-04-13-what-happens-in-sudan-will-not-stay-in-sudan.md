@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: The disintegration of the country would complete an arc of ungovernable
   lands across the Sahel
-displayOrder: 30
+displayOrder: 37
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-13T04:00:12Z'

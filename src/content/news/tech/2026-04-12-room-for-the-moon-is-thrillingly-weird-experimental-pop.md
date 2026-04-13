@@ -3,7 +3,7 @@ category: Tech
 description: For obvious reasons, I've had Moon on the mind all week. So I was trying
   to figure out what I should recommend this week that would thematically fit. Brian
   Eno's Apollo:…
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 44.2
 pubDate: '2026-04-12T20:00:00Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: 'SPOILER ALERT: This post contains spoilers for Rooster Episode 6, titled
   &#8220;Cop Hawk.&#8221; As with many a Bill Lawrence and Matt Tarses show, there
   are always new…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-13T03:05:00Z'

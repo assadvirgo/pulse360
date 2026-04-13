@@ -2,7 +2,7 @@
 category: Politics
 description: Leo XIV wants the world's attention on a continent vital to the Church's
   future, an aide says.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-12T23:08:40Z'

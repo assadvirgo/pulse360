@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Democratic representative suspends campaign after media reports detailed
   alleged accounts of sexual assault.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-12T21:12:55Z'
