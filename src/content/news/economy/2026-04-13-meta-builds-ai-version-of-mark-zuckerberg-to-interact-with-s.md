@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Chief executive is training and testing his own character as part of
   wider push to develop ‘personal superintelligence’
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-13T04:00:04Z'

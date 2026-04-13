@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Four-time WNBA All-Star Kahleah Copper and two-time champion DeWanna
   Bonner re-signed Sunday with Phoenix, the team announced.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-13T01:06:12Z'

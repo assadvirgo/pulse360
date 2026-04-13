@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungary’s Viktor Orban has conceded defeat to opposition leader Peter
   Magyar after 16 years as prime minister.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-12T19:59:12Z'

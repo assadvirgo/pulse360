@@ -5,7 +5,7 @@ countryCode: CN
 description: Apple and Samsung have both been strongly linked with plans for foldable
   phones in a boxy, wide aspect ratio, but it looks like another company will get
   there first. Huawei has…
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-13T08:13:41Z'

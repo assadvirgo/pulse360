@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The conflict is now a test of wills - Iran’s capacity to absorb strikes
   versus Trump’s tolerance for the war's costs.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 73.2
 pubDate: '2026-04-12T18:48:57Z'

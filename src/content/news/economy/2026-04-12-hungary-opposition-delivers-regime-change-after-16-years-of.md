@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: With its huge mandate Péter Magyar’s Tisza can prepare to change the
   constitution and restore rule of law
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-12T23:12:05Z'

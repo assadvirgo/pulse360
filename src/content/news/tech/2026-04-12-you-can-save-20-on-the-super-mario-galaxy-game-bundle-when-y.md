@@ -5,7 +5,7 @@ countryCode: US
 description: In celebration of The Super Mario Galaxy Movie coming to theaters, Nintendo
   is making it a little cheaper to get both Super Mario Galaxy games when you buy
   a $449.99 Nintendo…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-12T16:00:00Z'

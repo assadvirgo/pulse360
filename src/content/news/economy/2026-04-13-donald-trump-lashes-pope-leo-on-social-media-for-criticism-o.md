@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The head of the Catholic Church has emerged as a leading voice of opposition
   against US foreign policy
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-13T03:15:44Z'

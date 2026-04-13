@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Prime Minister Viktor Orban concedes defeat in election as results show
   Peter Magyar&#039;s Tisza party winning by landslide.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-12T20:43:13Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: 'SPOILER ALERT: This piece contains spoilers for Rooster Episode 6, titled
   &#8220;Cop Hawk.&#8221; Things get complicated for a couple characters at the end
   of Rooster’s sixth…'
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-04-13T02:30:00Z'
