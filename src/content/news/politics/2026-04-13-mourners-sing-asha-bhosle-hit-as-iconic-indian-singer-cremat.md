@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The singer, who died at the age of 92, will be cremated with full state
   honours on Monday.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-13T12:02:45Z'

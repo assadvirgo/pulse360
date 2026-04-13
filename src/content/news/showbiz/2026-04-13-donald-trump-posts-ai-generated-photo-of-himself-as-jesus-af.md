@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump posted an AI-generated photo of himself seemingly dressed
   as Jesus Christ shortly after slamming Pope Leo XIV as &#8220;weak.&#8221; On Sunday
   night, Trump posted a…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-13T09:21:08Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Roblox is again expanding its safety protocols for younger users with
   the launch of &#8220;Kids&#8221; accounts for those ages 5-8 and &#8220;Select&#8221;
   accounts for the 9-15…
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 65.8
 pubDate: '2026-04-13T12:15:06Z'

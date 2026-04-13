@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: European leaders share Hungarians' joy over the ousting of Vladimir Putin's
   EU ally, writes the BBC's Europe editor.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-13T08:28:35Z'

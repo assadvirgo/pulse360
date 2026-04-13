@@ -5,7 +5,7 @@ countryCode: US
 description: Sam Altman was seemingly targeted by a second attack on Sunday morning,
   with two suspects arrested following a shooting at his Russian Hill residence, The
   San Francisco Standard…
-displayOrder: 31
+displayOrder: 43
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-13T09:25:57Z'

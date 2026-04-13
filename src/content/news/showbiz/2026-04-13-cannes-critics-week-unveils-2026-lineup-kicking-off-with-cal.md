@@ -5,7 +5,7 @@ countryCode: FR
 description: Cannes&#8217; Critics Week is set to kick off its 65th edition with Phuong
   Mai Nguyen’s animated feature &#8220;In Waves&#8221; and close with Félix de Givry’s
   coming-of-age drama…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-13T09:07:03Z'

@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Péter Magyar's historic win offers peace for a country exhausted by the
   tensions of Viktor Orbán's rule, Nick Thorpe reports from Budapest.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-13T01:58:32Z'

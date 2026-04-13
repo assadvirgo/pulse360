@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: After his stunning win last night, Peter Magyar told a rally that "Hungary
   wants to be a European country again".
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-13T08:14:00Z'

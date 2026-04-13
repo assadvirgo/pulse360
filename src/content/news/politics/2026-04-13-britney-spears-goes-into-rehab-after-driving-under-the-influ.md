@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The singer voluntarily checks herself into a treatment facility, three
   weeks before her court date.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-13T08:14:14Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Head of defence college asked military official to ensure government
   took ownership of ban, emails reveal.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-13T10:14:12Z'

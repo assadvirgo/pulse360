@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Prime minister says mechanism would help cut business costs and bring
   down prices
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-13T08:32:59Z'

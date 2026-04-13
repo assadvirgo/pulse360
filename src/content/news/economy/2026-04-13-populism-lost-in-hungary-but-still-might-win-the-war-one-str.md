@@ -5,7 +5,7 @@ countryCode: HU
 description: A strategist argues Viktor Orbán’s defeat was against the prevailing
   trend, but the Iran war will cement a new global regime of deglobalization, state
   expansion and stubborn…
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-13T09:47:00Z'

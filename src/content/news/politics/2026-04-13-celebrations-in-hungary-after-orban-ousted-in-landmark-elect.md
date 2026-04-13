@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Celebrations broke out across Budapest after opposition leader Peter
   Magyar defeated Prime Minister Viktor Orban.
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-13T07:39:33Z'

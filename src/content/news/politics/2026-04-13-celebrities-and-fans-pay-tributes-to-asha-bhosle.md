@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Asha Bhosle died in Mumbai on Sunday after being admitted to the hospital
   following a heart attack.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-13T10:23:54Z'

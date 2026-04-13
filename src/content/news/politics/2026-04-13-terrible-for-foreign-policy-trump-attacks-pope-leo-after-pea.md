@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Leo, ​who last year became the first US-born pope, has emerged as an
   outspoken critic of the US-Israeli ⁠war on Iran.
-displayOrder: 7
+displayOrder: 27
 heroImage: ''
 importance: 77.5
 pubDate: '2026-04-13T05:42:51Z'
