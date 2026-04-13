@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump&#8217;s Truth Social account removed an image
   depicting him as a Christ-like figure, after the post generated a wave of outrage
   from those across the…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 67.8
 pubDate: '2026-04-13T15:30:59Z'

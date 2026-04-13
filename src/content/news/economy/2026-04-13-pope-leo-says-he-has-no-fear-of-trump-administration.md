@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Comments from Catholic Church head come hours after US president launched
   scathing attack on him
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-13T11:29:39Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: TikTok is keen to get further into the original series game
   with vertical dramas. The social media platform has recently become a haven for
   original scripted vertical…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-13T15:57:00Z'

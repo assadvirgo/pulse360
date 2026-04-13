@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Jack Leaning hits an unbeaten 120 as Sussex beat Warwickshire by five
   wickets in County Championship Division One.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-13T12:00:43Z'

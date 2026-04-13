@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Brussels links unfreezing of funds to 27 conditions it expects incoming
   prime minister Péter Magyar to deliver on
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-13T11:09:14Z'

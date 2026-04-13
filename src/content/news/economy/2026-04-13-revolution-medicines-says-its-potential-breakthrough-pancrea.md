@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Revolution Medicines' drug for pancreatic cancer succeeded in a highly
   anticipated Phase 3 trial, the company said.
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-13T14:17:42Z'

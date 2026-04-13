@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president accuses Leo of being "weak on crime and terrible for
   foreign policy".
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-13T12:50:30Z'

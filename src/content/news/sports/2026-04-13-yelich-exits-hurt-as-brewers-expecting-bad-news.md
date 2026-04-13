@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Christian Yelich left the Milwaukee Brewers' game against the Washington
   Nationals on Sunday with tightness in his left hamstring.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-13T04:56:42Z'

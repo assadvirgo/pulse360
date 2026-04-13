@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party
   insider who convinced a majority of Hungarians to oust him.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-13T06:25:29Z'

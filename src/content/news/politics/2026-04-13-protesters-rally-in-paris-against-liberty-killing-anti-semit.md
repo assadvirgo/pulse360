@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Hundreds of protesters gathered in Paris to oppose a proposed law aimed
   at combating ‘renewed forms’ of anti-Semitism.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-13T09:23:15Z'

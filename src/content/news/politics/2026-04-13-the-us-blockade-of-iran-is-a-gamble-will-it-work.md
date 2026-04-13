@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'The US military has the capability to mount a blockade of vessels moving
   in and out of the Gulf. The question is: to what end?'
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-13T15:27:43Z'

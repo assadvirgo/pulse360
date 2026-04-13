@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Delta and other carriers are ramping up premium seats on board.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-13T13:00:01Z'
