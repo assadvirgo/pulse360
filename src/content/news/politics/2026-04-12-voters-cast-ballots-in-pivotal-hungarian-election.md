@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungarians could see opposition leader Peter Magyar oust Prime Minister
   Viktor Orban, who has ruled for 16 years
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 83.5
 pubDate: '2026-04-12T14:55:53Z'

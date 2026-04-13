@@ -2,7 +2,7 @@
 category: Politics
 description: Israel’s far-right security minister storms mosque compound with protection,
   drawing condemnation from Palestinians.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-12T13:42:04Z'

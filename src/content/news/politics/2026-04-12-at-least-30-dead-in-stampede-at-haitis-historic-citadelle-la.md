@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: The fortress was packed before the annual celebration at the UNESCO World
   Heritage Site, authorities say.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-12T14:36:54Z'

@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Election follows bitter campaign that has energised both government loyalists
   and opposition behind Péter Magyar
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-12T09:40:05Z'

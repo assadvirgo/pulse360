@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The past month and a half have shown that the nature of modern warfare
   is shifting.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-12T13:10:22Z'

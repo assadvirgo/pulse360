@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: There’s a lot more to Beyond Meat’s fall from grace than just falling
   sales and mounting losses.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-12T13:00:00Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Newcastle United manager Eddie Howe says his sides 2-1 defeat by Crystal
   Palace was "deflating" and calls the decision to award a late penalty against them
   "soft", as The Magpies…
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-12T16:54:12Z'

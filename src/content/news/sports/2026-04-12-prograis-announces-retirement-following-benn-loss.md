@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Two-time super-lightweight world champion Regis Prograis announces his
   retirement from boxing at the age of 37.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-12T13:55:23Z'

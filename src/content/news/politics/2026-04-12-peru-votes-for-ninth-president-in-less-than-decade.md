@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Voters to choose from 35 presidential candidates, including a comedian,
   a media baron and a political dynasty heiress.
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-12T15:39:49Z'

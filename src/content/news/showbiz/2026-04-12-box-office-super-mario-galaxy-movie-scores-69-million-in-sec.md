@@ -5,7 +5,7 @@ countryCode: US
 description: Universal&#8217;s animated sequel &#8220;The Super Mario Galaxy Movie&#8221;
   remained No. 1 at the domestic box office, collecting $69 million from 4,284 North
   American theaters…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-12T14:38:58Z'

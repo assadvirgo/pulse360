@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;The Super Mario Galaxy Movie&#8221; is officially the year&#8217;s
   highest-grossing film to date with $629 million at the global box office. While
   the film&#8217;s towering…'
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-12T16:06:47Z'

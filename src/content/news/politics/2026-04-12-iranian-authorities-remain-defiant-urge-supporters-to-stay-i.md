@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Mohammad Bagher Ghalibaf, who led Iran&#039;s delegation in talks to
   end the war, said US delegation &#039;failed to gain trust&#039;.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-12T16:51:29Z'

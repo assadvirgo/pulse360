@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: As U.S.-Iran talks in Pakistan ended without a deal, U.S. stock futures
   were sliding and oil was climbing, based on trading via a crypto-based trading platform.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-12T10:06:00Z'

@@ -5,7 +5,7 @@ countryCode: IN
 description: Asha Bhosle, the legendary Bollywood playback singer whose voice was
   immortalized on more than 2,000 films, has died. She was 92. The 2x Grammy nominated
   singer died on Sunday in…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-12T16:49:03Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sussex need 94 runs, with five wickets remaining, to beat Warwickshire
   after day three of their County Championship match at Hove.
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 66.2
 pubDate: '2026-04-12T17:53:08Z'
