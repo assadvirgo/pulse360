@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Péter Magyar’s Tisza party was projected to win 136 out of 199 seats,
   giving it a two-thirds majority
-displayOrder: 39
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-12T19:38:42Z'

@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Tisza party led by Péter Magyar projected to win a two-thirds majority
   in crushing loss for EU’s longest-serving premier
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-12T21:39:16Z'

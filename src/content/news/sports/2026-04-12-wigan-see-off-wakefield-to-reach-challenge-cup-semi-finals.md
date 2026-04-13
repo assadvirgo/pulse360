@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wigan Warriors recover from conceding two early tries to beat Wakefield
   Trinity 26-22 in the quarter-finals of the Challenge Cup at the DIY Kitchens Stadium.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-12T15:21:24Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Rockstar confirmed on Saturday that some of its data was compromised
   in a breach of a third-party provider. The group ShinyHunters claimed responsibility,
   saying it had gained…
-displayOrder: 32
+displayOrder: 42
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-12T17:02:00Z'

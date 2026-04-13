@@ -5,7 +5,7 @@ countryCode: DE
 description: Unfolding in an isolated fishing village, Kai Stänicke’s German drama
   “Trial of Hein” has a nebulous, nondescript period setting, but its concerns are
   entirely contemporary. We’re…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-12T19:37:21Z'

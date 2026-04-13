@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rory McIlroy has achieved a historic win at the US Masters golf tournament,
   taking the title for the second year in a row.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-12T21:04:00Z'

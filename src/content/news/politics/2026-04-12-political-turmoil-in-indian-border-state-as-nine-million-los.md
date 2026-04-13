@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Nine million voters have been dropped from rolls in West Bengal, raising
   concerns over exclusion and fairness.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-12T23:59:48Z'

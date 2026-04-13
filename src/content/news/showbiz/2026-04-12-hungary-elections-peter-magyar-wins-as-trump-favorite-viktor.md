@@ -5,7 +5,7 @@ countryCode: HU
 description: Centre-right, pro-European Union opposition leader Péter Magyar beat
   populist, right-wing Prime Minister Viktor Orbán in Hungary’s high stakes general
   election on Sunday. Final…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-04-12T19:59:00Z'

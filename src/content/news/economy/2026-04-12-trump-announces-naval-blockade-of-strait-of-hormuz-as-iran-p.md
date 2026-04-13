@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Reopening the critical waterway is a sticking point in negotiations as
   oil supply bottlenecks prompt a global energy crisis
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-12T14:20:29Z'

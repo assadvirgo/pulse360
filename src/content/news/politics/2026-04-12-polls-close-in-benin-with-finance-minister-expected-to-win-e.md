@@ -3,7 +3,7 @@ category: Politics
 country: Benin
 countryCode: BJ
 description: Former President Patrice Talon has stepped down after two five-year terms.
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-12T19:43:02Z'

@@ -3,7 +3,7 @@ category: Tech
 description: The rise of AI has brought an avalanche of new terms and slang. Here
   is a glossary with definitions of some of the most important words and phrases you
   might encounter.
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-12T15:07:08Z'

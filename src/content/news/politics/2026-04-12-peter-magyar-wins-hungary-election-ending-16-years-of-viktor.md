@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Centre-right Tisza party wins two-thirds majority in parliament that
   would allow it to amend constitution.
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-12T19:19:55Z'
