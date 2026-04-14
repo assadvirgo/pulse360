@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Retiring to a college community can be great — if you can afford it.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-13T15:26:00Z'

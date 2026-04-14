@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Diezani Alison-Madueke is accused of living “a life of luxury” in the
   UK at properties paid for and refurbished by industry figures.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-13T16:05:59Z'

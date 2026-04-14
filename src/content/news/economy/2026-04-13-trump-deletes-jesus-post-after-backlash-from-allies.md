@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president circulated image of himself as Christ-like figure shortly
   after lashing out at Pope Leo
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-13T18:20:19Z'

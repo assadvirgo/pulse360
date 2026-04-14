@@ -5,7 +5,7 @@ countryCode: US
 description: Brian Tyree Henry will star in “Running,” a sports drama from &#8220;Warrior&#8221;
   and &#8220;The Way Back&#8221; director Gavin O’Connor. He joins the previously
   announced star…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-13T20:00:00Z'

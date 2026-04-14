@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Alternative for Germany quarrels about Maga after Hungarian election
   fiasco
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-13T14:50:45Z'

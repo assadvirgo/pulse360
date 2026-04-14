@@ -5,7 +5,7 @@ countryCode: US
 description: Many investing professionals probably expected the S&amp;P 500 would
   fall on Monday. Instead, the index rose by a full percentage point, finishing at
   its highest level in almost…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-13T20:13:00Z'

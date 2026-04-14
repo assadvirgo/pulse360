@@ -5,7 +5,7 @@ countryCode: GB
 description: The UK&#8217;s antitrust authority has taken its first step towards launching
   a formal investigation into the $110 billion merger between Paramount and Warner
   Bros. Discovery. The…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 65.0
 pubDate: '2026-04-13T19:06:28Z'

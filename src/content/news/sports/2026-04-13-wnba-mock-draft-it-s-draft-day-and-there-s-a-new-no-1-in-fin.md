@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: WNBA draft day is here! We project all three rounds. Four UCLA players
   and a South Carolina trio help make up Round 1.
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-13T16:59:52Z'

@@ -5,7 +5,7 @@ countryCode: HU
 description: Senior figures within the film community in Hungary gave two thumbs up
   to Péter Magyar’s landslide victory Monday, although the scale of reforms needed
   within the media and…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 72.8
 pubDate: '2026-04-13T15:17:06Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lord George Robertson, author of British military review, says premier
   is not willing to make the necessary investment
-displayOrder: 33
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-13T20:00:08Z'

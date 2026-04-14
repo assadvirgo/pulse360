@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Attacks come as Israel says it is close to taking over a major town in
   the south, and before peace talks in the US.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-13T12:39:20Z'

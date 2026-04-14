@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Technical and logistical problems mean Peruvians choosing a new president
   and members of Congress continue to vote on Monday.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 69.2
 pubDate: '2026-04-13T13:07:12Z'

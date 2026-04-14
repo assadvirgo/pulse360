@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Magyar&#039;s centre-right Tisza party has won a two-thirds majority
   in Hungary&#039;s parliamentary elections.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-13T10:55:52Z'

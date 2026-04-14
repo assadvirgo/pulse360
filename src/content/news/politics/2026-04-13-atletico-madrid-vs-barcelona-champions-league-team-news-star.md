@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: La Liga leaders Barcelona face Atletico Madrid, hoping to bounce back
   from their first-leg football defeat at home.
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-13T16:13:34Z'

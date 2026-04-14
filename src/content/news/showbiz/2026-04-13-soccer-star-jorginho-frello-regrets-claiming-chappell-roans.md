@@ -5,7 +5,7 @@ countryCode: BR
 description: Nearly a month after the widely publicized incident in which his daughter
   claimed that Chappell Roan’s bodyguard behaved aggressively toward her during Lollapalooza
   weekend in…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-13T18:15:26Z'

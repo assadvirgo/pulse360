@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is looking into ways it can integrate OpenClaw-style features
   into its Copilot AI assistant, according to a report from The Information. The test
   reportedly comes as…
-displayOrder: 17
+displayOrder: 28
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-13T15:41:09Z'
