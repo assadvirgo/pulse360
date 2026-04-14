@@ -5,7 +5,7 @@ countryCode: US
 description: On this week’s episode of “The Daily Show,” Jon Stewart went after President
   Donald Trump for trying to justify posting a since-deleted photo depicting himself
   as Jesus healing…
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-14T03:43:46Z'

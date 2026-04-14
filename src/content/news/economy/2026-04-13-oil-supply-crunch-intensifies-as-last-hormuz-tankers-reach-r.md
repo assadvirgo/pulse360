@@ -2,7 +2,7 @@
 category: Economy
 description: Final prewar cargoes to leave Gulf set to unload in coming days, escalating
   a global rush to secure barrels
-displayOrder: 32
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-13T20:33:43Z'

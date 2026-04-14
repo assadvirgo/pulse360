@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED: After abandoning his gubernatorial campaign amid sexual misconduct
   allegations, Rep Eric Swalwell (D-CA) said Monday that he is resigning from Congress.
   What&#8217;s…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-04-13T22:01:01Z'

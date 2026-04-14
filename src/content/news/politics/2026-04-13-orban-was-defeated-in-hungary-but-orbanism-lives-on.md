@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Viktor Orban’s stepping stone – the EU’s own illiberal tendencies and
   militarism - is still very much present.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-13T18:56:31Z'

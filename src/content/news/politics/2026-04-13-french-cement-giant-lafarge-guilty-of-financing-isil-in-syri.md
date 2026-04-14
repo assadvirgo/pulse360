@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Cement company Lafarge and eight of its ex-employees were found guilty
   of financing ISIL in a French court.
-displayOrder: 29
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-13T21:35:30Z'

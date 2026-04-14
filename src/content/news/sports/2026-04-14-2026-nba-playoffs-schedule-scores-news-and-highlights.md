@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Eastern and Western Conference playoff brackets are set after Sunday's
   games.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-14T00:55:27Z'

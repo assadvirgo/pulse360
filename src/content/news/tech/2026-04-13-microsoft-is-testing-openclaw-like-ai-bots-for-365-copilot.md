@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is looking into ways it can integrate OpenClaw-style features
   into 365 Copilot, according to a report from The Information. The test reportedly
   comes as part of efforts…
-displayOrder: 38
+displayOrder: 50
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-13T15:41:09Z'

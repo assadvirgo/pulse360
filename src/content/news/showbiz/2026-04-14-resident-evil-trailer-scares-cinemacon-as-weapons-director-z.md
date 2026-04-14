@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Weapons&#8221; writer and director Zach Cregger is back with
   another spine-chilling horror movie &#8212; this time with an established video
   game property in…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-14T02:56:08Z'

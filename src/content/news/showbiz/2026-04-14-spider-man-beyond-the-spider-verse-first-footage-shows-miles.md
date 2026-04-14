@@ -5,7 +5,7 @@ countryCode: US
 description: 'Miles Morales is still crawling through alternate realities in a thrilling
   first look at &#8220;Spider-Man: Beyond the Spider-Verse&#8221; that Sony Pictures
   released Monday at…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-14T03:27:28Z'

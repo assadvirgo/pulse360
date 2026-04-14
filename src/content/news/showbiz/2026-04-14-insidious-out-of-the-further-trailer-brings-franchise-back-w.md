@@ -5,7 +5,7 @@ countryCode: US
 description: 'The Further is making its way to Vegas. Sony offered the first look
   at &#8220;Insidious: Out of the Further&#8221; at CinemaCon, the annual movie theater
   trade show that&#8217;s…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-14T02:52:26Z'

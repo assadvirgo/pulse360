@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Italy's prime minister and the US president are close allies, but Trump
   has refused to apologise to the "very weak" Pope Leo XIV.
-displayOrder: 23
+displayOrder: 35
 heroImage: ''
 importance: 71.2
 pubDate: '2026-04-13T17:32:43Z'

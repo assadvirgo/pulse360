@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Officials warn cyanide could harm marine life and weaken the reef supporting
   a grounded warship.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-13T21:05:33Z'
