@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sophie Fawn's mum died of ovarian cancer - and the Manchester Thunder
   player explains to BBC Sport why she wants to talk about it to raise awareness.
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-14T08:02:20Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'The acquisition indicates a capability that OpenAI is building into
   ChatGPT: financial planning.'
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-04-14T00:23:33Z'

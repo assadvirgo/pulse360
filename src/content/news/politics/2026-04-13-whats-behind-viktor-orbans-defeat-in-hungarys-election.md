@@ -3,7 +3,7 @@ category: Politics
 country: Hungary
 countryCode: HU
 description: Hungary&#039;s opposition has defeated the prime minister by a landslide.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-13T21:58:57Z'

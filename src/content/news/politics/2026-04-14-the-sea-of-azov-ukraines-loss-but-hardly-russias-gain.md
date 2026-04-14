@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The colossal steel plants along Ukraine&#039;s side of the sea are unrestorable
   ruins since Russia&#039;s invasion.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-14T06:27:49Z'

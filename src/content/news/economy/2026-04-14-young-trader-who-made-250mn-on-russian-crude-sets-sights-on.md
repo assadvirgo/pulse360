@@ -4,7 +4,7 @@ country: Guyana
 countryCode: GY
 description: Christopher Eppinger is ‘getting goosebumps’ over opportunities from
   South American nation’s oil boom
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-14T04:00:15Z'

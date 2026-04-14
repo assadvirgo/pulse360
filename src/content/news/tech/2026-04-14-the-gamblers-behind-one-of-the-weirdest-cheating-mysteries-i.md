@@ -5,7 +5,7 @@ countryCode: US
 description: In July 1993, a disguised player entered the World Open chess tournament
   in Philadelphia using the name of a mathematician who died in 1957. His real identity
   remained…
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-14T10:00:00Z'

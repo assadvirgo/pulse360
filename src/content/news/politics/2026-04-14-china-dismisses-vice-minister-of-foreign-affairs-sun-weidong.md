@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Vice Foreign Minister Sun Weidong&#039;s sudden dismissal comes amid
   a wave of removals amid anticorruption campaign.
-displayOrder: 23
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-14T06:31:51Z'

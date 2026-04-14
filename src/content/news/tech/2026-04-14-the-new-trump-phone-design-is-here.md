@@ -5,7 +5,7 @@ countryCode: US
 description: Trump Mobile has overhauled its website, introducing a new logo, new
   design language, and a new version of the T1 Phone. The redesigned phone is the
   same one that two company…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-14T08:25:07Z'

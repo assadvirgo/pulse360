@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Impelled by furious competition, hefty subsidies and sheer scale, the
   country’s companies are cutting a swath through the world’s most advanced industries
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-14T04:00:07Z'

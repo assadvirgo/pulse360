@@ -5,7 +5,7 @@ countryCode: US
 description: National champion UCLA became the first team to have five first-round
   picks in the WNBA draft -- Lauren Betts, Gabriela Jaquez, Kiki Rice, Angela Dugalic
   and Gianna Kneepkens --…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-14T04:24:57Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Police in New York arrested around 100 anti-war protesters during a sit-in
   demanding an end to US arms for Israel.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-14T02:13:16Z'
