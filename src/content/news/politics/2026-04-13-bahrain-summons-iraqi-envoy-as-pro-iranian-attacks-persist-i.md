@@ -4,7 +4,7 @@ country: Bahrain
 countryCode: BH
 description: Move reflects regional alarm over attacks by pro-Iranian groups based
   in Iraq, which continue despite ceasefire.
-displayOrder: 22
+displayOrder: 41
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-13T16:58:09Z'

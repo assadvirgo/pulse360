@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Paris court finds cement maker guilty of paying jihadis to keep operations
   running in Syria after civil war broke out
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-13T17:25:59Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The WNBA’s latest labor agreement paved the way for the league’s wealthiest
   rookie class ever
-displayOrder: 38
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-14T00:09:00Z'

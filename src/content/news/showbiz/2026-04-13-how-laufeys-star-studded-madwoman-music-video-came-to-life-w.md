@@ -5,7 +5,7 @@ countryCode: US
 description: The singer teamed with Gold House to put the video together, with director
   Warren Fu noting it “reimagines the American Dream as something more diverse and
   inclusive.”
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-13T22:19:05Z'

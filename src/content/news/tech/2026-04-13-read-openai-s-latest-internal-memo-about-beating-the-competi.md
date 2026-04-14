@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo
   to employees on Sunday about the company's strategic direction, emphasizing the
   need to lock in users and…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-13T16:21:08Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: We're going to name a bat flip champion for 2026. Here's who holds the
   championship belt after the first battle of the season.
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-13T20:59:19Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Two Palestinians were killed in separate strikes in southern Gaza on
   Monday, according to officials at Nasser hospital.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-13T21:06:39Z'

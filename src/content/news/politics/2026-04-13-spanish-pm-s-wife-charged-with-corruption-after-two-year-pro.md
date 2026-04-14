@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Begoña Gómez is accused of using her relationship with Pedro Sánchez
   to advance her private career.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-13T21:09:15Z'

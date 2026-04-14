@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Angel showed off its slate at the Las Vegas convention, with looks at
   'Young Washington' and Alan Ritchson's 'Runner.'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-13T20:20:17Z'

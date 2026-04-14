@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President confirms naval blockade of Strait of Hormuz has officially
   come into effect
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-13T17:01:20Z'

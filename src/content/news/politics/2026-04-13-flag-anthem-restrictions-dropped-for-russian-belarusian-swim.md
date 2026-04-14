@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The move signals a further easing of restrictions on athletes from the
   two countries by sports-governing bodies.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-13T18:50:20Z'

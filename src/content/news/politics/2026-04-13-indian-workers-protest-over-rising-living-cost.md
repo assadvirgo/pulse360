@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Police have scaled up enforcement in the Indian city of Noida as a factory
   workers&#039; protest turns violent.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-13T18:25:41Z'

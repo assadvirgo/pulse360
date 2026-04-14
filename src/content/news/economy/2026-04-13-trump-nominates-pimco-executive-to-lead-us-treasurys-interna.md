@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bond giant’s head of asset allocation tapped to conduct negotiations
   with organisations such as the G7
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-13T20:16:59Z'

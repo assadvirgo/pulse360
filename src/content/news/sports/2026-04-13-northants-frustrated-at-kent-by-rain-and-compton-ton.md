@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Northamptonshire are frustrated by the rain on the final day of their
   County Championship match with Kent at Canterbury, which ends in a draw.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 60.2
 pubDate: '2026-04-13T17:11:49Z'
