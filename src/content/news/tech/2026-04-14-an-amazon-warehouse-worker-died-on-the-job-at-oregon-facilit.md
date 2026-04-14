@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Though Amazon has faced issues with warehouse safety, the company said
   that the death was not work related.
-displayOrder: 33
+displayOrder: 49
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-14T00:26:18Z'

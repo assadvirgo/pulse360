@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Miri Taylor "wasn't in the right headspace" to play for Scotland until
   she moved to Aston Villa. Now, she's striving for next summer's World Cup.
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-14T07:59:05Z'

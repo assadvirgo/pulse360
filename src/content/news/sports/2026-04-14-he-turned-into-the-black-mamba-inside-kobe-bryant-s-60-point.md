@@ -5,7 +5,7 @@ countryCode: US
 description: From teammates and opponents to coaches, officials and staff, those who
   were there remember how Bryant's last game became something no one expected -- and
   no one will forget.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-14T05:25:51Z'

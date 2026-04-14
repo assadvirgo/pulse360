@@ -5,7 +5,7 @@ countryCode: FR
 description: ACID, the filmmaker-selected Cannes parallel section which first championed
   the early works of Justine Triet, Kaouther Ben Hania and Radu Jude, has announced
   the lineup for it…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-14T07:01:58Z'

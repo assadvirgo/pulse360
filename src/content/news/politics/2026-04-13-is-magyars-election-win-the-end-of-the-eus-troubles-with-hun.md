@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Orban&#039;s exit signals potential end to Hungary&#039;s EU isolation
   and opens door for diplomatic and economic collaboration.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-13T19:13:49Z'

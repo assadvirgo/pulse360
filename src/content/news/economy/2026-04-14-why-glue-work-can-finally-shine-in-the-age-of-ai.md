@@ -2,7 +2,7 @@
 category: Economy
 description: Automating technical skills will transform the value of those who can
   build relationships and hold projects together
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-14T04:00:15Z'

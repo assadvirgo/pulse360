@@ -2,7 +2,7 @@
 category: Politics
 description: Slow-moving Sinlaku is weakening as it heads towards Guam, but it will
   still bring dangerous conditions to the region.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-14T04:08:03Z'

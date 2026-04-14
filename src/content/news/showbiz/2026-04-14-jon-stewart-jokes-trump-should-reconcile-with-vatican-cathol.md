@@ -5,7 +5,7 @@ countryCode: US
 description: Returning to hosting duties on The Daily Show, Jon Stewart addressed
   everything from President Donald Trump&#8217;s spat with the Vatican to the electoral
   defeat of Hungarian…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 86.0
 pubDate: '2026-04-14T03:57:01Z'

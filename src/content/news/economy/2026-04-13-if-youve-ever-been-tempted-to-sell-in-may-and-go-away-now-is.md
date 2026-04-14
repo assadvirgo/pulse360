@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The stock market’s “Halloween Indicator” is statistically significant
   during just one year of the presidential cycle.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-13T23:44:00Z'

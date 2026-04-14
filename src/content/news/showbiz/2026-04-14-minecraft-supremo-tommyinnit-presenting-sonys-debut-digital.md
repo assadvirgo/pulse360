@@ -5,7 +5,7 @@ countryCode: GB
 description: TommyInnit, who runs the most popular Minecraft channel on Twitch, is
   leading the first series and channel to emerge from Sony’s new digital arm with
   guests including Stephen Fry.…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-14T08:00:00Z'
