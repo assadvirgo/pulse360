@@ -5,7 +5,7 @@ countryCode: ES
 description: '“The Spanish Cinema has only had one genius: Rafael Azcona,” Oscar winner
   Fernando Trueba has said.&#160; Screening “Belle Époque,” the film which won Trueba
   his Academy Award and…'
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-14T15:31:34Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: US president turns against Italian premier despite her being one of his
   few remaining allies in Europe
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-14T15:54:24Z'

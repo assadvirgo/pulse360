@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Sixteen people have been injured after a former student opened fire with
   a shotgun at a school in Turkey.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-14T09:35:00Z'

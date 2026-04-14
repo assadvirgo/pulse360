@@ -5,7 +5,7 @@ countryCode: FR
 description: Paris-based sales company Luxbox has acquired Katharina Rivilis’ drama
   “I’ll Be Gone in June,” which has been selected for Cannes’ Un Certain Regard. The
   film, whose producers…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-14T11:29:08Z'

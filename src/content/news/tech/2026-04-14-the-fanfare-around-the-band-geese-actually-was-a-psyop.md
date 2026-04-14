@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Brooklyn band Geese was labeled an “industry plant” by those who
   questioned its sudden ubiquity. Maybe it was.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-04-14T10:45:00Z'

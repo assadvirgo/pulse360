@@ -5,7 +5,7 @@ countryCode: US
 description: Taylor Swift, by most measures the all-time queen of the American Music
   Awards, has plenty of chances to extend her historic lead even further this year.
   She leads the race for…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-14T12:00:00Z'

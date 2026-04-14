@@ -2,7 +2,7 @@
 category: Sports
 description: There were stunning strikes and plenty of headlines - how well do you
   remember last week's Champions League quarter-final first-leg matches?
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 63.2
 pubDate: '2026-04-14T08:17:58Z'

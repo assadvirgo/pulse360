@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Globalstar’s stock is heading toward an 18-year high on the back of an
   Amazon buyout deal, and has quadrupled over the past 12 months.
-displayOrder: 36
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-14T14:30:00Z'

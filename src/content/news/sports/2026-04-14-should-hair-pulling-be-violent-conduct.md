@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United's Lisandro Martinez faces a three-match ban for pulling
   Dominic Calvert-Lewin's hair. Is the punishment fair?
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-14T15:15:56Z'

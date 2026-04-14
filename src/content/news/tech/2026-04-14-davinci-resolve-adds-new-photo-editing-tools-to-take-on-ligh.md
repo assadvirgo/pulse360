@@ -5,7 +5,7 @@ countryCode: US
 description: Blackmagic Design announced an update to its powerful multipurpose post-production
   software today adding new tools and improved workflows for editing photos. In addition
   to…
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-14T15:28:36Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Sony's PC-focused InZone brand is covering a lot of ground, now adding
   open-back headsets to its growing catalog of gaming accessories. The $199.99 H6
   Air borrows the comfortable,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-14T16:00:00Z'

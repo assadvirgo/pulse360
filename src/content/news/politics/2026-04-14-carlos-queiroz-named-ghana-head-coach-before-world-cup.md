@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: The Portuguese coach takes charge after the sacking of Otto Addo, and
   will lead the Black Stars at the FIFA World Cup.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-14T08:19:35Z'

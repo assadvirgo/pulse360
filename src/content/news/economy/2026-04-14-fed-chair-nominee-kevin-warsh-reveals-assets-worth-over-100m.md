@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump’s pick to succeed Jay Powell reports $10mn in consulting fees from
   Stanley Druckenmiller’s family office
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-14T13:43:32Z'

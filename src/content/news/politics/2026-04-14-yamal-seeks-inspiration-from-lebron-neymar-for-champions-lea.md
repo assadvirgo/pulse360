@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona star Lamine Yamal sees Neymar as his idol and wants to watch
   him play in the World Cup for Brazil.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-14T07:43:52Z'
