@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED: California Governor Gavin Newsom has announced a special election
   to fill the seat of Rep. Eric Swalwell (D-CA), whose resignation went into effect
   on Tuesday. The…'
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 80.0
 pubDate: '2026-04-14T23:39:00Z'

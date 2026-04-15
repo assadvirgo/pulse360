@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Supply of humanitarian aid for people displaced by the conflict has been
   complicated by air and sea route closures.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-14T18:52:13Z'

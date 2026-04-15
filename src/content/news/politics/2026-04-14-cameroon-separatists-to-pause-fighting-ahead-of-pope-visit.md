@@ -4,7 +4,7 @@ country: Cameroon
 countryCode: CM
 description: The separatists say their decison reflects responsibility, restraint
   and respect for human dignity.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-14T16:39:48Z'

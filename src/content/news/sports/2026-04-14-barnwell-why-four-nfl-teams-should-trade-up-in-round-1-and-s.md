@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Would it make sense for the Eagles, Bears and Chiefs to trade up? Should
   the Cowboys and Lions try to move down the board? Here's our advice for 10 teams.
-displayOrder: 21
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-14T20:14:00Z'

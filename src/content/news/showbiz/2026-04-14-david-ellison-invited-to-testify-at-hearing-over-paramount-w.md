@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: So far, the Paramount CEO has declined invitations to testify as he looks
   to complete the $111 billion megadeal. Lawmakers are turning up the pressure.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-14T20:38:33Z'

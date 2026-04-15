@@ -5,7 +5,7 @@ countryCode: US
 description: Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's
   home, the 20-year-old accused attacker wrote about his fear that the AI race would
   cause humans to go…
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-14T18:04:42Z'

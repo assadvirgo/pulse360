@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain's government has finalised an amnesty measure that it estimates
   could enable half a million undocumented migrants to apply for legal status.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-14T18:56:00Z'

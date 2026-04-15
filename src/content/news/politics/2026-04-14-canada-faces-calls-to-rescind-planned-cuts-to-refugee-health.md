@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Health workers and rights advocates say co-payments, set to take effect
   on May 1, amount to &#039;de facto denial of care&#039;.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-14T21:02:23Z'
