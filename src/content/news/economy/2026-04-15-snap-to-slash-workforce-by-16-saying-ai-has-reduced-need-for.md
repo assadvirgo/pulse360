@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wall Street continues its trend of cheering news of large layoffs in
   the technology sector.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-04-15T11:09:00Z'

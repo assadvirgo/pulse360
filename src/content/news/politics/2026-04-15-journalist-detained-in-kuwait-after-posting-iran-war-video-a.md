@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: A journalist has been detained in Kuwait after posting videos related
   to the war in Iran, according to a press freedom advocacy group.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-15T08:56:00Z'

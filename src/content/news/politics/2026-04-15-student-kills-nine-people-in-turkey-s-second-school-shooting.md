@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: A student has killed nine people and wounded 13 others in Turkey's second
   school shooting in two days, officials said.
-displayOrder: 28
+displayOrder: 47
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-15T12:03:00Z'

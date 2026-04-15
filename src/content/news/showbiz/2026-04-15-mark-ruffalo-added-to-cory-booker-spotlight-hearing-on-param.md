@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED: Mark Ruffalo will speak via Zoom at Sen. Cory Booker&#8217;s
   &#8220;spotlight hearing&#8221; on Wednesday on Paramount&#8217;s proposed merger
   with Warner Bros.…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-15T15:55:00Z'

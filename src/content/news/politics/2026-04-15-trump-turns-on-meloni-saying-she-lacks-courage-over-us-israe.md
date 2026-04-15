@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president says he is &#039;shocked at her&#039;, delivering a
   blunt public rebuke to one of his closest European allies.
-displayOrder: 21
+displayOrder: 42
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-15T07:05:19Z'

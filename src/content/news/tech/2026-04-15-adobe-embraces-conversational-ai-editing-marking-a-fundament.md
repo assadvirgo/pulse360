@@ -5,7 +5,7 @@ countryCode: US
 description: Adobe is fully embracing AI tools that enable creators to edit their
   work using descriptive prompts, instead of manually using specific Creative Cloud
   apps. The software giant's…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-15T13:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Allbirds had a hit a decade ago with its Wool Runner shoes, but after
   a $4 billion IPO in 2021, the business never turned a profit, and sales dropped
   nearly 50 percent between…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-15T16:13:30Z'

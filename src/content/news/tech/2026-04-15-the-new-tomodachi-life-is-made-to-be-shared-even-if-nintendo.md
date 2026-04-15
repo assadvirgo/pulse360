@@ -5,7 +5,7 @@ countryCode: JP
 description: 'Tomodachi Life: Living the Dream is hard to explain. The best way to
   understand is to see it in action; a screenshot of Handsome Squidward and Bob Belcher
   falling in love over…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-15T12:00:00Z'

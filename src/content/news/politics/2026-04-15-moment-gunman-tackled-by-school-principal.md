@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CCTV footage shows a high school principal charging towards a former
   student who was armed in Oklahoma.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 71.2
 pubDate: '2026-04-15T09:03:51Z'

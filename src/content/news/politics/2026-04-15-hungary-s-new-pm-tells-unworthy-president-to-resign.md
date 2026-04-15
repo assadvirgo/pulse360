@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungary's incoming prime minister has urged the country's "unworthy"
   president to resign and urged a swift handover of power from Putin-ally Viktor Orban.
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 66.0
 pubDate: '2026-04-15T11:59:00Z'

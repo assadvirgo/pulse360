@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Suneil Setiya of Quadrature Capital, a Labour donor, was behind the UK’s
   most expensive house purchase
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-15T15:30:55Z'
