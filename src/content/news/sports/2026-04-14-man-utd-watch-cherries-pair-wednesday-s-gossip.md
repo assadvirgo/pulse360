@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United watch Premier League pair, Bayern Munich want Harry
   Kane's England team-mate, plus who is next for the Bournemouth job.
-displayOrder: 26
+displayOrder: 36
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-14T20:47:43Z'

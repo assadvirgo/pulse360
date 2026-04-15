@@ -5,7 +5,7 @@ countryCode: US
 description: Florence Pugh and Pedro Pascal are adding their names to the now more
   than 2,000 Hollywood industry professionals who have signed an open letter opposing
   the Paramount-Warner…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 81.8
 pubDate: '2026-04-14T19:58:08Z'

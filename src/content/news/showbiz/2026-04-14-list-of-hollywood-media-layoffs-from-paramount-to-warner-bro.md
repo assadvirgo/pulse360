@@ -5,7 +5,7 @@ countryCode: US
 description: Media layoffs across the entertainment industry are hitting hard after
   last year&#8217;s avalanche of job cuts. The unfortunate trend can still be felt
   following the Covid-19…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 75.0
 pubDate: '2026-04-14T21:58:19Z'

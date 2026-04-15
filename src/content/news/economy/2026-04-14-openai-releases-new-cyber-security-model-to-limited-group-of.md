@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Launch of GPT-5.4-Cyber follows concern about ability of Anthropic’s
   Mythos to find software bugs
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-14T22:30:02Z'

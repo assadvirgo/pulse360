@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Legislative package set to form crucial part of UK prime minister’s push
   to regain momentum after local elections
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 66.5
 pubDate: '2026-04-15T04:00:32Z'

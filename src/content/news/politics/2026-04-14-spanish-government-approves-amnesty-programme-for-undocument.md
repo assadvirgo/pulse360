@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The plan, which could see 500,000 people apply, makes Spain an outlier
   as anti-immigration sentiments fester in Europe.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-14T19:53:36Z'

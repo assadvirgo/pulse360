@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The announcement comes amid concerns from investors about Lucid’s ability
   to stay afloat.
-displayOrder: 36
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-15T00:07:00Z'

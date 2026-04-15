@@ -5,7 +5,7 @@ countryCode: US
 description: One investor who has backed both companies told the FT that justifying
   OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more
   — making Anthropic's…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 68.0
 pubDate: '2026-04-15T02:31:04Z'

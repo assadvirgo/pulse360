@@ -3,7 +3,7 @@ category: Tech
 description: '*insert Godzilla screeching sound* Here''s the very first look at the
   next big kaiju feature. Godzilla Minus Zero will continue the story of 2023''s Godzilla
   Minus One, which…'
-displayOrder: 16
+displayOrder: 24
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-14T23:05:09Z'
