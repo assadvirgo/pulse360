@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Jailed Senegal fans await judge&#039;s reply to their denial of wrongdoing
   at the Africa Cup of Nations final in Morocco.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-14T12:41:48Z'

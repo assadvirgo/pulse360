@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan’s war has displaced millions and caused thousands of deaths, with
   no clear end in sight to the ongoing violence.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-14T16:49:45Z'

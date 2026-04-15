@@ -5,7 +5,7 @@ countryCode: US
 description: The Tony nominee, who sang highlights from his career and other tunes,
   entertained a Los Angeles audience with funny moments and behind-the-scenes tales
   just days before he takes…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-14T18:41:18Z'

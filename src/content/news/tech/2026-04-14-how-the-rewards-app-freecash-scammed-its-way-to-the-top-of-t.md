@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Freecash was removed from Apple's App Store after TechCrunch reached
   out for comment.
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-14T16:43:09Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “He spent $1,000 on his girlfriend at Christmas and several hundred dollars
   on each of her children.”
-displayOrder: 29
+displayOrder: 39
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-14T19:24:00Z'

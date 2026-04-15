@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Eta&#039;s role as the first female manager of a men&#039;s team was
   followed by derogatory ​and sexist comments on social media.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-14T10:39:00Z'

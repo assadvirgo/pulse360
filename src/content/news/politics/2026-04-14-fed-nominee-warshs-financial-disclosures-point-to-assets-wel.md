@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Warsh&#039;s financial disclosures will almost certainly be a focus of
   his upcoming confirmation hearing next week.
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-14T19:00:01Z'

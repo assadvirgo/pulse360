@@ -5,7 +5,7 @@ countryCode: US
 description: In an interview at the Semafor World Economy summit this week, Anthropic
   co-founder Jack Clark explained why the company was still engaged with the U.S.
   government while…
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-14T18:09:12Z'

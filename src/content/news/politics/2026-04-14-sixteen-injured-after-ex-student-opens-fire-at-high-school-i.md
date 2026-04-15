@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Students and teachers are among those who were injured in the attack
   in the country's south-east.
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-14T10:38:55Z'

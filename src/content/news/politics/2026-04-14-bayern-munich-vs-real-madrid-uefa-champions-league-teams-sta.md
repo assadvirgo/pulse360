@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Real Madrid must overturn a 2-1 first-leg disadvantage when they travel
   to Munich for the UCL quarterfinal.
-displayOrder: 18
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-14T16:04:07Z'

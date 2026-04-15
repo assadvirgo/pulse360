@@ -5,7 +5,7 @@ countryCode: US
 description: A new ranking highlights cities with the best job opportunities, affordable
   housing, and quality of life for recent college grads. Here’s how today’s young
   workers can stand out…
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-14T18:53:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Senate Banking Committee Chair Tim Scott said Tuesday that his panel
   will hold a hearing next week to consider President Donald Trump’s nominee for Federal
   Reserve chief, Kevin…
-displayOrder: 17
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-14T18:45:00Z'

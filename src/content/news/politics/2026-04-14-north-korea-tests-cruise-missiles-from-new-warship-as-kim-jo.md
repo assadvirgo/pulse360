@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: North Korea carried out missile tests from its new warship over the weekend,
   observed by leader Kim Jong Un.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-14T10:03:00Z'

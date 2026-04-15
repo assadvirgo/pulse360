@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Muzarabani ‌had agreed to join Islamabad United but switch to India&#039;s
   Kolkata Knight Riders led to Pakistan cricket ban.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-14T11:41:09Z'

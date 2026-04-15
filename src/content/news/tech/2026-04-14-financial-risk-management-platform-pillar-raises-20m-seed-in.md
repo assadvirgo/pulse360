@@ -5,7 +5,7 @@ countryCode: US
 description: Pillar hopes to offer sophisticated, institutional-grade tools to small
   and medium-sized enterprises. "Our goal is to make hedging as accessible and ubiquitous
   as payments or…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-14T16:05:00Z'
