@@ -5,7 +5,7 @@ countryCode: AT
 description: Beta Cinema has posted deals for award-winning Austrian Berlinale 2026
   Panorama title Four Minus Three as it enjoys a strong theatrical launch in its home
   territory and sweeps…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-15T11:29:26Z'

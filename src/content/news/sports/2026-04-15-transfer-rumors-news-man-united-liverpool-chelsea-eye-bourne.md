@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: AFC Bournemouth striker Junior Kroupi has caught the eye of Manchester
   United, Liverpool, and Chelsea. Transfer Talk has the latest.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-15T09:25:01Z'

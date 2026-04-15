@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starbucks is trying to find ways to entice U.S. customers back to its
   cafes.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-15T12:00:05Z'

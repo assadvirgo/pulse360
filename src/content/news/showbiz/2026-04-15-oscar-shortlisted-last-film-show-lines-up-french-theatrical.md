@@ -5,7 +5,7 @@ countryCode: FR
 description: Pan Nalin&#8217;s award-winning Gujarati-language drama &#8220;Last Film
   Show&#8221; will open in French cinemas on June 10, with Friday Entertainment bringing
   the picture to more…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-04-15T06:46:17Z'

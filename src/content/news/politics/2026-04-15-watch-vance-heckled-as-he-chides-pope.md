@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US Vice-President was speaking at a Turning Point USA event, where
   he said Pope Leo should "be careful when he talks about matters of theology."
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-15T03:09:28Z'

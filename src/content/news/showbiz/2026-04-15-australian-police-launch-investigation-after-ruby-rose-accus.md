@@ -5,7 +5,7 @@ countryCode: AU
 description: Australian police have launched an investigation after Ruby Rose accused
   Katy Perry of sexual assault in a string of social media posts. Perry has strongly
   denied the claims.…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-15T12:17:53Z'

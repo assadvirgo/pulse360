@@ -5,7 +5,7 @@ countryCode: US
 description: Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App
   Store in January over its failure to curb the surge of nonconsensual sexual deepfakes
   flooding X, according…
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-15T10:55:22Z'

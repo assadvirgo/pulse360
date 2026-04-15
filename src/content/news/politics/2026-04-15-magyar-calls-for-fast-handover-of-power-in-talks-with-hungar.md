@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Péter Magyar, the man who ended Viktor Orbán's 16 years of continuous
   rule, wants the new parliament to convene in early May.
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-15T10:50:14Z'

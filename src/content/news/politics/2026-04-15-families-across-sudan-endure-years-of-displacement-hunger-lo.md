@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: More than nine million people remain displaced in Sudan, while nearly
   29 million face acute hunger.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-15T08:02:22Z'

@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Peru’s presidential candidate Rafael Lopez Aliaga is urging officials
   to declare Sunday’s election &#039;null and void’.
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-15T05:24:01Z'

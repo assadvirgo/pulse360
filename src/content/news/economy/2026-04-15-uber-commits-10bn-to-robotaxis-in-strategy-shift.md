@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ride-hailing app races to make up lost ground with equity investments
   and vehicle order commitments
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-15T04:00:18Z'
