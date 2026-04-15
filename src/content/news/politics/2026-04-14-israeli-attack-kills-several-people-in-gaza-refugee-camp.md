@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinians in Gaza recorded victims of an Israeli strike on the Shati
   refugee camp being rushed to a medical facility.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-14T20:35:55Z'

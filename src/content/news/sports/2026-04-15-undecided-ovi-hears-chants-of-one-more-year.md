@@ -5,7 +5,7 @@ countryCode: US
 description: Alex Ovechkin, who assisted on Jakob Chychrun's go-ahead goal during
   the third period of the Washington Capitals' 2-1 victory over the Columbus Blue
   Jackets in the season finale…
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-15T06:13:16Z'

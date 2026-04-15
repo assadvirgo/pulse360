@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Critics worry the country is heading towards a two-tier system. Dentistry
   is a cautionary tale
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-15T04:00:11Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Police in France have arrested students in Paris during a sit-in against
   a controversial anti-Semitism bill.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-14T23:50:18Z'

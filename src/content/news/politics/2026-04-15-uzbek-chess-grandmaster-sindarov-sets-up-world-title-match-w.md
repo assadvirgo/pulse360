@@ -4,7 +4,7 @@ country: Uzbekistan
 countryCode: UZ
 description: Javokhir Sindarov wins the Candidates Tournament with ⁠a round ⁠to spare
   and will face India&#039;s Gukesh next.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-15T07:04:44Z'

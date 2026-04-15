@@ -5,7 +5,7 @@ countryCode: US
 description: The United States' foreign router ban didn't make a whole lot of sense,
   and today may not change that. The FCC has just granted Netgear a conditional approval
   to import its future…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-04-14T20:57:07Z'

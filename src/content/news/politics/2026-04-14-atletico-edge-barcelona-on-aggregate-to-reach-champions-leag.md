@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Atletico Madrid advance 3-2 on aggregate, despite a 2-1 home defeat by
   Barcelona, in a thrilling encounter.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-14T21:30:24Z'

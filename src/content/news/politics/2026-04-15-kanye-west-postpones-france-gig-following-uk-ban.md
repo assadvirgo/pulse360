@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: It comes a week after the UK government announced it would block the
   rapper from entering the country.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-15T08:29:43Z'

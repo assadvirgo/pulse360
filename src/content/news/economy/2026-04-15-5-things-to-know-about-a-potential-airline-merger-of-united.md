@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Even in a White House viewed as business friendly, a United and American
   combo would be bound to raise some serious concerns.
-displayOrder: 31
+displayOrder: 47
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-15T00:04:00Z'

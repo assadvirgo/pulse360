@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The U.S. stock market has suffered a significant correction in every
   single midterm election year since 1950, warns Lansing Street Advisors.
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-15T02:45:00Z'

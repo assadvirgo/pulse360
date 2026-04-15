@@ -2,7 +2,7 @@
 category: Politics
 description: We discuss the global standing of the US after launching war against
   Iran and years of worsening views of the nation.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 70.5
 pubDate: '2026-04-14T19:30:00Z'

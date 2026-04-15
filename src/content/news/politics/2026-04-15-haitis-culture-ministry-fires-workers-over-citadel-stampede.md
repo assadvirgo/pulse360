@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: At least nine people have been arrested following the stampede, including
   police officers and ministry employees.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-15T00:11:37Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: Kanye West has postponed a concert in the French port city of Marseille
   in June following news that France was studying options for banning the event due
   to his past antisemitic…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-15T07:19:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is reportedly ending production of its Surface Hub 3 collaborative
   office display and canceling plans for a Surface Hub 4, according to Windows Central.
   The extra-large…
-displayOrder: 39
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-14T22:56:52Z'
