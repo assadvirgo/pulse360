@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The decision comes months after Israel became the first country to recognise
   the territory, in a widely condemned move.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-15T21:05:27Z'

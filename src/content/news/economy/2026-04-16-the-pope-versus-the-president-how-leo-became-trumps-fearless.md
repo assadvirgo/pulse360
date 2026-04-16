@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As he steps up his criticism of the Iran war, the pontiff’s American
   background has given him a role in US politics unlike any predecessor
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-16T04:00:22Z'

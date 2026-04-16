@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Goldman's identity as a trader's firm — one expected to perform in turbulent
   markets — makes any stumble in the division notable.
-displayOrder: 46
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-15T21:31:54Z'

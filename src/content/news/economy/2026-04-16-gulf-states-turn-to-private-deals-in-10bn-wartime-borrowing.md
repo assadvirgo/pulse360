@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Abu Dhabi, Qatar and Kuwait avoid public markets for fundraising as Iran
   conflict delivers economic hit
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-16T04:00:22Z'

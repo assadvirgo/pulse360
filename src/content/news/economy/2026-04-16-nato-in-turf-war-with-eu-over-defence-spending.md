@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: At the heart of the dispute is buying US weapons with EU money
-displayOrder: 16
+displayOrder: 21
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-16T04:00:34Z'

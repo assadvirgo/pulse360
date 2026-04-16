@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Many Fed districts also reported growing signs of financial strain among
   consumers, along with increased price sensitivity and rising demand at food banks.
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-15T22:12:00Z'

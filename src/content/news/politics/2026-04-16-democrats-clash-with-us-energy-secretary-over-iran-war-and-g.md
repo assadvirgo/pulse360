@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Watch the moment a Democratic congresswoman tells the US Energy Secretary
   he is ‘living in a different world’.
-displayOrder: 14
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-16T03:26:11Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The departure was announced alongside Ford detailing a new restructuring
   that includes the establishment of a "Product Creation and Industrialization" unit.
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-15T20:05:19Z'

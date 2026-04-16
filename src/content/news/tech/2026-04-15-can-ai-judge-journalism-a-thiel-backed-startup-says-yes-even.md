@@ -5,7 +5,7 @@ countryCode: US
 description: Objection, a Thiel-backed startup, aims to use AI to judge journalism,
   letting users pay to challenge stories. Critics warn it could chill whistleblowers
   and reshape how media…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-15T18:33:20Z'

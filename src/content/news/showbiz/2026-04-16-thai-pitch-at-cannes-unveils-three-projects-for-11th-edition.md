@@ -5,7 +5,7 @@ countryCode: TH
 description: Three Thai feature projects – among them a World War II drama from &#8220;Beautiful
   Boxer&#8221; helmer Ekachai Uekrongtham – will go before industry buyers and programmers
   at the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-16T03:35:19Z'

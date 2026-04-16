@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nuclear startup X-energy hit the road today to sell prospective investors
   on its initial public offering.
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-15T22:44:26Z'

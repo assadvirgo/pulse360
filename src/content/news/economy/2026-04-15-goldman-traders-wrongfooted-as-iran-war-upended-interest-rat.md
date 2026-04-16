@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wall Street bank’s rates desk was key driver behind unexpected drop in
   fixed-income revenue
-displayOrder: 30
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-15T21:42:29Z'

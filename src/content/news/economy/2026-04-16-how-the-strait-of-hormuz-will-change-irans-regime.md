@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: A system fixated on building up military deterrents has discovered its
   most important point of leverage over the world
-displayOrder: 44
+displayOrder: 47
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-16T04:00:22Z'
