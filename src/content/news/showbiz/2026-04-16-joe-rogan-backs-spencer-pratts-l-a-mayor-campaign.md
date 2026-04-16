@@ -3,7 +3,7 @@ category: Showbiz
 country: United States
 countryCode: US
 description: The reality star is hoping to unseat Karen Bass, who is running for reelection.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-16T02:47:59Z'

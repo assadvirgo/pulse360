@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Investigation centres on whether Bolsonaro committed defamation by linking
   Lula to crimes like drug trafficking.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-15T21:45:31Z'

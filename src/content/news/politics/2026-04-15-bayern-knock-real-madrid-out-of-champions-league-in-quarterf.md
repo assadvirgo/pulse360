@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Luis Diaz and Michael Olise score late goals in Munich to give Bayern
   a dramatic 6-4 aggregate win over Real Madrid.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-15T21:31:04Z'

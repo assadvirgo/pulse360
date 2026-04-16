@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Video shows Israeli forces firing stun grenades towards journalists who
   were reporting on the army’s raid of Nablus.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-16T01:54:10Z'

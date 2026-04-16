@@ -3,7 +3,7 @@ category: Economy
 country: Taiwan
 countryCode: TW
 description: Crossover comes as chipmaker TSMC reports record first-quarter profit
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-16T07:03:36Z'

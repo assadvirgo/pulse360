@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: The turbulent election has prompted fraud claims by candidates and frustration
   with the country&#039;s chaotic politics.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-15T23:06:31Z'

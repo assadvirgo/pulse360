@@ -4,7 +4,7 @@ country: Cameroon
 countryCode: CM
 description: US President Donald Trump has lashed out at pope over calls for peace
   and criticism of US war on Iran.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-15T18:57:57Z'

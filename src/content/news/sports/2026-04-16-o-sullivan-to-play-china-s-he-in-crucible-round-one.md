@@ -5,7 +5,7 @@ countryCode: GB
 description: Seven-time winner Ronnie O'Sullivan begins his bid for a record-breaking
   eighth World Snooker Championship title with a match against China's debutant He
   Guoqiang at the Crucible.
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 63.2
 pubDate: '2026-04-16T08:16:03Z'

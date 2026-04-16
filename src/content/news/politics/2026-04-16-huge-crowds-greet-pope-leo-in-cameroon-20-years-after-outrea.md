@@ -4,7 +4,7 @@ country: Cameroon
 countryCode: CM
 description: Huge crowds have greeted Pope Leo in Cameroon, returning to a country
   he visited 20 years ago as ‘Father Bob’.
-displayOrder: 34
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-16T00:32:30Z'

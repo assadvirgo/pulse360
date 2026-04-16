@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Deadly attacks hit Kyiv, Odesa, and Dnipro, while Russia says two children
   killed in Ukrainian attacks.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-16T01:06:01Z'

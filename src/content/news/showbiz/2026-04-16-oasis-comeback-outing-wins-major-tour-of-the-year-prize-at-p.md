@@ -5,7 +5,7 @@ countryCode: US
 description: Oasis&#8217; 2025 reunion tour won the Major Tour of the Year award at
   the 2026 Pollstar Awards, held Wednesday night in Hollywood as the centerpiece event
   of the annual Pollstar…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-16T06:07:25Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Shares of Live Nation sank on Wednesday after a jury found that the Ticketmaster
   parent had acted as an illegal monopoly over the ticketing industry, according to
   reports.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-16T00:12:00Z'

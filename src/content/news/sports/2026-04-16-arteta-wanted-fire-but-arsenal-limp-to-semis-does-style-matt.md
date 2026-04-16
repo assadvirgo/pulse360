@@ -5,7 +5,7 @@ countryCode: GB
 description: Mikel Arteta wanted "fire" from his Arsenal players but instead got a
   sluggish performance as the Gunners did what was needed to reach the Champions League
   semi-finals.
-displayOrder: 23
+displayOrder: 41
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-16T00:07:45Z'

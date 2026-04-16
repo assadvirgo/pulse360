@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New breed of products from firms such as AQR and Quantinno has soared
   in popularity, raising regulatory concerns
-displayOrder: 29
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-16T04:00:14Z'
