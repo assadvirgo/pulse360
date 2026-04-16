@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: A major fire at a key refinery in Australia refinery has disrupted fuel
   production, raising fears of fuel shortages.
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-16T08:04:59Z'

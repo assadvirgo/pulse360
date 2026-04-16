@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The US technology company is opposed by some employees but its software
   is getting results
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-16T04:00:22Z'

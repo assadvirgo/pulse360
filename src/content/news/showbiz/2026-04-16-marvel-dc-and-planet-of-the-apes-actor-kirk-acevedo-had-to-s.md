@@ -5,7 +5,7 @@ countryCode: US
 description: Kirk Acevedo, a working actor who has appeared in series for Marvel (&#8220;Agents
   of S.H.I.E.L.D.&#8221;) and DC (&#8220;Arrow&#8221;) and in movies such as &#8220;Dawn
   of the…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-16T09:00:07Z'

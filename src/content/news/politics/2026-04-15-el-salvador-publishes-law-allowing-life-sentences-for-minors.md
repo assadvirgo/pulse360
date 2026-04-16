@@ -4,7 +4,7 @@ country: El Salvador
 countryCode: SV
 description: The new sentencing measure comes as President Nayib Bukele oversees a
   four-year-long state of emergency against crime.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-15T23:45:44Z'

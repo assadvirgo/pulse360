@@ -5,7 +5,7 @@ countryCode: US
 description: Spotify and the three major labels have won a $322 million default judgement
   against Anna's Archive, the open-source library and pirate activist group that planned
   to publicly…
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-16T11:27:42Z'

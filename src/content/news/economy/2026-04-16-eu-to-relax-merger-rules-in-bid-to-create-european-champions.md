@@ -2,7 +2,7 @@
 category: Economy
 description: Draft reforms stress benefits of scale and investment in competition
   regulator’s assessment of proposed deals
-displayOrder: 32
+displayOrder: 48
 heroImage: ''
 importance: 41.5
 pubDate: '2026-04-16T09:41:35Z'

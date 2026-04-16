@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nomura strategist Charlie McElligott says there’s no reason to abandon
   this market chase higher, but there may soon be.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-16T12:05:00Z'

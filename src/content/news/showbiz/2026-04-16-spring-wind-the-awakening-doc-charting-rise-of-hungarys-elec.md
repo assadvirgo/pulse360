@@ -5,7 +5,7 @@ countryCode: HU
 description: The international premiere of documentary &#8220;Spring Wind – The Awakening,&#8221;
   charting the political journey of Hungarian opposition leader Péter Magyar that
   culminated…
-displayOrder: 4
+displayOrder: 20
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-16T08:54:43Z'

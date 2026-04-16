@@ -5,7 +5,7 @@ countryCode: US
 description: Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar
   bet on electric vehicles and software, is stepping down next month. Replacing him
   will be Alan Clarke,…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 81.2
 pubDate: '2026-04-15T20:05:00Z'

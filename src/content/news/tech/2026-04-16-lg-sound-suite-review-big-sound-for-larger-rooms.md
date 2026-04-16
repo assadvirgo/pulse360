@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: The Dolby Atmos soundbar setup rivals the best from Samsung and Sonos.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-16T11:33:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: 'EXCLUSIVE: The BBC&#8217;s interim director general has said he is &#8220;incredibly
   frustrated&#8221; after news of 2,000 layoffs was leaked to the media before being…'
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-16T12:11:14Z'

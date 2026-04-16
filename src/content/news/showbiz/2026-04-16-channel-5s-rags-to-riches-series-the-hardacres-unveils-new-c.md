@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: Channel 5 (now 5) is leaning into its dynastic period drama
   The Hardacres and we&#8217;ve got new cast and a first look at Season 2. New faces
   include Michele Dotrice…'
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-16T08:00:00Z'

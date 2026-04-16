@@ -3,7 +3,7 @@ category: Sports
 description: LIV Golf chief executive Scott O'Neil reportedly tells players that the
   2026 season will continue uninterrupted amid rumours that the tour is on the verge
   of collapse.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-16T07:56:59Z'

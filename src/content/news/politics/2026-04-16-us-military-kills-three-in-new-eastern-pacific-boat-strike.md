@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The attack is the latest in a string of killings by the United States
   that rights groups say are &#039;unlawful&#039;.
-displayOrder: 25
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-16T06:34:58Z'
