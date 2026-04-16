@@ -5,7 +5,7 @@ countryCode: US
 description: Sen. Cory Booker (D-NJ) said that he still is inviting Paramount CEO
   David Ellison to testify on the proposed acquisition of Warner Bros. Discovery,
   after the lawmaker held a 2…
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 69.0
 pubDate: '2026-04-15T22:59:40Z'

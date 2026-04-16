@@ -5,7 +5,7 @@ countryCode: CH
 description: The owners of the Swiss bar Le Constellation, which caught on fire on
   New Year's Eve, killing 41 young people, have been placed under criminal investigation
   by Italian…
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-15T21:00:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran says it will halt all trade in the Gulf if the US continues blocking
   its vessels.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-15T15:29:38Z'

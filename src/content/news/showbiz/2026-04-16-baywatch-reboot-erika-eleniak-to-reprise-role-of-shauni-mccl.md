@@ -5,7 +5,7 @@ countryCode: US
 description: Another familiar face has joined the &#8220;Baywatch&#8221; reboot at
   Fox. Erika Eleniak, who starred in the first two seasons of the show before departing
   at the beginning of…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-16T00:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Hello and welcome to Regulator, a newsletter for Verge subscribers about
   Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the
   great beyond, like…
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-15T19:50:31Z'

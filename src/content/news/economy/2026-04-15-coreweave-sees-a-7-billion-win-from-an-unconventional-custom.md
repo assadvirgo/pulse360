@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The arrangement shows that computing is increasingly relevant to the
   financial sector.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-15T18:10:00Z'

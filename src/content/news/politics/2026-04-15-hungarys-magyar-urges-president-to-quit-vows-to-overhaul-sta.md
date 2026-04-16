@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Incoming Prime Minister Peter Magyar says his government could be formed
   by mid-May.
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-15T19:56:29Z'

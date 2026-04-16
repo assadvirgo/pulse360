@@ -5,7 +5,7 @@ countryCode: US
 description: 'Han Solo is coming to Star Wars: Galaxy’s Edge at Disneyland in Anaheim,
   Calif. on April 29, but not all fans are satisfied with the new look of the intergalactic
   smuggler. On…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-15T20:57:01Z'

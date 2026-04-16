@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The startup had faced mounting pressure from dealers, farmers, and a
   co-founder who complained that Monarch's tech didn't work properly.
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 72.0
 pubDate: '2026-04-15T21:05:21Z'

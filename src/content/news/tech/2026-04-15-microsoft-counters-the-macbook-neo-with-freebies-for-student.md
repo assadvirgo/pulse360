@@ -5,7 +5,7 @@ countryCode: US
 description: Apple's $599 MacBook Neo ($499 for students) has sent shockwaves through
   the PC ecosystem, and now Microsoft is responding with deals targeting students
   in the US. A new…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-15T18:03:46Z'

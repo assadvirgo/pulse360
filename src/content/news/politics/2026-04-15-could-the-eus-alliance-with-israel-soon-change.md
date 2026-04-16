@@ -2,7 +2,7 @@
 category: Politics
 description: A European Union petition is on track to trigger a formal review of the
   EU-Israel Association Agreement.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-15T21:09:55Z'

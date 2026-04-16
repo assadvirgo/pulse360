@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Bayern Munich are monitoring Sunderland forward Brian Brobbey ahead of
   a potential summer move. Transfer Talk has the latest.
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-15T19:40:58Z'
