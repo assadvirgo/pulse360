@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: After the failure in Gaza and Iran, the Israeli prime minister hopes
   he can be triumphant in Lebanon.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-15T16:38:12Z'

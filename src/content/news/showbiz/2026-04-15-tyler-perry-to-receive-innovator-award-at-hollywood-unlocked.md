@@ -5,7 +5,7 @@ countryCode: US
 description: Multihyphenate film and TV pioneer Tyler Perry will be among the honorees
   at the sixth annual Hollywood Unlocked Impact Awards. The annual award show spotlights
   celebrities,…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-04-15T16:00:00Z'

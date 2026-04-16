@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Would it make sense for the Eagles, Bears and Chiefs to trade up? Here's
   our advice for 10 teams.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-15T12:27:05Z'

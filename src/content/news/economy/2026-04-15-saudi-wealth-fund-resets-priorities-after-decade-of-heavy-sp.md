@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Governor says near-$1tn PIF will focus on efficiency without retreating
   from global deals
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-15T19:02:17Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;You&#8217;re in the jungle, baby&#8221;. He certainly is. AMC+
   and Shudder have dropped the trailer for The Terror: Devil in Silver, ahead of its
   May 7 premiere. The latest…'
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-15T16:00:52Z'

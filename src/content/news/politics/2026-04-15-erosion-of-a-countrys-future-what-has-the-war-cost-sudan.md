@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan&#039;s civil war, which erupted three years ago, has devastated
   civilian infrastructure, pushed millions into misery.
-displayOrder: 23
+displayOrder: 38
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-15T14:24:12Z'

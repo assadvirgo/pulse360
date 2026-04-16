@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Sovereign wealth fund reconsiders backing for lossmaking golf tour as
   Iran war prompts investment rethink
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-15T17:15:16Z'

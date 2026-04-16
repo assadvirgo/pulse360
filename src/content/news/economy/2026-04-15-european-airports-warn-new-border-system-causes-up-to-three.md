@@ -2,7 +2,7 @@
 category: Economy
 description: Operators in 15 countries report disruption as new EU electronic entry/exit
   system fully comes into force
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-15T08:44:02Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US is sending additional troops to the Middle East this month, according
   to The Washington Post.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-15T15:27:37Z'
