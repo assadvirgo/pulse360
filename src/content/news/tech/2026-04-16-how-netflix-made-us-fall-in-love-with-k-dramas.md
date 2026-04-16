@@ -3,7 +3,7 @@ category: Tech
 description: This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving
   intersection of tech and entertainment, syndicated just for The Verge subscribers
   once a week. What do you…
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-16T15:30:00Z'

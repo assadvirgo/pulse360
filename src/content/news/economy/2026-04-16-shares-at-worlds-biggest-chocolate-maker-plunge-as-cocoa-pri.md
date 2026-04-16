@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Company warns of effect of falling cocoa prices, industry overcapacity
   and supply disruptions
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-16T09:04:30Z'

@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The fire has deepened fears over the nation's petrol supplies amid a
   global crunch.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-16T03:45:29Z'

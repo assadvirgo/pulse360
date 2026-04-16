@@ -3,7 +3,7 @@ category: Economy
 country: Israel
 countryCode: IL
 description: US president posts that 10-day truce will start on Thursday evening
-displayOrder: 14
+displayOrder: 34
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-16T15:52:17Z'

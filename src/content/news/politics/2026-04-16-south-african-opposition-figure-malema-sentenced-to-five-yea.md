@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Malema is appealing against the decision to prevent him from being taken
   to prison on Thursday.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-16T11:32:12Z'

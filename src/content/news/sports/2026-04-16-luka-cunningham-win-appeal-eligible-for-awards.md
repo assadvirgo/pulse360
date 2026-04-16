@@ -5,7 +5,7 @@ countryCode: US
 description: Luka Doncic and Cade Cunningham are eligible for season honors after
   their challenge of the 65-game rule was approved, while Anthony Edwards' challenge
   was declined.
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-16T17:12:57Z'

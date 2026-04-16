@@ -5,7 +5,7 @@ countryCode: AU
 description: What is Australian independent cinema making of the wider world right
   now? Five answers are set to emerge at the Cannes Film Festival next month, where
   the Adelaide Film Festival…
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-16T08:00:00Z'

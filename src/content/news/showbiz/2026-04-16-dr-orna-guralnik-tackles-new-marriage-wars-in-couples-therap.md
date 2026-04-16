@@ -5,7 +5,7 @@ countryCode: US
 description: The Paramount+ reality series returns with four new partners in crisis
   and being counseled by the celebrity psychoanalyst to keep their relationships on
   the rails.
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 71.8
 pubDate: '2026-04-16T16:00:00Z'

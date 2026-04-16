@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While futures markets bet on peace, the ‘hidden’ price of physical oil
   is at record highs — and it’ll hit your utility bill next.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-16T15:55:00Z'

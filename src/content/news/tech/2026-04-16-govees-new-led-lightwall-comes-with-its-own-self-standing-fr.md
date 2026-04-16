@@ -3,7 +3,7 @@ category: Tech
 description: Govee has announced an upgraded version of its hanging Curtain Lights
   Pro that can instead be used nearly anywhere you have access to an outlet or large
   battery. At $449.99,…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-16T12:00:00Z'

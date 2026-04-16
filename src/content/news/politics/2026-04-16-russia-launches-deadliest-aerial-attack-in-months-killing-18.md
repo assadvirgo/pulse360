@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A Ukrainian drone attack killed two people in Russia, Moscow says, after
   an Orthodox Easter truce.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-16T15:20:59Z'

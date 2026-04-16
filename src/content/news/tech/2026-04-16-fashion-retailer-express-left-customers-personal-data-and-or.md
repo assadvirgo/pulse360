@@ -5,7 +5,7 @@ countryCode: US
 description: Retail giant Express was publicly spilling customer information to the
   open web. The bug is now fixed after TechCrunch alerted Express, but the company
   would not say if it plans…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-04-16T12:39:56Z'

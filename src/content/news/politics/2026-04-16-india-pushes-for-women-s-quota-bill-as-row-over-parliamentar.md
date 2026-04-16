@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Southern Indian leaders urge mass mobilisation over concerns about redrawing
   electoral boundaries.
-displayOrder: 15
+displayOrder: 36
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-16T14:26:17Z'
