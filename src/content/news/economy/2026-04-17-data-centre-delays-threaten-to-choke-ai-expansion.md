@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Almost 40% of such builds in US risk hold-ups, including projects tied
   to Microsoft and OpenAI
-displayOrder: 43
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-17T04:00:12Z'

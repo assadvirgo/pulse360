@@ -5,7 +5,7 @@ countryCode: US
 description: After a jury found that Live Nation-Ticketmaster violated antitrust law
   on several counts, the company warns in a blog post that the verdict "is not the
   last word on this matter."…
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 70.2
 pubDate: '2026-04-16T19:02:12Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rights advocates hail &#039;historic&#039; shift as 40 out of 47 Democratic
   senators vote to block military bulldozers to Israel.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-16T20:03:08Z'

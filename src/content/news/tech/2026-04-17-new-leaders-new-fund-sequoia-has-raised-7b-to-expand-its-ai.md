@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The fundraise is the first major capital raise under Sequoia's new leadership,
   with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-17T02:55:06Z'

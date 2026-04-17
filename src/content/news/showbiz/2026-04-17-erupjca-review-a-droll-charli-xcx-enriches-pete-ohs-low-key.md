@@ -5,7 +5,7 @@ countryCode: PL
 description: Only a species suffering from terminal main character syndrome would,
   when describing intimately human experiences like love, reach for the language of
   global cataclysm. Tsunami,…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-17T00:56:44Z'

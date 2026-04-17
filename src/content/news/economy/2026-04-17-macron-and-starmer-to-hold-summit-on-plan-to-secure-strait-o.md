@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French and UK leaders are expected to brief Donald Trump after meeting
   on Friday
-displayOrder: 21
+displayOrder: 26
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-17T04:00:22Z'

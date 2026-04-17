@@ -5,7 +5,7 @@ countryCode: US
 description: Singer D4vd has been arrested for the murder of Celeste Rivas Hernandez,
   who was found dead in Hollywood in the trunk of his Tesla in September. According
   to the LAPD, D4vd, whose…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-17T00:30:10Z'

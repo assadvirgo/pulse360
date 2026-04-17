@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Displaced Lebanese in Beirut said they do not yet trust whether the ceasefire
   between Israel and Lebanon will hold.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-16T20:10:16Z'

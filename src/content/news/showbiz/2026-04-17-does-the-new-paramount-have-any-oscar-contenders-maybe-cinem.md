@@ -5,7 +5,7 @@ countryCode: US
 description: More from the Oscar front at CinemaCon. At the recently concluded 98th
   Academy Awards Paramount Pictures had exactly zero Oscar nominations. That is not
   a great lead into David…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-17T02:02:29Z'

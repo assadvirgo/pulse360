@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Madison Air raises $2.2 billion in the largest IPO this year, and the
   largest from the industrial sector since 1999.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-04-16T23:55:00Z'
