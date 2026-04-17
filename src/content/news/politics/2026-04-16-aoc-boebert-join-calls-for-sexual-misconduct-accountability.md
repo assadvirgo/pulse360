@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawmakers who represent leftward and rightward flanks of their parties
   call for reform after Congress members resign.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-04-16T20:40:05Z'

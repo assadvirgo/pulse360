@@ -5,7 +5,7 @@ countryCode: GB
 description: Neil Lennon reckons John McGlynn should be "in the conversation" to become
   the next Celtic manager as the Dunfermline Athletic boss aims to get the better
   of his Falkirk…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-17T07:31:32Z'

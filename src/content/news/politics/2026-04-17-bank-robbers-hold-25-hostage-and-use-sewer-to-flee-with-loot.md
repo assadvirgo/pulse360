@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Armed robbers have targeted a bank in the Italian city of Naples - holding
   25 people hostage before escaping through a tunnel.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-17T02:26:00Z'

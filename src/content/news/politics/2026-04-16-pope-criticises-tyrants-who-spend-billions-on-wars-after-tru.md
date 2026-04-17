@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The comments follow a high-profile spat with US President Donald Trump,
   who called the Pope weak on crime.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 71.2
 pubDate: '2026-04-16T18:40:45Z'

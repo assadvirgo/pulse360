@@ -5,7 +5,7 @@ countryCode: IN
 description: Anubhav Sinha spent years carrying the unease before &#8220;Assi&#8221;
   became a film. The director, whose socially driven second act began with &#8220;Mulk&#8221;
   in 2018, tells…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-17T04:20:24Z'

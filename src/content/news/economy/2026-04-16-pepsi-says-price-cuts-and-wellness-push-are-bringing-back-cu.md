@@ -5,7 +5,7 @@ countryCode: US
 description: PepsiCo shares rallied Thursday after the beverage and snack giant indicated
   that new products and recent price cuts had brought back wary customers, while noting
   that it hadn’t…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-16T23:33:00Z'

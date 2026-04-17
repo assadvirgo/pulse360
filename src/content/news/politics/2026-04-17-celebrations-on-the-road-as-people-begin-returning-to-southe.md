@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: People celebrate on the roads in southern Lebanon as they drive to their
   homes after the ceasefire announcement.
-displayOrder: 14
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-17T01:07:10Z'

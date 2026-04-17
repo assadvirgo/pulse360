@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: As global economic uncertainty mounts, stockpiling is back
-displayOrder: 27
+displayOrder: 44
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-17T04:00:22Z'

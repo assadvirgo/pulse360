@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Hundreds turned out to the funerals of eight students who were fatally
   shot at school in Turkiye’s Kahramanmaras.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-16T21:15:23Z'

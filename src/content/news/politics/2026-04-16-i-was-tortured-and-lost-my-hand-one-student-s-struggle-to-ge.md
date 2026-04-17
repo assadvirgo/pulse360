@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The BBC speaks to a student who pushed for his his toe print to be taken
   to verify his identity.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-16T23:54:53Z'

@@ -5,7 +5,7 @@ countryCode: CH
 description: Jacqueline Zünd’s new film, which takes audiences to the Persian Gulf
   region with stylized imagery and sound, world premieres at the Swiss doc festival
   Visions du Réel.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-17T06:00:00Z'

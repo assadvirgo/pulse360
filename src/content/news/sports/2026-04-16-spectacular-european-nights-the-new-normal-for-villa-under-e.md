@@ -5,7 +5,7 @@ countryCode: GB
 description: Ten years ago, Aston Villa were relegated to English football's second
   tier for the first time since 1987. Now they are in their second European semi-final
   in three seasons.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-16T23:22:55Z'

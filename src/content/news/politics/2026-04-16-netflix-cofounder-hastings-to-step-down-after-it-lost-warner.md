@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company&#039;s stock plunged about 8 percent on the news of Hastings&#039;s
   departure.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-16T21:34:39Z'

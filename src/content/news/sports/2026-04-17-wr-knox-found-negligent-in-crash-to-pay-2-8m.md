@@ -5,7 +5,7 @@ countryCode: US
 description: A Texas court on Wednesday issued a default judgment of more than $2.8
   million against Theodore Knox, the co-defendant in one of the civil lawsuits against
   Chiefs receiver Rashee…
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-17T00:50:14Z'
