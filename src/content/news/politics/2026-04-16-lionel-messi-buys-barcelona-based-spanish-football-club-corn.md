@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The Argentina and Inter Miami forward has bought Cornella, who play in
   the same city as his former club Barcelona.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 66.5
 pubDate: '2026-04-16T19:19:03Z'

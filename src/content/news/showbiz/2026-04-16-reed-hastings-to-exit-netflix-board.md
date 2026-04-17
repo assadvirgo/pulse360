@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix co-founder and chairman Reed Hastings, who served as CEO for
   25 years, is leaving the streaming giant&#8217;s board of directors. Hastings is
   leaving the Netflix board…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-16T20:10:06Z'

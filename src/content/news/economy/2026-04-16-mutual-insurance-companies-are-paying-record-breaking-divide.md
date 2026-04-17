@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While most carriers pocket your premiums, mutual-insurance companies
   are owned by their customers.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-16T23:59:00Z'

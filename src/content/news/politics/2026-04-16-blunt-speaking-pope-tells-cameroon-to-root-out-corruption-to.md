@@ -4,7 +4,7 @@ country: Cameroon
 countryCode: CM
 description: The pontiff was unusually forthright in his address at the presidential
   palace.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 78.2
 pubDate: '2026-04-16T11:28:42Z'

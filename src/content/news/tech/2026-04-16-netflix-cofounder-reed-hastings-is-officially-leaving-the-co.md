@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix cofounder and chairman Reed Hastings plans to leave the company
   after nearly 30 years. The news comes as part of Netflix's Q1 2026 earnings results
   released on Thursday,…
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-16T20:23:00Z'

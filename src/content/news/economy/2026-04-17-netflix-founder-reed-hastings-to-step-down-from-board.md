@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares fall more than 9% as streamer posts weak profit forecast and chair
   announces plans to leave in June
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-17T00:08:13Z'

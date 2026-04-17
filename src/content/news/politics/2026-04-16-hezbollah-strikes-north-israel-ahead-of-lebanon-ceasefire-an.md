@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Firefighters worked to extinguish a fire after a rocket attack from Hezbollah
   hit Kiryat Shmona in northern Israel.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 70.5
 pubDate: '2026-04-16T19:19:17Z'

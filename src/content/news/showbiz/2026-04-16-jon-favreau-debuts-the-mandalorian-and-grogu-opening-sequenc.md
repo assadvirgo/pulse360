@@ -5,7 +5,7 @@ countryCode: US
 description: Disney and Lucasfilm have offered a new extended look at The Mandalorian
   and Grogu, their Star Wars film marking the first in the franchise to hit theaters
   since The Rise of…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-16T22:30:35Z'

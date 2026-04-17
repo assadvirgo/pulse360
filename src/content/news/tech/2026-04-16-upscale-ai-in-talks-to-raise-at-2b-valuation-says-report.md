@@ -2,7 +2,7 @@
 category: Tech
 description: AI infrastructure company Upscale AI is reportedly in talks to raise
   its third funding round since launching just seven months ago.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-16T20:41:13Z'

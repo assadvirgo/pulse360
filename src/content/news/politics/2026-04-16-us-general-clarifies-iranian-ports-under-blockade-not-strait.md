@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A US general had to clarify that the US military is only blockading Iranian
   ports, not the entire Strait of Hormuz.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-16T16:55:34Z'

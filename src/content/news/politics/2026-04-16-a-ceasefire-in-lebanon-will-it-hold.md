@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: 'After rare talks, a ceasefire in Lebanon raises one question: what happens
   on the ground next?'
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-16T20:58:40Z'

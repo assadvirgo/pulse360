@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Devils have hired Sunny Mehta, who was an assistant GM when the Panthers
   won the Stanley Cup the past two years, as their general manager.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-17T00:50:14Z'
