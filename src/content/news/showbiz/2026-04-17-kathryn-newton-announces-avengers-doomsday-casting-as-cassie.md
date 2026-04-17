@@ -5,7 +5,7 @@ countryCode: US
 description: 'Cassie Lang will return in &#8220;Avengers: Doomsday.&#8221; Kathryn
   Newton announced on Instagram on Friday that she is one of the, let&#8217;s face
   it, half of SAG-AFTRA&#8217;s…'
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-17T15:29:44Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Anthropic’s new Claude Mythos Preview model could expose vulnerabilities
   in lenders’ cyber defences
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-17T04:00:40Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Playing in front of around 28,000 fans at Murrayfield on Saturday is
   a seismic achievement for women's rugby in Scotland, writes Tom English.
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-17T15:31:57Z'

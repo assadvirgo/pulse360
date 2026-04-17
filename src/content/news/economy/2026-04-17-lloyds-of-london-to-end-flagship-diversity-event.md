@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Insurance marketplace has for years faced claims of sexual harassment
   and inappropriate workplace behaviour
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-17T13:19:36Z'

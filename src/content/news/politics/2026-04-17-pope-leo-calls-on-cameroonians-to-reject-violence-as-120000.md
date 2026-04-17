@@ -4,7 +4,7 @@ country: Cameroon
 countryCode: CM
 description: Preaching at a packed stadium in Douala, Pontiff shares a message of
   hope, peace and faith during Africa trip.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-17T12:32:00Z'

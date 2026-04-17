@@ -5,7 +5,7 @@ countryCode: FR
 description: Italian executive Marco Chimenz has stepped down as co-managing director
   of Paris-based pan-European production and sales company Federation Studios after
   less than three years.…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-17T15:28:22Z'

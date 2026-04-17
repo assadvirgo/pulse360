@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: US President Donald Trump announced the 10-day ceasefire between the
   two countries.
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-17T10:57:23Z'

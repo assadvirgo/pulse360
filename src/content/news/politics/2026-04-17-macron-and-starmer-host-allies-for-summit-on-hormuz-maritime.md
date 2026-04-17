@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: US not part of France- and UK-led talks on a post-war Hormuz maritime
   force, but Europe&#039;s role remains limited.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-17T12:45:32Z'

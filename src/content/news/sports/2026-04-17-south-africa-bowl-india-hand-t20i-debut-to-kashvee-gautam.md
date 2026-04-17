@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Without Marizanne Kapp, who is recovering from illness, Ayabonga Khaka
   will lead the pace attack with Tumi Sekhukhune for SA
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-17T16:13:55Z'

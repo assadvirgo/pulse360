@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Arrest comes after police found the body of Celeste Rivas in a car registered
   to the musician last year.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-17T08:23:11Z'

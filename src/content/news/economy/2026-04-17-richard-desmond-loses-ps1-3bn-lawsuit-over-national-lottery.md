@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Media tycoon’s Northern & Shell argued regulator had favoured Allwyn
   in award process
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-17T11:42:21Z'
