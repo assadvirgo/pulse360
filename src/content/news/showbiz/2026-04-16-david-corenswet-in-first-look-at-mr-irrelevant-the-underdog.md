@@ -5,7 +5,7 @@ countryCode: US
 description: 'Paramount has debuted the first trailer for Mr. Irrelevant: The John
   Tuggle Story, its true-life football pic starring Superman&#8216;s David Corenswet,
   which opens Christmas Day.…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-16T18:27:45Z'

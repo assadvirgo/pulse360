@@ -5,7 +5,7 @@ countryCode: US
 description: New Jersey Governor Mikie Sherrill accuses Fifa of failing to provide
   funding, which means fans must foot the bill for high transport costs at the World
   Cup this summer.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-16T11:02:13Z'

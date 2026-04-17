@@ -2,7 +2,7 @@
 category: Politics
 description: Debt, employer control and temporary visa rules can leave migrant workers
   trapped.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-16T13:30:23Z'

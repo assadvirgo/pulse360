@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The star, who has largely been outside of the spotlight since his heated
   divorce trial with Amber Heard, made an appearance during Paramount's presentation.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-16T18:42:38Z'

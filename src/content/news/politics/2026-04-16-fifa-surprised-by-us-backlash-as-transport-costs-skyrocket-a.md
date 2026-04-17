@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Both a top US lawmaker and the governor of New Jersey ask FIFA to pay
   World Cup transport bill amid ticket hikes.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-16T14:13:31Z'

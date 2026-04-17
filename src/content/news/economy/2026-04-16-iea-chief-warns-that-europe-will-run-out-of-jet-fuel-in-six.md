@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Lufthansa and KLM have both announced flight cuts for the summer season
-displayOrder: 39
+displayOrder: 50
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-16T15:02:00Z'

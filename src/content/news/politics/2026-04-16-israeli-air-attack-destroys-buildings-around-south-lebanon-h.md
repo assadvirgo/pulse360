@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israeli strikes in the vicinity of a hospital in southern Lebanon destroyed
   buildings and several emergency vehicles.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-16T08:55:44Z'

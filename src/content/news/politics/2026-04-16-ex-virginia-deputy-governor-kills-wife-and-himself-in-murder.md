@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investigators say Justin Fairfax shot his wife, Cerina, multiple times
   before turning the gun on himself.
-displayOrder: 32
+displayOrder: 45
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-16T15:41:33Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Residents in Israel have been documenting thousands of bees swarming
   the southern city of Netivot.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-16T15:39:25Z'

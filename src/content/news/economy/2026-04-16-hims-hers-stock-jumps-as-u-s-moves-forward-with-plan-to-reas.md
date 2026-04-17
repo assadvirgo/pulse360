@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hims & Hers Health’s plan to enter the business of selling peptides is
   looking a lot more realistic.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-16T11:50:00Z'

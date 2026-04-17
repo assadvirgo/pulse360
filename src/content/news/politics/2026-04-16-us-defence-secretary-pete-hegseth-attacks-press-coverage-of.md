@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US defence secretary Hegseth criticised media coverage of the war on
   Iran.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-16T13:26:19Z'

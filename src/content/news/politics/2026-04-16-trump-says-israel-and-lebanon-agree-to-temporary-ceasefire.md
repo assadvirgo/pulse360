@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanese Prime Minister Nawaf Salam welcomes Donald Trump&#039;s announcement
   of 10-day truce that takes effect on Thursday.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-16T15:52:19Z'

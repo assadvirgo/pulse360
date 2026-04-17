@@ -3,7 +3,7 @@ category: Tech
 description: The MacBook Neo is poised to be a top-selling laptop in 2026, thanks
   in large part to its affordable $599 entry price. Despite launching at a more accessible
   price point than…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-16T17:05:54Z'

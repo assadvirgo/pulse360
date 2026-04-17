@@ -2,7 +2,7 @@
 category: Politics
 description: Mohammed Lubbad&#039;s wife Amal was pregnant when she died in Israeli
   air strikes. Then he was told she had given birth.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-16T17:51:01Z'

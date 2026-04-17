@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Criticism of Fed chair nominee’s financial holdings will further complicate
   next week’s confirmation hearings
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-16T19:13:44Z'
