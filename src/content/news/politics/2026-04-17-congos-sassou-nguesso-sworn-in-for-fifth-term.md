@@ -4,7 +4,7 @@ country: Congo (Republic)
 countryCode: CG
 description: Denis Sassou Nguesso has been sworn in for a fifth term as president
   of the Republic of Congo.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-17T05:30:09Z'

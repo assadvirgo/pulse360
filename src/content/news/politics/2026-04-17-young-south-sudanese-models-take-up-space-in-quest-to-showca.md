@@ -4,7 +4,7 @@ country: South Sudan
 countryCode: SS
 description: Longing to stride down international runways often collides with reality
   of conservatism and lack of structural support.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-17T06:08:27Z'

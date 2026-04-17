@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New tool builds on deepset’s Haystack toward a “decentralized open source
   AI ecosystem.”
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-16T20:43:46Z'

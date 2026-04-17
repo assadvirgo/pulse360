@@ -5,7 +5,7 @@ countryCode: US
 description: Oklahoma's Faith Torrez made her all-around season debut Thursday night
   and defeated Olympic and world champions to claim NCAA gymnastics' highest individual
   honor.
-displayOrder: 3
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-17T12:27:45Z'

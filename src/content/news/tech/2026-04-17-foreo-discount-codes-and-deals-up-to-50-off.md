@@ -2,7 +2,7 @@
 category: Tech
 description: Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent
   devices, and masks and accessories to level up your daily skincare routine at home.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-17T05:00:00Z'

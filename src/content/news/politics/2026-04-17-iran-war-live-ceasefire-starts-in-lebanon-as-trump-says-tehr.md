@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Death toll from Israeli attacks on Lebanon reached 2,196 on Thursday
   as 10-day ceasefire announced.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-17T00:00:00Z'

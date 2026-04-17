@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Celebratory gunfire heard in Beirut as truce takes effect, though Lebanese
   military reports violations.
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-17T03:41:57Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount today held its first upfront presentation since the company
   last held court at Carnegie Hall in 2022. Taking place almost a month ahead of the
   traditional upfront week,…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-04-17T05:04:22Z'

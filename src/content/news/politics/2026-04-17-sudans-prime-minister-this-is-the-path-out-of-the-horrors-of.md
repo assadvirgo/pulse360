@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Kamil Idris outlines his government’s vision for ending the war, rebuilding
   the country and restoring civilian rule.
-displayOrder: 4
+displayOrder: 21
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-17T06:58:38Z'

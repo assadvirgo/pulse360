@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: A wolf that escaped form a South Korean zoo, becoming an internet sensation
   in the process, has been found.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-17T09:49:00Z'

@@ -5,7 +5,7 @@ countryCode: JP
 description: Tokyo is succeeding where the rest of the world has failed, reducing
   its reliance on Beijing for crucial rare earth elements—thanks to an enormous underwater
   deposit discovered on…
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-17T08:30:00Z'
