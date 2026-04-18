@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Bellarmine Mugabe was arrested in February following the shooting of
   a 23-year-old man at his home in Johannesburg.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-17T16:17:54Z'

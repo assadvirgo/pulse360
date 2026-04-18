@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Bulgaria has held seven national elections in the past four years because
   of political and social divisions.
-displayOrder: 27
+displayOrder: 38
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-17T12:56:29Z'

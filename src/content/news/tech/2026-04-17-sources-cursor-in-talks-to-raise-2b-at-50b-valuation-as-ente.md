@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Returning backers a16z and Thrive are expected to lead the round.
-displayOrder: 14
+displayOrder: 22
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-17T19:17:26Z'

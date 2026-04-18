@@ -5,7 +5,7 @@ countryCode: US
 description: Mortgage rates fell for the second straight week, setting the spring
   home-buying season up for a reboot after inflation worries linked to the Iran war
   sent rates climbing last…
-displayOrder: 43
+displayOrder: 47
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-17T14:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A security researcher published details of three security vulnerabilities
   in Windows Defender, and the code used to exploit them. Now, hackers are taking
   advantage of the…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-17T17:48:46Z'

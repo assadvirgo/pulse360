@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A win against the Orlando Magic on Friday would snap the NBA's longest
   current playoff drought.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-17T19:24:05Z'

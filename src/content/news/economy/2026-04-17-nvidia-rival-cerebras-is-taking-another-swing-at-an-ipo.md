@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AI-chip company last filed to go public in late 2024 before scrapping
   its plans.
-displayOrder: 40
+displayOrder: 42
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-17T21:42:00Z'

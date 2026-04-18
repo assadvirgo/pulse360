@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix is developing a series version of the Jodi Picoult novel &#8220;The
   Book of Two Ways,&#8221; Variety has learned exclusively from sources. The project
   hails from Matthew…
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-18T00:15:00Z'
