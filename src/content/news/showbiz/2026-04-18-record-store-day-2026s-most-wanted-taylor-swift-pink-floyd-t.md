@@ -5,7 +5,7 @@ countryCode: US
 description: Record Store Day may know what it&#8217;s doing, traditionally scheduling
   the biggest sales day of the year for independent music retailers on the Saturday
   after tax day. You are…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-18T15:05:09Z'

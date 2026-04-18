@@ -5,7 +5,7 @@ countryCode: LB
 description: BBC Arabic's correspondent Carine Torbey reports from the border town
   of Khiam, as the ceasefire between Israel and Hezbollah in southern Lebanon goes
   into its second day.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-18T11:47:11Z'

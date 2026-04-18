@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The rise of sports-betting apps and prediction markets has turbocharged
   teen gambling on games — and parents often have no idea.
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 32.5
 pubDate: '2026-04-18T15:32:00Z'

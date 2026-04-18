@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Turkish officials are promoting Istanbul as a regional financial hub
   amid the war&#039;s fallout on the Gulf economies.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-18T11:52:33Z'

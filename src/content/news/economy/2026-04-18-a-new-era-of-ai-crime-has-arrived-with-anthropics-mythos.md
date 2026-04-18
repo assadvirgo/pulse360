@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anthropic’s new model is a frightening reminder of the threat posed by
   AI — and it’s not clear what the solution is.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-18T11:30:00Z'

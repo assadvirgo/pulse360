@@ -5,7 +5,7 @@ countryCode: US
 description: Friday brought a slew of newcomers to the domestic box office, including
   Magnolia Pictures’ “Normal” and “Lee Cronin’s The Mummy” from Warner Bros. and Atomic
   Monster. However,…
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-18T15:57:52Z'

@@ -4,7 +4,7 @@ country: Angola
 countryCode: AO
 description: Leo is the third pontiff to visit the fossil fuel-rich country after
   John Paul II in 1992 and Benedict XVI in 2009.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-18T08:10:17Z'

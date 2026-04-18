@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hastings insisted that employees be ready to give and receive constructive
   criticism at all times and that people should be willing to argue for their ideas.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-18T12:30:00Z'

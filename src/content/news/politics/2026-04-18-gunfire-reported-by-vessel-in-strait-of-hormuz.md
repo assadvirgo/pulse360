@@ -2,7 +2,7 @@
 category: Politics
 description: A maritime agency reported that a tanker was fired on by gunboats in
   the Strait of Hormuz.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-18T11:55:48Z'
