@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Officials plan to reopen frontier with Armenia to unlock a Trump-backed
   trade route between Europe and Asia
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-18T04:00:04Z'

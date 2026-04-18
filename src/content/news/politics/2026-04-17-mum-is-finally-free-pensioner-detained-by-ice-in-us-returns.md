@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Marie-Thérèse had moved to the US after reuniting with her long-lost
   love, an American man who died in January.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-17T17:14:21Z'

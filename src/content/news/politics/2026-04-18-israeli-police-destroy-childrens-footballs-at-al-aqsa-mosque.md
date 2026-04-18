@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli police confiscated and destroyed footballs that were being played
   with by children around Al-Aqsa mosque.
-displayOrder: 6
+displayOrder: 11
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-18T06:52:44Z'

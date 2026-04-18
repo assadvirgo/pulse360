@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The gold-platinum ratio suggests the stock market is living on borrowed
   time.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-18T00:48:00Z'

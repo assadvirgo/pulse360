@@ -5,7 +5,7 @@ countryCode: US
 description: QVC Group, whose networks pioneered the concept of live TV shopping in
   the 1980s and built it into a mainstay of the late-20th century media business,
   has filed for Chapter 11…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-17T23:22:30Z'

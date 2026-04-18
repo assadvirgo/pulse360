@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Company expands accommodation options alongside home rentals but analysts
   warn of stiff competition
-displayOrder: 27
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-18T04:00:25Z'

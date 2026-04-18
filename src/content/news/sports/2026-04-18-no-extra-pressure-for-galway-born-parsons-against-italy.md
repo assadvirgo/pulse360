@@ -5,7 +5,7 @@ countryCode: IE
 description: Ireland wing Beibhinn Parsons insists she will feel no extra pressure
   when she represents her country in a Women's Six Nations game in her native Galway
   for the first time.
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-18T07:11:25Z'

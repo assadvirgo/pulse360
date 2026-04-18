@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Transit fares from New York to MetLife Stadium in New Jersey for World
   Cup matches will rise to $150.
-displayOrder: 8
+displayOrder: 15
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-18T04:41:38Z'

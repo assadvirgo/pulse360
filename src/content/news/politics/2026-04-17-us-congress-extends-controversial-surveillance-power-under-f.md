@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The measure has long been criticised for allowing US intelligence agencies
   to collect citizen data without a warrant.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-04-17T19:20:08Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran reopens the Strait of Hormuz with conditions and threatens closure
   if the US blockade of Iranian ports continues.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-18T06:07:12Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: (Updated with Nexstar statement) A federal judge just put a halt to Nexstar&#8217;s
   proposed $6.2 billion merger with Tegna, putting in doubt the combination of the
   companies to…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-04-18T01:00:54Z'

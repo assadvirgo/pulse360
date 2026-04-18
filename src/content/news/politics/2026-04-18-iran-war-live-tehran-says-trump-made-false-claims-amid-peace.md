@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tens of thousands of people forcibly displaced by Israeli attacks on
   Lebanon use first day of ceasefire to return home.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 80.5
 pubDate: '2026-04-18T00:00:00Z'

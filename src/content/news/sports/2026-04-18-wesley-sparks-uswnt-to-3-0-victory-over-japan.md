@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kennedy Wesley recorded her first international goal to lead the United
   States to a 3-0 friendly win over Japan on Friday night in Commerce City, Colorado.
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-18T04:54:23Z'

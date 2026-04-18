@@ -5,7 +5,7 @@ countryCode: US
 description: Texans and All-Pro defensive end Will Anderson Jr. have agreed to a historic
   three-year, $150 million extension to make him the highest-paid non-quarterback,
   a source told ESPN's…
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-18T07:50:59Z'
