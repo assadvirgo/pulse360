@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump’s message is ‘buy American’ — the U.S. has fuel and is a safe alternative
   to the Gulf
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-18T12:10:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'FRIDAY PM: Illumination/Nintendo/Universal&#8217;s Super Mario Galaxy
   Movie still has the star power at No. 1 with $30M third weekend, -56%, after a $7.1M
   Friday, heading toward a…'
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-18T02:37:00Z'

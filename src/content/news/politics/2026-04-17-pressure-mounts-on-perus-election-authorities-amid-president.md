@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: The vote count continues to determine who will join conservative Keiko
   Fujimori in Peru&#039;s presidential run-off in June.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 79.5
 pubDate: '2026-04-17T22:47:21Z'

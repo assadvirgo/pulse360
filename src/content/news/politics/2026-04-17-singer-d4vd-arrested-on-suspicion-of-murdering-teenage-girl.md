@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The remains of 14-year-old Celeste Rivas Hernandez were found in the
   singer's car last year.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-17T22:46:44Z'

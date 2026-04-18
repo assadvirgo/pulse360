@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Multibillion-dollar dealerships have been on the rise amid a decadeslong
   consolidation that has led to a grow-or-die mentality for many U.S. auto retailers.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-18T12:00:01Z'

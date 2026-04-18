@@ -5,7 +5,7 @@ countryCode: US
 description: We could rescue Social Security and Medicare and balance the federal
   budget by scrapping the entire federal tax code and replacing it with three simple
   flat taxes.
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 32.5
 pubDate: '2026-04-18T12:00:00Z'

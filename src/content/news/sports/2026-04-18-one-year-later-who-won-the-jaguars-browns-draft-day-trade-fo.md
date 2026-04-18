@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Browns and Jags swapped picks in 2025 so Jacksonville could draft
   Hunter. Now, Cleveland has an extra first-rounder in 2026.
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-18T11:00:02Z'

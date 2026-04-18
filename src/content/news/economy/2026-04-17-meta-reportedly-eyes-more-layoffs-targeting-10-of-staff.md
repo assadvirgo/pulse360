@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The social-media giant is aiming to cut around 8,000 employees in May
   as it continues to invest heavily in AI products.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-17T21:56:00Z'

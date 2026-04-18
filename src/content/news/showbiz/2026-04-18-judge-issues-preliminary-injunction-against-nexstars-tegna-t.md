@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge in Sacramento has issued a preliminary injunction against
   Nexstar&#8217;s acquisition of Tegna TV stations as part of DirecTV&#8217;s lawsuit
   to block the merger…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-04-18T02:06:56Z'

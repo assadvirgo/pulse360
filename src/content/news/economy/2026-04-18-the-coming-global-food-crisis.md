@@ -3,7 +3,7 @@ category: Economy
 description: Hunger and even famine are foreseeable consequences of the war on Iran.
   Now the world must act to shield the poorest from effects that will continue long
   after the fighting stops
-displayOrder: 33
+displayOrder: 46
 heroImage: ''
 importance: 45.5
 pubDate: '2026-04-18T04:00:25Z'

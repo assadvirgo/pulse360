@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Péter Magyar and his Tisza party are wasting no time preparing for the
   transfer of power after their dramatic landslide victory.
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-18T04:46:34Z'
