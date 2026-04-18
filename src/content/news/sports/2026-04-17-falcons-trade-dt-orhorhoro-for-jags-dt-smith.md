@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Falcons have traded DT Ruke Orhorhoro to the Jaguars for DT Maason
   Smith. Both players were selected in the second round of the 2024 draft.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-17T21:11:32Z'

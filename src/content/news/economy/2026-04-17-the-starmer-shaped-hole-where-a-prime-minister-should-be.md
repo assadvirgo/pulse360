@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Mandelson scandal shows he has never successfully made the transition
   from an opposition mindset to a governing one
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-17T17:01:48Z'

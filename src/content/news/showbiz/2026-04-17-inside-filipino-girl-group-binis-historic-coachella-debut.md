@@ -5,7 +5,7 @@ countryCode: PH
 description: Making history as the first act from the Philippines to perform at the
   fest, the young women of BINI are learning to balance the pride and pressure that
   comes with representing…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-04-17T21:45:00Z'

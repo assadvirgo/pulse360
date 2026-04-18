@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Ozturk says she made the decision to avoid &#039;losing more time to
   the state-imposed violence and hostility&#039; under Trump.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-17T18:50:36Z'

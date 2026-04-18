@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Al Jazeera’s Obaida Hitto reports from Tibnin Hospital - the only functioning
   hospital in southern Lebanon.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-17T15:48:30Z'

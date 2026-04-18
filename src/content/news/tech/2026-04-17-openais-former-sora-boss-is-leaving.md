@@ -5,7 +5,7 @@ countryCode: US
 description: Last month, OpenAI gave up on its Sora video generation tool, and on
   Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company.
   OpenAI has been…
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-17T21:13:25Z'

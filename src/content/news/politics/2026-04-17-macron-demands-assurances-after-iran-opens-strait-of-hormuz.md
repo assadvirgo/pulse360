@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French President Emmanuel Macron said he welcomed the reopening of the
   Strait of Hormuz and the Lebanon ceasefire.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-17T16:14:23Z'

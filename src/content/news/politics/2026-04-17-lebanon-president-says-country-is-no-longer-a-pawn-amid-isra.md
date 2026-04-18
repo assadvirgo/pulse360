@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: President Joseph Aoun promised to work to preserve Lebanon&#039;s sovereignty
   and freedom.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-17T20:45:58Z'

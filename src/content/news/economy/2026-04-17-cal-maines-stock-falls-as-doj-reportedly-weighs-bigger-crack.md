@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Egg prices crossed the $6 barrier in March of last year, but they have
   since fallen as farmers have replenished their flocks.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-17T22:56:00Z'

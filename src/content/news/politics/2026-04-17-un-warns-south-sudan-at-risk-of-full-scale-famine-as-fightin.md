@@ -4,7 +4,7 @@ country: South Sudan
 countryCode: SS
 description: UN aid chief Tom Fletcher says hunger is tightening its grip amid rising
   humanitarian needs and intensifying fighting.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-17T19:59:26Z'

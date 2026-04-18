@@ -5,7 +5,7 @@ countryCode: US
 description: Tinder users who prove they're a real person by visiting an identity-verifying
   orb will soon be able to get five free boosts in the app - and it's just the latest
   service to…
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-17T20:42:47Z'

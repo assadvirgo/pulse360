@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A grandfather was reunited with his son and grandchildren in Tyre, southern
   Lebanon.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-17T20:10:54Z'
