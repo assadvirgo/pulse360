@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Hezbollah warns it has its &#039;finger on the trigger&#039; in case
   of Israeli violations of the temporary ceasefire.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-17T10:32:38Z'

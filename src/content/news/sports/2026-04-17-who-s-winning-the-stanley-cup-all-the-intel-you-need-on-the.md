@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The postseason Thunderdome is about to open its gate (Saturday on ESPN).
   Which team will emerge as the 2026 Stanley Cup champion?
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-17T17:12:46Z'

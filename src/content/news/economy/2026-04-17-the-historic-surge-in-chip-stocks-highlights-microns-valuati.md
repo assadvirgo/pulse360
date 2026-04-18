@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The iShares Semiconductor ETF has rocketed 34% amid a long winning streak
   — its best 13-day stretch in 24 years.
-displayOrder: 30
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-17T17:20:00Z'

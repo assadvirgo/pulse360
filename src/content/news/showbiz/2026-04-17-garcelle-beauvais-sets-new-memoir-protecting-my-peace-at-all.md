@@ -5,7 +5,7 @@ countryCode: US
 description: For more than four decades, Garcelle Beauvais has built a career as an
   award-winning actress, author, executive producer, TV host and, of course, a &#8220;Real
   Housewife,&#8221;…
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-17T15:15:00Z'

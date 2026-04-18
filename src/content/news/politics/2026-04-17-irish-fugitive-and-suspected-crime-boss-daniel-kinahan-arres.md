@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Kinahan, in his 40s, was arrested in Dubai on foot of an arrest warrant
   issued by the Irish courts.
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-17T17:48:13Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester City host Arsenal in the Premier League on Sunday with the
   chance to close to within three points of leaders.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-17T14:16:35Z'

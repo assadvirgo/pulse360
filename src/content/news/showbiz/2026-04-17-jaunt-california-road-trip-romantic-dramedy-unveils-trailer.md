@@ -5,7 +5,7 @@ countryCode: US
 description: Freestyle Digital Media has unveiled the trailer for “Jaunt,” a romantic
   dramedy that traces a spontaneous road trip along the California coast, ahead of
   its worldwide digital…
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-17T17:35:00Z'

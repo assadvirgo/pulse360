@@ -3,7 +3,7 @@ category: Tech
 description: 'Vacuum cleaners, personal massagers, electronic baby rockers, and walking
   pads: These are the secondhand machines Rachel Youn sources to create their kinetic
   sculptures. Made with…'
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-17T14:00:00Z'

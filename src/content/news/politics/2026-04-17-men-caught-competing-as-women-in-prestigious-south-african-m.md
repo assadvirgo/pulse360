@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Two women runners initially finished outside the top 10 in the Two Oceans
   Marathon in Cape Town before bib swap spotted.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-17T15:02:27Z'

@@ -5,7 +5,7 @@ countryCode: KR
 description: '"This is no different from Comfort Women or the Holocaust," wrote South
   Korean President Lee Jae-myung on X last week, quoting a post with a video of Israeli
   Defense Forces…'
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-04-17T14:00:00Z'

@@ -3,7 +3,7 @@ category: Tech
 description: All empires eventually fall, and it seems the creative software industry
   has collectively decided that Adobe's time has come. The Creative Cloud provider's
   suite of design tools…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-17T12:51:16Z'
