@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The Congolese government stresses those expelled from the US are only
   in the country temporarily.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-18T09:18:16Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The actress received the Art of Light Award during the Miami Film Festival
   for her role in the Walter Thompson-Hernández feature which premiered at Sundance
   earlier this year.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-18T16:12:51Z'

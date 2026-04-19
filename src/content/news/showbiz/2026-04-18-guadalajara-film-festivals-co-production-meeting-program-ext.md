@@ -5,7 +5,7 @@ countryCode: AR
 description: Now on its 22nd edition, the Guadalajara Film Festival (FICG) Co-Production
   Meeting program has grown from strength to strength, luring a wide range of directors
   and producers…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-18T16:03:20Z'

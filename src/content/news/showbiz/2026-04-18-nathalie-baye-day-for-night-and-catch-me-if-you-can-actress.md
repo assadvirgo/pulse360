@@ -5,7 +5,7 @@ countryCode: FR
 description: 'Nathalie Baye, the acclaimed French performer who broke out in “Day
   for Night” and later appeared in “Catch Me If You Can” and “Downton Abbey: A New
   Era,” has died. She was 77.…'
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-18T19:48:00Z'

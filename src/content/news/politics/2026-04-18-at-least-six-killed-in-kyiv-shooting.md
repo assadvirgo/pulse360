@@ -3,7 +3,7 @@ category: Politics
 country: Ukraine
 countryCode: UA
 description: At least six people have been killed after a gunman opened fire in Kyiv.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-04-18T13:12:00Z'

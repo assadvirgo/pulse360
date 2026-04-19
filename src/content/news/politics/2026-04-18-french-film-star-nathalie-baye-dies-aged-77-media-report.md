@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: President Macron said France had "loved, dreamed and grown up" with the
   stalwart of French cinema.
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 69.2
 pubDate: '2026-04-18T14:52:15Z'
