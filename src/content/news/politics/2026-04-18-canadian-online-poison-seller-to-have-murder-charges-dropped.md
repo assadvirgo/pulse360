@@ -5,7 +5,7 @@ countryCode: CA
 description: A Canadian chef accused of supplying deadly substances to people around
   the world who have taken their own lives will have murder charges dropped as part
   of a plea deal, his…
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-18T15:10:00Z'

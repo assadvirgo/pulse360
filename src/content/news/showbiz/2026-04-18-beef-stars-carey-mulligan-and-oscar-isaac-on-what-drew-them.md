@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: The following story contains plot details from Season
   2 of “Beef,” now streaming on Netflix Netflix&#8217;s &#8220;Beef” is back for a
   second season, and the…'
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-18T18:00:00Z'

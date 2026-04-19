@@ -3,7 +3,7 @@ category: Showbiz
 description: 'The 31-year-old British-Korean actress, who got her start as a K-pop
   idol trainee turned K-drama star, loves how messy the Netflix anthology characters
   get to be: “We all have…'
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-18T20:00:00Z'

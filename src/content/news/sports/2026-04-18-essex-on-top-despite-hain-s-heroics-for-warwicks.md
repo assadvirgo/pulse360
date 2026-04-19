@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Essex remain on top against Warwickshire after two rain-affected days
   of their County Championship match at Edgbaston despite Sam Hain's superb innings.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-04-18T18:35:11Z'

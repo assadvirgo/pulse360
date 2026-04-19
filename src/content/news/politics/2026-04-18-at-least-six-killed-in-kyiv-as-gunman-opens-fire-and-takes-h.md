@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The attacker, who took hostages inside a supermarket, was killed after
   a shoot-out with police, officials say.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-18T18:09:57Z'

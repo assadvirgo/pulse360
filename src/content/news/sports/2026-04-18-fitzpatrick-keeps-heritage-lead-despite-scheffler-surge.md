@@ -5,7 +5,7 @@ countryCode: US
 description: England's Matt Fitzpatrick hits an impressive third-round 68 to give
   himself a three-shot lead over Scottie Scheffler going into the final round of the
   RBC Heritage in South…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-18T22:43:47Z'

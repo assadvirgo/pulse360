@@ -5,7 +5,7 @@ countryCode: DE
 description: A driver died following a crash in an endurance sports car race Saturday
   at the Nürburgring Nordschleife circuit in Germany, where four-time Formula 1 champion
   Max Verstappen was…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T01:04:09Z'

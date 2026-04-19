@@ -5,7 +5,7 @@ countryCode: US
 description: From&#160;fancy OLED TVs&#160;to&#160;robot vacuums with arms, we tend
   to cover a lot of cool stuff here at&#160;The Verge&#160;that, unfortunately, often
   costs as much as a…
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-18T15:33:00Z'

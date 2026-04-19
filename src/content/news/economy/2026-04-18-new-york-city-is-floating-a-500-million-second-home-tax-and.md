@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Surcharge on luxury units is a gamble that the ultrawealthy won’t leave
   for low-tax states.
-displayOrder: 28
+displayOrder: 33
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-18T22:42:00Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: President Macron blames the attack on Hezbollah. The Iran-backed armed
   group denies "any connection" to the incident.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-18T14:53:17Z'

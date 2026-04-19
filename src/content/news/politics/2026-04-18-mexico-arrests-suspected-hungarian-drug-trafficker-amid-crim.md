@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Fugitive Janos Balla, 48, was arrested in Quintana Roo as President Claudia
   Sheinbaum seeks to increase cartel arrests.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-18T19:05:04Z'

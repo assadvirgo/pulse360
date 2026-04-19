@@ -3,7 +3,7 @@ category: Tech
 description: Hi, friends! Welcome to Installer No. 124, your guide to the best and
   Verge-iest stuff in the world. (If you're new here, welcome, send me your Coachella
   fits, and also you can…
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-18T12:00:00Z'

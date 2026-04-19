@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A shake-up of the NEC after May’s local election could remove a barrier
   to Greater Manchester mayor’s leadership ambitions
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-18T16:00:06Z'

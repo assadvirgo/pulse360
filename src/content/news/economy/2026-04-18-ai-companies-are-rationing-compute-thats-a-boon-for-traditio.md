@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A closely followed iShares software ETF just had its best week in 25
   years, as some believe the sentiment around AI may be changing — at least for now.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-18T11:00:00Z'

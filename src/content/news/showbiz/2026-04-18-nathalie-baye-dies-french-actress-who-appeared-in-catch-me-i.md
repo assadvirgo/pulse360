@@ -5,7 +5,7 @@ countryCode: FR
 description: Nathalie Baye, the renowned French actress who appeared in Steven Spielberg&#8217;s
   Catch Me If You Can (2002), has died. She was 77. The 4x César Award-winning actress
   died on…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-18T16:43:59Z'

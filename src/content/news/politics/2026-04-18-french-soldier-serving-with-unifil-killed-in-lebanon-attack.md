@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The deadly incident comes just days after Israel and Lebanon announced
   a 10-day ceasefire.
-displayOrder: 26
+displayOrder: 36
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-18T15:16:08Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The political drama culminates with the IRGC announcing that the Strait
   of Hormuz is once again restricted.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-18T13:03:35Z'
