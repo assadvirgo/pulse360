@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Tottenham Hotspur have reported "vile, dehumanising" abuse towards defender
   Kevin Danso to the police.
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-19T11:22:35Z'

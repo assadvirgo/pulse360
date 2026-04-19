@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli &#039;Yellow Line&#039; in Lebanon raises fears that a temporary
   military zone could become a longer-term occupation.
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-19T11:30:18Z'

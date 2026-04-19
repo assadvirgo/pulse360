@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Varsha Gandikota-Nellutla asks former South African Foreign Minister
   Naledi Pandor if global leadership is in crisis.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-19T11:32:55Z'

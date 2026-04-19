@@ -5,7 +5,7 @@ countryCode: US
 description: Mel Kiper Jr. predicts 64 picks across the first two rounds of the NFL
   draft, including two potential trades, a few QB landing spots and plenty of impact
   additions.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T05:06:35Z'

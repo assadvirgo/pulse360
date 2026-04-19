@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tehran is &#039;fully prepared&#039; for the US to resume hostilities
   at any moment, says Iran&#039;s parliament speaker Ghalibaf.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-19T08:49:19Z'

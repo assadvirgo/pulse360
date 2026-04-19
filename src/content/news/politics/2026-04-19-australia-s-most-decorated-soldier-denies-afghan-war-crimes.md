@@ -5,7 +5,7 @@ countryCode: AU
 description: Australia's most decorated soldier, charged with war crimes related to
   Afghanistan deployments over a decade ago, has publicly denied the allegations &#8204;against
   him.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-19T06:42:00Z'

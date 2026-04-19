@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Louis Riddick picks his guys in the 2026 class. See who's on his 10-player
   list.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-19T04:27:20Z'

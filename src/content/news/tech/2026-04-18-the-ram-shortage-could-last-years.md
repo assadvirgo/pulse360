@@ -3,7 +3,7 @@ category: Tech
 description: According to Nikkei Asia, even as suppliers ramp up DRAM production,
   manufacturers are only expected to meet 60 percent of demand by the end of 2027.
   SK Group chairman has even…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-18T21:08:45Z'

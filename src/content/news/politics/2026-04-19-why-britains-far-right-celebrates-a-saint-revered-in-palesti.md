@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Hundreds of far-right “Britain First” supporters marched in the streets
   of Manchester to celebrate Saint George.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T05:01:14Z'

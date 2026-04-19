@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It's a major milestone for the company's new mega-rocket system, putting
   it in position to challenge SpaceX's dominance of the global launch market.
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-19T11:45:38Z'

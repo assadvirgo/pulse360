@@ -2,7 +2,7 @@
 category: Economy
 description: World’s biggest asset manager had been more bullish on the region at
   start of year but says stocks are no longer cheap
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-19T04:00:07Z'
