@@ -5,7 +5,7 @@ countryCode: US
 description: Jorge L. Alonso, a federal district court judge for the Northern District
   of Illinois, said that the Trump Administration violated the First Amendment when
   it pressured Facebook…
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-18T16:42:25Z'

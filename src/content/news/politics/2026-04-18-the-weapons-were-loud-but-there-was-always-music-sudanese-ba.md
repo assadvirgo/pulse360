@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: One of Sudan's most popular bands, Aswat Almadina, recall being in the
   studio when the war broke out three years ago.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-18T23:09:49Z'

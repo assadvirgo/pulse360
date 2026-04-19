@@ -5,7 +5,7 @@ countryCode: US
 description: The company now offers robotaxi service in three cities, all of them
   in Texas, after launching in Austin last year and starting to offer rides without
   safety drivers in January…
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 46.0
 pubDate: '2026-04-18T21:37:15Z'

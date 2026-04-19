@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Bulgaria votes to elect a new parliament after mass protests brought
   down the previous government in December.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-19T05:35:54Z'

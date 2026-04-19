@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The ‘devout’ Christians in the US president’s life are really just fawning
   sycophants
-displayOrder: 29
+displayOrder: 36
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-19T04:00:16Z'

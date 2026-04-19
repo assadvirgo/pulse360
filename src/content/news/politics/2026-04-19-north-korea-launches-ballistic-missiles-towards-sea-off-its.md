@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: Multiple ballistic missiles fired from eastern Sinpo area in seventh
   such test this year.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-19T00:28:45Z'

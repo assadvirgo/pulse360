@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite missing leading scorers Luka Doncic and Austin Reaves, the LA
   Lakers and LeBron James defeat Houston in opener.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-19T03:48:42Z'

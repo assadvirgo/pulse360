@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: A quiet revolution is unfolding as women writers carve out space in the
   wake of an anti-feminist backlash.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-18T22:32:20Z'

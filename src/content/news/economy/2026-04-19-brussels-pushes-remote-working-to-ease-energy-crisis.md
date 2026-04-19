@@ -3,7 +3,7 @@ category: Economy
 country: Belgium
 countryCode: BE
 description: European Commission also recommends heat pumps and public transport subsidies
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-19T04:00:16Z'

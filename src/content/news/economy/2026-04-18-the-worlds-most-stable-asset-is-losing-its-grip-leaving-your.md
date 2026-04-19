@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Treasury bonds are no longer guaranteed safe havens — and your spending
   power is on the line.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-18T19:11:00Z'

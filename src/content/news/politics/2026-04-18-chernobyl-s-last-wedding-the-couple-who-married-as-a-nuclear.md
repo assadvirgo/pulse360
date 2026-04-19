@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had
   exploded less than 3 miles away.
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 91.2
 pubDate: '2026-04-18T23:05:30Z'

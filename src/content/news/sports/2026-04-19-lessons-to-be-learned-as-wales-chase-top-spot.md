@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wales kept their qualifying campaign on track with victory in Albania,
   but better is required if they are to reach a first Women's World Cup.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-19T08:11:15Z'
