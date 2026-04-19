@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Defence deal is the latest example of deepening ties between Canberra
   and Tokyo amid shared concerns over China&#039;s rise.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-19T10:57:56Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: Meta is unquestionably winning the face-wearable war. Can you trust the
   company? Maybe not. But these are some of the nicest glasses I've ever worn.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-19T11:00:00Z'

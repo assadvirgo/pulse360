@@ -5,7 +5,7 @@ countryCode: US
 description: Justin Bieber brought out the big guns during his Coachella weekend two
   headlining set, tapping Sexyy Red, Billie Eilish and SZA as he took a trip down
   memory lane through his…
-displayOrder: 999
+displayOrder: 43
 heroImage: ''
 importance: 47.8
 pubDate: '2026-04-19T08:11:45Z'

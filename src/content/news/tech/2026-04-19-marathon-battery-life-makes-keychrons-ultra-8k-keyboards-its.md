@@ -3,7 +3,7 @@ category: Tech
 description: Keychron's expansive keyboard catalog covers everything from basic full-size
   mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard
   for gaming. Its Q…
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-19T12:00:00Z'

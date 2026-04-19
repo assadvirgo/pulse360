@@ -4,7 +4,7 @@ country: Austria
 countryCode: AT
 description: A baby food brand is recalling its products sold in Austrian SPAR markets
   after some tested positive for rat poison.
-displayOrder: 19
+displayOrder: 30
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-19T14:23:00Z'

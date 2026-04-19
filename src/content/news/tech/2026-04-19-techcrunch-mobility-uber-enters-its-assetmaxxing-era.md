@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Welcome back to TechCrunch Mobility, your hub for the future of transportation
   and now, more than ever, how AI is playing a part.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-19T16:01:00Z'

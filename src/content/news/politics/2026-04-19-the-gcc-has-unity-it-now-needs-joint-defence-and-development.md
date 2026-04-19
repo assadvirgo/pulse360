@@ -2,7 +2,7 @@
 category: Politics
 description: Beyond supporting peace, GCC states need to work towards joint defence,
   energy security and economic development.
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-19T10:32:42Z'

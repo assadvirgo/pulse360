@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;The Super Mario Galaxy Movie&#8221; easily retained its box office
   crown in its third weekend of release, topping the charts with $35 million. The
   Universal and…'
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-19T15:31:02Z'

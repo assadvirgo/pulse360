@@ -5,7 +5,7 @@ countryCode: US
 description: The reimagining of Universal's all-audience blockbuster opened in third
   place domestically with $13.5 million but makes up ground overseas. New offerings
   at the specialty box…
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-19T15:20:29Z'

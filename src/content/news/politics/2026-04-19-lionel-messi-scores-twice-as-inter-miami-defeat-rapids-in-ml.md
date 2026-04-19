@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Argentine forward&#039;s brace included the match winner against Colorado
   Rapids in front of over 75,000 fans in Denver.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-19T08:05:28Z'
