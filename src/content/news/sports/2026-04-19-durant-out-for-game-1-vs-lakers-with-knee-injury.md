@@ -5,7 +5,7 @@ countryCode: US
 description: The Houston Rockets will be without star Kevin Durant for Game 1 of their
   first-round series against the Los Angeles Lakers because of a right knee injury
   sustained at practice…
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T01:04:09Z'

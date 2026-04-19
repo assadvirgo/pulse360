@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Conway wrote that he “will be stepping back from some of my usual activities,”
   but he will “continue to support” founders backed by his firm SV Angel.
-displayOrder: 32
+displayOrder: 42
 heroImage: ''
 importance: 46.0
 pubDate: '2026-04-18T20:00:00Z'

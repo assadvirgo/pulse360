@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The attacker has been identified as a &quot;58-year-old Moscow man&quot;,
   but no motive has been established.
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-18T18:02:18Z'

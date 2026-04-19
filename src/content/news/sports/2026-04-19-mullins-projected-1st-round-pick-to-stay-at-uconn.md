@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: UConn's Braylon Mullins, who is ranked No. 17 on ESPN's most recent NBA
   draft big board, will look to boost his stock with a second season in Storrs.
-displayOrder: 3
+displayOrder: 5
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-19T05:06:34Z'

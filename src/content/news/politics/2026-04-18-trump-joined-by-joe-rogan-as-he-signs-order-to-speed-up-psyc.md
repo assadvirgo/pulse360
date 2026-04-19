@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Order calls on federal government to relax restrictions on psychedelics,
   including ibogaine, for potential treatments.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-18T17:46:57Z'

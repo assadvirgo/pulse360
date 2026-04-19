@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: We must find our own amusements in dealing with spam, robocalls and chatbots
-displayOrder: 39
+displayOrder: 40
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-19T04:00:16Z'

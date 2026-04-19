@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: The three countries pledge more aid to Cuba and say Cubans must decide
   their own future amid a US pressure campaign.
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-18T21:05:50Z'

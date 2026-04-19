@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: You don’t have to exit the market to survive a summer lull. Here’s your
   ‘stay and play’ strategy for the 2026 election cycle.
-displayOrder: 40
+displayOrder: 46
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-18T19:14:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The pontiff says his remarks have been misinterpreted after a spat with
   the US president.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-18T16:44:39Z'
