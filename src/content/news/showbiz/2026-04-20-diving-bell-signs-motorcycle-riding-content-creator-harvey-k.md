@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: Talent agency Diving Bell has signed Harvey King, the motorcycle-riding
   content creator. The London-based company agency will look to supercharge King&#8217;s
   personal…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-20T08:30:00Z'

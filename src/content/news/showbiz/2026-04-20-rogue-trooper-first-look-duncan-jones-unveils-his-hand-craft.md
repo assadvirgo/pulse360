@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: The problem with animation is that it just takes so long.
   So long, in fact, that Liberty Films issued a wrap announcement on their new film
   in December of 2023, and,…'
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-20T12:00:00Z'

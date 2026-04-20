@@ -5,7 +5,7 @@ countryCode: US
 description: Patrick Muldoon, an actor who starred in “Days of Our Lives” and “Melrose
   Place,” died on Sunday, his manager confirmed to Variety. He was 57. From 1992 to
   1995, Muldoon…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-20T09:37:43Z'

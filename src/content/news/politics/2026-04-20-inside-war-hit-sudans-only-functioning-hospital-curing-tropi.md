@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan&#039;s health ministry says 37 percent of country&#039;s health
   facilities are out of service as war enters its fourth year.
-displayOrder: 9
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-20T09:10:16Z'

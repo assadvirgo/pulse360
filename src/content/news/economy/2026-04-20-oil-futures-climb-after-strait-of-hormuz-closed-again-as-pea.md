@@ -2,7 +2,7 @@
 category: Economy
 description: West Texas Intermediate and Brent crude have risen to levels reached
   before Friday after the shipping route was shut again
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-20T09:21:00Z'

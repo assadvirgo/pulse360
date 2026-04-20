@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: American Airlines late Friday took the unusual step of rebuffing a merger
   before it was even made.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-20T08:24:00Z'

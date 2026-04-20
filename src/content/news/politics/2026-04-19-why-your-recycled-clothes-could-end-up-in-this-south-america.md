@@ -4,7 +4,7 @@ country: Chile
 countryCode: CL
 description: Old garments from around the world are being discarded in the South American
   country.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-19T23:02:11Z'

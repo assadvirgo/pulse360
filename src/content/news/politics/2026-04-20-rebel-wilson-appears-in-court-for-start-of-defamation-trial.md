@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Rebel Wilson has appeared in court for the start of a defamation trial
   brought against her by another actress who starred in her directorial debut.
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-20T08:51:00Z'

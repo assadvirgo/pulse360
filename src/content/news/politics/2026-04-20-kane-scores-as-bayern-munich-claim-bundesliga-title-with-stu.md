@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Harry Kane helps Munich wrap up a second straight Germany premier division
   crown with a month still to go in the season.
-displayOrder: 29
+displayOrder: 50
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-20T05:58:15Z'

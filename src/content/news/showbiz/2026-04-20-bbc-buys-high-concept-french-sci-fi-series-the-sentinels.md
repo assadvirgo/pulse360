@@ -5,7 +5,7 @@ countryCode: GB
 description: The BBC has acquired eight-part French drama The Sentinels from Studiocanal.
   The war drama-meets-sci-fi is based on Xavier Dorison and Enrique Breccia&#8217;s
   graphic novels Les…
-displayOrder: 8
+displayOrder: 28
 heroImage: ''
 importance: 63.0
 pubDate: '2026-04-20T09:31:31Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Governments around the world have introduced measures to limit the impact
   of price increases.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-20T01:35:20Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Golden State enters another offseason in search of a co-star for Stephen
   Curry, and the Warriors might be searching for a new coach too.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-20T13:21:32Z'

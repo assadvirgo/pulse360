@@ -3,7 +3,7 @@ category: Showbiz
 description: European trade organizations representing the full film industry sector
   spectrum are up in arms against the EU Commission&#8217;s plans to make major changes
   to its Creative…
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 55.8
 pubDate: '2026-04-20T12:07:44Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Analysts at Societe Generale forecast full normalization to occur toward
   the end of the year
-displayOrder: 27
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-20T11:28:00Z'

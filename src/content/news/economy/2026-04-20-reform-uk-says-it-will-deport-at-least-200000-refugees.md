@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Nigel Farage’s party has looked to Donald Trump’s immigration crackdown
   as a model
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-20T09:24:00Z'

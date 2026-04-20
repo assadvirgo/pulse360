@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Ex-PM Boyko Borissov congratulates Radev, cautioning that &#039;winning
   elections is one thing, governing is another&#039;.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-19T20:47:12Z'

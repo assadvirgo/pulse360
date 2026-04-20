@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Investigation reveals how Horus, a company led by ex-military intelligence
   officials, was hired during protest movement.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 65.5
 pubDate: '2026-04-20T09:55:36Z'

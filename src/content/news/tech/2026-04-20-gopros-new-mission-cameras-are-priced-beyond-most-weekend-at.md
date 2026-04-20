@@ -5,7 +5,7 @@ countryCode: US
 description: GoPro is pricing its new Mission 1 and Mission 1 Pro cameras at $599.99
   and $699.99, respectively, each discounted by $100 if you subscribe to its ecosystem
   - fine for…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-20T09:04:39Z'

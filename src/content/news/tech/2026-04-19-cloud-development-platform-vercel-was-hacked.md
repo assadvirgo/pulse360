@@ -3,7 +3,7 @@ category: Tech
 description: Vercel, a major development platform that hosts and deploys web apps,
   was compromised, and the hackers are attempting to sell stolen data. A person claiming
   to be a member of…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-19T19:54:52Z'
