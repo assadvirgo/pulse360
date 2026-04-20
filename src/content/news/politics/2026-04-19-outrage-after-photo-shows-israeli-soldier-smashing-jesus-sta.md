@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Social media users condemn Western silence on attacks on religious symbols
   and sites by Israeli soldiers and settlers.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-19T23:41:57Z'

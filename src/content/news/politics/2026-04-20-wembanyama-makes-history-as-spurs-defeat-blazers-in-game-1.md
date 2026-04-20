@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Victor Wembanyama set a new San Antonio record for the most points in
   a playoff debut as the Spurs outlast Portland.
-displayOrder: 17
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-20T06:17:59Z'

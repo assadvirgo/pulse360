@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Arsenal&#039;s loss to City and a woeful end-of-season run have now cost
   them their once-comfortable, top-of-the-table lead.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T20:49:52Z'

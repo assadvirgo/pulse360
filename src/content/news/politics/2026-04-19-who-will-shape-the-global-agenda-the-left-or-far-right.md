@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Left-wing leaders meet in Barcelona, while far-right protesters march
   in Milan.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T20:54:32Z'

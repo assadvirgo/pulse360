@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Rumen Radev’s projected majority could turn the EU member state’s parliament
   away from the West
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T21:37:44Z'

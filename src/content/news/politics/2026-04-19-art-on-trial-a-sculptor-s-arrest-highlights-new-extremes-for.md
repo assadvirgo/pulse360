@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Gao Zhen is being retroactively punished for 15 year-old-works, in a
   case that has alarmed rights groups.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-19T22:53:18Z'

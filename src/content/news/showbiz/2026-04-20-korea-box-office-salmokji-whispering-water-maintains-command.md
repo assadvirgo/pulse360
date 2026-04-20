@@ -5,7 +5,7 @@ countryCode: KR
 description: 'The local horror-thriller &#8220;Salmokji : Whispering Water&#8221;
   retained its position at the top of the South Korean box office during the weekend
   of Apr. 17–19. According to…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-20T04:41:27Z'
