@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Rumen Radev’s anti-Europe stance makes a stable coalition unlikely, say
   analysts
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-19T17:19:08Z'

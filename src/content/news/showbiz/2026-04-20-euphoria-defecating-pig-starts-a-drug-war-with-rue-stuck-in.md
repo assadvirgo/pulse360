@@ -5,7 +5,7 @@ countryCode: US
 description: Emmy nominee Martha Kelly breaks down Laurie's journey in season three
   so far, why she's having more fun this time around and what her endgame is with
   Rue and Alamo.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-20T02:00:00Z'

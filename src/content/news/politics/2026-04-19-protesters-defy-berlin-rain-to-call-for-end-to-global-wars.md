@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Hundreds protested in Berlin against the US-Israeli aggression on Iran,
   and Israeli attacks on Gaza and Lebanon.
-displayOrder: 4
+displayOrder: 24
 heroImage: ''
 importance: 71.5
 pubDate: '2026-04-19T21:01:15Z'

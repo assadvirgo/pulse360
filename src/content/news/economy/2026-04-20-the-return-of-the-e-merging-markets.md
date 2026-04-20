@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: For now South Korea and Taiwan are the biggest beneficiaries of the AI
   wave
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-20T04:00:13Z'

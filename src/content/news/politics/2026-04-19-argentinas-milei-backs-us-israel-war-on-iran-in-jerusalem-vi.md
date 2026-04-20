@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina’s president reaffirmed alignment with the US and Israel during
   a visit to Jerusalem, backing their war on Iran
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-19T21:23:19Z'

@@ -3,7 +3,7 @@ category: Tech
 description: A lot of AI startups exist partly because the foundation models haven't
   expanded into their category yet. As many jokingly acknowledge, that won't last
   forever.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-19T19:30:00Z'

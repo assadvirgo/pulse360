@@ -2,7 +2,7 @@
 category: Economy
 description: Huge sums being invested in European rearmament are attracting fraudsters,
   says agency head Petr Klement
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-20T04:00:13Z'

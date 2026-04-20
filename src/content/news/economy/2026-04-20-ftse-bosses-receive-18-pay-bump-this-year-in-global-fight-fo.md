@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Companies are also watering down ESG elements of pay plans as boards
   reassess whether such awards ‘make sense’
-displayOrder: 26
+displayOrder: 34
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-20T04:00:22Z'

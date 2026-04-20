@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Strategist Bryan Clark examines shifting war aims, escalation traps,
   and whether Iran is now more dangerous to the US.
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T19:06:46Z'

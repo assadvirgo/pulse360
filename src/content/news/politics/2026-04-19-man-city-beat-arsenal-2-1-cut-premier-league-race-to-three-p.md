@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: City edge the Gunners, thanks to a second-half Haaland winner, in a heated
   top-of-the-table league game in Manchester.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T18:47:52Z'

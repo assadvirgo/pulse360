@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lightning coach Jon Cooper was not happy with the penalties his team
   committed in its Game 1 overtime loss to the Canadiens on Sunday.
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-20T05:27:51Z'

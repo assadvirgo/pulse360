@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Changes in US Army enlistment standards could be an effort to boost recruitment
   as numbers have lagged in recent years.
-displayOrder: 31
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-20T00:57:58Z'

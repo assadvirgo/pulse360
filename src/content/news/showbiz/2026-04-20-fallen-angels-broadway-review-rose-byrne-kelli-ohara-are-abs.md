@@ -5,7 +5,7 @@ countryCode: US
 description: Noël Coward&#8217;s delightful, rarely produced 1925 comedy Fallen Angels
   is the sort of Broadway fare that gives critics ample reason to use descriptors
   like &#8220;fizzy&#8221;…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-20T00:00:00Z'
