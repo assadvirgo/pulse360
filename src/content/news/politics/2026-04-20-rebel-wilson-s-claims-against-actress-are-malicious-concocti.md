@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Wilson has been accused of defaming the star of her film The Deb over
   an incident involving a bath in Bondi.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-04-20T10:19:50Z'

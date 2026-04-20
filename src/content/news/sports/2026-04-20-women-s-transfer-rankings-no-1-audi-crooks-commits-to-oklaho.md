@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Audi Crooks is headed to Oklahoma St., Jordan Lee is bound for South
   Carolina and Kymora Johnson is staying at U.Va.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-20T15:31:52Z'

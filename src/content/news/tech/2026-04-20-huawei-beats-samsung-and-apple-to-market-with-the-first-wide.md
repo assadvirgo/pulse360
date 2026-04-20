@@ -5,7 +5,7 @@ countryCode: CN
 description: Huawei has launched its passport-style foldable in China, ahead of similar
   devices said to be coming from Apple and Samsung. That makes the Pura X Max the
   first wide foldable…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-20T12:19:19Z'

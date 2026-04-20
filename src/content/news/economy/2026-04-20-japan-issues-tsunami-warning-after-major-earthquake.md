@@ -3,7 +3,7 @@ category: Economy
 country: Japan
 countryCode: JP
 description: Warning for wave up to 3 metres high on north-eastern coast
-displayOrder: 17
+displayOrder: 38
 heroImage: ''
 importance: 72.5
 pubDate: '2026-04-20T08:24:02Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The Critics Choice Awards has set the date for its 32nd annual ceremony
   for Sunday, Jan. 3, 2027, and has secured a two-year renewal agreement with Versant,
   extending the…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-20T16:00:00Z'

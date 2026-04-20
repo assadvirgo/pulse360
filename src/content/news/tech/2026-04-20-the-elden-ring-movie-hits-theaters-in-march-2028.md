@@ -3,7 +3,7 @@ category: Tech
 description: It's going to be a little while before The Lands Between is realized
   in movie form. Bandai Namco just confirmed that the live-action Elden Ring movie,
   which was announced last…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-20T13:25:40Z'

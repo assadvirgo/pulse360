@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel's prime minister Benjamin Netanyahu condemned "in the strongest
   terms" images of an Israeli soldier damaging a statue of Jesus.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-04-20T09:59:00Z'
