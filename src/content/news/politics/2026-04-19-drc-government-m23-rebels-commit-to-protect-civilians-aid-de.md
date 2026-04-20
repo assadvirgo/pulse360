@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: After talks in Switzerland, the two sides also made progress on a protocol
   for ceasefire oversight.
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-19T14:30:54Z'

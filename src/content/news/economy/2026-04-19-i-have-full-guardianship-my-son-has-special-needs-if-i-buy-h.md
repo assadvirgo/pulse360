@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Another option would be for me to purchase the condo myself and have
   him pay me rent.”
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-19T11:00:00Z'

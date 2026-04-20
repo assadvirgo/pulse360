@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: FT analysis of 16 funds shows extent of fees paid to banks and brokerages
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-19T04:09:19Z'

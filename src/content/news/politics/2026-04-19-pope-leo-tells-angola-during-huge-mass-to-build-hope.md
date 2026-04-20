@@ -4,7 +4,7 @@ country: Angola
 countryCode: AO
 description: On the third leg of his Africa tour, Leo urges Angola to move beyond
   &quot;divisions&quot; created by its war-scarred past.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-19T11:45:48Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: What does that say about the NFL's trade market, this draft class and
   the state of the Bengals?
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T19:56:30Z'

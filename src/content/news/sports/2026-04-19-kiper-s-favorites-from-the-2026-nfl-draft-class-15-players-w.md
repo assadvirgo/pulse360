@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mel Kiper Jr.'s annual list of draft favorites includes two speedy receivers,
   three undersized cornerbacks and some gritty linemen.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-19T16:27:54Z'

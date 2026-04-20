@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Military journals provide tantalising glimpses into what Tehran’s military
   thinks and its priorities, including drones
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-19T04:00:07Z'

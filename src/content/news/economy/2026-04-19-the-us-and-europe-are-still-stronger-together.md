@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite Trump and the war with Iran, Brussels’ interests remain deeply
   entwined with Washington’s
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-19T12:00:08Z'

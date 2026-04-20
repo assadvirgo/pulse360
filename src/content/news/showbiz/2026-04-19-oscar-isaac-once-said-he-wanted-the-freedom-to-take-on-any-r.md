@@ -3,7 +3,7 @@ category: Showbiz
 description: I don’t think we appreciate Oscar Isaac enough. That thought lingers
   while watching Season 2 of Netflix’s “Beef,” which arrives to positive reviews and,
   once again, widespread…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-19T17:00:00Z'

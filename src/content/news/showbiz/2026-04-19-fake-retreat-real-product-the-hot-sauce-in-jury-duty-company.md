@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon&#8217;s second season of its social experiment series, &#8220;Jury
   Duty,&#8221; ended this month, with the reveal that unwitting series star Anthony
   Norman had been working…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-19T17:54:06Z'

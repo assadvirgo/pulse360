@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A displaced woman returned to southern Lebanon after a ceasefire to find
   her house reduced to rubble.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-19T13:23:36Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Louisiana community in shock as domestic violence incident leaves eight
   children dead and two others injured.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-19T16:33:18Z'

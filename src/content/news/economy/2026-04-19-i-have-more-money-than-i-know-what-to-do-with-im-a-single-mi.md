@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “I buy clothes at thrift stores.”
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-19T10:30:00Z'
