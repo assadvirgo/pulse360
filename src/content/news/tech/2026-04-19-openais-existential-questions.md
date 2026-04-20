@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On the latest episode of Equity, we discuss OpenAI's latest acquisitions
   and whether they address "two big existential problems" for the company.
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 48.0
 pubDate: '2026-04-19T21:24:06Z'

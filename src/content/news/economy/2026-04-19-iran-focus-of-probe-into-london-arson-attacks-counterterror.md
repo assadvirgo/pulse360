@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Officers threaten to use anti-espionage National Security Act against
   anyone involved in the incidents
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-19T14:57:35Z'

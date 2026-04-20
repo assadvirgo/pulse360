@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: The EU’s election observer said the vote met democratic standards despite
   fraud allegations.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-19T12:07:39Z'

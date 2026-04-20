@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Zack Polanski’s leftwing populists are aiming to eat into Labour’s heartlands
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-19T15:00:09Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Celtic net six goals to St Mirren's two and set up a return to Hampden
   in the Scottish Cup final against Dunfermline Athletic.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-19T17:40:52Z'

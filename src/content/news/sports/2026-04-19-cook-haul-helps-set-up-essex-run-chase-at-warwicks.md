@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A fascinating final day awaits in the County Championship at Edgbaston
   where Essex will resume on 11-0, chasing a target of 206 to beat Warwickshire.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 70.2
 pubDate: '2026-04-19T18:21:20Z'

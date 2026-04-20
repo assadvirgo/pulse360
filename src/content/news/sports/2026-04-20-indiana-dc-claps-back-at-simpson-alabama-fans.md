@@ -5,7 +5,7 @@ countryCode: US
 description: Indiana defensive coordinator Bryant Haines heard the comments from former
   Alabama quarterback Ty Simpson about the teams' matchup last season in the Rose
   Bowl and responded with…
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-20T00:40:47Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The couple are “in the process now of transitioning to a more independent
   [company] where we can work with a bunch of different studios,” Barack Obama said.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-19T23:54:56Z'

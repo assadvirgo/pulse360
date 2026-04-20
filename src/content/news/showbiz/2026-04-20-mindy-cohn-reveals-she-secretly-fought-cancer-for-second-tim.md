@@ -5,7 +5,7 @@ countryCode: US
 description: Mindy Cohn is on the mend after secretly undergoing a cancer treatment,
   following her first time beating breast cancer in 2017. The Emmy-nominated Facts
   of Life star revealed that…
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-20T00:22:40Z'

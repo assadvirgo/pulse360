@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Increase indicates resilience in housing market even as Iran war led
   to surge in energy costs
-displayOrder: 35
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-19T23:01:03Z'

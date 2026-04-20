@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The latest attack at a Jewish site in the UK capital occurs at Kenton
   United Synagogue and causes minor damage.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-19T17:00:24Z'

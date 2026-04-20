@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Higher Ground will be breaking new ground in its evolution.
   The production company of President Barack Obama and Michelle Obama will transition
   to becoming independent…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-19T22:07:01Z'
