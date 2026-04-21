@@ -5,7 +5,7 @@ countryCode: US
 description: Apple CEO Tim Cook has written a letter to the community as he prepares
   to step down from his role in September. "This is not goodbye. But at this moment
   of transition, I wanted…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-20T21:42:36Z'

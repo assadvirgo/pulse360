@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: This is a prime minister who does not understand the difficult trade-offs
   involved in governing
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-20T17:42:29Z'

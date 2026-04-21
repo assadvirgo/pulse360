@@ -5,7 +5,7 @@ countryCode: CN
 description: An autonomous scarlet robot named "Lightning" finished a 13-mile race
   in Beijing on Sunday in just 50 minutes and 26 seconds, less than half the time
   of last year's fastest robot,…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-04-20T15:42:40Z'

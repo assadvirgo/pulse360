@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The sandwich shop has confidentially filed for an IPO, even as fast-food
   and sit-down chains are stuck in a discount war to win over inflation-fatigued consumers.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-20T18:18:00Z'

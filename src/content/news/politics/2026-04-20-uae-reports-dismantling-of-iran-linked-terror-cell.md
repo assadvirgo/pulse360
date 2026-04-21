@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Arrests come after United Arab Emirates bore the brunt of Iranian attacks
   on Gulf neighbours.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-20T18:00:31Z'

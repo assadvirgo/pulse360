@@ -5,7 +5,7 @@ countryCode: US
 description: Shares of Fermi, which was co-founded by Rick Perry, a former U.S. secretary
   of energy, were tumbling Monday after the surprise disclosure that its CEO was giving
   up that role.…
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-20T21:49:00Z'

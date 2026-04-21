@@ -5,7 +5,7 @@ countryCode: US
 description: Rif Hutton, an actor whose prolific work in television included roles
   on Doogie Howser, M.D., JAG and General Hospital, among many other series, died
   Saturday, April 18, at his…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-20T18:56:46Z'

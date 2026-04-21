@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Blue Origin successfully launched AST SpaceMobile’s satellite to orbit,
   but it was at the wrong altitude.
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-20T21:47:00Z'

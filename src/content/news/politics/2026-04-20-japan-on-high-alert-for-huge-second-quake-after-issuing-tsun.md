@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japan's meteorological agency warns another, stronger earthquake may
   hit in the next week,
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 81.2
 pubDate: '2026-04-20T14:54:21Z'

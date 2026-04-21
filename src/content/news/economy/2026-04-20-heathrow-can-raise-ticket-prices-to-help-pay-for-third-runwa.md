@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Civil Aviation Authority’s draft decision comes despite criticism from
   carriers over airport’s expansion project
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-20T15:31:35Z'

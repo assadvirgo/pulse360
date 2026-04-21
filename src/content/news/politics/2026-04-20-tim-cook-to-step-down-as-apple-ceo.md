@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Cook will turn over CEO duties to Apple’s head of hardware engineering,
   John Ternus, on September 1.
-displayOrder: 18
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-20T22:06:47Z'

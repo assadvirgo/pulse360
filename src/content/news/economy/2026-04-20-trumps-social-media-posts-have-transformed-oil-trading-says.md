@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hedge fund’s commodities head says traders are struggling to adjust to
   volatility sparked by president’s frequent messages
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-20T17:14:15Z'

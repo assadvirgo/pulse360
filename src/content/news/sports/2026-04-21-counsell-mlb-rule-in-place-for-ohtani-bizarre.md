@@ -5,7 +5,7 @@ countryCode: US
 description: Chicago Cubs manager Craig Counsell thinks that a Major League Baseball
   rule that allows the Los Angeles Dodgers to carry 14 pitchers because of Shohei
   Ohtani is "bizarre," adding…
-displayOrder: 12
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-21T01:06:35Z'

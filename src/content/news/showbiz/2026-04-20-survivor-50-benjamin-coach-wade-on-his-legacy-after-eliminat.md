@@ -5,7 +5,7 @@ countryCode: US
 description: 'The Dragon Slayer breaks down the moment his game unraveled, the moves
   that cost him and why he’s at peace with the outcome: "I don''t think I''m meant
   to win ''Survivor.''"'
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-20T18:43:09Z'
