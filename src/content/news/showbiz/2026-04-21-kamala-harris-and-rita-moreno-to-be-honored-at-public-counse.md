@@ -5,7 +5,7 @@ countryCode: US
 description: Kamala Harris and Rita Moreno will receive Public Counsel’s William O.
   Douglas Award and Trailblazer in the Arts Award, respectively, at the law firm&#8217;s
   annual William O.…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 71.8
 pubDate: '2026-04-21T16:00:00Z'

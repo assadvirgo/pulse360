@@ -2,7 +2,7 @@
 category: Politics
 description: Barcelona&#039;s Yamal bags Young Sportsperson of the Year accolade a
   year after winning the Breakthrough award in 2025.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 76.5
 pubDate: '2026-04-21T07:44:00Z'

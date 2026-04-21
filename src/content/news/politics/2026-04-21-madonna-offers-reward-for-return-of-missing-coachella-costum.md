@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The items, which she says are "part of my history", disappeared after
   her slot with Sabrina Carpenter.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-21T10:29:05Z'

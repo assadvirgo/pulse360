@@ -2,7 +2,7 @@
 category: Politics
 description: How the Strait of Hormuz became a system of control, shaping power and
   the global economy.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-21T11:11:04Z'

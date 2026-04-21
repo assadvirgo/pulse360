@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Nottingham Forest confirm Callum Hudson-Odoi will miss the rest of the
   season after having leg surgery.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-21T15:37:56Z'

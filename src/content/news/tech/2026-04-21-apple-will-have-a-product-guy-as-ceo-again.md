@@ -5,7 +5,7 @@ countryCode: US
 description: John Ternus is going to be Apple's next CEO. And while outgoing CEO Tim
   Cook was lauded for his approach to logistics, Ternus' history is that of a product
   person. Ternus, Apple's…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-21T11:49:34Z'

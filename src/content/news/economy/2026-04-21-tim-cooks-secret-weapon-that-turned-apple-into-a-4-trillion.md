@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tim Cook will leave the CEO post after 15 years marked by supply-chain
   dominance.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-21T15:17:00Z'

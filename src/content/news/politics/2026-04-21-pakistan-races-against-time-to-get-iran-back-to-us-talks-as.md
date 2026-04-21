@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: But a series of escalations by the US is complicating those efforts,
   say analysts.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-21T13:04:16Z'

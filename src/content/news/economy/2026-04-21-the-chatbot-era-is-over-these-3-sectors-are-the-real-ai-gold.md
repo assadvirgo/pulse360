@@ -2,7 +2,7 @@
 category: Economy
 description: Capital is flooding into AI. Defense, healthcare and agentics are the
   big winners, writes Mark Minevich.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-21T11:57:00Z'

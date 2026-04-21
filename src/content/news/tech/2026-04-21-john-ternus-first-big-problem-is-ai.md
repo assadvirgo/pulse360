@@ -5,7 +5,7 @@ countryCode: US
 description: Less than a year ago, Apple made headlines for a lack of AI announcements
   at its annual WWDC event. Ten months later, the company has announced that hardware
   executive John Ternus…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-21T13:37:55Z'

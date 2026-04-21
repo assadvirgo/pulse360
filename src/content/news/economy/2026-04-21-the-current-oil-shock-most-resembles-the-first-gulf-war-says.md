@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Analysts at the Swiss multinational bank said today’s oil supply shock
   most similarly resembles the Gulf War.
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-21T11:13:00Z'

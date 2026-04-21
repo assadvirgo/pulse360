@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Exit as a Premier League champion like Sir Alex Ferguson? Or leave behind
   a strong foundation like Jurgen Klopp? Pep Guardiola has the chance to do both.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-21T12:45:42Z'

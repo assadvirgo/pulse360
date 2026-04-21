@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'Trump told CNBC''s "Squawk Box": "I think I''d love somebody to buy
   Spirit, as an example."'
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-21T14:53:48Z'

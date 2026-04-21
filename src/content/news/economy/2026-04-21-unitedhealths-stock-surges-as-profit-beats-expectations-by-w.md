@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The healthcare giant increased its earnings guidance for the year and
   revealed unexpectedly strong first-quarter results.
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-21T13:43:00Z'

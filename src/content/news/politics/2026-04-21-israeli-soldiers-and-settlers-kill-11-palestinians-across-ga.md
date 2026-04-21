@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: In Hebron, a 16-year-old is struck by a vehicle escorting an Israeli
   minister and killed.
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-21T14:01:42Z'
