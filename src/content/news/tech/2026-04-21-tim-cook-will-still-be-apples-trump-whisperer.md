@@ -5,7 +5,7 @@ countryCode: US
 description: 'Though Tim Cook is shedding his CEO title for the role of Apple''s executive
   chairman, it appears he''ll keep one of his most important duties: that of the company''s
   Trump…'
-displayOrder: 26
+displayOrder: 43
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-21T00:14:45Z'

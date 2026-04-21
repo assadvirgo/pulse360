@@ -5,7 +5,7 @@ countryCode: KR
 description: Seoul police have applied for a warrant to detain Bang Si-hyuk, chair
   and founder of Hybe, over alleged securities fraud tied to the K-pop conglomerate&#8217;s
   public listing,…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-21T07:39:49Z'

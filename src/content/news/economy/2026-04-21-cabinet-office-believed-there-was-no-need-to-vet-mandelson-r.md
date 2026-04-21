@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Evidence comes after PM blamed civil servant for keeping him in the dark
   over vetting failure
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-21T07:37:12Z'

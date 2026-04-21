@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Head of hardware to become next chief executive while Cook will become
   chair of the iPhone maker
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-21T07:37:35Z'

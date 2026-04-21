@@ -5,7 +5,7 @@ countryCode: US
 description: Before diving into the ongoing maelstrom of Iran peace talks, Jon Stewart
   spent several minutes of his opening Daily Show monologue to address President Donald
   Trump&#8217;s…
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 70.0
 pubDate: '2026-04-21T04:07:53Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US veterans were arrested while staging a protest in the US Capitol building
   in opposition to the war on Iran.
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-21T05:20:18Z'

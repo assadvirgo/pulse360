@@ -5,7 +5,7 @@ countryCode: US
 description: The multitrillion-dollar home of the iPhone, Mac, and so many other tech
   gadgets is getting a new leader this fall, as Apple has announced that Tim Cook
   will be replaced as CEO on…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-20T21:44:15Z'

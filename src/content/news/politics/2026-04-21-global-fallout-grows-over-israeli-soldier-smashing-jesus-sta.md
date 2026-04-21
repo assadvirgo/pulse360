@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Outrage continues to grow over the Israeli soldier who was photographed
   desecrating a statue of Jesus Christ in Lebanon.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-21T01:33:44Z'

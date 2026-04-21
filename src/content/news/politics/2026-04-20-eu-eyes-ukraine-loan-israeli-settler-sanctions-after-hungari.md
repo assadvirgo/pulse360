@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Ouster of EU &#039;spoiler-in-chief&#039; Viktor Orban unlocks key foreign
   policy decisions in the 27-member bloc.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 81.5
 pubDate: '2026-04-20T21:30:55Z'

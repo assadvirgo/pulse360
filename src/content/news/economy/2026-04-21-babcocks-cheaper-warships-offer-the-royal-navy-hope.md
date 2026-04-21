@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK defence company is building Type 31 frigates quickly at Rosyth
   to fill an awkward gap
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-21T04:00:20Z'

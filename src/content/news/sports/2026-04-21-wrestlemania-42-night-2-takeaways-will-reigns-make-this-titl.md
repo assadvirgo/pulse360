@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Roman Reigns is champion once again, but what should fans expect in the
   latest title reign of the OTC?
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-21T05:26:08Z'

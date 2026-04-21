@@ -5,7 +5,7 @@ countryCode: US
 description: Oscar winner Sean Baker has found an unexpected way to inspire future
   generations of independent filmmakers — at the bank.&#160; The auteur has secured
   the first big payday of his…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-20T23:58:43Z'

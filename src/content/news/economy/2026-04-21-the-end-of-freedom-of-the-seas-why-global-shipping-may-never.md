@@ -2,7 +2,7 @@
 category: Economy
 description: Freedom of maritime navigation has long been considered a staple feature
   of the post-war liberal order but all this is changing in the era of competing superpowers
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-21T07:43:00Z'

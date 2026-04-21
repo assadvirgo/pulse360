@@ -5,7 +5,7 @@ countryCode: US
 description: On Monday night’s episode of “The Daily Show,” Jon Stewart poked fun
   at President Donald Trump for some unusual behavior during a bill signing. Stewart
   opened the show by…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-21T04:17:45Z'
