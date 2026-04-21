@@ -5,7 +5,7 @@ countryCode: US
 description: The PGA Tour will not be in Hawaii in 2027 for the first time in 56 years
   as it moves toward a revamped schedule that no longer will start the season in the
   middle of the Pacific…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-21T07:49:42Z'

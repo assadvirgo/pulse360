@@ -5,7 +5,7 @@ countryCode: US
 description: Starting on September 1, Ternus will lead one of the world's most valuable
   companies, but if you're not a dedicated Apple enthusiast, you've probably never
   heard of this man, who…
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-21T01:02:04Z'

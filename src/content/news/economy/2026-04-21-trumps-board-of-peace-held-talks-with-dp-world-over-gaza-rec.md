@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Proposal examined having Emirati company manage supply chains and logistics
   as part of US plan for devastated enclave
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-21T04:00:20Z'

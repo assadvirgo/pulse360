@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Borrowing facility adds another layer of debt to auction house owned
   by billionaire Patrick Drahi
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-04-21T04:00:20Z'

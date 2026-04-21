@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Company code-named Project Prometheus is working on models for industrial
   applications
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-21T01:06:38Z'

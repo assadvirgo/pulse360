@@ -5,7 +5,7 @@ countryCode: GB
 description: Sister Group, Jane Featherstone and Elisabeth Murdoch&#8217;s growing
   transatlantic powerhouse, has added to its portfolio of acquisitions by taking a
   majority stake in British…
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-21T10:00:00Z'

@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The kidnappers raided his palace on Saturday and are believed to be holding
   him in a forest.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-21T10:59:51Z'

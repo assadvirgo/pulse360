@@ -5,7 +5,7 @@ countryCode: GB
 description: Universal’s “The Super Mario Galaxy Movie” held the No. 1 spot at the
   U.K. and Ireland box office for a third weekend, taking £2.6 million ($3.4 million)
   and lifting its total to…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-21T10:51:01Z'
