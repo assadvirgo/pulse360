@@ -2,7 +2,7 @@
 category: Politics
 description: While the focus of many in the Middle East has been on conflicts in Lebanon
   and Iran, the scale of damage in Gaza is also back under scrutiny.&#160;
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-20T17:18:00Z'

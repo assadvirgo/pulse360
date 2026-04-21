@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: With 87% of the vote now counted, Progressive Bulgaria has secured a
   majority in parliament.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-20T13:01:19Z'

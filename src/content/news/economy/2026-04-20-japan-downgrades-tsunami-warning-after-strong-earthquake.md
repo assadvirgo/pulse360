@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: No reports of major damage from waves that hit north-eastern coastline
   after magnitude 7.4 tremor
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 72.5
 pubDate: '2026-04-20T11:42:00Z'

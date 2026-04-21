@@ -5,7 +5,7 @@ countryCode: US
 description: Insta360's first wireless microphone kit debuted in June with small,
   lightweight AirTag-sized mics that were easier to wear hidden away. The new Insta360
   Mic Pro, which the…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-20T19:00:00Z'

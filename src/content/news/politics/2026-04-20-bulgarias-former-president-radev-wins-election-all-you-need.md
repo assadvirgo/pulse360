@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Former President Rumen Radev wins big in Bulgaria’s eighth election on
   an &#039;anti-corruption&#039; ticket.
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-20T14:43:42Z'

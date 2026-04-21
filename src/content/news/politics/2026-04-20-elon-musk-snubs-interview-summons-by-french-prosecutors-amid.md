@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The Paris prosecutor's office told the BBC it had "taken note of the
   absence of the people summoned".
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-20T15:44:44Z'

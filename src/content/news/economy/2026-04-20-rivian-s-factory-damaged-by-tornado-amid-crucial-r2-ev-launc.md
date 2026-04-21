@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Rivian's factory damaged by tornado amid crucial R2 EV launch
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-20T15:35:19Z'

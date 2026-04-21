@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: The access route to Morro Dois Irmãos was blocked during the operation
   in Vidigal, leaving scores of alarmed sightseers stuck on the hill.
-displayOrder: 19
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-20T17:34:10Z'

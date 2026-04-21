@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The startup, co-founded by former U.S. Energy Secretary Rick Perry, has
   faced headwinds with its AI campus in Texas.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-20T15:30:19Z'

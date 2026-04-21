@@ -2,7 +2,7 @@
 category: Politics
 description: Pacific Island states cannot and will not allow key climate shipping
   agreement to be watered down.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-20T13:34:50Z'
