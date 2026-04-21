@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: John Ternus will take over running the technology giant as Cook steps
   up to become executive chairman.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-20T22:55:39Z'

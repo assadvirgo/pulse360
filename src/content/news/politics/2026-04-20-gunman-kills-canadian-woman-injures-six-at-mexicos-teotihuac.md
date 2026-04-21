@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: President Claudia Sheinbaum says she instructed authorities to &#039;thoroughly
   investigate&#039; incident outside Mexico City.
-displayOrder: 32
+displayOrder: 44
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-20T19:45:18Z'

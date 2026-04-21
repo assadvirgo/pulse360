@@ -3,7 +3,7 @@ category: Tech
 description: Ten years ago, Dyson kicked off the hair gadget arms race with its $400
   Supersonic hairdryer. Today, it's back with a slightly smaller and cheaper travel-size
   version. As the name…
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-21T04:00:00Z'

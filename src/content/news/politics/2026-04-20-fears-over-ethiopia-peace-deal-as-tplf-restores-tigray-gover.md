@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: Announcement from Tigray&#039;s main political party has sparked concern
   over the potential resumption of a deadly conflict.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-20T22:05:23Z'

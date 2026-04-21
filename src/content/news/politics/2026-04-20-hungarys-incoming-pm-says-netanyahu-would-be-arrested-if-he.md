@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungary’s election winner says he would enact an ICC arrest warrant for
   Israeli PM Benjamin Netanyahu and detain him.
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 77.5
 pubDate: '2026-04-20T23:08:14Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: First all-women cohort of winners hails from Colombia, Nigeria, Papua
   New Guinea, South Korea, the UK and the US.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-21T00:07:04Z'

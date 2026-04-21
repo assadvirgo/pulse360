@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump has released various social media comments throughout the
   day, preaching about winning the war.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-20T21:01:22Z'

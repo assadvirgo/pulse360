@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungary's incoming prime minister has said he'll stop the country's withdrawal
   from the International Criminal Court (ICC).
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-21T02:16:00Z'

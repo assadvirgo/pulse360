@@ -2,7 +2,7 @@
 category: Politics
 description: Global rights group says leaders of three countries behind devastating
   wars inspire other states to carry out abuses.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 66.5
 pubDate: '2026-04-20T23:43:01Z'

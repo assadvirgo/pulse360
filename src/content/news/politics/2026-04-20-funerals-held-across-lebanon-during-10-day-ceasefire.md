@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Mourners across Lebanon are burying victims of the war with Israel during
   a 10-day ceasefire.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-20T20:13:30Z'

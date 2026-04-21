@@ -5,7 +5,7 @@ countryCode: US
 description: Apple CEO Tim Cook is stepping down and will be succeeded by John Ternus,
   currently Apple's senior vice president of hardware engineering. Ternus will take
   over as CEO and join…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-04-20T20:42:59Z'

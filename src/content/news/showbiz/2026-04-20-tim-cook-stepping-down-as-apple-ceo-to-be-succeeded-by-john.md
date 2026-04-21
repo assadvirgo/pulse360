@@ -5,7 +5,7 @@ countryCode: US
 description: Tim Cook is set to exit as Apple&#8217;s CEO after 15 years. John Ternus,
   senior VP of hardware engineering, will become Apple’s next chief executive officer,
   the company…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-04-20T20:47:08Z'

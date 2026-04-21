@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: John Ternus is expected to usher in a renewed focus on hardware as Apple
   positions itself for the age of AI.
-displayOrder: 43
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-20T22:43:00Z'

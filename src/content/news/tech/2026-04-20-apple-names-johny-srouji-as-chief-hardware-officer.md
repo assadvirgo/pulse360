@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has appointed Johny Srouji as its new chief hardware officer, "effective
   immediately," according to an announcement on Monday. He is stepping into the shoes
   of current…
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 72.2
 pubDate: '2026-04-20T21:05:59Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Matlock&#8216;s upcoming Season 2 finale, airing April 23
   at 9 pm on CBS, will feature three actresses who starred in Jane the Virgin. Bridget
   Regan will join the…'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-20T22:38:17Z'

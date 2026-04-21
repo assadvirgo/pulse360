@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: A gunman has killed a Canadian woman and more than a dozen others have
   been injured at one of Mexico's most popular tourist sites.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-04-20T21:38:00Z'
