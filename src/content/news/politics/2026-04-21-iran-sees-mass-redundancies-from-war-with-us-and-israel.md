@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The impact is being felt by manufacturers, retailers and the digital
   sector, amid warnings it could get worse if the war resumes.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-21T16:05:51Z'

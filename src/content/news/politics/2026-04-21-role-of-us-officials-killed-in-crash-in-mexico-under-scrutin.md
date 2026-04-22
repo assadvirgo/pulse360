@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The two died in a car crash after a Mexican-led operation to destroy
   a clandestine drug lab.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-04-21T11:37:43Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: The Pope has warned humanity's future risks being "tragically compromised"
   due to a breakdown of international law and political responsibility.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-21T16:28:00Z'

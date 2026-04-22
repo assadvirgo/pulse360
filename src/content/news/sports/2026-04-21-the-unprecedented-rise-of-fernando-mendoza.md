@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The consensus top pick is bringing his unique mix of curiosity, quirk
   and command to the NFL.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-21T15:20:28Z'

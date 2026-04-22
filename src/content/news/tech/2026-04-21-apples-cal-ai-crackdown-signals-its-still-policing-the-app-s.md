@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple tells TechCrunch Cal AI was removed not for web payments alone,
   but for deceptive billing, manipulative tactics, and App Store rule violations.
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 58.0
 pubDate: '2026-04-21T19:09:12Z'

@@ -4,7 +4,7 @@ country: Paraguay
 countryCode: PY
 description: The Trump administration has signed multimillion-dollar deals with foreign
   countries to accept non-citizen deportees.
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-21T23:10:21Z'

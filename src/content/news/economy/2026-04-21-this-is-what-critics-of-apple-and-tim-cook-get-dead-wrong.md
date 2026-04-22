@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple’s true innovation is betting on hardware as the clearest path to
   profit from the AI revolution.
-displayOrder: 35
+displayOrder: 48
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-21T19:37:00Z'

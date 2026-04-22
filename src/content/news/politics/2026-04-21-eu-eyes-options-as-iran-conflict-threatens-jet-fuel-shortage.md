@@ -2,7 +2,7 @@
 category: Politics
 description: The blockade of the Strait of Hormuz is causing concern in Europe, which
   relies heavily on imported jet fuel.
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-21T20:33:13Z'

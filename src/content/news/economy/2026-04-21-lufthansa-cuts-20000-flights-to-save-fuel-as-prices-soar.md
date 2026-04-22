@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Move comes as European transport ministers gather to discuss plans to
   prevent region running short of jet fuel
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-21T17:20:52Z'

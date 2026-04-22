@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'Who will win the MVP award: Nuggets'' Nikola Jokic, Spurs'' Victor Wembanyama
   or Thunder''s Shai Gilgeous-Alexander?'
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 70.5
 pubDate: '2026-04-21T20:48:44Z'

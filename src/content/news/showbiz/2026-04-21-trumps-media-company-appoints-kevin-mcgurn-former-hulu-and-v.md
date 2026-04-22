@@ -5,7 +5,7 @@ countryCode: US
 description: Trump Media &#38; Technology Group, the parent company of social-media
   platform Truth Social and other businesses whose mission is &#8220;to end Big Tech&#8217;s
   assault on free…
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-21T21:48:48Z'

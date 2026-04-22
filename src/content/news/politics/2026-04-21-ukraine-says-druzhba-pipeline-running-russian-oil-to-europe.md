@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv hopeful pipeline restoration will unblock EU loan, with bloc&#039;s
   foreign policy chief expecting &#039;positive decision&#039;.
-displayOrder: 24
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-21T18:27:14Z'

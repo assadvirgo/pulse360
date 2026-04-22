@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pete Hegseth says the decision is based on principle of &#039;medical
   autonomy&#039; and criticises the mandate as &#039;overreaching&#039;.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-21T18:04:31Z'

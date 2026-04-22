@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Rabbi Avraham Zarbiv has filmed himself demolishing Palestinian buildings
   in Gaza while reciting religious verses.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-21T15:35:14Z'

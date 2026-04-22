@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Avraham Zarbiv, known for gleefully documenting his bulldozing of Gaza,
   was honoured on Israel’s “Independence Day”.
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-21T19:43:33Z'

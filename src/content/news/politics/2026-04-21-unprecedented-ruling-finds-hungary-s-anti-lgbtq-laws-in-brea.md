@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: The EU's top court finds that the reforms breached EU values on a number
   of levels and broke the founding values of the EU treaty.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 79.2
 pubDate: '2026-04-21T12:28:31Z'

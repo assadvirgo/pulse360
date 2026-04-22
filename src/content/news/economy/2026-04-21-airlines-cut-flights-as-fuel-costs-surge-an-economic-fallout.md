@@ -2,7 +2,7 @@
 category: Economy
 description: For travelers, the disappearing flights are translating into fewer route
   and connecting options, and of course higher fare prices.
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-21T22:04:00Z'

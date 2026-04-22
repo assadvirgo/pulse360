@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Two-time Academy Award nominee Melissa McCarthy is in talks
   to star in Turpentine, a new thriller directed by The Penguin and Mare of Easttown&#8216;s
   Craig Zobel,…'
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-21T21:52:14Z'
