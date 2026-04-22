@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Industry regulator has written to 58 schemes to warn about their exposure
   to hard-to-sell investments
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 45.5
 pubDate: '2026-04-22T04:00:07Z'

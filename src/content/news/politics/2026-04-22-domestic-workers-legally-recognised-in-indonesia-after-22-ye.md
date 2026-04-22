@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: The country is home to some 4.2 million domestic workers - of which almost
   90% are women.
-displayOrder: 18
+displayOrder: 39
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-22T02:55:40Z'

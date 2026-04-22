@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Ballot delivery delays and other missteps on election day have contributed
   to frustration with electoral authorities.
-displayOrder: 25
+displayOrder: 45
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-21T22:14:40Z'

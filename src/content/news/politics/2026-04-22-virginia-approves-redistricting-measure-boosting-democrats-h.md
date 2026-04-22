@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The new maps approved by the state's voters could allow Democrats to
   flip as many as four House seats.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-04-22T02:24:41Z'

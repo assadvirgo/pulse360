@@ -5,7 +5,7 @@ countryCode: US
 description: A day after FBI Director Kash Patel filed a $250 million lawsuit against
   The Atlantic, he has lost a different defamation claim, against news analyst and
   pundit Frank Figliuzzi.…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-22T00:25:51Z'

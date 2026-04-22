@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In response to questions about reported cost-cutting measures by new
   Blazers owner Tom Dundon, interim coach Tiago Splitter said he's focusing on basketball.
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-22T08:58:01Z'

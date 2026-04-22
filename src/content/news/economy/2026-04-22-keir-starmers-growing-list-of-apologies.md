@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK prime minister, who relished pushing Boris Johnson into saying
   sorry, has now found himself in a similar place
-displayOrder: 9
+displayOrder: 32
 heroImage: ''
 importance: 55.5
 pubDate: '2026-04-22T04:00:26Z'

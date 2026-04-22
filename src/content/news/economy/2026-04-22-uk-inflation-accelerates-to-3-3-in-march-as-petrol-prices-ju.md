@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Figure underlines economic impact of the Middle East conflict
-displayOrder: 5
+displayOrder: 25
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-22T07:49:13Z'

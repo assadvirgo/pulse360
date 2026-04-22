@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Europe and the US have fundamentally different world views when it comes
   to risk, force and international law
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-22T04:00:07Z'

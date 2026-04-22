@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentine President Javier Milei sang and lit a ceremonial torch at Israel&#039;s
   78th Independence Day celebrations.
-displayOrder: 33
+displayOrder: 48
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-22T00:53:59Z'

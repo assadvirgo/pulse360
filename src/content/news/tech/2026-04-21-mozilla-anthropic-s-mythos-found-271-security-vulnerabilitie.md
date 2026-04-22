@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CTO says new AI model is "every bit as capable" as world's best security
   researchers.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-21T21:40:41Z'

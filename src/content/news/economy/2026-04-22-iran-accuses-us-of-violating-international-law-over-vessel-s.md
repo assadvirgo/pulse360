@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran’s ambassador to UN also accused Washington of ‘continuing internationally
   wrongful acts’ that breached ceasefire agreement
-displayOrder: 21
+displayOrder: 41
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-22T03:17:26Z'

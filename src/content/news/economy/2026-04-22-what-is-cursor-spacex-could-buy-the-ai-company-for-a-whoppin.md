@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anthropic and OpenAI have emphasized AI coding tools, and now SpaceX
   is looking to bulk up its efforts in this buzzy area.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-22T00:01:00Z'

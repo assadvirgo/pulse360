@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ship, detained under US policy to stop all Tehran-linked vessels, is
   under sanctions for smuggling Iranian crude.
-displayOrder: 24
+displayOrder: 49
 heroImage: ''
 importance: 81.5
 pubDate: '2026-04-21T18:45:32Z'
