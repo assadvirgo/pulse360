@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Arsenal’s title challenge is again being undermined by dropped points
   in decisive moments.
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-22T13:31:30Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Shawna Thomas, a veteran journalist who has enjoyed stints as a Washington
   producer, news executive and a morning-show honcho, is joining MS NOW after wrapping
   up a stint as the…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-22T10:19:56Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: In 2019, a 36-year-old Rep. Dan Crenshaw (R-TX), newly elected to Congress,
   was photographed for the inaugural Time 100 Next List, wearing a dashing eye patch
   and looking upwards…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 71.2
 pubDate: '2026-04-22T12:00:00Z'

@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Taiwan has accused Beijing of putting pressure on African countries to
   close their airspace to Lai's plane.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-22T06:25:15Z'

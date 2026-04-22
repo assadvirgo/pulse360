@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The airline is the latest to cut flights as the US-Israel war with Iran
   sends jet fuel prices soaring.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-22T10:31:29Z'

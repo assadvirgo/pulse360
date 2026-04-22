@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The White House's war on Iran has inadvertently provided an opportunity
   for sustainable power alternatives to gain a greater foothold.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-22T12:00:00Z'

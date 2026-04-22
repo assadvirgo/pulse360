@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The owner of a gun which was used to kill eight children told investigators
   the firearm was stolen from&#160;his truck in the weeks before the shooting.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-22T09:34:00Z'

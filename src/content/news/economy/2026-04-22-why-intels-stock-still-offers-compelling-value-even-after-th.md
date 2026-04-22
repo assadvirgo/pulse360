@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Charles Lemonides of ValueWorks predicts Intel will achieve a much higher
   sales-growth rate than what Wall Street analysts expect.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-22T15:05:00Z'

@@ -3,7 +3,7 @@ category: Economy
 description: A popular exchange-traded fund that tracks stocks in emerging markets
   has surged in April — but the ETF is still trailing the S&amp;P 500 since the start
   of the Iran conflict.
-displayOrder: 29
+displayOrder: 45
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-22T12:03:00Z'

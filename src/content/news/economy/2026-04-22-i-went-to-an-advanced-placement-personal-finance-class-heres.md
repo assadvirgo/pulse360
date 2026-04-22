@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Financial literacy will get serious treatment in high schools starting
   next year as part of the AP’s new ‘Career Kickstart’ bundle
-displayOrder: 39
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-22T14:22:00Z'

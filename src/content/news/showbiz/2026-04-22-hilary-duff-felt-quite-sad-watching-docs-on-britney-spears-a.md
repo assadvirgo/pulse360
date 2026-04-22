@@ -5,7 +5,7 @@ countryCode: US
 description: 'Hilary Duff reflected on her child star upbringing at the TIME100 Summit
   in Manhattan, where Time executive editor Dan Macsai asked if documentaries like
   “Quiet on Set: The Dark…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-22T15:14:18Z'
