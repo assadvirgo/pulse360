@@ -5,7 +5,7 @@ countryCode: US
 description: Ask Americans how they feel about AI and most say they have concerns.
   Communities have mounted resistance to data center projects, stalling them across
   the US. On social media,…
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-21T19:00:05Z'

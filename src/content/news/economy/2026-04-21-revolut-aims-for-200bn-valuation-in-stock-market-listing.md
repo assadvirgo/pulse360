@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bumper IPO would trigger increased stake for founder Nik Storonsky but
   group has no plans to float shares before 2028
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-21T11:17:19Z'

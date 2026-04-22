@@ -5,7 +5,7 @@ countryCode: US
 description: From a new Charlie Palmer "culinary hotel" in Sonoma to the renovation
   of the landmark Huntington in San Francisco, these design-forward stays across the
   state are perfect for a…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-21T20:17:02Z'

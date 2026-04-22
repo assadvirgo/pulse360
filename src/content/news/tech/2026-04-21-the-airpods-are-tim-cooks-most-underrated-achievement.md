@@ -5,7 +5,7 @@ countryCode: US
 description: Apple Silicon chips. The iPhone's dominance. Apple Vision Pro. During
   Tim Cook's 15-year tenure as Apple CEO there were highs - and in the case of the
   Vision Pro, maybe a low -…
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-21T17:49:35Z'

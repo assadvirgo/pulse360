@@ -5,7 +5,7 @@ countryCode: US
 description: Tucker Carlson&#8217;s break with President Donald Trump &#8212; whom
   the ex-Fox News host once robustly supported &#8212; took a stunning turn, as Carlson
   apologized for…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-04-21T15:43:23Z'

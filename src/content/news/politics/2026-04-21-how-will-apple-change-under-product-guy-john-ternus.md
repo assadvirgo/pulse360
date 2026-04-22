@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: How Ternus responds to challenges facing Apple will go a long way to
   deciding the tech giant's future, writes Zoe Kleinman.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-21T13:35:21Z'

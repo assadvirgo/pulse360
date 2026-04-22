@@ -3,7 +3,7 @@ category: Tech
 description: DJI plans to debut two new drones later this week according to a recent
   teaser. But ahead of the official announcement, Italian electronics retailer Dino
   Galiano has shared…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-21T15:36:52Z'
