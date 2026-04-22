@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microsoft score or Intel fumble? Apple’s $4 trillion CEO bet rests on
   one massive pivot.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-22T11:50:00Z'

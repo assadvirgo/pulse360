@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: After three years of ethnic clashes, Manipur still remains on edge, with
   fears that the conflict could spiral further.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-22T10:58:44Z'

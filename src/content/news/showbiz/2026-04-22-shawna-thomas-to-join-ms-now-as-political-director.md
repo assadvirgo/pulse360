@@ -5,7 +5,7 @@ countryCode: US
 description: Shawna Thomas is joining MS NOW as political director after her recent
   departure from CBS News, where she was executive producer of CBS Mornings. Thomas
   will lead the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-22T12:05:49Z'

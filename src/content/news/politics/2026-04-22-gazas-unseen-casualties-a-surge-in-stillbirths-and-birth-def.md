@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza sees a 140% rise in stillbirths and a doubling of congenital anomalies
   as the devastating impacts of war linger.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-22T09:02:55Z'

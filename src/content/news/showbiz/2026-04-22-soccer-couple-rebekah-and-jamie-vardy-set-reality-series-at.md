@@ -5,7 +5,7 @@ countryCode: GB
 description: Rebekah Vardy, who infamously took fellow footballer&#8217;s wife Coleen
   Rooney to court over an Instagram post, is set to get her own reality show. Titled
   “The Vardys,” the…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-22T08:40:50Z'

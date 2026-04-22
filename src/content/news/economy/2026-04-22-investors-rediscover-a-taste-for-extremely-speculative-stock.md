@@ -5,7 +5,7 @@ countryCode: US
 description: “Magnificent Seven” tech stocks are finally riding high once again in
   April after a months-long bout of underperformance. Yet the real winners of the
   April stock-market rebound —…
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-22T12:00:00Z'

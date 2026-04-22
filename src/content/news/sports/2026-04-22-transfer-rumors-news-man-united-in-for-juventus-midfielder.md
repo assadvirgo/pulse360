@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United are interested in signing Juventus midfielder Teun
   Koopmeiners. Join us for the latest transfer news and rumors from around the globe.
-displayOrder: 29
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-22T08:56:19Z'

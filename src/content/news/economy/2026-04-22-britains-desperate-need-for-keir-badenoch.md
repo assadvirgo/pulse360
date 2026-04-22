@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The country requires centre-left foreign policy and centre-right reform
   at home
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-22T11:34:47Z'

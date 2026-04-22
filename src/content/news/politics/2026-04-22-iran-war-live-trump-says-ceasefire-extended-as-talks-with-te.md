@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Lebanon&#039;s disaster management unit raises death toll from weeks
   of Israeli attacks to 2,454, with 7,658 people injured.
-displayOrder: 30
+displayOrder: 50
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-22T00:00:00Z'

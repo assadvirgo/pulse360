@@ -5,7 +5,7 @@ countryCode: FR
 description: 'EXCLUSIVE: Studio TF1 has boarded sales on Vincent Garenq’s Cannes-selected
   drama Forsaken (L’Abandon) revisiting the final 11 days of French school teacher
   Samuel Paty, whose…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-04-22T10:04:41Z'
