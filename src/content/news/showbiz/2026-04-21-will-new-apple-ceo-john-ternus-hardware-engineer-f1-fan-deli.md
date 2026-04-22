@@ -5,7 +5,7 @@ countryCode: US
 description: Apple’s changing of the guard with low-key Head of Hardware Engineering,
   John Ternus, set to replace CEO Tim Cook in a matter of months, launches a new era
   at the tech giant. The…
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-21T23:05:34Z'

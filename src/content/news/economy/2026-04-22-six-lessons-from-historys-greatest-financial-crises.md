@@ -2,7 +2,7 @@
 category: Economy
 description: The Babylonians had debt defaults. The S&amp;L scandal led to 2008. What
   else does the past tell us?
-displayOrder: 17
+displayOrder: 26
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-22T04:00:07Z'

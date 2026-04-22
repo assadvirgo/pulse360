@@ -5,7 +5,7 @@ countryCode: US
 description: Dave Mason, solo artist, a founding member of the band Traffic, writer
   of the classic rock songs “Feelin’ Alright” and “Hole in My Shoe” and sideman to
   the Rolling Stones, George…
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-22T02:24:10Z'

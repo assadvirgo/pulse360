@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Firm whose partners bill more than $2,000 per hour apologises to judge
   for software-driven errors in bankruptcy case
-displayOrder: 38
+displayOrder: 50
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-21T19:01:32Z'

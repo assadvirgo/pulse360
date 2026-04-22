@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Ministers and Labour MPs appear to be losing sympathy for prime minister
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-21T23:32:33Z'

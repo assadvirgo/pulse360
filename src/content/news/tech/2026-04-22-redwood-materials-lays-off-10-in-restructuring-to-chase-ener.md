@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company is restructuring some teams to accommodate a booming energy
   storage business, according to emails viewed by TechCrunch.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-22T00:37:33Z'

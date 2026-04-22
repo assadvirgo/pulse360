@@ -4,7 +4,7 @@ country: Nicaragua
 countryCode: NI
 description: Nicaraguan President has criticised his US counterpart Donald Trump,
   over the war on Iran.
-displayOrder: 14
+displayOrder: 32
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-21T18:47:11Z'

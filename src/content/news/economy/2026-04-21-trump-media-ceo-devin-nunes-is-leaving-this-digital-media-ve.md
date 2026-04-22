@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kevin McGurn, Trump Media’s interim CEO, has been an adviser to the company
   since December 2024.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-21T23:14:00Z'

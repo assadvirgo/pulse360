@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Two soldiers will be removed from combat duty and receive 30 days of
   military detention, Israel's military says.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-21T16:13:27Z'

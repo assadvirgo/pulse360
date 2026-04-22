@@ -5,7 +5,7 @@ countryCode: US
 description: A glass pane behind the Kings bench shattered after fans pounded on it
   in excitement after Colorado goalie Scott Wedgewood stopped a penalty shot in the
   second period.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-22T05:38:55Z'

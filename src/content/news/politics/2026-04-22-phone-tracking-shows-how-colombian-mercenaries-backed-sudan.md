@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The Conflict Insights Group (CIG) says its research also shows the extent
   of UAE involvement.
-displayOrder: 12
+displayOrder: 20
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-22T04:01:50Z'
