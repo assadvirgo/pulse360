@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: We ranked the most likely Giants draft picks for their two first-round
   selections in 2026.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-22T19:44:55Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK universities allegedly hired a security firm with military intelligence
   ties to monitor pro-Palestine students.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-22T18:21:41Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Mayor says campaigning ahead of May 7 local elections is some of ‘most
   difficult’ he has experienced in more than 40 years
-displayOrder: 18
+displayOrder: 27
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-23T04:00:25Z'

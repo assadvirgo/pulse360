@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Budget reconciliation would allow conservative lawmakers to bypass Democratic
   opposition in Senate with simple majority.
-displayOrder: 29
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-22T20:25:50Z'

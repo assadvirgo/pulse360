@@ -5,7 +5,7 @@ countryCode: US
 description: Leah Kateb&#8217;s fans include millions of &#8220;Love Island USA&#8221;
   viewers — and Tobey Maguire. During a panel at Variety’s Entertainment Marketing
   Summit presented by…
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-23T01:42:39Z'

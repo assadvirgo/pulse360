@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Billionaire investor Justin Sun is suing the family's World Liberty crypto
   venture after spending $45m on its tokens.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-22T18:10:42Z'

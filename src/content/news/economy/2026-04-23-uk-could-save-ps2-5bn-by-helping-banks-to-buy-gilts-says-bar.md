@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Idea long pursued by banking sector lobbyists faces opposition from regulators
-displayOrder: 44
+displayOrder: 45
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-23T04:00:19Z'

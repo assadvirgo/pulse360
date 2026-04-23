@@ -5,7 +5,7 @@ countryCode: US
 description: Hulu has released the trailer for Vanderpump Villa Season 3 reunion,
   which will premiere on April 30. The special will be available on Hulu and Hulu
   on Disney+ for bundle…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-04-23T00:20:10Z'

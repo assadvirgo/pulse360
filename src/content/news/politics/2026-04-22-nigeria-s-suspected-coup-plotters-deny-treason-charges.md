@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Allegations of a coup plot first surfaced last year when an Independence
   Day parade was cancelled.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-22T17:33:30Z'

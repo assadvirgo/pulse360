@@ -5,7 +5,7 @@ countryCode: US
 description: Cursor was on track to close a $2 billion funding round this week but
   chose to halt discussions after SpaceX offered a $10 billion "collaboration fee"
   and a path to a $60 billion…
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-22T19:51:51Z'
