@@ -5,7 +5,7 @@ countryCode: US
 description: Could teams jump all around Round 1 and shake things up? Will Jeremiyah
   Love and Sonny Styles go in the top five? Here's what Peter Schrager is hearing
   and predicting.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-22T23:37:19Z'

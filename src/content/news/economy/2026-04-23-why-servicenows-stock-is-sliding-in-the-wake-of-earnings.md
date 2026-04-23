@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors may be taking issue with various elements of the software company’s
   margin forecast.
-displayOrder: 35
+displayOrder: 50
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-23T00:23:00Z'

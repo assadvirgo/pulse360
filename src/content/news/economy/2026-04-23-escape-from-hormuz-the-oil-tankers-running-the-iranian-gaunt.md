@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: How trading houses Vitol, Trafigura and Mercuria have managed to get
   some of their vessels out of the Gulf
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-23T04:06:52Z'

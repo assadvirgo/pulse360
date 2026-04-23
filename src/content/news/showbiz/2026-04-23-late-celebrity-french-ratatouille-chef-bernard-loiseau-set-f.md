@@ -5,7 +5,7 @@ countryCode: FR
 description: The life of Bernard Loiseau, the late French culinary giant who inspired
   the character of Chef Auguste Gusteau&#160;in Pixar’s Ratatouille, is set to be
   explored in a biopic.…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-23T07:00:08Z'

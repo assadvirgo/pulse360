@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The Middle East conflict is putting pressure on factory orders, costs
   and jobs in China's export-driven economy.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-22T21:23:25Z'

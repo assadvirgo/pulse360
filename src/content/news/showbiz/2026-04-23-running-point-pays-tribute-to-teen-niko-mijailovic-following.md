@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix&#8217;s basketball comedy series Running Point is back for a
   second season. The third episode of the new installment, released on April 23, carries
   an end card that reads…
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-23T07:00:00Z'

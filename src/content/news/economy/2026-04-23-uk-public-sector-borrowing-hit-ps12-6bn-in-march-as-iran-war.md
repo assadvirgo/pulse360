@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Higher energy prices stoked by conflict have resulted in higher borrowing
   costs for government
-displayOrder: 11
+displayOrder: 30
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-23T07:47:03Z'

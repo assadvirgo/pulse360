@@ -5,7 +5,7 @@ countryCode: GB
 description: It took just five minutes for chants of "we are top of the league" to
   ring out around Turf Moor, as the title pendulum continues to shift towards Manchester
   City.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-04-22T22:16:23Z'

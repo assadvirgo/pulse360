@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: The accident happened early on Thursday at a level crossing north of
   Copenhagen.
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-23T08:02:18Z'

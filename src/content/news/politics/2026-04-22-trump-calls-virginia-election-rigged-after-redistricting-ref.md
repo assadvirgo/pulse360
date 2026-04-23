@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump’s comments came after the Virginia measure passed by a slim margy
   of 51.4 in favour and 48.5 against.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-22T20:09:16Z'

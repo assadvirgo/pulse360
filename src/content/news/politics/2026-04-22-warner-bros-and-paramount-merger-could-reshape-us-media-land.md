@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The deal faces regulatory scrutiny both for influence on media landscape,
   but also for foreign investments to fund it.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-22T19:53:08Z'

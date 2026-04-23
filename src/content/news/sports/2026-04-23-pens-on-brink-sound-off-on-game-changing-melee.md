@@ -5,7 +5,7 @@ countryCode: US
 description: A scrum that saw all 10 skaters in their respective penalty boxes helped
   the Flyers to a 5-2 win on Wednesday and drew the ire of the Penguins, who now find
   themselves in a 3-0…
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-23T07:53:45Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces raided the funeral of two Palestinians killed by settlers
   at a school in the occupied West Bank.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-22T20:30:10Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump has used incidents of crime to justify ongoing National
   Guard deployment to the capital, Washington, DC.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-22T20:23:40Z'

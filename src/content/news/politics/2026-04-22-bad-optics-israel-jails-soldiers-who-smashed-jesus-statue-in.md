@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Critics say Israeli attacks on Christian sites challenge claims of a
   Judeo-Christian shared heritage and mutual respect.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-22T18:22:26Z'
