@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rivian Automotive on Wednesday said it has started production of its
   new R2 all-electric vehicle for customers at its plant in Normal, Illinois.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-22T18:45:01Z'

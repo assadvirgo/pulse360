@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Students, teachers and families stage daily peaceful sit-ins at the site
   of the fence near Umm al-Khair village.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-22T15:44:26Z'

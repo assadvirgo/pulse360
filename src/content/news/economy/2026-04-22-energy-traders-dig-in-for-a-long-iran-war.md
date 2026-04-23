@@ -2,7 +2,7 @@
 category: Economy
 description: Vitol, Trafigura and rivals expand credit lines in anticipation of prolonged
   disruption to global oil and gas flows
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-22T15:28:06Z'

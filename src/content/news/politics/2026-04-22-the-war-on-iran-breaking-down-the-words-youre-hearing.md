@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The terminology of the US-Israel war on Iran is drawn from a range of
   linguistic origins.
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-22T14:50:58Z'

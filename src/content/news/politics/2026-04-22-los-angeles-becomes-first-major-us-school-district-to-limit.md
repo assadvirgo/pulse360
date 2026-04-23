@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The school district, which serves about half a million students, is looking
   to reduce its reliance on devices after the pandemic.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-22T14:22:59Z'

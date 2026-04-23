@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Ali Raza, who became the youngest Pakistan bowler to take a T20 hat-trick,
   helped restrict Kings to 182
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-22T15:27:11Z'

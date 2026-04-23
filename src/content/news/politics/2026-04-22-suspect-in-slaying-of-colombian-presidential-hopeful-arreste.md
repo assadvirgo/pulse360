@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Authorities say a Colombian suspected of helping to organise the killing
   of Miguel Uribe was captured in Buenos Aires.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-22T18:12:08Z'

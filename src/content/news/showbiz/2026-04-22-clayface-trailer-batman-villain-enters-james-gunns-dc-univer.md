@@ -5,7 +5,7 @@ countryCode: US
 description: DC Studios has released the trailer for “Clayface,” which hits theaters
   on Oct. 23. The horror film, which is directed by James Watkins, will track the
   origins of the…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-22T18:51:27Z'

@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: The head of Peru’s election authority was heckled by protesters after
   announcing his resignation.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-22T10:15:43Z'

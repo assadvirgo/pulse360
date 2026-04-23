@@ -5,7 +5,7 @@ countryCode: US
 description: Heart Eyes Killer, the deranged murderer who strikes on Valentine&#8217;s
   Day, has staked a big-screen return. Paramount Pictures will co-produce and co-finance
   &#8220;Heart Eyes…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-04-22T19:05:06Z'

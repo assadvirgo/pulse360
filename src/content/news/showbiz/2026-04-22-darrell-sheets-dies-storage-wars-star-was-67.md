@@ -5,7 +5,7 @@ countryCode: US
 description: Darrell Sheets, a longtime regular on the A&#38;E reality competition
   series Storage Wars died early this morning at his home in Lake Havasu City, Arizona.
   He was 67. Lake Havasu…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-22T20:08:09Z'
