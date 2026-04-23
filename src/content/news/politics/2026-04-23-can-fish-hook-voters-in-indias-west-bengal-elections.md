@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: In battle for India&#039;s West Bengal election, PM Modi&#039;s men campaigned
   with fish in hand to try to connect with voters.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-23T05:05:15Z'

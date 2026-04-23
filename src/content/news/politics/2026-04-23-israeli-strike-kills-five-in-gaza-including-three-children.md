@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has committed 2,400 violations of the &#039;ceasefire&#039; deal
   struck with Hamas in October, Gaza officials say.
-displayOrder: 16
+displayOrder: 37
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-23T07:53:15Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Average incomes five years after graduating are less than for people
   who studied nursing
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-04-23T04:00:07Z'

@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Turkish president meets NATO chief as Kyiv asks Ankara to host a leaders&#039;
   level meeting with Russia.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-22T21:09:14Z'

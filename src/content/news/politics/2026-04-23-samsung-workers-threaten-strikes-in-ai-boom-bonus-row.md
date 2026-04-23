@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Thousands of Samsung Electronics' workers have staged a rally to demand
   a greater slice of profits from the boom in artificial intelligence (AI) technology.
-displayOrder: 3
+displayOrder: 24
 heroImage: ''
 importance: 62.0
 pubDate: '2026-04-23T10:26:00Z'

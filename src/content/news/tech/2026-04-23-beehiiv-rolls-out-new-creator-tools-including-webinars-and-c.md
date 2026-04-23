@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beehiiv is clearly done being just a newsletter platform based on today's
   launch of a new webinar feature, customizable paywalls, and more.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-23T12:00:00Z'

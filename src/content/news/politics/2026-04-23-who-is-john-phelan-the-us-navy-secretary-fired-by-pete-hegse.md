@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Phelan&#039;s firing reveals turbulence in US military leadership amid
   the ongoing US-Israeli war with Iran.
-displayOrder: 4
+displayOrder: 27
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-23T09:49:10Z'

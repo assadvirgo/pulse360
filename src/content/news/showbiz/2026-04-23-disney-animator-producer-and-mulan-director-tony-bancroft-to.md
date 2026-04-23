@@ -5,7 +5,7 @@ countryCode: ES
 description: Tony Bancroft, the award-winning veteran animator, director and producer
   whose credits include classic Disney films such as “Mulan,” “The Lion King,” “Aladdin”
   and “Beauty and the…
-displayOrder: 1
+displayOrder: 17
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-23T11:51:37Z'

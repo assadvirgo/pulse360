@@ -3,7 +3,7 @@ category: Economy
 description: Rising oil prices are putting wind in the sails of oil and gas companies
   — but only for so long. They are reaching levels now that could start to bite into
   energy firms’ bottom…
-displayOrder: 8
+displayOrder: 29
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-23T11:30:00Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: 'With the rise of AI performers such as Tilly Norwood and recent news
   of Doug Limon&#8217;s upcoming AI-generated feature &#8220;Bitcoin: Killing Satoshi,&#8221;
   an initiative…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-23T10:04:35Z'

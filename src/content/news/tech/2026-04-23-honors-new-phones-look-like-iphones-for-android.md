@@ -3,7 +3,7 @@ category: Tech
 description: Honor has announced the 600 and 600 Pro, which it calls "accessible flagships,"
   and they look… familiar. Especially in that orange. The Pro makes the iPhone comparison
   especially…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-23T08:00:57Z'

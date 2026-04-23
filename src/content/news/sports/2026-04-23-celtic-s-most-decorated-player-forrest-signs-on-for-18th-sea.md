@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: James Forrest agrees a new deal at Celtic, keeping the club's most decorated
   player on until the end of next season.
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-23T09:46:03Z'

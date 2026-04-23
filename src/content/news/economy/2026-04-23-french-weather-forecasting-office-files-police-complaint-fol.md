@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Temperature readings at Charles de Gaulle International Airport rose
   by a few degrees in a matter of minutes .
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-23T12:07:00Z'

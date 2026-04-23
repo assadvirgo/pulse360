@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has again been accused of targeting journalists after the death
   of a reporter working in southern Lebanon.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-23T04:29:00Z'
