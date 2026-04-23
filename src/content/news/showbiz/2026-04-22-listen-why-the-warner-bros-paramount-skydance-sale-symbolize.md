@@ -5,7 +5,7 @@ countryCode: US
 description: On today’s episode of &#8220;Daily Variety&#8221; podcast, Erik Gordon,
   a professor at the University of Michigan’s Ross School of Business, breaks down
   the Warner Bros. Discovery…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 79.8
 pubDate: '2026-04-22T19:20:09Z'

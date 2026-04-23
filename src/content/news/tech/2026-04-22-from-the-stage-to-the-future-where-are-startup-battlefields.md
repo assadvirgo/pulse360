@@ -5,7 +5,7 @@ countryCode: US
 description: 'We wanted to show you what happens after the confetti falls. We checked
   in with some of our recent alumni, many of whom have sat down with us on Build Mode:
   The Founder Survival…'
-displayOrder: 18
+displayOrder: 22
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-22T18:42:26Z'

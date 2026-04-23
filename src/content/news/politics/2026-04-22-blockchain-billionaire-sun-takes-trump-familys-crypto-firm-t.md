@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: World Liberty is under increasing scrutiny from some of its investors,
   who have complained about lack of transparency.
-displayOrder: 27
+displayOrder: 37
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-22T15:17:45Z'

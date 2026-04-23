@@ -5,7 +5,7 @@ countryCode: US
 description: After two devoted followers represented his community in a CNN interview,
   the white nationalist pundit rewarded their loyalty by mercilessly roasting them
   online.
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-22T23:30:38Z'

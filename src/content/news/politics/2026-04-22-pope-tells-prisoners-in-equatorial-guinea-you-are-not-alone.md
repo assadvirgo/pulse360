@@ -5,7 +5,7 @@ countryCode: GQ
 description: Pope Leo's four-nation Africa tour has pushed towards &#8203;a dramatic
   close, with the pontiff braving a heavy rainstorm to greet prisoners in Equatorial
   Guinea.
-displayOrder: 35
+displayOrder: 42
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-22T17:54:00Z'

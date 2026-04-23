@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Ireland's Nations Championship fixture against Japan will take place
   at McDonald Jones Stadium in Newcastle, Australia on 11 July (11:00 BST).
-displayOrder: 30
+displayOrder: 32
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-22T20:00:06Z'

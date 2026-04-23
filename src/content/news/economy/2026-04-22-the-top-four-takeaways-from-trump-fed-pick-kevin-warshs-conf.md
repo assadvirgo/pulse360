@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tom Lee, of Fundstrat, outlined independence, forward guidance, inflation
   and the Federal Reserve’s inflation measurement as the key takeaways
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 62.5
 pubDate: '2026-04-22T16:03:00Z'

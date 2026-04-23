@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Resumption of oil deliveries enables Hungary to lift veto, with EU&#039;s
   27 members now on track to formally approve loan.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-22T16:12:38Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Populist party promises panel discussions with ‘leading voices from across
   the economy’ to tempt wary chief executives
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-22T14:33:28Z'

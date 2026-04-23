@@ -5,7 +5,7 @@ countryCode: US
 description: It took Tim Cook years to launch Apple into major new hardware categories,
   such as the smartwatch. But John Ternus could start his tenure right away with an
   ambitious new project:…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-22T15:31:34Z'

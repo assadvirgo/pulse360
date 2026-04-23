@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The photonics company’s stock has run up more than 70% this week on speculation
   of a major hyperscaler partner, even as short sellers warn of a “tax nightmare.”
-displayOrder: 6
+displayOrder: 8
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-22T23:58:00Z'

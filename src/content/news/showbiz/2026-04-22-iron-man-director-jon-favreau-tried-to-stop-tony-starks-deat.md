@@ -5,7 +5,7 @@ countryCode: US
 description: 'Jon Favreau is finally admitting he was wrong to warn Joe and Anthony
   Russo against killing off Tony Stark/Iron Man in 2019&#8217;s &#8220;Avengers: Endgame.&#8221;
   Favreau gave…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-04-22T21:49:15Z'

@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: The Trump administration has warned against Peru pulling out of the deal,
   saying it reflects &#039;bad faith&#039; negotiations.
-displayOrder: 3
+displayOrder: 2
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-22T22:44:28Z'
