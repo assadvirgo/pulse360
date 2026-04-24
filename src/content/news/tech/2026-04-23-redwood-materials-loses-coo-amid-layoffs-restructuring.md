@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former Tesla executive Chris Lister is retiring, and at least three other
   VPs have left Redwood around the recent restructuring, TechCrunch has learned.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-23T22:44:12Z'

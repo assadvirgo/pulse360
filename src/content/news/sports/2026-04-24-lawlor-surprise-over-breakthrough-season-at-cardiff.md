@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Dylan Lawlor thought he would have to leave Cardiff City to breakthrough
   this season but has starred for club and country.
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 54.2
 pubDate: '2026-04-24T03:21:30Z'

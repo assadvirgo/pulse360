@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: New Zealand all-rounder Suzie Bates will retire from international cricket
   after this year's Women's T20 World Cup, ending an illustrious 20-year career.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-23T18:15:57Z'

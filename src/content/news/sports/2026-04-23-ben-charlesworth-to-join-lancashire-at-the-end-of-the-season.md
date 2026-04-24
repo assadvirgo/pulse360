@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Allrounder to remain at Bristol for the summer before moving to Emirates
   Old Trafford on a three-year deal
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-23T15:56:26Z'

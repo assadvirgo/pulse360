@@ -2,7 +2,7 @@
 category: Politics
 description: Pope Leo has previously criticised Donald Trump&#039;s US immigration
   policies, calling for better treatment of refugees.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-23T21:01:50Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Tiktok star's attorneys have maintained his innocence and vowed to
   "vigorously defend" him.
-displayOrder: 23
+displayOrder: 45
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-23T22:37:08Z'

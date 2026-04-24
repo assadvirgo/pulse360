@@ -5,7 +5,7 @@ countryCode: US
 description: Under the guidance of consummate bully / chairman Brendan Carr, the FCC
   is taking steps towards cracking down on children's entertainment that in any way
   explores the complexities…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-23T21:36:46Z'

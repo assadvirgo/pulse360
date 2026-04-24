@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Leicestershire and England leg-spinning all-rounder Rehan Ahmed signs
   for Delhi Capitals for the rest of this year's IPL.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-23T16:33:04Z'
