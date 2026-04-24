@@ -5,7 +5,7 @@ countryCode: TR
 description: Dubai-based Rise Studios, which is headed by former Warner Bros. Discovery
   Middle East chief Amanda Turnbull, and Turkish sales and production company Inter
   Medya have started…
-displayOrder: 5
+displayOrder: 23
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-24T10:34:51Z'

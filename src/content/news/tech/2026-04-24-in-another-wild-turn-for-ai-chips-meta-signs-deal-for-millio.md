@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs)
   for AI agentic workloads, signaling that a new kind of chip race has begun.
-displayOrder: 3
+displayOrder: 18
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-24T12:00:00Z'

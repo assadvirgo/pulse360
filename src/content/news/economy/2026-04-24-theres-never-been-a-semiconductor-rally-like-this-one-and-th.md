@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Parabolic moves in the market “only end one way,” says BTIG’s Krinsky.
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-24T12:17:00Z'

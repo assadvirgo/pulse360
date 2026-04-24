@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Philosophy professor Noelle McAfee says university failed to protect
   students and staff in crackdown on protests.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-23T23:20:52Z'

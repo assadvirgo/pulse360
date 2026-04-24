@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The April 2026 product launch welcomes a new category to Stewart's namesake
   home and lifestyle brand.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-24T06:30:11Z'

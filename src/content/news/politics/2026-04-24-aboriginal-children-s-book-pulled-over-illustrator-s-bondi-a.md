@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Several writers have cut ties with the University of Queensland Press
   for cancelling the book.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-24T06:37:47Z'

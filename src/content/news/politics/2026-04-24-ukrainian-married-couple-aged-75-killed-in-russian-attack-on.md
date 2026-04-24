@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian officials say residential buildings and bulk carrier also hit
   in overnight assault.
-displayOrder: 19
+displayOrder: 40
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-24T07:10:51Z'

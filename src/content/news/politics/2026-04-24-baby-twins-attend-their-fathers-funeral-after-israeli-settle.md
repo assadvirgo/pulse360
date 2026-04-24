@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinians gathered in the occupied West Bank to bury a 25-year-old
   father of twins shot dead by Israeli settlers.
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-24T08:34:27Z'

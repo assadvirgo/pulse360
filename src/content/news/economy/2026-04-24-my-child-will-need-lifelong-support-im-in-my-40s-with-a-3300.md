@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “The portfolio has grown, but I can’t help feeling that it hasn’t grown
   as much as it could have.”
-displayOrder: 32
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-24T09:15:00Z'

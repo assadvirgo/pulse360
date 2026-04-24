@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: 'Death toll from Israel&#039;s ongoing genocidal war on Gaza has reached
   72,568 with 172,338 injured: Gaza&#039;s Health Ministry.'
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-24T00:00:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The fallout from an ambassadorial appointment like no other threatens
   even worse procedural ‘sludge’ in Whitehall
-displayOrder: 35
+displayOrder: 49
 heroImage: ''
 importance: 32.5
 pubDate: '2026-04-24T12:00:10Z'
