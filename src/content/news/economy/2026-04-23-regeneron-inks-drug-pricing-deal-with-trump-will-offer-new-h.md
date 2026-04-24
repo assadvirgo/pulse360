@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Regeneron is the latest in a string of major drugmakers to make pricing
   concessions for new and existing medicines under agreements with Trump.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-23T19:47:17Z'

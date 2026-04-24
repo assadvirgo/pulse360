@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Journalist Zainab Faraj recalled the final moments of fellow journalist
   Amal Khalil.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-23T15:53:45Z'

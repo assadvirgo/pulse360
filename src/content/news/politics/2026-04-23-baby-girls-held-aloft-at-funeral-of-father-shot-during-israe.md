@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The grieving family of a man reportedly shot dead by Israeli settlers
   held his twin daughters aloft at his funeral procession on Thursday.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-04-23T15:35:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: College affordability issues and tech layoffs have boosted interest in
   the skilled trades, but “blue-collar work isn’t necessarily insulated from other
   market forces.”
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-04-23T18:21:00Z'

@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Under pressure from the US, President Claudia Sheinbaum has authorised
   military operations to arrest cartel leaders.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-23T17:35:10Z'

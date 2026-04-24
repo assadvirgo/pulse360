@@ -5,7 +5,7 @@ countryCode: US
 description: '[SPOILER ALERT: This article contains mild spoilers for “The Devil Wears
   Prada 2.”]“The Devil Wears Prada” was groundbreaking in numerous ways when it first
   hit movie theaters 20…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-23T22:06:08Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'We knew someone made over $400,000 on suspicious Polymarket bets around
   the US operation to capture Venezuelan president Nicolas Maduro, but now we have
   a name: Gannon Ken Van…'
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 68.2
 pubDate: '2026-04-23T22:49:11Z'

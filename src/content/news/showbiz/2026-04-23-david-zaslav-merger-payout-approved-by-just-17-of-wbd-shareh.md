@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. Discovery CEO David Zaslav&#8217;s compensation tied to
   the company&#8217;s pending merger with Paramount was rejected by an eye-opening
   82% of shareholders, the…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-23T20:48:00Z'

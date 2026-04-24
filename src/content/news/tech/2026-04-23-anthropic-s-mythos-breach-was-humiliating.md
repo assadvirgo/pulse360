@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic's tightly controlled rollout of Claude Mythos has taken an
   awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity
   that it is too…
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-23T18:24:56Z'

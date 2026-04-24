@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI just announced its new GPT-5.5 model, which the company calls
   its "smartest and most intuitive to use model yet, and the next step toward a new
   way of getting work done on…
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-23T18:00:00Z'

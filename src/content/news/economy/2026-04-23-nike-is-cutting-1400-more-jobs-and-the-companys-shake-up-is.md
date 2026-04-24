@@ -5,7 +5,7 @@ countryCode: US
 description: Nike on Thursday said it would cut around 1,400 jobs in its global operations,
   the latest efforts to shrink staff as the sneaker-maker’s turnaround efforts remain
   in flux and as…
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-23T21:22:00Z'
