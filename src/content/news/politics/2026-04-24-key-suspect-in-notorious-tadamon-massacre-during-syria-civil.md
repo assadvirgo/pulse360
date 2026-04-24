@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Amjad Youssef was wanted over the mass killing of blindfolded civilians
   in April 2013 in the district of Damascus.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-24T10:41:32Z'

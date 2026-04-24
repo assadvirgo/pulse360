@@ -3,7 +3,7 @@ category: Tech
 description: We love to muse over how "real" photography is defined here at The Verge
   now that generative AI is so prolific, and the World Press Photo competition might
   have the answer. The…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-24T09:40:07Z'

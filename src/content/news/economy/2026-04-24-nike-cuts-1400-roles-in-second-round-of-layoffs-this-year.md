@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nike announced 1,400 layoffs, primarily in its technology department,
   on Thursday after cutting 775 jobs in January.
-displayOrder: 31
+displayOrder: 46
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-24T11:46:54Z'

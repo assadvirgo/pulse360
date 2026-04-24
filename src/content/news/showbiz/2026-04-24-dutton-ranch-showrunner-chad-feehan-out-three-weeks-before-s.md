@@ -5,7 +5,7 @@ countryCode: US
 description: The &#8220;Yellowstone&#8221; spinoff &#8220;Dutton Ranch&#8221; is going
   to have to rustle up a new showrunner. Variety has confirmed that Chad Feehan, who
   served as showrunner…
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-24T14:51:17Z'

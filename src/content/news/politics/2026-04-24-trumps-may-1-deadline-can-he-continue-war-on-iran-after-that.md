@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump is obliged under the War Powers Act to limit the conflict after
   60 days with congressional approval.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-24T06:20:23Z'

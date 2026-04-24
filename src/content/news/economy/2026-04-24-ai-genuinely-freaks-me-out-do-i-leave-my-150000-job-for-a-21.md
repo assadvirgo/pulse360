@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “There’s basically no upward mobility unless someone above me leaves.”
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-24T10:15:00Z'

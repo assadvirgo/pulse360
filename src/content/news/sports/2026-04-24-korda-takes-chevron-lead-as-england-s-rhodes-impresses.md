@@ -5,7 +5,7 @@ countryCode: US
 description: American Nelly Korda takes a two shot lead at the Chevron Championship
   after the first round, with England's Mimi Rhodes lying fours shots off the top
   on her tournament debut.
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-24T06:48:54Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: More than six months after &#8220;I Swear&#8221; released in the U.K.,
   audiences in the U.S. are now finally getting to see the British indie film that&#8217;s
   been at the center…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-24T14:30:00Z'

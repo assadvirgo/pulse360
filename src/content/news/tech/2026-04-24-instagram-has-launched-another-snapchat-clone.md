@@ -5,7 +5,7 @@ countryCode: IT
 description: Instagram is testing a new dedicated app that's focused around Snapchat-like
   photo sharing features. The app, called "Instants," was launched in Italy and Spain
   yesterday,…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-24T11:37:10Z'

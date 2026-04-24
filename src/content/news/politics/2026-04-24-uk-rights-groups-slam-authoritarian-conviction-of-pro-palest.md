@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ruling against Ben Jamal and Chris Nineham will spawn a &#039;broader
   chilling effect&#039;, groups such as Amnesty and HRW warn.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-24T07:22:21Z'

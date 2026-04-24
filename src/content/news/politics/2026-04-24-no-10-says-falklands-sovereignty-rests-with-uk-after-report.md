@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: An internal Pentagon document reportedly raised the prospect of a change
   in position in retaliation for the UK not joining the Iran war.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-24T16:19:56Z'

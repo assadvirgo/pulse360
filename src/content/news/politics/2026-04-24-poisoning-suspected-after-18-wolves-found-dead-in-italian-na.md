@@ -5,7 +5,7 @@ countryCode: IT
 description: An investigation has been launched after the deaths of at least 18 wolves
   and several other wild &#8204;animals found in recent days in an Italian national
   park.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-24T14:29:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It's a big shift toward supporting psychedelic-based medicines for treatment-resistant
   depression, PTSD and substance use disorders, the FDA said.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-24T16:06:42Z'
