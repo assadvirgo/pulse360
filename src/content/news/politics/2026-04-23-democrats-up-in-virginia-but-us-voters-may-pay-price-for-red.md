@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Experts say unprecedented flurry of tit-for-tat congressional redistricting
   risks surge in gerrymandering.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-04-23T05:09:34Z'

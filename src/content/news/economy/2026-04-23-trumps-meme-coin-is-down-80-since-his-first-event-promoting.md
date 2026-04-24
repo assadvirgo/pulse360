@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump plans to host another private event for top holders
   of his meme coin, but the grand functions aren’t sending the $TRUMP digital token
   to new highs — and the…
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-23T18:23:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Long-serving employees given option for buyouts as it prepared to spend
   $140bn on AI investment this year
-displayOrder: 28
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-23T16:56:18Z'

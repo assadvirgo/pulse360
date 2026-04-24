@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A fragile ceasefire holds as Israeli strikes kill a journalist and target
   first responders in Lebanon.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-23T15:03:33Z'

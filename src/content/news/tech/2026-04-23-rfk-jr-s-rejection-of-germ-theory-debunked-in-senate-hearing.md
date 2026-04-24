@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Kennedy falsely argues that vaccines did little to lower childhood deaths.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-23T18:05:53Z'

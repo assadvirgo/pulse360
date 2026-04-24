@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Italy's government has ruled out any suggestion the country could replace
   Iran at this summer's World Cup due to the war in the Middle East.&#160;
-displayOrder: 22
+displayOrder: 41
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-23T11:35:00Z'

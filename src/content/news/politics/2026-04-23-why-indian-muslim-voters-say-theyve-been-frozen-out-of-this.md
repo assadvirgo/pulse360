@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Millions in West Bengal are voting in a state election, but more than
   9 million names have been deleted from the rolls.
-displayOrder: 25
+displayOrder: 44
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-23T12:01:05Z'

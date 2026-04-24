@@ -5,7 +5,7 @@ countryCode: FR
 description: Academy Award-winning actress and activist Julianne Moore will receive
   Kering&#8217;s Women in Motion award at this year&#8217;s Cannes Film Festival.
   Launched in 2015 by Kering,…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-23T10:30:00Z'

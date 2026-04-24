@@ -5,7 +5,7 @@ countryCode: US
 description: Variety’s Entertainment Marketing Summit in Los Angeles, presented by
   Deloitte, brought together the most influential marketers, creatives and brand leaders
   who are shaping the…
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-23T19:30:24Z'

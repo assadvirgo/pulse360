@@ -5,7 +5,7 @@ countryCode: IE
 description: BBC Sport speaks to Jordan and Cian Adams, the 'FTD Brothers'. After
   the 2026 London Marathon, which Jordan will run carrying a 25kg fridge, the pair
   will sprint across all 32…
-displayOrder: 30
+displayOrder: 48
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-23T09:18:55Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Lebanon
 countryCode: LB
 description: African migrant workers in Lebanon are caught in a war.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-23T10:59:06Z'

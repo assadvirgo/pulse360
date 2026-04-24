@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Lawmakers pass bill to require social media platforms to introduce age-verification
   tools and control mechanisms.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-23T15:24:27Z'

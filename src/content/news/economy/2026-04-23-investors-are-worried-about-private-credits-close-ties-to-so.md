@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some investors are shunning private-credit funds, but billions of dollars
   are still flowing into funds with a big software exposure.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-23T18:06:00Z'

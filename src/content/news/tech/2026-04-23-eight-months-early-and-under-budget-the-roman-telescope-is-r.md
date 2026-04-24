@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Spy satellite hardware has been repurposed to scan the Universe in the
   infrared.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-23T16:27:07Z'

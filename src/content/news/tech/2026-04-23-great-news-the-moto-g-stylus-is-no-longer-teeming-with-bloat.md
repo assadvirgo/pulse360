@@ -5,7 +5,7 @@ countryCode: US
 description: The 2026 edition of Motorola's stylus phone is plenty appealing. My review
   unit is a charming lilac color, has a pleasantly textured back panel, and includes
   a MicroSD slot and…
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-23T17:30:00Z'

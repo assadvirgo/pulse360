@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: White Sox slugger Munetaka Murakami tied a Major League Baseball rookie
   record by homering in his fifth straight game.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-23T07:53:45Z'
