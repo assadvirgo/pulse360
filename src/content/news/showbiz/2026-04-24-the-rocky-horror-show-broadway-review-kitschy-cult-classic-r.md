@@ -5,7 +5,7 @@ countryCode: US
 description: “Enjoy the show. Don’t be an asshole,” While it’s not your typical musical
   theater greeting, “The Rocky Horror Show” is not your typical show. It’s one that
   is flamboyantly…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-24T01:30:00Z'

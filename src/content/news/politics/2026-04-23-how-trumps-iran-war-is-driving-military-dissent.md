@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From protests to quiet resistance, dissent is rising inside the United
   States military over the US-Israel war on Iran.
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-23T19:08:51Z'

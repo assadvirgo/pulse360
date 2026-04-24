@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The US needs to block Chinese access to the most advanced technology
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-24T04:00:13Z'

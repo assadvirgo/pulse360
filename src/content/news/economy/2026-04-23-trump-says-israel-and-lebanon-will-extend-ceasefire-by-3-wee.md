@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President says American navy will ‘shoot and kill’ any boat laying mines
   in Strait of Hormuz
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-23T22:13:51Z'

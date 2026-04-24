@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Teenager dies in hospital after Israeli forces shot him with live ammunition
   in the shoulder, Palestinian media reports.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-23T17:45:02Z'

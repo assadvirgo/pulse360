@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Police chief Fannie Masemola suspended as President Cyril Ramaphosa faces
   pressure to tackle corruption ahead of polls.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-23T18:43:30Z'

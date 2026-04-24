@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta will lay off 8,000 workers while Microsoft is offering buyouts to
   8,750 people, a first for the Windows maker.
-displayOrder: 29
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-23T22:11:29Z'

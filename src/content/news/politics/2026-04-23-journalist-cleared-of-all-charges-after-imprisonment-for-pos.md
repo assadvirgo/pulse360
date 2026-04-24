@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: A journalist who was detained in Kuwait after posting Iran war videos
   has been released from custody, Sky News understands.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-04-23T14:15:00Z'

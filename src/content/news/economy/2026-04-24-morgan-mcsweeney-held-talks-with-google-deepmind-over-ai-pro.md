@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former Labour chief of staff pitched venture to tech group about the
   crossover between artificial intelligence and democratic politics
-displayOrder: 26
+displayOrder: 33
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-24T04:00:13Z'

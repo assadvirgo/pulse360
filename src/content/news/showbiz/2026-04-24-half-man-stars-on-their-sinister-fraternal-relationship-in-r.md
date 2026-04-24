@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT:&#160;This post contains stories from the series premiere
   of &#8220;Half Man,&#8221; now streaming on HBO Max. “Half Man,” the sophomore drama
   from “Baby Reindeer”…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-24T02:00:00Z'

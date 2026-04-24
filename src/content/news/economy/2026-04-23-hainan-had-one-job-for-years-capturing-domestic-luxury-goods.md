@@ -5,7 +5,7 @@ countryCode: CN
 description: 'Beijing’s message is unmistakable: If Hainan can no longer thrive as
   a place for domestic shoppers to buy their perfume and handbags, it will have to
   become a place to process…'
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-23T20:16:00Z'

@@ -3,7 +3,7 @@ category: Sports
 description: After Spain's Lamine Yamal was ruled out of the rest of his club season,
   BBC Sport looks at other key names racing to be fit for the World Cup - and those
   who are set to miss out…
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-23T17:50:28Z'

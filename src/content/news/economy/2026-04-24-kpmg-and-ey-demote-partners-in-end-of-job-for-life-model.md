@@ -2,7 +2,7 @@
 category: Economy
 description: Move is a departure from the practice of simply asking underperforming
   senior partners to retire
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-24T04:00:04Z'
