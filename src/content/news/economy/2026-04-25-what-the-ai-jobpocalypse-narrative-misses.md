@@ -2,7 +2,7 @@
 category: Economy
 description: Whether or not new technologies can perform a task is only a tiny part
   of the picture
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-25T04:00:40Z'

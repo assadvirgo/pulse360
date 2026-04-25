@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces killed six Hezbollah fighters in an exchange of fire in
   the area of Bint Jbeil, southern Lebanon.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-24T20:46:38Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elsewhere in the NBA playoffs, Spurs beat Trail Blazers 120-108 without
   Victor Wembanyama to take a 2-1 series lead.
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-25T05:51:51Z'

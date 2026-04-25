@@ -5,7 +5,7 @@ countryCode: GB
 description: A dawn service has taken place in London, attended by the Princess Royal,
   to mark Anzac Day, which commemorates all Australians and New Zealanders who died
   in conflict.
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-25T05:14:00Z'

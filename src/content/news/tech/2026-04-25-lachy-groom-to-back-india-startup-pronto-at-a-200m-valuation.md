@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: This round, should it occur, would double the house-help startup's valuation
   in a matter of weeks.
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-25T03:30:00Z'

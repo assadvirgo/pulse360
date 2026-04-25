@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Skydance chairman and CEO David Ellison, who is in the midst
   of trying close a massive deal to buy Warner Bros. Discovery, had a pay package
   worth $63.2 million last…
-displayOrder: 5
+displayOrder: 27
 heroImage: ''
 importance: 78.8
 pubDate: '2026-04-24T21:17:37Z'

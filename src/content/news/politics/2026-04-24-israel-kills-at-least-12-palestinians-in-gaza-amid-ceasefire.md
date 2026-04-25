@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hamas says the Israeli escalation represents the failure of the international
   community to uphold the truce in Gaza.
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-24T21:42:22Z'

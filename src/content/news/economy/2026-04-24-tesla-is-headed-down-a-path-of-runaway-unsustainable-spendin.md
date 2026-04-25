@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company plans to spend “in excess” of $25 billion in 2026, far more
   than it has ever spent in a single year.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-24T17:16:00Z'

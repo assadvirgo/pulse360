@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump delivered remarks for about an hour at the dinner
   party David Ellison hosted in Washington, D.C., on Thursday evening &#8220;honoring&#8221;
   Trump &#8212;…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-24T23:18:42Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Many died due to conditions at a Florida warehouse where they'd been
   shipped, while others arrived from South America dead, authorities say.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-25T04:02:47Z'

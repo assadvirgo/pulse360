@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Tech firm suspended mass shooter&#039;s ChatGPT account before attacks,
   but did not inform law enforcement.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-25T02:07:18Z'
