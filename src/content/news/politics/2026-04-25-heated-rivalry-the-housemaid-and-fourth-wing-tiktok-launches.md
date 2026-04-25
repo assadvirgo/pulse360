@@ -2,7 +2,7 @@
 category: Politics
 description: The inaugural top 20 is entirely made up of female authors, with Chloe
   Walsh appearing most frequently.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-25T01:38:59Z'

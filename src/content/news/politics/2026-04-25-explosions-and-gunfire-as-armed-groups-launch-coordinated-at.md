@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Witnesses report clashes in the centre and north of the country in what
   has been described as the largest jihadist attack in years.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-25T11:21:03Z'

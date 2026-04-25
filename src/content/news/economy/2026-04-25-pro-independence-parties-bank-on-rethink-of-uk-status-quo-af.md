@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Forecast gains for Scotland and Wales nationalists come even as no grouping
   has immediate roadmap for breaking away
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-25T04:00:30Z'

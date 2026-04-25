@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport discusses why Lionesses hero Chloe Kelly is not guaranteed
   a spot for club or country.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-25T05:37:18Z'

@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Capital Bamako and several other locations hit in an apparently coordinated
   ⁠assault involving multiple groups.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-25T09:21:24Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Between layoffs and AI taking over lower-level data work, I’m not sure
   jumping ship for a big raise makes sense.”
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-25T10:03:00Z'

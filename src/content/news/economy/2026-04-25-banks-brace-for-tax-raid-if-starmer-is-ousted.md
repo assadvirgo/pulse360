@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Executives prepare for shift to the left in UK government after narrow
   escape in last year’s Budget
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-25T04:00:31Z'

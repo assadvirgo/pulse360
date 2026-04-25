@@ -5,7 +5,7 @@ countryCode: US
 description: Apple and Samsung dominate the US phone market, and they've done so for
   years. Together with Google, they've shaped our sense of what a smartphone is and
   what it can do, pushing…
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-25T11:00:00Z'

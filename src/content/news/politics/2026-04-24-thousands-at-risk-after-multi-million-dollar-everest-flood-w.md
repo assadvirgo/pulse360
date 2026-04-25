@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: The flood warning system at Imja glacial lake has not been maintained
   since 2016, fearful locals tell BBC.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-24T23:28:09Z'
