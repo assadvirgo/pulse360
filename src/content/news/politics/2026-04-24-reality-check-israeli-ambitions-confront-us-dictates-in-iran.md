@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Ceasefires with Iran and Lebanon appear imposed by the US rather than
   negotiated by Israel, much to latter&#039;s unease.
-displayOrder: 19
+displayOrder: 25
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-24T18:21:33Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hegseth says President Trump authorised the navy to target Iranian fast
   boats in the Strait of Hormuz.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-24T14:33:14Z'

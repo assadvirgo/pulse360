@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nvidia is finally on track to finish back in $5 trillion territory, capping
   off an “incredible week” for chip makers.
-displayOrder: 46
+displayOrder: 47
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-24T21:00:00Z'

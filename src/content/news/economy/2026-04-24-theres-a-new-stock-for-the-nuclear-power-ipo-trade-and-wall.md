@@ -5,7 +5,7 @@ countryCode: US
 description: X-Energy’s stock soared out of the gate after the AI-power play’s upsized
   IPO priced well above the expected range. But how a stock starts out doesn’t dictate
   how it will perform…
-displayOrder: 24
+displayOrder: 29
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-24T20:29:00Z'

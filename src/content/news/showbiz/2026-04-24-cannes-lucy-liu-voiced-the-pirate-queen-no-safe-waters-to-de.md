@@ -5,7 +5,7 @@ countryCode: FR
 description: 'Eloise Singer’s Lucy Liu-narrated The Pirate Queen: No Safe Waters is
   among eight works selected for the Cannes Film Festival’s third Immersive Competition,
   the lineup of which…'
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-04-24T18:26:09Z'

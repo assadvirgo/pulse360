@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: An internal Pentagon email reportedly outlines options to punish allies
   over a perceived lack of support for Iran war.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-24T16:04:29Z'

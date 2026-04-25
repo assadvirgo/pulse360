@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Capital punishment remains controversial in the US, with critics warning
   of innocent people being put on death row.
-displayOrder: 12
+displayOrder: 19
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-24T17:39:20Z'

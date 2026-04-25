@@ -5,7 +5,7 @@ countryCode: US
 description: Tim Cook plans to step down from his CEO role in September, handing the
   reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable
   businesses in tech,…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-24T14:00:00Z'

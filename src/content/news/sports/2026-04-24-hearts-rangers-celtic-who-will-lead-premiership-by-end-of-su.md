@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Three teams separated by three points with just five games to go. After
   an epic season, the Scottish Premiership split is finally here.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-24T14:20:11Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Kosovo's court sentences two men to life imprisonment and another to
   a 30-year term for the 2023 attack.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-24T17:20:48Z'

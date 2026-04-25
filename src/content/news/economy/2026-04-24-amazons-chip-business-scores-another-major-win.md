@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon’s stock jumped toward a record high Friday, after the company
   announced that Meta plans to use tens of millions of the company’s Graviton chips
   for agentic AI workloads.
-displayOrder: 34
+displayOrder: 45
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-24T14:50:00Z'
