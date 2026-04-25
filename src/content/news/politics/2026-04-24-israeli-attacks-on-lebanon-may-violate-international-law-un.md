@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: UN report says Hezbollah rocket attacks on Israel may have breached international
   humanitarian law.
-displayOrder: 8
+displayOrder: 14
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-24T18:24:27Z'

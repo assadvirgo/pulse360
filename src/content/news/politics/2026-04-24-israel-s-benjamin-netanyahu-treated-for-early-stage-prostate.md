@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli prime minister says he is "in excellent physical condition"
   after having a malignant tumour removed.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-24T11:49:29Z'

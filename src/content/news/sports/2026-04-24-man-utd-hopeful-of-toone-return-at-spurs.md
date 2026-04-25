@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United midfielder Ella Toone will train on Friday and could
   return after four months out with injury at Tottenham on Sunday.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-24T09:38:11Z'

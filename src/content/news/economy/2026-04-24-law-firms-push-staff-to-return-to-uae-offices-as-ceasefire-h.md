@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Some employers will cover costs of returning to Gulf for lawyers who
   relocated after outbreak of Iran war
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 72.5
 pubDate: '2026-04-24T15:24:56Z'

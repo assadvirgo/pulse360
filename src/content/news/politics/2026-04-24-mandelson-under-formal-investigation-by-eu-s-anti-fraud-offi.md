@@ -2,7 +2,7 @@
 category: Politics
 description: The EU's anti-fraud office confirms it has "sufficient information" to
   launch an investigation, but does not say if it involves fraud.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-24T16:18:19Z'

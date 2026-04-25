@@ -2,7 +2,7 @@
 category: Economy
 description: The law of one price is in retreat — with major consequences for profits,
   inflation and innovation
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-24T14:41:47Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The show, whose second season concluded in October 2025, focused on young
   adults with superpowers.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-24T19:16:56Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Alex Jones may soon lose Infowars, the digital perch that he's used for
   decades to traffic in conspiracy theories, to The Onion, the satirical newspaper.
   But not before he's…
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-24T20:10:00Z'

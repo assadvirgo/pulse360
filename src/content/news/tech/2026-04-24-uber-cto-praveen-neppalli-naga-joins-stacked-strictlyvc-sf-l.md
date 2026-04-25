@@ -5,7 +5,7 @@ countryCode: US
 description: Surprise! StrictlyVC San Francisco, which will kick off this year’s events
   lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting
   a new addition to…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-04-24T14:00:00Z'

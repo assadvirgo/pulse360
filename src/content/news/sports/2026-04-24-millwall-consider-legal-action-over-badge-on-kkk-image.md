@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Millwall consider taking legal action after Westminster City Council
   used the club's badge on an illustration of a Ku Klux Klan member.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-04-24T08:14:16Z'

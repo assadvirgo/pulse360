@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: As Pakistan hosts US-Iran talks, twin-city residents face road closures,
   halted courts and growing economic strain.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-24T12:57:22Z'

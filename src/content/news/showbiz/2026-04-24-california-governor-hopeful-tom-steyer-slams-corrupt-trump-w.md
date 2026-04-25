@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: &#8220;As governor, I will do whatever it takes to preserve
   and advance California’s leadership as the artistic and creative powerhouse of the
   world,” Tom Seyer said…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-24T18:54:25Z'

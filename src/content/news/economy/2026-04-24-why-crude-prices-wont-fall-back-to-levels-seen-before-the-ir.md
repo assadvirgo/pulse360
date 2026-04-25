@@ -3,7 +3,7 @@ category: Economy
 description: SLB and Halliburton both said this week they expect crude prices to remain
   higher for longer. That will have immediate implications for a host of products
   — none as scrutinized as…
-displayOrder: 32
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-24T19:07:00Z'

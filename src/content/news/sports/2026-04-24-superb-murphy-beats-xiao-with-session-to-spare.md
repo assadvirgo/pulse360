@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former winner Shaun Murphy produces a fine performance to thrash China's
   Xiao Guodong 13-3 and become the first player into the 2026 World Championship quarter-finals.
-displayOrder: 10
+displayOrder: 13
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-24T19:58:45Z'

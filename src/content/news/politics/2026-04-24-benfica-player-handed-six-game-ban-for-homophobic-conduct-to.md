@@ -5,7 +5,7 @@ countryCode: PT
 description: Benfica's Gianluca Prestianni has been banned for six matches by UEFA
   for homophobic conduct towards Real Madrid's Vinicius Junior during a Champions
   League match.
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-24T12:51:00Z'

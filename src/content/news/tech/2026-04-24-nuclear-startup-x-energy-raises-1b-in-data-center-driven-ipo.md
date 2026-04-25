@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amazon-backed X-energy was able to raise around 20% more money in its
   IPO as demand for nuclear power surges.
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-24T15:06:00Z'
