@@ -5,7 +5,7 @@ countryCode: US
 description: For a while there, it seemed like Double Fine might be struggling under
   the Microsoft corporate umbrella. The game studio led by Tim Schafer is beloved
   for offbeat titles like…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-25T13:00:00Z'

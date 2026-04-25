@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump will be on hand for this weekend’s festivities.
   So will dozens of media and companies throwing events that can cost $300,000.
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-25T14:36:00Z'

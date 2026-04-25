@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: The island province of Hainan has new marching orders.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-25T11:00:00Z'

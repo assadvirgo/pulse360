@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Clashes between the Malian army and rebel groups are being reported in
   cities across the country.
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-25T12:40:53Z'

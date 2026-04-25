@@ -2,7 +2,7 @@
 category: Politics
 description: Frustration with the Palestinian Authority and Israeli occupation fuel
   voter apathy in local West Bank elections.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-25T07:16:54Z'

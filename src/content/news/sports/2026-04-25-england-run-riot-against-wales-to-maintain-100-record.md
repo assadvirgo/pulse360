@@ -5,7 +5,7 @@ countryCode: GB
 description: England run in 10 tries on their way to a dominant 62-24 win over Wales
   at Ashton Gate, to extend their lead at the top of the Women's Six Nations table
   to five points.
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-25T15:53:45Z'

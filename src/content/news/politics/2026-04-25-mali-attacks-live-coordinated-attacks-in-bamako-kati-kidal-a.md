@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: The army says armed groups targeted strategic locations in various parts
   of the country including in the capital Bamako.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-25T10:04:58Z'

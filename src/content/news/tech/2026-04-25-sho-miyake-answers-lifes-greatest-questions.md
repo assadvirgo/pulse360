@@ -5,7 +5,7 @@ countryCode: JP
 description: 'Acclaimed Japanese director Sho Miyake has arrived in the States. He''s
   brought with him two feature films: Small, Slow But Steady and Two Seasons, Two
   Strangers, a pair of…'
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-25T12:00:00Z'

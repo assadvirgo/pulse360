@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Terrorists have carried out attacks in various locations across Mali,
   according to the country's army.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-25T10:12:00Z'

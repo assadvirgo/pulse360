@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The city of Dnipro was hardest hit, with officials saying four died in
   a strike on a residential building.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 53.2
 pubDate: '2026-04-25T10:24:50Z'

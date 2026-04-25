@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Ireland will demand that Israeli authorities repay the cost of a school
   that was demolished by settlers.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-25T08:06:36Z'

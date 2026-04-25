@@ -5,7 +5,7 @@ countryCode: UA
 description: Russia has launched a major drone attack overnight on Ukraine, killing
   seven people and injuring more &#8204;than 30 others, as RAF Typhoon fighter jets
   were deployed over Romania.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-25T07:42:00Z'

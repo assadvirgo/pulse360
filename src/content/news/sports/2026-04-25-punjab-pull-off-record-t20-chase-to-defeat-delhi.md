@@ -5,7 +5,7 @@ countryCode: IN
 description: Punjab Kings produce a stunning victory against Delhi Capitals by hunting
   down a target of 265 to record the highest successful run-chase in the history of
   T20 cricket.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-25T14:49:22Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Manchester City are finishing the season strongly - having looked at
   one stage as if the Premier League title may elude them. Here's how Pep Guardiola
   went through many systems to…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-25T06:42:06Z'

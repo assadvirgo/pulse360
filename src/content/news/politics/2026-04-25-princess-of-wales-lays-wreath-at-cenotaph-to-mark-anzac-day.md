@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The Princess of Wales has laid a wreath at the Cenotaph to mark Anzac
   Day, which commemorates all Australians and New Zealanders who died in conflict.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-25T05:14:00Z'

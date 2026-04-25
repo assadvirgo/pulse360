@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple and Alphabet have been most effective at using buybacks to increase
   earnings per share.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-25T11:00:00Z'

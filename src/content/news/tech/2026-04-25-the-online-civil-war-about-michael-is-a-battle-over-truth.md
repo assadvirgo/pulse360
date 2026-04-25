@@ -2,7 +2,7 @@
 category: Tech
 description: Fans want to reclaim the music and myth of Michael Jackson in the new
   biopic while critics call for accountability. Who’s right?
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 68.2
 pubDate: '2026-04-25T10:00:00Z'

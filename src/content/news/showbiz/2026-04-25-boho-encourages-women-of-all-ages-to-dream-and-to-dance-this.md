@@ -5,7 +5,7 @@ countryCode: FR
 description: It’s never too late to dream – at least according to the gospel of “Boho.”
   In the show, presented at Canneseries, Kima, her sister Nawal and their friend Alex
   navigate societal…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-04-25T07:59:28Z'
