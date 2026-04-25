@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Kingsmen will now compete for the fourth playoffs spot with Lahore Qalandars
   and Karachi Kings
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-25T03:05:55Z'

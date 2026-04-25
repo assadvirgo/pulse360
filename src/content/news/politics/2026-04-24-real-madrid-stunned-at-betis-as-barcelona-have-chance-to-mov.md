@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Ex-Barcelona star Hector Bellerin&#039;s injury-time leveller for Betis
   stunts Real Madrid&#039;s Liga title title challenge.
-displayOrder: 27
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-24T21:29:59Z'

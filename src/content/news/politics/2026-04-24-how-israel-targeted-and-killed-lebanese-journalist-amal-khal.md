@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Amal Khalil was killed while reporting on an Israeli air strike in southern
   Lebanon during a 10-day ceasefire.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-24T17:14:03Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ministers and MPs are openly debating how the PM might be removed after
   elections where Labour is expected to perform dismally
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-24T17:22:46Z'

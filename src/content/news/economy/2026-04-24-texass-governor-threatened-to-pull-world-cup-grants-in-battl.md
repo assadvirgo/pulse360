@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Democratic cities hosting Fifa matches in the state reverse policing
   rules in order to receive public security funds
-displayOrder: 38
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-24T21:37:16Z'

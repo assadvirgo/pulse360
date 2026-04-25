@@ -2,7 +2,7 @@
 category: Tech
 description: ComfyUI, whose tools give creators more control over AI image, video,
   and audio generation, just raised $30 million.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-24T19:49:35Z'

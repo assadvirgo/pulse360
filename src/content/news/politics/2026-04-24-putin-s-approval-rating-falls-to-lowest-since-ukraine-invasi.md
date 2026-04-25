@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: President Vladimir Putin's approval rating has fallen to its lowest level
   since the invasion of Ukraine in February 2022, state polling figures show.
-displayOrder: 21
+displayOrder: 33
 heroImage: ''
 importance: 74.0
 pubDate: '2026-04-24T16:16:00Z'

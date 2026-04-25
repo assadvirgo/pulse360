@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Search giant increases its financial support to help the AI lab add computing
   power to run its models
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-24T17:54:59Z'
