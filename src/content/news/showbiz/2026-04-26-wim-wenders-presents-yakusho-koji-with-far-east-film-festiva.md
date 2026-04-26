@@ -5,7 +5,7 @@ countryCode: IT
 description: Wim Wenders traveled to Udine to personally present Yakusho Koji with
   the Golden Mulberry Award for Lifetime Achievement at the 28th Far East Film Festival
   on Saturday, using the…
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-26T11:01:02Z'

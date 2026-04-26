@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport speaks to three teenagers who were in the crowd when Coventry
   were relegated from the top flight in 2001.
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-26T07:10:09Z'

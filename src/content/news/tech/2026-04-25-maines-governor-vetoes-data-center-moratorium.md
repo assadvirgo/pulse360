@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: L.D. 307 would have imposed the country’s first statewide moratorium
   on new data centers — lasting, in this case, until November 1, 2027.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-25T20:57:08Z'

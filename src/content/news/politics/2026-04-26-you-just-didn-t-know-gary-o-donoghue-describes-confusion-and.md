@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Police say a man charged security outside of the dining room and was
   armed with multiple weapons.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-04-26T04:08:27Z'

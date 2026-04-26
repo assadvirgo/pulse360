@@ -5,7 +5,7 @@ countryCode: US
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on Hollywood trends and streaming culture, follow
   Charles Pulliam-Moore.…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-26T12:00:00Z'

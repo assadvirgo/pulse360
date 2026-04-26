@@ -5,7 +5,7 @@ countryCode: CL
 description: Chilean Juan Pablo Sallato’s black &#38; white fiction feature debut
   “Red Hangar,” which chronicles long-suppressed details behind the military coup
   that ousted Chile’s President…
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-26T08:58:09Z'

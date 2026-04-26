@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Xiaomi wants to expand on the continent as demand for its cars outstrips
   production
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-26T04:00:07Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces keep advancing further into western Gaza, slowly expanding
   the area of their control in the east.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-26T10:20:31Z'

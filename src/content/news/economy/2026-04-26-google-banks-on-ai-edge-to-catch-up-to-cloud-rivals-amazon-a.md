@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Thomas Kurian, Google Cloud’s CEO, says its AI chips and models can help
   the data centre business gain ground
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-26T04:00:16Z'

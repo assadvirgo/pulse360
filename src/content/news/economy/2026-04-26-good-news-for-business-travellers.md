@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: The seats in economy that so many of us use are finally getting an upgrade
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-26T04:00:07Z'

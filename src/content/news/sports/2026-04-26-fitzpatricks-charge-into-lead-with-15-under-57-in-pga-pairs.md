@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: English brothers Alex and Matt Fitzpatrick race into the lead at the
   Zurich Classic of New Orleans with a tournament record round of 57.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-26T07:20:18Z'

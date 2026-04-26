@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Demand for prime locations rises after dismal Covid period
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-26T10:00:07Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: About 600,000 soldiers, firefighters, engineers, miners and medics cleaned
   up after the nuclear plant explosion.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-26T08:52:51Z'
