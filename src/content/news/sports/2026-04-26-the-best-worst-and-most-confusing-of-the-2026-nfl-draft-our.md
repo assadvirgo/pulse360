@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: What were the best selections in each round? Which teams filled their
   needs? What were the top in-draft trades, and what was the most surprising pick?
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-26T12:33:48Z'

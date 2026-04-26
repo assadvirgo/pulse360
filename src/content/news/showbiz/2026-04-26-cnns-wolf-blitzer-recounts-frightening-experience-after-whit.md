@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The longtime anchor said he was "a few feet away from the gunman as he
   was firing" inside the Washington Hilton ballroom.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-26T15:31:52Z'

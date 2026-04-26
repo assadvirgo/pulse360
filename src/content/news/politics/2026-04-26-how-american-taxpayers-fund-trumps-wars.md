@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Americans worked 50 days in 2025 to fund war. Contractors got twice the
   tax money that US troops did.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 66.5
 pubDate: '2026-04-26T07:57:42Z'

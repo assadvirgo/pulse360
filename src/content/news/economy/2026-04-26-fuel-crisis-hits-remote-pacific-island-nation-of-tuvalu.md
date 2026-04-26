@@ -4,7 +4,7 @@ country: Tuvalu
 countryCode: TV
 description: Energy crunch triggered by Middle East war reaches shores of Polynesian
   country
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-04-26T04:00:07Z'

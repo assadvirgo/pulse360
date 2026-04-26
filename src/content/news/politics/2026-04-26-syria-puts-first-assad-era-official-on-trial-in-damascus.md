@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Atef Najib, ex-head of political security in Deraa province, is charged
   with &#039;crimes against the Syrian people&#039;.
-displayOrder: 23
+displayOrder: 35
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-26T12:31:50Z'

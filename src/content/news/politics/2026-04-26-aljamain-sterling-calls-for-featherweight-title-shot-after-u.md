@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sterling wants a featherweight title shot against Volkanovski after a
   unanimous win over Zalal in Las Vegas.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-26T08:07:46Z'

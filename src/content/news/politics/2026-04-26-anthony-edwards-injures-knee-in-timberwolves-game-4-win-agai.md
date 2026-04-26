@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Edward&#039;s teammate Donte DiVincenzo was also hurt as Minnesota rallied
   to beat Denver and take a 3-1 playoff series lead.
-displayOrder: 22
+displayOrder: 38
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-26T07:42:38Z'

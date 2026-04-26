@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel escalates attacks and expands control in Gaza Strip, sidelining
   the new US-backed technocratic administration.
-displayOrder: 1
+displayOrder: 14
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-26T15:32:20Z'

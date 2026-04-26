@@ -5,7 +5,7 @@ countryCode: TW
 description: Taiwanese filmmaker Giddens Ko, presenting &#8220;Kung Fu&#8221; at the
   Far East Film Festival on Saturday, revealed that Stephen Chow contributed to the
   film&#8217;s development…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-04-26T13:32:29Z'

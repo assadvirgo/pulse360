@@ -3,7 +3,7 @@ category: Tech
 description: When you’re juggling more than just your own calendar, staying organized
   can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things
   by syncing multiple…
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-26T14:05:03Z'

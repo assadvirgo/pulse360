@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Kenyan athlete in ‘supershoes’ breaks world record in perfect conditions
   in London race
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-26T14:36:30Z'

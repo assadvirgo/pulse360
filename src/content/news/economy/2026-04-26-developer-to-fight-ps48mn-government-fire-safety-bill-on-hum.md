@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK housing department is suing Urban Splash in test of powers to recoup
   public money spent on post-Grenfell building safety
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-04-26T04:00:16Z'

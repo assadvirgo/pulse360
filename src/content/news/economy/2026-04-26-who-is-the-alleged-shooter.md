@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Games developer named as man who attempted to enter dinner Trump was
   attending
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-26T13:36:25Z'
