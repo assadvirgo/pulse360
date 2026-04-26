@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nuclear startup X-energy went public, geothermal startup Fervo is about
   to. Could this be the moment that climate tech investors have been waiting for?
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 76.0
 pubDate: '2026-04-25T16:33:00Z'

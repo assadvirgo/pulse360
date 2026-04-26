@@ -5,7 +5,7 @@ countryCode: US
 description: 'The verdict on &#8220;Michael&#8221; is in, and it is blunt. A 38% Rotten
   Tomatoes score has landed with a familiar critique: The film avoids the most controversial
   chapters of…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-25T18:00:00Z'

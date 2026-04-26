@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia launched more than 600 drones and 47 missiles as it targeted eight
   regions in Dnipro, authorities say.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-25T08:44:56Z'

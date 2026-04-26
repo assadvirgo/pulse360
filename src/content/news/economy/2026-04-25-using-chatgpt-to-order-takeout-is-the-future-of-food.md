@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI “is the sizzle in the restaurant world,” industry reps say, as Starbucks
   and Little Caesars partner with ChatGPT.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-25T12:00:00Z'

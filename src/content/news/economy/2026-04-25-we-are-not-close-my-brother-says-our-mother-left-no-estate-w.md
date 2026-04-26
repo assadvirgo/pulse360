@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “He had a medical power of attorney since my mom was in a nursing home.”
-displayOrder: 46
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-25T18:25:00Z'

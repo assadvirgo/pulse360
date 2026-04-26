@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France justified abstaining on a UN resolution recognising the slave
   trade as the gravest crime against humanity.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-25T18:58:37Z'

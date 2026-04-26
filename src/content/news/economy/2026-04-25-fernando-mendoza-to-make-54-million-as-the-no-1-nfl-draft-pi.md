@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The top three picks in the draft — Fernando Mendoza, David Bailey and
   Jeremiyah Love — will each be eligible to sign deals worth $50 million
-displayOrder: 44
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-25T16:25:00Z'

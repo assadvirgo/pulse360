@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill
   four people, state media report.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-25T13:25:30Z'

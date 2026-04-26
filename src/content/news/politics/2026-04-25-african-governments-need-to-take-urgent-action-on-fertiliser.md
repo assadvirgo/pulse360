@@ -2,7 +2,7 @@
 category: Politics
 description: Tensions in the Strait of Hormuz have slowed fertiliser shipments which
   could put harvests at risk.
-displayOrder: 30
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-25T14:27:27Z'

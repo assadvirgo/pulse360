@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinians are voting in Gaza’s first municipal elections in 21 years.
   Around 70,000 people are registered to vote.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-25T09:55:08Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Local elections have been held in the occupied West Bank and in one Gazan
   city, though Hamas and other groups are not taking part.
-displayOrder: 15
+displayOrder: 21
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-25T17:01:55Z'
