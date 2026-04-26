@@ -5,7 +5,7 @@ countryCode: US
 description: Glen Powell had to face his fears about the face of Hulu’s Chad Powers
   as co-creator, executive producer and star, even if that face typically is literally
   buried under layers of…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-25T22:48:44Z'

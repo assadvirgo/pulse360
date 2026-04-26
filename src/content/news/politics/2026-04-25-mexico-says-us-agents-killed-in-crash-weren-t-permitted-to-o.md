@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: The two Americans who reportedly worked for the CIA died in a car crash
   after a Mexican-led operation to destroy a drug lab.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-25T17:40:51Z'

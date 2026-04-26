@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: JetBlue is now walking back advice given to a customer via social media
   to search for fares in incognito mode.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-25T14:26:00Z'

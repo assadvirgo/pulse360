@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawyers say El Gamal family detained by Trump administration hours after
   returning home from 10-month detention.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-25T20:55:19Z'

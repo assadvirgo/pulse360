@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill
   four people, state media report.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-25T13:25:30Z'

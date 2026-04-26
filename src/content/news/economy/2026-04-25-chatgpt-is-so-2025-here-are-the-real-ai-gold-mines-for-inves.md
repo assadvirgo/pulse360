@@ -2,7 +2,7 @@
 category: Economy
 description: Money is flooding into AI. Defense, healthcare and agentics are the big
   winners, writes Mark Minevich.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-25T17:41:00Z'

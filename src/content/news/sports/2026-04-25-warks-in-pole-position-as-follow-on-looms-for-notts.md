@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Nottinghamshire trail Warwickshire by 195 at stumps on day two of their
   County Championship game at Trent Bridge.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 66.2
 pubDate: '2026-04-25T18:13:33Z'

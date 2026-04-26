@@ -5,7 +5,7 @@ countryCode: US
 description: If there&#8217;s one thing for certain about the world of Prime Video&#8217;s
   Fallout, it&#8217;s that there is no shortage of complicated characters. &#8220;I
   think coming out of…
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-26T00:27:24Z'

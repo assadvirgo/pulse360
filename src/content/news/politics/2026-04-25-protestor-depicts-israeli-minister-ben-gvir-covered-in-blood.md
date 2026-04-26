@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: Activists organised a protest in solidarity with Palestine on Saturday
   in Stockholm, Sweden.
-displayOrder: 30
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-25T19:40:56Z'

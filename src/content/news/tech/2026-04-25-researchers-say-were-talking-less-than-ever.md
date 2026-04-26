@@ -5,7 +5,7 @@ countryCode: US
 description: Researchers at the University of Missouri-Kansas City and the University
   of Arizona say that between 2005 and 2019, the number of words we speak out loud
   to another human being…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-25T15:03:53Z'

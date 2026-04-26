@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Defence lawyers had asked for case to be thrown out, claiming Maduro&#039;s
   rights were violated following US abduction.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-25T16:21:24Z'
