@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Nervy Arsenal beat Newcastle 1-0 in the EPL to move three points clear
   of Manchester City, who hold a game in hand.
-displayOrder: 27
+displayOrder: 33
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-25T19:02:11Z'

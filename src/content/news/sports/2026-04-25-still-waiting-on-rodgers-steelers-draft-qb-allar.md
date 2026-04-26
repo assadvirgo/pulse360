@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Steelers added at quarterback by selecting former Penn State star
   Drew Allar in the third round of the NFL draft.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-25T21:02:41Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Mississippi State tight end Seydou Traore, who was raised in London,
   is drafted in the fifth round of the 2026 NFL Draft by the Miami Dolphins.
-displayOrder: 10
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-25T22:29:00Z'

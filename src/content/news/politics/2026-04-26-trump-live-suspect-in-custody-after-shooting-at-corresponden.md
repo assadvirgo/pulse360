@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump says shooter apprehended and that First Lady Melania Trump and
   Vice President JD Vance are &#039;in perfect condition&#039;.
-displayOrder: 8
+displayOrder: 13
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-26T02:10:00Z'

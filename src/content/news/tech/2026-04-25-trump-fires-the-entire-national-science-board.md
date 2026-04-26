@@ -5,7 +5,7 @@ countryCode: US
 description: Multiple sources are reporting that the Trump administration has dismissed
   the entire National Science Board (NSB). The NSB advises the president and Congress
   on the National…
-displayOrder: 13
+displayOrder: 21
 heroImage: ''
 importance: 71.2
 pubDate: '2026-04-25T19:20:15Z'

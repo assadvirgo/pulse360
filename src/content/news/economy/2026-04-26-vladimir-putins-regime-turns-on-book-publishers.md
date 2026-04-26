@@ -3,7 +3,7 @@ category: Economy
 country: Russia
 countryCode: RU
 description: Kremlin crackdown targets even loyal publishing houses
-displayOrder: 39
+displayOrder: 40
 heroImage: ''
 importance: 29.5
 pubDate: '2026-04-26T04:00:07Z'

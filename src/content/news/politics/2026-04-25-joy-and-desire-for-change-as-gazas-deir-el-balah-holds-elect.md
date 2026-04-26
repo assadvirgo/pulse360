@@ -2,7 +2,7 @@
 category: Politics
 description: Deir el-Balah residents vote for first time since 2006 despite destruction,
   displacement and genocide.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-25T17:25:09Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Indonesia
 countryCode: ID
 description: The forest where the Sumatran orangutans live has been split by a road.
-displayOrder: 33
+displayOrder: 41
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-25T18:23:45Z'

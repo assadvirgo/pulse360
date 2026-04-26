@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Dividend-paying winners are likely to outperform a meme-themed ETF.
-displayOrder: 45
+displayOrder: 46
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-25T15:55:00Z'
