@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Record bond-fund inflows are a warning sign that lower returns are ahead.
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-25T18:28:00Z'

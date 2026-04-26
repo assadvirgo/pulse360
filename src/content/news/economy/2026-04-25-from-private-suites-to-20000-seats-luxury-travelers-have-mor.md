@@ -2,7 +2,7 @@
 category: Economy
 description: Airlines are pouring money into flashy premium-class upgrades to keep
   attracting big spenders.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-25T17:56:00Z'

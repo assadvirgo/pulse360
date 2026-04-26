@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple
   may be putting devices back at the center of its strategy.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-25T15:00:00Z'

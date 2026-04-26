@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: A bomb-laden bus has exploded, killing at least 14 people on Colombia’s
   Pan-American Highway to Venezuela.
-displayOrder: 24
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-26T03:37:17Z'

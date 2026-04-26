@@ -5,7 +5,7 @@ countryCode: CA
 description: In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam
   Altman said he is “deeply sorry” that his company failed to alert law enforcement
   about the suspect in a…
-displayOrder: 43
+displayOrder: 49
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-25T17:17:56Z'

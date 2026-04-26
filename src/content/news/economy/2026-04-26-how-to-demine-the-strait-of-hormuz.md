@@ -2,7 +2,7 @@
 category: Economy
 description: Clearing mines from Gulf waterway will take weeks even if US navy receives
   help from reluctant European allies
-displayOrder: 35
+displayOrder: 40
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-26T04:00:07Z'

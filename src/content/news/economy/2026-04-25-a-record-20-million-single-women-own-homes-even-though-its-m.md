@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While the majority of home buyers are married couples, 21% today are
   single women, compared to just 9% of single men.
-displayOrder: 45
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-25T16:17:00Z'
