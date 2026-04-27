@@ -5,7 +5,7 @@ countryCode: US
 description: 'The Oscar nominee was the guest at SiriusXM’s ‘Smartless LIVE’ at Hollywood’s
   Palladium where he teased his new chapter: "I''m about to go on a run of just the
   dumbest shit you''ve…'
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-04-27T04:47:31Z'

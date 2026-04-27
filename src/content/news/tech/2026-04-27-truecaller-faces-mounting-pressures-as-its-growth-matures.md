@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: As growth slows, Truecaller is leaning on subscriptions, business services,
   and new features to sustain momentum beyond India.
-displayOrder: 18
+displayOrder: 39
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-27T03:00:00Z'

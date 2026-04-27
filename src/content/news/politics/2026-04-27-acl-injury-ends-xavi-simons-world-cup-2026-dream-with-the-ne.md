@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Dutch midfielder suffers a suspected ACL injury to his right knee, ending
   his chances of playing in the FIFA World Cup.
-displayOrder: 14
+displayOrder: 34
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-27T07:37:22Z'

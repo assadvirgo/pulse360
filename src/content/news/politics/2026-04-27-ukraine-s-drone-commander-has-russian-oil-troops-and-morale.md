@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: In a rare interview, Commander Robert Brovdi shared how his unit accounts
   for a third of all targets destroyed on the battlefield.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-27T05:03:39Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The suspect is expected to be charged with assault of a federal officer
   and using a firearm during a crime of violence, officials have said.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-27T00:06:54Z'

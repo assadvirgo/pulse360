@@ -5,7 +5,7 @@ countryCode: KR
 description: Netflix has begun production on &#8220;The Generals&#8221; (working title),
   a Korean political drama directed by Yoon Jong-bin in which Son Suk-ku and Ha Jung-woo
   play real-life…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-27T05:26:39Z'

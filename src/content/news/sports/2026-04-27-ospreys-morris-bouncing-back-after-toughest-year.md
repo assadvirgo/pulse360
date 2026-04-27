@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ospreys number eight Morgan Morris can push for a first Wales call-up
   by finishing strongly in the United Rugby Championship, says his coach Mark Jones.
-displayOrder: 19
+displayOrder: 40
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-27T03:32:55Z'
