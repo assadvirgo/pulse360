@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Britain's WBC light-welterweight champion Dalton Smith is ruled out of
   his fight with Alberto Puello through injury.
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-27T11:52:42Z'

@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Ex-Tokyo Electron employee sentenced to 10 years, four other defendants
   receive between 10 months and six years.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-27T05:43:30Z'

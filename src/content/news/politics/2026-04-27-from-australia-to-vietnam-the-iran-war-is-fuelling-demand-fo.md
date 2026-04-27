@@ -2,7 +2,7 @@
 category: Politics
 description: Electric vehicle sales are surging in many markets as conflict drives
   up the cost of running petrol and diesel vehicles.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-27T04:46:35Z'

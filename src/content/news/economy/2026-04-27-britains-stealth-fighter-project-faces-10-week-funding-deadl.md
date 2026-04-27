@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BAE Systems, one of the defence groups involved, says it will ‘redeploy’
   staff if longer-term funds not secured
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-27T04:00:34Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: With Rai's passing, India has lost a visual historian who was a chronicler
   of its most defining and often painful moments.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-27T08:30:23Z'

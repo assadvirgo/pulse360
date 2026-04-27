@@ -2,7 +2,7 @@
 category: Economy
 description: Convulsions in energy markets, often driven by Donald Trump’s posts on
   Truth Social, are complicating inflation forecasts
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-27T10:11:08Z'

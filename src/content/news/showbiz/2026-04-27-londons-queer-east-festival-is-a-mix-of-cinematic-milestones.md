@@ -5,7 +5,7 @@ countryCode: GB
 description: Program director Yi Wang discusses the program for the seventh edition,
   the fest's growth since its launch during the COVID pandemic and how the past can
   elucidate the future.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-27T08:00:00Z'

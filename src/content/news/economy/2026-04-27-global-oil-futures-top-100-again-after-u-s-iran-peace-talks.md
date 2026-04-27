@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: West Texas Intermediate and Brent crude prices rose after Jared Kushner
   and Steve Witkoff were told not to travel to Pakistan for negotiations
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-27T08:49:00Z'

@@ -5,7 +5,7 @@ countryCode: RU
 description: A worker at the Zaporizhzhia nuclear power &#8203;station has been killed
   in a &#8203;Ukrainian drone attack, according to Russian &#8203;forces, which control
   the plant.
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 58.0
 pubDate: '2026-04-27T10:26:00Z'

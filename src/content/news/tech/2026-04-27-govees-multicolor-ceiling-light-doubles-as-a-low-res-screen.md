@@ -5,7 +5,7 @@ countryCode: US
 description: The smart lighting company is having a busy month. After releasing its
   first solar-powered lights, a cordless table lamp, and an updated LED light wall
   over the past few weeks,…
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-27T12:00:00Z'

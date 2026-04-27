@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nicotine pouches are revered among tech workers, who tout them as the
   perfect brain-boosting, productivity-jacking stimulants.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-27T11:00:00Z'
