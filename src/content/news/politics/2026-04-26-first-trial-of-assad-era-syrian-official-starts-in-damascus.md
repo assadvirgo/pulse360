@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Syria begun its first public trial of former Assad-era officials, with
   ex-security chief Atef Najib appearing in court.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-26T17:49:30Z'

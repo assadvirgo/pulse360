@@ -3,7 +3,7 @@ category: Politics
 country: Ukraine
 countryCode: UA
 description: 40 years since the world’s worst nuclear disaster in Ukraine
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-26T13:45:49Z'

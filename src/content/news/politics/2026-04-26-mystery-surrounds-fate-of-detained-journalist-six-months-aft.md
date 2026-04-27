@@ -5,7 +5,7 @@ countryCode: SD
 description: Six months have passed since the paramilitary Rapid Support Forces (RSF)
   captured the Sudanese regional capital Al Fashir and shared dozens of videos documenting
   their massacre in…
-displayOrder: 28
+displayOrder: 42
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-26T18:13:00Z'

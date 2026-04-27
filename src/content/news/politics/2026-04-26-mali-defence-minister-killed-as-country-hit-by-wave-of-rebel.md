@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: A wave of coordinated attacks by jihadist militants and separatists has
   spread through the country.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-26T20:56:26Z'

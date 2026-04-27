@@ -3,7 +3,7 @@ category: Tech
 description: In January I finally made good on my threat/promise to install Linux
   on my desktop. I wanted to see how far I could get using a Linux PC as my main computer
   without doing a bunch…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-04-26T13:00:00Z'
