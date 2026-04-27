@@ -5,7 +5,7 @@ countryCode: US
 description: 'While audiences may think that Prime Video&#8217;s Jury Duty Presents:
   Company Retreat found another rare unicorn of a decent, likable human being in the
   show’s real-life main…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-26T20:44:49Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Following this week&#8217;s Season 4 finale of Invincible, creator Robert
   Kirkman explained one major change from the comic books. The Prime Video series&#8217;
   showrunner, who…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-04-26T17:46:53Z'

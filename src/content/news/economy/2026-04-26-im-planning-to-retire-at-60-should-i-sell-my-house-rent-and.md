@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “Renting improves cash flow by about $1,300 a month.”
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-04-26T20:22:00Z'

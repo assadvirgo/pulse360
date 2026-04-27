@@ -5,7 +5,7 @@ countryCode: US
 description: Ariana Madix has been at the heart of Peacock&#8217;s Love Island USA
   amid the Peacock dating series&#8217; breaking out in Season 6. The former Vanderpump
   Rules star was in…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-26T22:31:29Z'

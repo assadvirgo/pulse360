@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Two of Israeli Prime Minister Benjamin Netanyahu's biggest rivals have
   announced they are joining forces to attempt to oust his coalition government.
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-26T22:05:00Z'

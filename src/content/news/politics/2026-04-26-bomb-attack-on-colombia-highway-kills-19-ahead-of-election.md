@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Highway bombing in Colombia’s Cauca kills 19, injures dozens amid a surge
   in violence ahead of next month’s election.
-displayOrder: 19
+displayOrder: 24
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-26T20:15:29Z'

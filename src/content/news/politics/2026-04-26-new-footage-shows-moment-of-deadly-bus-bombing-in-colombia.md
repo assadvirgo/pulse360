@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Newly released dashcam video shows the moment that a bomb-laden bus exploded
   in Colombia.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-26T15:38:20Z'

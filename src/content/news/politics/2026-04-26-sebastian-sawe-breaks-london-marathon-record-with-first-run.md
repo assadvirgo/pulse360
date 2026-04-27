@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Kenyan athlete breaks Kelvin Kiptum’s previous world record of 2:00:35;
   Ethiopia&#039;s Assefa retains her women&#039;s crown.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-26T11:27:52Z'

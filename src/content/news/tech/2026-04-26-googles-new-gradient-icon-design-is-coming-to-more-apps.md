@@ -5,7 +5,7 @@ countryCode: US
 description: In late 2025, Google started rolling out new icons with a gradient design.
   Now it seems the new look is coming to the rest of Google's apps. 9to5Google got
   its hands on images of…
-displayOrder: 32
+displayOrder: 39
 heroImage: ''
 importance: 44.2
 pubDate: '2026-04-26T18:34:26Z'

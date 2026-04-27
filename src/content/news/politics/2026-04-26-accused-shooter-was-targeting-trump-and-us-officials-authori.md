@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump says suspect wrote an anti-Christian declaration
   and is &#039;sick guy&#039;.
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-26T18:03:11Z'

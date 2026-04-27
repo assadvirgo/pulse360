@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Nuggets saw their odds lengthen after another loss, and the Timberwolves
   took a plunge with injuries to Donte DiVincenzo and Anthony Edwards.
-displayOrder: 17
+displayOrder: 26
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-26T17:57:25Z'
