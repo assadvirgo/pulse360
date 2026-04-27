@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hezbollah rejects allegations from Israeli PM Benjamin Netanyahu that
   it is undermining the Israel-Lebanon ceasefire.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-26T19:09:56Z'

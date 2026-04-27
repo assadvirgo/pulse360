@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Welcome back to TechCrunch Mobility — your central hub for news and insights
   on the future of transportation.
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 50.0
 pubDate: '2026-04-26T16:03:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump has claimed a shooting at a White House correspondents'
   dinner would have been avoided had his proposed ballroom been built.
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 44.0
 pubDate: '2026-04-26T14:09:00Z'

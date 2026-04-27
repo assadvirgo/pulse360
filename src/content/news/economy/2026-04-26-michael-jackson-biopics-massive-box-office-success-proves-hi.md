@@ -5,7 +5,7 @@ countryCode: US
 description: Despite years of controversy surrounding allegations of child sexual
   abuse, the King of Pop’s legions of fans turned out in droves to see a new biopic
   on his life and music.
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-26T19:15:00Z'

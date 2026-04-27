@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: After half a century, the left risks losing its grip on an area that
   Keir Starmer’s government has sought to champion
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-26T13:54:06Z'

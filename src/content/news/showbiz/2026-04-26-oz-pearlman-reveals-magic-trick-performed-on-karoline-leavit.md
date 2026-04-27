@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The mentalist said he had just introduced himself to President Donald
   Trump and First Lady Melania Trump before a gunman stormed into the ballroom.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-26T18:05:25Z'

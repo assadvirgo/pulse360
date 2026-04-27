@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Landmines in Yemen continue to kill and maim, even amid ceasefire efforts
   and ongoing de-mining initiatives.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-26T09:43:42Z'

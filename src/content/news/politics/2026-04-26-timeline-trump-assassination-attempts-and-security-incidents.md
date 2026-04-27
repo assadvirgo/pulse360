@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Timeline reveals assassination attempts on Trump, including incidents
   during his presidency and campaign rallies.
-displayOrder: 28
+displayOrder: 36
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-26T11:24:37Z'

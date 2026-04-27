@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Tom Taylor stars with five wickets as Worcestershire beat Kent by an
   innings and two runs at New Road.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-26T15:51:28Z'

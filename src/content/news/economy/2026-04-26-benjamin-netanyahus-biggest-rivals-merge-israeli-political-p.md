@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Former prime ministers Naftali Bennett and Yair Lapid combine forces
   ahead of this year’s election
-displayOrder: 12
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-26T18:51:29Z'

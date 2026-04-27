@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Samantha Johnson looks at how geopolitics could impact the business of
   sport in the Gulf
-displayOrder: 23
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-26T15:06:12Z'
