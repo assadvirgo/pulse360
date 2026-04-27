@@ -5,7 +5,7 @@ countryCode: US
 description: Mariclare Costello, who played the devoted schoolteacher Rosemary Hunter
   on The Waltons, a free-spirited hippie-turned-vampire in the 1971 cult horror film
   Let&#8217;s Scare…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-27T16:24:20Z'

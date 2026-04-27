@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Scott Kirby criticises rival for ‘closing the door’ on deal he believes
   would have created jobs
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-27T12:18:46Z'

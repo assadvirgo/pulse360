@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: Kim Jong Un and Russian Defence Minister Andrey Belousov unveiled the
   memorial in Pyongyang.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-27T06:52:59Z'

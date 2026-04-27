@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US military commitment to Europe is fraying — but the two sides remain
   locked in an unhappy marriage for now
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-27T11:01:58Z'

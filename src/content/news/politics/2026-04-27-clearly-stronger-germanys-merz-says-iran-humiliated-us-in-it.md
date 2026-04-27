@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: German chancellor warns the US risks becoming bogged down in another
   quagmire similar to Iraq and Afghanistan.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T12:54:15Z'

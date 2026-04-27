@@ -5,7 +5,7 @@ countryCode: DE
 description: 'Talk about a missed opportunity: the first competitive marathon runner
   to complete the race in under two hours wore Adidas sneakers — but runners who want
   to wear the same gear…'
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T07:33:00Z'

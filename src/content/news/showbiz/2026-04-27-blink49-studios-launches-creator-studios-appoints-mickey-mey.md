@@ -5,7 +5,7 @@ countryCode: US
 description: Blink49 Studios is launching a new global initiative, Creator Studios,
   and has tapped producer, entrepreneur and media leader Mickey Meyer to lead it as
   president of Global…
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 67.8
 pubDate: '2026-04-27T16:00:00Z'

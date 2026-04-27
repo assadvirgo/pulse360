@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The state visit will go ahead despite concerns raised after a gunman
   targeted an event attended by the president.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 69.2
 pubDate: '2026-04-27T09:19:11Z'

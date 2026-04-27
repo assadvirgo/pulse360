@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump said the US had cancelled plans to send a team to Pakistan
   for negotiations.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 72.2
 pubDate: '2026-04-27T08:38:37Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: From toxic smoke and oil spills to rising emissions, poisoned soil, and
   damaged ecosystems, war can reshape the environment long after the fighting stops.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-04-27T08:30:00Z'

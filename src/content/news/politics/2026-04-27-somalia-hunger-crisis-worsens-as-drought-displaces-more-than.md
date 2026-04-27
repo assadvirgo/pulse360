@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: In Somalia, displaced communities face starvation as humanitarian funds
   decrease, leaving them without assistance or hope.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T10:57:41Z'

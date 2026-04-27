@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Eponymous firm launched by Bobby Jain will instead manage money exclusively
   for his alma mater Millennium
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-27T14:55:38Z'

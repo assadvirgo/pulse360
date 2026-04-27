@@ -2,7 +2,7 @@
 category: Politics
 description: Yanis Varoufakis speaks to Redi Tlhabi about Palantir&#039;s new manifesto,
   AI weapons, and big tech&#039;s ideological drive.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-27T11:12:57Z'

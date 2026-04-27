@@ -2,7 +2,7 @@
 category: Politics
 description: Football&#039;s global governing body promises to increase funding for
   the tournament to help cover participation costs.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-27T10:52:24Z'

@@ -5,7 +5,7 @@ countryCode: IT
 description: Dame Sarah Mullally, the first female Archbishop of Canterbury, has prayed
   with Pope Leo XIV at the Vatican - a meeting that would have been unthinkable just
   a few years ago.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-27T08:52:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Sam Altman and Elon Musk are set to face off in a high-stakes trial that
   could alter the future of tech’s leading AI startup, OpenAI. The trial begins with
   jury selection on April…
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 79.2
 pubDate: '2026-04-27T15:50:29Z'

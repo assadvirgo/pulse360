@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Spotify teams with Peloton to launch fitness content, potentially opening
   new revenue streams while expanding Peloton’s global reach.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-27T13:04:36Z'

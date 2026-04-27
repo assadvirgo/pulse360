@@ -5,7 +5,7 @@ countryCode: HU
 description: Hungarian election winner Péter Magyar is set to travel to Italy’s Riviera
   International Film Festival on May 5 to attend the international premiere of of
   documentary “Spring Wind…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-04-27T08:52:03Z'

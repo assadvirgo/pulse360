@@ -5,7 +5,7 @@ countryCode: KP
 description: Kim Jong Un threw dirt over the remains of one dead soldier at the opening
   of a memorial museum for his compatriots who died fighting alongside Russia in the
   Ukraine war.
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 74.0
 pubDate: '2026-04-27T10:01:00Z'

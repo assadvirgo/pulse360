@@ -5,7 +5,7 @@ countryCode: GB
 description: Former heavyweight world champion Anthony Joshua has signed to fight
   Tyson Fury but will first have a warm-up fight against Kristian Prenga in Riyadh
   on 25 July.
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-27T13:17:40Z'

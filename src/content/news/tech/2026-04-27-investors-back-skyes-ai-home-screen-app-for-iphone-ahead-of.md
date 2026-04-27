@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Skye's new AI app attracted investors before it even launched — a sign
   of interest in a more AI-aware iPhone.
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 67.0
 pubDate: '2026-04-27T16:13:02Z'
