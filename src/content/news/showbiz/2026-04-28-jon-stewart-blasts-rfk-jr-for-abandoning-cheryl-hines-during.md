@@ -5,7 +5,7 @@ countryCode: US
 description: On Monday's episode of 'The Daily Show,' Stewart also pointed out the
   other absurdities from assassination attempt, including Trump's response on '60
   Minutes.'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-28T09:54:37Z'

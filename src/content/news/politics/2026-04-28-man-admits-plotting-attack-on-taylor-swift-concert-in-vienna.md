@@ -4,7 +4,7 @@ country: Austria
 countryCode: AT
 description: The state prosecutor told the court that police found an almost completed
   bomb in a search of the man's house.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-28T10:08:01Z'

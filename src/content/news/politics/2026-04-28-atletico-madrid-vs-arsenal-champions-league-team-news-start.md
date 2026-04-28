@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spanish giants Atletico host Premier League leaders Arsenal at the Metropolitano
   Stadium for their semifinal first leg.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-28T11:52:54Z'

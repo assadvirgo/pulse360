@@ -3,7 +3,7 @@ category: Politics
 country: Iraq
 countryCode: IQ
 description: Iraq appoints new prime minister-designate
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-28T09:30:06Z'

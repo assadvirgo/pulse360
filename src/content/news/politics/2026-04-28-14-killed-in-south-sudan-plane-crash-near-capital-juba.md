@@ -4,7 +4,7 @@ country: South Sudan
 countryCode: SS
 description: A passenger plane crashed southwest of South Sudan’s capital Juba, killing
   all 14 people on board.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-28T02:01:30Z'

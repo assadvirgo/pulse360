@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Kashmiri political and religious leaders denounced the move as part of
   a broader pattern of New Delhi’s overreach.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-28T09:31:56Z'

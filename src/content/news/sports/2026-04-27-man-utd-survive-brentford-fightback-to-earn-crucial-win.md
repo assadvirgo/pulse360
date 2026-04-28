@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United hold their nerve as first-half goals from Casemiro
   and Benjamin Sesko are enough for them to win an entertaining encounter with Brentford.
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-27T21:29:57Z'

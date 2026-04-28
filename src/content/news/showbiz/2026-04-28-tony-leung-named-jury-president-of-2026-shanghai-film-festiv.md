@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The Hong Kong screen icon will head the Golden Goblet Awards jury at
   the festival's 28th edition, running June 12-21.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-28T09:27:39Z'

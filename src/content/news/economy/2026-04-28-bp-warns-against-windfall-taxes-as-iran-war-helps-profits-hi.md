@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: New chief Meg O’Neill says fresh levies on outsized earnings would be
   a ‘highly flawed response’
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-28T11:24:34Z'

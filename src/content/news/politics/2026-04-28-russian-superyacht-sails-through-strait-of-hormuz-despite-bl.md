@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The 141m-long vessel, linked to a close ally of Russian President Vladimir
   Putin, cleared the waterway despite an ongoing blockade.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-28T07:17:06Z'

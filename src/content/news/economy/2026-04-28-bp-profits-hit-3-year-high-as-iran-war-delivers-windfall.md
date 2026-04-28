@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Oil major’s quarterly profit beats analysts’ expectations on back of
   ‘exceptional’ trading performance
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-28T07:59:32Z'

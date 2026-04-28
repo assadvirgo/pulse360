@@ -4,7 +4,7 @@ country: Mauritania
 countryCode: MR
 description: Following an EU deal, Mauritanian authorities have rounded up and deported
   thousands of people to Mali and Senegal.
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-28T12:13:14Z'

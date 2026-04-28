@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: ISIL (ISIS) has claimed responsibility for the attack on Guyaku village,
   which lasted several hours.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-28T04:43:05Z'

@@ -3,7 +3,7 @@ category: Tech
 description: Logitech has announced a new suite of Productivity Plugins for its entire
   MX line of accessories, including its Stream Deck alternative, the MX Creative Console.
   Since the console…
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-28T07:01:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The hedge fund is giving away shares to any investor who buys five or
   more shares in the IPO of its new closed-end fund.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-28T10:18:00Z'
