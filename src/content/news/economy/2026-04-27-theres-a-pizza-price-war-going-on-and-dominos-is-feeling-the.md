@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Domino’s will lean into “pizza innovation” as one way to engage customers
   who are getting more selective with their spending.
-displayOrder: 23
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T18:41:00Z'

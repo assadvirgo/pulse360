@@ -4,7 +4,7 @@ country: South Sudan
 countryCode: SS
 description: Preliminary reports indicate Cessna aircraft may have crashed due to
   bad weather conditions that caused low visibility.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T15:33:51Z'

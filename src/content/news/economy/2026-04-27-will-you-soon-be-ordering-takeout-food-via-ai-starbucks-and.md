@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: AI “is the sizzle in the restaurant world,” industry reps say.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-27T15:35:00Z'

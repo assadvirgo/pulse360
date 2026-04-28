@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Skydance said the merged Paramount-Warner Bros. Discovery will
   be 49.5% owned by foreign investors, with about 38.5% of the equity in the new company
   held by a trio of…
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-27T21:19:19Z'

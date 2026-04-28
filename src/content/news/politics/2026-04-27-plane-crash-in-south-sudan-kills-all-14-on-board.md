@@ -4,7 +4,7 @@ country: South Sudan
 countryCode: SS
 description: The authorities are investigating but early reports suggest bad weather
   and poor visibility may be to blame.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-27T15:52:09Z'

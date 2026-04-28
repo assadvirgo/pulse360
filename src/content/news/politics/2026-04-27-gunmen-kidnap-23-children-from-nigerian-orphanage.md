@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Mass kidnappings are a common way for gangs and armed groups to make
   quick money in Nigeria.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-27T17:20:09Z'

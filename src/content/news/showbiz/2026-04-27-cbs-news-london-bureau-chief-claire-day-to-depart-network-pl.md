@@ -5,7 +5,7 @@ countryCode: US
 description: Claire Day, a 23-year veteran of CBS News who has served as London bureau
   chief since May, is leaving the network. The move comes as the network is planning
   a new leadership…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-27T21:44:56Z'

@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Armed groups with differing ideologies have launched coordinated attacks
   across Mali. Can they remain united?
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T14:45:48Z'

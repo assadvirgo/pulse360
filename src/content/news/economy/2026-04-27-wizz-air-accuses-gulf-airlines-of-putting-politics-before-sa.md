@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Chief executive József Váradi claims carriers are ‘operating based on
   political pressure’ in highly unusual criticism
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-27T18:10:33Z'

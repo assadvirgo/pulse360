@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: He interviewed hundreds of legends over the years and was instrumental
   in bringing the “Bronze Fonz” monument to Milwaukee.
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-27T21:11:48Z'

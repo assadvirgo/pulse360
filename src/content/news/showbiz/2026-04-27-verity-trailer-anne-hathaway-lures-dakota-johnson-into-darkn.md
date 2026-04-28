@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon MGM Studios has unveiled the first teaser for Verity, its adaptation
   of the bestselling psychological thriller by It Ends with Us author Colleen Hoover.
   The film, starring…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-27T21:32:13Z'

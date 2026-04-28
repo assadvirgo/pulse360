@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Atlanticist leader says ill-prepared war is hurting Europe’s largest
   economy
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-27T17:16:50Z'

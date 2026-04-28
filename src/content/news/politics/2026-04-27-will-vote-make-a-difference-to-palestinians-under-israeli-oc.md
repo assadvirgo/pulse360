@@ -2,7 +2,7 @@
 category: Politics
 description: The Palestinian Authority&#039;s Fatah party and its affiliates sweep
   council vote.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T21:07:36Z'

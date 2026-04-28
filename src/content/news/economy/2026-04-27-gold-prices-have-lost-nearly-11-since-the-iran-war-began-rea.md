@@ -2,7 +2,7 @@
 category: Economy
 description: High oil prices are likely to contribute to slowing GDP growth, boosting
   gold’s appeal.
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-27T20:09:00Z'
