@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED with crash details and cause of death: Dylan Carter, a country
   singer from South Carolina who appeared during Season 24 on NBC&#8217;s The Voice
   in 2023, died Saturday,…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-04-27T22:30:00Z'

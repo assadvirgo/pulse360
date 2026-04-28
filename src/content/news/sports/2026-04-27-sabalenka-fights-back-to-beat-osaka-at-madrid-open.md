@@ -5,7 +5,7 @@ countryCode: ES
 description: World number one Aryna Sabalenka comes from a set and a break down to
   beat Naomi Osaka in the fourth round of the Madrid Open, while third seed Coco Gauff
   is defeated by Linda…
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 44.2
 pubDate: '2026-04-27T17:58:43Z'

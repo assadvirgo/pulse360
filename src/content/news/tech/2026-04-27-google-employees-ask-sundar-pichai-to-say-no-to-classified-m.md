@@ -5,7 +5,7 @@ countryCode: US
 description: Over 600 Google employees signed a letter to CEO Sundar Pichai demanding
   that Google block the Pentagon from using its AI models for classified purposes,
   reports the The…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-27T18:17:12Z'

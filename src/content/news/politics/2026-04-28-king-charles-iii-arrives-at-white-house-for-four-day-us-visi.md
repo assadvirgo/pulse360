@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Britain’s King Charles III and Queen Camilla were greeted at the White
   House by US President Donald Trump.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-28T01:10:06Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: While there were plenty of laughs as George Clooney was given the Chaplin
   Award from Film at Lincoln Center, the serious side of him ultimately took over
   in the home stretch of…
-displayOrder: 6
+displayOrder: 11
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-28T04:55:26Z'

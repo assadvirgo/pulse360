@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Prosecutor says Cole Tomas Allen &#039;attempted to assassinate the president
   of the United States&#039; in Saturday attack.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-27T18:07:25Z'

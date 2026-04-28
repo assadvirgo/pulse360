@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Beatrice Venezi's appointment had been marred in controversy since being
   announced last September, prompting orchestra members to go on strike.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-27T17:13:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The trial’s outcome could sway the balance of power in AI, and jury selection
   starts on Monday.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T19:37:25Z'

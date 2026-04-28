@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Two trains collided in Bekasi, Indonesia late Monday, killing at least
   four people and injuring dozens more.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T23:44:01Z'

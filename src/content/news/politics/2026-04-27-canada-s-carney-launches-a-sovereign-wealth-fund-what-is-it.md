@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The fund - which Canadians can invest in directly - will help pay for
   major infrastructure projects in the country, the prime minister says.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-27T18:13:26Z'

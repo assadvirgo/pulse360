@@ -2,7 +2,7 @@
 category: Tech
 description: Gemini gets preferential treatment on Android, but maybe not for long
   (in Europe).
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-27T20:03:49Z'

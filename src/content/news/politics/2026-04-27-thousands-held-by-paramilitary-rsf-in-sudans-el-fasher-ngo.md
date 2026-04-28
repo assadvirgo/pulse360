@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Hundreds of women and children among those detained by the rebel group,
   says Sudan Doctors Network.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T19:35:55Z'

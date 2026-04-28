@@ -5,7 +5,7 @@ countryCode: IN
 description: The IPL 2026 is in full swing, but who is leading the race for the orange
   and purple cap? BBC Sport looks at the top run-scorers and wicket-takers in the
   19th edition.
-displayOrder: 43
+displayOrder: 49
 heroImage: ''
 importance: 54.2
 pubDate: '2026-04-27T17:16:42Z'
