@@ -5,7 +5,7 @@ countryCode: US
 description: The company says that the Ellisons and RedBird will control the voting
   stock, but that "indirect foreign ownership of equity interests in Paramount will
   be approximately 49.5…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-27T18:59:58Z'

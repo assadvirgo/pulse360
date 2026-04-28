@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: German Chancellor Friedrich Merz said the US has no clear exit strategy
   with their war on Iran.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T15:41:05Z'

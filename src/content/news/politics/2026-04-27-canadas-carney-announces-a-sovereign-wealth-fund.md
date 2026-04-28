@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The prime minister says the federal government will put up money alongside
   private investors to fund major projects.
-displayOrder: 17
+displayOrder: 24
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-27T15:52:08Z'

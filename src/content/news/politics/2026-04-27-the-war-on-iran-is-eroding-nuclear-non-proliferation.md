@@ -2,7 +2,7 @@
 category: Politics
 description: US-Israeli attacks on Iran under the pretext of ending a nuclear weapons
   programme are damaging confidence in the NPT.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 76.5
 pubDate: '2026-04-27T08:43:37Z'

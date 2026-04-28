@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French striker doubtful after sustaining an injury to the semitendinosus
   muscle in his left leg, his club says.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-27T12:02:54Z'

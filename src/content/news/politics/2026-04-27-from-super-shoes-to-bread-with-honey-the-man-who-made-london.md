@@ -5,7 +5,7 @@ countryCode: KE
 description: Kenyan runner Sabastian Sawe became the first person to break the two-hour
   barrier in an official marathon on Sunday, smashing the men's world record by 65
   seconds.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-27T10:17:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: United CEO Scott Kirby said the pursuit of talks with American has ended
   for now, as he defended his reasoning for pursuing talks.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-27T12:20:00Z'

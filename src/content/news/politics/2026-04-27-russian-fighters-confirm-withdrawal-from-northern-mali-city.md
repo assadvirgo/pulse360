@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Ethnic Tuareg fighters say they are in control of Kidal following a weekend
   of nationwide attacks, alongside Islamist groups.
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-27T16:26:30Z'

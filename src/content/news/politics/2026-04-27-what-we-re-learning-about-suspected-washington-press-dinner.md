@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The man arrested at the event attended by President Trump is due in court
   on Monday.
-displayOrder: 24
+displayOrder: 44
 heroImage: ''
 importance: 61.2
 pubDate: '2026-04-27T11:56:08Z'

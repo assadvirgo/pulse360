@@ -5,7 +5,7 @@ countryCode: ES
 description: Maialen Beloki has been appointed as the next director of the San Sebastián
   Film Festival to replace longtime head José Luis Rebordinos when he steps down at
   the end of this year.…
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-27T20:04:11Z'

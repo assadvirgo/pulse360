@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The world is changing quickly, including with more transactions taking
   place away from the dollar system, says Dali.o
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-27T19:16:00Z'
