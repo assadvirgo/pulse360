@@ -2,7 +2,7 @@
 category: Politics
 description: Settler violence surges deeper into Palestinian-administered areas, and
   Gaza&#039;s police forces are decimated further.
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 66.5
 pubDate: '2026-04-28T08:24:45Z'

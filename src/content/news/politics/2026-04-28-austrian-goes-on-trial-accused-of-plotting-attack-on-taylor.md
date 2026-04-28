@@ -4,7 +4,7 @@ country: Austria
 countryCode: AT
 description: Prosecutors say the man, 21-year-old Beran A, received training from
   members of jihadist group Islamic State on how to handle explosives.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-28T07:32:35Z'

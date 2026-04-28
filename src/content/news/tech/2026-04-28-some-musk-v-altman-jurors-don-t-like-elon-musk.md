@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during
   jury selection, several potential jurors voiced negative views of Musk himself.
-displayOrder: 23
+displayOrder: 41
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-28T00:39:30Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Democrats blast latest move by the administration to radically restructure
   the federal government.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-28T06:56:04Z'

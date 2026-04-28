@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investigators say the 31-year-old California man wanted to kill as many
   high-level officials as possible.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-28T00:41:48Z'

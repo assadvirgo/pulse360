@@ -2,7 +2,7 @@
 category: Economy
 description: Proposals such as extra free baggage allowance would make it harder to
   cope with rising costs, industry says
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-28T04:00:20Z'

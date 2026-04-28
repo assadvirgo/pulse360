@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Two trains collided on the outskirts of the Indonesian capital on Monday,
   killing at least 14 people.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-28T04:18:54Z'

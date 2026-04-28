@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bank to limit complex lending activities and reduce exposure to highly
   leveraged corporates
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 32.5
 pubDate: '2026-04-28T08:14:24Z'

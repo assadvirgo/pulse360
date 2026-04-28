@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Warwickshire go top of Division One in the County Championship after
   a draw with Nottinghamshire, for whom Kyle Verreynne hits 115.
-displayOrder: 47
+displayOrder: 48
 heroImage: ''
 importance: 64.2
 pubDate: '2026-04-27T16:41:39Z'

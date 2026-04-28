@@ -5,7 +5,7 @@ countryCode: KR
 description: The auteur's first feature since 'The Spy Gone North' in 2018 casts Son
   Suk-ku as a young Roh Tae-woo and Ha Jung-woo as dictator Chun Doo-hwan, the architects
   of the 1979 coup…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-28T04:51:01Z'

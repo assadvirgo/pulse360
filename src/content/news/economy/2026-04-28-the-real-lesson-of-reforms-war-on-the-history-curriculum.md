@@ -2,7 +2,7 @@
 category: Economy
 description: Proposals for a new patriotic syllabus reveal the ambiguous appeal of
   rightwing populism
-displayOrder: 28
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-28T04:00:29Z'

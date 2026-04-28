@@ -5,7 +5,7 @@ countryCode: IT
 description: Archaeologists and researchers have used artificial intelligence for
   the first time to digitally reconstruct the face of a man killed in the eruption
   of Mount Vesuvius that…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-27T19:57:00Z'
