@@ -5,7 +5,7 @@ countryCode: US
 description: Google has signed a classified deal that allows the US Department of
   Defense to use its AI models for "any lawful government purpose," The Information
   reports. The agreement was…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-28T11:09:32Z'

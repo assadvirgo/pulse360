@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: One win from its first series win since 2007, Buffalo has finally unlocked
   its true potential.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-28T17:02:40Z'

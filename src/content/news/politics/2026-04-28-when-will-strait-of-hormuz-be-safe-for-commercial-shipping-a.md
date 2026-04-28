@@ -2,7 +2,7 @@
 category: Politics
 description: Even if the strait reopens, shipping insurance could cost 20 times more
   than before the war, analysts say.
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-28T11:18:09Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Newcastle United's owners and executives are convening this week to plot
   the club's future.
-displayOrder: 40
+displayOrder: 50
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-28T08:32:39Z'

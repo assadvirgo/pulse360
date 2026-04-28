@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: After every round of Premier League matches this season, Troy Deeney
   gives us his team of the week. Do you agree with his choices?
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-04-27T22:33:44Z'

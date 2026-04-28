@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Five people were left with non-life-threatening injuries, according to
   Greece's state broadcaster ERT.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-28T14:59:30Z'

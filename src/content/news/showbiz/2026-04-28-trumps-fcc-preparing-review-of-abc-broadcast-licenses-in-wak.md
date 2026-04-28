@@ -5,7 +5,7 @@ countryCode: US
 description: The FCC is reportedly gearing up to launch a formal review of the broadcast
   licenses granted to Disney&#8217;s eight owned ABC stations &#8212; coming after
   a MAGA uproar over…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-28T15:51:20Z'

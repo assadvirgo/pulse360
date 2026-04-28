@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: A man who killed a British father-of-two in a motel car park in Australia
   has been declared mentally unfit to stand trial.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-04-28T08:51:00Z'

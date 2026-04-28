@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix&#8217;s &#8216;Big Mistakes&#8221; and &#8220;Death By Lightning&#8221;
   led the nominations for this year&#8217;s Gotham Television Awards, as announced
   Tuesday by the…
-displayOrder: 1
+displayOrder: 13
 heroImage: ''
 importance: 67.8
 pubDate: '2026-04-28T16:30:00Z'

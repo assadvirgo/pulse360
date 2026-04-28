@@ -3,7 +3,7 @@ category: Economy
 description: Jet-fuel prices in Europe are among the most emblematic effects of the
   U.S.-Israel war with Iran and the disruptions the conflict has caused in energy
   markets.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-28T12:30:00Z'

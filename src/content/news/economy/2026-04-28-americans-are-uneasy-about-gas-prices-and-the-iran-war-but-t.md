@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A survey of consumer confidence inched up in April to the highest level
   this year, though it is still depressed by historical standards.
-displayOrder: 8
+displayOrder: 28
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-28T15:21:00Z'

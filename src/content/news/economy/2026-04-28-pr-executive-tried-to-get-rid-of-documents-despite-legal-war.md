@@ -2,7 +2,7 @@
 category: Economy
 description: Audio recordings reveal Tom Harper told contractor to destroy material
   about an investigation into journalists
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-28T15:14:35Z'

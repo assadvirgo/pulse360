@@ -5,7 +5,7 @@ countryCode: US
 description: Most modern Kindle devices with a black and white E Ink screen offer
   an alternate inverted dark mode with white text against a black background across
   their entire user interface.…
-displayOrder: 7
+displayOrder: 25
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-28T15:46:27Z'
