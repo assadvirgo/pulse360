@@ -3,7 +3,7 @@ category: Showbiz
 description: Director Aoife McArdle (Severance) is lining up Foxfinder, a psychological
   thriller set to star BAFTA and Emmy award-nominee Tessa Thompson (Creed), Golden
   Globe and Emmy winner…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-29T15:18:13Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILERS: This post contains details about The Boys, Season 5 episode
   &#8216;One-Shots&#8217; It&#8217;s a Winchester family reunion on this week&#8217;s
   episode of The Boys, as…'
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-29T16:23:41Z'

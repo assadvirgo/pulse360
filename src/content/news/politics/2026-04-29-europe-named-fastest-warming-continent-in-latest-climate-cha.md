@@ -2,7 +2,7 @@
 category: Politics
 description: From heatwaves to wildfires and shrinking ice cover, Europe is facing
   &#039;severe&#039; impact from climate change, UN body says.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-29T06:33:58Z'

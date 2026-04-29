@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Banking panel votes in favour of Donald Trump’s candidate to lead US
   central bank
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-29T15:49:13Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Uber announced several new features on Wednesday during its annual event,
   which push far beyond the company's original ride-hailing purpose and deeper into
   its users' lives.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-29T15:12:14Z'

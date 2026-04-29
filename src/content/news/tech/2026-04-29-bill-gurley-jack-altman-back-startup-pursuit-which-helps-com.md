@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On Wednesday, Pursuit announced a $22 million seed round led by Mike
   Rosengarten, the co-founder of OpenGov with out big-name VCs participating.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 53.0
 pubDate: '2026-04-29T16:20:02Z'

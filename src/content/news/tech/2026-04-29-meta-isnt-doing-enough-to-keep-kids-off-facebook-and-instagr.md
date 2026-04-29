@@ -3,7 +3,7 @@ category: Tech
 description: Meta is breaching Europe's Digital Services Act (DSA) rules by failing
   to prevent children under 13 from using Facebook and Instagram, according to a preliminary
   decision issued…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-04-29T10:46:24Z'

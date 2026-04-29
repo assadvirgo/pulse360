@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: FAO, WFP and Lebanon gov&#039;t say 1.24 million people &#039;expected
   to face food insecurity&#039; at crisis levels or worse.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-29T15:33:32Z'

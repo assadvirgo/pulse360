@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK’s stagnant economy and the US’s dynamic one are both politically
   dysfunctional
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-29T11:41:32Z'

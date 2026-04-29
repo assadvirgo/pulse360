@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The designate chair has signalled a willingness to take the central bank’s
   balance sheet into account when setting monetary policy
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-29T14:48:33Z'

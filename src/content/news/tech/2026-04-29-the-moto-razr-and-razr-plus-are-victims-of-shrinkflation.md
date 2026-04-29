@@ -5,7 +5,7 @@ countryCode: US
 description: The memory crisis claims another couple of victims. Motorola's midtier
   and entry-level flip phones cost $100 more than their predecessors, and have few
   upgrades to show for it.…
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-29T16:00:00Z'

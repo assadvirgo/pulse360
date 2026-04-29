@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The case over OpenAI's history and public commitments could have major
   implications for the future of AI.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-29T10:12:46Z'
