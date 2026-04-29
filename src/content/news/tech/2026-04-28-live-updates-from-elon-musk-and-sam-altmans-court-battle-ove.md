@@ -5,7 +5,7 @@ countryCode: US
 description: Sam Altman and Elon Musk are set to face off in a high-stakes trial that
   could alter the future of tech’s leading AI startup, OpenAI. In 2024, Musk filed
   a lawsuit accusing OpenAI…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-28T19:27:50Z'

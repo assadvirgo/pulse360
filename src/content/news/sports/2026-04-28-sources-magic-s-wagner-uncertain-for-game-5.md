@@ -5,7 +5,7 @@ countryCode: US
 description: Magic forward Franz Wagner's status for Game 5 is uncertain due to a
   right calf strain, and his return will depend on how the injury responds to treatment,
   sources told ESPN.
-displayOrder: 6
+displayOrder: 13
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-28T20:23:40Z'

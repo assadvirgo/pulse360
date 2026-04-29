@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Israel's foreign minister says it has received no evidence to support
   the claim that a vessel carrying grain from occupied Ukraine has reached Haifa.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-28T13:51:51Z'

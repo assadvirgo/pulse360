@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: The United ‌Arab Emirates has announced it’s withdrawing from OPEC and
   OPEC+.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-28T16:19:30Z'

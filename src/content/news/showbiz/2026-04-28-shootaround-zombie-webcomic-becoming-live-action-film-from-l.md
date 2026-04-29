@@ -5,7 +5,7 @@ countryCode: US
 description: Lion Forge Entertainment and Webtoon Productions are teaming up to bring
   the zombie horror-comedy &#8220;ShootAround&#8221; to the big screen as a YA live-action
   film. Aiyana K.…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-28T16:00:00Z'

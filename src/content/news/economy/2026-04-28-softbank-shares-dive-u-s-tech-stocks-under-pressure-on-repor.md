@@ -5,7 +5,7 @@ countryCode: JP
 description: SoftBank Group shares tumbled in Tokyo trade, suffering its worst single-day
   percentage loss in six months, after a published report that OpenAI missed several
   internal targets in…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-28T09:40:00Z'

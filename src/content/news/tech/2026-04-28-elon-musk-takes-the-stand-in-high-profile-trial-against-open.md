@@ -5,7 +5,7 @@ countryCode: US
 description: Elon Musk officially began his testimony in the trial he has brought
   against OpenAI CEO Sam Altman and company president Greg Brockman. The three were
   on the initial founding team…
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-28T19:00:13Z'

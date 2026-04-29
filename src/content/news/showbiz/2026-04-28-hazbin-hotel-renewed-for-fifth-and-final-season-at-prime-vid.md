@@ -5,7 +5,7 @@ countryCode: US
 description: “Hazbin Hotel” has been renewed for a fifth and final season, Prime Video
   has announced.&#160; From creator Vivienne Medrano, A24 and Fox Entertainment’s
   Bento Box Entertainment,…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 65.8
 pubDate: '2026-04-28T20:10:10Z'
