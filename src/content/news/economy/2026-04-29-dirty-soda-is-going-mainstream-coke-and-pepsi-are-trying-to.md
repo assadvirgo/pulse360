@@ -5,7 +5,7 @@ countryCode: US
 description: Drinks like Dirty Mountain Dew and Coca-Cola Cherry Float are helping
   the two beverage giants prop up sales. Other major brands are jumping in on the
   trend as well.
-displayOrder: 28
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-29T11:30:00Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: Cinetic will handle sales on Cannes-bound documentary Cantona,
   about soccer great turned actor Eric Cantona. The Cannes Special Screening, one
   of only three UK films in…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-29T10:48:08Z'

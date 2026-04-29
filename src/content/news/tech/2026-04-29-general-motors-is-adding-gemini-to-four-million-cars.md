@@ -5,7 +5,7 @@ countryCode: US
 description: General Motors is planning to bring Google's Gemini AI assistant to around
   four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet,
   Buick, and GMC…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-29T09:14:38Z'

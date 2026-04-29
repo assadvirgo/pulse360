@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: Afghan students have described the moment a missile hit their university.
   Officials blame Pakistan for Monday’s attack.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-29T05:10:12Z'

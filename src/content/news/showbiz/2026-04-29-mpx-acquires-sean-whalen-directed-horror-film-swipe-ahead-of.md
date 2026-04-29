@@ -5,7 +5,7 @@ countryCode: US
 description: Motion Picture Exchange (MPX) has acquired world sales rights to U.S.
   indie horror film “Swipe,” directed by Sean Whalen and featuring a murderous family
   of sadistic mute women.…
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-29T11:44:00Z'

@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: The Irish government has announced further fuel supports for a number
   of sectors after nationwide protests in recent weeks.
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 62.2
 pubDate: '2026-04-29T12:31:43Z'

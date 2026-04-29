@@ -5,7 +5,7 @@ countryCode: US
 description: 'Careers that are not as vulnerable to AI right now share a few common
   traits: they require physical presence, specialized training, or real-time human
   interaction.'
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-29T12:28:00Z'

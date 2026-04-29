@@ -5,7 +5,7 @@ countryCode: US
 description: There were around 30 attorneys in the DOJ’s Voting Section on the day
   of Donald Trump’s second inauguration. Three months later, all but two were gone.
   Now the election deniers…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-04-29T10:30:00Z'

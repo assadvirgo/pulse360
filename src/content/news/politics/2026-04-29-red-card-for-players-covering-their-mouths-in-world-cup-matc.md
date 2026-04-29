@@ -2,7 +2,7 @@
 category: Politics
 description: New red card rule allows referees to send off players who cover their
   mouths or walk off the pitch in protest against a decision.
-displayOrder: 3
+displayOrder: 20
 heroImage: ''
 importance: 68.5
 pubDate: '2026-04-29T08:23:31Z'

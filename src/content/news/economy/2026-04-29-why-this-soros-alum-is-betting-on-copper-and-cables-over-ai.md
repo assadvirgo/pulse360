@@ -2,7 +2,7 @@
 category: Economy
 description: Renaud Saleur is looking past politics to bank on megatrends like electrification,
   natural resources and AI bricks and mortars.
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-29T11:31:00Z'

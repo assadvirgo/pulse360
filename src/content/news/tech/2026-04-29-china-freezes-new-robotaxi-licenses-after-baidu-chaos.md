@@ -5,7 +5,7 @@ countryCode: CN
 description: China has suspended new licenses for autonomous vehicles, Bloomberg reports,
   citing unnamed people familiar with the matter. The move comes after dozens of robotaxis
   operated by…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-29T10:39:21Z'

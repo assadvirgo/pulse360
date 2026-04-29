@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: It is unclear whether football officials from Iran were issued Canadian
   visas to attend AFC and FIFA congresses.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-29T11:24:33Z'
