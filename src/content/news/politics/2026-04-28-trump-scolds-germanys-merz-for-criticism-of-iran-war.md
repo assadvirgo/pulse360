@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says German chancellor &#039;doesn&#039;t know what he&#039;s
   talking about&#039;, defends war on Iran as necessary.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-04-28T19:59:29Z'

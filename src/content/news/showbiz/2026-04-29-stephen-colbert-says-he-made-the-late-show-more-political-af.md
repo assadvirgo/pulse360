@@ -5,7 +5,7 @@ countryCode: US
 description: Stephen Colbert recently told The New York Times that, after an uneven
   first couple of months of “The Late Show,” his producer encouraged him to lean back
   into his political…
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-29T02:45:21Z'

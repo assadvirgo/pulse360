@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Video captured massive explosions in southern Lebanon in what the Israeli
   military called strikes on a Hezbollah tunnel.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-28T19:34:04Z'

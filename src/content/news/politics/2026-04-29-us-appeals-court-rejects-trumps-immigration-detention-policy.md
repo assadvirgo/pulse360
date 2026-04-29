@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In a 3-0 ruling, court says Trump administration misread a decades-old
   immigration law to justify mandatory detention.
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 51.5
 pubDate: '2026-04-29T01:58:47Z'

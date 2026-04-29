@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount anticipates its merger with Warner Bros. Discovery will close
   in September – but members of the entertainment community, including leaders in
   the documentary field, are…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-04-29T00:25:48Z'

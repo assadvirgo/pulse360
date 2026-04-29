@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The new case stems from a 2025 seashell photo posted by the former FBI
   director that the justice department says calls for violence against Trump.
-displayOrder: 18
+displayOrder: 24
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-29T00:24:05Z'

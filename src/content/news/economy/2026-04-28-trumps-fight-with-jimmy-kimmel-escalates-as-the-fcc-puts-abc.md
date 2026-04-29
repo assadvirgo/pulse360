@@ -5,7 +5,7 @@ countryCode: US
 description: The FCC says the review is looking at whether the network’s diversity
   initiatives are discriminatory but it comes just a day after Trump called for Kimmel
   to be fired
-displayOrder: 37
+displayOrder: 40
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-28T20:23:00Z'

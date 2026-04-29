@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: JNIM has announced the beginning of a “total siege” on Mali’s capital
   Bamako.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-28T21:08:01Z'

@@ -3,7 +3,7 @@ category: Politics
 description: Players who cover their mouths in confrontations with opponents to conceal
   discriminatory conduct face being sent off at the World Cup - after football's rule-makers
   voted through…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-28T20:23:00Z'

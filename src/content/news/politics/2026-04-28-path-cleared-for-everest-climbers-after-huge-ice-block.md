@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: Experts warn there are still risks of further ice collapses, and there
   are fears climbers will again have to queue to reach the summit.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-04-28T16:59:47Z'
