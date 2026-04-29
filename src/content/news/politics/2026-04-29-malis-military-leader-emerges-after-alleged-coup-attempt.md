@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Mali’s military leader says the country is ‘under control’ after what’s
   been described as an attempted coup.
-displayOrder: 12
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-04-29T02:51:58Z'

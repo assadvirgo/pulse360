@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Seven goals have dominated Tuesday's UEFA Champions League semifinal
   first-leg match between Paris Saint-Germain and Bayern Munich.
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-28T20:23:44Z'

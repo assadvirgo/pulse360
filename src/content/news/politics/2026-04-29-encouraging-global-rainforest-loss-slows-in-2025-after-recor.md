@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: The researchers credit the slowdown to policies implemented by Brazil&#039;s
   President Lula da Silva to curb deforestation.
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 64.5
 pubDate: '2026-04-29T07:48:31Z'

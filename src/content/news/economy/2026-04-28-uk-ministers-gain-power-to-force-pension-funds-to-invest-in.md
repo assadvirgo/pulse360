@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The government outlines safeguards to resolve a stand-off with peers
   over legislation containing the measure
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-28T22:29:12Z'

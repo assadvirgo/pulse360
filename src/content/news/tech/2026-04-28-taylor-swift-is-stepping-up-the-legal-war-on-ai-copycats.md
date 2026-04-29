@@ -5,7 +5,7 @@ countryCode: US
 description: Taylor Swift has been at the center of AI imitation controversies for
   years, and now, she's become the latest celebrity who's escalating attempts to protect
   herself from AI…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-04-28T20:30:00Z'

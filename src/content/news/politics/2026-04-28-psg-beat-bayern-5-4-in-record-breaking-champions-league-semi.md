@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Title holders Paris Saint-Germain squander a three-goal lead but hold
   on to beat Bayern Munich 5-4 in Paris.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 65.5
 pubDate: '2026-04-28T21:27:20Z'

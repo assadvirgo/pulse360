@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: There were some lines in the speech that may have buoyed Democrats –
   and raised eyebrows in the White House.
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-29T06:23:28Z'

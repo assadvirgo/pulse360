@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Under law, Trump needs Congressional approval to continue war, experts
   say, but Congress may avoid the issue altogether.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 66.5
 pubDate: '2026-04-28T19:40:52Z'

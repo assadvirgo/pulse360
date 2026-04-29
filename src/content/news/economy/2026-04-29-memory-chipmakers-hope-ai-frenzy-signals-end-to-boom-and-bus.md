@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: SK Hynix and Samsung say customers now want long-term contracts to guarantee
   supplies amid acute shortages
-displayOrder: 35
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-29T04:00:15Z'

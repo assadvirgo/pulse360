@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Founder of Citadel says some investors may not have realised they cannot
   quickly withdraw all their money from funds
-displayOrder: 34
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-29T04:00:27Z'

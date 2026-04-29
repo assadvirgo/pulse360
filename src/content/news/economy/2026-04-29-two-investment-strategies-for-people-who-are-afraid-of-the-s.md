@@ -2,7 +2,7 @@
 category: Economy
 description: ETFs with protection features can help risk-averse investors increase
   returns while weathering market storms.
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-29T02:37:00Z'
