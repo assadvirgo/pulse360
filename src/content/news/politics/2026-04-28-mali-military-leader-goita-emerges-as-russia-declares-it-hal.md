@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: First sighting of Goita since rebel attacks comes as Russia seeks to
   dampen speculation over ally&#039;s military government.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-28T18:48:24Z'

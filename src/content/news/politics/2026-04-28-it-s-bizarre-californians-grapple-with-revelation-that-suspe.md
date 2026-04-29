@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: People living near the man charged with the attempted assassination of
   Trump say they were shocked to see their neighbour on TV.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-28T18:19:13Z'

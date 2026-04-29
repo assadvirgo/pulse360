@@ -5,7 +5,7 @@ countryCode: US
 description: Jane Fonda, the actor and activist who is the founder of the modern Committee
   for the First Amendment, strongly criticized the FCC&#8217;s order requiring Disney&#8217;s
   ABC-owned…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-28T23:24:25Z'

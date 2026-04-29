@@ -5,7 +5,7 @@ countryCode: US
 description: The judge also warned Musk and Sam Altman to curb their “propensity to
   use social media to make things worse outside the courtroom” after both sides traded
   attacks online.
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 66.2
 pubDate: '2026-04-28T21:35:17Z'

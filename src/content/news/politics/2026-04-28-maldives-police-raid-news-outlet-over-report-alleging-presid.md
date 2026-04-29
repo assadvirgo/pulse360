@@ -4,7 +4,7 @@ country: Maldives
 countryCode: MV
 description: Police seize Adhadhu&#039;s computers over documentary alleging an affair
   between President Mohamed Muizzu and a former aide.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-28T15:17:52Z'

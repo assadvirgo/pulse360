@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jones is concerned about excess leverage in the system, about the S&amp;P
   valuations and a deluge of equity supply but he does sense an opportunity in Japan
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-28T12:08:00Z'

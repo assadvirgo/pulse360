@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Prediction markets have been a haven for Robinhood traders seeking to
   ride out volatility.
-displayOrder: 38
+displayOrder: 41
 heroImage: ''
 importance: 40.5
 pubDate: '2026-04-29T00:20:00Z'

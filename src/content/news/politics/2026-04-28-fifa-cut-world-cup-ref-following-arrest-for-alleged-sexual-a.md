@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: FIFA &#039;aware of serious allegation&#039; following UK arrest of match
   official who will now not be listed for World Cup.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-28T15:32:21Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Charlotte Edwards has largely stuck with core group, who have one last
   chance to perform on world stage
-displayOrder: 31
+displayOrder: 44
 heroImage: ''
 importance: 52.5
 pubDate: '2026-04-28T18:59:33Z'

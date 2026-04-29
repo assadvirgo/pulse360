@@ -3,7 +3,7 @@ category: Politics
 country: Greece
 countryCode: GR
 description: The gunman&#039;s motive remains unclear.
-displayOrder: 26
+displayOrder: 36
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-28T19:07:01Z'

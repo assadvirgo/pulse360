@@ -5,7 +5,7 @@ countryCode: US
 description: The WGA West is throwing down the hammer, or at least attempting to,
   with its staff union. After 71 days on strike, WGSU members were notified that they
   have received their final…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 55.0
 pubDate: '2026-04-28T22:54:00Z'

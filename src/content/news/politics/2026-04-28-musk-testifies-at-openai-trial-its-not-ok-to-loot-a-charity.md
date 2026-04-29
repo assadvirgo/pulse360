@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In his lawsuit, Musk said OpenAI cofounder and president betrayed him
   and public by turning into profit-seeking firm.
-displayOrder: 4
+displayOrder: 7
 heroImage: ''
 importance: 67.5
 pubDate: '2026-04-28T22:35:20Z'
