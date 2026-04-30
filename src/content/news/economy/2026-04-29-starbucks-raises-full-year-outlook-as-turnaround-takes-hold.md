@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starbucks' global same-store sales, which only includes cafes open at
   least a year, increased 6.2%, fueled by more visits to its locations.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-29T14:14:17Z'

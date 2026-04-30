@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Plaintiffs accuse OpenAI of not alerting authorities to signs of a threat,
   leading to a school shooting in February.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-29T17:33:51Z'

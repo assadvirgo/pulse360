@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: The mountain bongo is a rare antelope endemic to Kenyan highland forests,
   with less than 100 in the wild.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-29T09:37:23Z'

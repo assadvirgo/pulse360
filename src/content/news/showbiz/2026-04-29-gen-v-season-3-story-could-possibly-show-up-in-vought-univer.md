@@ -5,7 +5,7 @@ countryCode: US
 description: Gen V might have been canceled after two seasons on Prime Video, but
   a scrapped Season 3 storyline could possibly show up in the Vought Universe sometime
   in the future. The Boys…
-displayOrder: 3
+displayOrder: 18
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-29T19:33:20Z'

@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: All-rounder Sophie Devine and fast bowler Lea Tahuhu join Suzie Bates
   in confirming their retirement after this summer's T20 World Cup.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-29T09:08:59Z'

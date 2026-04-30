@@ -5,7 +5,7 @@ countryCode: US
 description: Even as Meta continues make money hand over fist, the tech giant is set
   to make a large round of layoffs to optimize operations &#8212; and as it continues
   to plow billions into…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 59.8
 pubDate: '2026-04-29T20:15:27Z'

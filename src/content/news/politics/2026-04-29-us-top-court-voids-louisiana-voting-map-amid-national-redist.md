@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ruling seen as major blow to US Voting Rights Act, with critics saying
   it could dilute minority voting power.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-29T17:45:00Z'

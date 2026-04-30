@@ -3,7 +3,7 @@ category: Politics
 country: South Africa
 countryCode: ZA
 description: Bellarmine Mugabe was also fined $36,000.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-29T18:38:54Z'

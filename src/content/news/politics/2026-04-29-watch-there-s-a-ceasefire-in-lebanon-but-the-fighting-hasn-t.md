@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel and Hezbollah are still fighting in Lebanon despite a US-brokered
   ceasefire that began 12 days ago.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-29T14:41:26Z'

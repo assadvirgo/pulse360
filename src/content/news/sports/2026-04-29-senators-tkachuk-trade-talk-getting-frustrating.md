@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Senators captain Brady Tkachuk said Wednesday that the constant trade
   rumors became "a distraction" and that he's "been fully committed to this team."
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-29T21:01:31Z'

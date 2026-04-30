@@ -5,7 +5,7 @@ countryCode: DE
 description: BMW i Ventures is interested in startups working on agentic AI and physical
   AI, as well as industrial software, advanced materials, and manufacturing and supply
   chain technologies.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-29T13:10:00Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence
   and abetting a mass shooting by failing to flag the suspect's ChatGPT activity.
-displayOrder: 8
+displayOrder: 26
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-29T19:51:55Z'

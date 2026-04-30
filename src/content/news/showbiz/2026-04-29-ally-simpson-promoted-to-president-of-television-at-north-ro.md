@@ -5,7 +5,7 @@ countryCode: US
 description: Ally Simpson has been promoted to president of television at Kinetic
   Content, the company announced Wednesday. In her new role, Simpson will oversee
   all unscripted series produced…
-displayOrder: 7
+displayOrder: 25
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-29T19:00:00Z'
