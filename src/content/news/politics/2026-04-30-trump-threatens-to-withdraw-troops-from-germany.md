@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump has threatened to remove US troops from Germany after the
   country's chancellor said America was being "humiliated" by Iran
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-30T02:38:00Z'

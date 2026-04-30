@@ -5,7 +5,7 @@ countryCode: US
 description: Goldman Sachs’ traders say investors have been chasing the hot semiconductor
   sector, but with some high-stakes bets that may be hard to get out of should things
   go wrong.
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 40.5
 pubDate: '2026-04-30T12:16:00Z'

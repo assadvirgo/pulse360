@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The primary factors behind the strength of the Korean market is the boom
   in the market for high-end memory chips used by AI developers
-displayOrder: 32
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-30T12:28:00Z'

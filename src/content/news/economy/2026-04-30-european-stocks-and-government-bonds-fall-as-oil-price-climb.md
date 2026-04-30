@@ -2,7 +2,7 @@
 category: Economy
 description: Energy shock intensifies fears that global economy faces prolonged period
   of higher inflation
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-30T07:10:36Z'

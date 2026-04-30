@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: BBC reports from Kenya, home to Sabastian Sawe, the first man to run
   a marathon in under two hours.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-30T02:03:17Z'

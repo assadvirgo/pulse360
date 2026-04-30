@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally
   intercepted in international waters near the Greek island.
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 49.2
 pubDate: '2026-04-30T09:07:47Z'

@@ -5,7 +5,7 @@ countryCode: CN
 description: Chinese auteur Bi Gan has completed the story of his fourth feature film,
   which will “focus on human existence itself,” following “Resurrection,” the Cannes
   prize winner that drew…
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-30T11:33:25Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Esteban Andrada banned for 13 matches and teammate Dani Tasende for two
   after pitch melee in La Liga 2.
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-30T08:10:20Z'

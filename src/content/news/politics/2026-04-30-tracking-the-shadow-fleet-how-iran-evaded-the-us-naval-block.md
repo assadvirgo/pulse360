@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran&#039;s shadow fleet uses fake flags and dark ships to evade the
   US naval blockade in the Strait of Hormuz.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-30T11:54:29Z'

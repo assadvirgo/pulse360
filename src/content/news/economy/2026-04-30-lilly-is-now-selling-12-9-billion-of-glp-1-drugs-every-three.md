@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Eli Lilly said its tirzepatide franchise had another stellar quarter.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-04-30T11:25:00Z'
