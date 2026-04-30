@@ -5,7 +5,7 @@ countryCode: US
 description: Brendan Carr, the Trump-appointed chairman of the FCC, has not directly
   weighed in on the backlash over the agency&#8217;s order to force Disney&#8217;s
   ABC to reapply for…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-30T16:01:18Z'

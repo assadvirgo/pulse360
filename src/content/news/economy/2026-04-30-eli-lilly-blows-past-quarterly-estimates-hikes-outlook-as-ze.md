@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lilly hiked its full-year sales outlook by $2 billion, and also raised
   its adjusted profit guidance.
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-04-30T12:01:35Z'

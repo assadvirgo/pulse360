@@ -5,7 +5,7 @@ countryCode: US
 description: Amid uncertainty about the Saudi-backed tour's future, multiple representatives
   for LIV Golf players have started to reach out to the PGA Tour to explore what a
   path back would…
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T13:02:51Z'

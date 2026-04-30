@@ -5,7 +5,7 @@ countryCode: US
 description: And then there was one. ABC has renewed its remaining comedy series,
   Scrubs and Shifting Gears, for the 2026-27 season. For the Scrubs revival, this
   counts officially as a second…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-04-30T16:30:08Z'

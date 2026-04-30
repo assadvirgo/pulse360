@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Asking ChatGPT how to divide your fortune or design a prenup can be used
   against you in court, lawyers say.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T12:37:13Z'

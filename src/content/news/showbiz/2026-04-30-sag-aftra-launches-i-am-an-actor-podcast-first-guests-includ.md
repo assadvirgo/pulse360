@@ -5,7 +5,7 @@ countryCode: US
 description: At the beginning of every Actor Awards (the kudocast formerly known as
   the SAG Awards), actors give a speech from their chairs in the room, sharing their
   origin stories.…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-30T15:30:00Z'

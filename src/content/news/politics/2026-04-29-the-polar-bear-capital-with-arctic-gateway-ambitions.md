@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Canada is weighing whether a year-round northern trade route to Europe
   from Churchill, Manitoba, is viable, as climate change speeds Arctic warming.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-29T23:35:30Z'

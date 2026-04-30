@@ -5,7 +5,7 @@ countryCode: US
 description: The Lucas Museum of Narrative Art, co-founded by George Lucas and his
   wife Mellody Hobson and set to open Sept. 22 in Los Angeles, has announced its inaugural
   exhibitions. With…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-04-30T16:00:00Z'

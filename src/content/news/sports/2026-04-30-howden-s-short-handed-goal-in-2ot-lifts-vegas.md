@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brett Howden's goal late Wednesday night against the Mammoth put the
   Golden Knights one victory away from winning the first-round series.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T13:02:51Z'

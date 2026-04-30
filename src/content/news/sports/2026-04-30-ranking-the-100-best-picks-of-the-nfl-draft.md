@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Matt Miller picked out his 100 favorite selections, factoring in value,
   fit and trades. Which pick is No. 1? Which teams dominated the list?
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T13:02:51Z'

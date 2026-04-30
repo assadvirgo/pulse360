@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England midfielder Kobbie Mainoo was heavily linked with a move away
   after losing place at Man Utd under Ruben Amorim.
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T11:42:41Z'
