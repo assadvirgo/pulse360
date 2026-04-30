@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Private capital firm hires bankers to sell Flora Food Group after ditching
   targets to make its portfolio plant based
-displayOrder: 30
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-30T04:00:17Z'

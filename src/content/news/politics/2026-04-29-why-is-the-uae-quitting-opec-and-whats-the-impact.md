@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: The decision by the United Arab Emirates comes during the worst global
   energy crisis of modern times.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-29T20:51:25Z'

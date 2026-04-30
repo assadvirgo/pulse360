@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hundreds of Ultra-Orthodox Jews blocked a main road, as part of protests
   against Israel’s mandatory military service.
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 61.5
 pubDate: '2026-04-30T01:16:18Z'

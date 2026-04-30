@@ -5,7 +5,7 @@ countryCode: US
 description: Google Photos is launching a new AI-powered feature you can use to virtually
   try on clothes you already have. Using the photos in your gallery, Google will create
   a virtual…
-displayOrder: 40
+displayOrder: 50
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-29T16:00:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Organisers of a Gaza-bound aid mission say their vessels are being intercepted
   by Israeli military speedboats.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-29T21:59:08Z'

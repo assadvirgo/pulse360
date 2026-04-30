@@ -5,7 +5,7 @@ countryCode: IE
 description: The Irish Rugby Football Union's head of women's strategy Lynne Cantwell
   says the upcoming WXV Global Series is like having "a mini-World Cup every year,
   but on home soil".
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-29T17:19:45Z'

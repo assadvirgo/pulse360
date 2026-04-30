@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After a weeklong silence following Lululemon’s new CEO pick, Chip Wilson,
   the struggling yoga-wear’s founder-turned-most vocal critic, weighed in on Wednesday.
-displayOrder: 31
+displayOrder: 43
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-29T22:11:00Z'

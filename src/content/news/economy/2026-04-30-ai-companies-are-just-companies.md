@@ -2,7 +2,7 @@
 category: Economy
 description: As we leap into a new technological age, the old rules of capitalism
   still apply
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-30T04:00:17Z'

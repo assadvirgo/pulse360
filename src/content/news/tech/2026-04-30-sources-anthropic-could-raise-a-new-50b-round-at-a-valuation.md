@@ -5,7 +5,7 @@ countryCode: US
 description: The maker of Claude has received multiple pre-emptive offers at valuations
   in the $850 billion to $900 billion range, according to sources familiar with the
   matter.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-30T00:07:15Z'

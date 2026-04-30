@@ -5,7 +5,7 @@ countryCode: US
 description: Nintendo recently announced a new pricing policy, which knocks $10 off
   the cost of digital versions of future first-party titles exclusive to the Nintendo
   Switch 2. Splatoon…
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-29T21:19:39Z'

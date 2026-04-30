@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Prosecutors argue Cole Tomas Allen should remain in custody until trial
   on a charge of attempted assassination of President Donald Trump.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-29T16:06:00Z'

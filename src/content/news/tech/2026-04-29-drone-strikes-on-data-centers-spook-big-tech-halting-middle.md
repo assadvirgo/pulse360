@@ -2,7 +2,7 @@
 category: Tech
 description: Uninsurable war damage is forcing tech companies to rethink Middle East
   plans.
-displayOrder: 33
+displayOrder: 46
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-29T17:27:53Z'
