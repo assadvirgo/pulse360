@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A severe storm outbreak has been battering parts of the Midwest and Southern
   United States for nearly a week.
-displayOrder: 10
+displayOrder: 31
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-30T00:56:23Z'

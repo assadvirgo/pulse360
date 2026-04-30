@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon is considering a potential reboot of the Donald Trump-hosted reality
   competition show “The Apprentice&#8221; for its Prime Video streamer, according
   to a report late…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-04-30T02:06:35Z'

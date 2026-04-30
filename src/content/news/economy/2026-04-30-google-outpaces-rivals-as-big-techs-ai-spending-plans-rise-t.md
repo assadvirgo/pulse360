@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta stock drops on capex increase while Alphabet’s cloud business grows
   faster than rivals Amazon and Microsoft
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-30T07:41:56Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Corporate profit margins and P/E multiples — not GDP forecasts — are
   the real tools to surviving a bear market.
-displayOrder: 26
+displayOrder: 48
 heroImage: ''
 importance: 56.5
 pubDate: '2026-04-30T00:15:00Z'

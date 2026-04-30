@@ -3,7 +3,7 @@ category: Showbiz
 description: '&#8220;MasterChef Asia&#8221; is coming back. Banijay Rights has closed
   a deal with Warner Bros. Discovery and CreAsia Studio – part of Endemol Shine India
   – to produce a new…'
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-30T08:32:28Z'

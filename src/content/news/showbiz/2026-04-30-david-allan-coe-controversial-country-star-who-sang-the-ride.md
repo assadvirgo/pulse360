@@ -5,7 +5,7 @@ countryCode: US
 description: David Allan Coe, the controversial outlaw country star best known for
   songs like “The Ride,” “Mona Lisa Lost Her Smile” and “You Never Even Called Me
   By My Name,” has died,…
-displayOrder: 11
+displayOrder: 30
 heroImage: ''
 importance: 54.8
 pubDate: '2026-04-30T04:03:57Z'

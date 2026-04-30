@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: An inquiry into the Bondi Beach shooting has called for increased security
   at Jewish public events and further gun reforms in Australia.
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-30T04:30:00Z'

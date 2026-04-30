@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I earn an annual salary of $116,000. My wife’s annual income is about
   $55,000.”
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-30T08:41:00Z'

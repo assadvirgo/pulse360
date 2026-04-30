@@ -5,7 +5,7 @@ countryCode: IN
 description: Ryan Rickelton became the fifth batter in IPL 2026 to finish on the losing
   side despite scoring a century, against Sunrisers Hyderabad at Wankhede Stadium
   on Wednesday
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-30T06:35:04Z'

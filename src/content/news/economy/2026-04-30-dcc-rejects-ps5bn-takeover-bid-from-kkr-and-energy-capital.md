@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: FTSE 100 energy group says bid ‘fundamentally undervalues’ its business
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 42.5
 pubDate: '2026-04-30T07:47:48Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: John Higgins defeats Neil Robertson 13-10 to set up a World Snooker Championship
   semi-final with Shaun Murphy.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-29T22:49:00Z'

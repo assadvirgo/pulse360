@@ -2,7 +2,7 @@
 category: Economy
 description: Researchers have been trawling history to measure the pacifying effects
   of moving goods around
-displayOrder: 19
+displayOrder: 41
 heroImage: ''
 importance: 49.5
 pubDate: '2026-04-30T04:00:17Z'

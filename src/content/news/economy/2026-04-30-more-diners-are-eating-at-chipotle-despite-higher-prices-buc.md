@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of Chipotle jumped 6.2% after hours on Wednesday, after the company
   managed to eke out a surprise same-store sales gain for the first quarter.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-30T02:24:00Z'

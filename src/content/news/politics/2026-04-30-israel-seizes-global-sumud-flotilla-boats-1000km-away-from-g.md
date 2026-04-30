@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces have intercepted around a dozen Gaza-bound aid boats from
   the Global Sumud Flotilla.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T02:10:26Z'

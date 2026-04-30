@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Mohammad Bagher Ghalibaf ridicules US&#039;s economic pressure campaign
   as oil prices surge and Hormuz standoff continues.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T00:00:20Z'

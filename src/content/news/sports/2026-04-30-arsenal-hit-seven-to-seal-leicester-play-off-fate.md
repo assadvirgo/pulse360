@@ -5,7 +5,7 @@ countryCode: GB
 description: Arsenal close the gap on leaders Manchester City to eight points with
   two games in hand, after a 7-0 win over Leicester City - who will finish bottom
   of the Women's Super League.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-04-30T00:03:05Z'

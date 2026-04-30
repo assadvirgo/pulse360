@@ -5,7 +5,7 @@ countryCode: KR
 description: 'The bingo card asks you to pick a side: McDonald&#8217;s fries or pineapple
   pizza? The answer, apparently, says something about who you are. It&#8217;s the
   kind of playful,…'
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-30T06:41:22Z'
