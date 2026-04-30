@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Weak investor demand hits hedge fund chief’s scaled-back double offering
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-29T21:48:05Z'

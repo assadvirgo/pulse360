@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Billionaire says Sam Altman wanted ‘halo effect’ of a non-profit while
   enriching himself in second day of his testimony
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-29T17:57:21Z'

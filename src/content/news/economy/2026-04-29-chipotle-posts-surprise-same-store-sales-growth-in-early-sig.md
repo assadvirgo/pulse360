@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Chipotle shares have plummeted 35% over the last year.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-29T21:40:27Z'

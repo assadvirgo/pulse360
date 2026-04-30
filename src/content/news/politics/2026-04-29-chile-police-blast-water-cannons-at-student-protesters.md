@@ -4,7 +4,7 @@ country: Chile
 countryCode: CL
 description: Chile’s police has cracked down on student protests against the govt&#039;s
   proposals to limit free higher education.
-displayOrder: 8
+displayOrder: 16
 heroImage: ''
 importance: 54.5
 pubDate: '2026-04-29T23:57:43Z'

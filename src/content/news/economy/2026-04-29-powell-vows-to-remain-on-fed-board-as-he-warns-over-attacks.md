@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US central bank chief says he will continue as a governor even after
   Kevin Warsh succeeds him as chair
-displayOrder: 32
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-29T22:28:18Z'

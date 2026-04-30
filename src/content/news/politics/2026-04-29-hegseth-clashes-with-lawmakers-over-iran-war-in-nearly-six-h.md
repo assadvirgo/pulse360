@@ -5,7 +5,7 @@ countryCode: US
 description: US Defence Secretary Pete Hegseth sparred with Democratic lawmakers during
   a nearly six-hour-long hearing, in his first time facing questions under oath since
   the start of the…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 65.2
 pubDate: '2026-04-29T22:22:18Z'

@@ -3,7 +3,7 @@ category: Economy
 country: Japan
 countryCode: JP
 description: Masayoshi Son plots IPO for business named Roze as soon as this year
-displayOrder: 39
+displayOrder: 46
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-29T23:28:07Z'

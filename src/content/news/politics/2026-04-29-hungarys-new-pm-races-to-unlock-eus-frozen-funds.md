@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Hungary&#039;s incoming PM Peter Magyar has travelled to Brussels, hoping
   to unfreeze billions of euros.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-29T16:25:36Z'

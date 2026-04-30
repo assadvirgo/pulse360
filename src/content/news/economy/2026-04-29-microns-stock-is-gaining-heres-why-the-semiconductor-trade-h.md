@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Strong results from Seagate and NXP are boosting semiconductor-sector
   sentiment.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-04-29T15:48:00Z'

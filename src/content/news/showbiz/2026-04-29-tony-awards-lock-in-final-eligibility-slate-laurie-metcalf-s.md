@@ -5,7 +5,7 @@ countryCode: US
 description: The Tony Awards Administration Committee has put a bow on its final eligibility
   deliberations for the 2025-2026 Broadway season. In its fourth and final meeting
   before nominations…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-04-29T18:51:55Z'

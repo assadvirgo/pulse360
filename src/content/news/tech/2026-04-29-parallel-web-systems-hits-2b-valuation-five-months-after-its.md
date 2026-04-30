@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AI agent-tool startup founded by former Twitter CEO Parag Agrawal
   has raised $100 million, led by Sequoia, months after raising a previous $100 million.
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-29T18:33:05Z'

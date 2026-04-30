@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK watchdog warns against overreach in targeting activist groups under
   &#039;counterterrorism&#039; laws.
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 73.5
 pubDate: '2026-04-29T18:51:01Z'

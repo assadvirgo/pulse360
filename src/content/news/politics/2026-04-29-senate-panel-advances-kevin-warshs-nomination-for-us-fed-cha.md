@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Senate panel approves Trump’s nominee Kevin Warsh to replace Jerome Powell
   as US Fed chair on party-line vote.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-29T15:55:01Z'

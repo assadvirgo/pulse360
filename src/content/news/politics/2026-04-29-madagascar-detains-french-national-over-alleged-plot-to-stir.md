@@ -4,7 +4,7 @@ country: Madagascar
 countryCode: MG
 description: Malagasy prosecuters used a Whatsapp group as evidence for the detained
   individuals alleged crimes.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-29T17:03:16Z'

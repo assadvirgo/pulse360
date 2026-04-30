@@ -2,7 +2,7 @@
 category: Politics
 description: The decades-old football book craze will comprise 980 unique stickers,
   including 68 &#039;special&#039; ones in a 112-page ​album.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-29T17:21:46Z'
