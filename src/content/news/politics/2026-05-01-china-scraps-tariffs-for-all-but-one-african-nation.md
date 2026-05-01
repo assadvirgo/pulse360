@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The zero-tariff regime gives China's soft power a boost, but may lead
   to uneven gains, say analysts.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-01T00:02:57Z'

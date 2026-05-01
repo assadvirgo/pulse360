@@ -5,7 +5,7 @@ countryCode: US
 description: As SpaceX, Anthropic and OpenAI reportedly gear up for IPOs, S&amp;P
   Dow Jones Indices is considering whether to allow ‘fast-track’ entry and relax profitability
   requirements.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-04-30T22:22:00Z'

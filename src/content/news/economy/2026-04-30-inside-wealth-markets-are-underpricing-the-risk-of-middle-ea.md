@@ -2,7 +2,7 @@
 category: Economy
 description: Middle East investors account for roughly a quarter of global AI investments
   over the next 5 years, said Jack Selby, managing director of Thiel Capital.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-04-30T21:06:01Z'

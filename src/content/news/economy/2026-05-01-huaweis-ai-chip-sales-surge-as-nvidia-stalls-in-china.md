@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese tech companies place large orders for the Shenzhen-based group’s
   latest range of AI processors
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-01T00:15:03Z'

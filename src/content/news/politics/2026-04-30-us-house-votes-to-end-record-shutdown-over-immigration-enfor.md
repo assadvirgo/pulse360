@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The vote provides funding for most Department of Homeland Security agencies,
   except for two subagencies responsible for immigration enforcement.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-30T20:53:36Z'

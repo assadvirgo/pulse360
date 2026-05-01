@@ -2,7 +2,7 @@
 category: Tech
 description: Get 20% off your next website, 10% off with exclusive Squarespace discount
   code, 50% off plans, and more top coupons from WIRED.
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-01T05:00:00Z'

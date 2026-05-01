@@ -3,7 +3,7 @@ category: Showbiz
 description: Tracy Morgan and Cedric the Entertainer are also featured in the voice
   cast of this 'toon about two creatures who switch identities and are forced to team
   up for survival.
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-01T07:01:00Z'

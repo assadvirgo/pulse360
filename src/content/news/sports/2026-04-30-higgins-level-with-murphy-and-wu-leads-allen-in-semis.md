@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: John Higgins produces a battling display to draw level at 4-4 against
   Shaun Murphy in the opening session of their World Championship semi-final.
-displayOrder: 31
+displayOrder: 46
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-30T21:08:10Z'

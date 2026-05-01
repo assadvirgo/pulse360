@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has provoked international condemnation for its interception of
   Gaza-bound aid boats in international waters.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-01T02:31:12Z'

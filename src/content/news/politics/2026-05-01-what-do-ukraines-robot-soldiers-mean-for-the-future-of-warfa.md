@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Remote-controlled weapons have been used for some time, but AI is now
   on the cusp of making battlefield decisions.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-01T06:29:29Z'
