@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Global Sumud Flotilla denounced the interception as "piracy", while
   Israel's foreign ministry called the flotilla a "PR stunt".
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-01T10:12:57Z'

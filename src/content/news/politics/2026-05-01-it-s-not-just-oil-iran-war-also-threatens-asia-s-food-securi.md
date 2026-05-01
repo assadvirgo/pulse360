@@ -2,7 +2,7 @@
 category: Politics
 description: Planting season is beginning in Asia - but the closure of the Strait
   of Hormuz and Chinese restrictions has hit fertiliser supply.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-01T00:01:30Z'

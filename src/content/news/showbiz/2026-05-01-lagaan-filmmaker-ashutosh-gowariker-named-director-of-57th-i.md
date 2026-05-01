@@ -5,7 +5,7 @@ countryCode: IN
 description: Ashutosh Gowariker, director of &#8220;Lagaan,&#8221; has been appointed
   festival director of the 57th International Film Festival of India by India&#8217;s
   Ministry of…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-01T09:07:16Z'

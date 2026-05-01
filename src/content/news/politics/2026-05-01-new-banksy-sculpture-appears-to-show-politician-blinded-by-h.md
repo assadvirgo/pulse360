@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Banksy has unveiled a new sculpture of a man stepping off a stone base
   with his face obscured by a flag.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-01T04:08:11Z'

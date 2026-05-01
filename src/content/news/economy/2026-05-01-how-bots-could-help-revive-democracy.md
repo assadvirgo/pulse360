@@ -2,7 +2,7 @@
 category: Economy
 description: New AI tools encouraging deliberation could promote consensus and reduce
   polarisation in politics
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-01T04:00:18Z'

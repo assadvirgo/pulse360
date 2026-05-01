@@ -5,7 +5,7 @@ countryCode: GB
 description: Dyson, a company built on engineering high-speed motors, has confirmed
   to The Verge that its newest robot vacuum doesn't use a Dyson motor. The recently
   launched Spot &#38; Scrub…
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-01T11:00:00Z'

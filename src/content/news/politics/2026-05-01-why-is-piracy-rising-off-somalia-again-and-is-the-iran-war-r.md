@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: At least four vessels have been hijacked in the past week or two, raising
   fears of a piracy resurgence.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-01T06:10:45Z'

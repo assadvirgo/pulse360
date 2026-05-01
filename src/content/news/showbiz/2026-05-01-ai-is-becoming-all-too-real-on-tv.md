@@ -2,7 +2,7 @@
 category: Showbiz
 description: A whole lot of shows this season are fretting about the tech. They’re
   only partly right.
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-01T12:00:00Z'

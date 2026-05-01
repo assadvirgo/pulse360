@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: It follows growing tensions over the return of Russia for the first time
   since the full-scale invasion of Ukraine.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-30T23:44:00Z'

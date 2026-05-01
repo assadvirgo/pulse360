@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: David Holmes, Daniel Radcliffe’s Harry Potter stunt double
   and close friend, has turned the story of his tragic accident during stunt tests
   for Deathly Hallows: Part…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-01T08:00:00Z'

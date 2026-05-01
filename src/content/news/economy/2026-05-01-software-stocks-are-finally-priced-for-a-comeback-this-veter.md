@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fundstrat managing partner and head of research Tom Lee says investors
   are underestimating how strong software companies will rise to the AI challenge.
-displayOrder: 3
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-01T11:15:00Z'

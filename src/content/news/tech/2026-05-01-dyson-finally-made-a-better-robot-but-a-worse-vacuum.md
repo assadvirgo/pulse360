@@ -5,7 +5,7 @@ countryCode: GB
 description: I'm deeply conflicted about the Dyson Spot + Scrub Ai robot vacuum and
   mop. It's the company's best robotic floor cleaner to date, with excellent mopping
   performance, good…
-displayOrder: 7
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-01T11:00:00Z'

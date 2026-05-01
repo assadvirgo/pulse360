@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The software company’s stock rose 20% in a boost to the sector that has
   been dragged down over concerns about artificial intelligence.
-displayOrder: 1
+displayOrder: 14
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-01T11:03:00Z'
