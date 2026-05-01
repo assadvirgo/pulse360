@@ -5,7 +5,7 @@ countryCode: US
 description: Republican gubernatorial candidate Steve Hilton on Thursday released
   his five-point plan to revive California&#8217;s sagging film and television industry,
   noting, &#8220;The…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 66.0
 pubDate: '2026-05-01T00:24:39Z'

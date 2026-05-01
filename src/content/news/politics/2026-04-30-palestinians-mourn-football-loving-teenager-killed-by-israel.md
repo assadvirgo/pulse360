@@ -2,7 +2,7 @@
 category: Politics
 description: Mourners in Hebron laid to rest 16-year-old Ibrahim al-Khayatt who was
   shot in the chest by Israeli soldiers.
-displayOrder: 13
+displayOrder: 21
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-30T21:24:23Z'

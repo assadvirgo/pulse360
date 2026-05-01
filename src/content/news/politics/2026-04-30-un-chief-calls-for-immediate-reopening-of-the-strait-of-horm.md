@@ -2,7 +2,7 @@
 category: Politics
 description: UN Secretary-General António Guterres has urged the immediate reopening
   of the Strait of Hormuz.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-30T18:02:37Z'

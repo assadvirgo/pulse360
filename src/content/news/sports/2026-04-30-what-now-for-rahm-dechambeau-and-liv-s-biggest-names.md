@@ -2,7 +2,7 @@
 category: Sports
 description: Star names including Jon Rahm and Bryson DeChambeau face an uncertain
   future on the LIV tour, writes Iain Carter.
-displayOrder: 30
+displayOrder: 39
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-30T18:00:44Z'

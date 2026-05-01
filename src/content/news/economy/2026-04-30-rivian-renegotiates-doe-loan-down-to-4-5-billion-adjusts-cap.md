@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The DOE loan was previously set to support two phases of production for
   a total of 400,000 units annually.
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-30T22:21:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: As Zach Cregger prepares to unleash his take on the Resident Evil franchise,
   he&#8217;s introducing a new character to Raccoon City. The horror writer and director,
   whose Resident…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-04-30T22:37:23Z'

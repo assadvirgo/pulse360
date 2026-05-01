@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: The move comes as part of a larger prisoner pardon tied to a Buddhist
   religious holiday.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T18:25:35Z'

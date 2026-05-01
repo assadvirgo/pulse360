@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: President Ruto gifts him $62,000 and a car after the runner’s aircraft
   receives a water cannon salute in Nairobi.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 71.5
 pubDate: '2026-04-30T12:50:07Z'

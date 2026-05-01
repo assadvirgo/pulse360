@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Americans are on a health and weight-loss kick, and they’re increasingly
   turning to protein to get the most out of what they eat.
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-04-30T20:22:00Z'

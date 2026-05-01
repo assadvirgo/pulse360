@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Munster confirm Roger Randle will no longer join the province as attack
   coach.
-displayOrder: 25
+displayOrder: 36
 heroImage: ''
 importance: 48.2
 pubDate: '2026-04-30T21:47:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The lawsuit looks to block the merger, arguing it will lead to higher
   prices, reduced choice and fewer productions in violation of antitrust laws.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-01T00:14:46Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Oil futures fall Thursday, reversing direction after reaching a four-year
   high on a report that President Donald Trump is considering escalating the war in
   Iran.
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T14:14:00Z'

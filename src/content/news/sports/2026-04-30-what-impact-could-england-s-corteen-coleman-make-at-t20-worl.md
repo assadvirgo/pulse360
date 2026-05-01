@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Uncapped spinner Corteen-Coleman has been named in England Women's T20
   World Cup
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-30T14:45:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Meta says it may be forced to pull Facebook, Instagram, and WhatsApp
   from New Mexico if the attorney general gets his way. The state is demanding a host
   of changes that the…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-04-30T19:05:01Z'
