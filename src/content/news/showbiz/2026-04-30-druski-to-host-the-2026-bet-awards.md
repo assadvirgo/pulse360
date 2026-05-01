@@ -5,7 +5,7 @@ countryCode: US
 description: BET today revealed that comedian and online creator Druski will host
   this year&#8217;s BET Awards. The 2026 installment airs live on Sunday, June 28
   at 8 p.m. ET/PT. With the…
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 80.0
 pubDate: '2026-04-30T16:30:00Z'

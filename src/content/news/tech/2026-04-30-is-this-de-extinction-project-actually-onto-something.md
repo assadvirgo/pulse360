@@ -5,7 +5,7 @@ countryCode: US
 description: Dallas-based genetics and biotech startup Colossal has raised hundreds
   of millions of dollars from venture capitalists, the CIA, and Peter Thiel, among
   others. Its buzzy…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-04-30T12:00:00Z'

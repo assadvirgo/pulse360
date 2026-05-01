@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: The deposed elected leader has been granted two amnesties this month,
   but her remaining sentence remains unclear.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-04-30T08:22:27Z'

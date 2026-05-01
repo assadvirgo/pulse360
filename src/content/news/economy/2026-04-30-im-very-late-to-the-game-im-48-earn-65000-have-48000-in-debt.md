@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I do not have any inheritance from anyone coming my way as I lost most
   of my immediate family when young.”
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-04-30T18:13:00Z'

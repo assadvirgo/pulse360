@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ruling, called &#039;big win&#039; by Trump, will result in redistricting
   in Louisiana, but it will have farther-reaching effects.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-04-30T13:42:03Z'

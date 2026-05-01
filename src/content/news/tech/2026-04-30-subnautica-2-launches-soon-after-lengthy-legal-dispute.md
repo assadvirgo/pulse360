@@ -3,7 +3,7 @@ category: Tech
 description: After some protracted legal drama, Subnautica 2 is finally about to launch.
   The game, which is currently Steam's most-wishlisted title and was caught up in
   a dispute between top…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-04-30T15:15:00Z'

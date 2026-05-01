@@ -3,7 +3,7 @@ category: Showbiz
 description: From raffia and woven textures to canvas carryalls and soft leather staples,
   these 13 on-trend yet timeless accessories are made for spring and summer—and instantly
   elevate any…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-04-30T19:30:47Z'

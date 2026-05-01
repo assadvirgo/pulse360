@@ -5,7 +5,7 @@ countryCode: US
 description: The world&#8217;s top scientists and mathematicians came together with
   Hollywood&#8217;s biggest stars in Los Angeles for the 12th annual Breakthrough
   Prize awards. Often referred…
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 68.8
 pubDate: '2026-04-30T19:13:47Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: There was uncertainty about whether Kennedy would fight or simply try
   an end run.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 64.0
 pubDate: '2026-04-30T16:20:45Z'
