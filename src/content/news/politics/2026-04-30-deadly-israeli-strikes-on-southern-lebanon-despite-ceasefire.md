@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: At least nine people - including two children - were killed, according
   to Lebanon's health ministry.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-04-30T20:14:48Z'

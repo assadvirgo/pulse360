@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The security bug is now fixed, but the patient who found it said it was
   challenging to alert the software company about the issue.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 78.0
 pubDate: '2026-04-30T15:15:41Z'

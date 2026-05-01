@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Price of petrol in US jumps by nearly 30 cents in one week amid Strait
   of Hormuz blockade and Iran diplomatic deadlock.
-displayOrder: 19
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-04-30T21:31:00Z'

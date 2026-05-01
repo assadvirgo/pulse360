@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Subscription billing fintech Skio sold to its competitor Recharge in
   what was a healthy exit, according to its founder and former CEO.
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 71.0
 pubDate: '2026-04-30T23:58:52Z'

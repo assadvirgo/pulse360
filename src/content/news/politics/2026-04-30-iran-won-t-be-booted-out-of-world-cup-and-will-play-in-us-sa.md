@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The head of FIFA has said Iran will still compete at the World Cup and
   play matches in the US because "we have to unite".
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-30T20:25:00Z'

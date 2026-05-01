@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinian journalist Ali al-Samoudi was released from Israeli prison
   with severe weight loss, showing signs of torture
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-04-30T21:13:18Z'

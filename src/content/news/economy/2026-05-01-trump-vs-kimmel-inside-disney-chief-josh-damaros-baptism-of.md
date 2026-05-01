@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Studio’s boss has run into free speech crisis just weeks into his job
-displayOrder: 25
+displayOrder: 28
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-01T04:00:28Z'

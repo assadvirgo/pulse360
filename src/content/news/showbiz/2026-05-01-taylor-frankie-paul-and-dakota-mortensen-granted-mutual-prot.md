@@ -5,7 +5,7 @@ countryCode: US
 description: A Utah judge has granted mutual protective orders to &#8220;The Secret
   Lives of Mormon Wives&#8221; star Taylor Frankie Paul and ex-boyfriend Dakota Mortensen.
   The former couple…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-01T02:26:53Z'

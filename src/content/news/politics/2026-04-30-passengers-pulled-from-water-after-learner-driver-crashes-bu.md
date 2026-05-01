@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Four people have been rescued from the River Seine in Paris after a trainee
   bus driver crashed through a barrier and into the water.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-04-30T20:38:00Z'

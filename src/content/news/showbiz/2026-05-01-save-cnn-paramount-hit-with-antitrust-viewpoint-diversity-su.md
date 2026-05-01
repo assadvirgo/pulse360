@@ -5,7 +5,7 @@ countryCode: US
 description: Some of the most powerful state attorneys general in the nation just
   got eclipsed by five regular citizens in a move to put the brakes on Paramount&#8217;s
   merger with Warner Bros…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-01T01:19:20Z'

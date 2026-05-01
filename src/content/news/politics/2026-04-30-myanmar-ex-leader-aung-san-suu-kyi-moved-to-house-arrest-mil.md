@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: The Nobel Peace Prize laureate has been in detention since she was ousted
   in a military coup in 2021.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-04-30T16:38:58Z'
