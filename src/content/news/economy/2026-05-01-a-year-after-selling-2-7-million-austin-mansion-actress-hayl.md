@@ -5,7 +5,7 @@ countryCode: US
 description: Haylie Duff has split from her fiancé, Matt Rosenberg, 12 years after
   the former couple announced they were engaged—and six years after they relocated
   their family from California…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-01T09:01:00Z'

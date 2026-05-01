@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Levies on cars and trucks exported to US will be imposed ‘next week’
   unless EU companies manufacture at American plants
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-01T16:05:16Z'

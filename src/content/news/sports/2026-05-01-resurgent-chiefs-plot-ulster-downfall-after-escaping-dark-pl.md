@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ulster-born Exeter Chiefs legend Gareth Steenson runs the rule over Saturday's
   European Challenge Cup semi-final between the sides at Affidea Stadium.
-displayOrder: 45
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-01T06:23:27Z'

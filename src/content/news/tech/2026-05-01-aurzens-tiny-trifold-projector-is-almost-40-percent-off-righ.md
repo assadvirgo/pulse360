@@ -3,7 +3,7 @@ category: Tech
 description: Not all trifolds are created equal — just ask our own Allison Johnson,
   who recently spent time with Samsung’s ill-fated Galaxy phone. Aurzen’s Zip projector
   is the kind of trifold…
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-01T15:00:46Z'

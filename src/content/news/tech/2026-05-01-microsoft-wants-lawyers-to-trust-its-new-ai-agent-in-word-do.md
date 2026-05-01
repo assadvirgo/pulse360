@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is launching a new AI agent inside Word that's specifically
   designed for legal teams. Legal Agent handles document edits, negotiation history,
   and complex documents to…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-01T11:18:54Z'

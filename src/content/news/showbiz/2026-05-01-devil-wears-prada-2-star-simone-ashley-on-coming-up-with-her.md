@@ -5,7 +5,7 @@ countryCode: US
 description: If Emily Blunt set the standard for bitchy, couture-wearing fashion assistants
   in the first &#8220;The Devil Wears Prada&#8221; 20 years ago, Simone Ashley is
   giving the role a…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-01T15:55:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Britain has been pushed into an unusual trade deficit with its largest
   trading partner
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-01T11:12:17Z'

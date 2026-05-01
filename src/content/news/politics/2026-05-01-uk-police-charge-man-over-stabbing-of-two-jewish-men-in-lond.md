@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: British officials have raised the national terrorism threat to its second-highest
   level.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-01T08:01:23Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New contracts with tech companies come after clash with Anthropic over
   Claude use
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-01T13:19:27Z'

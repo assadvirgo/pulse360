@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Turkish authorities violently crackdown on May Day demonstrations at
   Istanbul’s Taksim Square, firing tear gas.
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-01T15:34:18Z'

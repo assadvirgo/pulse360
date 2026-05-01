@@ -5,7 +5,7 @@ countryCode: US
 description: Former One Direction singer Zayn Malik, who was hospitalized last month
   with an unspecified illness, has canceled all U.S. dates for the 2026 tour behind
   his…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-01T15:32:17Z'

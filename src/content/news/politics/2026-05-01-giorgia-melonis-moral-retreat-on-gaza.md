@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The Italian PM’s response to Israel’s genocidal war on Gaza reflects
   not moral conviction, but political calculation.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-01T12:33:00Z'

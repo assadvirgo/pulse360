@@ -5,7 +5,7 @@ countryCode: US
 description: The fresh funds bring the total investment in Pickleball Inc. to $315
   million, as investors continue to look at emerging sports as a place to park their
   money.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-01T11:00:01Z'
