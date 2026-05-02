@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: Crude output has risen to highest level since 2013 as demand soars to
   replace lost barrels from the Gulf
-displayOrder: 29
+displayOrder: 36
 heroImage: ''
 importance: 35.5
 pubDate: '2026-05-02T04:00:16Z'

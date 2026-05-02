@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: White House tells Congress that Iran hostilities have &#039;terminated&#039;
   despite continued US troop presence in Middle East.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-02T00:00:00Z'

@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: Overtuning can cause models to "prioritize user satisfaction over truthfulness.”
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-01T22:23:36Z'

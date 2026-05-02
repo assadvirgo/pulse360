@@ -5,7 +5,7 @@ countryCode: US
 description: (Updated with Paramount statement) Deep in the middle of a tough reelection
   campaign, Karen Bass has discovered the middle of the road can be a very politically
   dangerous place…
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-02T02:18:24Z'

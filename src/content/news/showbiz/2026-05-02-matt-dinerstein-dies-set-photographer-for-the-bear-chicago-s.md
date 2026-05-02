@@ -5,7 +5,7 @@ countryCode: US
 description: Matt Dinerstein, a veteran unit still photographer who worked on The
   Bear, TV&#8217;s Chicago shows and other films and TV series, died May 1 of cancer
   in Chicago. He was 69. He…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-02T01:05:53Z'

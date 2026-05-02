@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: If this is pursued with the same energy as industrial policy, it will
   upend the agricultural economy
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-02T01:00:04Z'

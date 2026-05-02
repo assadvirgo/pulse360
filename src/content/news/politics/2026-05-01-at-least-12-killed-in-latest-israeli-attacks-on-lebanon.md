@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s strikes continue, with more than 2,600 killed since March
   2, despite an ongoing ceasefire.
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-01T21:10:15Z'
