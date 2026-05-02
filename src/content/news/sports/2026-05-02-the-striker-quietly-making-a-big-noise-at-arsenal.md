@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: As Arsenal travel to Lyon in the Champions League semi-final second leg,
   BBC Sport assesses the importance of unsung striker Stina Blackstenius.
-displayOrder: 11
+displayOrder: 31
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-02T05:40:37Z'

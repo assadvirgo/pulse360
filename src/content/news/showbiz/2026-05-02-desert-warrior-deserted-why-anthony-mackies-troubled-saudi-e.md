@@ -5,7 +5,7 @@ countryCode: SA
 description: If Desert Warrior was one of Saudi Arabia’s big cinema swings, then it
   looks to have been a swing and a miss, based on the movie&#8217;s early box office
   takings. Starring Captain…
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 51.0
 pubDate: '2026-05-02T10:14:52Z'

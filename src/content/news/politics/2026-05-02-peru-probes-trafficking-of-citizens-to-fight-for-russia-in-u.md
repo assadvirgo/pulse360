@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Peru&#039;s public prosecutor says many of their citizens are victims
   of deception, lured by ⁠the promise of jobs.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-02T03:14:46Z'

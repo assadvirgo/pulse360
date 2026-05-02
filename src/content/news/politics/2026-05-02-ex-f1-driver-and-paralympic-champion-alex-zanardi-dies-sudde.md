@@ -3,7 +3,7 @@ category: Politics
 country: Italy
 countryCode: IT
 description: Former Formula 1 driver Alex Zanardi has died at the age of 59.
-displayOrder: 30
+displayOrder: 47
 heroImage: ''
 importance: 40.0
 pubDate: '2026-05-02T05:24:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: May Day events include calls to &#039;tax the rich&#039; and abolish
   ICE amid $70bn proposed funding for immigration enforcement.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-01T20:57:11Z'

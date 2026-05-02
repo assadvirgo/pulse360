@@ -5,7 +5,7 @@ countryCode: JP
 description: Toto is “aiming to achieve a toilet that never needs cleaning.” It’s
   also supplying electrostatic chucks — a semiconductor-manufacturing component critical
   to the memory-chip boom.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-02T12:00:00Z'

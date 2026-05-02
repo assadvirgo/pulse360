@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: What travelers who are ticketed on Spirit Airlines need to know if the
   carrier shuts down.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-02T00:26:40Z'

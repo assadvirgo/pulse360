@@ -5,7 +5,7 @@ countryCode: US
 description: Praveen Neppalli Naga, Uber's chief technology officer, revealed the
   plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday
   night, describing it as a…
-displayOrder: 15
+displayOrder: 35
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-02T06:36:28Z'

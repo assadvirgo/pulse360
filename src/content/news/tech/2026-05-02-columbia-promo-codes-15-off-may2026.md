@@ -3,7 +3,7 @@ category: Tech
 description: Explore current Columbia deals on jackets, outdoor gear, and apparel.
   Find active Columbia promo codes, student discounts, and free shipping offers to
   save on your next adventure.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-02T05:00:00Z'

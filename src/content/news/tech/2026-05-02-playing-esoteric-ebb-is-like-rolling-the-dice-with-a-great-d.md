@@ -3,7 +3,7 @@ category: Tech
 description: It took me a while to get into Esoteric Ebb, a new CRPG from developer
   Christoffer Bodeg&#229;rd. The elevator pitch is basically Disco Elysium, but in
   the fantasy style of…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-02T12:00:00Z'

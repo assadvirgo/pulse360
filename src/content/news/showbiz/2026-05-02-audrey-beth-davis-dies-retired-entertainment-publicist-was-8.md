@@ -5,7 +5,7 @@ countryCode: US
 description: Audrey Beth Davis, a retired entertainment publicist who worked with
   The Lippin Group, has died. She was 82. Davis&#8217; colleagues from Lippin announced
   that she died of natural…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-02T02:23:37Z'

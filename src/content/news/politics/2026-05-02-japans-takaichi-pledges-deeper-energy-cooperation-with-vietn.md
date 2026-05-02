@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Takaichi signs six agreements with Vietnam, including on technology,
   agriculture and space, during a trip to Hanoi.
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-02T09:16:49Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A 45-year old man is occupying the top of Washington’s Frederick Douglass
   Memorial Bridge to protest the war on Iran.
-displayOrder: 19
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-02T04:17:09Z'

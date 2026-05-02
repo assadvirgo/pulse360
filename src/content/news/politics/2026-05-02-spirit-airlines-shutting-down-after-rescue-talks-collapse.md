@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The airline had been in talks with the Trump administration about a $500m
   bailout.
-displayOrder: 17
+displayOrder: 37
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-02T07:55:47Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: John Higgins opens up a slender 13-11 advantage over Shaun Murphy heading
   into the final session of their World Championship semi-final.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-01T21:43:04Z'

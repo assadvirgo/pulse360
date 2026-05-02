@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president writes that hostilities "have terminated" because of the
   ceasefire, arguing he does not need congressional authorisation.
-displayOrder: 14
+displayOrder: 42
 heroImage: ''
 importance: 71.2
 pubDate: '2026-05-02T00:41:43Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: With Apple officially retiring its net-cash-neutral target, some suspect
   the company will look to conduct more transformative M&amp;A, beyond the smaller
   deals it made in the past.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-02T02:31:00Z'
