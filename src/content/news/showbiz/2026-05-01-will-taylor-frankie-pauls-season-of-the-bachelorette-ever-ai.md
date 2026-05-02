@@ -5,7 +5,7 @@ countryCode: US
 description: Will Taylor Frankie Paul&#8217;s season of The Bachelorette ever see
   the light of day? That is, of course, the question du jour after Season 22 of the
   long-running dating series…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-01T21:44:46Z'

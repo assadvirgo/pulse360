@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: PIF said on Thursday that it would cut funding of LIV Golf at end of
   2026 ​season.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-01T13:36:24Z'

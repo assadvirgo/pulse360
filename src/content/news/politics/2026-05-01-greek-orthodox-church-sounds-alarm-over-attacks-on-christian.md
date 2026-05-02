@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Warning follows Jewish man&#039;s arrest over brutal attack on nun in
   Jerusalem this week.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-01T12:22:26Z'

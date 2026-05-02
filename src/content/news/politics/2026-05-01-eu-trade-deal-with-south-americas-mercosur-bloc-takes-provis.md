@@ -2,7 +2,7 @@
 category: Politics
 description: The long-awaited deal creates one of the world’s largest free trade areas
   with 720m potential consumers.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-01T16:03:27Z'

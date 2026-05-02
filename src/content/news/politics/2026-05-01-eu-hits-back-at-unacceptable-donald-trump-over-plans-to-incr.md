@@ -2,7 +2,7 @@
 category: Politics
 description: The European Union's trade chair has hit back at Donald Trump after he
   announced plans to increase tariffs on vehicles exported to the US.
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-01T18:00:00Z'

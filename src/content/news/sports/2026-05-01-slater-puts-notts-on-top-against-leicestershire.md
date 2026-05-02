@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Opener Ben Slater hits 178 as Nottinghamshire score 405-4 on the opening
   day of their Championship game against Leicestershire.
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 42.2
 pubDate: '2026-05-01T17:41:12Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The Musk v. Altman trial is underway, and that means exhibits, or the
   evidence to be presented in court, are being revealed piece by piece. So far, email
   exchanges, photos, and…
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-01T19:14:51Z'

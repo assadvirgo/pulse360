@@ -5,7 +5,7 @@ countryCode: US
 description: American manufacturers grew in April for the fourth month in a row —
   the longest streak in four years — but an embryonic recovery faces fresh hurdles
   from rising oil prices and…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-01T14:48:00Z'

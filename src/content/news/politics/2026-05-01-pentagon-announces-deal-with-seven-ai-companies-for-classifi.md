@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Most recent instance of department integrating with AI comes amid Anthropic
   standoff, concern over use in Iran war.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-01T15:57:09Z'

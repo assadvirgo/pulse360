@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says EU ‘not complying’ with current trade deal, launches
   new tariffs to begin next week.
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-01T18:10:43Z'

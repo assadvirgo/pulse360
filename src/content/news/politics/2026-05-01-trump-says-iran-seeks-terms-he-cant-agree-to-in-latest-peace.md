@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump says the Iranian offer sent via Pakistan contains terms he&#039;s
   not satisfied with.
-displayOrder: 13
+displayOrder: 18
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-01T18:46:50Z'

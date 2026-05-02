@@ -5,7 +5,7 @@ countryCode: US
 description: Jagman Productions and producer Josh Green have acquired the rights to
   adapt Bruce Henderson’s &#8220;Sons and Soldiers,&#8221; with acclaimed Israeli
   filmmaker Avi Nesher set to…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 71.8
 pubDate: '2026-05-01T19:52:56Z'
