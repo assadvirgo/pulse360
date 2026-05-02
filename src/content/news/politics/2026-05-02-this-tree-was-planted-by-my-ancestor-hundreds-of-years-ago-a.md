@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Oral history traces a family's roots to a tree planted in the 13th Century
   in a Ghanaian fishing town.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-02T04:02:24Z'

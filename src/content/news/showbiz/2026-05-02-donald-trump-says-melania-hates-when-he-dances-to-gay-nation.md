@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump on Friday acknowledged that Melania Trump &#8220;hates&#8221;
   when he performs his signature stiff-armed, fist-pumping dance to the Village People&#8217;s…
-displayOrder: 2
+displayOrder: 17
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-02T13:00:25Z'

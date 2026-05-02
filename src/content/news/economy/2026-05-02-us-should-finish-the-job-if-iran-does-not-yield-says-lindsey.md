@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The veteran senator is one of the most hawkish Republicans with influence
   over the US president
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-02T11:00:08Z'

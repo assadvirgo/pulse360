@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Conflict has crushed Gulf markets and pushed up air freight and shipping
   costs
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-02T04:00:35Z'

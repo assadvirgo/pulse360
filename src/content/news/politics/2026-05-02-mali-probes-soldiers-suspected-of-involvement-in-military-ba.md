@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Five army personnel, including three active-duty soldiers, identified
   as suspects in last week&#039;s coordinated attacks.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-02T13:03:28Z'

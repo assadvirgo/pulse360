@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Livingston are relegated from the Scottish Premiership after one season
   back in the top flight following Kilmarnock's 3-0 win over Dundee United.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-02T15:57:06Z'

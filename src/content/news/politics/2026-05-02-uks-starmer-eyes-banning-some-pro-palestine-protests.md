@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: PM Keir Starmer says the phrase &#039;globalise the Intifada&#039; should
   be &#039;completely off limits&#039;.
-displayOrder: 29
+displayOrder: 47
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-02T07:55:08Z'

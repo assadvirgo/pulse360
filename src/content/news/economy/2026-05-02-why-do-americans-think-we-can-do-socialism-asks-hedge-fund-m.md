@@ -5,7 +5,7 @@ countryCode: US
 description: The hedge-fund manager’s recent comments came after New York City Mayor
   Zohran Mamdani, a democratic socialist, singled out Griffin’s ownership of a $238
   million penthouse.
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-02T15:09:00Z'

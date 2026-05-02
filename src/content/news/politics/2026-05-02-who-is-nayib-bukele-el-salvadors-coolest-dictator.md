@@ -4,7 +4,7 @@ country: El Salvador
 countryCode: SV
 description: At 44, Bukele has built the world’s highest imprisonment rate and scrapped
   presidential term limits. What comes next?
-displayOrder: 18
+displayOrder: 40
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-02T07:42:37Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Workers, activists and trade unions around the world marked May Day with
   rallies on Friday.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-02T12:39:15Z'

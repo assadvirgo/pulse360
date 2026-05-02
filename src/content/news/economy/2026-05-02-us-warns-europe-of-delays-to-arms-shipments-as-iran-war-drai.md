@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Deferred deliveries could include those used in Ukraine’s defence against
   Russia
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-02T09:51:05Z'

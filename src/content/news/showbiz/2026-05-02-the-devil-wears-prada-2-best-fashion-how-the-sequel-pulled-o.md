@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER WARNING: This story discusses plot details for “The Devil Wears
   Prada 2,” in theaters now. After reading the script for “The Devil Wears Prada 2,”
   costume designer Molly…'
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-02T16:00:46Z'

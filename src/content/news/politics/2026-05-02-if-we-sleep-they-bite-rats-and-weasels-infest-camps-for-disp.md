@@ -2,7 +2,7 @@
 category: Politics
 description: In the Gaza Strip, the daily battles are now with rats, weasels, and
   other pests spreading diseases.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-02T05:02:14Z'
