@@ -5,7 +5,7 @@ countryCode: US
 description: The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon,
   Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use
   their AI tools in classified…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-01T14:09:56Z'

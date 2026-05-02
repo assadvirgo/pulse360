@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel’s military reportedly seized 22 vessels sailing among the Global
   Sumud Flotilla.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-01T11:31:33Z'

@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Michael van Gerwen is punched in the face by a stranger in an attack
   at a bar in the Netherlands.
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-01T09:37:32Z'

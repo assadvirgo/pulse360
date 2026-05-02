@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A new biopic revisits Michael Jackson - but what’s left out of his story,
   and who decides his legacy?
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-01T16:59:54Z'

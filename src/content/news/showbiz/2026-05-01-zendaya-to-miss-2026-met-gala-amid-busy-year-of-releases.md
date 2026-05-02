@@ -5,7 +5,7 @@ countryCode: US
 description: The actress, who has attended the fashion event seven times, has had
   a packed year, with 'The Drama' and 'Euphoria' season three already released and
   'The Odyssey,' 'Spider-Man:…
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-01T19:24:31Z'

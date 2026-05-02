@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A shuttered airline would open up precious airport slots, gates and routes,
   and could create opportunities for other carriers to expand.
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-01T17:59:00Z'
