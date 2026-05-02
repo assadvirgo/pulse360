@@ -2,7 +2,7 @@
 category: Economy
 description: Traders warn of further jump in prices and ‘huge pain’ as economies cut
   consumption
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-01T15:52:58Z'

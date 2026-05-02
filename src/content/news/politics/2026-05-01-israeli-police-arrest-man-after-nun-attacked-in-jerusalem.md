@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The French nun was pushed over and kicked in the apparently unprovoked
   assault, amid a rise in harassment of Christians in the city by Jewish extremists.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-01T15:51:58Z'

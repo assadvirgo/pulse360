@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Regular unleaded gas is up almost 50% since the start of the Iran war,
   to $4.42 a gallon late Friday morning, according to GasBuddy.
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-01T21:01:00Z'

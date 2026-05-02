@@ -5,7 +5,7 @@ countryCode: IT
 description: World number one Jannik Sinner remains on course for a record fifth consecutive
   Masters 1,000 title after reaching the Madrid Open final with a straight-set win
   over Arthur Fils.
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 50.2
 pubDate: '2026-05-01T16:36:02Z'

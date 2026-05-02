@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump on Friday delivered a wide-ranging speech that
   focused in part on his efforts to lower taxes and other costs, as analysts predict
   defeats for his party in…
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-01T21:42:00Z'

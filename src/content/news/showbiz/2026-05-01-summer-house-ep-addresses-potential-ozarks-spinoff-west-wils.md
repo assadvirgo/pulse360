@@ -5,7 +5,7 @@ countryCode: US
 description: Summer House has been in the spotlight lately following the scandal on
   the Hamptons-based show, and there are rumors the series could be expanding. The
   Bravo show has been spun…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-01T22:18:54Z'

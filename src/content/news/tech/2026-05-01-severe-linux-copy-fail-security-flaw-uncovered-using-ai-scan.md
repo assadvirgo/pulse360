@@ -3,7 +3,7 @@ category: Tech
 description: Nearly every Linux distribution released since 2017 is currently vulnerable
   to a security bug called "Copy Fail" that allows any user to give themselves administrator
   privileges.…
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-01T16:55:16Z'

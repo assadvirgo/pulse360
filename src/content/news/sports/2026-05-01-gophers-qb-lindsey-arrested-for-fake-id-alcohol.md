@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Minnesota starting quarterback Drake Lindsey, 20, was arrested early
   Friday in Arkansas for underage alcohol possession and possession of a fake ID.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-01T20:53:46Z'

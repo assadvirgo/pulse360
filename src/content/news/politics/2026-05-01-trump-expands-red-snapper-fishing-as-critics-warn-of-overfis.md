@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anglers in Florida, Georgia, and Carolinas gain more fishing control
   with Trump&#039;s red snapper permit approval.
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-01T21:12:02Z'

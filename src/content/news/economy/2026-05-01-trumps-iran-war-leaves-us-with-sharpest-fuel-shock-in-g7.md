@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Petrol and diesel prices are rising more swiftly in America than other
   major economies including the UK and Canada
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-01T20:59:00Z'

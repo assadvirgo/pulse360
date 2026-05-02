@@ -4,7 +4,7 @@ country: Bosnia and Herzegovina
 countryCode: BA
 description: Mladic, 84, was jailed for life for genocide, war crimes and crimes against
   humanity during the Bosnian war in 1992-95.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-01T15:12:14Z'

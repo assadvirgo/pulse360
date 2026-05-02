@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona face Osasuna in La Liga on Saturday where a win will heap more
   pressure on Real Madrid at Espanyol on Sunday.
-displayOrder: 27
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-01T20:13:59Z'

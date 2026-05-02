@@ -5,7 +5,7 @@ countryCode: US
 description: Gwen Farrell Adair, the actress known for playing various nurses on M*A*S*H,
   has died. She was 94. Adair&#8217;s son announced that she died of natural causes
   on Thursday in…
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-02T03:05:29Z'

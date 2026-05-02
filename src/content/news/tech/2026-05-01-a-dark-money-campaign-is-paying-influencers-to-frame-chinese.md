@@ -5,7 +5,7 @@ countryCode: US
 description: Build American AI, a nonprofit linked to a super PAC bankrolled by executives
   at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging
   and stoke fears…
-displayOrder: 30
+displayOrder: 46
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-01T20:25:28Z'

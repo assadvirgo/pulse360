@@ -5,7 +5,7 @@ countryCode: CA
 description: Hot Docs, the major nonfiction film festival in Toronto, has announced
   award winners for the event’s 33rd edition. Earning Best International Feature Documentary
   was House of…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 77.0
 pubDate: '2026-05-02T03:57:27Z'
