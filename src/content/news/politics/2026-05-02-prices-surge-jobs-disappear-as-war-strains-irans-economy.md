@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: New Supreme Leader Mojtaba Khamenei says the country must defeat its
   enemies in an economic and cultural struggle, as we
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-02T16:58:30Z'

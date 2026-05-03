@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Newcastle United head coach Eddie Howe keeps faith with William Osula
   and the forward repays his faith in a crucial win against Brighton.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-02T19:35:11Z'

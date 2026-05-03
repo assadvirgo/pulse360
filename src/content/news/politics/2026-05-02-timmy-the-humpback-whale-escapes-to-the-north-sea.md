@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The whale calf&#039;s repeated stranding off the coast of Germany sparked
   widespread concern and extensive media coverage.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-02T20:50:39Z'

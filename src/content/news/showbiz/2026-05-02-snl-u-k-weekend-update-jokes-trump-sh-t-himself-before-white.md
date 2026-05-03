@@ -5,7 +5,7 @@ countryCode: GB
 description: Donald Trump bore the brunt of the &#8220;SNL U.K.&#8221; Weekend Update
   on Saturday, with co-hosts Paddy Young and Ania Magliano joking that the President
   had shat himself ahead…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-02T22:54:12Z'

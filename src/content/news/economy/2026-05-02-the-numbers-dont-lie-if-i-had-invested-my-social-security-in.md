@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I do better than many citizens because I’ve contributed at the highest
   level.”
-displayOrder: 999
+displayOrder: 50
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-02T21:00:00Z'

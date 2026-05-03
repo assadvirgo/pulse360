@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Four women and a child are among the dead, as fighting between Israel
   and Iran-backed Hezbollah continues despite a ceasefire.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-02T16:51:18Z'

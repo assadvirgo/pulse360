@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sector faces rising prices for supplies from aluminium to plastics and
   paint
-displayOrder: 16
+displayOrder: 25
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-03T04:00:13Z'

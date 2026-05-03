@@ -5,7 +5,7 @@ countryCode: CA
 description: Beau Starr, the actor who appeared in Goodfellas (1990) and multiple
   Halloween films, has died. He was 81. Praising him as &#8220;very uniqie and special,&#8221;
   the actor&#8217;s…
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 67.0
 pubDate: '2026-05-02T20:59:42Z'
