@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Not one, but two Game 7s -- all in the East. Here are the keys to the
   Magic-Pistons and Raptors-Cavs.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-03T03:46:15Z'

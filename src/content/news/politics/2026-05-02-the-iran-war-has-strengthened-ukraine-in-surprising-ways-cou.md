@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: President Zelensky has been visiting the Gulf to demonstrate his country's
   military nous.
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 85.2
 pubDate: '2026-05-02T23:19:27Z'

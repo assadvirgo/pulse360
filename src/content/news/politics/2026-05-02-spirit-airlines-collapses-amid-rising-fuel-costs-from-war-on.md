@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US budget carrier Spirit Airlines shuts down after talks for a government
   bailout failed.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-02T20:28:12Z'

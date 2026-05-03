@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Higher memory chip costs fuel fears of price rise for Switch 2 and cast
   shadow over console’s success
-displayOrder: 39
+displayOrder: 44
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-03T04:00:05Z'

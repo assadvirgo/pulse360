@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Studies show extreme rain has become more frequent in country, as Pernambuco
   and Paraiba states again battered.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-02T19:59:25Z'

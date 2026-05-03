@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump retaliates against Friedrich Merz over chancellor’s criticism
   of US-Israeli war effort
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-02T16:06:14Z'

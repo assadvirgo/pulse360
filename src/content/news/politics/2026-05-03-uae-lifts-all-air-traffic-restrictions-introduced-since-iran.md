@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: UAE aviation authority&#039;s announcement is the latest sign of the
   travel sector&#039;s recovery across the Middle East.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-03T03:29:44Z'

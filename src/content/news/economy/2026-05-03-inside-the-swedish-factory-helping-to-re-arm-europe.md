@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: BAE’s Hägglunds is increasing capacity as it gears up for a huge joint
   order from several of the region’s armies
-displayOrder: 33
+displayOrder: 43
 heroImage: ''
 importance: 35.5
 pubDate: '2026-05-03T04:00:13Z'

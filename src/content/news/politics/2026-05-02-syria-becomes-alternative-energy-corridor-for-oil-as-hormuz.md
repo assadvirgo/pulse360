@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Syria is receiving hundreds of Iraqi oil trucks hauling crude overland
   as an alternative energy corridor to Europe.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-02T19:45:20Z'

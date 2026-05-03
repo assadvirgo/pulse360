@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Brazil&#039;s Prates crushes hometown hero Maddalena in the Perth fight;
   challenges the winner of Makhachev vs Garry.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-03T05:32:24Z'

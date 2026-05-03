@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Redi Tlhabi speaks to Professor Robert Pape on the rise of political
   violence in the US.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-02T21:25:34Z'

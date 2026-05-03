@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Kartik Sharma has had a rough time of it after joining CSK for a record
   fee, but finally came good with a match-winning half-century against Mumbai Indians
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 48.5
 pubDate: '2026-05-03T01:36:32Z'
