@@ -3,7 +3,7 @@ category: Tech
 description: It's not hyperbole to call DualShot Recorder an overnight sensation.
   It took only 12 hours from the time it was released to hit number one on the App
   Store's list of top paid…
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 46.2
 pubDate: '2026-05-03T13:00:00Z'

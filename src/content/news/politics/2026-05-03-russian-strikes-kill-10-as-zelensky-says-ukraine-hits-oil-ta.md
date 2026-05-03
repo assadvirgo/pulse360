@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Fatalities have been reported around Ukraine as Kyiv says Russian "shadow
   fleet" tankers were hit by drones.
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 63.2
 pubDate: '2026-05-03T13:43:20Z'

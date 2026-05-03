@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Shakira's appearance followed shows by Lady Gaga and Madonna, who have
   also performed on Copacabana beach in previous years.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-03T07:56:47Z'

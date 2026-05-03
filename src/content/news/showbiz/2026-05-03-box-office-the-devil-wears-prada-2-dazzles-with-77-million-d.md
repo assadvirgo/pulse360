@@ -5,7 +5,7 @@ countryCode: US
 description: Movie theaters are en vogue again &#8212; at least based on the blockbuster
   turnout for &#8220;The Devil Wears Prada 2.&#8221; Disney&#8217;s star-studded sequel
   has defied box…
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-03T15:21:19Z'

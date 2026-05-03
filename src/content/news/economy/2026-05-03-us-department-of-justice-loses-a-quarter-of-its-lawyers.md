@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Thousands have quit or been fired since Trump returned to office with
   an agenda focused on immigrants and enemies
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-03T10:00:05Z'

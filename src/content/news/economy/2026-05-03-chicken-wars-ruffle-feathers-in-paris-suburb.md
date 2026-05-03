@@ -3,7 +3,7 @@ category: Economy
 country: France
 countryCode: FR
 description: Leftist politicians trade barbs over Master Poulet chain
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-03T04:00:13Z'

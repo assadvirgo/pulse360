@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Despite Houthi resistance and affordability challenges, Starlink fuels
   growth in Yemen&#039;s digital workforce.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-03T06:21:44Z'

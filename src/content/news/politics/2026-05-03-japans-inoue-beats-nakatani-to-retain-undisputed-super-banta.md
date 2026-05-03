@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Naoya Inoue wins 116-112, 115-113, 116-112 in a fight billed as the biggest
   boxing match in ​Japanese history.
-displayOrder: 21
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-03T07:40:25Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Three Big Tech companies have had an outsize impact on first-quarter
   profit performance.
-displayOrder: 39
+displayOrder: 43
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-03T14:00:00Z'

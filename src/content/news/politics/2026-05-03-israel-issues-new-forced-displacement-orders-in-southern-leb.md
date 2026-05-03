@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Warning covers more than 10 villages and towns, including several in
   Nabatieh district that lie north of Litani River.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-03T08:35:43Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Renewables funds attract biggest flows for five years, as focus shifts
   from climate change to geopolitical crisis
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-03T04:00:05Z'

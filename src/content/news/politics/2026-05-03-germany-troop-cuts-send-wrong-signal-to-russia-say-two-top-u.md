@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The chairs of the House and Senate armed services committees said withdrawing
   5,000 service personnel risked undermining deterrence.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-03T08:41:23Z'

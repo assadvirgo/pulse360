@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “The only thing holding me back is worrying about medical costs.”
-displayOrder: 42
+displayOrder: 45
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-03T14:41:00Z'

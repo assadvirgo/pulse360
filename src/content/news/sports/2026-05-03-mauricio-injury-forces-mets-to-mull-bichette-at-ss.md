@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ronny Mauricio fractured his left thumb Saturday against the Angels,
   forcing the injury-plagued Mets to consider using Bo Bichette at shortstop.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-03T12:51:11Z'
