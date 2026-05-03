@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Zanardi, who lost his legs in a racing crash, was credited with helping
   transform the perception of disability in Italy.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-02T10:31:05Z'

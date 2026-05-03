@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Concerns about high oil prices are adding to inflation fears in Japan,
   as the BOJ just moved to rescue the yen from a roughly 40-year low.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-02T11:30:00Z'

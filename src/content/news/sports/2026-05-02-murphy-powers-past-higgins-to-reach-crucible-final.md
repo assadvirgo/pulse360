@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Shaun Murphy powers to a 17-15 victory over John Higgins to reach his
   fifth World Championship final at the Crucible Theatre in Sheffield.
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-02T17:58:19Z'

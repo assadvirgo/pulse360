@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel’s expanding “orange line” is deepening movement restrictions across
   Gaza, raising deadly risks for civilians.
-displayOrder: 11
+displayOrder: 19
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-02T19:11:33Z'

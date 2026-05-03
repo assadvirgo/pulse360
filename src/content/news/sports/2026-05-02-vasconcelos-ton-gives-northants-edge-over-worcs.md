@@ -5,7 +5,7 @@ countryCode: GB
 description: Ricardo Vasconcelos' superb 115 helps Northamptonshire into a 60-run
   lead over Worcestershire on day two of the County Championship Division Two match
   at Wantage Road.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-02T17:33:39Z'

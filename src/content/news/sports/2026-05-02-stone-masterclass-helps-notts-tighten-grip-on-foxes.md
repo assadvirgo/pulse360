@@ -5,7 +5,7 @@ countryCode: GB
 description: Olly Stone turns back the clock to deliver a fast-bowling masterclass
   as Nottinghamshire tighten their grip against Leicestershire in their County Championship
   clash.
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-02T18:04:09Z'

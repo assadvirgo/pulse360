@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Murder rates in Israel&#039;s Palestinian areas soar, fueling allegations
   of state complicity and neglect.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-02T14:23:45Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The headlines focus on apps, but the big money is flowing to agentic
   AI’s boring industrial backbone.
-displayOrder: 45
+displayOrder: 50
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-02T15:30:00Z'
