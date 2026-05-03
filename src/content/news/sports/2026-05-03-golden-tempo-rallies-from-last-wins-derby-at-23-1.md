@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Golden Tempo charged from the back of the pack to edge Renegade at the
   wire, making Cherie DeVaux the first woman trainer to win the Kentucky Derby.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-03T12:51:10Z'

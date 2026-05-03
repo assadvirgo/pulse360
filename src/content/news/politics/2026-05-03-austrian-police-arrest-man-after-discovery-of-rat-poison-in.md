@@ -4,7 +4,7 @@ country: Austria
 countryCode: AT
 description: Arrest of 39-year-old comes after Swiss company HiPP last month issued
   product recall over tainted baby food jars.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-03T07:48:54Z'

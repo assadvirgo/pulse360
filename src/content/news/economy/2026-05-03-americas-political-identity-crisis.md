@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The outer edges of both parties are overlapping on a growing number of
   issues
-displayOrder: 33
+displayOrder: 43
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-03T12:00:05Z'

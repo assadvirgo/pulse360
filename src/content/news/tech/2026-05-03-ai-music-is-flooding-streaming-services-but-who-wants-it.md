@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on how AI is changing music and the music industry,
   follow Terrence…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-03T12:00:00Z'

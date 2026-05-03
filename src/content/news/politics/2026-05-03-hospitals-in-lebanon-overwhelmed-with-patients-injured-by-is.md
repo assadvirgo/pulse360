@@ -3,7 +3,7 @@ category: Politics
 country: Lebanon
 countryCode: LB
 description: Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-03T10:35:13Z'

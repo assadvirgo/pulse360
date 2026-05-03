@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The girl's death sparked an outbreak of violence in the central Australian
   town from where she disappeared.
-displayOrder: 12
+displayOrder: 31
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-03T05:52:09Z'

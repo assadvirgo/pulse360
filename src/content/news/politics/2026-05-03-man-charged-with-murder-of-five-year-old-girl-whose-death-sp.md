@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: A man has been charged with murdering a five-year-old girl in central
   Australia, days after her killing sparked a riot.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-05-03T06:59:00Z'

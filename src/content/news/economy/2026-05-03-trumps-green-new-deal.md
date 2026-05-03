@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president’s actions have inadvertently raised the appeal of renewable
   energy
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-03T11:00:05Z'
