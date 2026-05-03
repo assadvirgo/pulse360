@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New CEO ‘not anxious to deploy capital into subpar opportunities’ as
   he picks up baton from legendary predecessor
-displayOrder: 33
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-02T18:49:24Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: As a new filmmaker offering a new take on Leatherface more than 50 years
   after the original Texas Chainsaw Massacre, Curry Barker recently teased his plans
   for the reboot. The…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-02T19:04:30Z'

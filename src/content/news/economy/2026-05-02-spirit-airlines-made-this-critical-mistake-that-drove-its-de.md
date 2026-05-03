@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Spirit has canceled all future flights and is immediately shutting down.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-02T17:12:00Z'

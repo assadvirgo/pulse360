@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Global Sumud Flotilla activists have arrived in Istanbul after Israel
   intercepted their Gaza-bound aid convoy at sea.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-02T12:46:01Z'

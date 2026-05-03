@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Mark Allen suffers a devastating final-frame World Championship semi-final
   defeat by Wu Yize - after missing a simple match-winning black to win.
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-02T23:58:25Z'

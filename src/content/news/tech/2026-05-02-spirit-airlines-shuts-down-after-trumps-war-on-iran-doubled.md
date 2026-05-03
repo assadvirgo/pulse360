@@ -5,7 +5,7 @@ countryCode: US
 description: The ultra-low-cost air carrier Spirit Airlines shut down operations after
   34 years in business and canceled all flights at 3AM ET on Saturday morning. Its
   website now redirects to…
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-02T17:51:04Z'

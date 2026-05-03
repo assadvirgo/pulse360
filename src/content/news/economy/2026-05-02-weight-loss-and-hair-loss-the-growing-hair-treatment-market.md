@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A common side effect of many GLP-1 drugs is hair loss. It's creating
   a formerly untapped but growing market for hair treatment products.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-02T12:00:01Z'

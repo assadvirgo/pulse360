@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Davis died Friday in Pennsylvania from natural causes surrounded by her
   family, friends and caregivers.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-02T18:21:58Z'

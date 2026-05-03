@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Death toll from Israeli attacks on Lebanon since March 2 increases to
   2,659, 8,183 injured.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-02T12:55:34Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Watch as Mark Allen misses a simple match-winning pot on the black during
   his semi-final loss against Wu Yize in the World Snooker Championship.
-displayOrder: 12
+displayOrder: 20
 heroImage: ''
 importance: 50.2
 pubDate: '2026-05-02T22:36:49Z'

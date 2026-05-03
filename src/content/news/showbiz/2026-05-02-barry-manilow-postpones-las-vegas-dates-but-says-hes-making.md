@@ -5,7 +5,7 @@ countryCode: US
 description: Barry Manilow took to X on Friday afternoon to share an update about
   the cancerous spot on his lung. He said he is making “great progress” in his recovery,
   but his doctor told him…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-02T18:14:12Z'
