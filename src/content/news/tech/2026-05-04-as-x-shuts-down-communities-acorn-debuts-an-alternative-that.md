@@ -2,7 +2,7 @@
 category: Tech
 description: Acorn lets organizations build and run their own online communities using
   decentralized tech, with custom feeds, moderation, and analytics tools.
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-04T15:33:01Z'

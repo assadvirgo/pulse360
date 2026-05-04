@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump has announced a naval mission to escort stranded
   ships through the Strait of Hormuz.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-04T03:47:00Z'

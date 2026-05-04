@@ -5,7 +5,7 @@ countryCode: IR
 description: The Iranian Independent Filmmakers Association (IIFMA) is hailing new
   rules announced on Friday by the Academy of Motion Picture Arts and Sciences pertaining
   to the international…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-04T10:49:24Z'

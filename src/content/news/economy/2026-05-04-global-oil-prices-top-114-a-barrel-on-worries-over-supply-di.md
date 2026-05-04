@@ -3,7 +3,7 @@ category: Economy
 description: Global oil prices were surging back above $114 per barrel on Monday,
   with renewed tensions in the Middle East again at the forefront despite the U.S.-Iranian
   cease-fire agreed to…
-displayOrder: 33
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-04T16:10:00Z'

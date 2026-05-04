@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Troops from the Royal Regiment of Scotland have been taking part in urban
   combat drills as they prepare to deploy to the Baltic states for a major NATO exercise.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-05-04T08:14:00Z'

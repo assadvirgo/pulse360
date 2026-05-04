@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Hyderabad Kingsmen coach Jason Gillespie bemoans collapse of 4 for 2
   with the bat but was proud of the early fight with the ball in the PSL final
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-04T07:07:28Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: ‘Israel is not implementing the ceasefire agreement in Gaza’
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-04T11:44:25Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New consulting company to advise Wall Street groups on how to deploy
   its AI across their investment portfolios
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-04T13:58:05Z'

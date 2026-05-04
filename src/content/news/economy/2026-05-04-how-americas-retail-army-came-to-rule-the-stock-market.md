@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Unbowed by the Iran war and other shocks, individual investors are buying
   their way to new heights of influence
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-04T04:00:33Z'

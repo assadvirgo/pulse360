@@ -5,7 +5,7 @@ countryCode: US
 description: Homebridge, the popular software solution that allows you to integrate
   non-HomeKit devices like Ring cameras into Apple Home, is adding support for the
   Matter smart home standard.…
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-04T12:35:06Z'

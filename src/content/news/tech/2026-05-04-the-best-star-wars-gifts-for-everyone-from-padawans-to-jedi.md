@@ -2,7 +2,7 @@
 category: Tech
 description: These are the best Star Wars gifts in the galaxy for everyone, from Padawan
   fans to Jedi masters.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-04T08:30:00Z'

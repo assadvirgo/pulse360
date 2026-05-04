@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A sensor that can simultaneously capture depth and image data has long
   been a "holy grail," Ouster CEO Angus Pacala told TechCrunch.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-04T10:00:00Z'

@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Hardie&#039;s 4 wickets and 56 runs help secure Peshawar&#039;s second
   PSL title with a five-wicket win over Hyderabad Kingsmen.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-04T06:20:41Z'
