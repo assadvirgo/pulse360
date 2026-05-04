@@ -2,7 +2,7 @@
 category: Economy
 description: Global lenders explore private deals and risk transfers to cut exposure
   to AI boom
-displayOrder: 37
+displayOrder: 43
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-03T17:00:06Z'

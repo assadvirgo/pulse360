@@ -5,7 +5,7 @@ countryCode: US
 description: If you’re looking to pick up a pair of open-ear headphones for yourself
   — or your mom — Shokz is running a Mother’s Day sale. Now through May 10th, the
   company’s best pair of bone…
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-03T15:00:00Z'

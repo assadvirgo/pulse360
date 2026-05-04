@@ -5,7 +5,7 @@ countryCode: CO
 description: The 3rd Alternativa Film Festival wrapped April 30 in Medellín, Colombia
   with generous cash prizes doled out to five feature films and two shorts. These
   were selected from 15…
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 52.8
 pubDate: '2026-05-03T16:50:59Z'

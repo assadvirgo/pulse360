@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Purchase includes two new combat squadrons of F-35 and F-15IA aircraft
   from Lockheed Martin and Boeing.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-03T12:36:48Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces have raided the city of Nablus in the occupied West Bank,
   killing a 26-year-old man.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-03T17:52:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: In a brilliant performance, David Benavidez became a three-division champion
   with a sixth-round TKO win over Gilberto "Zurdo" Ramirez on Saturday night then
   called out the likes…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-03T12:51:10Z'
