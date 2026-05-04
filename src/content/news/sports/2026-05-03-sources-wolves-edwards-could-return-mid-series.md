@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Though Anthony Edwards will miss the start of the Timberwolves' second
   round series, there is growing optimism he could return as early as Games 3 or 4.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-03T20:14:33Z'

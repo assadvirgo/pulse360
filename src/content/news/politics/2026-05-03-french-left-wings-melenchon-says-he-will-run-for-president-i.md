@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Melenchon says he will make fourth bid for presidency with President
   Macron term-limited and Le Pen facing ban.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-03T21:25:48Z'

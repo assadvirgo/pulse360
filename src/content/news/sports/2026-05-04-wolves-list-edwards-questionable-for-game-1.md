@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Timberwolves star Anthony Edwards was cleared for on-court activities
   and is questionable for Game 1 vs. the Spurs on Monday night.
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-04T01:00:19Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Spanish national Saif Abu Keshek and Brazilian Thiago Avila were among
   175 Gaza flotilla activists detained by Israel.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-03T14:00:03Z'

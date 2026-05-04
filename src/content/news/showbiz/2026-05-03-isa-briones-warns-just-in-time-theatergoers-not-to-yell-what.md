@@ -5,7 +5,7 @@ countryCode: US
 description: As Isa Briones returns to Broadway following her latest season on The
   Pitt, she&#8217;s had to remind theatergoers that she isn&#8217;t actually Dr. Trinity
   Santos. The actress,…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-03T19:46:31Z'

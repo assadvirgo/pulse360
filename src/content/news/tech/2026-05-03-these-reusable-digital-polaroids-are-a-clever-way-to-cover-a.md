@@ -3,7 +3,7 @@ category: Tech
 description: I love when my friends have their fridges covered in Polaroids. It’s
   often a visual crash course of what’s been going on in their lives chronicling recent
   adventures,…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-03T13:00:00Z'

@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Kim Jong-woo, Kim Shin-wan and Cho Chul-young's searing documentary 'The
   Seoul Guardians' took the Silver Mulberry Award.
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-04T02:23:31Z'

@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: EU must adapt to geopolitical reality shaped by US and China, says Belgium’s
   Pierre Wunsch
-displayOrder: 22
+displayOrder: 25
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-04T04:00:22Z'
