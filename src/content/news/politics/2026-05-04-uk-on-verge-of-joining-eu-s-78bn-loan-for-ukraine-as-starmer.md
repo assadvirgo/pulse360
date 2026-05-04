@@ -5,7 +5,7 @@ countryCode: GB
 description: The UK is on the verge of joining the EU's &#8364;90bn (&#163;78bn) loan
   scheme for Ukraine, as the government seeks to shore up support for Kyiv and deepen
   defence ties with the…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-05-04T02:33:00Z'

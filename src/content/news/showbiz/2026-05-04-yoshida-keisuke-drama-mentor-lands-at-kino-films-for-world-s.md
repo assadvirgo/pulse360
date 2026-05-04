@@ -5,7 +5,7 @@ countryCode: JP
 description: Japanese sales and distribution outfit Kino Films has taken on world
   sales rights for &#8220;mentor,&#8221; a film directed by Yoshida Keisuke. Two boys
   once triggered a…
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-04T12:13:58Z'

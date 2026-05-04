@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Twenty-two crew members from the seized Iranian ship MV Touska have been
   transferred to Pakistan for repatriation.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-04T07:36:41Z'

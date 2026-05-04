@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: GameStop has offered to buy eBay, which has done a better job of adapting
   to changing consumer preferences.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-04T12:12:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Reported incident comes after Trump announced &#039;Project Freedom&#039;
   to free stranded ships from the Strait of Hormuz.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-04T00:00:00Z'

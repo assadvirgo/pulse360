@@ -5,7 +5,7 @@ countryCode: JP
 description: '&#8220;Fujiko,&#8221; the second feature from Japanese director Kimura
   Taichi and produced by Megumi, took the Mulberry Audience Award at the 28th Far
   East Film Festival. The…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-04T05:39:36Z'

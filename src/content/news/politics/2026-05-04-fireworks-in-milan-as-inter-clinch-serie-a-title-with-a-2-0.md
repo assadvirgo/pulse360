@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Inter Milan win their 21st Scudetto, edging Napoli, with three matches
   remaining in the Italian football league season.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-04T05:15:35Z'

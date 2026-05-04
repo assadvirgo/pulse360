@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Committee for a Responsible Federal Budget published a paper suggesting
   capping Social Security at $100,000 for a married couple.
-displayOrder: 22
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-04T09:13:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: President Trump says the US will begin Project Freedom on Monday to guide
   stranded ships through Strait of Hormuz.
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-04T08:20:54Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Sanae Takaichi makes comments during a visit to Australia, where she
   signs agreements on energy supplies.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-04T06:45:13Z'

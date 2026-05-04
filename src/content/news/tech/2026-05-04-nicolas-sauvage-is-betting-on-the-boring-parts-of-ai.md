@@ -2,7 +2,7 @@
 category: Tech
 description: 'The portfolio he has assembled since 2019 is dotted with technologies
   that have become more widely interesting to VCs over the last year:'
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-05-04T07:10:18Z'

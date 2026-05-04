@@ -3,7 +3,7 @@ category: Economy
 country: Saudi Arabia
 countryCode: SA
 description: With the Strait of Hormuz choked off, Riyadh focuses on Red Sea infrastructure
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-04T04:00:12Z'

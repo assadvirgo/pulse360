@@ -5,7 +5,7 @@ countryCode: US
 description: The Force is strong with this one. In honor of &#8220;Star Wars&#8221;
   Day, Nielsen has shared some insights into people&#8217;s viewing habits around
   the beloved franchise, which…
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-04T11:00:00Z'
