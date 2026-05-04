@@ -5,7 +5,7 @@ countryCode: US
 description: The annual Run for the Roses on Saturday was a historic moment for women
   in horse racing as Cherie DeVaux became the first female trainer to win the Kentucky
   Derby. DeVaux&#8217;s…
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 62.8
 pubDate: '2026-05-03T22:15:44Z'

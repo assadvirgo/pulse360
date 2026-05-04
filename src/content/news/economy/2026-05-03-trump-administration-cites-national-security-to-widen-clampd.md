@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Defence department is stalling 165 projects as president steps up efforts
   to stamp out the industry
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-05-03T12:36:01Z'

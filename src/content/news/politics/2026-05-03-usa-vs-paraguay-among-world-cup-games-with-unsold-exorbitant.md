@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tickets for the cohosts&#039; opening game in Los Angeles are available
   for prices ranging between $1,120 and $6,050.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-03T13:31:50Z'

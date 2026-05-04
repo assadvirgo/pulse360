@@ -5,7 +5,7 @@ countryCode: US
 description: The 2026 Tony Awards nominations will be revealed on Tuesday, May 5,
   capping off one of the most competitive Broadway seasons in years and injecting
   a fresh round of drama into…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-03T17:30:00Z'

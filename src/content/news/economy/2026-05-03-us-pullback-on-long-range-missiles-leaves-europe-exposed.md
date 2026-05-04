@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Cancelled deployment of weapons battalion as continent is re-arming threatens
   Nato deterrence against Russia
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-03T14:39:36Z'

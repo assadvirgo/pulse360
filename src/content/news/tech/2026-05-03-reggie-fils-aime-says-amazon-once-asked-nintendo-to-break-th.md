@@ -5,7 +5,7 @@ countryCode: US
 description: Way back in the DS days, Nintendo decided to stop selling to Amazon.
   During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aim&#233;
   said it was because…
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-03T15:24:27Z'

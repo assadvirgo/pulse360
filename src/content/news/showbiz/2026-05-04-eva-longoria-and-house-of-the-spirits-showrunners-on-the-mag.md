@@ -5,7 +5,7 @@ countryCode: CL
 description: There was both magic and realism involved for the Chilean creatives Francisca
   Alegría and Fernanda Urrejola, who brought Isabel Allende&#8217;s beloved novel
   &#8220;The House of…
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-04T00:02:26Z'

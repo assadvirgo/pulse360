@@ -5,7 +5,7 @@ countryCode: US
 description: A new study examines how large language models perform in a variety of
   medical contexts, including real emergency room cases — where at least one model
   seemed to be more accurate…
-displayOrder: 999
+displayOrder: 47
 heroImage: ''
 importance: 40.0
 pubDate: '2026-05-03T18:00:09Z'

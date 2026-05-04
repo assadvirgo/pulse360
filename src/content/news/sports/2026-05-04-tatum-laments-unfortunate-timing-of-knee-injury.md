@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Celtics star Jayson Tatum said it was "unfortunate timing" that he was
   forced to watch Game 7 against the 76ers from the bench in street clothes.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-04T01:00:19Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Pope Leo XIV asks faithful to remember journalists who have lost their
   lives pursuing the truth.
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-03T14:06:20Z'

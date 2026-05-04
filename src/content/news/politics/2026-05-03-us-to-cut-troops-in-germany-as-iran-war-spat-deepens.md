@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US-German relations are straining as a spat deepens between President
   Trump and Chancellor Merz over the war on Iran.
-displayOrder: 24
+displayOrder: 43
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-03T13:38:56Z'
