@@ -5,7 +5,7 @@ countryCode: KR
 description: The South Korean box office saw a surge in activity during the weekend
   of May 1–3, as high-profile international sequels drove audience turnout. According
   to data from KOBIS, the…
-displayOrder: 10
+displayOrder: 16
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-04T08:38:31Z'

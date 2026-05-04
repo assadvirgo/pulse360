@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With fewer than 300 lawyers, Wachtell racked up bumper profits and exercised
   outsize influence. Now its model is being challenged as never before
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-05-04T04:00:22Z'

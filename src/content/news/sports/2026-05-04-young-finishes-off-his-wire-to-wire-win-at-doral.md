@@ -5,7 +5,7 @@ countryCode: US
 description: Cameron Young went wire-to-wire alone on the lead at the Cadillac Championship,
   a final round of 4-under 68 getting him to 19 under for the week and six shots clear
   of world No. 1…
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-04T01:00:19Z'

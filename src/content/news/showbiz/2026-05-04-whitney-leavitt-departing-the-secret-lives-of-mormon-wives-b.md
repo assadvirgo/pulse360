@@ -5,7 +5,7 @@ countryCode: US
 description: Whitney Leavitt is departing Hulu&#8217;s The Secret Lives of Mormon
   Wives, the reality television actress-turned-Broadway starlet announced during her
   final performance in…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-04T02:50:15Z'

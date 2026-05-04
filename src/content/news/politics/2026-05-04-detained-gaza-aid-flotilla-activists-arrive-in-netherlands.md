@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Two activists from the Global Sumud Flotilla arrived in the Netherlands
   after being released from Israeli custody.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-04T04:45:52Z'

@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: '"I have a firm belief that you get what is destined for you," Babar
   Azam says after playing a big role in Peshawar Zalmi''s PSL 2026 triumph'
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-04T04:17:08Z'

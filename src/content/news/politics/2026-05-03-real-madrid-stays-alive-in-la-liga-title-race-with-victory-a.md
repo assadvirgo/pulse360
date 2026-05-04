@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Two goals by Vinicius Jr allowed Madrid to remain in title contention
   with Barcelona ahead of El Clasico next Sunday.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-03T21:22:15Z'

@@ -5,7 +5,7 @@ countryCode: IN
 description: India&#8217;s Collective Artists Network has built an AI-powered avatar
   of Amish Tripathi – one of the country&#8217;s bestselling authors – to anchor a
   new short-form content…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-04T06:14:34Z'

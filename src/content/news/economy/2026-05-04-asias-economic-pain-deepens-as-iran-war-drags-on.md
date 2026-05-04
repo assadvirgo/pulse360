@@ -2,7 +2,7 @@
 category: Economy
 description: Sharp rise in inflation is hitting growth outlook for region heavily
   dependent on imported energy
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-04T01:37:51Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Three of six passengers ill from a suspected rodent-transmitted virus
   have died, and one is in intensive care, WHO says.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-03T21:59:20Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Redi Tlhabi speaks to Ray Adams Row Farr from Forensic Architecture about
   Israel’s expansion into Gaza post-ceasefire.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-03T19:55:02Z'

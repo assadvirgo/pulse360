@@ -2,7 +2,7 @@
 category: Politics
 description: The World Health Organization said one case of hantavirus infection had
   been confirmed, with five more suspected cases under investigation.
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 76.2
 pubDate: '2026-05-04T04:46:42Z'
