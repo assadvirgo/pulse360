@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Joe Root and Dom Bess take four wickets each as Yorkshire spin Somerset
   to a 75-run Championship defeat at Taunton.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-04T15:37:39Z'

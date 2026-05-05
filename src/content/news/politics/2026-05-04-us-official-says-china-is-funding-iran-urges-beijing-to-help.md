@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Scott Bessent says US has &#039;absolute control&#039; of Hormuz, but
   calls on China to &#039;step up&#039; with diplomacy to reopen strait.
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-04T15:55:38Z'

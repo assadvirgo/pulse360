@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: Nepal complains after India and China agree to resume a religious pilgrimage
   through a contested Himalayan pass.
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-04T16:57:01Z'

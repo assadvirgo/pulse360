@@ -5,7 +5,7 @@ countryCode: US
 description: A new generation of satellite startups in San Francisco is racing to
   capitalize on recent technological breakthroughs in space-based data collection
   and communications.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-04T09:00:00Z'

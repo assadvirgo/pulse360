@@ -5,7 +5,7 @@ countryCode: US
 description: 'Stephen Colletti was a teenager when he became one of the stars of MTV’s
   Laguna Beach: The Real Orange County. More than 20 years later, Colletti helped
   corral his friends and…'
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-04T19:49:00Z'

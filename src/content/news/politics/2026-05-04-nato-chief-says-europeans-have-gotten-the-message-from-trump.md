@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president has accused some NATO countries of not doing enough
   to support the US-Israel war on Iran.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 83.5
 pubDate: '2026-05-04T09:57:05Z'

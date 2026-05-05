@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Kerala in India, which gave the world its first democratically elected
   communist government, has voted the left out.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-04T14:29:58Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'LOL: Last One Laughing is an Amazon-owned format that has been remade
   in over 25 countries, but never the United States. That might be changing soon.
   Amazon’s Head of Nonfiction…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-04T18:35:00Z'

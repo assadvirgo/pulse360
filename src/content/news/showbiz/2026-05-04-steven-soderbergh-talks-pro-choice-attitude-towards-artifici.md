@@ -5,7 +5,7 @@ countryCode: US
 description: 'Not long ago, Steven Soderbergh was presented with a singular opportunity:
   exclusive access to the final interview with John Lennon, recorded mere hours before
   his death, as the…'
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 65.0
 pubDate: '2026-05-04T19:05:33Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At the start of last year, Micron wasn’t even among the top 100 U.S.
   companies. Its fortunes have changed dramatically since then.
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-04T16:15:00Z'

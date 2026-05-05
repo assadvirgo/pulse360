@@ -5,7 +5,7 @@ countryCode: US
 description: Top Chef has cooked up seasons across nearly a dozen U.S. cities as well
   as London and Canada. The long-running Bravo series is currently airing Season 23,
   which is largely set in…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-04T18:56:04Z'

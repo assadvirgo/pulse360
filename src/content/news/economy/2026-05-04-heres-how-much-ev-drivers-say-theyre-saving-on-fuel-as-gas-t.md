@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Electric-vehicle drivers are taking a victory lap as the war in Iran
   has slowed global oil supplies and pushed up the cost of gasoline.
-displayOrder: 38
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-04T16:00:00Z'
