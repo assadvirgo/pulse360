@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Glamorgan earn their first Championship Division One win for 21 years,
   beating Hampshire by an innings and 69 runs, despite Ben Brown's 96.
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-04T14:36:57Z'

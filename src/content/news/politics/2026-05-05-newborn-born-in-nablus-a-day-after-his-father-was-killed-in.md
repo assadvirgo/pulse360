@@ -2,7 +2,7 @@
 category: Politics
 description: A Palestinian family in Nablus has welcomed a newborn whose father was
   shot dead by Israeli forces.
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-05T00:11:43Z'

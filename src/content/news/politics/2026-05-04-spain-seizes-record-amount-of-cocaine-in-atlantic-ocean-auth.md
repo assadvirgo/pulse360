@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The Civil Guard found between 30,000 and 45,000kg of the drug on a freighter
   headed to Libya.
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 63.2
 pubDate: '2026-05-04T18:08:55Z'

@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: Early signs from the launch of Novo Nordisk's Wegovy pill and Eli Lilly
   & Co.'s Foundayo are making investors rethink the opportunity for GLP-1 pills.
-displayOrder: 32
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-04T20:11:04Z'

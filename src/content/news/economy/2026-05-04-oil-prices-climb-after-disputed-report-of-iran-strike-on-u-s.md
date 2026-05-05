@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oil is off to a volatile start to the week on a disputed report of a
   strike on a U.S. Navy ship in the Strait of Hormuz.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-04T12:07:00Z'

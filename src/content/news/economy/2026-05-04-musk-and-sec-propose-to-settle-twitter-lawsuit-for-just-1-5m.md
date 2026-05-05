@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Deal would come at a fraction of the amount regulators originally sought
   from the world’s richest man
-displayOrder: 31
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-04T21:53:33Z'

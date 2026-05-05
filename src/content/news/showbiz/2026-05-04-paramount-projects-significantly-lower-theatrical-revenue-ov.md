@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Skydance has nearly doubled its theatrical-film slate in 2026
   &#8212; but it will see &#8220;significantly&#8221; lower box office revenue overall
   from those movies,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-04T21:24:14Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Lionsgate has appointed Amanda Kozlowski as president of worldwide marketing
   for the motion picture group. She will report to the motion picture group chair
   Adam Fogelson, with…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-04T20:48:13Z'

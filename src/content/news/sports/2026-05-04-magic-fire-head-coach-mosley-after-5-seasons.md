@@ -5,7 +5,7 @@ countryCode: US
 description: Jamahl Mosley was fired as coach of the Orlando Magic on Monday, paying
   the widely expected price after the team blew a 3-1 series lead and got eliminated
   by the Detroit Pistons…
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-04T17:05:43Z'

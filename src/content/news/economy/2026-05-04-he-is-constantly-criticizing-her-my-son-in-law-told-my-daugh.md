@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “In 2025, she made $35,000-$40,000 working as a physical therapist.”
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-04T22:55:00Z'
