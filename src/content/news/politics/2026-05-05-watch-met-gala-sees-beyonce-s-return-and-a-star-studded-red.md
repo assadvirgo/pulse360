@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anna Wintour brought the glam, Beyoncé brought the fam, and Heidi Klum
   was... statuesque at this year's fundraiser.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-05T02:31:00Z'

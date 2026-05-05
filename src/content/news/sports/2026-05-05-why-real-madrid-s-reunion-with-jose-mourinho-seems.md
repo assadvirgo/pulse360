@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Will the "Special One" return to the Bernabéu? Real Madrid president
   Florentino Pérez is testing the waters. But is rehiring José Mourinho a good idea?
-displayOrder: 3
+displayOrder: 18
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-05T12:26:37Z'

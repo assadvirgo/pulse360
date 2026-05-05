@@ -5,7 +5,7 @@ countryCode: CH
 description: Darren Aronofsky will be awarded the honorary Pardo d’Onore award during
   this year’s Locarno Film Festival, which runs from August 5 to 15.&#160; Aronofsky
   will pick up the award…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-05T09:06:09Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Several races being closely watched as both parties prepare for the crucial
   midterm elections in November.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-05T08:15:22Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: A chaotic 13-minute spell from Man City in the second half of a six-goal
   thriller at Everton could prove to be the visitors' undoing in the Premier League
   title race.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-04T22:58:30Z'

@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: The suspect has been taken to hospital following the shooting in Washington.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-05T09:37:47Z'

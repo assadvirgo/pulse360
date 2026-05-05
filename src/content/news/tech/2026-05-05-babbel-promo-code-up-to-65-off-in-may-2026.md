@@ -2,7 +2,7 @@
 category: Tech
 description: Master a new language with expert-led courses. Use our verified Babbel
   coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-05T05:00:00Z'

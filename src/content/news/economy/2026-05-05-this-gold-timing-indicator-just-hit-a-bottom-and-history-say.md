@@ -2,7 +2,7 @@
 category: Economy
 description: Gold and gold miners perform best right after investors give up. This
   “extreme pessimism” is the contrarian tailwind the market has been waiting for.
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-05T11:55:00Z'

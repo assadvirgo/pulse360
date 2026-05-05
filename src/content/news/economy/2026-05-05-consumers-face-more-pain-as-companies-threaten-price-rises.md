@@ -2,7 +2,7 @@
 category: Economy
 description: Executives warn that a prolonged energy shock would increase pressure
   to pass on costs to customers
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-05T04:00:34Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: In a resounding victory Indian Prime Minister Narendra Modi's nationalist
   Hindu party has wrested control of the key state of West Bengal.
-displayOrder: 2
+displayOrder: 16
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-05T09:24:00Z'

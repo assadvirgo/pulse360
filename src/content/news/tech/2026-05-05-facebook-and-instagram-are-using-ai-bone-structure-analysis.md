@@ -5,7 +5,7 @@ countryCode: US
 description: 'Facebook and Instagram have a new way to detect and remove users under
   13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram''s
   parent company -…'
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-05T11:00:00Z'

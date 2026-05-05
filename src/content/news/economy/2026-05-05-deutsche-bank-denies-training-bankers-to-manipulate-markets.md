@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Former commodities trader’s £12mn lawsuit alleges German lender breached
   a ‘duty of care’
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-05T04:00:20Z'

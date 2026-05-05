@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Saudi Arabia, Qatar, Kuwait and Bahrain denounce strikes, as Germany,
   UK and Canada urge Iran to return to talks.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-05T03:38:53Z'

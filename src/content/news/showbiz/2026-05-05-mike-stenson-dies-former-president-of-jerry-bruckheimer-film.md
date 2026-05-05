@@ -5,7 +5,7 @@ countryCode: US
 description: 'Mike Stenson, the erstwhile president of Jerry Bruckheimer Films who
   helped usher films from Top Gun: Maverick (his final film) to Coyote Ugly over his
   25-year tenure, died at the…'
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-05-05T01:14:20Z'

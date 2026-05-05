@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Swipe at US president appears to wipe out year-long effort to establish
   rapport
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-05T04:00:34Z'
