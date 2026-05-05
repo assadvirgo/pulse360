@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Crypto exchange’s CEO says the technology is speeding up its processes,
   meaning fewer employees are needed
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-05T11:41:46Z'

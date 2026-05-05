@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Intel is on track to surpass its record market-cap level achieved back
   in 2000, with enthusiasm building over the potential for a partnership with Apple.
-displayOrder: 39
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-05T15:34:00Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: There is good news for Charlie Kaufman fans ahead of Cannes.
   The Veterans, the L.A.-based sales outfit headed by Vincent Maraval and Kim Fox,
   has announced it has…'
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-05T16:22:20Z'

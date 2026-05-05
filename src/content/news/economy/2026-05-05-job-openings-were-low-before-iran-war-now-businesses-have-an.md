@@ -5,7 +5,7 @@ countryCode: US
 description: The number of job openings in the U.S. and the speed at which businesses
   hire to fill them are still depressed — a depressing thought for anyone looking
   for work.
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-05T15:03:00Z'

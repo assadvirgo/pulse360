@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Modi&#039;s BJP won the key state of West Bengal for the first time.
   But the vote has thrown up questions that won&#039;t go away.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-05T11:29:27Z'

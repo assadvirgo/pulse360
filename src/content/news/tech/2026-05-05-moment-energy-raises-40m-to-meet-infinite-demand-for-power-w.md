@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The startup has put a spin on repurposing EV batteries, CEO Edward Chiang
   told TechCrunch.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-05T12:00:00Z'

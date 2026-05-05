@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Japanese carmaker will also combine its two production lines in UK’s
   Sunderland plant
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-05T13:03:18Z'

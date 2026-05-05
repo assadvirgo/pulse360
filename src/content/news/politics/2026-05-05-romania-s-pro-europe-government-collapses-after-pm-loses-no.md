@@ -5,7 +5,7 @@ countryCode: RO
 description: Romania's pro-European coalition government has collapsed, after MPs
   voted against Prime Minister Ilie Bolojan, plunging the country into further political
   turmoil.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-05T13:59:00Z'

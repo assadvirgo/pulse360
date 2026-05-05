@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Production is underway on Darlene Love: I Know Where I’ve
   Been, a documentary about the singer and Rock &#38; Roll Hall of Fame inductee known
   for “He’s a Rebel” and…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-05T16:00:00Z'

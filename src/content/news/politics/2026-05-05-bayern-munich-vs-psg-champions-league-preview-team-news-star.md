@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: PSG travel to Munich defending a 5-4 lead from the semifinal first leg,
   as both coaches promise more attacking football.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-05T11:23:59Z'

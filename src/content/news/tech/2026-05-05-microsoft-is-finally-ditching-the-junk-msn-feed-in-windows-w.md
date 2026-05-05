@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is finally giving up on showing the junk feed of MSN news when
   you open the widgets feature in Windows 11. After allowing Windows 11 users to disable
   the MSN feed more…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-05T09:46:52Z'

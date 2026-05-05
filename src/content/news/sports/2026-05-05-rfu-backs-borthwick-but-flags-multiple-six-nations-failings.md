@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The Rugby Football Union demands improvement from England head coach
   Steve Borthwick after their worst-ever Six Nations campaign.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-05T10:22:36Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli officials warn that violence threatens state, but attacks, land
   seizures and blockades continue in West Bank.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-05T07:44:04Z'

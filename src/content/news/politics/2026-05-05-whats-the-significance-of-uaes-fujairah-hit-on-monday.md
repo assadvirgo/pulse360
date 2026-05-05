@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: If confirmed, it would be Iran’s first attack on the UAE since the US-Iran
   ceasefire took effect on April 8.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-05T15:27:36Z'

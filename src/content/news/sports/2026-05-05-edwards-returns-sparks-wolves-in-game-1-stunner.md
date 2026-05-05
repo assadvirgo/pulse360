@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anthony Edwards and the Timberwolves held on to take Game 1 over the
   favored Spurs despite a record night from Victor Wembanyama.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-05T12:53:01Z'

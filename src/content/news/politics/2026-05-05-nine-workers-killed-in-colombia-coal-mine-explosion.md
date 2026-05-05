@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The national mining ​agency had warned weeks earlier that a buildup of
   gases at the mine could become dangerous.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-05T07:04:02Z'

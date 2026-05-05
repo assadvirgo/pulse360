@@ -5,7 +5,7 @@ countryCode: US
 description: 'Diabolical: In addition to dropping on Amazon&#8217;s Prime Video later
   this month, &#8220;The Boys&#8221; fifth and final season finale is going to be
   available to view in movie…'
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 59.8
 pubDate: '2026-05-05T15:48:51Z'

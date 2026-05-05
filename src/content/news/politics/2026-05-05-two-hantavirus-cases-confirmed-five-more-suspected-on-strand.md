@@ -2,7 +2,7 @@
 category: Politics
 description: Among the seven cases, three people have died, one is critically ill
   and three have mild symptoms, the WHO says.
-displayOrder: 28
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-05T11:00:46Z'
