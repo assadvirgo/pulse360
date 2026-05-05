@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: The operator of the MV Hondius ship says a Dutch couple and a German
   national have died.
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-05T01:14:04Z'

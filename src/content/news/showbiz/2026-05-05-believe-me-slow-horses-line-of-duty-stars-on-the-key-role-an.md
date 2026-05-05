@@ -5,7 +5,7 @@ countryCode: GB
 description: Aasiya Shah discusses the benefits of a "safe bubble," Aimée-Ffion Edwards
   shares which scenes felt most intimate, and Daniel Mays addresses his first intimacy
   coordinator…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-05T07:30:00Z'

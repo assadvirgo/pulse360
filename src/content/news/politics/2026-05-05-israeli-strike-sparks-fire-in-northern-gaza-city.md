@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Video from Gaza City shows flames rising after an Israeli strike targeted
   a group of civilians.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-05T01:57:59Z'

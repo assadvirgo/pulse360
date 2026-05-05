@@ -5,7 +5,7 @@ countryCode: GB
 description: A literary scouting subscription service is launching out of the UK today.
   Bo-sco is the brainchild of novelist and media researcher Arianna Reiche, and debuts
   with the mantra of…
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-05T08:35:09Z'

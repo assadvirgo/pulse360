@@ -5,7 +5,7 @@ countryCode: US
 description: The steady increase in earnings growth expectations has led to a compression
   in the price-earnings multiple for the S&amp;P 500 index. Furthermore, the growth
   is broader and more…
-displayOrder: 28
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-05T08:07:00Z'
