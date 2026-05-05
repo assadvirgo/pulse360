@@ -5,7 +5,7 @@ countryCode: US
 description: During Bob Bakish&#8217;s years as CEO of Paramount, the company licensed
   marquee properties like Yellowstone and South Park to third-party buyers in multi-year,
   eyebrow-raising…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-04T22:45:42Z'

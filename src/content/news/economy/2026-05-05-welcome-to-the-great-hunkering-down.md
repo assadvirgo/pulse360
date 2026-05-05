@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Why aren’t more people quitting their jobs?
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-05T04:00:34Z'

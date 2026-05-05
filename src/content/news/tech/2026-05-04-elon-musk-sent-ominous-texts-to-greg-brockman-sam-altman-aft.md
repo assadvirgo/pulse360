@@ -5,7 +5,7 @@ countryCode: US
 description: Musk texted OpenAI's president and co-founder saying that he and CEO
   Sam Altman "will be the most hated men in America" if OpenAI doesn't settle the
   suit.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-04T16:36:03Z'

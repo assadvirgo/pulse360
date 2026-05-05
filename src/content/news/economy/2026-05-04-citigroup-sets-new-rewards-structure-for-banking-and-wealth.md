@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Employees will be paid directly for generating business instead of sharing
   revenue between the group’s units
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-04T21:47:16Z'

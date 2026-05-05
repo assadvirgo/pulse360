@@ -2,7 +2,7 @@
 category: Economy
 description: A rare form of hantavirus can be spread from person to person, raising
   concern that the current outbreak is the result of the Andes virus.
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-05T01:00:00Z'

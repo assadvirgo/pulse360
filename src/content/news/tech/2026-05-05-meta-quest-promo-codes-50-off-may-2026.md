@@ -2,7 +2,7 @@
 category: Tech
 description: Experience cutting-edge VR and save up to 20% with coupons for the latest
   games, Meta Quest 3, Ray-Ban AI glasses, and more deals.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-05T05:00:00Z'

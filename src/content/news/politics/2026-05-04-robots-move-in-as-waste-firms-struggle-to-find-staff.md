@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Humanoid robots are being added to the automation of waste sorting.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-04T23:43:28Z'

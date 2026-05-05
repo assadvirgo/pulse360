@@ -5,7 +5,7 @@ countryCode: US
 description: Taraji P. Henson joined Meredith Lynch in criticizing the stars who attended
   this year&#8217;s Met Gala, since it is sponsored by honorary co-chairs Jeff Bezos
   and Lauren Sánchez…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-05T03:09:43Z'

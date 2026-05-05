@@ -5,7 +5,7 @@ countryCode: US
 description: The strongest witness for Elon Musk's case against OpenAI so far has
   been Greg Brockman's journal. Brockman himself is running as a close second. Brockman
   was called to the stand…
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-04T23:49:33Z'

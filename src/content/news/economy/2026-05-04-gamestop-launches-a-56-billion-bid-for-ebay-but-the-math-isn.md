@@ -5,7 +5,7 @@ countryCode: US
 description: While eBay shares are rising, Wall Street is questioning the financial
   engineering that would be required for GameStop to acquire a company nearly three
   times its size.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-04T19:32:00Z'

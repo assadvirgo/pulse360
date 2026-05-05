@@ -3,7 +3,7 @@ category: Politics
 country: Lebanon
 countryCode: LB
 description: Israel intensifies airstrikes
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-05-04T16:05:40Z'

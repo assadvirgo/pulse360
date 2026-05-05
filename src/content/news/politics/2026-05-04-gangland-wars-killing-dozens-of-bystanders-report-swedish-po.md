@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: Deaths due to gang violence included people hit by stray bullets, cases
   of mistaken identity, and relatives of gang members.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-04T19:12:36Z'

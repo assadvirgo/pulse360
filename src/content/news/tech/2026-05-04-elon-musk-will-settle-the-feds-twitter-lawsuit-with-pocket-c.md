@@ -5,7 +5,7 @@ countryCode: US
 description: Last year, the SEC sued Elon Musk over the way his acquisition of Twitter
   (now X, and a part of SpaceX) started, and today it announced a settlement that
   looks like a massive…
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-04T22:11:17Z'

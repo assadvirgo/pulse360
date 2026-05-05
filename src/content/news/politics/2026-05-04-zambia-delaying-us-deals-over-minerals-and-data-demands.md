@@ -4,7 +4,7 @@ country: Zambia
 countryCode: ZM
 description: Government calls for partnership not aid as it rejects US funds due to
   strategic autonomy concerns.
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-04T18:50:52Z'

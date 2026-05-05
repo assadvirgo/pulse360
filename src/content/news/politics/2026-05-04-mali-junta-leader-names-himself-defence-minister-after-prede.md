@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Former Defence Minister Sadio Camara was killed in a massive offensive
   by combined jihadist and separatist forces.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-04T18:31:38Z'

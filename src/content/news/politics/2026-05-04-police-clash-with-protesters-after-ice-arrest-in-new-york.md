@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Police clashed with protesters outside a New York hospital where a man
   arrested by ICE agents was being treated.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-04T20:39:37Z'

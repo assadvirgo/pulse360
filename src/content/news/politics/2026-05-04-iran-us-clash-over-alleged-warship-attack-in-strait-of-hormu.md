@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran claims its navy forced a US warship to turn back from the Strait
   of Hormuz as Washington denies any clash.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-04T19:02:46Z'

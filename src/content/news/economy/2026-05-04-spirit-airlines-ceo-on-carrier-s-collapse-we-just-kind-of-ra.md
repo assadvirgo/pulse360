@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Spirit Airlines shut down before dawn on Saturday ending its run as the
   most famous U.S. discount airline.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-04T21:28:34Z'

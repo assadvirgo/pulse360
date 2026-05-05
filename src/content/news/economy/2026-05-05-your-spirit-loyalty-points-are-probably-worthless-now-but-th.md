@@ -5,7 +5,7 @@ countryCode: US
 description: Loyal customers who amassed thousands of points through flight purchases
   and credit-card swipes might not see a penny in compensation for their accumulated
   rewards.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-05T02:46:00Z'
