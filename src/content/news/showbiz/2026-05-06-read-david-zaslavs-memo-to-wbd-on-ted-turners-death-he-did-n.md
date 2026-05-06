@@ -5,7 +5,7 @@ countryCode: US
 description: The death of Ted Turner today has left David Zaslav reflecting on the
   power of media and who owns what. &#8220;He believed deeply in the power of ideas,
   in doing things…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 66.0
 pubDate: '2026-05-06T15:59:21Z'

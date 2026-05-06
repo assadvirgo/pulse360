@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A jury found former New England Patriots receiver Stefon Diggs not guilty
   on charges of felony strangulation and misdemeanor assault and battery on Tuesday.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-06T04:58:10Z'

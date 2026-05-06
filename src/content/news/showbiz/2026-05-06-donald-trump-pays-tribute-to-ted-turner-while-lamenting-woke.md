@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump paid tribute to media titan Ted Turner, who died on Wednesday
   at age 87, while bashing the network he created, CNN. In a Truth Social post, Trump
   wrote, &#8220;Ted…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-06T16:12:23Z'

@@ -3,7 +3,7 @@ category: Economy
 country: South Korea
 countryCode: KR
 description: Memory chip giant’s surge pushes South Korea’s Kospi to new record
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-06T04:01:00Z'

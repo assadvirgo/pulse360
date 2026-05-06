@@ -5,7 +5,7 @@ countryCode: US
 description: The Special Opportunities Fund features such advisors as film and TV
   producer Dylan Clark and such brand stewards as Russell Binder ('Five Nights at
   Freddy’s'), highlighting its…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-06T16:00:00Z'

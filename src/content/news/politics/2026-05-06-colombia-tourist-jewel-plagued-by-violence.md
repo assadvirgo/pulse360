@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Armed groups’ extortion and turf wars in Colombia’s Sierra Nevada threaten
   Indigenous communities and tourism boom.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-06T09:27:42Z'

@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan recalls its ambassador to Addis Ababa as drone attacks shatter
   sense of calm after years of civil war.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-06T11:13:52Z'

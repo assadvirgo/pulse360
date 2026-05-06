@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: FDD&#039;s talking points on the US-Israel war on Iran have been picked
   up by the Trump administration.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-06T12:39:22Z'

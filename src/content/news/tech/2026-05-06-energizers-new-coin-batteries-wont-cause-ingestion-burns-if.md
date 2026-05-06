@@ -5,7 +5,7 @@ countryCode: US
 description: Energizer has announced a new line of lithium coin batteries it claims
   are the world's first to eliminate the risk of ingestion burns if swallowed. Its
   Ultimate Child Shield line…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-06T12:00:00Z'

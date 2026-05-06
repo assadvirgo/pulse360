@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: No cause of death disclosed for the US media mogul who revolutionised
   news broadcasting.
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-06T14:20:26Z'

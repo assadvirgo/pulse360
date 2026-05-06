@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: Revised constitution scrubs references to original doctrine while defining
   country’s borders
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-06T09:09:12Z'
