@@ -5,7 +5,7 @@ countryCode: US
 description: The next update to Apple's operating systems could allow users to choose
   their preferred AI model for running Apple Intelligence. According to Bloomberg's
   Mark Gurman, Apple is…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-05T19:45:30Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: A 15-year-old boy, Mahmoud Sahweil, was killed when Israel struck a Gaza
   police station.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-05T20:45:25Z'

@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan has recalled its ambassador to Addis Ababa, accusing Ethiopia of
   being behind attacks on Khartoum’s airport.
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-05T18:57:58Z'

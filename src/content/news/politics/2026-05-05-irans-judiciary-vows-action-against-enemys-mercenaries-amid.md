@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Authorities target accused foreign agents, citing national security,
   as executions and confiscation of assets intensify.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-05T16:25:40Z'

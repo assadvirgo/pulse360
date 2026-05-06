@@ -5,7 +5,7 @@ countryCode: US
 description: Late-night legend David Letterman is once again coming to the defense
   of Stephen Colbert, whose “Late Show” comes to a close later this month after CBS
   announced in July 2025 that…
-displayOrder: 2
+displayOrder: 3
 heroImage: ''
 importance: 71.8
 pubDate: '2026-05-06T00:30:15Z'

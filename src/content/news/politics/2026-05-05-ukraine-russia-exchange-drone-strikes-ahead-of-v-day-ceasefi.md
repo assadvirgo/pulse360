@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine strikes multiple sites in Moscow, following Russia’s strikes
   on a Ukrainian gas production facility.
-displayOrder: 23
+displayOrder: 42
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-05T16:50:32Z'

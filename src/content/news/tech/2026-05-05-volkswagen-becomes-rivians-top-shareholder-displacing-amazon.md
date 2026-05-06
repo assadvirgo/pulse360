@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: VW Group's stake will continue to grow under the $5.8 billion joint venture
   with Rivian.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-05T19:58:57Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'Editor&#8217;s Note: In what could be one of the most consequential&#160;elections
   in Los Angeles&#8217; history, the race this year for mayor sees two former allies
   in an…'
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-05T21:23:55Z'

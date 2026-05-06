@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump aide says the US has established a security &#039;dome&#039; for
   ships over Hormuz, but traffic in strait remains stalled.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-05T14:46:45Z'
