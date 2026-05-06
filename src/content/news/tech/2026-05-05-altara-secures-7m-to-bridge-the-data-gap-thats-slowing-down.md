@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying
   data siloed across spreadsheets and legacy systems.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-05T22:57:41Z'

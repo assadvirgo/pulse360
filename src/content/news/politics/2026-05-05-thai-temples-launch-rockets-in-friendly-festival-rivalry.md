@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Temples in Thailand gathered for the annual ‘Look Noo’ rocket festival,
   an ancient Mon tradition.
-displayOrder: 12
+displayOrder: 36
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-05T23:44:20Z'

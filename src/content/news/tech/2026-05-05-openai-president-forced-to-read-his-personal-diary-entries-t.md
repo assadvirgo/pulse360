@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk argued the journals show the moment when OpenAI abandoned its
   mission.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-05T22:28:12Z'

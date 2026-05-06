@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AI lending company came up short on a key profit metric, but its
   CEO says that analysts may have mismodeled seasonal trends.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-06T00:30:00Z'

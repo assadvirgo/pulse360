@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of BellRing Brands, the maker of Premier Protein drinks and PowerBar
   snacks, tumble nearly 40%.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-05T22:46:00Z'

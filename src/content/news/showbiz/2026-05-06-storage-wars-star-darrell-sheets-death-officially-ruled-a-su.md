@@ -5,7 +5,7 @@ countryCode: US
 description: Allegations that &#8220;Storage Wars&#8221; star Darrell Sheets was being
   cyber-bullied continue to be investigated in the wake of his April 22 death, Lake
   Havasu Police said…
-displayOrder: 13
+displayOrder: 37
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-06T00:07:56Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Volatility is more damaging than higher prices and will cause merchandise
   flows to drop, according to Global Trade Alert
-displayOrder: 40
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-06T04:00:11Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The sole Democrat on the FCC is calling on the agency to investigate
   and examine foreign investment in Paramount&#8217;s proposed merger with Warner
   Bros. Discovery. Paramount has…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-05T21:51:11Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US Defense Secretary Pete Hegseth says ceasefire with Iran remains in
   place despite growing tensions in Hormuz Strait.
-displayOrder: 5
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-06T00:00:00Z'

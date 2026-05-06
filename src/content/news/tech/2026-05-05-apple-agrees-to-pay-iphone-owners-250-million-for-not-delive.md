@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has agreed to pay $250 million to settle a class action lawsuit
   that accused it of misleading customers about the availability of its Apple Intelligence
   features. The…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-05T21:18:23Z'

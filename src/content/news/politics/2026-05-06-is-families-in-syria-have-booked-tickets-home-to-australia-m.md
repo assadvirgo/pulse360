@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The four women and nine children with links to Islamic State have spent
   years in a Syrian camp.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-06T01:47:48Z'
