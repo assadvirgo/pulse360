@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Brussels has warned that allowing Moscow to participate would breach
   ban on providing services to Kremlin
-displayOrder: 31
+displayOrder: 48
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-06T04:00:41Z'

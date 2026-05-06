@@ -5,7 +5,7 @@ countryCode: FI
 description: QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin,
   is now valued at €325 million (approximately $380 million) after raising a €25 million
   angel round ($29…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-06T06:47:12Z'

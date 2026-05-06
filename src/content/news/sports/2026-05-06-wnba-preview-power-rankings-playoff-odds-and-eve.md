@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Where do all 15 teams open in ESPN's WNBA Power Rankings? Can the Aces
   run it back? How good will the Fever be?
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-06T04:32:31Z'

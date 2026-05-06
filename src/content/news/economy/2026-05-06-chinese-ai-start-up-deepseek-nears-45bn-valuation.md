@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Value soars in ongoing fundraising discussions as investors including
   Tencent seek slice of AI lab
-displayOrder: 38
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-06T05:50:05Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: In his first earnings report as Disney CEO, Josh D’Amaro said he planned
   to invest in content, find new ways to reach customers and leverage new technology
   to grow the business.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-06T11:58:00Z'

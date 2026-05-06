@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Experts say Trump&#039;s pause of &#039;Project Freedom&#039; could be
   the &#039;beginning of the end&#039; for the war on Iran.
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-06T11:20:54Z'

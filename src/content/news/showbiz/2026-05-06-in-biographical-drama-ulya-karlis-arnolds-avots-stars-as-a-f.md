@@ -5,7 +5,7 @@ countryCode: LV
 description: The actor also co-wrote the script for Viesturs Kairišs' black-and-white
   Un Certain Regard film, which explores identity and takes us back to Soviet Union-era
   Latvia through the…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-06T06:59:00Z'

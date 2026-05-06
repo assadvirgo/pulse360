@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: He spent much of the race criticising the state's response to the Covid-19
   pandemic led by the Democrat nominee.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-06T01:55:26Z'

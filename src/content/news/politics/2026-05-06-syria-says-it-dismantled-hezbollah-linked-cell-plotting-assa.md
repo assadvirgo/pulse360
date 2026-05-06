@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Authorities say the cell was planning &#039;targeted assassinations against
   high-level government officials&#039;.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-06T07:45:51Z'

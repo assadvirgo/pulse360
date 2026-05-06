@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The BBC’s Nawal Al-Maghafi has been piecing together what happened on
   8 April 2026, after one of the deadliest chapters in the country’s recent history.
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-06T06:39:27Z'

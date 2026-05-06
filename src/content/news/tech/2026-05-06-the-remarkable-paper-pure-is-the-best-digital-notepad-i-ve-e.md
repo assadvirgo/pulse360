@@ -3,7 +3,7 @@ category: Tech
 description: Was I writing with pen and paper, or a stylus on a tablet? It’s getting
   more difficult than ever to tell.&#160; The Remarkable Paper Pure is a follow-up
   to 2020’s Remarkable 2 and…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-06T12:00:00Z'

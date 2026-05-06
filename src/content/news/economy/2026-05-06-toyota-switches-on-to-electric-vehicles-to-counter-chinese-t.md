@@ -3,7 +3,7 @@ category: Economy
 country: Japan
 countryCode: JP
 description: Hybrid pioneer’s push comes as rivals scale back their EV targets
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-06T01:33:23Z'
