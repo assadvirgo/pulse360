@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The visual analysis system is now operating in select countries, but
   Meta says it's working toward a broader rollout.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-05T14:27:00Z'

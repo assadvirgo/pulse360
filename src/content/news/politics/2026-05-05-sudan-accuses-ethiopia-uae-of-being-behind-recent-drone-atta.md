@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan claims it has evidence that four drone attacks have been launched
   from Ethiopia with UAE-supplied drones.
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-05T15:23:17Z'

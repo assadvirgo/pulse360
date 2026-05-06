@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump has threatened to increase tariffs on EU cars and trucks exported
   to the US from 15 percent to 25 percent.
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-05T14:22:55Z'

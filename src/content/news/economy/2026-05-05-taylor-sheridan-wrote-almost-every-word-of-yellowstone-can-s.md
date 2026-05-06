@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: He’s written hit after hit, but Sheridan is not involved in writing the
   primary ‘Yellowstone’ sequel — and that could test of his magic touch.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-05T19:36:00Z'

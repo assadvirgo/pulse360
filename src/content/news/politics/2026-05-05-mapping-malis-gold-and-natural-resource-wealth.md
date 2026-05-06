@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: The West African country holds Africa&#039;s third-largest gold reserves,
   plus vast lithium and uranium deposits.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-05T13:34:18Z'

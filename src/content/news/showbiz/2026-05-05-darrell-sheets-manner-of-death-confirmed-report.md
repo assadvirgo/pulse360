@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATE: The Mohave County Medical Examiner&#8217;s Office in Arizona
   has confirmed that Storage Wars star Darrell Sheets took his own life last month.
   The manner of death was…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-05T18:28:00Z'

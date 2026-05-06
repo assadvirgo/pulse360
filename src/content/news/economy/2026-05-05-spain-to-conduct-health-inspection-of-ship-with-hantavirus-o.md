@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Health officials now believe a couple was infected with hantavirus before
   boarding the cruise ship.
-displayOrder: 28
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-05T15:19:00Z'

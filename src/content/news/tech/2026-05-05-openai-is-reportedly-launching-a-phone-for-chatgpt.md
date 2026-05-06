@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI's first hardware product might be a phone instead of a mysterious
   Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared
   details about the…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-05T14:54:00Z'

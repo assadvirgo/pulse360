@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Dimon and Fink upbeat in separate comments about demand for the technology
   as Wall Street funds sector’s spending
-displayOrder: 30
+displayOrder: 42
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-05T17:25:17Z'

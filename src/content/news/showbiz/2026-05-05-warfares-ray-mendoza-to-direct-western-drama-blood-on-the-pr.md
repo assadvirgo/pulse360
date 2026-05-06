@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: Following his breakout with Warfare, which he and Alex Garland
   wrote and directed for A24, Ray Mendoza has found his next feature project in Blood
   On the Promontory, a…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-05T19:37:21Z'

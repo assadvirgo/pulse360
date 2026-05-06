@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: West Bengal’s Trinamool Congress chief Mamata Banerjee has firmly rejected
   stepping down after her party’s defeat.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-05T16:39:05Z'

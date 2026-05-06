@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As fertilizer costs hit 2026 highs and U.S. farmers cut planting, investors
   are looking to these stocks to hedge against food scarcity.
-displayOrder: 24
+displayOrder: 30
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-05T19:56:00Z'

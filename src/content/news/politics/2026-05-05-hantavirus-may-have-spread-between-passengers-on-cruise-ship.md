@@ -2,7 +2,7 @@
 category: Politics
 description: Two cases of the virus, which rarely spreads between humans, have been
   confirmed on the ship, and three people have died.
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-05T16:38:50Z'

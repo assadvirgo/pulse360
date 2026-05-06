@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The head of BlackRock’s fundamental equities global technology team,
   Tony Kim, says AI is rewiring the global economy, and that will just keep going.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-05T12:02:00Z'

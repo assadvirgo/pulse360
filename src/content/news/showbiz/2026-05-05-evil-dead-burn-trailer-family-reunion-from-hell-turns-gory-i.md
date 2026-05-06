@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. Pictures has released the trailer for the forthcoming horror
   film “Evil Dead Burn.” Directed by Sébastien Vaniček, the sixth installment in the
   “Evil Dead” franchise…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-05T16:12:01Z'

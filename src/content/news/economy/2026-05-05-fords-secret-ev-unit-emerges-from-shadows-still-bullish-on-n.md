@@ -5,7 +5,7 @@ countryCode: US
 description: The "Universal Electric Vehicle" platform is expected to be key to Ford
   transforming its EV unit from billions of dollars in annual losses to breakeven
   by 2029.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-05T15:26:07Z'

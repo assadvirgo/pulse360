@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Social media platform invests in equivalent to OpenClaw that aims to
   seamlessly carry out everyday tasks for users
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-05T19:18:26Z'

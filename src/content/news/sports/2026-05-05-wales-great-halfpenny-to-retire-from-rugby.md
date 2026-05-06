@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wales full-back Leigh Halfpenny announces he will retire at the end of
   the season.
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-05T17:06:59Z'
