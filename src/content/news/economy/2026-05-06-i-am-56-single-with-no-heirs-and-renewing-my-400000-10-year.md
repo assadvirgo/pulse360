@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “The agent said he could not add my brother because he does not depend
   on my income, so has no insurable interest.”
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-06T14:15:00Z'

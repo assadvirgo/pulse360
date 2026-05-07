@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: SoftBank-backed UK group says its first in-house semiconductor has drawn
   strong demand
-displayOrder: 41
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-06T20:04:36Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brad Jacobs, who built eight multibillion-dollar companies, reveals his
   repeatable process for massive returns.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-06T11:42:00Z'

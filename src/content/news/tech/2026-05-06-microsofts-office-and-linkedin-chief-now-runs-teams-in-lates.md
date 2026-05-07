@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role
   at the company as head of Office last year, and he's now getting more responsibilities
   as part of the latest…
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-06T11:45:41Z'

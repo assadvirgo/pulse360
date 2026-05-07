@@ -3,7 +3,7 @@ category: Tech
 description: It's not the Mini, it's me. Nearly five years after it launched, the
   13 Mini is still the best phone ever made. That hasn't changed; it's just that I
   changed. And as painful as it…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-06T13:00:00Z'

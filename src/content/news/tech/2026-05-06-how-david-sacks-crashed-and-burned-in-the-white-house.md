@@ -5,7 +5,7 @@ countryCode: US
 description: Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers
   about tech, politics, and Washington intrigue. (It's basically House of Cards, but
   for nerds.) Not a…
-displayOrder: 12
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-06T20:18:00Z'

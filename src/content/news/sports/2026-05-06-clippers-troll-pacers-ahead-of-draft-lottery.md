@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: If the ping-pong balls bounce to land the Pacers within picks Nos. 5
   to 9 on Sunday, the pick will be awarded to the Clippers.
-displayOrder: 13
+displayOrder: 22
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-06T16:48:06Z'

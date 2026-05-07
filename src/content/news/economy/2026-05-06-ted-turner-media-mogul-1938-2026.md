@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The founder of CNN changed the news industry — and lived large along
   the way
-displayOrder: 39
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-06T19:02:42Z'

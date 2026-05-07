@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: The baby hippo, which has been named Bumpy, was found clinging to its
   lifeless mother at a lake.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-06T12:35:15Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. Discovery&#8217;s deal to be acquired by Paramount Skydance
   is supposed to create a behemoth of a company that includes everything from the
   CBS television network to…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-06T20:04:04Z'

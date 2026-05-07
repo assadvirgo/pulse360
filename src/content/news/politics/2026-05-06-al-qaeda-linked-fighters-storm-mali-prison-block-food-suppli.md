@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Fighters attack &#039;Africa&#039;s Alcatraz&#039;, which detains high-value
   prisoners, and disrupt crucial supply chains to capital.
-displayOrder: 18
+displayOrder: 24
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-06T19:43:05Z'

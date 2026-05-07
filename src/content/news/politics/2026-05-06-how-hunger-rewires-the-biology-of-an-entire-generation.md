@@ -2,7 +2,7 @@
 category: Politics
 description: The first 1,000 days of a child&#039;s life decide how they will grow
   up. Today, 35 million children spent those days hungry.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-06T12:33:38Z'

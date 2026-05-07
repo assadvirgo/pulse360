@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: Three passengers have been evacuated from a cruise ship off the coast
   of Cape Verde after an outbreak of hantavirus.
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-06T19:42:41Z'
