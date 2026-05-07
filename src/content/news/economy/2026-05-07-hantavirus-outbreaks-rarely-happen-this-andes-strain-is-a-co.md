@@ -4,7 +4,7 @@ country: Chile
 countryCode: CL
 description: At least two people departed the MV Hondius cruise ship in late April
   and one has tested positive for the Andes strain, a type of hantavirus.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-07T02:15:00Z'

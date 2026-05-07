@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Bolivian police fired tear gas at protesters in La Paz, as three separate
   groups rallied against the government.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-07T04:51:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Castle&#039;s 21 points and Wembanyama&#039;s 19 helped Spurs crush T&#039;wolves
   133-95 as Knicks take 2-0 lead over 76ers.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-07T07:01:03Z'

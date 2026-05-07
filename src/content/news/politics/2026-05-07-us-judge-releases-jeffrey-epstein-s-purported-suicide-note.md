@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Epstein's former cellmate claims he found the note, which has not been
   verified by the BBC.
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-07T11:14:59Z'

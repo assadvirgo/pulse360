@@ -2,7 +2,7 @@
 category: Economy
 description: Energy major warns of lower gas production after damage to its facilities
   in the Gulf
-displayOrder: 29
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-07T08:34:48Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A driver was arrested chasing down a boy who was riding his bike in a
   neighbourhood in the US city of Cheney.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-07T08:13:36Z'

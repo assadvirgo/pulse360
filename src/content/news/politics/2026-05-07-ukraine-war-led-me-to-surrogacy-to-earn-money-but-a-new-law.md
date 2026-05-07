@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine is considering a law that would effectively ban foreigners from
   accessing surrogacy in the country.
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-07T05:02:12Z'

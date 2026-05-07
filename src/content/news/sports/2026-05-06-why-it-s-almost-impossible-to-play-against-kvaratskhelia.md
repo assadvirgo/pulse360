@@ -5,7 +5,7 @@ countryCode: GE
 description: Champions League analysts Nedum Onuoha, Guillem Balague and Stephen Warnock
   explain how Paris St-Germain's Khvicha Kvaratskhaelia "is a defender's worst nightmare"
   because of his…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-06T22:35:16Z'

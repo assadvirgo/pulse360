@@ -5,7 +5,7 @@ countryCode: FR
 description: Cannes Palme d’Or winner Ken Loach will be back at the festival for the
   first time in three years for a screening of Spanish Civil War drama Land and Freedom
   in the Cinéma de…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-05-07T10:52:10Z'

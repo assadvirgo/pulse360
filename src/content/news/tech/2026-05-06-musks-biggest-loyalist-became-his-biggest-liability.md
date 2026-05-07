@@ -5,7 +5,7 @@ countryCode: US
 description: 'I sat down in the Musk v. Altman trial courtroom today, painfully aware
   that no one was going to ask Shivon Zilis the question on everyone''s minds: Girl,
   what the fuck are you…'
-displayOrder: 27
+displayOrder: 48
 heroImage: ''
 importance: 75.2
 pubDate: '2026-05-06T23:37:02Z'

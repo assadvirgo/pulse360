@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces have continued to hit targets in the south of the country
   but had not attacked Lebanese capital since April 8
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-06T21:38:55Z'

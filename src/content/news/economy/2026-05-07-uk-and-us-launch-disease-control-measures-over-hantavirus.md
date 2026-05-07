@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Some passengers had already left cruise ship struck with rodent-borne
   illness before alarm was raised
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-07T10:40:50Z'

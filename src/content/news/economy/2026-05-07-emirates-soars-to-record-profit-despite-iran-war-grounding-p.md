@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Dubai airline says it has restored most flights after conflict closed
   airspace and sent jet fuel prices soaring
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-07T06:00:03Z'

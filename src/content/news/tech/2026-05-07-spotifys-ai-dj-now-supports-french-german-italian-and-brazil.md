@@ -2,7 +2,7 @@
 category: Tech
 description: Spotify's AI DJ feature now supports French, German, Italian, and Brazilian
   Portuguese.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 47.0
 pubDate: '2026-05-07T12:20:04Z'
