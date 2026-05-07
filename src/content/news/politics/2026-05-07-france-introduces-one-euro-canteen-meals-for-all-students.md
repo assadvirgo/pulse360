@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French universities are now offering 1 euro meals to all students, regardless
   of income.
-displayOrder: 15
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-07T04:27:10Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Khalil al-Hayya says his son, Azzam, was &#039;seriously wounded&#039;
   in deadly Israeli attack on Gaza City.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-07T06:37:03Z'

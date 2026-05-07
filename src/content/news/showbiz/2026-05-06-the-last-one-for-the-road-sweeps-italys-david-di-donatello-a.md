@@ -5,7 +5,7 @@ countryCode: IT
 description: Francesco Sossai’s sophomore feature “The Last One for the Road,” which
   launched from Cannes’ Un Certain Regard, is the big winner of Italy&#8217;s David
   di Donatello Awards, the…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-06T23:57:27Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: World’s second-largest container shipping line says costs have increased
   by $500mn per month
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-07T07:25:51Z'

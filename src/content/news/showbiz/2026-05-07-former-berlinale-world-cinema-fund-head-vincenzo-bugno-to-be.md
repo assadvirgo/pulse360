@@ -5,7 +5,7 @@ countryCode: FR
 description: Vincenzo Bugno, the former longtime director of the Berlinale’s World
   Cinema Fund (WCF), will be feted with the inaugural Arab Cinema Gamechanger Award
   on the fringes of the…
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-07T08:23:23Z'

@@ -5,7 +5,7 @@ countryCode: DE
 description: Bayern Munich players, coaching staff and fans at the Allianz Arena were
   in disbelief after they were denied a penalty for a handball by Joao Neves in their
   semi-final second leg…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-06T20:16:04Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Controversial AI platform Twinnin, which &#8220;bridges the
   gap between artificial intelligence and humans,&#8221; is targeting at least $3M
   via its first seed funding…'
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-07T08:00:00Z'

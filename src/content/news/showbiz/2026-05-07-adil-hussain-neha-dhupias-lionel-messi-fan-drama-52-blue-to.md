@@ -5,7 +5,7 @@ countryCode: GB
 description: '&#8220;52 Blue,&#8221; a coming-of-age drama about a sheltered young
   man&#8217;s journey from Kerala to the FIFA World Cup in Qatar in pursuit of his
   childhood idol, Lionel Messi,…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-05-07T07:00:00Z'

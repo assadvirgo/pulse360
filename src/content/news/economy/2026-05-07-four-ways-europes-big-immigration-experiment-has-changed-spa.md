@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The country accounts for a quarter of new EU jobs this decade — 70 per
   cent of them have gone to immigrants
-displayOrder: 27
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-07T04:00:14Z'

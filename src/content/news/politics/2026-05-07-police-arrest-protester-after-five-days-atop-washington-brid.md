@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Police have arrested an anti-war protester after he ended a five-day
   sit-in atop Washington’s Frederick Douglass bridge.
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-07T00:13:20Z'

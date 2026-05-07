@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The man sued his tour operator for allowing people to reserve sun loungers
   with towels despite a hotel ban on the practice.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-07T00:41:21Z'

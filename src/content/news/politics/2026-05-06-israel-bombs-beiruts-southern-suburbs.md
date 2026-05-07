@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel bombed Beirut’s southern suburbs for the first time since the
   ‘ceasefire’ took effect on April 17.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-06T21:01:40Z'

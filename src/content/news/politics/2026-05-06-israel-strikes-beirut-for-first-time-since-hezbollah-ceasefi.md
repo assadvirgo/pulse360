@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel says it targeted a senior Hezbollah figure in the capital, the
   first strike of its kind since mid-April.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-06T19:58:04Z'
