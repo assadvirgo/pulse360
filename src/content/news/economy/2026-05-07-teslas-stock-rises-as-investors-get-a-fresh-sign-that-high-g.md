@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tesla and its Chinese rivals saw record unit sales in the region last
   month.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-07T16:01:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Discarding experienced workers isn’t a strategy — it’s corporate self-sabotage
   that AI won’t fix.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-07T12:10:00Z'

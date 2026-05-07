@@ -2,7 +2,7 @@
 category: Politics
 description: New agency yet to be named to oversee elections after disbanded commission
   accused of not being independent.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-07T13:09:35Z'

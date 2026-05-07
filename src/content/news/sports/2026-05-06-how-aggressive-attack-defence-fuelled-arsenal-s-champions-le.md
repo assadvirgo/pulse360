@@ -5,7 +5,7 @@ countryCode: GB
 description: Champions League analysts Stephen Warnock, Nedum Onuoha and Guillem Balague
   explain how Arsenal were able to "make life difficult" with the use of a man-to-man
   press high up the…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-06T22:51:46Z'

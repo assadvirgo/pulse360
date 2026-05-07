@@ -5,7 +5,7 @@ countryCode: US
 description: 'Paramount+ has dropped the official trailer for Season 19 of Criminal
   Minds: Evolution, which finds Elias Voit back to help find a killer who idolizes
   him. The trailer also gives…'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-07T16:00:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli media reports suggest Israel is preparing to resume fighting
   because of the impasse in talks with Hamas.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-07T14:22:20Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: James Holder's victim told her attacker he took her "choice, dignity
   and body".
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-07T15:44:25Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Most of California&#8217;s Democratic congressional delegation sent a
   letter to Attorney General Rob Bonta on Thursday urging him to &#8220;closely scrutinize&#8221;
   the pending…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-07T15:00:00Z'

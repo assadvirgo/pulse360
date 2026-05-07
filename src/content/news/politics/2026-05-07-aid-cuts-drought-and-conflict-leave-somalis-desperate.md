@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Drought, conflict and aid cuts push Somalis into hunger as Kismayo IDP
   camps struggle to cope with the crisis.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-07T07:23:59Z'

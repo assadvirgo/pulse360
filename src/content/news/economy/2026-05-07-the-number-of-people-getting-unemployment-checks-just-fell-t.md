@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Is it getting easier to find a job? Maybe. A sluggish U.S. labor market
   appears to be coming out of its torpor.
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-07T14:54:00Z'

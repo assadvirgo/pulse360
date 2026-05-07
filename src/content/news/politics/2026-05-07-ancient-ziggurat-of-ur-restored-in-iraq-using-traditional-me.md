@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Restoration work is underway at the ancient Ziggurat of Ur, a monumental
   stepped temple in Iraq.
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-07T13:10:27Z'

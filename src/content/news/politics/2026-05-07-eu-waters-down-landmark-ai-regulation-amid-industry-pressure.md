@@ -2,7 +2,7 @@
 category: Politics
 description: Overnight, EU lawmakers agreed to water down their AI legislation that
   was world-leading when it launched in 2024.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-07T10:08:00Z'

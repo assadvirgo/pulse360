@@ -5,7 +5,7 @@ countryCode: KR
 description: 'II know I''m not the only person who wants a MacBook Pro for Windows:
   a sleek, ultra powerful, super portable machine with an excellent screen and high-quality
   build. Samsung''s…'
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-07T15:00:00Z'

@@ -5,7 +5,7 @@ countryCode: UA
 description: Two-time Berlinale Silver Bear winner Małgorzata Szumowska (“Body,” “Mug”)
   and longtime collaborator Michał Englert have quietly wrapped production on “Bodies
   (of War),” a…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-07T11:24:33Z'
