@@ -5,7 +5,7 @@ countryCode: US
 description: If you thought David Zaslav had said all he had to say on the life and
   death of CNN founder Ted Turner in his memo to Warner Bros Discovery staff earlier
   Wednesday, think again.…
-displayOrder: 7
+displayOrder: 9
 heroImage: ''
 importance: 67.0
 pubDate: '2026-05-06T21:04:51Z'

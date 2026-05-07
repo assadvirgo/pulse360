@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Russian punk band Pussy Riot and members of a Ukrainian feminist group
   stormed the Russian pavilion at an arts festival in protest at Moscow's participation.
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-06T20:00:00Z'

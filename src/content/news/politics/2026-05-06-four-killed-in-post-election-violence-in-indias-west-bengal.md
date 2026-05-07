@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Unrest grips the key eastern state after Modi&#039;s Hindu nationalist
   BJP wins the state election for the first time.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-06T15:03:45Z'

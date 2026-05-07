@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Replacing authentic leadership with a digital doppelgänger isn’t innovation
   — it’s a high-tech retreat from accountability.
-displayOrder: 23
+displayOrder: 31
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-06T21:24:00Z'

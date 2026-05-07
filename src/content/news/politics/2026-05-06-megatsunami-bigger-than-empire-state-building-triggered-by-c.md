@@ -5,7 +5,7 @@ countryCode: US
 description: A tsunami at a popular tourist spot in Alaska was the second highest
   ever recorded and it was "unbelievably lucky" no one was hurt, researchers have
   said.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 74.0
 pubDate: '2026-05-06T14:40:00Z'

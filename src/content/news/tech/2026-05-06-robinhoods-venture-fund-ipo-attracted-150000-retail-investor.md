@@ -5,7 +5,7 @@ countryCode: US
 description: Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined
   the fintech’s new venture fund, which offers exposure to private tech companies
   like OpenAI, Stripe,…
-displayOrder: 12
+displayOrder: 20
 heroImage: ''
 importance: 62.0
 pubDate: '2026-05-06T19:10:09Z'

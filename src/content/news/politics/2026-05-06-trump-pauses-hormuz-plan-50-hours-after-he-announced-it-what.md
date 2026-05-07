@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president pauses the military operation to get ships through the
   Strait of Hormuz two days after he announced it.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-06T13:39:09Z'

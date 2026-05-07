@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The media mogul pioneered the modern 24-hour news culture when he launched
   the Cable News Network in 1980.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-06T15:46:06Z'

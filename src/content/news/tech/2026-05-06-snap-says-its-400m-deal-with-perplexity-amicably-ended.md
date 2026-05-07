@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The deal, announced last November, would have seen Perplexity's AI search
   engine integrated directly into Snapchat.
-displayOrder: 14
+displayOrder: 19
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-06T21:43:24Z'

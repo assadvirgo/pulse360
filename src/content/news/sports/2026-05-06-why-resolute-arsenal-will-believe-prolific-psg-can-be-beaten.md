@@ -5,7 +5,7 @@ countryCode: GB
 description: With Paris St-Germain waiting in the Champions League final, will Arsenal
   withstand the firepower of one of Europe's most formidable attacks and lift the
   trophy for the first time…
-displayOrder: 19
+displayOrder: 23
 heroImage: ''
 importance: 50.2
 pubDate: '2026-05-06T22:19:46Z'
