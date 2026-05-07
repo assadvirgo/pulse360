@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: European capitals fear continued fisheries co-operation in Barents Sea
   is increasing security risks
-displayOrder: 43
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-07T04:00:04Z'

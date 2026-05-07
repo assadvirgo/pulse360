@@ -3,7 +3,7 @@ category: Tech
 country: Taiwan
 countryCode: TW
 description: TSMC backs renewables during record demand for energy-hungry chip manufacturing.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-06T21:47:27Z'

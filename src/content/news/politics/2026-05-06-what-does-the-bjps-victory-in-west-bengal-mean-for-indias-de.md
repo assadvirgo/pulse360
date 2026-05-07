@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: These state elections could reshape national politics for 200 million
   Muslims.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-06T19:34:35Z'

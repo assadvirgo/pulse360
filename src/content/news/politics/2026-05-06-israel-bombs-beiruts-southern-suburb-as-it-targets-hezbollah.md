@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: It was the first attack on Beirut&#039;s southern suburbs since a truce
   in the Israel-Hezbollah war went into force on April 17.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-06T17:35:39Z'

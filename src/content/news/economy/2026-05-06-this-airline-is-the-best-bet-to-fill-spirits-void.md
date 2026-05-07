@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Frontier is ready to pounce on routes left by Spirit.
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-06T19:56:00Z'
