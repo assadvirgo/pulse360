@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year,
   has emphasized his intent to streamline the Disney experience.
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-07T21:40:10Z'

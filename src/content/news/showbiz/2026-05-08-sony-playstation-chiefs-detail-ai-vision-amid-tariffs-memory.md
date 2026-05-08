@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony Group Corporation and its PlayStation division have outlined an
   AI strategy built on the principle that human creativity must anchor every application
   of the technology, with…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 59.8
 pubDate: '2026-05-08T07:58:27Z'

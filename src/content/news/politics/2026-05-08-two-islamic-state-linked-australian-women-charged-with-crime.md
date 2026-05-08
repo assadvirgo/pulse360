@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: A third woman who also returned to Australia from Syria was charged with
   joining a terrorist organisation.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-08T05:07:55Z'

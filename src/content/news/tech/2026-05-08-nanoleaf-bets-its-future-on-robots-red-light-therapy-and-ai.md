@@ -5,7 +5,7 @@ countryCode: US
 description: Smart lighting company Nanoleaf has been unusually quiet recently. While
   competitors such as Govee and Philips Hue have been pumping out new products and
   innovative features at an…
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-08T12:15:00Z'

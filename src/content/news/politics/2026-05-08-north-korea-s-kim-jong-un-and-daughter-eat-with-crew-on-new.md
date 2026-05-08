@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: Kim Jong Un and his daughter have been pictured eating with crew as they
   inspected North Korea's most advanced warship.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-08T06:55:00Z'

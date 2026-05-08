@@ -2,7 +2,7 @@
 category: Politics
 description: From squad submission deadlines to player replacements, Al Jazeera breaks
   down the key information for the tournament.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-08T07:12:11Z'

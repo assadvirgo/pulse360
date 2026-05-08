@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Start-up behind Claude tool is fielding inbound investment offers that
   could lead to it surpassing rival OpenAI in value
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-08T04:00:14Z'

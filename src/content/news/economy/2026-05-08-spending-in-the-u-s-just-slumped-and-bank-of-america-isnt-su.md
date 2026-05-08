@@ -5,7 +5,7 @@ countryCode: US
 description: Something funny just happened in the U.S. economy, according to Bank
   of America after the nation’s number-two bank looked at credit- and debit-card use
   by its customers.
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-08T10:24:00Z'

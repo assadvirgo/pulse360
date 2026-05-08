@@ -5,7 +5,7 @@ countryCode: GB
 description: When Unai Emery arrived at Aston Villa he declared he wanted to win trophies.
   He is now just a game away from silverware after a crushing Europa League semi-final
   win against…
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-07T23:06:44Z'

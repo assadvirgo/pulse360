@@ -5,7 +5,7 @@ countryCode: US
 description: The tech sector is leading a rush of mass layoffs. Cloudflare, Upwork,
   Bill outlined big cuts on Thursday, following Coinbase’s announcement earlier in
   the week.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-05-08T00:17:00Z'

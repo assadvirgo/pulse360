@@ -5,7 +5,7 @@ countryCode: NL
 description: Screenxcope has acquired Australian and New Zealand rights to &#8220;Roid,&#8221;
   partnering with DeshiEvents for a theatrical release slated for early June across
   both…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-08T10:47:51Z'

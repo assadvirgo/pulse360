@@ -2,7 +2,7 @@
 category: Economy
 description: If spending on artificial intelligence is a marathon, its finish line
   is not even in sight.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-08T08:57:00Z'

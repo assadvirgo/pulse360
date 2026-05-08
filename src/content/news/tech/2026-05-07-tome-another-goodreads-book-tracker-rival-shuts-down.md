@@ -3,7 +3,7 @@ category: Tech
 description: Built on the back of the sizable and influential BookTok community --
   creators who discuss and review books on TikTok -- the app offered readers a place
   to chronicle and rate…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-07T18:38:58Z'

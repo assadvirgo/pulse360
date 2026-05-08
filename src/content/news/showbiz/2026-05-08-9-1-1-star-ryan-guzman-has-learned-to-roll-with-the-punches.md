@@ -5,7 +5,7 @@ countryCode: US
 description: After surviving another finale, Guzman opens up about fighting to be
   included in the ABC drama's ICE raid storyline, how playing Eddie has helped him
   come to terms with his own…
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-08T11:30:00Z'

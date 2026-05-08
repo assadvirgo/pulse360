@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Operator of bright green e-bikes and scooters plans US listing this year
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-08T11:17:25Z'
