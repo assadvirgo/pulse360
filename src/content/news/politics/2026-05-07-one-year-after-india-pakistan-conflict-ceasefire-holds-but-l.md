@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: A year after their military conflict, India and Pakistan avoid war, but
   diplomacy and trust remain frozen.
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-07T22:59:31Z'

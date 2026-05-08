@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: The story includes details about the Season 22 finale
   of ABC&#8217;s Grey&#8217;s Anatomy. Grey&#8217;s Anatomy changed things up in Season
   22. Instead of ending…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-08T03:00:00Z'

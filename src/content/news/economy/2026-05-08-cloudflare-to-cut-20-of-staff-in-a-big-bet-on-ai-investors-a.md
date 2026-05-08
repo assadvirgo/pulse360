@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company’s stock falls as co-founders say the layoffs are “not a cost-cutting
   exercise.”
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-08T00:32:00Z'

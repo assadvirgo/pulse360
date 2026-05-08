@@ -5,7 +5,7 @@ countryCode: US
 description: Valve's new Steam Controller sold out quickly when it went on sale on
   Monday, and the company is going to open a "reservations queue" on Friday at 1PM
   ET for anyone who missed…
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-07T18:06:01Z'

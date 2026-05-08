@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Draft resolution demands Iran halt attacks, pin-point mines and ensure
   passage of humanitarian aid through strait.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-07T19:32:23Z'

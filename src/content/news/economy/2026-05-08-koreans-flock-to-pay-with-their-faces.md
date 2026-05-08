@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Fintech company aims to ‘eliminate physical credit cards’ in South Korea
   in three years
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-08T03:00:16Z'

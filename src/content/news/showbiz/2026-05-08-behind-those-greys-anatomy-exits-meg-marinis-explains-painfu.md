@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The showrunner opens up to The Hollywood Reporter about having to say
   goodbye to longtime stars Kevin McKidd and Kim Raver with the season 22 finale.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 62.8
 pubDate: '2026-05-08T03:02:54Z'

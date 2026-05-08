@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump says the ceasefire with Iran is still in effect,
   despite clashes in the Strait of Hormuz.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 70.5
 pubDate: '2026-05-08T04:25:03Z'
