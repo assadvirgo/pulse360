@@ -5,7 +5,7 @@ countryCode: US
 description: Sony's flagship anime platform will gather Japanese and Hollywood content
   executives, plus tech, gaming and music counterparts, for an inaugural summit held
   alongside New York…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-08T07:00:00Z'

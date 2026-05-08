@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fear and uncertainty linger for Somali migrants in Minnesota despite
   a legal reprieve.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-07T23:54:06Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Warring sides accuse each other of violations as attacks continue across
   front lines.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 74.5
 pubDate: '2026-05-08T07:44:15Z'

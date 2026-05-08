@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australian media mogul’s funds to invest in Architect Capital SPV taking
   a minority stake in platform
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-08T04:00:04Z'

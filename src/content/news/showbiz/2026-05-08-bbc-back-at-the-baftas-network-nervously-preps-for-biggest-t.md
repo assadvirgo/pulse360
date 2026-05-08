@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: The BBC&#8217;s biggest test since the BAFTA Film Awards
   has almost arrived. Sunday night&#8217;s BAFTA TV Awards come less than three months
   after the debacle at its…'
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-08T08:00:00Z'

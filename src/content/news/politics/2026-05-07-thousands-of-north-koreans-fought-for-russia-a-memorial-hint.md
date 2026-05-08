@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: An estimated 11,000 North Korean soldiers were sent to fight in Russia's
   war against Ukraine.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-07T22:20:56Z'

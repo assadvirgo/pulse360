@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT! This post contains details from the Season 22 finale of
   Grey&#8217;s Anatomy. Teddy Altman&#8217;s (Kim Raver) tenure at Grey Sloan Memorial
   Hospital has come to an…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 71.0
 pubDate: '2026-05-08T03:01:00Z'

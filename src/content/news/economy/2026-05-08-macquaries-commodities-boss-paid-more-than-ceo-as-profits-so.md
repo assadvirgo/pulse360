@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Simon Wright awarded A$35mn annual pay as energy markets drive bumper
   returns at ‘millionaires’ factory’
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-08T03:59:58Z'

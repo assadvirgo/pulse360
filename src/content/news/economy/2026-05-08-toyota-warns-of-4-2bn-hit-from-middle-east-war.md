@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: World’s biggest carmaker sells record 10.5mn vehicles last year on strong
   demand for hybrids
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-08T06:07:29Z'

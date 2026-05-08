@@ -5,7 +5,7 @@ countryCode: US
 description: To celebrate founder Peter Dering’s birthday, Peak Design is taking up
   to 50 percent off a host of bags and accessories through May 8. The sale includes
   steep discounts on many of…
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-05-07T19:04:30Z'
