@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Last year, Rob Eric, who was previously Chief Creative Officer
   at Queer Eye producer Scout Productions and Bachelor in Paradise director Ramy Romany
   launched From The…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-07T20:07:00Z'

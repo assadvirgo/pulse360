@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Clashes erupt in La Paz as workers protest against rising fuel prices
   and damaged vehicles caused by subsidy cuts.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 55.5
 pubDate: '2026-05-07T18:17:11Z'

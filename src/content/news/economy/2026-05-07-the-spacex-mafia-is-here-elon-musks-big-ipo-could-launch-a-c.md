@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SpaceX employees and alumni have an ‘insane network’ and will soon be
   able to tap a lot of cash, expanding the mini-SpaceXs orbiting the upcoming IPO
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-07T16:27:00Z'

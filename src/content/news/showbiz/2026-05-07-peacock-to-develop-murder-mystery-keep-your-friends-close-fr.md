@@ -5,7 +5,7 @@ countryCode: US
 description: Peacock is developing the murder mystery series &#8220;Keep Your Friends
   Close,&#8221; Variety has learned exclusively. The project hails from writer and
   executive producer Leo…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-07T16:00:00Z'

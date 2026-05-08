@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nonprofit grid operator PJM has called for reforms, but the ’devil is
   in the details’ as it seeks to avoid a worst-case scenario.
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-07T19:24:00Z'

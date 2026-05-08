@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: While Wall Street fixates on the “Magnificent Seven,” South Korea’s KOSPI
   has quietly delivered a staggering 75% gain since January.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 44.5
 pubDate: '2026-05-07T19:59:00Z'

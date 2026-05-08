@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Discarding experienced workers isn’t a strategy — it’s short-sighted
   thinking that AI won’t fix.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-07T16:07:00Z'

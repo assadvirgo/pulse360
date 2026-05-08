@@ -5,7 +5,7 @@ countryCode: US
 description: The device comes with health and fitness tracking like 24/7 heart rate,
   heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate
   variability, sleep stages…
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-07T15:17:38Z'

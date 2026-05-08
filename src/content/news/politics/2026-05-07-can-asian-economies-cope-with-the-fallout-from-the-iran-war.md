@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Fuel costs, inflation and debt pressures are testing Asian economies.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-07T11:35:57Z'

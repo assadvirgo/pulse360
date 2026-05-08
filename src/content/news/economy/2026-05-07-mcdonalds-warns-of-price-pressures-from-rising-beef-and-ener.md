@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fast food group beats expectations but executives say rising expenses
   are constricting cash flows for franchisees
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-07T15:59:47Z'

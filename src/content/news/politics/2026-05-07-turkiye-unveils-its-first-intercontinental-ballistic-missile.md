@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: The Yildirimhan ICBM has a range 6,000km, with a maximum speed of Mach
   25 and a payload capacity of 3,000kg.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-07T11:40:38Z'

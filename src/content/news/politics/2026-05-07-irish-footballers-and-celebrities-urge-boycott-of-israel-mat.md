@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Irish campaign group accuses Israel of engaging ⁠in &#039;genocide&#039;
   in war on Gaza ahead of UEFA Nations League game.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-07T11:42:03Z'

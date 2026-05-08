@@ -2,7 +2,7 @@
 category: Politics
 description: A series exploring the systems of power that sustain militarism and the
   profound impact they have on us all.
-displayOrder: 28
+displayOrder: 44
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-07T13:05:13Z'
