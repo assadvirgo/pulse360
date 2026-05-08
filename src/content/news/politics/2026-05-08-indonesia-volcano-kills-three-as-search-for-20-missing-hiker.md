@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Mount Dukono erupts on Halmahera island, trapping hikers who went to
   the area despite it being closed since April 17.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-08T07:43:03Z'

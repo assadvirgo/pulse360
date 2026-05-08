@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa's top court has found against president Cyril Ramaphosa
   over the "Farmgate" scandal.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-08T08:11:00Z'

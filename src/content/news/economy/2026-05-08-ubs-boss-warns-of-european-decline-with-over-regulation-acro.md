@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Sergio Ermotti tells FT it would take a ‘very profound and painful crisis’
   to pressure politicians to take action
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-08T12:46:12Z'

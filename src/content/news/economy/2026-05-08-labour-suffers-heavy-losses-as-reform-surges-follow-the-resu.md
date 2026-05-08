@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Keir Starmer’s party has lost around 200 seats and control of eight councils
   in England’s local elections
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-08T07:05:39Z'

@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Zamalek travel to Algeria&#039;s USM Alger on Saturday for the first
   leg of their Confederation Cup final on Saturday.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-08T13:57:47Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Virginia&#039;s top court blocks redistricting plan, handing Republicans
   a key win before crucial midterm elections.
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-08T15:08:07Z'

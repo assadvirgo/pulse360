@@ -5,7 +5,7 @@ countryCode: US
 description: Native Instruments' suite of music production software and gear, including
   Traktor and Kontakt, will soon live under the inMusic umbrella alongside other music
   tech brands like…
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-08T15:20:54Z'

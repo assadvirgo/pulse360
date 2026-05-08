@@ -5,7 +5,7 @@ countryCode: US
 description: The Instructure-owned learning management platform, Canvas, is now online
   again after it went down following a massive data breach that impacted student names,
   email addresses, ID…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-05-07T21:29:27Z'

@@ -5,7 +5,7 @@ countryCode: SE
 description: The EP-136 KO Sidekick is Teenage Engineering's stylish new two-channel
   mixer, clearly designed to connect two of its KO-II samplers for live performances
   and DJ sets. Though, it…
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-08T16:24:56Z'

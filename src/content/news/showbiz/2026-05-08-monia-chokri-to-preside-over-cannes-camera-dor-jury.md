@@ -5,7 +5,7 @@ countryCode: CA
 description: Québécois actress, director, and screenwriter Monia Chokri will preside
   over the jury for the Cannes Film Festival‘s Caméra d’Or prize. The award is given
   to a first work across…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 67.8
 pubDate: '2026-05-08T15:50:37Z'
