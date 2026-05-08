@@ -5,7 +5,7 @@ countryCode: US
 description: The secret to making a documentary worthy of comedy legend John Candy
   was to lean into the magic he created on screen in films that include Planes, Trains,
   and Automobiles, Uncle…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-07T22:25:00Z'

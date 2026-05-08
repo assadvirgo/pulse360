@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran accused the US of violating the ceasefire by targeting Iranian vessels
   and carrying out strikes on coastal areas.
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 70.5
 pubDate: '2026-05-08T00:00:00Z'

@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The BBC's Katy Watson explains the case, the cultural sensitivities and
   why it has caused so much anger.
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-07T19:03:39Z'

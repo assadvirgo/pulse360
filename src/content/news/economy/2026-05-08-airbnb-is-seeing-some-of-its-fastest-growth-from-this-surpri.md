@@ -2,7 +2,7 @@
 category: Economy
 description: The travel app has seen some demand disruptions from the Iran war, but
   is showing early success with its recent pivot into offering hotel bookings
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-08T00:26:00Z'

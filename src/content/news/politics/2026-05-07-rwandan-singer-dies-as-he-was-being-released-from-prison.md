@@ -4,7 +4,7 @@ country: Rwanda
 countryCode: RW
 description: The former university lecturer was a vocal critic of the government and
   ruling Rwandan Patriotic Front party.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-07T16:12:50Z'

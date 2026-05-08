@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company said revenue would’ve grown more not counting its recent
   acquisitions, but analysts say they put SoundHound in a strong position.
-displayOrder: 16
+displayOrder: 19
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-08T00:29:00Z'

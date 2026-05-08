@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: June 2025 attack targeted supporters of Israeli captives in Gaza; Advocates
   say family of assailant unjustly targeted.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-07T18:20:56Z'

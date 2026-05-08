@@ -5,7 +5,7 @@ countryCode: US
 description: US President Donald Trump says he "wouldn't pay it either" when asked
   about the potential ticket price to watch his country play Paraguay in their 2026
   World Cup opener.
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-07T18:53:49Z'

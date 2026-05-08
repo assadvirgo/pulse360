@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinian detainees and rights groups share disturbing accounts of
   rape, sexual violence and physical abuse.
-displayOrder: 18
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-07T20:37:46Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: White-ball wrist-spinner Jake Lintott will leave Warwickshire at the
   end of the season.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-07T12:12:44Z'

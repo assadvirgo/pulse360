@@ -2,7 +2,7 @@
 category: Sports
 description: Fanatics will provide collectibles such as sticker albums for Fifa from
   2031 onwards after a new deal was signed on Thursday.
-displayOrder: 43
+displayOrder: 49
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-07T16:14:04Z'

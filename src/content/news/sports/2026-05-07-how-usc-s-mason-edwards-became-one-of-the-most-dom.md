@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: USC pitcher Mason Edwards was once a late high school recruit. Now he's
   eyeing the first round of the MLB draft.
-displayOrder: 45
+displayOrder: 50
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-07T12:27:48Z'

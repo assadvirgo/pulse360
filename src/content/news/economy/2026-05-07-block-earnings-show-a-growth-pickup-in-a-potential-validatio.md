@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 100% of Block employees now use AI at work, three months after the company’s
   eye-popping mass-layoff announcement.
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-07T20:18:00Z'

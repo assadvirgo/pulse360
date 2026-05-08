@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI has taken the corporate quest for efficiency to a new level — and
   it’s middle managers who seem to be getting left behind.
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-07T19:49:00Z'

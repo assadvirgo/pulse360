@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In letter to CENTCOM commander, 12 Democrats raise questions about possible
   US role in Israel&#039;s &#039;mass evacuation zones&#039;.
-displayOrder: 17
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-07T20:53:11Z'
