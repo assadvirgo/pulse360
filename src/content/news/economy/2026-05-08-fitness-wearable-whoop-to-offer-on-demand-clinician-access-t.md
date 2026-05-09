@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Whoop is introducing on-demand clinician access and AI-powered health
   guidance, largely included in the price of membership.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-08T19:26:06Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Inspire Brands — which owns Dunkin’, Arby’s and other chains — has confidentially
   filed for an IPO.
-displayOrder: 34
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-08T22:07:00Z'

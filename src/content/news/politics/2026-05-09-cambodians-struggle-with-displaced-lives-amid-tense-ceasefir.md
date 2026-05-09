@@ -4,7 +4,7 @@ country: Cambodia
 countryCode: KH
 description: Families displaced by fighting fear new clashes with Thailand, say education
   among areas most affected by border war.
-displayOrder: 2
+displayOrder: 17
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-09T01:23:18Z'

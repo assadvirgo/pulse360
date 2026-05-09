@@ -4,7 +4,7 @@ country: Costa Rica
 countryCode: CR
 description: Fernandez enters office with her right-wing party holding an absolute
   majority in the legislature.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-05-08T20:12:50Z'

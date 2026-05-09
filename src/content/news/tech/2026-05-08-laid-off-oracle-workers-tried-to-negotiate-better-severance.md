@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some found out they didn't qualify for WARN Act protections like two-months
   notice because the company had classified them as remote workers.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-08T22:59:05Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tehran’s hundreds of small, fast boats are vital in maintaining its stranglehold
   on global energy markets
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-09T04:00:35Z'

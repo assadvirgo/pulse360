@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Robust trade surplus shows US tariffs have done little to dent the country’s
   manufacturing prowess
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-09T03:53:42Z'

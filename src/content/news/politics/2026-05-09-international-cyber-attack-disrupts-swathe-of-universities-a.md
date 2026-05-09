@@ -2,7 +2,7 @@
 category: Politics
 description: A hacking group breached the academic software Canvas, used by thousands
   of schools and universities across the globe.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-09T01:17:55Z'

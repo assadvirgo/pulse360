@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Which rookies fit the best with their new NFL schemes? We picked out
   15, including Jadarian Price joining the Seahawks' offense.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-05-09T00:36:12Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It’s been a struggle to secure funding for hantavirus research because
   these viruses haven’t been a priority.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-08T17:43:00Z'
