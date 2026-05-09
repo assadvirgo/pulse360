@@ -5,7 +5,7 @@ countryCode: US
 description: Anthony “Tony” Eugene Amatullo Jr., a former Warner Bros. executive and
   producer who worked on TV shows including “ER” and “The West Wing,” died Sunday
   in Manhattan. He was 76.…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 67.8
 pubDate: '2026-05-08T23:55:41Z'

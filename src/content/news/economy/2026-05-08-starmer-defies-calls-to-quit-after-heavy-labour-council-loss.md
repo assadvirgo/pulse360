@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Nigel Farage’s Reform UK makes gains in English local elections
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-08T11:49:36Z'

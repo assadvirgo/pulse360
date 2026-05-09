@@ -3,7 +3,7 @@ category: Politics
 description: Thousands of people have taken part in the Palestine Marathon and Half
   Marathon which returned to the West Bank city of Bethlehem after a two-year pause
   because of restrictions…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-08T12:51:50Z'

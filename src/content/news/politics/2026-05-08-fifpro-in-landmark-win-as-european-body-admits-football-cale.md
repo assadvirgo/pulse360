@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Players&#039; union challenges French state&#039;s failure to protect
   professional footballers from risks to health and safety.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-08T15:48:01Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company was granted an extension until May 18 on a $5 million debt
   payment after issuing a going-concern warning earlier this year.
-displayOrder: 33
+displayOrder: 46
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-08T15:52:00Z'

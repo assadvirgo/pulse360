@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Leicestershire are bowled out for 328 by Sussex on day one of their County
   Championship match at Hove.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-08T18:07:11Z'

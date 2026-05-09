@@ -5,7 +5,7 @@ countryCode: US
 description: 'The social satire &#8220;Our Hero, Balthazar&#8221; has an incredibly
   dark logline: A young man named Balthazar (Jaeden Martell), who spends time forcing
   tears for online videos…'
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-08T22:07:13Z'

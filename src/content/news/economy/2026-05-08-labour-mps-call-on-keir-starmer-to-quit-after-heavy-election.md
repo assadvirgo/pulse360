@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Nigel Farage’s Reform UK makes big gains on English councils, while nationalist
   parties triumph in Scotland and Wales
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-08T22:51:06Z'

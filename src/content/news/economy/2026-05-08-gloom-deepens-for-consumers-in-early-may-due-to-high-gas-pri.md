@@ -5,7 +5,7 @@ countryCode: US
 description: Consumer sentiment hit a record low in May, the University of Michigan
   said, and showed the lowest reading among Republicans since President Donald Trump’s
   2024 election.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 70.5
 pubDate: '2026-05-08T15:47:00Z'

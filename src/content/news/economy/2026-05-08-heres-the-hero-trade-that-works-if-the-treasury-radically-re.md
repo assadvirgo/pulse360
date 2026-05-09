@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The ‘bond king’ put a bond-swap plan into action a couple of years ago
   as he sees the U.S. government’s funding woes worsening.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-08T15:30:00Z'

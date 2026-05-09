@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CloudFlare announced its first large-scale layoff. CEO Matthew Prince
   says because of AI efficiency gains, the company doesn't need as many support roles.
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-08T18:33:21Z'
