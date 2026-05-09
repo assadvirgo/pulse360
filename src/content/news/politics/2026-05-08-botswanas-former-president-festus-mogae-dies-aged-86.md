@@ -4,7 +4,7 @@ country: Botswana
 countryCode: BW
 description: The former leader won praise for good governance and the fight against
   HIV/AIDS in the southern African nation.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-08T14:25:01Z'

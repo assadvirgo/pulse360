@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Protesters in Tenerife are voicing opposition to the imminent arrival
   of a cruise ship hit by hantavirus outbreak
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-08T18:56:11Z'

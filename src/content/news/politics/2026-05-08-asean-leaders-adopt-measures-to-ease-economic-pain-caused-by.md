@@ -2,7 +2,7 @@
 category: Politics
 description: The bloc currently imports more than half of its crude oil from the Middle
   East.
-displayOrder: 13
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-08T18:07:49Z'

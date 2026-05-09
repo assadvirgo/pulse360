@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Fed chair nominee has filed 69 pages about his finances that mostly
   tell you what he won’t tell you. The Senate is ready to confirm him anyway.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-08T14:04:00Z'

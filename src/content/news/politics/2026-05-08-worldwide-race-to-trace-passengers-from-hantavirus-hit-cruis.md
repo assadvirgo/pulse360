@@ -2,7 +2,7 @@
 category: Politics
 description: About 12 countries have so far been linked to the hantavirus outbreak
   on the MV Hondius, as the UN health agency confirms at least five cases.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-08T14:47:31Z'

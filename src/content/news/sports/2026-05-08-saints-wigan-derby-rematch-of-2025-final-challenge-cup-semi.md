@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A derby and a repeat of the 2025 final are this year's Challenge Cup
   semi-finals - but who will seal their place at Wembley on 30 May?
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-08T11:15:23Z'

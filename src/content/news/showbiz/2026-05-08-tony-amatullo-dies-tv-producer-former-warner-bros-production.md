@@ -5,7 +5,7 @@ countryCode: US
 description: Tony Amatullo, an associate producer on TV series including Fame and
   Miami Vice and later an exec producer on the Reelz 2013 series Beverly Hills Pawn
   as well as a production…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-08T19:55:24Z'

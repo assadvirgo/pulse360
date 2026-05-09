@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The deal makes up about half of the $650 million WMG reported that they
   spent through a joint venture catalog acquisition with Bain Capital.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-08T19:25:18Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Referendum approving party’s plan to redraw congressional map is overturned
   by judges
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-08T16:55:30Z'

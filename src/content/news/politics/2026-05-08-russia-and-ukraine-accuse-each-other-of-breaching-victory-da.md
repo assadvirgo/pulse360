@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The two sides report responding to hundreds of drone attacks, just hours
   into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 72.2
 pubDate: '2026-05-08T11:42:35Z'
