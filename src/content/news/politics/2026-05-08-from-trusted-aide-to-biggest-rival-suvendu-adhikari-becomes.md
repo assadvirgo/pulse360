@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: A former ally of Mamata Banerjee, the BJP leader will be West Bengal’s
   next chief minister.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-05-08T23:47:39Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: German company backed by Spotify’s Daniel Ek set to raise $1.2bn in latest
   funding round
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-09T11:15:20Z'

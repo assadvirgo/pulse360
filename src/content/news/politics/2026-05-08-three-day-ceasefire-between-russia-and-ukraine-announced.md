@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A three-day ceasefire has been agreed by the leaders of Russia and Ukraine,
   as well as an exchange of prisoners, following a request from Donald Trump.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-08T18:57:00Z'

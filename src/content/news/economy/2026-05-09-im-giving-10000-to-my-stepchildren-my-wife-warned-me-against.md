@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “Our net worth is about $4 million, and we are both 60.”
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-09T10:46:00Z'

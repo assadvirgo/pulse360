@@ -5,7 +5,7 @@ countryCode: PL
 description: The first weekend of Millennium Docs Against Gravity – the prestigious
   international film festival in Poland – is underway after opening with Closure,
   the new film directed by…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-09T08:00:00Z'

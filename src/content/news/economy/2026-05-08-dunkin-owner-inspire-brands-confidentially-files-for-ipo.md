@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The restaurant company owns Dunkin', Arby's, Buffalo Wild Wings, Baskin
   Robbins, Sonic Drive-In and Jimmy John's.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-08T19:52:42Z'

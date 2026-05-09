@@ -5,7 +5,7 @@ countryCode: TW
 description: Asus's latest gaming monitor is a little smaller than usual. The ROG
   Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's
   intended to be a sidekick for…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-08T20:34:24Z'

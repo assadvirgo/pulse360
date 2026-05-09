@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The killings mark the third attack in May alone by the US military in
   the eastern Pacific Ocean.
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-09T10:32:48Z'

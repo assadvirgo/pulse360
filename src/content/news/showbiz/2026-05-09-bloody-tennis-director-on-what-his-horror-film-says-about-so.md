@@ -5,7 +5,7 @@ countryCode: DE
 description: At the Cannes Market, sales agency The Playmaker will be showing a teaser
   for Nikias Chryssos’ horror film “Bloody Tennis.” Variety spoke to the German director
   about his debut…
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-09T11:08:19Z'

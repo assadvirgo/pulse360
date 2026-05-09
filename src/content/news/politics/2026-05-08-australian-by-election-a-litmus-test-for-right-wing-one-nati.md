@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Victory for the populist party in Farrer, New South Wales, would see
   One Nation's first MP elected to Australia's national parliament.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-08T22:39:56Z'

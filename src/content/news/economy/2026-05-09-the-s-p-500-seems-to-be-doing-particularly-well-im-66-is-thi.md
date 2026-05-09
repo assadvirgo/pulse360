@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “I own my home and I have no debt.”
-displayOrder: 33
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-09T09:45:00Z'

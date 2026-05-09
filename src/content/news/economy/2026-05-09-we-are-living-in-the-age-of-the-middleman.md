@@ -2,7 +2,7 @@
 category: Economy
 description: Special envoys are the new peacemakers precisely because they are unburdened
   by diplomatic expertise
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-09T04:00:26Z'

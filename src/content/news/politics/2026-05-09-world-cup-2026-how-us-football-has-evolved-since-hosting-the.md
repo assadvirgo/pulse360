@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In the 32 years since the United States last hosted the Cup, football
   has moved from the margins to the mainstream.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-09T09:46:16Z'

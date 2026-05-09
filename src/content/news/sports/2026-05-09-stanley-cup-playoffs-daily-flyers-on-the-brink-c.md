@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Can Philly force a Game 5? Plus, highlights from Friday's doubleheader
   and updated stats leaders.
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-09T12:28:45Z'
