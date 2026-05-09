@@ -5,7 +5,7 @@ countryCode: US
 description: Dave Coulier is responding to fans who have pointed out his changing
   appearance following a battle with both tongue cancer and lymphoma. In a video shared
   to the “Full House”…
-displayOrder: 16
+displayOrder: 22
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-08T20:17:59Z'

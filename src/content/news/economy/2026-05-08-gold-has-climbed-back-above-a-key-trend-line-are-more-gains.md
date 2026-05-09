@@ -3,7 +3,7 @@ category: Economy
 description: Gold broke above an important short-term technical level on Friday —
   a sign that the precious metal may be starting to regain momentum after a sluggish
   stretch since the start of…
-displayOrder: 49
+displayOrder: 48
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-08T21:44:00Z'

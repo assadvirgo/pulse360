@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Glasgow Warriors cruise to a bonus-point victory over Cardiff to go top
   of the United Rugby Championship with one round of the regular season remaining.
-displayOrder: 13
+displayOrder: 18
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-08T20:55:30Z'

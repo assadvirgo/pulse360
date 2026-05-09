@@ -5,7 +5,7 @@ countryCode: DE
 description: More than 500 people will be affected by the closures. “We must refocus
   on our core business,” Porsche CEO and executive chair Michael Leiters said in a
   statement. "This is the…
-displayOrder: 29
+displayOrder: 36
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-08T18:25:29Z'

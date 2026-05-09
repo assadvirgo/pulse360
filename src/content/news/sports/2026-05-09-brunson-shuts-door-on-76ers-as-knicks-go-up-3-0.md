@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Behind 33 points from Jalen Brunson, including big buckets late, the
   Knicks held off the 76ers to take a commanding 3-0 lead in the semifinal series.
-displayOrder: 6
+displayOrder: 3
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-09T05:58:44Z'

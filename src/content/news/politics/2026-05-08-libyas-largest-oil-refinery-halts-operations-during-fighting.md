@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: Zawiya refinery shut down in &#039;precautionary measure&#039; as emergency
   declared following explosions and gunfire nearby.
-displayOrder: 36
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-08T18:47:02Z'

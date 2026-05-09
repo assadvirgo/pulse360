@@ -2,7 +2,7 @@
 category: Politics
 description: The number of hantavirus cases linked to an outbreak on a cruise ship
   has risen to six, the World Health Organisation (WHO) has said.
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-09T02:00:00Z'

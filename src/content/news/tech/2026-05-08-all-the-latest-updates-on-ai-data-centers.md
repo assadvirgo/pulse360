@@ -3,7 +3,7 @@ category: Tech
 description: Massive new data centers are the physical foundation for tech companies’
   hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry
   servers has also kicked…
-displayOrder: 23
+displayOrder: 29
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-08T18:45:08Z'

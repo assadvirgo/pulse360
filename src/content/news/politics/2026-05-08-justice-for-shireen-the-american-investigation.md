@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Four years after Shireen Abu Akleh’s killing, her family is still seeking
   US-backed accountability.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-08T16:36:08Z'

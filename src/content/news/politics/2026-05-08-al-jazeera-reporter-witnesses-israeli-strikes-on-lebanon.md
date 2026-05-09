@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel has increased its attacks across southern Lebanon. Al Jazeera’s
   Obaida Hitto reports from Tyre.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-08T19:20:23Z'
