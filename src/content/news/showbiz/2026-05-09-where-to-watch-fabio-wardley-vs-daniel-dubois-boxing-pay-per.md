@@ -5,7 +5,7 @@ countryCode: GB
 description: The best boxers in the world travel to Manchester, where English fighter
   Fabio Wardley (20-0-1) defends his WBO Interim World Heavy title belt against Londoner
   boxer Daniel Dubois…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-09T14:00:00Z'

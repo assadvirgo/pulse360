@@ -4,7 +4,7 @@ country: Sri Lanka
 countryCode: LK
 description: Pallegama Hemarathana is accused of abusing an 11-year-old girl in a
   temple.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-09T09:13:49Z'

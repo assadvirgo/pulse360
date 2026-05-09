@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Multigenerational living is expected to get even more popular as baby
   boomers age.
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-09T12:30:00Z'

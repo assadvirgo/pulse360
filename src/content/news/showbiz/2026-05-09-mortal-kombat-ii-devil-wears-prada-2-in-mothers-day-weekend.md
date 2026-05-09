@@ -5,7 +5,7 @@ countryCode: US
 description: 'SATURDAY AM: It&#8217;s still a close call between New Line&#8217;s
   Mortal Kombat II, and 20th Century Studios&#8217; second weekend of The Devil Wears
   Prada 2 with $40M-$42M…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-09T15:39:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: For this week&#8217;s episode of &#8220;Strictly Business,&#8221; Variety
   was on the ground at MagicCon 2026 in Las Vegas, a convention centered not around
   slight of hand tricks,…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-05-09T12:00:00Z'

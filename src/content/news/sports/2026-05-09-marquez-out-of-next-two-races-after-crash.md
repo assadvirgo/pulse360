@@ -5,7 +5,7 @@ countryCode: ES
 description: Defending MotoGP champion Marc Marquez will miss the rest of the French
   Grand Prix and next week's Catalan Grand Prix after fracturing his foot in a crash
   on Saturday.
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-09T15:08:45Z'

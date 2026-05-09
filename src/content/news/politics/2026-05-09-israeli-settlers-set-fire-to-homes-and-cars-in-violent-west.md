@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Dozens of Israeli settlers stormed various areas of the West Bank, set
   cars on fire, and attacked Palestinians.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-09T07:18:27Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: Get 15% off functional, fashionable umbrellas with our exclusive Shed
   Rain discount code.
-displayOrder: 30
+displayOrder: 45
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-09T05:00:00Z'

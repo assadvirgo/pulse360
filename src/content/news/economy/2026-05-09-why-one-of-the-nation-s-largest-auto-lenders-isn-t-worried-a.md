@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While median car payments have jumped from $390 to $525 since 2019, data
   provided by Capital One suggests stability in vehicle cost compared to income.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-05-09T12:00:01Z'

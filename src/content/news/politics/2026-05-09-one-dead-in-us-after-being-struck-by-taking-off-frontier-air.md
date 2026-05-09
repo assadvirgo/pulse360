@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Authorities say individual jumped fence at Denver International Airport
   in Colorado before being struck.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-09T14:37:27Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The hacker group, ShinyHunters, threatened to leak student data after
   breaching the educational platform Canvas.
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-09T09:01:16Z'

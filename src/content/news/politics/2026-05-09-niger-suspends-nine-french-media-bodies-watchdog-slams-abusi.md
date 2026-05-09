@@ -4,7 +4,7 @@ country: Niger
 countryCode: NE
 description: Niger&#039;s military government has banned dozens of local and foreign
   reporters since seizing power in 2023.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-09T15:53:27Z'

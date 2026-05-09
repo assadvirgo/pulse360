@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Two men have been killed after the US military struck an alleged drug
   trafficking boat in the Pacific Ocean.&#160;
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 40.0
 pubDate: '2026-05-09T07:13:00Z'
