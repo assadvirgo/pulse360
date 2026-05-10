@@ -5,7 +5,7 @@ countryCode: US
 description: UCLA slugger Megan Grant set the single-season home run record for Division
   I softball when she hit her 38th of the season Saturday afternoon in the third inning
   of the Big Ten…
-displayOrder: 4
+displayOrder: 7
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-10T01:28:23Z'

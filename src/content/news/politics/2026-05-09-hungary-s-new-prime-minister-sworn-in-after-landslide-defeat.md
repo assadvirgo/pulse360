@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Centre-right leader Peter Magyar has been sworn in as Hungary&#8217;s
   new prime minister.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-09T14:02:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinians ran alongside the separation wall today, a structure that
   cuts them off from their land and their families.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-09T14:53:02Z'

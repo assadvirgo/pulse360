@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Peter Magyar has officially been sworn in as Hungary’s new prime minister,
   almost a month after defeating Viktor Orban.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-09T16:49:21Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Daniel Dubois became a two-time heavyweight world champion on Saturday,
   beating Fabio Wardley with a Round 11 knockout to finish what was a brutal, pulsating
   clash.
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-10T00:44:35Z'

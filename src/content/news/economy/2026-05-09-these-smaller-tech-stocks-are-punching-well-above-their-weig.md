@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of small-cap tech stocks have outperformed their large-cap peers
   by an extreme magnitude.
-displayOrder: 39
+displayOrder: 50
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-09T12:00:00Z'

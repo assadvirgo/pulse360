@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Magyar&#039;s Tisza party secured a huge parliamentary majority in last
   month&#039;s election.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-09T13:38:10Z'

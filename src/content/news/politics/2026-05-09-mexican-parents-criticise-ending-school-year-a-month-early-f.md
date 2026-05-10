@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: The federal government faces widespread anger for saying the school year
   could end on 5 June to accommodate the football tournament.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-09T19:40:55Z'

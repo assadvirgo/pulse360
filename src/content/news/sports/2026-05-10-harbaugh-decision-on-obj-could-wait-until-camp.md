@@ -5,7 +5,7 @@ countryCode: US
 description: Giants coach John Harbaugh said he spoke to Odell Beckham Jr. three to
   four times in the past week as they remain in touch about reuniting. But they will
   "play it out over the…
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-10T01:28:23Z'

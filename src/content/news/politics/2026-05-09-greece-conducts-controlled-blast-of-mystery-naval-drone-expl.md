@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: The unmanned vessel, suspected to be of Ukrainian origin, was found by
   fishermen in a cave on Thursday.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-09T18:00:46Z'
