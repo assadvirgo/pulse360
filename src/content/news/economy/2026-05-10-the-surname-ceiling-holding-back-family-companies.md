@@ -2,7 +2,7 @@
 category: Economy
 description: Many of the brightest workers steer clear of such businesses because
   promotions are scarcer and rewards lower
-displayOrder: 22
+displayOrder: 29
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-10T04:00:05Z'

@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Supreme Court Justice Alexandre de Moraes suspends use of law to reduce
   prison sentences, pending further review.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-09T21:34:53Z'

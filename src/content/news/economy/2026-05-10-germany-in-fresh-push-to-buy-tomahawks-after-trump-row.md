@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Defence minister plans Washington trip after Chancellor Friedrich Merz
   falls out with US president
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-10T04:00:13Z'

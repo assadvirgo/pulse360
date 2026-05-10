@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran war and inflation hit US president’s approval ratings and weigh
   on Republican midterm prospects, survey shows
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-10T04:01:01Z'

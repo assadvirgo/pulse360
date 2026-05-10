@@ -5,7 +5,7 @@ countryCode: GB
 description: The British government has issued a warning to China after two spies
   were convicted of running campaigns of intimidation and surveillance on pro-democracy
   activists in the UK.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-09T19:20:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Steve Kerr agreed to a two-year contract to return as head coach of the
   Golden State Warriors, Dan Eveloff and Rick Smith of Priority Sports told ESPN on
   Saturday.
-displayOrder: 12
+displayOrder: 17
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-10T05:10:15Z'

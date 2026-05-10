@@ -2,7 +2,7 @@
 category: Politics
 description: A Palestinian family in Jenin says Israeli settlers forced them to exhume
   their father hours after his funeral.
-displayOrder: 30
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-09T20:32:43Z'
