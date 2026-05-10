@@ -2,7 +2,7 @@
 category: Politics
 description: Sean Strickland won 48–47, 48–47 and 47–48 against Khamzat Chimaev in
   a fight that failed to live up to its hype.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-10T06:18:12Z'

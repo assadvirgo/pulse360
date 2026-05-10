@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: AJ&#039;s Defence Editor breaks down the latest threat to Mali’s government
   and the rapid retreat of Russian forces there
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-10T08:32:42Z'

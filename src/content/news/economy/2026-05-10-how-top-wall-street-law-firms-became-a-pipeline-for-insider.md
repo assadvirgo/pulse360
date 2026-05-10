@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Deal advice has evolved into a huge legal business but leaves firms vulnerable
   to misuse of confidential information
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-10T10:00:04Z'

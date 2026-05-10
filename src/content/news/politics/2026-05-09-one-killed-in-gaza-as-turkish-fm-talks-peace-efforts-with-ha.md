@@ -2,7 +2,7 @@
 category: Politics
 description: Israel continues to violate a &#039;ceasefire&#039; agreed to in October
   with hundreds more killed across the Strip.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-09T21:10:43Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Daniel Dubois recovered from two knockdowns to win a second World Heavyweight
   title with a stoppage of Fabio Wardley.
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-10T05:44:42Z'
