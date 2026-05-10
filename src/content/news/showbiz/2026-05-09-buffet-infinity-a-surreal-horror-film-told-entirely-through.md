@@ -3,7 +3,7 @@ category: Showbiz
 description: The best midnight movies conjure a community experience, pleasing audiences
   who want to see reactions to the insanity onscreen. While many touchstones of the
   genre consist of…
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-09T19:11:56Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At some point, you have to hand over financial control to your newly
   minted adult.
-displayOrder: 32
+displayOrder: 37
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-09T19:09:00Z'

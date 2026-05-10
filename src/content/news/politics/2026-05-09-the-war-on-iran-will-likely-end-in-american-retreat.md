@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The American empire cannot win the war against Iran at acceptable financial,
   military, and political costs.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-09T09:14:33Z'

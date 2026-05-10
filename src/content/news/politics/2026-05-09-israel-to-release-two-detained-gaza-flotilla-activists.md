@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Lawyer representing Saif Abu Keshek and Thiago Avila tells Al Jazeera
   they will be &#039;released to their home countries&#039;.
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-09T14:06:55Z'

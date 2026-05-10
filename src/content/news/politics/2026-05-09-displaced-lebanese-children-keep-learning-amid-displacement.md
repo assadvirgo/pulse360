@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A school in Sidon is now home to displaced families from southern Lebanon,
   but classes are still running.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-09T11:33:03Z'

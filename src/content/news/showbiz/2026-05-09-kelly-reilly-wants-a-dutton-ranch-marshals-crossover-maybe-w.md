@@ -5,7 +5,7 @@ countryCode: US
 description: Nearly two years after leaving Yellowstone in the rearview with the series
   finale of the Taylor Sheridan hit, Kelly Reilly is missing her onscreen brother.
   The Dutton Ranch star,…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-09T16:46:05Z'
