@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bond giant and Franklin Templeton warn in interviews with FT against
   cuts in borrowing costs
-displayOrder: 26
+displayOrder: 35
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-10T13:00:03Z'

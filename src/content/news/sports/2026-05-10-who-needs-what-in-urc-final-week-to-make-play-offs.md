@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport looks at what is at stake in the final round and how other
   results could impact Champions Cup qualification.
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-10T13:38:38Z'

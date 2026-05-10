@@ -5,7 +5,7 @@ countryCode: GB
 description: The BAFTA TV Awards are officially underway in London. Celebrating the
   best of British television, the ceremony is being hosted by Greg Davies and will
   broadcast on BBC One and…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-10T11:00:00Z'

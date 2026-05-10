@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Central banks hold rates steady as energy shock tests inflation fight.
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-10T12:21:18Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Saudi Arabia will host the 2027 tournament from January 7 to February
   5 and will face Palestine, Kuwait and Oman.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-10T09:20:15Z'

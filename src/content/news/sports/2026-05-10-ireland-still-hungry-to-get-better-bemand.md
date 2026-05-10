@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: A lot has changed in the past two years for Scott Bemand and his youthful
   Ireland squad.
-displayOrder: 31
+displayOrder: 40
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-10T07:43:40Z'

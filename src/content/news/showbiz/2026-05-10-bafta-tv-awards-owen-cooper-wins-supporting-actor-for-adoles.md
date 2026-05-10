@@ -5,7 +5,7 @@ countryCode: GB
 description: '&#8220;Adolescence&#8221; breakout Owen Cooper has won the BAFTA TV
   Award for supporting actor, a win that completes an astonishing full set of major
   awards for the…'
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 67.8
 pubDate: '2026-05-10T16:02:36Z'

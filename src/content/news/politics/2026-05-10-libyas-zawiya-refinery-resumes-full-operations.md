@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: Refinery closed for about two days after fighting near the facility 40km
   west of Tripoli.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-10T09:51:37Z'

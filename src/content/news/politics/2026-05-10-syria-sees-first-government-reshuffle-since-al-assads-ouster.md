@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: The reshuffle by President Ahmed al-Sharaa comes amid protests over alleged
   poor governance.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-10T08:55:12Z'
