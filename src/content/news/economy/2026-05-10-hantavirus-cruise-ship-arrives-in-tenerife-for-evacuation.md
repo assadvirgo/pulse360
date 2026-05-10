@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Passengers with symptoms could be sent to isolation on the island, health
   officials warn
-displayOrder: 26
+displayOrder: 31
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-10T06:33:30Z'

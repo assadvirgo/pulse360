@@ -5,7 +5,7 @@ countryCode: IN
 description: Actor-turned-politician Joseph Vijay Chandrasekhar was sworn in as Chief
   Minister of Tamil Nadu on Sunday morning at Chennai&#8217;s Jawaharlal Nehru Indoor
   Stadium, becoming the…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-10T06:10:15Z'

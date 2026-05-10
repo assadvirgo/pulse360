@@ -5,7 +5,7 @@ countryCode: US
 description: ‘There are probably countless weddings, funerals, reunions, weekend getaways
   and, yes — long distance relationships — that Spirit enabled’ with its flights under
   $100.
-displayOrder: 39
+displayOrder: 45
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-09T19:11:00Z'

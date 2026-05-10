@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Lamine Yamal is the best teenager ever, and it makes him more susceptible
   to injury than the likes of Messi or Neymar ever were.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-10T04:51:01Z'

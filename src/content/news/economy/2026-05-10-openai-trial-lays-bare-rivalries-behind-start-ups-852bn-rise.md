@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawsuit brought by Elon Musk heads into final week in court, with Sam
   Altman due to testify
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-10T06:00:38Z'

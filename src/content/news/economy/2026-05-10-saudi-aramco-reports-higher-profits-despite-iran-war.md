@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: East-west pipeline allows oil company to circumvent the Strait of Hormuz
   and keep pumping
-displayOrder: 24
+displayOrder: 28
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-10T06:24:54Z'

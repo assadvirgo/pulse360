@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: BBC's Sarah Rainsford reports from the port in Tenerife where the MV
   Hondius is soon to dock, after a deadly hantavirus outbreak.
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-10T05:09:52Z'

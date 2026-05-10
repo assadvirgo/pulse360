@@ -2,7 +2,7 @@
 category: Politics
 description: Al Jazeera’s Tareq Abu Azzoum reports from Al-Shati Refugee Camp after
   overnight Israeli airstrikes.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-09T17:21:33Z'

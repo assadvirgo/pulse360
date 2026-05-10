@@ -4,7 +4,7 @@ country: Panama
 countryCode: PA
 description: CFO Victor Vial says world trading routes will be permanently reshaped
   after the conflict
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-10T04:00:05Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: US president has threatened to raise levies to 25% if EU does not implement
   last year’s trade deal
-displayOrder: 19
+displayOrder: 26
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-10T04:00:13Z'
