@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Tiny tungsten cubes from Israeli bombs are causing devastating internal
   injuries to people in Lebanon.
-displayOrder: 30
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-10T21:10:46Z'

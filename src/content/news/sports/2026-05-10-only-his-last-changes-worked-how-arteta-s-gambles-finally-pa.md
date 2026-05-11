@@ -5,7 +5,7 @@ countryCode: GB
 description: Match of the Day pundit Danny Murphy explains why Arsenal manager Mikel
   Arteta deserves credit after his side beat West Ham to take a huge step towards
   the Premier League title.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-10T22:34:40Z'

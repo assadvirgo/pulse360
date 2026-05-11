@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Indian actor C Joseph Vijay has been sworn in as Tamil Nadu’s chief minister
   after his TVK Party won in elections.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-10T20:34:41Z'

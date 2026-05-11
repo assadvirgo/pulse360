@@ -2,7 +2,7 @@
 category: Economy
 description: Biggest groups have gained $5.4tn in value since conflict began — but
   semiconductor sector accounts for most of the gains
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-11T04:00:13Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The GameStop chief, who proposed acquiring eBay for $55.5 billion Monday,
   was selling GameStop-related merchandise through his account.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-10T12:23:00Z'

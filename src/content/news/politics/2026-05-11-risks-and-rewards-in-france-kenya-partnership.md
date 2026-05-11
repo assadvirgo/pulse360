@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Nairobi&#039;s partnership with Paris has sparked criticism, with many
   worried Kenya&#039;s interests will be subordinated.
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-11T04:45:57Z'

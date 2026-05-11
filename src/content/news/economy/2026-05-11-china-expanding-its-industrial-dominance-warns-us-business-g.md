@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chamber of Commerce says west is running out of time to sever its growing
   reliance on Chinese supply chain
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-11T04:01:09Z'

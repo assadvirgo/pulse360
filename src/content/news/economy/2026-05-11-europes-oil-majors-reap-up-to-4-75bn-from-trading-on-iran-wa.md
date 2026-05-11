@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Trading desks at BP, Shell and TotalEnergies outshine US rivals
-displayOrder: 29
+displayOrder: 37
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-11T04:00:31Z'

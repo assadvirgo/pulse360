@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: A dissident in Tehran says she feels helpless and under immense psychological
   pressure.
-displayOrder: 25
+displayOrder: 33
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-10T21:01:17Z'
