@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The KKR fund, often referred to by its ticker, FSK, has become one of
   the most visible fault lines in the private credit story.
-displayOrder: 26
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-11T16:22:36Z'

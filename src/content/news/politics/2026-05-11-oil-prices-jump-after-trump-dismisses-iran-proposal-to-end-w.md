@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Strait of Hormuz waterway remains effectively shut, severely disrupting
   global energy shipments.
-displayOrder: 24
+displayOrder: 45
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-11T09:01:41Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'My guest today is longtime friend of the show Joanna Stern. You all
   know Joanna: she is the former senior personal technology columnist for The Wall
   Street Journal, a former…'
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-11T14:00:00Z'

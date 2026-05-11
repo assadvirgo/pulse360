@@ -5,7 +5,7 @@ countryCode: GB
 description: French screen legend Isabelle Huppert is set to star in her first British
   film, &#8220;Lineage,&#8221; the hot new feature from acclaimed filmmaker Yann Demange
   (&#8220;Top…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 65.8
 pubDate: '2026-05-11T16:18:17Z'

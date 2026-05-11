@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Samsung, Hyundai and LG just bet on the startup that wants to be robotics'
   data backbone.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-11T10:58:00Z'

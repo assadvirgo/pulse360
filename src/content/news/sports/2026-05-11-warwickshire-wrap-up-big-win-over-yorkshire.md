@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Warwickshire bowl out Yorkshire for 171 on the final morning at Edgbaston
   to complete a 377-run win in the County Championship.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-11T12:01:15Z'

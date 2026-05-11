@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Liverpool release images of a planned memorial to late forward Diogo
   Jota and his brother Andre Silva, following their deaths last summer.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-11T11:44:28Z'

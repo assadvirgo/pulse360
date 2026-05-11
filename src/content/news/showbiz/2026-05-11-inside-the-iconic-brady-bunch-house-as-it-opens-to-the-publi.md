@@ -5,7 +5,7 @@ countryCode: US
 description: '"It''s a living museum," says star Christopher Knight of the house that
   historic home enthusiast Tina Trahan meticulously re-created to look just like the
   show''s sets.'
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-11T16:50:15Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Gracie Abrams has announced her third album &#8220;Daughter From Hell,&#8221;
   releasing on July 17 via Interscope Records. The singer-songwriter revealed the
   title of the project…
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-11T16:23:13Z'

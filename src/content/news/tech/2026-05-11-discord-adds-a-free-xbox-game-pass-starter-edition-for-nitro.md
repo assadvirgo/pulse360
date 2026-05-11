@@ -5,7 +5,7 @@ countryCode: US
 description: Discord is announcing the launch of Nitro Rewards today, a new program
   for subscribers that bundles benefits from third parties like Microsoft, Logitech,
   and SteelSeries, into a…
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-11T13:00:00Z'
