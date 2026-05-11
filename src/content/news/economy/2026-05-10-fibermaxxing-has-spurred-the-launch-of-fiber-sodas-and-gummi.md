@@ -5,7 +5,7 @@ countryCode: US
 description: Companies are rushing to cash in on “functional snacking,” but experts
   warn that the health benefits of fiber treats might not be all they’re cracked up
   to be.
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-10T15:00:00Z'

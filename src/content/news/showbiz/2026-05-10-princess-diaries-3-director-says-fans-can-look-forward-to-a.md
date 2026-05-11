@@ -5,7 +5,7 @@ countryCode: US
 description: After reprising Andy Sachs in “The Devil Wears Prada 2,” Anne Hathaway
   will soon bring another one of her iconic characters, Mia Thermopolis, to the big
   screen. Adele Lim, who is…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-10T18:42:03Z'

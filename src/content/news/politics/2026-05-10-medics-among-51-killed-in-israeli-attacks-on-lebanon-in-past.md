@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israeli attacks are intensifying in southern Lebanon, with 552 killed
   since the &#039;ceasefire&#039; started on April 16.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-10T19:01:09Z'

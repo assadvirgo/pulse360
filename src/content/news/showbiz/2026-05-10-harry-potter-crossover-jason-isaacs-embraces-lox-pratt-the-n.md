@@ -5,7 +5,7 @@ countryCode: GB
 description: Stars of the new Harry Potter series were out in force at the BAFTA TV
   Awards, with the red carpet producing an encounter that will please fans of J.K.
   Rowling&#8217;s wizarding…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-05-10T18:31:44Z'

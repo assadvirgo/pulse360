@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With an impressive late-race charge, Shane van Gisbergen remained NASCAR's
   king of the road courses Sunday at Watkins Glen International.
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-10T23:43:53Z'

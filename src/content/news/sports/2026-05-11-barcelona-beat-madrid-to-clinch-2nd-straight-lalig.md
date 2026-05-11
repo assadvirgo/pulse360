@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona are back-to-back Spanish champions under Hansi Flick after
   clinching the LaLiga title with a win over Madrid in El Clásico on Sunday.
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-11T00:28:55Z'

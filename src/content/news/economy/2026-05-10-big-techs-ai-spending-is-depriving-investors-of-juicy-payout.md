@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Goldman Sachs expects S&amp;P 500 share buybacks to grow only 3% this
   year, as a shaky economic backdrop and AI cost pressures force spending reconsiderations.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-10T14:00:00Z'

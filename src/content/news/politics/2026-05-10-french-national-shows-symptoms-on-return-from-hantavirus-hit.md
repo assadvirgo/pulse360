@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Five passengers of the MV Hondius will be quarantined in Paris "until
   further notice", France's prime minister says.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 68.2
 pubDate: '2026-05-10T19:43:57Z'

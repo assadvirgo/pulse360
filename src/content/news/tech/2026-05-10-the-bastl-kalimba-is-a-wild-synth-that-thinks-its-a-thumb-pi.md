@@ -3,7 +3,7 @@ category: Tech
 description: Make no mistake, the Bastl Kalimba is a synthesizer, you just play it
   like a kalimba. Its tines don't really make much sound. There is an internal mic
   that you can blend in for a…
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-10T20:42:08Z'

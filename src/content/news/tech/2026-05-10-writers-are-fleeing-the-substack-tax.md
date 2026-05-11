@@ -3,7 +3,7 @@ category: Tech
 description: Substack, the once buzzy newsletter platform, is losing a new swath of
   writers to rival platforms most people haven't heard of. Just last month, The Ankler,
   one of Substack's most…
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-10T14:00:00Z'
