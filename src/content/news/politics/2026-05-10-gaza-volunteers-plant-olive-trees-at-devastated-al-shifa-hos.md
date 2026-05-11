@@ -2,7 +2,7 @@
 category: Politics
 description: Volunteers at al-Shifa Hospital cleared rubble and planted olive trees
   in the courtyard as a symbol of hope.
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-10T19:01:20Z'

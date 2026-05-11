@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israeli strikes have killed at least 39 people in a single day of attacks
   across Lebanon during a so-called ‘ceasefire.’
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-10T13:52:07Z'

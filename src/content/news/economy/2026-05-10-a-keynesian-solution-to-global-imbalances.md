@@ -2,7 +2,7 @@
 category: Economy
 description: Economists have been proposing fixes to structural problems created by
   an international reserve currency since the 1940s
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-10T11:00:03Z'

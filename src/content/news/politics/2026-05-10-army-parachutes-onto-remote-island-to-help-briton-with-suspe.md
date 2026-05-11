@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The specialist team parachuted onto Tristan da Cunha, a remote British
   overseas territory, to treat them.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-10T15:02:51Z'

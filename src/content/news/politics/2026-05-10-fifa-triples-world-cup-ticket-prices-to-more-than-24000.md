@@ -2,7 +2,7 @@
 category: Politics
 description: The cost of the best available tickets for the World Cup final has been
   tripled by FIFA, less than five weeks before the tournament starts.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 52.0
 pubDate: '2026-05-10T17:04:00Z'

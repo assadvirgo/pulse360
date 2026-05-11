@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: French forward to miss the crucial fixture despite training with teammates
   on Friday following his recovery from injury.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-10T11:13:00Z'

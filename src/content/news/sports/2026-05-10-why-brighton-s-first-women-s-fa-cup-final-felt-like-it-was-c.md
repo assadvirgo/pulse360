@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Brighton reach their first Women's FA Cup final - and within one victory
   of a first piece of major silverware in the club's history.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-10T16:53:18Z'

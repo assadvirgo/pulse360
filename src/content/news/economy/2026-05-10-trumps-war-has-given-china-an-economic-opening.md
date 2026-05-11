@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: Beijing could turn instability in the Middle East into a strategic gain
-displayOrder: 32
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-10T14:23:31Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: German family shareholders want to press ahead with listing of Paris-backed
   group at €15bn-€20bn valuation
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-10T09:56:05Z'

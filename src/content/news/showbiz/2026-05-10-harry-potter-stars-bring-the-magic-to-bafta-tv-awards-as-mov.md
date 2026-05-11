@@ -5,7 +5,7 @@ countryCode: GB
 description: There may have been a Time-Turner in the building at the BAFTA TV Awards
   in London on Sunday night as “Harry Potter” stars past and present collided. On
   the red carpet, Jason…
-displayOrder: 6
+displayOrder: 13
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-10T18:01:58Z'

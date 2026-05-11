@@ -5,7 +5,7 @@ countryCode: GB
 description: Elliot Anderson scores against his former club to earn Nottingham Forest
   a 1-1 draw against Newcastle United and a seven-point cushion from the Premier League
   relegation zone.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-10T19:00:23Z'
