@@ -2,7 +2,7 @@
 category: Economy
 description: In Europe the reliance on American digital services is now so profound
   that daily life would almost cease to function without them
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-11T04:00:13Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli attack on part of our flotilla has convinced us we must continue
   with our mission.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-11T08:40:03Z'

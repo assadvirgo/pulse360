@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Prime minister says he will stand in any leadership challenge triggered
   by disastrous election results
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-11T11:20:00Z'

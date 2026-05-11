@@ -5,7 +5,7 @@ countryCode: CN
 description: China may allow its currency to succumb to upward pressure as part of
   its trade negotiations with the U.S. The renminbi is cheaper than it has been for
   several decades, according…
-displayOrder: 33
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-11T09:55:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: One French passenger and one from the US test positive after being evacuated
   from the vessel in the Canary Islands.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-11T09:30:36Z'

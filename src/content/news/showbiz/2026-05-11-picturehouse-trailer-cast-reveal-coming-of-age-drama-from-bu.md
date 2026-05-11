@@ -5,7 +5,7 @@ countryCode: VN
 description: 'EXCLUSIVE: The producers of Nguyen-Vo Nghiem-Minh’s Picturehouse, a
   co-production between Vietnam, Singapore, France and the U.S., have dropped trailer
   and revealed cast on the…'
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-11T12:41:17Z'

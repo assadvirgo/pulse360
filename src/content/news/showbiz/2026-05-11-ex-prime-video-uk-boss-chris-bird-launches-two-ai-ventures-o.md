@@ -5,7 +5,7 @@ countryCode: GB
 description: Former Prime Video UK chief Chris Bird has launched a pair of AI ventures
   aimed at empowering content creators, one with documentary director Dan Hartley.
   Bird is behind HawksHead…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-11T10:31:00Z'

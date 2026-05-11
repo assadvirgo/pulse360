@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK PM Keir Starmer vows stronger performance as calls for resignation
   grow
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-11T11:34:21Z'

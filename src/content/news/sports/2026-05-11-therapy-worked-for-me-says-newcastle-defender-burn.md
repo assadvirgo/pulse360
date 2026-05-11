@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Newcastle United defender Dan Burn says therapy worked "quite well" for
   him as he urges those struggling with their mental health to seek help.
-displayOrder: 25
+displayOrder: 44
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-11T09:18:13Z'

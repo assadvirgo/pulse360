@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Edwards&#039;s 36 points give Minnesota 114-109 win and tie the Western
   Conference semifinals 2-2 against San Antonio Spurs.
-displayOrder: 14
+displayOrder: 37
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-11T06:27:37Z'

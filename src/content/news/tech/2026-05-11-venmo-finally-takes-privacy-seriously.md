@@ -5,7 +5,7 @@ countryCode: US
 description: 'Venmo is starting to test a big redesign of its app, and as part of
   the changes, it will be implementing a major new privacy measure: the onboarding
   process for new users will set…'
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-11T12:00:00Z'

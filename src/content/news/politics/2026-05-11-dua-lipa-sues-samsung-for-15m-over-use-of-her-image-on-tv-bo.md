@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The pop star's legal team alleges a photograph of her face was used on
   Samsung television boxes without permission.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-11T02:48:53Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: Times are changing at the Cannes Film Festival. The festival, which banned
   selfies on its red carpet in 2018, has signed a multi-year strategic partnership
   with social media and…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-11T12:14:47Z'

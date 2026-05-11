@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Labour MP Catherine West urges the prime minister to set a timetable
   for the election of a new leader in September.
-displayOrder: 12
+displayOrder: 34
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-11T07:12:28Z'

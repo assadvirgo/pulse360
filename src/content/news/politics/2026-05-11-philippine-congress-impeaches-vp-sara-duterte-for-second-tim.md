@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Trial of vice president in question after Duterte&#039;s allies stage
   a coup and wrest control of the Philippine Senate.
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-11T06:51:23Z'

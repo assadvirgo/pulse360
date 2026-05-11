@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Sheikh Hamad bin Jassim warns Strait of Hormuz crisis is most dangerous
   fallout of war on Iran, calls for &#039;Gulf NATO&#039;.
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-11T10:37:19Z'

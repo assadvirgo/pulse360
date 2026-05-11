@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: '&#039;We refuse to be silenced and censored,&#039; journalist and presenter
   Ramita Navai says while accepting the award.'
-displayOrder: 16
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-11T07:46:43Z'

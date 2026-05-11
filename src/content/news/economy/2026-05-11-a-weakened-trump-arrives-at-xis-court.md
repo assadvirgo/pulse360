@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: China holds the cards — and might settle for flashy but empty announcements
   while playing a long game
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-11T12:05:59Z'
