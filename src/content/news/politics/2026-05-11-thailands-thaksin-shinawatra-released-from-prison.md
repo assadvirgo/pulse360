@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Influential former prime minister released on parole after spending about
   eight months behind bars.
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-11T04:18:31Z'

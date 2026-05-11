@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Prime minister rewrites key address against backdrop of warnings he could
   face a leadership challenge
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-10T21:31:10Z'

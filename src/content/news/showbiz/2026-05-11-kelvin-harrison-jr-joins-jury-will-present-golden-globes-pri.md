@@ -5,7 +5,7 @@ countryCode: FR
 description: Actor-producer Kelvin Harrison Jr. will join the jury and present the
   Golden Globes Prize for Documentary in Partnership With Artemis Rising Foundation
   during the 79th edition of…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-11T07:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Israeli officials hail Foxman, who led the ADL advocacy group for nearly
   three decades, as warm and passionate.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-10T20:52:48Z'

@@ -5,7 +5,7 @@ countryCode: PH
 description: Julia Barretto, Charo Santos-Concio, Christopher de Leon, and Tony Labrusca
   have been set to star in &#8220;Knock Three Times,&#8221; the upcoming Philippine
   horror feature from…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-11T05:51:42Z'

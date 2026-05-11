@@ -5,7 +5,7 @@ countryCode: GB
 description: 'Michael Pennington, the theater actor who played Moff Jerjerrod in Star
   Wars: Episode VI – Return of the Jedi, has died aged 82. His passing was confirmed
   by British newspaper The…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-11T07:07:48Z'

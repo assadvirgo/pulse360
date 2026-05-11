@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jerome Powell will be remembered for how the struggles against inflation
   and to preserve Federal Reserve independence ultimately end.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-10T22:00:00Z'

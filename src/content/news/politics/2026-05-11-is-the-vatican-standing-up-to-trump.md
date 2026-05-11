@@ -2,7 +2,7 @@
 category: Politics
 description: Redi Tlhabi speaks with Kim Daniels on the growing strain between the
   Vatican and Donald Trump.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-11T08:11:45Z'

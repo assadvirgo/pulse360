@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: PM asks citizens to work from home, limit gold purchases and stop travelling
   abroad to conserve foreign exchange
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-11T05:34:57Z'

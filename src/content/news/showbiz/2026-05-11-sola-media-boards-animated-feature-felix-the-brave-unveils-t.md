@@ -5,7 +5,7 @@ countryCode: FR
 description: Sola Media has boarded as the sales agent for animated feature “Felix
   the Brave,” and will be unveiling an exclusive teaser at the Cannes Film Market.
   The film, which follows the…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-11T08:26:00Z'

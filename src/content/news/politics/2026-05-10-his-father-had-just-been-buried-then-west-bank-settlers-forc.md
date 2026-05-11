@@ -2,7 +2,7 @@
 category: Politics
 description: The UN human rights office condemns incident as "'appalling and emblematic
   of the dehumanisation of Palestinians" in the West Bank.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-10T19:56:45Z'

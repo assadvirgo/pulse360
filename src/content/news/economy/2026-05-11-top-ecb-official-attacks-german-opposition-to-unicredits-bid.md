@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Central bank’s outgoing vice-president Luis de Guindos says Berlin’s
   intervention goes ‘against spirit of single market’
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-11T04:00:20Z'

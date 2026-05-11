@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barca sealed their La Liga title defence in the best way possible on
   Sunday, but where do Real go now, after their loss?
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-11T00:18:44Z'

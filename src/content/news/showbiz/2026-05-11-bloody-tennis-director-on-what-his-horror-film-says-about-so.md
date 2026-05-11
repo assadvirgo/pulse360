@@ -5,7 +5,7 @@ countryCode: DE
 description: At the Cannes Market on Wednesday, sales agency The Playmaker we will
   be hosting a private screening of Nikias Chryssos’ horror film “Bloody Tennis.”
   Variety spoke to the German…
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-11T07:44:00Z'
