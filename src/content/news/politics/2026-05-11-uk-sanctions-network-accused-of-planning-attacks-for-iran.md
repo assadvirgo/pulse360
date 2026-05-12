@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Britain freezes assets and travel for those accused of laundering billions
   and plotting Iranian-backed hostile activity.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-11T18:25:10Z'

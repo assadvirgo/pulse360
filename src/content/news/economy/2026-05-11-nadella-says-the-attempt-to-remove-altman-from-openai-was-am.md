@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microsoft chief explains his decision to back AI lab’s boss in 2023 coup
   attempt during testimony in Elon Musk’s lawsuit
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-11T19:52:19Z'

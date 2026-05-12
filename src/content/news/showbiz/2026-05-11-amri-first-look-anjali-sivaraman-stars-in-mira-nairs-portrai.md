@@ -5,7 +5,7 @@ countryCode: IN
 description: 'EXCLUSIVE: Mira Nair has revealed a first look of her next feature,
   Amri, inspired by the life and art of Amrita Sher-Gil, a pioneer in India’s modern
   art world, whose bold…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-11T19:51:05Z'

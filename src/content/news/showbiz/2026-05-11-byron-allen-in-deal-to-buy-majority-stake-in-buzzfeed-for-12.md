@@ -5,7 +5,7 @@ countryCode: US
 description: Allen Family Digital, an affiliate of Byron Allen’s family office, has
   entered a deal to acquire a majority stake in digital media company Buzzfeed with
   Byron Allen becoming…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-11T21:37:29Z'

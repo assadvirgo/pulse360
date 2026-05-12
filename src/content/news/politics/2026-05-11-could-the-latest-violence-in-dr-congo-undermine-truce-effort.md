@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Lesser-known armed groups have carried out a spate of attacks in the
   country&#039;s northeast.
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-11T19:18:52Z'

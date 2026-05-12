@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A total of 17 US executives are set to join the president on his visit,
   where he will meet his Chinese counterpart Xi Jinping.
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-11T18:26:20Z'

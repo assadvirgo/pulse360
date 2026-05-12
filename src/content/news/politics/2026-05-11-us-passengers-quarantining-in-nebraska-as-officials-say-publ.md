@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Two people are being monitored in Atlanta, while 16 others are in Nebraska
   at the nation's only national quarantine unit.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-11T17:17:25Z'

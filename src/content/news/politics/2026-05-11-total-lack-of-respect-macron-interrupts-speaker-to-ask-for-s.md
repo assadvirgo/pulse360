@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The French president stood up during a conference in Kenya to tell the
   audience to quieten down, saying it was “impossible” for speakers to be heard.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-11T16:10:18Z'

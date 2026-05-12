@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: David Malpass' comments come as US President Donald Trump and China's
   Xi Jinping are due to meet in Beijing.
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-12T00:02:58Z'

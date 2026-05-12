@@ -5,7 +5,7 @@ countryCode: US
 description: Texas Attorney General Ken Paxton has filed a lawsuit against Netflix,
   accusing the company of turning its back on its promise to remain ad-free and safe
   for kids. The lawsuit,…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-11T17:04:22Z'

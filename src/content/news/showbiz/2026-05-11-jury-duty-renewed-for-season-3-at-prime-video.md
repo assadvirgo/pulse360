@@ -5,7 +5,7 @@ countryCode: US
 description: Ronald Gladden and Anthony Norman may soon have some company. The two
   unwitting stars of Prime Video&#8217;s &#8220;Jury Duty&#8221; franchise will now
   get to watch while someone…
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-11T23:39:01Z'

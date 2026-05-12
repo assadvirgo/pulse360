@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The British prime minister has promised change as he battles to fend
   off leadership challenge.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-11T15:52:11Z'

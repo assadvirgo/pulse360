@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France is trying to rebrand itself during a summit with African heads
   of states in Kenya.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-11T20:07:50Z'

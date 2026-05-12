@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI fuels impulsive actions — a human ‘defense coach’ is your best bet
   to win the market’s ‘loser’s game.’
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-11T22:45:00Z'

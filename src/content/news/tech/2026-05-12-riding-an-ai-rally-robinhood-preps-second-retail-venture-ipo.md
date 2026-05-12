@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Robinhood files confidentially for its second venture fund, this time
   targeting growth as well as early-stage startups.
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-12T00:09:01Z'

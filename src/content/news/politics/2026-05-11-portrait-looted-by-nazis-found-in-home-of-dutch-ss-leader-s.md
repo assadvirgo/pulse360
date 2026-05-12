@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: The painting is believed to have been plundered by high-ranking Nazi
   Hermann Goering during World War Two.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 69.2
 pubDate: '2026-05-11T18:27:21Z'
