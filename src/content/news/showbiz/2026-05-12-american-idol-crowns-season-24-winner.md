@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: The story includes details about the Season 24 finale
   of ABC&#8217;s American Idol. Hannah Harper has been crowned the winner of American
   Idol Season 24.…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-05-12T04:08:56Z'

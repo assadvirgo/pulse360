@@ -5,7 +5,7 @@ countryCode: KR
 description: Oscar and Cannes Palme d’Or-winning Korean writer-director Bong Joon
   Ho hotly awaited debut animated feature film Ally, following the adventures of an
   endearing piglet squid, has…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-12T05:00:00Z'

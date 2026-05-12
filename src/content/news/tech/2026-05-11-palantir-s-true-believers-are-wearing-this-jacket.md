@@ -5,7 +5,7 @@ countryCode: US
 description: In late April, Palantir - the software company that, in recent years,
   has perhaps become best known for its defense industry contracts and work with Immigration
   and Customs…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-05-11T18:26:04Z'

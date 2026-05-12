@@ -3,7 +3,7 @@ category: Politics
 country: Philippines
 countryCode: PH
 description: Senator Ronald Dela Rosa has evaded a drug war warrant against him.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-11T18:24:21Z'

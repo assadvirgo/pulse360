@@ -5,7 +5,7 @@ countryCode: US
 description: Lumentum’s stock has been red hot, but there are plenty of lesser-known
   ways to capitalize on the growing connectivity needs of AI data centers, according
   to Bernstein.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-11T21:44:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The assets of violent Israeli settlers and settler organisations are
   being targeted in a new EU sanctions package.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-11T20:31:54Z'

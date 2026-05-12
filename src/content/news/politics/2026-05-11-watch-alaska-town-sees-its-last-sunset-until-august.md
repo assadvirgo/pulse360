@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Residents of Utqiagvik, the United States' northernmost city, will experience
   84 days of midnight sun and uninterrupted daylight.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-11T21:05:29Z'

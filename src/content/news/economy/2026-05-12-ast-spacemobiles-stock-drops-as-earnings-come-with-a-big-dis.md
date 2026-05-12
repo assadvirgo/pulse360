@@ -5,7 +5,7 @@ countryCode: US
 description: Investors had been excited early Monday about speed breakthroughs at
   the satellite company. But the after-hours earnings report showed a sizable revenue
   miss.
-displayOrder: 40
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-12T00:18:00Z'

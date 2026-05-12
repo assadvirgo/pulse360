@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The move is a value play for the hamburger chain whose shares have slid
   70% in the past 5 years
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-12T04:00:33Z'
