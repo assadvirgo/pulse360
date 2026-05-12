@@ -5,7 +5,7 @@ countryCode: US
 description: Cole Tomas Allen was bound by his hands and ankles and donning an orange
   jumpsuit when he made a second appearance in the Federal District Court in Washington
   on Monday.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-11T18:13:32Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican Senator Josh Hawley to introduce legislation after Donald
   Trump backs move
-displayOrder: 28
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-11T19:15:16Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Rights advocates say lack of accountability for killing of US citizen
   and Al Jazeera journalist enabled further abuses.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-11T18:12:55Z'

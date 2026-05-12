@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French President Macron pauses a speaker mid-presentation at Nairobi
   University to demand silence from the audience.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-11T12:53:59Z'

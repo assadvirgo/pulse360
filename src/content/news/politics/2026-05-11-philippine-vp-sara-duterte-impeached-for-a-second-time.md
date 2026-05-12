@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: If convicted in a Senate trial, which is uncertain, she will be disqualified
   from running for president.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-11T09:28:53Z'

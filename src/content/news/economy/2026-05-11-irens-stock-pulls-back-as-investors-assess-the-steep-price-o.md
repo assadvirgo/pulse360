@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Iren will take on debt in the wake of its new Nvidia partnership. One
   analyst said Monday’s stock drop is an overreaction.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-11T16:44:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As AI models get larger, more memory will be needed to improve them,
   therefore creating ongoing demand, one analyst says.
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-11T15:08:00Z'

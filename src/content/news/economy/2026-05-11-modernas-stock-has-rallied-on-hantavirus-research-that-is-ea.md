@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The biotech company has a pre-clinical program with the U.S. Army and
   a vaccine center at a Korean university.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-11T20:28:00Z'

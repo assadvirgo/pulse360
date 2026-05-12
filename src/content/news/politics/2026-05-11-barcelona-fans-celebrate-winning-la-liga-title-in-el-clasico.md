@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona&#039;s inner city turned into a huge street party after the
   club beat Real Madrid to win their 29th league title.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-11T13:30:40Z'

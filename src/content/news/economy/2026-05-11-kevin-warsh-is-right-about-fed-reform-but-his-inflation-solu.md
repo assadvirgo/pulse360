@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Warsh’s belief that AI is a guaranteed disinflationary force could trigger
   premature rate cuts.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-11T18:47:00Z'
