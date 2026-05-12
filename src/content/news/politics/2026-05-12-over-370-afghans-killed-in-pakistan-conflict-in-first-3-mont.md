@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Fighting between the Taliban and Pakistani forces intensified in February,
   with many civilians killed in air raids.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-12T10:48:16Z'

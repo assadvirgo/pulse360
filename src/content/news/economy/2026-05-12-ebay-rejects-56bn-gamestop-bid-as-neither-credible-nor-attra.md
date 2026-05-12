@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rebuff could spur video game retailer’s chief Ryan Cohen to launch hostile
   bid for online marketplace
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-12T10:44:31Z'

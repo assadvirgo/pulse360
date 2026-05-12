@@ -5,7 +5,7 @@ countryCode: US
 description: Michael Terpin explained his theory of four-year cycles in the bitcoin
   price that bottom during midterm-election years. One more correction is coming before
   another bull market.
-displayOrder: 23
+displayOrder: 41
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-12T12:11:00Z'

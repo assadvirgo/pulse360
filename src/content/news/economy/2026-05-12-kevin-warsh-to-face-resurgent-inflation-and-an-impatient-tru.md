@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Senate widely expected to confirm the 56-year-old financier to replace
   Jay Powell this week
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-12T04:00:18Z'

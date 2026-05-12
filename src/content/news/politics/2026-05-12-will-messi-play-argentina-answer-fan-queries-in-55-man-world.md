@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina captain is named in the preliminary squad for the FIFA World
   Cup 2026 but has not confirmed his participation.
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-12T10:07:44Z'

@@ -5,7 +5,7 @@ countryCode: EG
 description: Egyptian director Mohamed Diab, who made a splash at Cannes in 2016 with
   Islamic fundamentalism-themed thriller “Clash” and more recently helmed Marvel&#8217;s
   &#8220;Moon…
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 67.8
 pubDate: '2026-05-12T12:30:12Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: eBay has officially rejected GameStop's offer to buy the online marketplace
   for $56 billion, citing concerns around "operational risks" and how the acquisition
   will be financed.…
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-12T10:55:02Z'

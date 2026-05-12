@@ -4,7 +4,7 @@ country: Jordan
 countryCode: JO
 description: Jordanians looking for a bargain are being scammed with false promises
   of cheap gold in a growing trend of online fraud.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-12T09:44:41Z'

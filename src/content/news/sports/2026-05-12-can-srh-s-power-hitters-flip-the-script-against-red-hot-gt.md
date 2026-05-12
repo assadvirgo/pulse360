@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: SRH arrive with momentum in their batting unit but must overcome a poor
   record against GT in Ahmedabad, as both teams eye No. 1 spot
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-05-12T05:01:45Z'

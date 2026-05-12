@@ -5,7 +5,7 @@ countryCode: US
 description: The riveting gains for microchip stocks have many analysts drawing parallels
   to 1999, just ahead of the dot-com crash, when the build-out of a key technology
   led to parabolic…
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-12T11:51:00Z'

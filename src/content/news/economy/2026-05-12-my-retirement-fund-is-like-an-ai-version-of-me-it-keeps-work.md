@@ -2,7 +2,7 @@
 category: Economy
 description: “Not taking care of your money becomes, in a visceral sense, not taking
   care of yourself.”
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-12T10:16:00Z'

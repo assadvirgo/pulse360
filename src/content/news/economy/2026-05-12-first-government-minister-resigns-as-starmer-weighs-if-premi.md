@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Labour Party mood turns ‘pretty ugly’ as prime minister urged to set
   exit plan
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-12T08:28:46Z'

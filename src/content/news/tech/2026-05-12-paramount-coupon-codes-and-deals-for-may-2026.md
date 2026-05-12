@@ -2,7 +2,7 @@
 category: Tech
 description: Save on streaming with the latest Paramount+ promo codes and deals, including
   50% off subscriptions, free trials, and more.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-12T05:00:00Z'

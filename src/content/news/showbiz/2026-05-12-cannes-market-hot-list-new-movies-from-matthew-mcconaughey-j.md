@@ -5,7 +5,7 @@ countryCode: FR
 description: As Cannes kicks off, Hollywood&#8217;s getting ready for another round
   of &#8220;let&#8217;s make a deal,&#8221; Cote d&#8217;Azur style. If things go
   according to sales…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-12T11:34:40Z'
