@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK prime minister is so far defiant in the face of calls for him
   to step down.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-12T07:41:16Z'

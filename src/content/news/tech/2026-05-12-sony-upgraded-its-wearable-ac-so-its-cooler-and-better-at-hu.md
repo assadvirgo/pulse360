@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony has announced a new version of the wearable personal air conditioner
   the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest
   version is an upgrade to…
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-12T06:00:00Z'

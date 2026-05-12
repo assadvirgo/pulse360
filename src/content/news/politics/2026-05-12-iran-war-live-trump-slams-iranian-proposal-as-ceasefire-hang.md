@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran&#039;s powerful parliamentary speaker says US has &#039;no alternative
   but to accept&#039; Tehran&#039;s 14-point proposal to end war.
-displayOrder: 22
+displayOrder: 45
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-12T00:00:00Z'

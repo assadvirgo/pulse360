@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: Aid group Doctors Without Borders suspends hospital operations because
   of safety concerns following gunfire.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-11T21:08:06Z'

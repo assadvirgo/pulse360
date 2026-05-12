@@ -5,7 +5,7 @@ countryCode: LV
 description: The up-and-coming Latvian actor had the idea for and co-wrote the Un
   Certain Regard film and stars as female basketball legend Uļjana Semjonova. He couldn't
   sleep until 4 a.m. the…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-12T08:01:00Z'

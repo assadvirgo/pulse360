@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Damage to Habshan facility highlights lasting impact of Middle East conflict
   on Gulf energy exports
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-12T07:25:12Z'

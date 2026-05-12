@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Explore Chewy coupon codes for $30 off, $20 off your first order $49,
   50% off pet food, and more May 2026 discounts.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-12T05:00:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: One killed and four others wounded in attacks on Ukraine&#039;s Dnipropetrovsk
   region, local administration chief says.
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-12T08:34:46Z'

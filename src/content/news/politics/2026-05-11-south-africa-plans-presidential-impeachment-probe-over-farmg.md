@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: The country&#039;s parliament says its speaker will begin the process
   of setting up the impeachment committee.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-11T19:15:15Z'

@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: The ex-Bolivian president is on trial for allegedly fathering a child
   with a 15-year-old girl while in office.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-12T03:16:28Z'

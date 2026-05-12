@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Senator Ronald "Bato" Dela Rosa, a former national police chief, has
   sought refuge in the senate.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-12T04:37:03Z'

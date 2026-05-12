@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Currency weakens after US Treasury secretary meets finance minister Satsuki
   Katayama
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-12T05:27:09Z'

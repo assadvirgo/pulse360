@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: General Motors is laying off hundreds of salaried employees in its information
   technology operations.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-11T23:32:38Z'

@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: Alix Didier ⁠Fils-Aime says Haiti is too unstable for elections as a
   new wave of violence forces hospital evacuations.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-11T21:08:06Z'

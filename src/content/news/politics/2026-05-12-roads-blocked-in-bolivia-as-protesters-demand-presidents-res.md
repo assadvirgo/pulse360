@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Bolivia faces growing unrest as widespread road blockades disrupt travel
   across major cities.
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-12T01:36:55Z'
