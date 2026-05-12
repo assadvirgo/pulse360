@@ -5,7 +5,7 @@ countryCode: US
 description: Rivian's AI-powered voice assistant is rolling out today to the company's
   vehicle fleet. The assistant will be available through a software update to all
   compatible Rivian Gen 1…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-12T15:51:38Z'

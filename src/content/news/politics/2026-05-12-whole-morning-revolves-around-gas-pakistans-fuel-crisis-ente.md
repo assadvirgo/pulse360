@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: The crisis sees women waking up early, cooking quickly, rearranging meals
   and planning days around the prospect of gas.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-12T08:23:44Z'

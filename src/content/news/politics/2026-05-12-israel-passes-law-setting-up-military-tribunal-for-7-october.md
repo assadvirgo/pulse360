@@ -5,7 +5,7 @@ countryCode: IL
 description: Israeli politicians have passed a law establishing a military tribunal
   with the authority to sentence to death Hamas fighters who took part in the 7 October
   attack on Israel.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-05-12T08:03:00Z'

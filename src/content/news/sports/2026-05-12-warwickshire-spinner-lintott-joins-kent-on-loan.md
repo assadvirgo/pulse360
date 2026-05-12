@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Kent sign Warwickshire spin bowler Jake Lintott on loan until the end
   of the 2026 T20 Blast.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-05-12T11:01:42Z'

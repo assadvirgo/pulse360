@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company behind Canvas says it has "reached an agreement" with the
   hackers who disrupted thousands of colleges and universities.
-displayOrder: 19
+displayOrder: 41
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-12T10:31:23Z'

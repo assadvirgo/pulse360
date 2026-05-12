@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Silicon Valley encourages the view that the technology is unstoppable
   — and Trump seems to agree
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-12T11:04:25Z'

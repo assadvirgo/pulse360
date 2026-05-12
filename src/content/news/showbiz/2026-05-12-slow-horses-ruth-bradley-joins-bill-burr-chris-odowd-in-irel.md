@@ -5,7 +5,7 @@ countryCode: IE
 description: 'EXCLUSIVE: Slow Horses&#8217; Ruth Bradley is set to star alongside
   Bill Burr and Chris O&#8217;Dowd in Bender, the coming-of-age comedy shooting in
   Ireland this summer, which we…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-12T15:42:31Z'

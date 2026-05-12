@@ -5,7 +5,7 @@ countryCode: US
 description: Demis Hassabis is the co-founder and CEO of Google’s DeepMind artificial-intelligence
   lab, which has spun out a startup called Isomorphic Labs to use AI to accelerate
   the creation…
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-12T16:17:00Z'

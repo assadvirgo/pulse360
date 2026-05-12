@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Draft statement of intent seen as first step towards potential bigger
   ‘drone deal’
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-12T15:12:21Z'

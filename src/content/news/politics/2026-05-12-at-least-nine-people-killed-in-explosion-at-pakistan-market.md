@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: About 30 people wounded in blast in town of Sarai Naurang, in Lakki Marwat
   district, northwestern Pakistan.
-displayOrder: 25
+displayOrder: 45
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-12T10:31:54Z'

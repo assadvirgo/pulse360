@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Gary Dauberman&#8217;s Coin Operated has secured the rights
   to Rest Stop, a recently published horror novella by Nat Cassidy, with an eye toward
   developing a feature…'
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 66.0
 pubDate: '2026-05-12T16:07:16Z'

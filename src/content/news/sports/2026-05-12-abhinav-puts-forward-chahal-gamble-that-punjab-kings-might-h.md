@@ -3,7 +3,7 @@ category: Sports
 country: India
 countryCode: IN
 description: Spinner did not bowl a single over in the loss to DC
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-12T04:49:39Z'

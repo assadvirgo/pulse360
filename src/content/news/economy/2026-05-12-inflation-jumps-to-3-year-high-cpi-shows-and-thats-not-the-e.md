@@ -5,7 +5,7 @@ countryCode: US
 description: The U.S. inflation rate leaped to a nearly three-year high of 3.8% in
   April because of higher gas prices — and the pain for consumers isn’t going away
   soon.
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-12T12:33:00Z'

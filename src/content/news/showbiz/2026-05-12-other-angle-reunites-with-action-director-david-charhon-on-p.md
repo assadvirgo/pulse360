@@ -5,7 +5,7 @@ countryCode: FR
 description: 'EXCLUSIVE: Other Angle is reuniting with French action director David
   Charhon on his upcoming Thai boxing drama Prison Fight for a Cannes sales launch.
   Inspired by true events, it…'
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-12T12:15:15Z'
