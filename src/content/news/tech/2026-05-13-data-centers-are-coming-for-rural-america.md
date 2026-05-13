@@ -5,7 +5,7 @@ countryCode: US
 description: At its peak, the Androscoggin paper mill in Jay, Maine, a rural town
   about 67 miles northwest of Portland, employed about 1,500 people - until a pulp
   digester exploded in 2020,…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-13T09:00:00Z'

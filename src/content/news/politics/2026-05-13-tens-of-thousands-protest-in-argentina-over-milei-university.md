@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentines protest Javier Milei’s deep cuts to tuition-free universities
   as staff wages plunge and funding law stalls.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-13T06:52:51Z'

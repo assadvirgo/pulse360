@@ -5,7 +5,7 @@ countryCode: IN
 description: '"I think you have to acknowledge the influence of Ashish Nehra on the
   bowlers that play under him," Sanjay Bangar says of Gujarat Titans'' Test-match-like
   plan of attack with the…'
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-13T04:43:03Z'

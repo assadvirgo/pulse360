@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The ship, which set sail from Belfast on Friday, is at port in Bordeaux
   after 49 people fell ill from gastrointestinal illness.
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-13T16:43:40Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This piece contains major spoilers for the finale of
   Prime Video’s Off Campus. Readers of Elle Kennedy’s Off Campus series have a surprise
   to look forward to in the…'
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-13T16:30:00Z'

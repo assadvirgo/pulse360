@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beck knows how to call a cadence and take snaps under center, while many
   college QBs don't.
-displayOrder: 31
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-13T12:35:21Z'

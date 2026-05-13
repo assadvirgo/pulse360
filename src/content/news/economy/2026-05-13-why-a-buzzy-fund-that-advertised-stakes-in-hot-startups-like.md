@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of closed-end fund Destiny Tech100 have been whipsawed this week,
   reflecting the promise and peril of trying to access stocks before their IPOs.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-13T16:23:00Z'

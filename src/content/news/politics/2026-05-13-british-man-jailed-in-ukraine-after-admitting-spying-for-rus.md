@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A Scottish man who worked as a military instructor in Ukraine has been
   jailed for more than eight years after he admitted spying for Russia.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-13T09:48:00Z'

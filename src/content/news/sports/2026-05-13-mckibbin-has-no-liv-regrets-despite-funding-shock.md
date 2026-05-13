@@ -5,7 +5,7 @@ countryCode: GB
 description: Tom McKibbin insists he has "no regrets" about joining LIV Golf even
   as the tour faces major financial uncertainty following the announcement that Saudi
   Arabia's Public Investment…
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-13T12:50:28Z'

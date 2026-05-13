@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CME Group plans to launch futures that would let investors bet on the
   price of computing power.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-13T15:08:00Z'

@@ -4,7 +4,7 @@ country: Bahrain
 countryCode: BH
 description: The resolution calls for free navigation through the strait and an end
   to Iranian attacks on its Gulf neighbours.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T06:02:08Z'

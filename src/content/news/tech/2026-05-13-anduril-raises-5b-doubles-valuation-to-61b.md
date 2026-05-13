@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After achieving $2.2 billion in revenue in 2025, the defense tech startup
   has raised another massive round, led by Thrive and a16z, it says.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-13T14:44:25Z'

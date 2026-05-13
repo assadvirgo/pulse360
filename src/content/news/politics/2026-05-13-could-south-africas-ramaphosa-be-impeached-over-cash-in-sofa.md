@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South African president came to power on anticorruption mandate - and
   could go now for stuffing cash in furniture.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T13:12:36Z'

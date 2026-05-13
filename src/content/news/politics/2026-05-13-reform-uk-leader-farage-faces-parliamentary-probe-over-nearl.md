@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: If found guilty, the right-wing populist could be suspended from the
   House ⁠of Commons for a period of time.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T15:40:47Z'

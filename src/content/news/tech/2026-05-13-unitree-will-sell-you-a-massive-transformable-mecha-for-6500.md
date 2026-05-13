@@ -5,7 +5,7 @@ countryCode: CN
 description: 'Unitree is already one of the most recognizable names in the humanoid
   robot industry, but now it''s pursuing even nicher sci-fi tech: giant mech suits.
   The Chinese robotics company…'
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-13T12:11:02Z'

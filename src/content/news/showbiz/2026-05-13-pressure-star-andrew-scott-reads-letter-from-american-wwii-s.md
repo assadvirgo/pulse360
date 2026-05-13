@@ -5,7 +5,7 @@ countryCode: US
 description: For the first time, the USO is opening its archives to share a curated
   collection of intimate World War II letters, written by service members between
   1942 and 1944 from the…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 71.8
 pubDate: '2026-05-13T16:00:00Z'
