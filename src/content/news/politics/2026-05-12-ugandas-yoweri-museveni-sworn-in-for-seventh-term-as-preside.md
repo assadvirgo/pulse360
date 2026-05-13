@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: The 81-year-old, who has been in power since 1986, won a January election
   amid reports of intimidation and abductions.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-12T13:42:21Z'

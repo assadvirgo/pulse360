@@ -4,7 +4,7 @@ country: Honduras
 countryCode: HN
 description: Adan Funez was one of three men arrested this week over alleged involvement
   in the shooting of activist Juan Lopez.
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-12T23:19:53Z'

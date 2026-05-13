@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: The home affairs minister hails the ruling as a "victory" against the
   "abuse" of the refugee system.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 63.2
 pubDate: '2026-05-12T16:38:53Z'

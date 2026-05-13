@@ -4,7 +4,7 @@ country: Bahamas
 countryCode: BS
 description: Affordability, wage growth, and housing costs dominate Bahamian snap
   election as parties vie for 41 parliamentary seats.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-12T18:00:09Z'

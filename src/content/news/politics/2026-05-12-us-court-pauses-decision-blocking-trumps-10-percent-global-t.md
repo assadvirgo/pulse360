@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A coalition of 24 states have argued that Trump&#039;s latest tariffs
   do not meet the standards of 1974 Trade Act.
-displayOrder: 25
+displayOrder: 33
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-12T21:00:53Z'

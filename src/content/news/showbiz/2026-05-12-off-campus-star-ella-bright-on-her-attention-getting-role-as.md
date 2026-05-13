@@ -5,7 +5,7 @@ countryCode: GB
 description: 'Since the TV adaptation of Elle Kennedy&#8217;s &#8220;Off Campus&#8221;
   novels was announced in 2024, fans of the massively popular book series have been
   wondering: Who is going…'
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-12T19:15:00Z'

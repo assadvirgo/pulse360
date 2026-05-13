@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Washington Sundar, who scored 50 off 33 balls, said "the plan was to
   not think much"
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-12T18:54:45Z'

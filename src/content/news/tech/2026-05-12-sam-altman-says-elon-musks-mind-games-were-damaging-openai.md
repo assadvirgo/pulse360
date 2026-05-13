@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI CEO Sam Altman says Elon Musk did "huge damage" to the culture
   of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman
   said Musk required…
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-12T17:34:09Z'

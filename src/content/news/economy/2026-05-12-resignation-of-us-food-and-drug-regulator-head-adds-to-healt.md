@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawyer Kyle Diamantas appointed FDA’s acting leader as concerns mount
   over hantavirus outbreak
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-12T21:41:23Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Six construction workers were killed and several vehicles plunged into
   the river after the cargo ship crashed into the bridge.
-displayOrder: 19
+displayOrder: 39
 heroImage: ''
 importance: 68.2
 pubDate: '2026-05-12T15:56:26Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Markets can handle rising prices. What crushes confidence is uncertainty
   that squelches investment.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-12T22:37:00Z'

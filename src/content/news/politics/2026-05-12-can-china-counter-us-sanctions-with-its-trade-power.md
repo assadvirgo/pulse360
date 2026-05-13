@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: From sanctions to rare earths, the economic rivalry between the US and
   China is intensifying.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-12T17:11:42Z'

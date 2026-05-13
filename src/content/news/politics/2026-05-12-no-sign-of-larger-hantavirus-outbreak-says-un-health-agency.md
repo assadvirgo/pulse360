@@ -2,7 +2,7 @@
 category: Politics
 description: The situation could still change and there might be more confirmed cases,
   warns the head of the World Health Organization.
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 71.2
 pubDate: '2026-05-12T17:55:12Z'

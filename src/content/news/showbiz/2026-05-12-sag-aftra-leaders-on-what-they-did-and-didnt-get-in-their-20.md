@@ -5,7 +5,7 @@ countryCode: US
 description: 'Chief negotiator Duncan Crabtree-Ireland and president Sean Astin are
   pleased with the contract’s AI and pension provisions. But they also want more compensation
   gains: "Being…'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-12T23:10:20Z'
