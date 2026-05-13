@@ -5,7 +5,7 @@ countryCode: US
 description: Starting Tuesday, parents can get more details about what their teens
   are up to on Instagram. Meta is adding a feature to its Teen Accounts that shows
   parents the "general topics…
-displayOrder: 15
+displayOrder: 22
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-12T19:56:50Z'

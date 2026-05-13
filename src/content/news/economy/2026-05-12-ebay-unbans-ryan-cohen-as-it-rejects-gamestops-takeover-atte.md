@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The e-commerce company had permanently banned Cohen’s eBay account, which
   included GameStock merch and other items listed for as much as $14,000.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-12T15:42:00Z'

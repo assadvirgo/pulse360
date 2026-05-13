@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beyond near-term military expenses, there are also longer-term Pentagon
   costs and many other economic effects.
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-12T20:23:00Z'

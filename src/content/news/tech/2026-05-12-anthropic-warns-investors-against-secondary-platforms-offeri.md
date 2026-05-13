@@ -5,7 +5,7 @@ countryCode: US
 description: The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital,
   Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that
   are not authorized to…
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-12T17:36:34Z'

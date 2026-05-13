@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CEO Cohen, who has built a 5 percent position in eBay, has hinted he
   may take offer directly to eBay shareholders.
-displayOrder: 28
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-12T17:24:49Z'

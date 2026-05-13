@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a
   high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI
   president Greg Brockman,…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-12T16:05:20Z'

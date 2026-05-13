@@ -5,7 +5,7 @@ countryCode: US
 description: 'Get ready to talk to the animals! Sycamore Studios has announced that
   production is underway on “Doctor Dolittle: King of the Wild.”The new feature film
   is based on Hugh Lofting’s…'
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-12T15:45:00Z'

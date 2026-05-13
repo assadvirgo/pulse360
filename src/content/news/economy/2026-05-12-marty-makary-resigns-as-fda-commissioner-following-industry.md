@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Makary's tenure was marked by internal dysfunction at the FDA, leadership
   turmoil and mounting backlash from drugmakers and physicians on regulatory decisions.
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-12T20:04:29Z'

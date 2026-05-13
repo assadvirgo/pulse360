@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: Arsenal striker Viktor Gyokeres and Liverpool forward Alexander Isak
   are named in Sweden's World Cup squad.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-12T16:11:34Z'

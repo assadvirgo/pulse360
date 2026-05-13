@@ -5,7 +5,7 @@ countryCode: FR
 description: Despite a selection light on Hollywood fare, the Croisette got whipped
   into frenzy nonetheless by boldfaced names like Demi Moore, Chloe Zhao, Jane Fonda,
   Diego Luna and Heidi…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-12T18:43:05Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Palestinians in Gaza, football fans from around the world and activists
   laud Barca and Spain footballer.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-12T14:41:29Z'

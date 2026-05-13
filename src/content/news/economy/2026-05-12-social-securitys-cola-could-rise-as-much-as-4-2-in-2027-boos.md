@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Surging gasoline and energy prices, as well as the cost of groceries,
   have pushed the forecast for the cost-of-living adjustment higher.
-displayOrder: 33
+displayOrder: 45
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-12T17:55:00Z'
