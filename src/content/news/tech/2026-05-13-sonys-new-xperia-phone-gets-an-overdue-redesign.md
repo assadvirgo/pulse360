@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony's Xperia 1 flagships have looked more or less the same since 2020,
   but that's finally changing with the Xperia 1 VIII, which moves to a chunky square
   camera island. The phone…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-13T02:00:00Z'

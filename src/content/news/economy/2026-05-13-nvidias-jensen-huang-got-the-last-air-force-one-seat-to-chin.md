@@ -5,7 +5,7 @@ countryCode: US
 description: Traders are interpreting the late addition of Nvidia’s CEO to the Air
   Force One passenger list as a signal that good news about export licenses may be
   in the offing
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-13T08:46:00Z'

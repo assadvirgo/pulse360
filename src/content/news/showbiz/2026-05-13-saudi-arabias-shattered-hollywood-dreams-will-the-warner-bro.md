@@ -5,7 +5,7 @@ countryCode: SA
 description: In 2018, Saudi Arabia removed its religious ban on cinema and revealed
   its intentions to transform itself from an oil-based economy into an entertainment
   powerhouse. The goal was…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-05-13T07:58:39Z'

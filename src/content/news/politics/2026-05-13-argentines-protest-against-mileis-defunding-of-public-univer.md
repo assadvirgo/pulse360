@@ -3,7 +3,7 @@ category: Politics
 country: Argentina
 countryCode: AR
 description: Argentines protest against Milei’s defunding of public universities.
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-13T02:43:31Z'

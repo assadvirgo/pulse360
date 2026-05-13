@@ -5,7 +5,7 @@ countryCode: TH
 description: Bangkok-based sales and distribution outfit Fearfolks has acquired world
   sales rights to &#8220;Someone Special,&#8221; a Thai-Chinese thriller co-directed
   by Petong Sakulchai and…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 71.8
 pubDate: '2026-05-13T08:05:19Z'

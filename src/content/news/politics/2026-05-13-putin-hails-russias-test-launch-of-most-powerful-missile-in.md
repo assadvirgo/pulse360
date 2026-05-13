@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Russian leader says the nuclear-capable Sarmat missile will enter combat
   service at the end of the year.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-13T04:27:51Z'

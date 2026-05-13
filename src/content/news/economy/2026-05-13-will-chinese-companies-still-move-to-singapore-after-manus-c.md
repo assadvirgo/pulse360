@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: Beijing’s move to block takeover of AI start-up with headquarters in
   city-state challenges sustainability of ‘Singapore washing’
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-13T03:14:35Z'

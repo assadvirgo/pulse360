@@ -2,7 +2,7 @@
 category: Politics
 description: US president says he &#039;doesn’t think about Americans’ financial situation&#039;
   when it comes to the crippling war on Iran.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-13T00:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wembanyama scores 27 points on return from ejection as San Antonio Spurs
   beat Minnesota Timberwolves 126-97 in Game 5.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-13T07:26:36Z'

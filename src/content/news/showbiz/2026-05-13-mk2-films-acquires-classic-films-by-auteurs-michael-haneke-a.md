@@ -5,7 +5,7 @@ countryCode: FR
 description: MK2 Films has acquired films by Michael Haneke, Ang Lee and Xavier Dolan
   as part of its strategy to reposition auteur classics as global theatrical events.
   Among the headline…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-13T05:00:00Z'

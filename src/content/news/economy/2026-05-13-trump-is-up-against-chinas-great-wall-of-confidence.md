@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president will encounter a very different country to the one he
   visited in 2017
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-13T04:00:30Z'

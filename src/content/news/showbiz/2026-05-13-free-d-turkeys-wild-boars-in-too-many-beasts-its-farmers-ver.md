@@ -5,7 +5,7 @@ countryCode: FR
 description: The feature debut of Sarah Arnold, starring Alexis Manenti and Ella Rumpf
   and premiering in the Directors' Fortnight, sees boars ravaging crops, sparking
   an open war. And there…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-13T06:30:00Z'

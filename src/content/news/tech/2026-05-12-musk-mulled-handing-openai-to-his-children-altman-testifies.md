@@ -5,7 +5,7 @@ countryCode: US
 description: Altman said that Musk's focus on controlling the initial for-profit gave
   him pause because OpenAI was dedicated to keeping advanced AI out of the hands of
   a single person, and…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-12T18:05:15Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: 2026 Cannes Film Festival juror Paul Laverty denounced Hollywood for
   boycotting actors who’ve opposed the Gaza war.
-displayOrder: 23
+displayOrder: 43
 heroImage: ''
 importance: 69.5
 pubDate: '2026-05-12T20:55:57Z'
