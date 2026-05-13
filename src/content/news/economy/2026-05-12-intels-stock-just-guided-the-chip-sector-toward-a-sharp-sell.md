@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Analysts note “buyer exhaustion” and market concerns about what the latest
   inflation data may mean for future data-center spending commitments.
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-12T21:19:00Z'

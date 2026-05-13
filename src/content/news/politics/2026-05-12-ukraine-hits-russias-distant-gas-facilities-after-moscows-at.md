@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The attack comes in retaliation for the Russian attacks that killed at
   least six in Ukraine, according to the president.
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-12T19:36:36Z'

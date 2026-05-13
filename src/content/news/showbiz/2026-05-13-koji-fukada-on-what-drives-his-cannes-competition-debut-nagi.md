@@ -5,7 +5,7 @@ countryCode: JP
 description: Previously selected for Cannes Premiere (“Love on Trial”) and Un Certain
   Regard (“Harmonium”), Kôji Fukada will now vie for the Palme d’Or in his first competition
   film with “Nagi…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-13T04:55:00Z'

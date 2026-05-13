@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fund it operates took in fraction of capital from year-ago level as worries
   mount over potential surge in loan defaults
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-12T17:20:21Z'

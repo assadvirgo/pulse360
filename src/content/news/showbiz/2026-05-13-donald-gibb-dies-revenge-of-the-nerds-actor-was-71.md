@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Gibb, best known for playing the &#8220;Ogre&#8221; in the Revenge
   of the Nerds franchise, has died. He was 71. The actor&#8217;s son, Travis, shared
   with TMZ that his…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-13T02:52:42Z'

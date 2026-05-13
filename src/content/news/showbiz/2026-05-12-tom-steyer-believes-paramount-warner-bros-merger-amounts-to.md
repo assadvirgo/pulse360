@@ -5,7 +5,7 @@ countryCode: US
 description: The Democratic gubernatorial candidate tells THR he would support a lawsuit
   from the Attorney General to stop David Ellison from owning CNN. He also believes
   tax credits are only…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-12T22:37:59Z'

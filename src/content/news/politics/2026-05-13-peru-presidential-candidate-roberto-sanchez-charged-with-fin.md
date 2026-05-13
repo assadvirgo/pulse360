@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Prosecutor calls for leftist candidate to be jailed for five years and
   four months over false financial disclosures.
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-13T01:05:33Z'

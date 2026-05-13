@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Lawmakers demand answers as mounting cost of conflict weighs on the economy
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-12T21:12:55Z'

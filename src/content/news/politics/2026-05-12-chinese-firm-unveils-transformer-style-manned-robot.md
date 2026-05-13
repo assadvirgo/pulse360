@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Unitree Robotics has released footage of its CEO piloting the GD01 transformable
   mecha that smashes through walls.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-12T23:42:47Z'

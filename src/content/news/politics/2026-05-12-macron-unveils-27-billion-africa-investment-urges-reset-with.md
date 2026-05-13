@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French President Emmanuel Macron, in Kenya for the Africa Forward summit,
   called for a ‘fundamental reset’ in Africa.
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 79.5
 pubDate: '2026-05-12T19:04:36Z'
