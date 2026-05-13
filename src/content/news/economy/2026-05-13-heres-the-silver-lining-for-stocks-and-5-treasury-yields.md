@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Higher rates mean higher costs for borrowers, but 5% isn’t a level that’s
   prone to sticking around in the Treasury market
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-13T11:22:00Z'

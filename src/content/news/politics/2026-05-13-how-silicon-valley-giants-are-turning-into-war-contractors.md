@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Palantir, Anduril, Google and other tech giants are selling AI-powered,
   computer-guided weapons systems.
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 64.5
 pubDate: '2026-05-13T08:41:45Z'

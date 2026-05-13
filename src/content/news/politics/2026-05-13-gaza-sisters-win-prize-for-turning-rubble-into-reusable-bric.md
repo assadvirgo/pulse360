@@ -2,7 +2,7 @@
 category: Politics
 description: Displaced teenagers Farah and Tala wanted to 'turn destruction into something
   useful'.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-13T11:44:48Z'

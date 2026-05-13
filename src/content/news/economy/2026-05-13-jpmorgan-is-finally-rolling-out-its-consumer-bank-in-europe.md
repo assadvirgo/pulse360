@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Almost five years after launching its digital bank Chase in the UK, CEO
   Jamie Dimon is preparing to take on Germany
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-13T04:00:21Z'

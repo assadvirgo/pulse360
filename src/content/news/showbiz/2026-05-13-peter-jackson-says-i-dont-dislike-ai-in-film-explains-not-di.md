@@ -3,7 +3,7 @@ category: Showbiz
 description: '&#8220;Lord of the Rings&#8221; filmmaker Peter Jackson doesn&#8217;t
   &#8220;dislike&#8221; AI being used in film — but he thinks it&#8217;s a shame that
   the debate surrounding it…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-13T10:31:33Z'

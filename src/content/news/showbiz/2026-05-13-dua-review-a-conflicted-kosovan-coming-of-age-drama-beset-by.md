@@ -3,7 +3,7 @@ category: Showbiz
 description: A coming-of-age drama that gradually turns morose, Blerta Basholli’s
   sophomore feature “Dua” follows up her Sundance-winning 2021 debut “Hive” as a reflection
   of Kosovan women in…
-displayOrder: 2
+displayOrder: 17
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-13T11:16:00Z'

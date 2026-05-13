@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 213cm centre, who publicly came out as gay in 2013, had been battling
   a brain tumour.
-displayOrder: 14
+displayOrder: 33
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T08:48:19Z'

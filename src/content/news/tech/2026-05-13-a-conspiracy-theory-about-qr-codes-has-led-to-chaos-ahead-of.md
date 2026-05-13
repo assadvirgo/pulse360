@@ -5,7 +5,7 @@ countryCode: US
 description: The state of Georgia banned the use of QR codes for elections, based
   in part on the assertions of a man who’s boosted false claims about Israel and 9/11.
   Now no one knows how…
-displayOrder: 1
+displayOrder: 14
 heroImage: ''
 importance: 72.2
 pubDate: '2026-05-13T10:30:00Z'

@@ -5,7 +5,7 @@ countryCode: NG
 description: Cohen Media Group has bought U.S. distribution rights to &#8220;Lady,&#8221;
   the debut feature from Nigerian-born writer-director Olive Nwosu, being sold by
   HanWay Films. The…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-13T12:05:00Z'

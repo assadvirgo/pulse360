@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The actor was recognised for his contributions to entertainment as well
   as his humanitarian efforts.
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-13T10:47:55Z'
