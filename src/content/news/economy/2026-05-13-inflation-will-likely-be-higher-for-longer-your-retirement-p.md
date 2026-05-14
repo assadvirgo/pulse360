@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Official CPI masks double-digit spikes in healthcare, insurance and energy.
   Meanwhile, an outdated strategy quietly drains your portfolio.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-13T23:34:00Z'

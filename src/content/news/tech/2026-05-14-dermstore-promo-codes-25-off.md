@@ -2,7 +2,7 @@
 category: Tech
 description: Score major savings on premium skincare, hair care, and cosmetics with
   these verified Dermstore discount codes and rewards offers.
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-14T05:00:00Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Eight children are among those reported dead after a series of air strikes
   hit the south of Beirut.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-05-13T21:14:45Z'

@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Senate president says Senator Ronald &#039;Bato&#039; dela Rosa &#039;no
   longer in the building&#039; where he had taken refuge.
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-14T08:05:51Z'

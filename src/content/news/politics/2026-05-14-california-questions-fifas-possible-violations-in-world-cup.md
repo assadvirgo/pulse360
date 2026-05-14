@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: California attorney general asks FIFA to explain why the categories of
   some tickets were changed after being sold.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 54.5
 pubDate: '2026-05-14T08:21:20Z'

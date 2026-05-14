@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawsuit says task force comprised of state and federal agencies harassed
   bystanders who recorded enforcement activities.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-13T22:58:19Z'

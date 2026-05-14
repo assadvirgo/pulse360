@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Late Wednesday, the company priced its IPO at $185 a share, far above
   the top of its previously announced range of $150-$160.
-displayOrder: 30
+displayOrder: 48
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-13T23:52:00Z'

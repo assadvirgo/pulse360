@@ -5,7 +5,7 @@ countryCode: IQ
 description: With a new $2 million fund and a second year at Cannes, the Kurdistan
   Film Commission, led by H.E. Qubad Talabani, Deputy Prime Minister of the semi-autonomous
   region in Iraq and…
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-14T06:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Save on every purchase with top KitchenAid coupons from WIRED, including
   up to 20% off countertop appliances.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-14T05:00:00Z'

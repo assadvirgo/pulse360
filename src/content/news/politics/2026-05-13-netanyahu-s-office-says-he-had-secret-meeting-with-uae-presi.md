@@ -5,7 +5,7 @@ countryCode: IL
 description: Benjamin Netanyahu's office said he secretly visited the United Arab
   Emirates earlier this year during the US-Israeli war with Iran - but the UAE has
   denied the trip took place.
-displayOrder: 23
+displayOrder: 42
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-13T21:53:00Z'

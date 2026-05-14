@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: News opens way for former deputy PM to potentially enter a contest to
   topple Keir Starmer
-displayOrder: 40
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-14T05:55:55Z'
