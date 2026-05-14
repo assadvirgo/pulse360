@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Calbee says it would temporarily use only black and white colours on
   14 of its products due to a lack of printing ink.
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T08:49:02Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The health secretary’s ambition to succeed Keir Starmer was well known,
   but his time overseeing the NHS has proved trickier than expected
-displayOrder: 35
+displayOrder: 48
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-14T12:28:58Z'

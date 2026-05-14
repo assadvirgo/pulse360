@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: '“I did two basic things right: I married the right person and chose
   a trade I can practice until I die.”'
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-14T11:30:00Z'

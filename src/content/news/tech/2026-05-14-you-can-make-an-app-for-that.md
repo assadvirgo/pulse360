@@ -3,7 +3,7 @@ category: Tech
 description: The tyranny of software is almost over. Since the first computer programmers
   wrote the first computer programs, we, the users of that software, have been forced
   to live in the…
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-14T11:00:00Z'

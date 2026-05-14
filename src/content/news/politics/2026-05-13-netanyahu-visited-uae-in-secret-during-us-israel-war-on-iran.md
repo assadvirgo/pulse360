@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli prime minister&#039;s office describes trip as a &#039;historic
   breakthrough&#039; in relations with Gulf state.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 83.5
 pubDate: '2026-05-13T19:06:55Z'

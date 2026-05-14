@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Health secretary says he has ‘lost confidence’ in Starmer but stops short
   of launching leadership challenge
-displayOrder: 31
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-14T12:21:05Z'

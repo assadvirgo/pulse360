@@ -2,7 +2,7 @@
 category: Economy
 description: Body for pension and sovereign wealth funds wants costs shared between
   investors and buyout groups
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-14T04:14:40Z'

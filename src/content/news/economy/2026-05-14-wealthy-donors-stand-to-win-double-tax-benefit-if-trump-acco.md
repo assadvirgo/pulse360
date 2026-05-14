@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Permitting stock contributions to "Trump Accounts" would allow donors
   to offload appreciated shares without paying capital gains tax.
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-14T12:17:48Z'

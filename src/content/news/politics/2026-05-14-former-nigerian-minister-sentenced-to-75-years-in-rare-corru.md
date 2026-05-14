@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Former Power Minister Saleh Mamman was convicted last week - but the
   authorities do not know his whereabouts.
-displayOrder: 19
+displayOrder: 30
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-14T11:44:22Z'

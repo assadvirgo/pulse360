@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Coldplay&#039;s Chris Martin will curate the show during the July 19
   final at the MetLife Stadium in New Jersey, FIFA says.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-14T05:44:39Z'

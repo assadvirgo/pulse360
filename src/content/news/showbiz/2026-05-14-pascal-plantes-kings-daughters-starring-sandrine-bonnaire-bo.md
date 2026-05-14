@@ -5,7 +5,7 @@ countryCode: FR
 description: WTFilms has acquired worldwide rights for Pascal Plante’s “King’s Daughters,”
   a historical survival drama spiced with folk-horror undertones, starring Sandrine
   Bonnaire, Laurie…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-14T12:28:54Z'

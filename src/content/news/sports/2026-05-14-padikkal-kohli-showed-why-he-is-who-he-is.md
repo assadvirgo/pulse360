@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Kohli came into the match against KKR on the back of consecutive ducks
   but hit an unbeaten century in the 193-run chase
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-14T10:53:31Z'

@@ -5,7 +5,7 @@ countryCode: IN
 description: A feature film on the life of Amir Hussain Lone, the armless cricketer
   who captains the Jammu and Kashmir para cricket team, was unveiled on the sidelines
   of the Cannes Film…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-14T08:01:26Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK&#039;s local elections exposed the suspicion that meets Muslim
   political participation.
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T09:02:11Z'
