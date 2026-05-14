@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: It will be Saudi Arabia's first franchise league, and is expected to
   feature retired 'legends' who are still active in the franchise circuit
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-14T12:20:39Z'

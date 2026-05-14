@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beth Kobliner’s classic tome of financial literacy for Gen X still works
   today for Gen Z.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-14T14:00:00Z'

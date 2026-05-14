@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: Superpowers compete for technological foothold on world’s highest peak,
   pushing Nepal towards a geopolitical chessboard.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-14T08:23:35Z'

@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Law can hold power to account in theory, but has it been enough?
-displayOrder: 18
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T13:53:26Z'

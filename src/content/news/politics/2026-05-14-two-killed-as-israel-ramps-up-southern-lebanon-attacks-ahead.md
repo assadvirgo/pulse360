@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon and Israel are expected to hold talks on extending the ceasefire
   in Washington.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-14T11:27:22Z'

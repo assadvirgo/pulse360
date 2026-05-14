@@ -5,7 +5,7 @@ countryCode: FR
 description: 'In an era of prolix cinema sprawl, Pawel Pawlikowski is a maestro of
   precision-cut film-making: give him a bouquet of big themes and he’ll rigorously
   prune them until they fit…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-14T16:07:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Bombardment by more than 1,400 drones and 56 missiles over 24 hours is
   one of war’s largest aerial attacks
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T07:18:10Z'

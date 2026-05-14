@@ -2,7 +2,7 @@
 category: Economy
 description: The critical challenge is to build institutions that protect us from
   tech companies and the state
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-14T11:40:22Z'

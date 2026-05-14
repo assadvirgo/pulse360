@@ -2,7 +2,7 @@
 category: Tech
 description: Ocean heat plus human-caused global warming is a grim recipe for deadly
   climate extremes.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-14T13:09:46Z'

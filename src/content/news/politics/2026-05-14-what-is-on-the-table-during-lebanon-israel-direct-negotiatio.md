@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel and Lebanon will meet for the third time this year to discuss
   a ceasefire and disarming Hezbollah.
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T13:17:28Z'
