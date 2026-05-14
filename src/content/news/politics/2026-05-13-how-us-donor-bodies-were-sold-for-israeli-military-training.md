@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: How donated cadavers from US universities ended up in Israeli military
   surgical training.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T18:30:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Producer price index rises at fastest rate since Russia’s full-scale
   invasion of Ukraine
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 76.5
 pubDate: '2026-05-13T16:20:55Z'

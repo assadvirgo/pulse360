@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Gunfire broke out in the Philippine senate where a senator is holed up
   trying to avoid arrest over claims of crimes against humanity.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-13T15:00:00Z'

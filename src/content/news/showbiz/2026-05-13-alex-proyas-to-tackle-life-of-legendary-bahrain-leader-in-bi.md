@@ -5,7 +5,7 @@ countryCode: BH
 description: 'EXCLUSIVE: I, Robot, The Crow, Dark City director Alex Proyas is set
   to direct The Hakim, inspired by late Bahrain leader Shaikh Isa bin Ali Al Khalifa
   who led his country through…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-13T16:12:15Z'

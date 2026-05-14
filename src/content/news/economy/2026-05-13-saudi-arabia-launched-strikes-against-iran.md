@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Riyadh wanted to show it was defending itself but told Tehran it was
   not joining broader US-Israeli assault
-displayOrder: 33
+displayOrder: 45
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-13T18:35:42Z'

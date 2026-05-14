@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Senate confirms Trump pick Kevin Warsh as Federal Reserve chair amid
   growing concerns over independence.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T18:55:40Z'

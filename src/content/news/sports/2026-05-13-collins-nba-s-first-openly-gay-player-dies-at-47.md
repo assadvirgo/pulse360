@@ -5,7 +5,7 @@ countryCode: US
 description: Jason Collins, the NBA's first openly gay player who has served as a
   global ambassador for the sport for the past decade, has died of brain cancer, his
   family said Tuesday. He was…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-13T12:16:22Z'

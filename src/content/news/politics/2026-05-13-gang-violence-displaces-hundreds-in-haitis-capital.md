@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: People in Cite Soleil neighbourhood of Port-au-Prince protest as gang
   violence shuts hospitals and displaces hundreds.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T10:58:44Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Hello and welcome to Regulator, the newsletter for Verge subscribers
   that goes into tech shenanigans that take place in the backrooms of Washington.
   Really, it sometimes does feel…
-displayOrder: 21
+displayOrder: 33
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-13T19:19:00Z'

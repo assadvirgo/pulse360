@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The $25bn auction comes hours after data showing sharpest rise in producer
   prices since Russia’s invasion of Ukraine
-displayOrder: 31
+displayOrder: 40
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-13T20:05:45Z'

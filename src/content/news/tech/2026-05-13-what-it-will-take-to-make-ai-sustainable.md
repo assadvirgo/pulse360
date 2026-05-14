@@ -2,7 +2,7 @@
 category: Tech
 description: Researcher Sasha Luccioni argues we need better emissions data and a
   better sense of how people are using AI in the first place.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-13T19:15:59Z'

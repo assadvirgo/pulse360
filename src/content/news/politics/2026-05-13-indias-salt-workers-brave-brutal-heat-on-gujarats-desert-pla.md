@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Gujarat accounts for 75% of India’s output of salt, produced under punishing
   conditions by tens of thousands of workers.
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-13T16:05:53Z'
