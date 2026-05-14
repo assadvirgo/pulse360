@@ -5,7 +5,7 @@ countryCode: US
 description: Webtoon Entertainment and Warner Bros. Animation announced four new animated
   titles based on popular Webtoon webcomics that are in development as part of their
   strategic…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-13T22:00:00Z'

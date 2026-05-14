@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Bond markets won’t wait for the central bank to combat inflation.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-13T20:18:00Z'

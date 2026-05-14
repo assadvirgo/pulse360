@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: The Gulf country says its ties with Israel &#039;are not based on secrecy
   or clandestine arrangements&#039;.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-13T19:06:55Z'

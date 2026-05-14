@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia has launched a massive daytime drone barrage across Ukraine, killing
   at least six people.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-13T19:41:58Z'

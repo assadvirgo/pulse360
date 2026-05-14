@@ -2,7 +2,7 @@
 category: Economy
 description: Hedge fund gives ultimatum to members of its global quantitative strategies
   team based in territory
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-13T23:01:02Z'

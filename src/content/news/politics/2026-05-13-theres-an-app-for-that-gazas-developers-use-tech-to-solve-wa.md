@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza’s battered tech sector is being reshaped by young developers building
   practical apps to navigate life.
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-13T19:06:40Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Allegiant CEO Greg Anderson said leisure travel demand is still strong
   despite higher fuel prices.
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-13T20:04:52Z'

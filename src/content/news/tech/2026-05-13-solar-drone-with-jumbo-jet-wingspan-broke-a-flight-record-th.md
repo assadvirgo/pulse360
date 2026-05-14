@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: The final flight and complex legacy of a pioneering solar-powered aircraft.
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 62.0
 pubDate: '2026-05-13T21:48:27Z'

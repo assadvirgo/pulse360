@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Ronald dela Rosa, former police chief under ex-President Rodrigo Duterte,
   faces an ICC arrest warrant.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-05-13T12:44:12Z'

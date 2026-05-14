@@ -4,7 +4,7 @@ country: Bahamas
 countryCode: BS
 description: The victory marks the first time in three decades a Bahamian political
   party has noticed back-to-back election wins.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-13T21:07:45Z'

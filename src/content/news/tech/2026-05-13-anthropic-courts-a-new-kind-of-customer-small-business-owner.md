@@ -5,7 +5,7 @@ countryCode: US
 description: For founders and investors, Anthropic's new offering signals that the
   AI platform wars are expanding downmarket and that the next major battleground for
   user acquisition isn't the…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-13T16:00:00Z'

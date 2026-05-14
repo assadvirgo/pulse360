@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC Sport NI speaks to former Northern Ireland defender Stephen Craigan
   as we ask what Michael O'Neill's decision to choose country rather than club means
   for the future of the…
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-13T15:38:26Z'

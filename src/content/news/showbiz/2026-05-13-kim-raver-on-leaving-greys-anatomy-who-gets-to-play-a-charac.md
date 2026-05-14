@@ -5,7 +5,7 @@ countryCode: US
 description: Raver, along with co-star Kevin McKidd, was told she would be exiting
   the long-running ABC medical drama in the recent season 22 finale. "Letting go of
   Teddy is a deeply felt and…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-13T19:25:26Z'
