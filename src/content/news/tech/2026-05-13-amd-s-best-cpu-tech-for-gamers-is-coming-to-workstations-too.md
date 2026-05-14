@@ -5,7 +5,7 @@ countryCode: US
 description: For the first time, AMD is including its 3D V-Cache tech in its commercial
   workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up
   until now, AMD's 3D…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-13T20:38:16Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Watch the highlights as Celtic score a controversial late penalty to
   win at Motherwell and take the Scottish Premiership title race to a final-day decider
   against Hearts.
-displayOrder: 25
+displayOrder: 32
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-13T23:54:10Z'

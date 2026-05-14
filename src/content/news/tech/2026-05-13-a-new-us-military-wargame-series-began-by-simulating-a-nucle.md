@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US officials have said a nuclear detonation would render portions of
   low-Earth orbit useless for up to a year.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-13T18:04:33Z'

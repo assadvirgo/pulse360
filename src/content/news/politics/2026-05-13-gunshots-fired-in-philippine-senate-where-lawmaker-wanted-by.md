@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Senator Ronald dela Rosa, a former police chief, enforced former President
   Rodrigo Duterte's deadly drug war.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 77.2
 pubDate: '2026-05-13T15:35:15Z'

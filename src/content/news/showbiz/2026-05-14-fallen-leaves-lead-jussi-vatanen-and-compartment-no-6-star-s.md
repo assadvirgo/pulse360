@@ -5,7 +5,7 @@ countryCode: FI
 description: Jussi Vatanen, who led the cast in “Fallen Leaves,” and Seidi Haarla,
   the star of “Compartment No. 6,” will topline in Finnish satire “Arrogance.” The
   film is the story of Ossi…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-14T04:24:00Z'

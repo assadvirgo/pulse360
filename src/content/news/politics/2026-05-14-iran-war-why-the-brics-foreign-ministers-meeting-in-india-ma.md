@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The foreign ministers meeting is taking place before the 2026 BRICS summit
   in India in September.
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-14T03:00:33Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Louisiana governor suspends vote following Supreme Court ruling; critics
   say move sows confusion and violates law.
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T21:00:28Z'

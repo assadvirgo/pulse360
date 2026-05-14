@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Hundreds of mourners gathered for the funeral of two Lebanese paramedics
   killed by an Israeli strike
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-13T21:15:59Z'

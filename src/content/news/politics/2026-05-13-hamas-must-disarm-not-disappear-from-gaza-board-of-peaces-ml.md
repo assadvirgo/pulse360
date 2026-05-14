@@ -2,7 +2,7 @@
 category: Politics
 description: '&#039;We are not asking Hamas to disappear as a political movement’,
   says diplomat overseeing the US-brokered truce in Gaza.'
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-13T19:11:24Z'

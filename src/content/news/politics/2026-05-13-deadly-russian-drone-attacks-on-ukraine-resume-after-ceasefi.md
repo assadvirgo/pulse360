@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Six people have been killed after Zelensky warned of "more waves" of
   Russian strikes through Wednesday.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-13T16:39:28Z'

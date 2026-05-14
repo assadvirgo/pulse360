@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Allrounder's injury the latest setback in an injury-ridden season for
   Chennai Super Kings
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-13T18:46:33Z'
