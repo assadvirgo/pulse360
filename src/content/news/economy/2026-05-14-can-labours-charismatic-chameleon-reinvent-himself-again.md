@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Greater Manchester mayor has earned public respect by going from insider
   to outsider, but economic doubts could undermine his bid for Downing Street
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-14T16:33:11Z'

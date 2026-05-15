@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Figma’s stock soars after earnings beat expectations again, and the full-year
   outlook was raised.
-displayOrder: 31
+displayOrder: 42
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-15T00:15:00Z'

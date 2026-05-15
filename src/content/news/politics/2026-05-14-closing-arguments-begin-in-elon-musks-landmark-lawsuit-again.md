@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk accuses OpenAI of breaching charitable trust and prioritising
   profit over AI safety and nonprofit values.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-14T22:12:47Z'

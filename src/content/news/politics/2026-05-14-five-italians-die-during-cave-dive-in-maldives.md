@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Italy says the incident happened at a depth of 50m. Maldivian rescuers
   have so far found one body.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-14T20:48:26Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Al Jazeera examines key talking points related to the introduction of
   an expanded 48-nation tournament.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-14T14:53:17Z'

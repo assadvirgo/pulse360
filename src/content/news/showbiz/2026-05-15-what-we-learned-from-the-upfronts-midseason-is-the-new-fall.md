@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. Discovery kicked off its annual upfront event at the Madison
   Square Garden Theater by paying tribute to the late Ted Turner, who had just died
   the previous week.…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-15T00:01:48Z'

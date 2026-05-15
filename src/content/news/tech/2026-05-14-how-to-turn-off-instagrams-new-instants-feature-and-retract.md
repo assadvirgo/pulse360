@@ -3,7 +3,7 @@ category: Tech
 description: While the Meta-owned social network billed Instants as a new format to
   share real-life moments as they’re happening, many users are looking for a way to
   turn off the feature,…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-14T15:06:39Z'

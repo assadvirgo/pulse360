@@ -2,7 +2,7 @@
 category: Politics
 description: Power is no longer exercised through military force alone, but via technology,
   finance and control over information.
-displayOrder: 29
+displayOrder: 47
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-14T15:08:38Z'

@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: PM sworn in and 14 ​ministers approved ⁠in new government though parliament
   fails to reach consensus on several posts.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-14T17:04:51Z'

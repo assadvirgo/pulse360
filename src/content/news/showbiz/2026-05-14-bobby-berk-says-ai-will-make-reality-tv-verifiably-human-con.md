@@ -5,7 +5,7 @@ countryCode: CA
 description: Amid the tech titans, founders, policymakers and an endless array of
   AI-powered start-ups at Web Summit Vancouver, Bobby Berk made a case for why reality
   television will become…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-05-14T21:32:45Z'

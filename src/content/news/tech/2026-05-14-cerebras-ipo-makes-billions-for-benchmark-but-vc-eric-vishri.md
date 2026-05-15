@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Benchmark almost never backs hardware startups. So Eric Vishria dragged
   his feet ten years ago before agreeing to hear Cerebras' pitch.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-14T20:23:03Z'
