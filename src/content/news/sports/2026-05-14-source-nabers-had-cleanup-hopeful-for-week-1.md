@@ -5,7 +5,7 @@ countryCode: US
 description: Malik Nabers underwent a second procedure on his right knee earlier this
   offseason and the Giants remain hopeful the wide receiver will be ready for Week
   1, a source confirmed to…
-displayOrder: 16
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T17:27:27Z'

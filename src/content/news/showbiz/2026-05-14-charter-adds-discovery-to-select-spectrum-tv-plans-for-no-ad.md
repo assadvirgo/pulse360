@@ -5,7 +5,7 @@ countryCode: US
 description: Subscribers of Charter Communications&#8217; higher-end Spectrum TV plans
   now have access to Warner Bros. Discovery&#8217;s Discovery+ for no extra charge.
   Of course, much of the…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-14T19:18:23Z'

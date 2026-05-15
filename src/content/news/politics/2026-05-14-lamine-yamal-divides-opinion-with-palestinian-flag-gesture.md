@@ -2,7 +2,7 @@
 category: Politics
 description: A mural of Barcelona player Lamine Yamal was painted in Gaza after the
   teenager waved a Palestinian flag.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-14T16:23:28Z'

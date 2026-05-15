@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: President Donald Trump told Fox News that China has agreed to buy 200
   Boeing jets, according to a clip that aired Thursday.
-displayOrder: 29
+displayOrder: 37
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-14T18:05:25Z'

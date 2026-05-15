@@ -4,7 +4,7 @@ country: Latvia
 countryCode: LV
 description: Latvia’s Prime Minister Evika Silina resigned following criticism of
   her government’s handling of stray drones
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T16:00:09Z'

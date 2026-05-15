@@ -2,7 +2,7 @@
 category: Economy
 description: What if the Hantavirus turns into a black-swan for oil? This former hedge-fund
   executive is taking out some insurance against that.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-14T11:33:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Another legacy Paramount TV executive is leaving in the wake of the Skydance
   merger. Company veteran Keith Cox, who has served as top programming executive for
   multiple brands,…
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-14T20:15:16Z'

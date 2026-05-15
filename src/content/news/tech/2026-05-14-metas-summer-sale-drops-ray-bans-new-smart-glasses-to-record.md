@@ -5,7 +5,7 @@ countryCode: US
 description: If you’ve been curious about Ray-Ban’s Meta smart glasses, right now
   they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the
   company’s Summer Sale event,…
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-14T19:44:17Z'

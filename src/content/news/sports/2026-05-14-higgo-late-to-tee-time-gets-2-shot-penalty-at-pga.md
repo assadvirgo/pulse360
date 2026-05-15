@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Garrick Higgo was penalized two strokes for being late to his Thursday
   morning tee time in the first round of the 108th PGA Championship.
-displayOrder: 17
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T17:27:26Z'

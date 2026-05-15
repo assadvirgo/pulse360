@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “We already deposit $1,000 each month into the American Funds Growth
   and Income Portfolio Class A fund.”
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-14T14:15:00Z'

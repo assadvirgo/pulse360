@@ -5,7 +5,7 @@ countryCode: US
 description: The fashion-forward look of Netflix’s KPop Demon Hunters required what
   Sony Pictures Imageworks says was a first-of-its-kind approach to animated costuming,
   with each of the main…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-14T16:05:21Z'

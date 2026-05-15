@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Large parts of eastern Cuba were plunged into darkness in the latest
   round of nationwide electricity shutdowns.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-14T16:45:52Z'
