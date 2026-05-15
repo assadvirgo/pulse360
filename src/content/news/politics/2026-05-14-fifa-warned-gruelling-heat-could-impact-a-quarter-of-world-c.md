@@ -2,7 +2,7 @@
 category: Politics
 description: Scientists warn football&#039;s governing body that global warming has
   increased extreme heat risk since 1994 US World Cup.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T18:39:33Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The incoming chair thinks that constant ‘incantations’ do more harm than
   good
-displayOrder: 21
+displayOrder: 26
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-15T04:00:19Z'

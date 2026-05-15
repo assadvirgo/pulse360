@@ -5,7 +5,7 @@ countryCode: US
 description: 'The most graphically-impressive first-person shooter made for the Nintendo
   Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid
   Prime 4: Beyond…'
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-14T21:38:45Z'

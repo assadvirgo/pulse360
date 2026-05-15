@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Kylian Mbappe will spearhead France at the World Cup as national team
   coach Didier Deschamps announces his 26-man squad.
-displayOrder: 29
+displayOrder: 45
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T19:40:40Z'

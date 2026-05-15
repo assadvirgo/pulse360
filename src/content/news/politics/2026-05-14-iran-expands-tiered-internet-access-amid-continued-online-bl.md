@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranians have had limited internet access during the war, with the government
   now looking at tiered services.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-14T19:00:34Z'

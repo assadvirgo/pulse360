@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI lab has tapped Dragoneer, Greenoaks, Sequoia Capital and Altimeter
   Capital to lead new round
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-15T00:23:13Z'

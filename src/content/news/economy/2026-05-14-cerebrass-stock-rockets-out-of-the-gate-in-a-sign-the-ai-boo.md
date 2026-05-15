@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The chip maker’s shares opened 89% above the IPO price before trading
   was briefly halted for volatility, but then pared some gains.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-14T20:15:00Z'

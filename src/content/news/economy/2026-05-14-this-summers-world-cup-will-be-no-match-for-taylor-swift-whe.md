@@ -5,7 +5,7 @@ countryCode: US
 description: The World Cup runs from June 11 to July 19, with games being played in
   cities across the U.S., Canada and Mexico. Tickets went on sale in October and have
   sold for as much as…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-14T20:15:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Real Sociedad forward Ander Barrenetxea is reportedly on Chelsea's radar.
   Transfer Talk has the latest.
-displayOrder: 19
+displayOrder: 28
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-14T22:39:30Z'
