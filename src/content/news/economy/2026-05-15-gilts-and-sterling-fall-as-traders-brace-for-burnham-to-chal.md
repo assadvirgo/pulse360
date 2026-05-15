@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Greater Manchester mayor is lightning rod for concerns over possible
   loosening of UK’s self-imposed borrowing limits
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-15T07:47:01Z'

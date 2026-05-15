@@ -2,7 +2,7 @@
 category: Tech
 description: On the hunt for the perfect mattress or pillow? Save on your soon-to-be
   favorite brand, Purple, with these Purple coupons and deals.
-displayOrder: 24
+displayOrder: 47
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-15T05:00:00Z'

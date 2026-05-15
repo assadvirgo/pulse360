@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinian Authority President Mahmoud Abbas has been unanimously re-elected
   leader of the Fatah movement.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-14T20:07:21Z'

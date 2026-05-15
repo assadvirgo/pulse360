@@ -5,7 +5,7 @@ countryCode: US
 description: Ronda Rousey says she is "smashing the record" alongside Gina Carano
   for the "most women have been paid in combat sports" and she could become the most
   powerful figure in MMA…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-15T03:43:06Z'

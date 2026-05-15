@@ -4,7 +4,7 @@ country: Maldives
 countryCode: MV
 description: Five tourists, including a professor and her daughter, have died in a
   scuba diving accident in the Maldives.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-15T06:03:00Z'

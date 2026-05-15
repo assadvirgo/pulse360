@@ -2,7 +2,7 @@
 category: Politics
 description: Eurovision is heading towards its grand final, but organisers are bracing
   for more demonstrations against Israel.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-15T00:35:47Z'

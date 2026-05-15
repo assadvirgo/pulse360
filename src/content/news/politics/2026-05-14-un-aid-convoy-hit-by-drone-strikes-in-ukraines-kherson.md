@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A UN humanitarian convoy delivering aid to the city of Kherson was hit
   twice by drones.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-14T23:22:38Z'

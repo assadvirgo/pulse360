@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Nagatitan chaiyaphumensis had enough unique features to be considered
   a new species.
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-15T08:02:40Z'

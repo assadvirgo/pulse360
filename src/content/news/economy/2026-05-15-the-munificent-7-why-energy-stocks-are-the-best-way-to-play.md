@@ -5,7 +5,7 @@ countryCode: US
 description: The commodity complex is in a structural bull market, and capital should
   be flowing away from the companies desperate for commodities and towards those who
   have them, argues Jeff…
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-15T11:08:00Z'

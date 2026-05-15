@@ -2,7 +2,7 @@
 category: Economy
 description: Ships are increasingly sailing through India and Sri Lanka, and through
   the Panama Canal.
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-15T11:23:00Z'

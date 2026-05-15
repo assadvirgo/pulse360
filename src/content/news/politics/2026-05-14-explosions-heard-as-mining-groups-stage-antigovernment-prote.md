@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Protesters have demanded the resignation of President Rodrigo Paz, who
   was elected on a platform of economic reform.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-14T23:28:00Z'

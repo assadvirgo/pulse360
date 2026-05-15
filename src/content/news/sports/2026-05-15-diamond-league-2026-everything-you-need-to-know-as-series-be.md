@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: GB's Amy Hunt joins global stars Armand Duplantis and Faith Kipyegon
   at the opening Diamond League event of the season in China - live on the BBC.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-15T12:13:22Z'

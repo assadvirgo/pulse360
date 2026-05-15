@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Labour set to approve Greater Manchester mayor standing in Makerfield
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-15T10:53:19Z'

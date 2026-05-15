@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hardware company Atech raised $800,000 in pre-seed funding, including
   from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 68.0
 pubDate: '2026-05-14T20:43:03Z'
