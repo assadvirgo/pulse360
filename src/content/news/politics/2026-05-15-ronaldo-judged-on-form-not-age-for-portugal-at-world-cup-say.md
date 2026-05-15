@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Ronaldo will play in his fifth World Cup and is the record scorer at
   international level with 143 goals for Portugal.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-15T13:04:27Z'

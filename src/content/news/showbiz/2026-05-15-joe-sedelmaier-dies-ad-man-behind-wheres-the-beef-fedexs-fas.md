@@ -5,7 +5,7 @@ countryCode: US
 description: Joe Sedelmaier, the commercial director responsible for some of the most
   popular TV ads ever including Wendy&#8217;s &#8220;Where&#8217;s The Beef?&#8221;
   and FedEx&#8217;s…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-15T16:15:03Z'

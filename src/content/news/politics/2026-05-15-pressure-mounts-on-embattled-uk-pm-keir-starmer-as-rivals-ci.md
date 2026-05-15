@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wes Streeting, a key Starmer rival, backed Manchester&#039;s Andy Burnham
   as among the best options to challenge Starmer.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-15T13:59:37Z'

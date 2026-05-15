@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: Jonathan Majors is set to star in Mark Brown&#8217;s political
   thriller Dinner at Nick’s. The pic, which the Barbershop film franchise creator
   wrote and will direct,…'
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 66.0
 pubDate: '2026-05-15T16:31:31Z'

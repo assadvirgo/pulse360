@@ -5,7 +5,7 @@ countryCode: DE
 description: The German actress sat down with THR's executive editor of awards, Scott
   Feinberg, for an exclusive recording of the 'Awards Chatter' podcast at Cannes'
   Campari Lounge.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 62.8
 pubDate: '2026-05-15T15:35:03Z'

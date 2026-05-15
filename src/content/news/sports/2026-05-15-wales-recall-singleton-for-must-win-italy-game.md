@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Seren Singleton returns on the wing as the only change made by Wales
   for Sunday's final Six Nations game against Italy.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-15T10:00:25Z'

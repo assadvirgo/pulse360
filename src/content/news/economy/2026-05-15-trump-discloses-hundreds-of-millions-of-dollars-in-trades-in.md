@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Transactions relating to companies including Nvidia, Palantir, Paramount
   and Boeing listed in disclosures
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-15T13:06:26Z'

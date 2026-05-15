@@ -2,7 +2,7 @@
 category: Politics
 description: On May 15, Palestinians mark 78 years since the Nakba. The count of land
   Israel has taken keeps growing today.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-15T10:52:47Z'

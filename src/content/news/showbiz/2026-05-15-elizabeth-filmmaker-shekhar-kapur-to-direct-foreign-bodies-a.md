@@ -5,7 +5,7 @@ countryCode: IN
 description: 'EXCLUSIVE: BAFTA-winning Indian filmmaker Shekhar Kapur (Elizabeth)
   is set to direct Foreign Bodies, a historical drama biopic about vaccine pioneer
   and bacteriologist Waldemar…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-15T12:01:01Z'

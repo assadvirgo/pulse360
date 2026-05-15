@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Beckham and his wife Victoria&#039;s collective wealth reached the milestone
   this year, according to Sunday Times Rich List.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-15T12:11:30Z'

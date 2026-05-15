@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Monaco forward Takumi Minamino also misses out due to injury, but ex-Arsenal
   defender Takehiro Tomiyasu makes the cut.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-15T06:38:24Z'

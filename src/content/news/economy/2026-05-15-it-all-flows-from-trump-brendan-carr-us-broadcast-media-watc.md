@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The chair of the Federal Communications Commission on making the agency
   more ‘aggressive’, his fight with Disney — and playing golf with the president
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-15T11:30:09Z'

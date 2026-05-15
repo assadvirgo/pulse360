@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: In a preemptive move, Lionsgate has locked down rights to
   Carry Me to My Grave, a buzzy forthcoming novel from New York Times bestselling
   author Christopher Golden, as…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-15T16:07:29Z'

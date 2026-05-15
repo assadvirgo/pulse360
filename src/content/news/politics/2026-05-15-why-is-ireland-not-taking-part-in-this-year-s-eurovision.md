@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Ireland's boycott is the latest in a series of moves that has seen the
   country at odds with Israel over its war in Gaza.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-15T11:41:41Z'

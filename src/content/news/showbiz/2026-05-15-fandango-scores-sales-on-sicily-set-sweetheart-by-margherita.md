@@ -5,7 +5,7 @@ countryCode: IT
 description: Italy’s Fandango has scored multiple sales on “Sweetheart” (“Gioia Mia”)
   the delicate generation gap drama by Margherita Spampinato who is being honored
   with Kering&#8217;s…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 85.8
 pubDate: '2026-05-15T05:09:19Z'
