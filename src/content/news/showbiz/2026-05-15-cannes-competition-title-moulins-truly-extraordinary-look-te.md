@@ -5,7 +5,7 @@ countryCode: HU
 description: For his historical drama “Moulin,” which premieres in competition at
   the Cannes Film Festival, Oscar-winning Hungarian filmmaker&#160;László&#160;Nemes
   (“Son of Saul”) traveled…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-15T05:57:00Z'

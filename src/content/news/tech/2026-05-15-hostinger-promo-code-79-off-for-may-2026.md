@@ -3,7 +3,7 @@ category: Tech
 description: Discover exclusive Hostinger promo codes, discounts, and deals on web
   hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase
   today.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-15T05:00:00Z'

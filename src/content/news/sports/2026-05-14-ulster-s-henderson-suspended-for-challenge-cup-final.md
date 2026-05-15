@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ulster captain Iain Henderson will miss the Challenge Cup final against
   Montpellier after he is handed a three-match suspension by the United Rugby Championship.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-05-14T17:24:11Z'

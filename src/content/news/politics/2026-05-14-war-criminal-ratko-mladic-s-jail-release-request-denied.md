@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: A UN judge admits the 84-year-old is "in the final stages of his life",
   but says prison conditions in The Hague ensure his maximum comfort.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-05-14T17:45:39Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lender announced plan last year to use $3.2tn balance sheet to muscle
   into alternative lending market
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-05-15T04:29:18Z'

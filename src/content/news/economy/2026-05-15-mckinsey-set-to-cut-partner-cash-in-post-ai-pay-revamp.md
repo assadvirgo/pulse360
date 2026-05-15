@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Consultancy tells senior staff their remuneration will comprise a greater
   proportion of equity
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-15T04:00:07Z'

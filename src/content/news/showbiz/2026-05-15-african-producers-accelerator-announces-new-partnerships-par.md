@@ -5,7 +5,7 @@ countryCode: ZA
 description: The African Producers Accelerator, an initiative designed&#160;to tackle
   persistent industry barriers faced by mid-career African film and television producers,
   has selected the…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-15T08:12:14Z'

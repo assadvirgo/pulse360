@@ -3,7 +3,7 @@ category: Politics
 country: Congo (DRC)
 countryCode: CD
 description: Africa's top health agency says around 246 cases have been reported.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 68.2
 pubDate: '2026-05-15T08:27:42Z'
