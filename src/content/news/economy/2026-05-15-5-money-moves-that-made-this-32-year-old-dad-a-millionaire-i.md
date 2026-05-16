@@ -5,7 +5,7 @@ countryCode: US
 description: A low starting salary, global pandemic, unaffordable housing market,
   graduate school and two kids didn’t stop Blake Edwards and his wife from becoming
   millionaires by their early…
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-15T18:37:00Z'

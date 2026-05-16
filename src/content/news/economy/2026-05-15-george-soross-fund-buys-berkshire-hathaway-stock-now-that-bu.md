@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The value of Soros Fund Management’s equity holdings increased during
   the first quarter in a down market, as it boosted stakes in Nvidia and Apple.
-displayOrder: 35
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-15T21:29:00Z'

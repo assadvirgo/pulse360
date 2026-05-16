@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel's prime minister says he has ordered legal action over an article
   which alleged Israeli security officials raped Palestinian detainees.
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-15T16:30:31Z'

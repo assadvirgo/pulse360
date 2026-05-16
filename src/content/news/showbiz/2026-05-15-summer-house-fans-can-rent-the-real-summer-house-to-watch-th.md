@@ -5,7 +5,7 @@ countryCode: US
 description: StayMarquis, the Hamptons-based rental company who manages the property
   featured on the Bravo show, is allowing viewers to bid to rent the space for one
   night only tied to the…
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 65.8
 pubDate: '2026-05-15T23:49:13Z'

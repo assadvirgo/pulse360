@@ -3,7 +3,7 @@ category: Showbiz
 description: 'Toward the beginning of his new song “Janice STFU,” Drake conducts one
   of his customary exercises in emo theater: “You say what my work means to me will
   one day be the death of me…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-15T21:09:58Z'

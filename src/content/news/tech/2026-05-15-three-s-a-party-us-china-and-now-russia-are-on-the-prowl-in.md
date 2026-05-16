@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Instead of running silent and deep, most satellites easily stand out
   against the blackness of space.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-15T19:11:48Z'

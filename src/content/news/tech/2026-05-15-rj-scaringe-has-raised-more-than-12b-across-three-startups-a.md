@@ -5,7 +5,7 @@ countryCode: US
 description: Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling
   and communication are one of his superpowers, according to Jiten Behl, who joined
   Rivian when the…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-15T20:30:20Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From Pop to Tim Duncan, Manu Ginobili and David Robinson, team legends
   are teaching this inexperienced squad the "Spurs Way."
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-15T13:21:17Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Three women and a child among civilians killed in Israel&#039;s latest
   attacks on Gaza City.
-displayOrder: 30
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-15T21:05:22Z'

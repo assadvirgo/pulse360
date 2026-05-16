@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine has prevented Russian arms and fuel from reaching the front line
   in a successful disruption campaign.
-displayOrder: 26
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-15T17:32:33Z'

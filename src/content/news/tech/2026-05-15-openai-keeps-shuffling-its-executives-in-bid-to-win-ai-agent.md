@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI announced yet another reorganization Friday, consolidating certain
   areas and making company president Greg Brockman the official lead of all things
   product. In a memo…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-15T18:21:35Z'
