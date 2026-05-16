@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Lebanon&#039;s Health Ministry says Israeli attacks have killed 2,951
   people since March 2, with at least 8,988 wounded.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 69.5
 pubDate: '2026-05-16T00:00:00Z'

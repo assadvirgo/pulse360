@@ -5,7 +5,7 @@ countryCode: CA
 description: Canada has twice delayed access to medically assisted dying for those
   with mental illness. Claire Brosseau says she cannot wait any longer and wants the
   courts to decide.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-15T23:04:41Z'

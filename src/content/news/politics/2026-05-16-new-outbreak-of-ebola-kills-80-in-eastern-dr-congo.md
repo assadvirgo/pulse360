@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Africa's top health agency says around 246 cases have been reported -
   a case has also been reported in Uganda.
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 68.2
 pubDate: '2026-05-16T04:11:26Z'

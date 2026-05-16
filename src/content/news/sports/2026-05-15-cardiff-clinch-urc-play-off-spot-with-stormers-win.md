@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Cardiff book their United Rugby Championship (URC) play-off spot with
   a bonus-point victory against Stormers at the Arms Park.
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-15T20:54:28Z'

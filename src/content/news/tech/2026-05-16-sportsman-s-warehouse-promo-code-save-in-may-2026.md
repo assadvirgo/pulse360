@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Whether you are hunting for firearms, camping supplies, or boating gear,
   use these Sportsman’s Warehouse coupons to maximize your savings this month.
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 71.2
 pubDate: '2026-05-16T05:00:00Z'

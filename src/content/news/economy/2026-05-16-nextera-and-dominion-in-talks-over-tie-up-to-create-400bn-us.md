@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Discussions come amid booming demand for electricity to power AI data
   centres
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-16T00:23:49Z'

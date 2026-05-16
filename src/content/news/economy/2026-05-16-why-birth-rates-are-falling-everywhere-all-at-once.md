@@ -2,7 +2,7 @@
 category: Economy
 description: Homes and phones are part of the reason for the demographic shift changing
   our world
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 25.5
 pubDate: '2026-05-16T04:00:12Z'

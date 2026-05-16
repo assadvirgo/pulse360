@@ -5,7 +5,7 @@ countryCode: IN
 description: More than 120 Indian filmmakers and producers have united to establish
   the Independent Filmmakers Assn. of India, a not-for-profit collective designed
   to improve theatrical…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-16T04:35:00Z'
