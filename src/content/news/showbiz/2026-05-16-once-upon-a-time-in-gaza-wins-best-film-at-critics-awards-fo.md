@@ -5,7 +5,7 @@ countryCode: FR
 description: Gaza-born twin brothers Tarzan and Arab Nasser&#8217;s &#8220;Once Upon
   a Time in Gaza,&#8221; their riff on the Western genre that premiered last year
   in Un Certain Regard, won…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-16T14:14:38Z'

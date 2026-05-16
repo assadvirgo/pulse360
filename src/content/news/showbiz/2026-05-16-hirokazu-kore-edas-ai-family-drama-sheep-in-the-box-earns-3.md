@@ -5,7 +5,7 @@ countryCode: FR
 description: Hirokazu Kore-eda&#8217;s near-future drama &#8220;Sheep in the Box,&#8221;
   in which a grieving couple welcomes a state-of-the-art humanoid as their son, premiered
   in competition…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 71.8
 pubDate: '2026-05-16T15:27:59Z'

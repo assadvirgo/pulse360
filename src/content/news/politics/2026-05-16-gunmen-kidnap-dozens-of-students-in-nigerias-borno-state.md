@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: No group ​claimed responsibility for the raid, which bore the hallmark
   of the ​Boko Haram group.
-displayOrder: 22
+displayOrder: 42
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-16T07:58:49Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Despite Lebanon and Israel extending the ceasefire deal for another 45
   days, Israel continues to bomb Lebanon.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-16T10:34:53Z'

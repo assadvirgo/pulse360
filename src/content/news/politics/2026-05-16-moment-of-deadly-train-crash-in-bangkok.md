@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: At least eight people have been killed after a freight train crashed
   into a public bus in Thailand.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-16T12:21:55Z'

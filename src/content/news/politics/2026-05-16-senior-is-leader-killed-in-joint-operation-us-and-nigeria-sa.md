@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: President Donald Trump said the operation eliminated "the most active
   terrorist in the world", Abu-Bilal al-Minuki.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-16T11:44:54Z'

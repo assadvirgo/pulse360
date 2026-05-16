@@ -2,7 +2,7 @@
 category: Politics
 description: Nakba survivor in Gaza recounts displacement after 1948 and 2023 and
   his unwavering attachment to his homeland.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-16T09:05:03Z'

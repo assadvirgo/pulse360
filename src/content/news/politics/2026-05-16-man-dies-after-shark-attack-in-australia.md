@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: A man has died after being bitten by a shark in a tourist hotspot in
   western Australia - the second fatal shark attack in the country this year.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-16T06:36:00Z'

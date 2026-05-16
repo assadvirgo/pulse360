@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Sixty-five people have died in a new Ebola outbreak in DR Congo&#039;s
   Ituri province with 246 suspected cases.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-16T04:58:26Z'

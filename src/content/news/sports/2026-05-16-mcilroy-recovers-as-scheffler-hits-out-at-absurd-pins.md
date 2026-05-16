@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Northern Ireland's Rory McIlroy drags himself back into contention as
   Aronimink continues to punish the world's best golfers at the US PGA Championship.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-16T00:05:30Z'

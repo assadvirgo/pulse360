@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israel has never spent more on its national propaganda campaigns.
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-16T11:24:43Z'
