@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Chancellor wary about the ‘social climate developing there’ as relations
   with Donald Trump hit new low
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-15T14:47:25Z'

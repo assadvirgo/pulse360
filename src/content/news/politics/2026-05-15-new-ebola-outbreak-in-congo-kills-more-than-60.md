@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: A new Ebola outbreak has been confirmed in the Democratic Republic of
   Congo, with 65 deaths recorded so far, according to Africa's top public health body.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-15T15:05:00Z'

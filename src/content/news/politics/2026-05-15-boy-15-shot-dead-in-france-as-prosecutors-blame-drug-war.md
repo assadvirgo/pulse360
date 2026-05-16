@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Prosecutors in Nantes say the shooting was drug-related, but the victim's
   aunt says he was not involved.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-15T12:33:56Z'

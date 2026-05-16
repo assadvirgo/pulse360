@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president says he wants Beijing and Taipei to "cool down" tensions
   over the self-governing island.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 79.2
 pubDate: '2026-05-15T17:50:59Z'

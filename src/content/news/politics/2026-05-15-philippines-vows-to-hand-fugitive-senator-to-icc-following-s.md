@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Senator Ronald &#039;Bato&#039; dela Rosa wanted for alleged role as
   top enforcer of ex-president Duterte&#039;s deadly drug war.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-15T13:09:36Z'

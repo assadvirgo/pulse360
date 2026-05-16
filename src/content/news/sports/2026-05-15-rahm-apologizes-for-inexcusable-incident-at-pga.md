@@ -5,7 +5,7 @@ countryCode: US
 description: Jon Rahm apologized for hitting a volunteer in the face and shoulder
   with a divot after he took a swing in frustration during the first round of the
   PGA Championship on Thursday.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-15T15:27:37Z'

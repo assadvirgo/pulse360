@@ -5,7 +5,7 @@ countryCode: US
 description: This week, a trio of video game cabinets emblazoned with pixel art of
   Donald Trump and a number of other government officials' faces suddenly appeared
   at the DC War Memorial.…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-15T14:01:11Z'

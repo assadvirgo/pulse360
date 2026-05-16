@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As inflation has tightened household budgets, several chain restaurants
   have brought back all-you-can-eat deals to drive foot traffic.
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-15T15:38:00Z'

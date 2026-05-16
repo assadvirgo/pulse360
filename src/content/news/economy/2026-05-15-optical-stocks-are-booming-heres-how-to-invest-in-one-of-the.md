@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors are pouring money quickly into a new ETF that invests in companies
   involved with photonics and photolithography.
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-15T20:13:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father
   was killed during the war.
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 69.2
 pubDate: '2026-05-15T12:53:57Z'

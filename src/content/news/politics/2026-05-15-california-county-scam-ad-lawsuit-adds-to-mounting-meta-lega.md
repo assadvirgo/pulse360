@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Santa Clara accuses Meta of failing to regulate scam adds, months after
   landmark ruling against social media giants.
-displayOrder: 18
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-15T16:12:16Z'

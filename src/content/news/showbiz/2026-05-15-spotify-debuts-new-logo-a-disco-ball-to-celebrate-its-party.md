@@ -3,7 +3,7 @@ category: Showbiz
 description: 'Spotify users who updated their mobile app this week saw something new
   and unexpected: a new icon on their phones that&#8217;s a shimmering green 3D disco
   ball. Spotify has been a…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-15T19:00:05Z'

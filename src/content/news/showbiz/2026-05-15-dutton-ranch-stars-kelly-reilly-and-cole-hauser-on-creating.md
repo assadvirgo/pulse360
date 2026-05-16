@@ -5,7 +5,7 @@ countryCode: US
 description: One of TV&#8217;s most beloved couples is back. Kelly Reilly and Cole
   Hauser have reunited to play Beth and Rip once more on the &#8220;Yellowstone&#8221;
   spinoff &#8220;Dutton…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-15T20:08:24Z'

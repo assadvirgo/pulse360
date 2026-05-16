@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On the 78th anniversary of the mass expulsion of Palestinians, experts
   say US &#039;political amnesia&#039; continues.
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-15T14:31:48Z'

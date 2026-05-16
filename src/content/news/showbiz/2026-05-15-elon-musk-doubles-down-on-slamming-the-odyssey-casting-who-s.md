@@ -5,7 +5,7 @@ countryCode: US
 description: Elon Musk is continuing his campaign against Christopher Nolan&#8217;s
   &#8220;The Odyssey,&#8221; asserting that the Academy&#8217;s diversity guidelines
   are responsible for the…
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-15T19:03:33Z'

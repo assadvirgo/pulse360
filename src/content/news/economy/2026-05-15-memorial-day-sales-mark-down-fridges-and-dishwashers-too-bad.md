@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Many consumers say they’re uncomfortable buying big-ticket appliances
   while gas prices are so high
-displayOrder: 44
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-15T16:58:00Z'
