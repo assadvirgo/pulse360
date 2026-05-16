@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Universities promise no frontline duty and perks if students enlist in
   military.
-displayOrder: 15
+displayOrder: 21
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-15T22:19:12Z'

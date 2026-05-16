@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Warren Buffett exited U.S. airlines back in 2020, but successor Greg
   Abel placed a $2.8 billion fresh bet on Delta.
-displayOrder: 40
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-15T21:41:00Z'

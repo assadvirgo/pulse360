@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: President Trump announced the truce last month, but Israel and Hezbollah
   have continued to exchange fire since then.
-displayOrder: 3
+displayOrder: 5
 heroImage: ''
 importance: 82.2
 pubDate: '2026-05-15T23:59:07Z'

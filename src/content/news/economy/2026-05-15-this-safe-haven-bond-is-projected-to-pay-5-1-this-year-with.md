@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The April 2032 inflation-protected U.S. TIPS bond looks like a pretty
   good deal.
-displayOrder: 45
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-15T20:36:00Z'

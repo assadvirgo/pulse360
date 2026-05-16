@@ -5,7 +5,7 @@ countryCode: US
 description: Dennis Rush, former child star best known for his roles as a young Creighton
   Chaney opposite James Cagney in Man Of A Thousand Faces, and as Howie, pal of Opie
   (Ron Howard) on The…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-05-15T21:09:15Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawyers say new evidence suggests Trump admin &#039;engineered&#039;
   outcome of case against pro-Palestine Columbia student.
-displayOrder: 33
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-15T21:13:24Z'

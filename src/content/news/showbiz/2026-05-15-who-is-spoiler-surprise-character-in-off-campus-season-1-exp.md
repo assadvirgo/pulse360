@@ -3,7 +3,7 @@ category: Showbiz
 description: 'SPOILER ALERT: This piece contains major spoilers for the finale of
   Prime Video’s Off Campus. Readers of Elle Kennedy’s Off Campus series have a surprise
   to look forward to in the…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-15T23:28:44Z'

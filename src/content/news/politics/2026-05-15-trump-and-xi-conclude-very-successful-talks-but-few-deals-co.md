@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: There were plenty of choreographed ceremonies but no trade breakthroughs
   after the two-day visit.
-displayOrder: 18
+displayOrder: 25
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-15T21:50:14Z'

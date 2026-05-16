@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK appears to have gone for broke at this year's Eurovision final,
   choosing one of its most leftfield entries in years.
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-15T23:01:00Z'
