@@ -5,7 +5,7 @@ countryCode: FR
 description: 'The Hollywood Reporter''s next Cannes Rising Star on landing a role
   in László Nemes'' harrowing World War II drama and finally getting his first Palais
   red carpet: "It’s going to…'
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-16T08:00:00Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: All Rights Entertainment has boarded international sales on &#8220;The
   Cop and the Assassin,&#8221; an action thriller starring Olga Kurylenko and Nina
   Bergman set to begin…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-16T10:47:08Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Aston Villa manager Unai Emery says his side can now play the Europa
   League final without the added pressure of needing to secure Champions League qualification
   after a 4-2 win…
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-15T22:14:15Z'

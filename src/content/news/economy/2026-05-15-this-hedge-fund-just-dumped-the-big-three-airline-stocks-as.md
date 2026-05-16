@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Appaloosa sold off its entire positions in Delta, American and United,
   while loading up on shares of Amazon and Uber.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-15T21:48:00Z'

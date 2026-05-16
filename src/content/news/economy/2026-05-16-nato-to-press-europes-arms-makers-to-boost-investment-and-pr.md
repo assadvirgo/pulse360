@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: Alliance chief Mark Rutte set to meet defence groups at meeting in Brussels
   next week
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-16T04:00:23Z'

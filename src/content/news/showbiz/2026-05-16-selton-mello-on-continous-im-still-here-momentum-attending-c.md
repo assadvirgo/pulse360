@@ -5,7 +5,7 @@ countryCode: BR
 description: From the way he lines up upcoming projects, one would think Selton Mello
   has 72 hours in the day. But the crunched-up schedule is a joy, not a burden, to
   the Brazilian actor, who…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-16T11:48:09Z'

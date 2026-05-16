@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK artist Matthew Collings says his exhibition “Drawings Against Genocide”
   has been falsely depicted as anti-Semitic.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-16T02:36:14Z'

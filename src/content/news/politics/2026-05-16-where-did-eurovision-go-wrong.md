@@ -2,7 +2,7 @@
 category: Politics
 description: Eurovision has long claimed to be apolitical. This year, that claim may
   be its most contested performance yet.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-16T06:45:24Z'

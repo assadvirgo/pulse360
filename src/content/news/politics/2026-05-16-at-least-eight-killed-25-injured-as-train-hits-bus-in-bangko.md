@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: A train crashed into a public bus near an airport rail link station in
   Bangkok&#039;s city centre, Thai media report.
-displayOrder: 8
+displayOrder: 16
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-16T10:43:06Z'

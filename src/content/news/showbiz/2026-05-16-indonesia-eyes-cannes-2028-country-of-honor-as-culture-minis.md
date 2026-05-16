@@ -5,7 +5,7 @@ countryCode: ID
 description: Indonesia is officially targeting Country of Honor status at Cannes in
   2028. Culture Minister Fadli Zon, speaking to Variety at Cannes, laid out a sweeping
   strategy to move…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-16T06:15:54Z'

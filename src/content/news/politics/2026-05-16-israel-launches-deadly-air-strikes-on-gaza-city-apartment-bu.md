@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: At least seven Palestinians were killed when Israeli air strikes hit
   a residential building and a vehicle in Gaza City.
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-16T03:37:28Z'

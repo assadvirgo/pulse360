@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump has said that freeing Hong Kong activist Jimmy Lai, who
   is serving a 20-year prison sentence in China, would be "tough".
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-16T01:57:00Z'
