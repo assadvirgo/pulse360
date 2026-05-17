@@ -5,7 +5,7 @@ countryCode: US
 description: Snap, YouTube, and TikTok have settled the first lawsuit of its kind,
   alleging that social media addiction has cost public schools massive amounts of
   money, according to…
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-16T18:34:23Z'

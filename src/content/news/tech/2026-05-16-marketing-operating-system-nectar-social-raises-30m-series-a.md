@@ -5,7 +5,7 @@ countryCode: US
 description: AI-powered marketing platform Nectar Social announced Thursday that it
   raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund,
   which was created…
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-16T19:26:14Z'

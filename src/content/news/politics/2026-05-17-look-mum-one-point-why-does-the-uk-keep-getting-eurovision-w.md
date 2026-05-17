@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: After four years of flops, the BBC has to think hard about how it approaches
   Eurovision in 2027.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-05-17T02:13:36Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: It&#8217;s not an SNL closer unless there&#8217;s a Joke Swap. The time-honored
   Weekend Update tradition sees co-anchors Colin Jost and Michael Che trading jabs
   they wrote for…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-17T04:43:41Z'

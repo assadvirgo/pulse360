@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: The vibes around the current AI boom aren't great, even in the tech industry.
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-16T20:17:16Z'

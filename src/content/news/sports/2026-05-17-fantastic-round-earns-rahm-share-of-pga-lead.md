@@ -5,7 +5,7 @@ countryCode: US
 description: After rounds of 67 and 69 to open the PGA Championship at Aronimink Golf
   Club in Pennsylvania, Alex Smalley surged late on Saturday, registering a third-round
   68 en route to a…
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-17T07:40:01Z'

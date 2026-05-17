@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Clever people have always understood the value of pleasantries at work
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-17T03:00:00Z'

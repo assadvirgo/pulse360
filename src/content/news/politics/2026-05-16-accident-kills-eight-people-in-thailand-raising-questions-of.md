@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Devastating railway accident in Bangkok kills at least eight people.
   And an investigation is underway.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-16T19:06:27Z'

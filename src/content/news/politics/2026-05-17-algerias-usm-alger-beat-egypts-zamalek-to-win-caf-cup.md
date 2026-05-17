@@ -3,7 +3,7 @@ category: Politics
 country: Algeria
 countryCode: DZ
 description: Algeria&#039;s USM Alger beat Egypt&#039;s Zamalek to win CAF Cup.
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-17T05:11:06Z'

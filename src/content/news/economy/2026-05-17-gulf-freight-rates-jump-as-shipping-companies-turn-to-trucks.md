@@ -2,7 +2,7 @@
 category: Economy
 description: Businesses face thousands of dollars in extra costs, with lorries only
   able to carry a fraction of the goods
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-05-17T04:00:12Z'

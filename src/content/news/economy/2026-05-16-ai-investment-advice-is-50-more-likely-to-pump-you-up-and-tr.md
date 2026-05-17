@@ -2,7 +2,7 @@
 category: Economy
 description: AI fuels impulsive actions — a human ‘defense coach’ is your best bet
   to win the market’s ‘loser’s game.’
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-16T17:28:00Z'
