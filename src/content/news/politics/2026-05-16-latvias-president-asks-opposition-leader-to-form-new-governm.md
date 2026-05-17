@@ -4,7 +4,7 @@ country: Latvia
 countryCode: LV
 description: If opposition leader Kulbergs were to form a government, the cabinet
   lineup would need to be approved by parliament.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-16T19:22:27Z'

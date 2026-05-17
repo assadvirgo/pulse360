@@ -3,7 +3,7 @@ category: Politics
 country: Taiwan
 countryCode: TW
 description: Taiwan stressed that it is a “sovereign and independent” nation
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-16T20:58:38Z'

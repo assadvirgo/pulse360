@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: ByteDance and Kuaishou outshine western rivals, lifting AI video quality
   across advertising and entertainment
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-17T04:00:03Z'

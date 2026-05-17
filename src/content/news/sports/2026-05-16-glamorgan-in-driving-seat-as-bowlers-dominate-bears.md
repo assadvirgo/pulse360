@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Glamorgan lay the foundations for a serious push towards a third successive
   County Championship win on a rain-affected day two against Warwickshire.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-16T18:09:43Z'

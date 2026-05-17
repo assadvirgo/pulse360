@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Fund managers say country’s investors will sell out of US Treasuries
   to invest in JGBs
-displayOrder: 14
+displayOrder: 23
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-17T04:00:12Z'

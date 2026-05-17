@@ -2,7 +2,7 @@
 category: Tech
 description: Deep Care's $350 device is pricy, but it runs offline and helps you improve
   your posture and movement habits
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-16T16:00:00Z'

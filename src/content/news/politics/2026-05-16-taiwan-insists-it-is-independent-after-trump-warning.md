@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Fresh from his summit in Beijing, the US president warned against a formal
   declaration of independence by the island.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 71.2
 pubDate: '2026-05-16T17:01:53Z'

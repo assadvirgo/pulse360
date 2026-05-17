@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: More than a million GPS jamming incidents have been recorded since the
   start of the Iran war, with experts telling Sky News that "everyone is doing it".
-displayOrder: 19
+displayOrder: 27
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-16T23:01:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Spain, Ireland, Iceland, Slovenia and Netherlands all withdrew in protest
   against Israel&#039;s participation amid Gaza war.
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 71.5
 pubDate: '2026-05-16T20:31:57Z'

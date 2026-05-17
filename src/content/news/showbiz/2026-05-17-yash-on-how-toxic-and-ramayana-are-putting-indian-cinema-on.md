@@ -5,7 +5,7 @@ countryCode: IN
 description: 'Four years after &#8220;K.G.F: Chapter 2&#8221; redefined box office
   benchmarks across India, Yash is preparing to unveil his next project on a scale
   that extends far beyond…'
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-17T05:08:16Z'

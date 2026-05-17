@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Military police in Bolivia arrested demonstrators, and used tear gas
   to disrupt road blockades after 11 days of protests
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-16T20:44:15Z'

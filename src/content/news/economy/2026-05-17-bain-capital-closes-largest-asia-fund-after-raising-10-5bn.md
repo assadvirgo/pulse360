@@ -2,7 +2,7 @@
 category: Economy
 description: Buyout firm raised $2.1bn more from external investors than had been
   targeted
-displayOrder: 13
+displayOrder: 22
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-17T04:00:12Z'

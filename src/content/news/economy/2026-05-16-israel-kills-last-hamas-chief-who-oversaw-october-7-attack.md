@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Death of Izz al-Din al-Haddad in an air strike piles greater pressure
   on fragile ceasefire
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-16T11:54:01Z'
