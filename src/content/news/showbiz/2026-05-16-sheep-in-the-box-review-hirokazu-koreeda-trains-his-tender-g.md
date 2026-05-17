@@ -5,7 +5,7 @@ countryCode: JP
 description: A couple scarred by the tragic loss of their young son sign up for a
   robotics program that recreates the deceased as lifelike humanoids in the 2018 Palme
   d'Or winner's latest.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-16T16:24:37Z'

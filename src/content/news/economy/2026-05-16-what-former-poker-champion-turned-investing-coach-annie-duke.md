@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The author of ‘Quit’ talks about market bubbles, costly investing mistakes
   and why investors freeze at the worst time.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-16T14:59:00Z'

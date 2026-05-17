@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Eight people were injured after a car ploughed into &#8203;pedestrians
   in the centre of the northern &#8204;Italian city of Modena, police said.
-displayOrder: 27
+displayOrder: 31
 heroImage: ''
 importance: 44.0
 pubDate: '2026-05-16T18:42:00Z'

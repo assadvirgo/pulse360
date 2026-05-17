@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Mexico’s teachers are threatening to disrupt next month’s 2026 FIFA World
   Cup if their demands for higher pay.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-16T13:01:16Z'

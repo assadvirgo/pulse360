@@ -5,7 +5,7 @@ countryCode: FR
 description: Tiny elevators, celebrity name-tagged loungers and a general manager
   who jokes about fake stars slipping past security — the Hôtel Martinez was born
   for this.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-16T16:00:00Z'

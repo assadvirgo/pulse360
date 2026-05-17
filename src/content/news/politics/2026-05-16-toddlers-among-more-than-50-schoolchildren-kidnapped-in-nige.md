@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: No group has yet claimed responsibility for the attacks, which have devastated
   Mussa town in Borno state.
-displayOrder: 24
+displayOrder: 30
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-16T15:50:09Z'

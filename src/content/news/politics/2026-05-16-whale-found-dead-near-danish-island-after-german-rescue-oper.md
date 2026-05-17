@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: Wildlife experts had previous criticised the operation, saying it would
   only cause the animal more distress.
-displayOrder: 17
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-16T17:01:28Z'

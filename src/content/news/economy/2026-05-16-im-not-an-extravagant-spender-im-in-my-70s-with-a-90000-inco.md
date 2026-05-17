@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “My current house is all paid off, and it’s worth $650,000.”
-displayOrder: 46
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-16T16:00:00Z'

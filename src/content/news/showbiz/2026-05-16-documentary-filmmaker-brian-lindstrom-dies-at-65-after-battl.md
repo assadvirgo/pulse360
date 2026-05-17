@@ -5,7 +5,7 @@ countryCode: US
 description: The director who focused on those who "society puts an X through," was
   diagnosed with progressive supranuclear palsy, his wife, 'Wild' author Cheryl Strayed,
   revealed.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-16T20:12:29Z'
