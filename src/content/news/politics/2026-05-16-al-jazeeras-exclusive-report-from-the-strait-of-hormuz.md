@@ -2,7 +2,7 @@
 category: Politics
 description: Heavy ship traffic and rising regional tensions over one of the world’s
   most critical energy routes.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-16T16:59:26Z'

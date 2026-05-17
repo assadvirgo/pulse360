@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: New Zealand beat England by 17-runs via the Duckworth-Lewis-Stern method
   in a rain-affected third One-Day International to draw the series.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-16T18:57:34Z'

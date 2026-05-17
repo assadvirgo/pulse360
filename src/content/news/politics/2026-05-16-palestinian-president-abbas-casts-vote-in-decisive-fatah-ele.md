@@ -2,7 +2,7 @@
 category: Politics
 description: Internal Fatah leadership elections take place amid questions of who
   will eventually succeed the 90-year-old leader.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-16T18:03:38Z'

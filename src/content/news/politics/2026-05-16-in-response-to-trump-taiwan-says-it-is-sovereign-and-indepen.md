@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Taiwan says it will maintain &#039;status quo&#039; and deepen ties with
   the US after Trump meets with China&#039;s Xi Jinping.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-16T19:44:47Z'

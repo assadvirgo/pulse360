@@ -4,7 +4,7 @@ country: Maldives
 countryCode: MV
 description: Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue
   operation, the Maldives government tells the BBC.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-16T15:01:40Z'

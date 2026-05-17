@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: BBC Verify has examined dozens of videos of fibre-optic drone attacks
   carried out by the Lebanese armed group.
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 53.2
 pubDate: '2026-05-16T23:10:19Z'

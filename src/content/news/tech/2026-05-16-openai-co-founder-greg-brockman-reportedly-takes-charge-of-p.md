@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI's latest shakeup comes as the company reportedly plans to combine
   ChatGPT and its programming product Codex.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-16T15:33:33Z'
