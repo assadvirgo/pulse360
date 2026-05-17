@@ -5,7 +5,7 @@ countryCode: US
 description: 'The veteran filmmaker’s new doc argues that no single artist documented
   American life more completely than Richard Avedon: “He was on a mission to understand
   the world through his…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-17T15:00:00Z'

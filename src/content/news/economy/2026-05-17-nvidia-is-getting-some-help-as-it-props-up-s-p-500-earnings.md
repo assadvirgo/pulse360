@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Micron is expected to be the second-largest contributor to the index’s
   overall earnings growth — behind Nvidia, whose impact will likely diminish.
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-17T14:00:00Z'

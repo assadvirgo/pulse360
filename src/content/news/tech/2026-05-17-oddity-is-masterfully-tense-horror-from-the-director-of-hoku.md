@@ -3,7 +3,7 @@ category: Tech
 description: Hokum recently hit theaters, and it's already outperforming box office
   expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott
   was your introduction to…
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-17T14:00:00Z'

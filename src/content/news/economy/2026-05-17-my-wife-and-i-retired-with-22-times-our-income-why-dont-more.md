@@ -2,7 +2,7 @@
 category: Economy
 description: “The vast majority of people I’ve known are intimidated by money’s power,
   imbue it with almost magical qualities.”
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-17T12:01:00Z'

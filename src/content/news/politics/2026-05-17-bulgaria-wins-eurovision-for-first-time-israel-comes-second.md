@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Spain, Netherlands, Ireland, Iceland and Slovenia stage biggest political
   boycott in Eurovision history over Gaza war.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-17T08:42:47Z'

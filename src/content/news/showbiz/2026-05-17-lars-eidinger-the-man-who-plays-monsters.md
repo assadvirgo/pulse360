@@ -5,7 +5,7 @@ countryCode: DE
 description: The German actor on why he keeps saying yes to Nazis, what Klaus Barbie
   taught him about empathy and how he ended up as the villain in James Gunn’s 'Superman'
   sequel.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-17T14:05:00Z'

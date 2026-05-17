@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In an age of disruption, defence is undergoing seismic and lucrative
   change
-displayOrder: 36
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-17T12:00:05Z'

@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: Kami Rita Sherpa sets new record with 32nd summit as Lhakpa Sherpa breaks
   her own women&#039;s record with 11th summit.
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-17T10:05:37Z'

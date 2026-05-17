@@ -5,7 +5,7 @@ countryCode: FR
 description: Adrien Nussenbaum, the French tech entrepreneur who co-founded e-commerce
   powerhouse Mirakl, is stepping into the movie business with the launch of Palatio
   Films, a new production…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-17T16:11:58Z'

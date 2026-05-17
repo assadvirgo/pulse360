@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Opposition leaders hope to end Israel&#039;s isolation, even as they
   retain policies towards Palestinians that led to it.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-17T07:20:07Z'

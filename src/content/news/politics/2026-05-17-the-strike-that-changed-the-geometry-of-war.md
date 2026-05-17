@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s attacks on Doha and Tehran demonstrate a new capability
   that may make warfare more unpredictable.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-17T10:13:52Z'

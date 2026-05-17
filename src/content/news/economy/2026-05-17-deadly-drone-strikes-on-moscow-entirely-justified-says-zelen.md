@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian president claims responsibility for attacks in retaliation
   for Russia’s bombardment of Kyiv
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-17T10:49:02Z'

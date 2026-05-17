@@ -2,7 +2,7 @@
 category: Politics
 description: From Instagram to Paris catwalks, modest fashion is booming as the global
   Muslim market heads toward $433bn by 2028.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-17T08:02:03Z'
