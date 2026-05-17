@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The agency added that the outbreak, with around 246 cases and 80 deaths,
   does not meet the criteria of pandemic emergency.
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 85.2
 pubDate: '2026-05-17T07:08:26Z'

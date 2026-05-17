@@ -3,7 +3,7 @@ category: Sports
 description: Former UFC champ Francis Ngannou made quick work of Philipe Lins on Saturday
   night, knocking him out in the first round before proclaiming himself the "best"
   heavyweight in the…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-17T07:40:01Z'

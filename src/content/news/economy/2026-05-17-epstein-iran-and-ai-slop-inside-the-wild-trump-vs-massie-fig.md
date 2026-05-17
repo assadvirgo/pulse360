@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Primary race is test of president’s hold over Republicans — and the reach
   of his billionaire allies
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-17T10:00:04Z'

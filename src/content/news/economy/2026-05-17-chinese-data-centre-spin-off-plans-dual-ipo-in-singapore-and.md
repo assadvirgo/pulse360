@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: DayOne aims to raise $5bn using new rules intended to boost Asian listings
   in city-state
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-17T04:00:03Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: Javier Bardem thinks the tide is turning in terms of speaking up for
   Palestine in Hollywood, telling a Cannes Film Festival press conference on Sunday
   that &#8220;everyone is…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-17T10:04:57Z'

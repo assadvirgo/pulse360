@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Brussels’ proposed quota reduction could cost Kyiv up to €1bn in lost
   export revenue
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-17T04:00:12Z'

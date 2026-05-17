@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Right-wing challenger Flavio Bolsonaro faces new scrutiny over a film
   funding scandal, which could affect the race.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-16T21:05:10Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Veteran striker Azmoun was not named in the 30-man squad, which will
   be trimmed to 26 by June 1.
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-17T08:40:52Z'

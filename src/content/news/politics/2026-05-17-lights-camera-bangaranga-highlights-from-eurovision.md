@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Bulgarian singer Dara stormed to victory in the contest, while Ukraine
   broke the record for the longest note ever sung at Eurovision.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-17T02:00:44Z'

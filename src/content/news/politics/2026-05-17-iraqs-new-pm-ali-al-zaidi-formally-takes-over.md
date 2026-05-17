@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Iraq’s new prime minister Ali al‑Zaidi has formally taken office in Baghdad,
   pledging reforms.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-17T00:14:03Z'

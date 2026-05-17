@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump has shared AI images on social media of himself dressed
   as the Pope and as a Christ-like figure healing a sick man. Now Trump&#8217;s White
   House has extended his…
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-17T11:18:40Z'

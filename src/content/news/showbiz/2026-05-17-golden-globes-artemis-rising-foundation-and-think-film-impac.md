@@ -5,7 +5,7 @@ countryCode: FR
 description: The Artemis Rising Foundation and Think-Film Impact Production are back
   in Cannes with the Golden Globes to present the Golden Globes Prize for Documentary.
   The juried prize…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 74.8
 pubDate: '2026-05-17T05:35:00Z'

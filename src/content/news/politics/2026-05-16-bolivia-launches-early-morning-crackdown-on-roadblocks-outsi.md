@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: The government of Rodrigo Paz has sent about 3,500 soldiers and police
   to clear protesters demanding his resignation.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-16T23:24:54Z'

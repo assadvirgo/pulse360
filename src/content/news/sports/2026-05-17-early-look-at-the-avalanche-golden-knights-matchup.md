@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Who will represent the West in the Stanley Cup Final? Get set with key
   stats, schedule and more.
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-17T12:12:44Z'

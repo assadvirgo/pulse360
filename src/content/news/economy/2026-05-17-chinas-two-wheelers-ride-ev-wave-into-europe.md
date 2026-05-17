@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Yadea plans factory in Hungary amid rising demand for electric scooters
   in Asia and South America
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-05-17T04:00:03Z'

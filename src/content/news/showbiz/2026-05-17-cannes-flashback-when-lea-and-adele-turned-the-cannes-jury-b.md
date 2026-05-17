@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The French actresses co-starred in 2013's 'Blue Is the Warmest Color,'
   and just might reunite at this year's Cannes Film Festival.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-17T10:45:00Z'
