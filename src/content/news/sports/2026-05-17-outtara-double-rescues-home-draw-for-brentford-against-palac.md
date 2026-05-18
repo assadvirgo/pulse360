@@ -5,7 +5,7 @@ countryCode: GB
 description: Dango Outtara scores twice to earn Brentford a 2-2 draw at home to Crystal
   Palace in the Premier League, as Keith Andrews' side stay in the hunt for European
   football.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-17T19:04:28Z'

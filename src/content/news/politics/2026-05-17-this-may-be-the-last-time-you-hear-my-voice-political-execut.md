@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Since the US and Israel attacked Iran on 28 February, the UN says it’s
   verified the execution of at least 32 political prisoners.
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-17T23:02:56Z'

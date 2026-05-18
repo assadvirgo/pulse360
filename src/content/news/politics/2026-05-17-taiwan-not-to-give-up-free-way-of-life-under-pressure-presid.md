@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Lai says Taiwan will not provoke conflict with China, but will not forsake
   its dignity or democratic values.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-17T15:37:59Z'

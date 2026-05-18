@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Attack at Barakah plant caused no injuries, and authorities say radiation
   levels remain normal
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-17T16:06:12Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Congo (DRC)
 countryCode: CD
 description: The World Health Organization declares the epidemic a global health emergency.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-17T19:52:09Z'

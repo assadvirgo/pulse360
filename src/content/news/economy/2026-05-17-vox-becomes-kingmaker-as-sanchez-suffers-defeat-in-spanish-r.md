@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Rightwing populists emerge as prospective coalition partner for conservative
   People’s party in Andalusia
-displayOrder: 37
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-17T23:02:55Z'

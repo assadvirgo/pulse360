@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: The country is investigating the source of the strike, which it says
   came from its western border.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 72.2
 pubDate: '2026-05-17T15:52:46Z'

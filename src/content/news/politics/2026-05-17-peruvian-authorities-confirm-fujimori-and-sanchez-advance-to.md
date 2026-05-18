@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Candidates will face off on June 7 election after first round of voting
   marred by logistical errors, fraud allegations.
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-17T18:29:29Z'

@@ -5,7 +5,7 @@ countryCode: IT
 description: Italian Prime Minister Giorgia Meloni and President Sergio Mattarella
   travelled to the northern city of Modena on &#8203;Sunday, a day after eight people
   were injured in a…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-17T14:15:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: New generation of uncrewed vessels could help restore traffic in vital
   shipping route
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-18T04:00:04Z'

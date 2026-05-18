@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Gunmen killed at least 10 people in Mexico's east-central Puebla state,
   authorities have said.
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-17T21:36:00Z'

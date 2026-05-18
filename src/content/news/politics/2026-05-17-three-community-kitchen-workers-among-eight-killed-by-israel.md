@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli attacks on Gaza have killed at least 871 Palestinians since the
   so-called ceasefire started last year.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-17T16:31:20Z'

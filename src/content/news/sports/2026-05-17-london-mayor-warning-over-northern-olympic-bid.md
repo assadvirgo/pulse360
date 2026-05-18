@@ -5,7 +5,7 @@ countryCode: GB
 description: The government has commissioned UK Sport to conduct an "initial strategic
   assessment" into a potential bid for the north of England to host the Olympics and
   Paralympics in the…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-17T18:29:03Z'

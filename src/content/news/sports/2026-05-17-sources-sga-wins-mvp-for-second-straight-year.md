@@ -5,7 +5,7 @@ countryCode: US
 description: Thunder star Shai Gilgeous-Alexander has won his second consecutive NBA
   Most Valuable Player award, becoming the 14th player in league history to win back-to-back
   MVPs, sources…
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-17T16:54:41Z'
