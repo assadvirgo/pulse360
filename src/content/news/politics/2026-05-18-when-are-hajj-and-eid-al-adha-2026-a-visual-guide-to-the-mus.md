@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Nearly 2 million Muslims will embark on the annual Hajj pilgrimage to
   Mecca, which begins on May 25.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-18T05:12:17Z'

@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: It has to choose stability or permanent war.
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-18T12:49:59Z'

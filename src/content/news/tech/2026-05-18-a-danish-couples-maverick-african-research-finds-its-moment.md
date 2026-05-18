@@ -5,7 +5,7 @@ countryCode: DK
 description: The work of Peter Aaby and Christine Stabell Benn has long been controversial.
   Until Robert F. Kennedy Jr. became US health policy chief, most vaccine scientists
   tended to ignore…
-displayOrder: 4
+displayOrder: 22
 heroImage: ''
 importance: 68.2
 pubDate: '2026-05-18T09:00:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Asset managers and hedge funds say they remain committed to the region
   despite the current disruption
-displayOrder: 28
+displayOrder: 47
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-18T04:00:04Z'

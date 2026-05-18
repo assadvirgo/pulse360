@@ -3,7 +3,7 @@ category: Politics
 country: Iran
 countryCode: IR
 description: Al Jazeera has been given exclusive access to Iran’s Hormuz Island.
-displayOrder: 19
+displayOrder: 39
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-18T08:28:05Z'

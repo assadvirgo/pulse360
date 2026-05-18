@@ -5,7 +5,7 @@ countryCode: US
 description: Former Google CEO Eric Schmidt delivered the commencement address at
   the University of Arizona on Friday. And, as his speech veered into talk of AI,
   he was repeatedly drowned out…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-17T17:22:23Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: Oscar shortlisted short film Extremist is getting the feature
   treatment, with the project boarded by arthouse stalwart Alexander Rodnyansky (Leviathan)
   and his…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-18T13:00:54Z'

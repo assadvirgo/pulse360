@@ -5,7 +5,7 @@ countryCode: FR
 description: Paris-based Films du Losange has boarded international sales on &#8220;El
   Dorado,&#8221; a psychological thriller from rising French filmmaker Lola Quivoron,
   starring Matthias…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-18T10:26:33Z'

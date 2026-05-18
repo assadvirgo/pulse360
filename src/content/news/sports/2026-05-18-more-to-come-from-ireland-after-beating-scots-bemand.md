@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: The 2026 Women's Six Nations has felt like another significant step forward
   for a young but talented Ireland side.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-18T07:07:03Z'

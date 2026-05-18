@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The first Italian to win the title in 50 years enters the French Open
   as favourite with Alcaraz out injured.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-18T06:27:40Z'

@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: China assumes that the island would be helpless without American support
   — that is a dangerous mistake
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-18T11:23:59Z'

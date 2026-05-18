@@ -5,7 +5,7 @@ countryCode: NP
 description: During Nepal&#8217;s pandemic lockdowns, Abinash Bikram Shah found himself
   deep in a TikTok rabbit hole, watching videos posted by Kinnars &#8211; members
   of Nepal&#8217;s ancient…
-displayOrder: 3
+displayOrder: 24
 heroImage: ''
 importance: 78.8
 pubDate: '2026-05-18T06:29:00Z'

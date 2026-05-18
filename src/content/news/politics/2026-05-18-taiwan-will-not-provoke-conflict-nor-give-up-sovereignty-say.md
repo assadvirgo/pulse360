@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Lai Ching-te made his first direct response to Trump and Xi's meeting
   where they discussed Taiwan independence.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-18T03:08:13Z'

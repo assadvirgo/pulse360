@@ -5,7 +5,7 @@ countryCode: US
 description: Selena Gomez is preparing to bid farewell to her former bachelorette
   pad, listing the sprawling Encino home for $6.49 million, just 6 months after she
   married Benny Blanco.
-displayOrder: 25
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-18T09:04:00Z'

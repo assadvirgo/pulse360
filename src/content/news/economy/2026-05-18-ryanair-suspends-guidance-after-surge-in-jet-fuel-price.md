@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Airline confirms new contract negotiations with chief Michael O’Leary
   after annual profits rise by a third
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-18T06:58:57Z'
