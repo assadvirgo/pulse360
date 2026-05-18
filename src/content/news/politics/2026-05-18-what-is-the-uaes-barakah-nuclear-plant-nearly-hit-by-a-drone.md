@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: The nuclear facility in Abu Dhabi has the capacity to meet one-quarter
   of the UAE&#039;s electricity needs.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-18T14:09:47Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Lululemon responded publicly to founder Chip Wilson's campaign in a letter
   to shareholders, where it urged them to vote in its favor at its annual meeting.
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-18T11:20:15Z'

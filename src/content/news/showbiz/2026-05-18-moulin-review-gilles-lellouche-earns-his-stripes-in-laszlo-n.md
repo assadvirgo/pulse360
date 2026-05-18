@@ -5,7 +5,7 @@ countryCode: FR
 description: After two period movies dealing very specifically with the history of
   Hungary, László Nemes returns to the subject matter than brought him an Oscar for
   his debut feature Son of…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-18T15:43:05Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Congo (DRC)
 countryCode: CD
 description: DRC health minister visits hotspot for Ebola outbreak
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-18T12:22:25Z'

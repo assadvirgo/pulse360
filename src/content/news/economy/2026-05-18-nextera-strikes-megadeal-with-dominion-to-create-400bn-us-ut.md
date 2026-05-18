@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tie-up would create power behemoth at a time of booming demand for electricity
   for AI data centres
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-18T12:59:02Z'

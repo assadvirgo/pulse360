@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The Colombian singer says the court ruling means the "narrative" that
   she was guilty now "crumbles".
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-18T15:08:40Z'

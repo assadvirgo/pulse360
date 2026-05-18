@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England's Aaron Rai wins the first major title of his career with a magnificent
   final-round 65 in the US PGA Championship at Aronimink.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-17T22:55:17Z'

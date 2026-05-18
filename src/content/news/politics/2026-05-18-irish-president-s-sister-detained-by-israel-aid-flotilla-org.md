@@ -5,7 +5,7 @@ countryCode: IE
 description: The sister of Irish President Catherine&#160;Connolly is said to be among
   at least six Irish citizens on an aid flotilla to Gaza to have been detained by
   Israel off the coast of…
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-18T14:49:00Z'

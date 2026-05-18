@@ -2,7 +2,7 @@
 category: Economy
 description: “It was soul-crushing,” says one job hunter, who only found work once
   she stopped making this popular application mistake.
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-18T15:24:00Z'

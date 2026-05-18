@@ -5,7 +5,7 @@ countryCode: US
 description: Woot is having a day-long sale on a range of tech, including a mix of
   new and open-box Philips Hue smart lighting. The retailer’s already-discounted prices
   are even cheaper today…
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-18T15:03:03Z'

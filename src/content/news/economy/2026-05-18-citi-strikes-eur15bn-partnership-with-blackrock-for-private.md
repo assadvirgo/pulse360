@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Deal aims to give bank added firepower to finance private equity dealmaking
   in Europe and Middle East
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-18T15:57:29Z'

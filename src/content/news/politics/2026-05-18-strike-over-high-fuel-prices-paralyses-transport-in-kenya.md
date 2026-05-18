@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Key roads have remained largely empty and some schools have asked students
   to stay at home.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-05-18T10:54:46Z'

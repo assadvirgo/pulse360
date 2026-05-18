@@ -3,7 +3,7 @@ category: Economy
 country: France
 countryCode: FR
 description: Ford just inked a deal with a French electric-utility company.
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-18T16:13:00Z'

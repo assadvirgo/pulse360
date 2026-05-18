@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Attacks come days after Lebanese and Israeli officials agreed to extend
   a ceasefire by 45 days.
-displayOrder: 18
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-18T15:02:06Z'
