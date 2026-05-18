@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bill Cassidy is among seven Republican senators who voted to convict
   Trump after the January 6, 2021, Capitol attack.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-17T10:29:16Z'

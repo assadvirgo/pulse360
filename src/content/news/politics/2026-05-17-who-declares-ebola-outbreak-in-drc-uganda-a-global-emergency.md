@@ -3,7 +3,7 @@ category: Politics
 country: Congo (DRC)
 countryCode: CD
 description: DRC outbreak causes more than 80 deaths and spreads to neighbouring Uganda.
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-17T11:21:43Z'

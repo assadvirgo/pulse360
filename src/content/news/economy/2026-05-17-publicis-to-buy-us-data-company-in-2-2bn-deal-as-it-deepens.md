@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French advertising group to purchase LiveRamp and enhance its focus on
   disruptive technology
-displayOrder: 31
+displayOrder: 37
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-17T19:36:31Z'

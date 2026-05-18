@@ -2,7 +2,7 @@
 category: Politics
 description: Businessman Yasser Abbas, 64, secured a place on the central committee
   despite spending most of his time in Canada.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-17T14:03:43Z'

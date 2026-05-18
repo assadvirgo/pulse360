@@ -4,7 +4,7 @@ country: Congo (Republic)
 countryCode: CG
 description: A rare strain of Ebola virus likely caused 80 deaths in Congo and Uganda,
   prompting the World Health Organization to declare a public health emergency.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-17T19:23:00Z'

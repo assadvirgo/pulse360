@@ -5,7 +5,7 @@ countryCode: JP
 description: Fujifilm’s X Half digital camera wasn’t designed to replace your main
   camera, though you’d be forgiven for assuming it was with its ludicrous $850 price.
   However, the company…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-17T13:00:00Z'

@@ -5,7 +5,7 @@ countryCode: TH
 description: A train driver has been charged with &#8204;negligence after a freight
   &#8204;train collided with a bus at a rail crossing in Bangkok, &#8203;killing eight
   people and injuring 32.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-17T14:08:00Z'

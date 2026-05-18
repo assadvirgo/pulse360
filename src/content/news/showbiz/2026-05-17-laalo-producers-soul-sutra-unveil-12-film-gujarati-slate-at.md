@@ -5,7 +5,7 @@ countryCode: IN
 description: Indian production company Soul Sutra is presenting a 12-film Gujarati-language
   development and production slate at the Cannes Film Market this week. The banner
   is led by Indian…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-17T16:28:17Z'

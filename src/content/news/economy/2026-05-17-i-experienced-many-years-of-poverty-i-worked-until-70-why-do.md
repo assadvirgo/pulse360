@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “The majority of people are struggling to make ends meet.”
-displayOrder: 36
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-17T18:59:00Z'

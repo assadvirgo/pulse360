@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The onetime stuntwoman got more mileage out of the 1953 sci-fi movie
   than "Vivien Leigh did on 'Gone With the Wind,'" she once said.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-17T20:03:12Z'

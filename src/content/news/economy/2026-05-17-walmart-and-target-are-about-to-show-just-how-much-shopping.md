@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Walmart has said that customers start to cut spending when gas prices
   hit $4.50 to $5 a gallon.
-displayOrder: 40
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-17T15:00:00Z'

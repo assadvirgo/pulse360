@@ -4,7 +4,7 @@ country: Panama
 countryCode: PA
 description: Panama are World Cup-bound for a second time in eight years, but in 2026,
   they&#039;re not there to just make up the numbers.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-17T15:10:51Z'

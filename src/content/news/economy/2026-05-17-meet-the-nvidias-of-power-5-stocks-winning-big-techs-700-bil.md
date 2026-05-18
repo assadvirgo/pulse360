@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Infrastructure giants such as GE Vernova and Bloom Energy are the new
   gatekeepers of the AI grid.
-displayOrder: 38
+displayOrder: 42
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-17T19:10:00Z'
