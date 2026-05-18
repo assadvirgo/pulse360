@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: It is a stunted financial power, leaving the US free to rule global markets
-displayOrder: 28
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-18T04:00:13Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Home loans have become more expensive in North America and Europe despite
   central banks keeping rates on hold
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-18T04:00:04Z'

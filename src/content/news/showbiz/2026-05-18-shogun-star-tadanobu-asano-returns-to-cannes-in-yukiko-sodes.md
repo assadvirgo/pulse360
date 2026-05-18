@@ -5,7 +5,7 @@ countryCode: JP
 description: Adapted from Mieko Kawakami's acclaimed novel, this accomplished Un Certain
   Regard entry co-stars Yukino Kishii as a solitary Tokyo copy editor whose tentative
   love affair unfolds…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-18T07:15:00Z'

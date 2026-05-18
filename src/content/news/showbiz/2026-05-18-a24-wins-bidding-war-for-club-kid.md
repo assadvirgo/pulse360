@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A24 has picked up global rights to Jordan Firstman’s Un Certain Regard
   breakout.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-18T07:36:34Z'

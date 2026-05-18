@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Netanyahu says Israel controls 60 percent of Gaza
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-18T08:35:14Z'

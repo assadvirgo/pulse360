@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Once one of the Eurozone’s strongest jobs markets, the number of unemployed
   has topped 3mn for the first time in 15 years
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-18T04:00:04Z'

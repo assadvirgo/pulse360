@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Investors have watched the UK’s political flip-flopping and budgetary
   shortfalls with alarm
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-18T04:00:13Z'

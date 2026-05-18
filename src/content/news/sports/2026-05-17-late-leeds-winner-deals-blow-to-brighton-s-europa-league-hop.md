@@ -5,7 +5,7 @@ countryCode: GB
 description: Dominic Calvert-Lewin's 96th-minute goal gives Leeds United a 1-0 win
   over Brighton & Hove Albion at Elland Road, as Fabian Hurzeler's side stay in 7th
   heading into the final week…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-17T19:06:59Z'

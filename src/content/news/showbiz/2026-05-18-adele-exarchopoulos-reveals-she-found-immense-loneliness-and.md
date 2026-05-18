@@ -5,7 +5,7 @@ countryCode: FR
 description: Adèle Exarchopoulos caused a sensation at the 2013 Cannes Film Festival,
   when she and Léa Seydoux shared the Palme d’Or with director Abdellatif Kechiche
   for their performances in…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-18T07:35:24Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: At least five people have been killed in Israeli air attacks on several
   locations in southern and eastern Lebanon.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-17T20:16:14Z'

@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Privacy will be a major theme when Apple unveils a new version of Siri.
-displayOrder: 45
+displayOrder: 49
 heroImage: ''
 importance: 46.0
 pubDate: '2026-05-17T20:15:00Z'

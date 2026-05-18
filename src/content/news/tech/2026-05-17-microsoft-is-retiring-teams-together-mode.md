@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft launched Teams' Together Mode during the pandemic to give the
   illusion of a bunch of people sitting in a conference room together, even if they
   were really sitting at…
-displayOrder: 26
+displayOrder: 46
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-17T21:15:28Z'

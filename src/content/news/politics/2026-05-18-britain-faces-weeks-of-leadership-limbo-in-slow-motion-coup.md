@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Keir Starmer battles to retain his authority, critics say he&#039;s a
   &#039;lame-duck&#039; leader.
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-18T06:53:40Z'
