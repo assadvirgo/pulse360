@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: An outbreak in DR Congo has been declared a health emergency, with almost
   250 suspected cases reported.
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-17T18:06:31Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French magistrates investigate possible offences involving French perpetrators
   who facilitated Jeffrey Epstein&#039;s crimes.
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-17T17:44:07Z'

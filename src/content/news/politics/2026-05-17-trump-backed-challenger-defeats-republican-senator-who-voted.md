@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump threw his full support behind Julia Letlow in Louisiana's high-stakes
   contest, branding the incumbent "disloyal".
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 71.2
 pubDate: '2026-05-17T16:25:28Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Anita Anand discusses Donald Trump, NATO, Israel, China and Canada’s
   international role.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-17T16:30:00Z'

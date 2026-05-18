@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Officials blamed the shooting on &#039;armed individuals&#039;, though
   no details were provided about attackers or their motives.
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-17T19:22:28Z'

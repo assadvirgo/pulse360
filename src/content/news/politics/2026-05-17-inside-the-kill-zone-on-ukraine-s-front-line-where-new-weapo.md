@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Machines are increasingly replacing humans on the front line, but troops
   are still vital for defending territory.
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-17T23:02:15Z'

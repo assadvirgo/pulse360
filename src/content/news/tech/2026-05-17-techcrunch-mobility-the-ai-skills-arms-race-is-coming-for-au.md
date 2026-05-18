@@ -2,7 +2,7 @@
 category: Tech
 description: Welcome back to TechCrunch Mobility — your central hub for news and insights
   on the future of transportation.
-displayOrder: 21
+displayOrder: 34
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-17T16:05:00Z'

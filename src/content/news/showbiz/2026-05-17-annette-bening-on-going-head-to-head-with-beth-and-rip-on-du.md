@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Dutton Ranch&#8221; is a high-profile &#8220;Yellowstone&#8221;
   spinoff, but Annette Bening, a new addition to Taylor Sheridan&#8217;s universe,
   has been stealing every…'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-05-17T19:30:57Z'

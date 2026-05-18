@@ -2,7 +2,7 @@
 category: Politics
 description: Israel&#039;s killing of Hamas&#039;s top commander Izz al-Din al-Haddad
   tests the Gaza ceasefire as the group pledges to adapt.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-17T13:41:32Z'

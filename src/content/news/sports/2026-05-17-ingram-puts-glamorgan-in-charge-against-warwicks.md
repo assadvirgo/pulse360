@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ethan Bamber's one-man mission keeps Warwickshire afloat but Glamorgan
   remain on top on day three of their County Championship game at Edgbaston.
-displayOrder: 15
+displayOrder: 22
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-17T18:19:07Z'
