@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester City manager Pep Guardiola is understood to be stepping down
   at end of season after 17 years at EPL club.
-displayOrder: 17
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-18T21:37:13Z'

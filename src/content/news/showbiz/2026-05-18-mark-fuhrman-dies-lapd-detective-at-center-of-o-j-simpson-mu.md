@@ -5,7 +5,7 @@ countryCode: US
 description: Mark Fuhrman, the former LAPD detective who discovered the bloody glove
   that became as pivotal to the O.J. Simpson murder trial as the epithet-spewing cop
   himself would be, died…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-18T21:41:46Z'

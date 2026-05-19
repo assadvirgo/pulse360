@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: '&#039;We are considering this a hate crime until it&#039;s not,&#039;
   San Diego police chief says, adding that both shooters are dead.'
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-18T19:42:17Z'

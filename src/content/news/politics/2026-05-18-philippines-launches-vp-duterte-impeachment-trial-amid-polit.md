@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Senate court established despite following House leadership changes and
   a shootout.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-18T16:29:19Z'

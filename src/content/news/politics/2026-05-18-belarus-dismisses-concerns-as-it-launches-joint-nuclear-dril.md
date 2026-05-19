@@ -4,7 +4,7 @@ country: Belarus
 countryCode: BY
 description: Strong reactions from Ukraine and NATO allies as Belarusian and Russian
   forces train to use nuclear weapons.
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 77.5
 pubDate: '2026-05-18T18:10:29Z'

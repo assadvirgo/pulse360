@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jurors spent weeks hearing about Musk's claim that Altman had "stolen
   a charity."
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-18T22:08:37Z'

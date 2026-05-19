@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Application-software stocks are getting more love from Wall Street.
-displayOrder: 40
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-18T22:17:00Z'

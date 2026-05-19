@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Brazil&#039;s all-time leading scorer Neymar called up for World Cup
   2026 as Carlo Ancelotti turns to forward for first time.
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-18T22:30:54Z'

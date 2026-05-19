@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Arsenal are one win away from their first Premier League title since
   2004 following a 1-0 win against Burnley.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-18T21:11:10Z'

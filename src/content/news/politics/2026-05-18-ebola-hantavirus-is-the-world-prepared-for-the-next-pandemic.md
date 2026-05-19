@@ -2,7 +2,7 @@
 category: Politics
 description: Funding cuts in health research, and the antivaccine movement make it
   challenging to respond to viruses.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-18T13:11:52Z'

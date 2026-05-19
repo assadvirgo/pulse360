@@ -3,7 +3,7 @@ category: Showbiz
 description: '"Full Phil," brash and throttling as it is, is an overly italicized
   screw-loose satire that some will want to see, because in its halfway funny, halfway
   off-putting extreme way it…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-18T23:19:11Z'

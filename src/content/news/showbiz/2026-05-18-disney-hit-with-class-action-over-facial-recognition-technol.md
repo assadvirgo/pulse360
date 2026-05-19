@@ -5,7 +5,7 @@ countryCode: US
 description: Most visitors are unaware of the tools and opt into having their faces
   scanned. Mass adoption of the tools at sports and entertainment venues have sparked
   concerns of a privatized…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-05-18T19:24:06Z'

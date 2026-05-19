@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bill Winters’ new strategy aims to ‘drive sustainable growth’ at Asia-focused
   lender
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-19T00:07:17Z'

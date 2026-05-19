@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The government is also banning entry for people without U.S. passports
   who were recently in Congo, Uganda or South Sudan.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-18T19:40:00Z'

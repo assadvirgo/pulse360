@@ -4,7 +4,7 @@ country: Croatia
 countryCode: HR
 description: President Zoran Milanovic says Israel broke an &#039;unwritten rule&#039;
   by announcing its ambassador before approval.
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-18T21:03:49Z'
