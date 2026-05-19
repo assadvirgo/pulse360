@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The bodies of all five Italian divers who died in the Maldives last week
   have now been found, officials tell the BBC.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-18T16:51:09Z'

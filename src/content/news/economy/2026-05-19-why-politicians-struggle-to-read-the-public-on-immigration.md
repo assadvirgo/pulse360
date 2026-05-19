@@ -2,7 +2,7 @@
 category: Economy
 description: The government overreacts to popular opinion, which prompts a pendulum
   swing the other way
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-19T04:00:29Z'

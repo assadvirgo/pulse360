@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: D1 Capital is among the Wall Street firms in line for big rewards if
   the rocket maker successfully lists next month
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-18T23:50:12Z'

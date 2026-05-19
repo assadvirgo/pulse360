@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: FT calculates territory under control in Gaza, Lebanon and Syria is about
   5% of Israel’s 1949 borders
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-19T04:00:09Z'

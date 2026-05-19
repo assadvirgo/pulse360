@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United's second goal in Sunday's Premier League win over Nottingham
   Forest should have been disallowed for handball, the referees' body has admitted.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-18T18:23:06Z'

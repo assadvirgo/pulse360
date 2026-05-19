@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Greyhound&#8221; and &#8220;Jurassic Park III&#8221; DP Shelly
   Johnson has been elected 50th President of the American Society of Cinematographers.
   The ASC board of…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 67.8
 pubDate: '2026-05-18T20:26:29Z'

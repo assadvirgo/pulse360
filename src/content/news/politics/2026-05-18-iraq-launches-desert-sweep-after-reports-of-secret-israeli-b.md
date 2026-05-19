@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Iraqi security forces have launched sweeping operations in the country’s
   western desert.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-18T21:09:26Z'

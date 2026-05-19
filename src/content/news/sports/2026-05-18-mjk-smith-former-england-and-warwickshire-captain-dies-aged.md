@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Batter led England in 25 of his 50 Tests, and also claimed an England
   cap as a fly-half in rugby union
-displayOrder: 40
+displayOrder: 50
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-18T16:39:13Z'

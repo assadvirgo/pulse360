@@ -5,7 +5,7 @@ countryCode: US
 description: 'Tom Kane, the prolific voice actor whose credits include Yoda on Star
   Wars: The Clone Wars, The Powerpuff Girls, Archer and scores of video games, died
   today, May 18, in Kansas…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-05-18T20:55:27Z'

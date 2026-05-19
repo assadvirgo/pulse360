@@ -5,7 +5,7 @@ countryCode: US
 description: Sony reportedly won't release its major single-player PlayStation games
   on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads
   up PlayStation's studios…
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 54.2
 pubDate: '2026-05-18T19:28:42Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The primaries should winnow down the nearly two dozen candidates seeking
   to challenge incumbent Governor Tina Kotek.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-18T23:23:16Z'

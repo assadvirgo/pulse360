@@ -3,7 +3,7 @@ category: Politics
 country: Bolivia
 countryCode: BO
 description: Bolivian miners clash with police demanding that President Paz resign.
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-19T04:58:41Z'
