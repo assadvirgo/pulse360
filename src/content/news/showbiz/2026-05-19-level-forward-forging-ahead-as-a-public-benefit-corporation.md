@@ -5,7 +5,7 @@ countryCode: US
 description: With the entertainment industry in flux and talk everywhere about new
   models, Level Forward has been plugging away at one as a public benefit corporation
   — a for-profit company…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-19T16:15:45Z'

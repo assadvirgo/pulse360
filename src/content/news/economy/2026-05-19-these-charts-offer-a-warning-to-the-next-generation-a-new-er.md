@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: This “pennant” chart pattern warns that Treasury yields could be headed
   much higher. But an alternative scenario is so good either.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-19T10:51:00Z'

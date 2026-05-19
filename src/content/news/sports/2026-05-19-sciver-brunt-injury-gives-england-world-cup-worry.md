@@ -5,7 +5,7 @@ countryCode: GB
 description: Nat Sciver-Brunt is a huge fitness concern for England before the home
   T20 World Cup after the captain was ruled out of the series against New Zealand
   and India with a calf injury.
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-19T11:41:56Z'

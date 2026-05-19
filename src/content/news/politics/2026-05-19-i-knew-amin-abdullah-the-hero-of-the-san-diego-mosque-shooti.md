@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It doesn&#039;t surprise me at all that he gave his life saving the lives
   of others. He was a true American Muslim.
-displayOrder: 25
+displayOrder: 33
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-19T16:39:59Z'

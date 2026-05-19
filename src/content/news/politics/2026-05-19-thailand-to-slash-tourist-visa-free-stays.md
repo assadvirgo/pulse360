@@ -3,7 +3,7 @@ category: Politics
 country: Thailand
 countryCode: TH
 description: Southeast Asia’s tourism powerhouse to introduce new tiered visa system.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-19T11:26:36Z'

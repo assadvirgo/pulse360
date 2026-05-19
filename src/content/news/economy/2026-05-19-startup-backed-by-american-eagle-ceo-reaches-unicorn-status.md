@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Radar, a hardware and software company that helps retailers better manage
   inventory and cut back on theft, is now valued at over $1 billion.
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-19T11:00:01Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A law requiring social networks to quickly remove sexual deepfakes and
   other nonconsensual imagery is now fully in force. But experts warn the policy could
   do little to help…
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-19T14:58:19Z'

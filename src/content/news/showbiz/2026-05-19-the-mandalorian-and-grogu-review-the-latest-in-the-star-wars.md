@@ -3,7 +3,7 @@ category: Showbiz
 description: Walk into any bar, on any street, in any city, on any planet and you’ll
   find a Star Wars fan who thinks they know what’s going wrong with the franchise
   and how to fix it. Their…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-19T13:00:00Z'

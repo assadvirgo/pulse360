@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Diogo Jota named as an honorary &#039;plus-one&#039; player in Portugal&#039;s
   squad for the FIFA World Cup 2026.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-19T13:14:41Z'

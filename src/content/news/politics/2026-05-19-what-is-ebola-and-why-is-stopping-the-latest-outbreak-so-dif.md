@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: An outbreak of Ebola in DR Congo involves a rare strain and is in an
   area affected by conflict.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-19T12:24:50Z'

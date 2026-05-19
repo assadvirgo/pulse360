@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some 750 firefighters are tackling the uncontrolled blazes supported
   by water-dropping helicopters.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-19T13:39:45Z'

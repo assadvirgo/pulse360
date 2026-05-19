@@ -5,7 +5,7 @@ countryCode: ES
 description: The son of the founder of fashion brand Mango, who died during a fall
   while they were hiking in mountains with other family members, has been arrested
   by Spanish police.
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-19T12:55:00Z'

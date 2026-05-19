@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The increase in Medicare Part B premiums has sparked concerns about out-of-pocket
   healthcare costs.
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-19T15:00:00Z'

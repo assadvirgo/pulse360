@@ -3,7 +3,7 @@ category: Showbiz
 description: I found "The Mandalorian and Grogu" to be fun in a slightly flat way.
   But because the movie has so little pretense, it’s basically an invitation to wallow
   in the lite "Star Wars"…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-19T13:00:27Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: AI-driven hiring slowdowns are hitting some entry-level jobs for college
   graduates as companies like Ford and AT&amp;T ramp up recruiting for skilled trade
   workers.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-19T11:35:12Z'

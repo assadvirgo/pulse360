@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Legislation introduced in 2024 was designed to finally upend the traditional
   6% real-estate commission model.”
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-19T15:00:00Z'

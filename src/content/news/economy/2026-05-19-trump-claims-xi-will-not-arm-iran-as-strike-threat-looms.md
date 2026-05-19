@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president warns Tehran has ‘two or three days’ to reach a deal and
   reopen the Strait of Hormuz
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-19T16:05:47Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Ulster prop Angus Bell says it would be a "huge honour" to be part of
   a first Ulster team to lift silverware for 20 years as the side prepare to face
   Montpellier in Friday's…
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-19T07:13:45Z'

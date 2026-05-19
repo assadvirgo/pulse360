@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Emerging research shows there are ‘super-responders’ to GLP-1 drugs,
   and others who don’t respond at all.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-19T10:57:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Smotrich is the third Israeli official targeted by the ICC, after Netanyahu
   and Gallant, for war crimes in Gaza.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-19T12:26:06Z'
