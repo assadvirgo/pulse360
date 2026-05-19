@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Technology, green transition, geopolitics and India&#039;s role in the
   Arctic region are among key topics on the agenda.
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-19T07:15:36Z'

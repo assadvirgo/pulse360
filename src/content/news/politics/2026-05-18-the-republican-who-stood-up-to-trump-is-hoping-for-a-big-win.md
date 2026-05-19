@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kentucky Congressman Thomas Massie, who has crossed Trump on federal
   spending and the Epstein files, faces Republican voters.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-18T21:39:45Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England's Luke Humphries claims his second ProTour title of the year
   with a 8-4 win over Jermaine Wattimena in the 17th round of the Players Championship.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-18T21:37:47Z'

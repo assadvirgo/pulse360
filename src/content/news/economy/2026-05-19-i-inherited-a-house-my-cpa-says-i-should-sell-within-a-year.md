@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “We plan to sell it to another family member for the appraised value.”
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-19T08:13:00Z'

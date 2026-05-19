@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A boy who survived the San Diego mosque shooting that killed three people
   has described seeing ‘bad stuff’.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-19T09:13:01Z'

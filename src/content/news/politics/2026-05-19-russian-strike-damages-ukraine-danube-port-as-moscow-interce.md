@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Port infrastructure hit in southern Ukraine as drones intercepted over
   Russian capital.
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-19T07:28:19Z'

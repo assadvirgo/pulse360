@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The World Health Organization is getting health experts and supplies
   to DR Congo to battle the Ebola outbreak.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-19T03:10:46Z'

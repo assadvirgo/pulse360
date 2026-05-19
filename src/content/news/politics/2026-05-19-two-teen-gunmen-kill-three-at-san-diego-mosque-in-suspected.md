@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Two teen gunmen kill three at San Diego mosque in suspected hate crime.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-19T00:49:39Z'

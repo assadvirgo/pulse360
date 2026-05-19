@@ -5,7 +5,7 @@ countryCode: US
 description: Hollywood star Angelina Jolie has put her legendary Los Angeles estate
   on the market for $29.9 million—nearly two years after confessing that she wanted
   to leave the U.S. for good.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-19T09:03:00Z'

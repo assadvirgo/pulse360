@@ -5,7 +5,7 @@ countryCode: FR
 description: The Pop Up Film Residency has selected eight participants who will be
   taking part in residencies across Europe this summer. The program&#8217;s latest
   cohort was announced during…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-19T09:03:48Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Police say a 25-year-old man is suspected of killing his parents and
   injuring four others in southern Spain.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-19T07:17:15Z'

@@ -5,7 +5,7 @@ countryCode: JP
 description: In most platforming games, you're fighting against the world around you.
   You're trying to beat a level, nail a seemingly impossible series of jumps, or defeat
   a powerful boss. But…
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-19T13:00:00Z'

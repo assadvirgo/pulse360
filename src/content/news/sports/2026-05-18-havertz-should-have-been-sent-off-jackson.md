@@ -5,7 +5,7 @@ countryCode: GB
 description: Burnley interim manager Mike Jackson is pleased with the way his side
   kept themselves in the game in their 1-0 defeat at Arsenal and is unhappy Kai Havertz
   was not sent off in the…
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-18T22:01:29Z'

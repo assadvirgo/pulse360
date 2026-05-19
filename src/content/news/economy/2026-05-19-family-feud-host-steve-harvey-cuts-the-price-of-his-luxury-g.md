@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Steve Harvey has cut the price of his longtime Georgia home—just four
   months after listing the enormous abode for $5.1 million.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-19T08:58:00Z'
