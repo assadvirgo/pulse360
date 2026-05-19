@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Cuban President Miguel Diaz-Canel says country is not a threat, but will
   defend itself from aggression if necessary.
-displayOrder: 9
+displayOrder: 13
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-18T18:59:43Z'

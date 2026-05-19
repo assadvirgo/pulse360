@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Lululemon says Chip Wilson has “coveted” the company since he left, and
   that his vision “appears to be frozen in time.”
-displayOrder: 32
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-18T20:10:00Z'

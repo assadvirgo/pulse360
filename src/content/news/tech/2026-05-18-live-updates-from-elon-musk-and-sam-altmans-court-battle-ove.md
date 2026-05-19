@@ -5,7 +5,7 @@ countryCode: US
 description: Sam Altman and Elon Musk are facing off in a high-stakes trial that could
   alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk
   filed a lawsuit…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-18T16:24:03Z'

@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: The Libyan coastguard threatened those on board Sea-Watch 5, but it&#039;s
   the NGO ship&#039;s captain who is under investigation.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-18T10:45:52Z'

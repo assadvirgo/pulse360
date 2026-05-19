@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Decision hands a legal victory to Sam Altman in a case that had overshadowed
   the AI lab’s plans to go public
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-18T19:24:27Z'

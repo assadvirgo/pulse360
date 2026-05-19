@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: FX has picked up to series its last outstanding pilot, Very
   Young Frankenstein, a comedy based on Mel Brooks&#8217; 1974 cult classic 20th Century
   Studios film Young…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-18T20:00:00Z'

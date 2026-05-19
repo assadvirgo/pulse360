@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Thousands of commuters are stranded, with key roads in the capital Nairobi
   largely empty due to the protests over fuel costs.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 57.2
 pubDate: '2026-05-18T16:49:45Z'

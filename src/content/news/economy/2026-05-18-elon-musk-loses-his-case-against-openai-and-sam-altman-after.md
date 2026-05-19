@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Musk intends to appeal the verdict, according to his lawyer.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-18T18:59:00Z'

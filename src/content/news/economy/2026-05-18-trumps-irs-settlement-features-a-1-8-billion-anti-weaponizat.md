@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Critics blast the potential taxpayer-funded payouts to Trump supporters
   and make an effort to stop them
-displayOrder: 20
+displayOrder: 26
 heroImage: ''
 importance: 52.5
 pubDate: '2026-05-18T19:44:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Live broadcasts from the Global Sumud flotilla show commandos boarding
   several boats trying to breach the Gaza maritime blockade.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-18T12:27:40Z'

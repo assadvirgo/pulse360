@@ -5,7 +5,7 @@ countryCode: US
 description: After around two hours of deliberation, the jury has reached a unanimous
   verdict in Musk v. Altman, the tech trial of the year. The group found that two
   claims were barred by the…
-displayOrder: 17
+displayOrder: 25
 heroImage: ''
 importance: 60.2
 pubDate: '2026-05-18T17:39:32Z'

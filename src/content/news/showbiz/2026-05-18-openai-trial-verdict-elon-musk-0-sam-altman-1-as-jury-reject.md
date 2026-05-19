@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI&#8217;s march towards an estimated $1 trillion IPO picked up pace
   today with a California jury today unanimously rejecting Elon Musk&#8217;s $150
   billion lawsuit over the…
-displayOrder: 4
+displayOrder: 6
 heroImage: ''
 importance: 69.0
 pubDate: '2026-05-18T18:27:00Z'

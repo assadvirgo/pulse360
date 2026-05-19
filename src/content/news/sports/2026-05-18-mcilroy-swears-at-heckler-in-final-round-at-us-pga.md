@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rory McIlroy shouts an expletive at a heckler who distracted him at a
   crucial moment in the final round of the US PGA Championship.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-18T07:50:42Z'
