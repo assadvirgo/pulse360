@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Somaliland’s first ambassador to a foreign country presented his credentials
   to Israeli President Isaac Herzog.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-18T19:26:28Z'

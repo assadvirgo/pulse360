@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Funds are fully invested and so the risk of a pullback has increased
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 52.5
 pubDate: '2026-05-19T08:38:00Z'

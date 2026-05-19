@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Kentucky congressman, who has crossed the president on federal spending
   and the Epstein files, faces Republican voters on Tuesday.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-18T21:39:45Z'

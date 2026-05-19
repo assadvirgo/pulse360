@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The attacks targeted a secondary school and two primary schools, as gunmen
   kidnapped children aged between two and 16.
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-19T07:58:45Z'

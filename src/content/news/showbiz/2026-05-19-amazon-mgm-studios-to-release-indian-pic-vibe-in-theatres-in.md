@@ -5,7 +5,7 @@ countryCode: IN
 description: 'EXCLUSIVE: Amazon MGM Studios is launching action-comedy Vibe in Indian
   cinemas on September 18. Produced by Kunal Kemmu and Chirag Nihalani through their
   Drongo Films banner,…'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-19T08:39:30Z'

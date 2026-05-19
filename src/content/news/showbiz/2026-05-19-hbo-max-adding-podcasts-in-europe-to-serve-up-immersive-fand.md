@@ -3,7 +3,7 @@ category: Showbiz
 description: Warner Bros. Discovery's streamer is taking a page from the Netflix playbook,
   as Paramount, which agreed to acquire WBD, is seen as also planning a podcasting
   push for Paramount+.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-19T08:00:00Z'

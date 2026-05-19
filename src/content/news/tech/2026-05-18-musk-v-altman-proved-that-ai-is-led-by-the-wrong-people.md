@@ -5,7 +5,7 @@ countryCode: US
 description: The tech trial of the year, Musk v. Altman, was ultimately a fight for
   control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive
   company OpenAI,…
-displayOrder: 28
+displayOrder: 48
 heroImage: ''
 importance: 70.2
 pubDate: '2026-05-18T19:00:00Z'

@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: CDC is working to move the infected American and six others to Germany.
-displayOrder: 38
+displayOrder: 50
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-18T20:41:14Z'

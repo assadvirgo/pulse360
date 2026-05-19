@@ -5,7 +5,7 @@ countryCode: US
 description: Victor Wembanyama delivers a 40-20 performance as the San Antonio Spurs
   open the NBA's Conference finals with a double-overtime win at the Oklahoma City
   Thunder.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-19T06:59:28Z'
