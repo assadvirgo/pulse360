@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amin Abdullah, the security guard killed while trying to stop gunmen
   entering the Islamic Centre of San Diego.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-19T17:22:07Z'

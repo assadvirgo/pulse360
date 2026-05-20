@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. new specialty label Clockwork is in exclusive negotiations
   for a North American deal for starry Western &#8220;The Brigands of Rattlecreek,&#8221;
   directed by Cannes…
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-19T22:48:47Z'

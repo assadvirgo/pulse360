@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The impact of an oil spill caused by an attack on Iran’s Lavan refinery
   last month has been revealed.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-19T21:04:01Z'

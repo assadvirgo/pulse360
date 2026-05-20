@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Mikel Arteta was Pep Guardiola&#039;s assistant at Man City, but has
   pipped his former tutor to the Premier League title.
-displayOrder: 31
+displayOrder: 38
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-19T20:56:44Z'

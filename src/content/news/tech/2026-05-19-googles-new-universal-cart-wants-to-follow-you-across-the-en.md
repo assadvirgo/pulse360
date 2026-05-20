@@ -5,7 +5,7 @@ countryCode: US
 description: The tech giant says it's aware that most people shop across multiple
   devices, many retailers, and over the course of many days, which is why it's launching
   Universal Cart.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 68.0
 pubDate: '2026-05-19T17:45:00Z'

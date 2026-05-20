@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Justice department deal comes day after government set up $1.8bn fund
   to pay president’s allies hit by alleged ‘lawfare’
-displayOrder: 28
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-19T21:21:38Z'

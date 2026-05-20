@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK government has watered-down sanctions on Russia, allowing diesel
   and jet fuel from Russian crude oil to enter the UK if it is refined in other countries.
-displayOrder: 23
+displayOrder: 31
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-19T18:09:00Z'

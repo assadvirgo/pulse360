@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Chip designer’s $6.4bn raise signals demand ahead of huge listings expected
   from SpaceX, OpenAI and Anthropic
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-05-19T19:07:47Z'

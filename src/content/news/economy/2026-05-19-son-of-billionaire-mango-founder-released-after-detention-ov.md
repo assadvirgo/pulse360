@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Fashion chain boss Isak Andic died while on a hiking trip with his son
   Jonathan in 2024
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-19T18:42:59Z'

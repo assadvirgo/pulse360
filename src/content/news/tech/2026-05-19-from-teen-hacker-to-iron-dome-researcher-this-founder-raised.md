@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ocean, an agentic email security platform, claims its AI can thoroughly
   analyze the context of every incoming email to detect fraud and impersonation attempts.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-19T21:08:51Z'

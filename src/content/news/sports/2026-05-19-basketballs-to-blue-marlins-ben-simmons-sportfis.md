@@ -5,7 +5,7 @@ countryCode: BS
 description: The Sport Fishing Championship's South Florida Sails -- and controlling
   owner Ben Simmons -- captured the Blue Marlin Open at Walker's Cay on Sunday in
   the Bahamas.
-displayOrder: 12
+displayOrder: 19
 heroImage: ''
 importance: 54.5
 pubDate: '2026-05-19T22:25:53Z'

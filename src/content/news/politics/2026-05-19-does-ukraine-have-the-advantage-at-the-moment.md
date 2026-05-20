@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv takes the war deeper into Russia with a huge attack on the Moscow
   region.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-19T20:00:50Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US has banned non-Americans who have visited DR Congo, Uganda or
   South Sudan in the last 21 days from entry.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-19T22:08:47Z'

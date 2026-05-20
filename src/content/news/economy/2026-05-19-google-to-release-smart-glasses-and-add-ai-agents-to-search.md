@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CEO Sundar Pichai says features powered by new Gemini model will close
   gap with Anthropic and OpenAI
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-19T20:47:04Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors seemed pleased by the connectivity company’s firm timeline
   for a new switch and its talk of revenue opportunities in optical networking.
-displayOrder: 33
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-19T21:31:00Z'
