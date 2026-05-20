@@ -5,7 +5,7 @@ countryCode: US
 description: The Knicks flipped the script on the Cavaliers in Game 1 of the Eastern
   Conference finals, as Jalen Brunson sparked a historic rally by relentless targeting
   James Harden.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-20T06:49:03Z'

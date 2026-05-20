@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. is in early development on a Rick and Morty movie, with
   franchise veteran Jacob Hair in talks to direct, Deadline can confirm. Plot details
   are under wraps. Dan…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-19T23:47:04Z'

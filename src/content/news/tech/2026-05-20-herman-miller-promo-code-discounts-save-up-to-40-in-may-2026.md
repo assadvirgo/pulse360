@@ -3,7 +3,7 @@ category: Tech
 description: Whether you’re looking for a Herman Miller promo code or discounts in
   their sale, here is how to save on the world's best ergonomic office furniture this
   month.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-20T05:00:00Z'

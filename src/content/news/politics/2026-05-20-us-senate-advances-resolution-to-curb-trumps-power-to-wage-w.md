@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Vote to advance War Powers Resolution seen as rare rebuke of the president
   as pressure grows to end US attack on Iran.
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-20T00:49:06Z'

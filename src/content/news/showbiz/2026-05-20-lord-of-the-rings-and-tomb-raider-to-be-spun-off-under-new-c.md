@@ -5,7 +5,7 @@ countryCode: SE
 description: “Lord of the Rings” owner Embracer is set to spin the Tolkien IP as well
   as other legacy properties such as “Tomb Raider” into a separate holding company,
   Fellowship…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-20T08:54:25Z'

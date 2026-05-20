@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Security guard Amin Abdullah, one of three killed in the attack, was
   described as "a shining light".
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-19T23:26:13Z'

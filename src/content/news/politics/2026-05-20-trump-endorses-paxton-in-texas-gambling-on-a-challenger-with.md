@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump's move dismayed Senate Republicans, many of whom have served with
   the Texan for decades.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-20T00:03:04Z'

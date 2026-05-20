@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Burt Jones and Rick Jackson will face each other again in the June 16
   run-off.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-20T05:31:32Z'

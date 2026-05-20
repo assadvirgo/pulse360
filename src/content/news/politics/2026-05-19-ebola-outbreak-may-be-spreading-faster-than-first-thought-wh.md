@@ -2,7 +2,7 @@
 category: Politics
 description: Hundreds of cases are suspected in central Africa but experts fear the
   actual number may be much higher.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 77.2
 pubDate: '2026-05-19T19:32:22Z'

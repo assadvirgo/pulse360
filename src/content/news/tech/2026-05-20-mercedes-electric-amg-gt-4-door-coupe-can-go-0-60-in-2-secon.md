@@ -5,7 +5,7 @@ countryCode: DE
 description: The era of ultra-high performance Mercedes EVs is here. The German automaker
   finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed
   from the…
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-20T03:30:00Z'

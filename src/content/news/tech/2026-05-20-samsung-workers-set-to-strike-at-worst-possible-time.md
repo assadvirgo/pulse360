@@ -5,7 +5,7 @@ countryCode: KR
 description: More than 47,000 Samsung Electronics workers are gearing up for an 18-day
   strike after bonus payment negotiations between the company and its union collapsed.
   The strike is set to…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-20T08:49:01Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Maverick Kentucky Congress member Thomas Massie defeated by challenger
   backed by president
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-20T00:24:24Z'

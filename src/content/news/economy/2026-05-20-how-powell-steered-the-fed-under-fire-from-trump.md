@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Central bank chair’s tenure was marked by inflation shocks and his battle
   to protect the institution’s independence
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-20T04:00:22Z'

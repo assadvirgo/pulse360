@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Who will represent the East in the Stanley Cup Final? Get set with key
   stats, schedule and more.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-19T23:49:16Z'
