@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Cristiano Ronaldo is set to play in a record sixth World Cup after being
   selected in Portugal's squad for this summer's tournament.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-05-19T14:12:21Z'

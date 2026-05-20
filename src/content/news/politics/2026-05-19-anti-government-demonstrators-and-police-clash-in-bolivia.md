@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Protesters have been calling for the president to resign after weeks-long
   unrest.
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 69.2
 pubDate: '2026-05-19T11:37:51Z'

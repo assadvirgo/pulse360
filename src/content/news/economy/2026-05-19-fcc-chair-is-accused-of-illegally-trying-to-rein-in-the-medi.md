@@ -5,7 +5,7 @@ countryCode: US
 description: A legal watchdog group has asked bar associations to investigate whether
   Brendan Carr violated ethical obligations in his effort to enforce President Trump’s
   media agenda.
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-19T19:53:00Z'

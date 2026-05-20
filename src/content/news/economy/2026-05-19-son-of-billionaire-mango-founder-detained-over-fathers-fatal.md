@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Fashion chain boss Isak Andic died while on a hiking trip with his son
   Jonathan two years ago
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-19T12:29:06Z'

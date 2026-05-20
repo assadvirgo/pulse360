@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Isak, 71, died in December 2024 after falling from a ravine while walking
   in the Montserrat mountains near Barcelona.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-19T12:32:33Z'

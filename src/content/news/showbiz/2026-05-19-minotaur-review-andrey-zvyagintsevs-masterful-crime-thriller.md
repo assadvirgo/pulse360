@@ -5,7 +5,7 @@ countryCode: RU
 description: The 'Leviathan' and 'Loveless' director returns to the Cannes competition
   with his first film made entirely outside of Russia, a loose remake of Claude Chabrol's
   'The Unfaithful…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-19T16:44:37Z'

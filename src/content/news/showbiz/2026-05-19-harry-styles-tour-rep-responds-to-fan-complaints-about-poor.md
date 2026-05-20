@@ -5,7 +5,7 @@ countryCode: US
 description: In response to multiple complaints online from Harry Styles fans who
   paid for special “VIP” floor tickets on the first two nights of the singer’s “Together
   Together” tour, but…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-19T18:43:25Z'

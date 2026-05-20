@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rights advocate accuses Washington of using &#039;terrorism label&#039;
   to shut down Palestine activism internationally.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-19T17:36:16Z'

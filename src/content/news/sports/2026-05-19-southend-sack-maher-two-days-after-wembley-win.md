@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Southend United sack head coach Kevin Maher two days after the club's
   historic FA Trophy win at Wembley.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-19T19:36:27Z'

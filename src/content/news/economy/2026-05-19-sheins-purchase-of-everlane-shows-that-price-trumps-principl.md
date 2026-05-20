@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Everlane is reportedly being sold to Shein. Depop was sold at a markdown.
   Allbirds is now an AI company. Sustainable fashion is getting less sustainable.
-displayOrder: 40
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-19T20:29:00Z'

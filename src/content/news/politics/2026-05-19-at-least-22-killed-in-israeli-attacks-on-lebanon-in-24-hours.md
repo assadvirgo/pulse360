@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon death toll since March 2 has reached 3,042, according to the
   country&#039;s Health Ministry.
-displayOrder: 30
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-19T16:29:05Z'
