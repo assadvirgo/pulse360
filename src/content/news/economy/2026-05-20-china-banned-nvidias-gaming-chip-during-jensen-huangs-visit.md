@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing aims to support domestic players including Huawei and Cambricon
   as they catch up to US rivals
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-20T08:08:34Z'

@@ -5,7 +5,7 @@ countryCode: AU
 description: Australia is likely facing its "biggest diphtheria outbreak" in decades,
   the country's health minister has warned, as an investigation continues into a possible
   death.
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 74.0
 pubDate: '2026-05-20T09:29:00Z'

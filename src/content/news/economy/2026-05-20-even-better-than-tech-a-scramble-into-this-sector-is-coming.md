@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ted Oakley of Oxbow Advisors says investors need more energy sector exposure,
   and his company owns everything from drillers to producers.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-20T12:42:00Z'

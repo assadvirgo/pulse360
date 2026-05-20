@@ -5,7 +5,7 @@ countryCode: FR
 description: “Jim Queen” has arrived in Cannes – and claimed his crown.&#160;&#160;&#160;
   Sold by Global Constallation, the crowd-pleasing animation, produced by France&#8217;s
   Bobbypills and…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-20T08:24:57Z'

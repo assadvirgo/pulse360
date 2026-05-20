@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Authorities say victims Amin Abdullah, Mansour Kaziha and Nader Awad
   played a role in responding to the attackers.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-20T08:40:45Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Shamrock Capital isn&#8217;t slowing down when it comes to investing
   in content libraries and catalogs. The Los Angeles-based investment firm focused
   on media, entertainment and…
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-20T12:31:00Z'

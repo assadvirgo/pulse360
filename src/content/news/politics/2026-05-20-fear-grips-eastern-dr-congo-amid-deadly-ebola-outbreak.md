@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: From Bukavu to Kinshasa, concern is spreading among residents and street
   vendors as Ebola cases rise.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-20T04:58:22Z'

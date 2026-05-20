@@ -5,7 +5,7 @@ countryCode: FR
 description: Pedro Almodóvar was asked by one Spanish journalist at today&#8217;s
   Cannes press conference for his pic Bitter Christmas about &#8220;Hollywood being
   in crisis and Canal+…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-20T11:28:06Z'

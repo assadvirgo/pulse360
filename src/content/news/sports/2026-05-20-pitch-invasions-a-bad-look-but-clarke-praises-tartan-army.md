@@ -5,7 +5,7 @@ countryCode: GB
 description: National head coach Steve Clarke says fans spilling on to the pitch to
   celebrate in domestic games is "a bad look" for Scottish football but praises the
   Tartan Army for avoiding…
-displayOrder: 32
+displayOrder: 45
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-20T06:35:27Z'

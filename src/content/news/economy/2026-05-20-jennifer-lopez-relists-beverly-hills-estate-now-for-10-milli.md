@@ -5,7 +5,7 @@ countryCode: US
 description: Jennifer Lopez has put the sprawling Beverly Hills mansion she once shared
   with ex-husband Ben Affleck back on the market with a big price cut—weeks after
   the Affleck gifted her…
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-20T09:00:00Z'

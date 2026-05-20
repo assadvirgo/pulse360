@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trade in data from Edmunds shows more car buyers are choosing EVs, as
   fuel prices spike. But other factors might be holding back demand.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-20T12:00:01Z'

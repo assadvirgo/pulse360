@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Democratic lawmakers blast move, which follows the establishment of a
   controversial &#039;Anti-Weaponization Fund&#039;.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-20T02:08:42Z'

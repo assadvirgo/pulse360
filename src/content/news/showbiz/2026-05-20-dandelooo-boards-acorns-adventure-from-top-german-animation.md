@@ -5,7 +5,7 @@ countryCode: DE
 description: Greatness from (very) small beginnings. After bringing Filip Mašek’s
   “Acorn’s Adventures” to MIFA and winning the Eurimages Co-production Development
   Award earlier this year at…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-20T09:16:41Z'

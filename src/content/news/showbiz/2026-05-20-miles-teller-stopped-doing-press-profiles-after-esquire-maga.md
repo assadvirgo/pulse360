@@ -5,7 +5,7 @@ countryCode: US
 description: Miles Teller made the press rounds at the Cannes Film Festival to promote
   James Gray&#8217;s competition entry &#8220;Paper Tiger,&#8221; in which he stars
   opposite Adam Driver…
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-20T12:20:18Z'
