@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Buyer fails to raise funds for €850mn acquisition of Frankfurt’s OpernTurm
   from JPMorgan and GIC
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-20T08:06:47Z'

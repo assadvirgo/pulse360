@@ -3,7 +3,7 @@ category: Economy
 country: Germany
 countryCode: DE
 description: Move aims to speed up spending of country’s expanded defence budget
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-20T15:05:11Z'

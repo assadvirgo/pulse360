@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The "buy, borrow, die" strategy refers to the practice of wealthy founders
   or investors borrowing against their assets and using the loan proceeds as income.
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-20T15:42:05Z'

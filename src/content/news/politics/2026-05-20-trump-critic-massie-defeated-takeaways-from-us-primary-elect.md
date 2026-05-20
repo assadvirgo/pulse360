@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Here are the key takeaways from Tuesday’s US primaries in Alabama, Georgia,
   Idaho, Kentucky, Oregon and Pennsylvania.
-displayOrder: 25
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-20T11:38:33Z'

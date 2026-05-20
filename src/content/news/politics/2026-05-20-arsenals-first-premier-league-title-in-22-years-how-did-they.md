@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Set pieces, a mean defence and unorthodox motivation methods are some
   of the key factors behind Arsenal&#039;s success.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-20T10:51:05Z'

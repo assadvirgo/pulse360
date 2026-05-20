@@ -5,7 +5,7 @@ countryCode: GB
 description: Scotland have recalled Claire Emslie for next month's Women's World Cup
   qualifying double-header against Israel, five months on from the forward giving
   birth.
-displayOrder: 27
+displayOrder: 46
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-20T10:12:31Z'

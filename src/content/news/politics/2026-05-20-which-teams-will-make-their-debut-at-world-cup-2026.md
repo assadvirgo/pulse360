@@ -2,7 +2,7 @@
 category: Politics
 description: Cape Verde, Curacao, Jordan and Uzbekistan will take part in football&#039;s
   premier showpiece for the first time.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-20T12:04:59Z'

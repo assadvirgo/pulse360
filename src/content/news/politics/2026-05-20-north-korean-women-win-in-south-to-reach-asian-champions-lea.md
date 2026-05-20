@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: Naegohyang Women&#039;s FC record a historic 2-1 win over Suwon FC Women
   on a rare trip to South Korea.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 65.5
 pubDate: '2026-05-20T13:35:36Z'

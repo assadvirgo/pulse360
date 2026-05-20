@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Netanyahu is under mounting pressure as his fractious right-wing coalition
   submitted the bill to dissolve parliament.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-20T13:08:25Z'

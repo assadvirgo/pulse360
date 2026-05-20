@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: There are now 600 suspected Ebola cases after the outbreak in Congo and
   Uganda, the World Health Organisation has said.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-20T09:38:00Z'

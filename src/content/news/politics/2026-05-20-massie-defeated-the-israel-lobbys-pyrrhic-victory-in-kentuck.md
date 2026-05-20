@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The campaign to unseat Thomas Massie exposed a growing Republican backlash
   against pro-Israel political influence.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-20T14:05:06Z'

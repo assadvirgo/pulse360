@@ -5,7 +5,7 @@ countryCode: US
 description: It is a common call for consumers to demand improved conditions on factory
   farms and in slaughterhouses—as it should be. But May invites us not to speak about
   animals, but another…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-20T17:00:00Z'

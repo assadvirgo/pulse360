@@ -5,7 +5,7 @@ countryCode: US
 description: NewFest executive director David Hatkoff is stepping down after seven
   years with the New York City LGBTQ film festival. Lesli Klainberg, longtime president
   of Film at Lincoln…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-20T16:00:00Z'

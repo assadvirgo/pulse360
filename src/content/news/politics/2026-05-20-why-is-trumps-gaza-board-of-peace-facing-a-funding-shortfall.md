@@ -2,7 +2,7 @@
 category: Politics
 description: Experts say lack of a political horizon and Israeli land grabs are deterring
   donors from funding Gaza&#039;s reconstruction.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-20T15:24:14Z'

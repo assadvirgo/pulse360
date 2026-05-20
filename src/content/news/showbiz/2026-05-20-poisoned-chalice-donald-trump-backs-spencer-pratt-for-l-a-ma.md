@@ -5,7 +5,7 @@ countryCode: US
 description: With friends like Donald Trump, Spencer Pratt might be wondering if he
   needs enemies or rivals for the job of Los Angeles Mayor. &#8220;I like to see him
   do well,&#8221; Trump,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-20T16:14:54Z'
