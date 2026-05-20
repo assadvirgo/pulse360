@@ -4,7 +4,7 @@ country: Estonia
 countryCode: EE
 description: Estonia suspects the drone was a Ukrainian projectile knocked off course
   by Russian electronic jamming.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-19T19:01:44Z'

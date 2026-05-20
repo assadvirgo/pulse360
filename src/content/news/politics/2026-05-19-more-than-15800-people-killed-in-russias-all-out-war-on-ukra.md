@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Nearly 800 children are among those killed in Ukraine since Russia&#039;s
   full-scale invasion in February 2022, the UN says.
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-19T20:18:16Z'

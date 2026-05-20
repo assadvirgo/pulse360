@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The city has been hit by successive shocks and diminishing growth. But
   the rest of the UK needs it
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-20T04:00:22Z'

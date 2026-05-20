@@ -3,7 +3,7 @@ category: Showbiz
 description: Visar Morina, the filmmaker behind the 2026 Sundance World Cinema Dramatic
   Competition Jury Prize winner &#8220;Shame and Money&#8221; has signed with Cinetic
   for representation.…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 67.8
 pubDate: '2026-05-20T04:27:28Z'

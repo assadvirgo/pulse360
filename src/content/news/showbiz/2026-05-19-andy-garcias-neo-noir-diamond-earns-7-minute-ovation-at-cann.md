@@ -5,7 +5,7 @@ countryCode: FR
 description: Andy Garcia’s long-gestating passion project &#8220;Diamond&#8221; earned
   a warm seven-minute long standing ovation at the Cannes Film Festival on Tuesday
   night, bringing a dose…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-19T22:29:29Z'

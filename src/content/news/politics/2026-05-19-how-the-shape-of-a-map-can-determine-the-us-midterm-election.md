@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With less than six months to midterms, Al Jazeera explains how district
   boundaries may determine who controls the House.
-displayOrder: 16
+displayOrder: 39
 heroImage: ''
 importance: 80.5
 pubDate: '2026-05-19T16:29:37Z'

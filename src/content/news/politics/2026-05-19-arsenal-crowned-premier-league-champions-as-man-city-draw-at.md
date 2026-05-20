@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Arsenal&#039;s 22-year wait for a Premier League title ends as Manchester
   City draw 1-1 at Bournemouth.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-19T20:28:50Z'

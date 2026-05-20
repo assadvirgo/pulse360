@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Organisation calls for Black athlete fan boycott over Supreme Court&#039;s
   Voting Rights Act ruling, southern redistricting.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-19T21:09:01Z'

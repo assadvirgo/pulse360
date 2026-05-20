@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Chipmaker’s spending rivals Big Tech’s biggest venture operations, tying
   customers and start-ups to its technology
-displayOrder: 28
+displayOrder: 38
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-20T04:00:12Z'

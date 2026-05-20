@@ -5,7 +5,7 @@ countryCode: GB
 description: Rugby's multi-million-pound concussion legal action could be close to
   collapse as authorities seek to establish if a deadline for information on the majority
   of cases involved has…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-19T15:20:19Z'

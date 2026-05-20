@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Polls show mixed results, with Paxton and Cornyn in close battle against
   Democrat James Talarico.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-19T18:24:33Z'

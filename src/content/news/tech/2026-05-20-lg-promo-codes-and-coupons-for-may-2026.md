@@ -2,7 +2,7 @@
 category: Tech
 description: Save 20% with an LG promo code today, plus up to $1,000 off appliances,
   40% off bestselling TVs and monitors.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-20T05:00:00Z'
