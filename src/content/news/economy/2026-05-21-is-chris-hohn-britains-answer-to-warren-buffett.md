@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The billionaire hedge fund manager has deep convictions on finance, philanthropy
   — and, increasingly, faith
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T04:00:09Z'

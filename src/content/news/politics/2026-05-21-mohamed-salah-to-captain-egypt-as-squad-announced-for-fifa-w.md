@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Versatile Nantes forward Mostafa Mohamed is a significant omission from
   the 27-man preliminary squad.
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-21T08:33:51Z'

@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: US and Taiwan leaders have not spoken since Washington shifted diplomatic
   recognition from Taipei to Beijing in 1979.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T07:41:05Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The injection is different than Zepbound and Foundayo.
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-21T12:32:00Z'

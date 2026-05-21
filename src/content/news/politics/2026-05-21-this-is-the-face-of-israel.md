@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Ben Gvir’s video of bound flotilla activists showed Israel without the
   mask.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-21T12:11:00Z'

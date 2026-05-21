@@ -5,7 +5,7 @@ countryCode: IE
 description: '&#8220;Bad Bridgets&#8221; the Irish period thriller that was one of
   the buzziest projects to launch at last year&#8217;s American Film Market, has found
   a home. Netflix will…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-21T11:43:47Z'

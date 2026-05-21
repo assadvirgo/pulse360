@@ -4,7 +4,7 @@ country: Mauritania
 countryCode: MR
 description: The fight against radicalisation in Mauritania advances through faith
   and community outreach by female Islamic guides.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-21T12:27:36Z'

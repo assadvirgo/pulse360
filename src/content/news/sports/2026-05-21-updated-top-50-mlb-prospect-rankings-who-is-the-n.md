@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starting with a big shakeup at the top, we rank baseball's next wave
   of stars.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-21T13:51:48Z'

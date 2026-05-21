@@ -5,7 +5,7 @@ countryCode: US
 description: “Outer Banks” actor Chase Stokes has wasted no time in leaving behind
   the Netflix series that launched him to fame—and the home where he has spent the
   last 7 years shooting the…
-displayOrder: 34
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-21T09:03:00Z'

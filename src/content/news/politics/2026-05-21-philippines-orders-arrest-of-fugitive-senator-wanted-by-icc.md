@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Justice Secretary says anyone helping Senator Ronald &#039;Bato&#039;
   dela Rosa evade arrest will &#039;face consequences&#039;.
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T10:16:26Z'

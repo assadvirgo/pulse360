@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Chip giant announces $80bn stock buyback scheme and dividend hike in
   boon to shareholders.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-21T03:08:39Z'

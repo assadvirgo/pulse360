@@ -5,7 +5,7 @@ countryCode: US
 description: Pacific Music Group has launched Family Style Records, a new Hip-Hop
   imprint led by MC Jin, debuting alongside Jin&#8217;s new single, &#8220;Humble
   Flex,&#8221; in celebration of…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-21T13:00:00Z'

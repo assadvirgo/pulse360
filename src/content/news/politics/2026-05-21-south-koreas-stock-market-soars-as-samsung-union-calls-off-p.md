@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Benchmark KOSPI rises more than 8 percent following deal to avert strike
   at top memory chip maker.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-21T06:54:01Z'
