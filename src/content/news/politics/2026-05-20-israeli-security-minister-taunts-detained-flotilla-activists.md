@@ -5,7 +5,7 @@ countryCode: IL
 description: Israeli police have been filmed forcing activists to kneel on the ground
   with their hands tied behind their backs while the country's national security minister
   tells them they…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-20T16:34:00Z'

@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: '"You are he who will restore peace to Eternia."'
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 74.0
 pubDate: '2026-05-20T20:29:39Z'

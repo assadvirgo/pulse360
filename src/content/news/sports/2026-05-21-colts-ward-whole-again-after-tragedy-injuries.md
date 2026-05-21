@@ -5,7 +5,7 @@ countryCode: US
 description: After two seasons of heartbreak and injury, Colts cornerback Charvarius
   Ward, who pondered retirement, said he opted to return because he's in a better
   headspace.
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-21T00:57:34Z'

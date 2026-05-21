@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: E.l.f. Beauty raised prices by $1 last August to offset the impact of
   tariffs. It's now planning to walk back some of that amid a consumer pullback.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-20T21:36:26Z'

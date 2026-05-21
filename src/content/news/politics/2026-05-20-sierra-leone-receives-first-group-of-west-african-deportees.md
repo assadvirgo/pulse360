@@ -4,7 +4,7 @@ country: Sierra Leone
 countryCode: SL
 description: Sierra Leone receives nine West African migrants expelled by the United
   States under its strict immigration crackdown.
-displayOrder: 28
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-20T18:41:31Z'

@@ -5,7 +5,7 @@ countryCode: KR
 description: A team of North Korean footballers who made history by crossing the border
   into South Korea earned a victory to take them into the Asian Women's Champions
   League final.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-20T13:42:56Z'

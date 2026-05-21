@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oversight body scrutinising how $30mn grant was spent by controversial
   non-profit that had US and Israeli backing
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-20T21:02:03Z'

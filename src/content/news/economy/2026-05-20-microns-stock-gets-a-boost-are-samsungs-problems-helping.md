@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A looming strike by Samsung workers could further tighten memory supply
   and boost prices, analysts said.
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-20T20:19:00Z'

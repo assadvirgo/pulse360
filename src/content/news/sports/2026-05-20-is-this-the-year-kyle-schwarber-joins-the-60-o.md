@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Phillies slugger is thumping homers at a historic pace. Here's what
   his early stats say about how many he can belt by the end of the 2026 season.
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-20T13:14:01Z'

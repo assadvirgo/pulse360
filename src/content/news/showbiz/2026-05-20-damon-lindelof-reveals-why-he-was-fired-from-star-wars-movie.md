@@ -3,7 +3,7 @@ category: Showbiz
 description: '&#8220;Lost&#8221; and &#8220;Watchmen&#8221; mastermind Damon Lindelof
   has detailed why he was fired from writing a Star Wars movie and teases what the
   tale would&#8217;ve been…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-05-20T20:53:29Z'

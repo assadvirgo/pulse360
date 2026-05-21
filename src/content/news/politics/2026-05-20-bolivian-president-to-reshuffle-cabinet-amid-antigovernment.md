@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Rodrigo Paz is under pressure from weeks of demonstrations and poor economic
   conditions.
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-20T21:07:38Z'

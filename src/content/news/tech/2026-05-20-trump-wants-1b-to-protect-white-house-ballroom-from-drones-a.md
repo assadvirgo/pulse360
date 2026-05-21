@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President asks $1B from taxpayers to secure his $400M privately funded
   ballroom.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-20T18:59:52Z'

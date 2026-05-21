@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli attacks on Lebanon continue despite the &#039;ceasefire&#039;
   that was recently extended until the beginning of July.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-20T15:47:58Z'

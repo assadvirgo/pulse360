@@ -4,7 +4,7 @@ country: Lithuania
 countryCode: LT
 description: First came the Netherlands, now it's Lithuania. And more European countries
   appear to be in the queue for Tesla's driver-assistance system.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-20T18:32:06Z'
