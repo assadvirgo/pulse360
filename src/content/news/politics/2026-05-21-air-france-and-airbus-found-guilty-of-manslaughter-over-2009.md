@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The companies were found guilty by a French court over an air disaster
   which killed 228 people.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 72.2
 pubDate: '2026-05-21T12:40:49Z'

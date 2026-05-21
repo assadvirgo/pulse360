@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Analysts say the remarks are less a sign of closer US-Taiwan ties than
   another example of Trump’s unpredictability.
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-21T16:31:40Z'

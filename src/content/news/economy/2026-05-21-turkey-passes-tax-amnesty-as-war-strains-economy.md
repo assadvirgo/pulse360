@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Package of incentives is designed to support struggling exporters and
   lure foreign companies
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-21T15:03:38Z'

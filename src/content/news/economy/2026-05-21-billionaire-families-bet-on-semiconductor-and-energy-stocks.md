@@ -2,7 +2,7 @@
 category: Economy
 description: Private investment firms of David Tepper and other billionaires doubled
   down on chipmakers despite the Iran war pressuring data center economics.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-21T11:53:44Z'

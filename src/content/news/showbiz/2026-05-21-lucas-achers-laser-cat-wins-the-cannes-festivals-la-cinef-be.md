@@ -5,7 +5,7 @@ countryCode: FR
 description: We have a winner! Lucas Acher’s “Laser-Cat” has come out on top of La
   Cinef section at Cannes. For its 29th edition, La Cinef has selected 14 live-action
   and 5 animated shorts…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-21T16:38:35Z'

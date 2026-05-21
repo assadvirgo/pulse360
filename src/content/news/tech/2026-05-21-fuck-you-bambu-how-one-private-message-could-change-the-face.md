@@ -3,7 +3,7 @@ category: Tech
 description: Bambu Lab makes the best, most accessible 3D printers yet, but that reputation
   is suddenly under siege. It all started when Pawe&#322; Jarczak received a private
   message from the…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-21T10:00:00Z'

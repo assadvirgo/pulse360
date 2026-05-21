@@ -2,7 +2,7 @@
 category: Economy
 description: 'Plus: AI prompts to plan your next vacation — and why “trip stacking”
   is trending.'
-displayOrder: 33
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-21T15:30:00Z'

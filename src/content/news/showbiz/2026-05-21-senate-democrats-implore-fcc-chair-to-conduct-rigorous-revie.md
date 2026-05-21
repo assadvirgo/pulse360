@@ -5,7 +5,7 @@ countryCode: US
 description: Democratic senators are again urging the FCC to not rubber-stamp Paramount
   Skydance&#8217;s proposed $111 billion takeover of Warner Bros. Discovery &#8212;
   citing concerns over…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 72.8
 pubDate: '2026-05-21T10:00:00Z'

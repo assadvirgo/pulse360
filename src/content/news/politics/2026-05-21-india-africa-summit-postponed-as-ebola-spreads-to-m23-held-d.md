@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Efforts to stop the latest outbreak of the deadly disease have been hampered
   by armed conflict in eastern DR Congo.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-21T13:18:12Z'

@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Iliman Ndiaye, Nicolas Jackson and Ismaila Sarr are other key players
   joining Mane in Senegal&#039;s World Cup forward line.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-21T13:43:21Z'
