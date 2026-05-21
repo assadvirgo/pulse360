@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI lab is preparing for $1tn listing with bankers Goldman Sachs and Morgan
   Stanley and lawyers at Cooley
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-20T17:21:02Z'

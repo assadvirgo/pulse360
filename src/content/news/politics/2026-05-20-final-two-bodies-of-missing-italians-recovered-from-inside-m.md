@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The two were among five Italian nationals who drowned in last week's
   scuba diving accident in the Maldives.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-20T16:09:26Z'

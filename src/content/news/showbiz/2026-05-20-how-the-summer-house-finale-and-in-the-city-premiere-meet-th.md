@@ -5,7 +5,7 @@ countryCode: US
 description: The season 10 finale of the flagship series ended with starring couple
   Kyle Cooke and Amanda Batula taking a step toward ending their marriage, and the
   emotional scene led right…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-20T19:58:32Z'

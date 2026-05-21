@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: South Sydney Rabbitohs forward Jai Arrow announces his immediate retirement
   after being diagnosed with Motor Neurone Disease (MND) at the age of 30.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-20T07:23:33Z'

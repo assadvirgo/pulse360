@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stellantis plans to launch a new lineup of what it's calling "muscle
   trucks" for its Ram brand despite elevated U.S. gas prices due to the war in Iran.
-displayOrder: 25
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-20T19:00:01Z'

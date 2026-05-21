@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: NanoCo, the company behind OpenClaw alternative NanoClaw, has raised
   a $12 million seed after a viral launch, the founders tell TechCrunch.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-20T14:00:00Z'

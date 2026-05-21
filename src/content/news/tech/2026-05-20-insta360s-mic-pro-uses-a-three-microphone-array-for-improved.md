@@ -3,7 +3,7 @@ category: Tech
 description: After initially revealing its unique design at NAB 2026 last month with
   few technical details, Insta360 has announced and launched its new wireless Mic
   Pro system featuring a…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 70.2
 pubDate: '2026-05-20T14:04:42Z'

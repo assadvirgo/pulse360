@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nelson Peltz's Trian Fund Management is seeking funding to take Wendy's
   private, according to a Financial Times report.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-20T15:39:21Z'

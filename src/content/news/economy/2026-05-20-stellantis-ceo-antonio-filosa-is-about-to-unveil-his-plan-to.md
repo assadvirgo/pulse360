@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of Stellantis are off nearly 30% since Antonio Filosa, a veteran
   who climbed through the company ranks, was named CEO nearly a year ago.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-20T13:10:58Z'

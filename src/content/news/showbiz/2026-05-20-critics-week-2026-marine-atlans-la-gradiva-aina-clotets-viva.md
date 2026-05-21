@@ -5,7 +5,7 @@ countryCode: FR
 description: Marine Atlan’s &#8220;La Gradiva&#8221; claimed the top honor at the
   65th edition of Critics Week, winning the Ami Paris Grand Prize, while Aina Clotet&#8217;s
   &#8220;Alive&#8221;…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-20T17:54:38Z'

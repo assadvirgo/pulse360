@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israel’s Ben-Gvir publishes video taunting detained flotilla activists
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-20T13:44:12Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'A new three-part Netflix series about the explosive 2005 Michael Jackson
   trial, &#8220;Michael Jackson: The Verdict,&#8221; is set to premiere on June 3.
   The docuseries covers the…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-20T17:55:09Z'

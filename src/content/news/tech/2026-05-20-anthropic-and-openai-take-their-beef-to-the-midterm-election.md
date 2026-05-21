@@ -5,7 +5,7 @@ countryCode: US
 description: Hello and welcome to Regulator, a newsletter for Verge subscribers about
   the car crashes piling up on a daily basis at the Washington-based intersection
   of technology and…
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-20T17:50:00Z'

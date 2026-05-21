@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Senator dela Rosa, whose whereabouts are ⁠unknown, is wanted by the ICC
   for his role in Duterte&#039;s bloody &#039;war on drugs&#039;.
-displayOrder: 11
+displayOrder: 33
 heroImage: ''
 importance: 83.5
 pubDate: '2026-05-20T10:41:28Z'

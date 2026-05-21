@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Isak Andic's son Jonathan denies involvement in the fatal fall of his
   father, who founded one of Europe's biggest clothing empires.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-20T15:44:41Z'

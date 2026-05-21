@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Police said the vehicle was abandoned by the driver after it took on
   water near the shoreline of Grapevine Lake in north Texas.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-20T16:46:33Z'

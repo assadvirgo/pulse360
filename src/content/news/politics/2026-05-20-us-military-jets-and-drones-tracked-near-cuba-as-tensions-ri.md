@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tracking data shows several flights by US Navy reconnaissance jets and
   drones during the last week.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-20T15:36:03Z'
