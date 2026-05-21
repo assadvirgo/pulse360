@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Bolivian President Rodrigo Paz has announced a cabinet reshuffle and
   other measures as protests escalate.
-displayOrder: 2
+displayOrder: 16
 heroImage: ''
 importance: 70.5
 pubDate: '2026-05-21T04:50:01Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: The UK will provide up to &#163;20m to help contain an Ebola outbreak
   suspected of killing more than 130 people in the Democratic Republic of the Congo
   and Uganda.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-20T21:58:00Z'

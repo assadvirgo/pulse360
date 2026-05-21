@@ -5,7 +5,7 @@ countryCode: IT
 description: 'EXCLUSIVE: Rai Cinema is getting behind a feature inspired by a real-life
   operation involving Italian intelligence, elite special forces and the Foreign Ministry’s
   Crisis Unit to…'
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-21T08:01:02Z'

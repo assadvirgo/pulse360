@@ -2,7 +2,7 @@
 category: Tech
 description: Use these verified Chirp coupon codes and shopping tips to score up to
   67% off wheels, up to 50% off refurbished products, and more.
-displayOrder: 15
+displayOrder: 38
 heroImage: ''
 importance: 54.2
 pubDate: '2026-05-21T05:00:00Z'

@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Hundreds marched in Buenos Aires against President Javier Milei’s austerity
   policies and cuts to Argentina’s healthcare
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-21T04:29:19Z'

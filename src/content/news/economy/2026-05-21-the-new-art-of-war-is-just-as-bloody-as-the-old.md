@@ -2,7 +2,7 @@
 category: Economy
 description: Armed drones and AI have transformed the frontline into treacherous kill
   zones comparable to the first world war
-displayOrder: 34
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-21T04:00:22Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The 14,000-square-foot home is located in an exclusive community just
   outside of Las Vegas with unobstructed views of the Strip, as well as an array of
   upscale amenities.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-21T08:59:00Z'

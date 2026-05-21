@@ -3,7 +3,7 @@ category: Showbiz
 description: Three international filmmakers – working in the U.S., China and South
   Korea – discussed how AI filmmaking can complement rather than replace existing
   production techniques on a…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-21T05:00:00Z'

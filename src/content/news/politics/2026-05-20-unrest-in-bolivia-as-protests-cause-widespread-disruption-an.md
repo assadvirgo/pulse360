@@ -5,7 +5,7 @@ countryCode: BO
 description: International concern has been growing following weeks of nationwide
   protests in Bolivia - with the country's president saying he will reshuffle his
   cabinet in response to the…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-20T22:42:00Z'

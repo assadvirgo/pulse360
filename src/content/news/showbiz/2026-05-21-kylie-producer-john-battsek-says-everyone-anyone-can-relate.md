@@ -5,7 +5,7 @@ countryCode: AU
 description: 'EXCLUSIVE: Kylie Minogue may have found fame when she was extremely
   young but the double Oscar-winning producer behind her Netflix doc feels her enduring
   appeal belongs with how…'
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-21T08:30:00Z'

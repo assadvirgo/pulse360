@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: France and Italy are among the countries that have criticised a video
   showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-20T23:28:28Z'

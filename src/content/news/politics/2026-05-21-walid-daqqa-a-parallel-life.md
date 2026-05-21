@@ -2,7 +2,7 @@
 category: Politics
 description: Walid Daqqa, the Palestinian prisoner who turned decades in Israeli jails
   into moments of thought, creativity and love.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-21T07:14:39Z'
