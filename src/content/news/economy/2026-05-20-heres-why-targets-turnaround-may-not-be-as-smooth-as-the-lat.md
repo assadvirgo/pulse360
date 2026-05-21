@@ -5,7 +5,7 @@ countryCode: US
 description: Target’s turnaround efforts include everything from redesigned shopping
   carts to a “concierge” service for baby products. But the retailer’s optimism about
   those plans has run up…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-20T16:18:00Z'

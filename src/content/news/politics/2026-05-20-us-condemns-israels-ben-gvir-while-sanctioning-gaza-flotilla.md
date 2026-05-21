@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mike Huckabee says Ben-Gvir &#039;betrayed dignity&#039; in video taunting
   flotilla activists, day after US sanctioned organisers.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-20T22:20:48Z'

@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The walkout, which was due to start on Thursday, has been suspended while
   union members vote on a tentative deal.
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 63.2
 pubDate: '2026-05-21T03:36:09Z'

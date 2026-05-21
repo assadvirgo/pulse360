@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Kingdom delays payments amid attempts to tighten controls on spending
   for Vision 2030 megaprojects
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-21T04:00:33Z'

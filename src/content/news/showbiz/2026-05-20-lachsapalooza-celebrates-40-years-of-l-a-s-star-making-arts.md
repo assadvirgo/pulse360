@@ -5,7 +5,7 @@ countryCode: US
 description: LACHSA, whose alumni include Anthony Anderson, Phoebe Bridgers and Josh
   Groban among many others, is looking to raise $2.5 million in fundraising through
   an upcoming concert at…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-20T23:30:43Z'

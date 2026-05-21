@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Critics worry Google is losing ground to flashier rivals, but rapid Gemini
   adoption and AI-native integrations are driving monetization behind the scenes.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-20T20:27:00Z'

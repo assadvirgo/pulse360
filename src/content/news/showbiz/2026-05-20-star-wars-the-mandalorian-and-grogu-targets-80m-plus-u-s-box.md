@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jon Favreau's feature adaptation of his Disney+ series is making a big
   play for families thanks to Grogu, aka Baby Yoda.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-20T21:49:19Z'

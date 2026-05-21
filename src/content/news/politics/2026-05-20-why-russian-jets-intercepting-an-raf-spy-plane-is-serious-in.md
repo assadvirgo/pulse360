@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The BBC's Frank Gardner explained how the incident highlighted tense
   relations between Russia and Nato.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-20T21:46:32Z'

@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The incident came last month when unarmed Rivet Joint plane was securing
   NATO&#039;s eastern flank in international airspace.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-20T18:01:08Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI claims its reasoning model disproved a geometry conjecture unsolved
   since 1946 — and this time, the mathematicians who exposed its last embarrassing
   claim are backing it up.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-20T20:28:27Z'
