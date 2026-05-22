@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stellantis CEO Antonio Filosa unveiled a new five-year strategic plan
   Thursday worth 60 billion euros ($69.7 billion).
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-21T16:36:38Z'

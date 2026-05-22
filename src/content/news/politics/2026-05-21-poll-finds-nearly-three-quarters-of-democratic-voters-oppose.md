@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US ally has seen support plummet in recent years amid widespread
   anger over its genocidal war on Gaza.
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-21T18:05:12Z'

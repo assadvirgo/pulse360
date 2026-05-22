@@ -2,7 +2,7 @@
 category: Politics
 description: The all-time greats who have shone on the biggest stage and written their
   names in football World Cup folklore.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T18:06:27Z'

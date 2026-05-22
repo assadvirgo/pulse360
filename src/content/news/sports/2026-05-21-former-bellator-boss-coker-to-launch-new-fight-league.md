@@ -3,7 +3,7 @@ category: Sports
 description: Former Bellator and Strikeforce boss Scott Coker has announced plans
   to launch a fight league next year which he hopes will become a "global brand in
   MMA".
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-21T14:38:10Z'

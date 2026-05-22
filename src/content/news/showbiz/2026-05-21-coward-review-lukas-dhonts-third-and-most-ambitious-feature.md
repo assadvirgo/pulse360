@@ -5,7 +5,7 @@ countryCode: BE
 description: Newcomers Emmanuel Macchia and Valentin Campagne play a farm boy and
   a tailor’s son who find romantic reprieve at the Belgian front during World War
   I.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-21T22:00:00Z'

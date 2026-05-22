@@ -5,7 +5,7 @@ countryCode: FR
 description: An open letter, initiated by members of the French cinema world to protest
   tycoon Vincent Bolloré’s growing control of France’s media and entertainment sectors,
   has started to…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-21T20:57:16Z'

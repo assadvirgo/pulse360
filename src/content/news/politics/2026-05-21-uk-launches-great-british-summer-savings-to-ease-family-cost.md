@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Families to benefit from reduced VAT to help lower costs at theme parks,
   theatres, zoos, and museums.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T18:29:47Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Bungie is moving on from Destiny 2. The studio announced Thursday that
   it's releasing the last major update for the game on June 9th as its focus "turns
   towards a new beginning…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-21T17:48:34Z'

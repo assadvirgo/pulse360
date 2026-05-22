@@ -5,7 +5,7 @@ countryCode: US
 description: The landmark 50th season of &#8220;Survivor&#8221; wrapped up with a
   live finale on Wednesday night that reached 5.8 million viewers. Measured by Nielsen,
   that total marks the…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-21T21:28:56Z'

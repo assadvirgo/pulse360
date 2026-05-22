@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Activists from the Global Sumud Flotilla arrived in Istanbul on Thursday
   and described Israeli violence.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T20:39:09Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: The Ivor Novello Awards are all about celebrating human creativity in
   the form of songwriting, and for 70 years, they have quietly commended the geniuses
   behind the music that…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-21T22:48:13Z'

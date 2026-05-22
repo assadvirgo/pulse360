@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli minister&#039;s mistreatment of abducted activists sparks global
   condemnation.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T19:01:24Z'

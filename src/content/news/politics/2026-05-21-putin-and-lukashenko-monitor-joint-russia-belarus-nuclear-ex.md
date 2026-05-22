@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Moscow and Minsk hold strategic nuclear drills with the two countries&#039;
   leaders participating via video conference.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-21T16:07:02Z'
