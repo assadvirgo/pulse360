@@ -4,7 +4,7 @@ country: Zimbabwe
 countryCode: ZW
 description: The upcoming series will mark Zimbabwe's first home assignment of the
   year and their first international action since the T20 World Cup
-displayOrder: 38
+displayOrder: 50
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-22T08:40:08Z'

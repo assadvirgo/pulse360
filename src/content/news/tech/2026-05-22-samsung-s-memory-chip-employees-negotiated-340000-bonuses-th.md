@@ -5,7 +5,7 @@ countryCode: KR
 description: Details have emerged about a tentative deal struck between Samsung and
   semiconductor employees who had threatened to strike. The deal reportedly makes
   some workers eligible for…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-22T11:05:25Z'

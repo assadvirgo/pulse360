@@ -5,7 +5,7 @@ countryCode: BR
 description: RIO DE JANEIRO, Brazil &#8212; Local giant Globo’s streamer Globoplay
   aims to launch in August, right after the FIFA World Cup in the U.S., Mexico and
   Canada, vertical microdrama…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-05-22T12:20:38Z'

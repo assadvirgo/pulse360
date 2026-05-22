@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: The BBC's Michelle Fleury looks at trades disclosed by the president.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-22T10:45:38Z'

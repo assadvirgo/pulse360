@@ -4,7 +4,7 @@ country: Honduras
 countryCode: HN
 description: The attacks by gunmen come as the government continues a drive to crack
   down on organised crime.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-22T11:30:02Z'

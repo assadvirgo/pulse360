@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The sanctions come amid growing scrutiny of Tanzania’s human rights record
   in recent years.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-22T08:15:21Z'

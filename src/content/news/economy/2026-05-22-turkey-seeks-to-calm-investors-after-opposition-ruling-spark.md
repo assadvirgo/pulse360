@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Analysts warn of continued capital outflows after court’s ousting of
   top Erdoğan rival triggers market panic
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-22T11:14:03Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I was told as a kid to just put money into index funds or individual
   stocks, leave them alone and never sell.”
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-22T15:20:00Z'

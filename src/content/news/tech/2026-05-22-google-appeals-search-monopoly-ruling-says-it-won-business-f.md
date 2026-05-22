@@ -5,7 +5,7 @@ countryCode: US
 description: Google officially filed its appeal of the federal ruling deeming it an
   illegal search monopolist, arguing the decision "crashed" through legal guardrails.
   "Google just prevailed…
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-22T16:28:56Z'

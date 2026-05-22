@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The fate of the president’s Republican critics shows that today’s GOP
   is a personality cult — nothing more
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-22T13:00:02Z'

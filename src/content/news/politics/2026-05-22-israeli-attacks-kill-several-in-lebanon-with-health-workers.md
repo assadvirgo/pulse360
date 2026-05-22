@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: More than 400 people have been killed since the ceasefire came into effect
   in mid-April.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-22T13:11:41Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Umansky isn’t sold on California’s proposed billionaire tax—warning that
   the initiative is shortsighted, and could end up doing more harm than good.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-22T09:01:00Z'

@@ -5,7 +5,7 @@ countryCode: RU
 description: Russia has accused Ukraine of carrying out a "monstrous crime" after
   an overnight drone attack on a school killed at least four and left 35 children
   wounded.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-22T09:33:00Z'
