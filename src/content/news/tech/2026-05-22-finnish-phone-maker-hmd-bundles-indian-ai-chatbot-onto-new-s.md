@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic
   languages
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-22T06:41:28Z'

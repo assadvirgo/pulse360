@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From a grotesque 230% valuation gap to a ticking energy crisis, this
   unstoppable market is more fragile than it looks.
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-22T01:23:00Z'

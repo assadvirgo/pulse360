@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Ankara court overturns results of leadership election won by Republican
   People&#039;s Party head Ozgur Ozel.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-22T01:25:07Z'

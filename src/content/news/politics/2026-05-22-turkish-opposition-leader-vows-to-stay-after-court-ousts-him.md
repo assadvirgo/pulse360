@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Turkiye’s main opposition leader Ozgur Ozel has vowed not to leave party
   headquarters.
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-22T04:46:23Z'

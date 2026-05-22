@@ -2,7 +2,7 @@
 category: Politics
 description: Hundreds of demonstrators gathered in Nuuk as the United States opened
   a new consulate in Greenland’s capital.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-22T01:49:02Z'

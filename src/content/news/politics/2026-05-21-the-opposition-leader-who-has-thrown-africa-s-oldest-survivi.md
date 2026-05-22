@@ -5,7 +5,7 @@ countryCode: ZA
 description: In 2012, Africa's oldest surviving political party expelled South African
   opposition leader Julius Malema for "bringing the party into disrepute" and "sowing
   internal divisions".…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-21T23:01:00Z'

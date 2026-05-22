@@ -5,7 +5,7 @@ countryCode: TH
 description: Thailand&#8217;s government arrived at this year&#8217;s Cannes Film
   Market with &#8220;The White Lotus&#8221; as its flagship example of how the kingdom&#8217;s
   filming…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-05-22T07:22:54Z'

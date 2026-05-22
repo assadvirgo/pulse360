@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As CEO NP Narvekar nears retirement Ivy League fund will have to reckon
   with expansion into sluggish private holdings
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-22T04:00:23Z'

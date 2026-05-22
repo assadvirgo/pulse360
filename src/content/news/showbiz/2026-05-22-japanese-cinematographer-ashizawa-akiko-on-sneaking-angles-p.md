@@ -5,7 +5,7 @@ countryCode: JP
 description: Ashizawa Akiko, a veteran of more than 70 features and one of the most
   accomplished cinematographers in the history of Japanese cinema, delivered a wide-ranging
   masterclass at the…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-22T08:39:21Z'
