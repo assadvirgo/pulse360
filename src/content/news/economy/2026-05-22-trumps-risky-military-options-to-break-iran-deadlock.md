@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From air strikes to a naval operation, the US president has no simple
   way to force Iran to yield
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-22T10:34:00Z'

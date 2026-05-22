@@ -2,7 +2,7 @@
 category: Economy
 description: Threat to code that underpins bitcoin has moved ‘from theoretical to
   credible’, industry figures warn
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-22T04:00:11Z'

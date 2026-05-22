@@ -5,7 +5,7 @@ countryCode: FR
 description: Italian filmmaker Dario Argento presented his new thriller trilogy at
   the Marché du Film&#8217;s Fantastic Pavilion in Cannes, where he was also honored
   with the genre hub&#8217;s…
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 67.8
 pubDate: '2026-05-22T12:09:57Z'

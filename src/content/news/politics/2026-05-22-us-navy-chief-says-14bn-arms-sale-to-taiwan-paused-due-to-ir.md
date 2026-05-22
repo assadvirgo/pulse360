@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hung Cao told a Senate hearing they were "doing a pause" on the sale
   to make sure they had munitions for the Iran war.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-22T08:12:47Z'

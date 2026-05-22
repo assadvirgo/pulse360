@@ -5,7 +5,7 @@ countryCode: GB
 description: British soldiers are fighting a Russian invasion from a platform on the
   London Underground in a wargame that reveals the UK must invest much more in defence
   - or risk defeat.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 74.0
 pubDate: '2026-05-22T11:36:00Z'

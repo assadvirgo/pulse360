@@ -5,7 +5,7 @@ countryCode: GB
 description: Stephen Bunting signs off his Premier League campaign in style as he
   overcomes Luke Humphries 6-3 in Sheffield to claim his second nightly win of the
   year.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-21T22:00:31Z'

@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Grieving relatives and friends of a suspected Ebola victim were prevented
   from taking his body for burial.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-22T08:21:13Z'

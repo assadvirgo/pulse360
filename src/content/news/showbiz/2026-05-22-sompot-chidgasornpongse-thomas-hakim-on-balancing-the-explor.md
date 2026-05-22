@@ -5,7 +5,7 @@ countryCode: TH
 description: 9 Temples To Heaven, the debut fiction title from Thai filmmaker Sompot
   Chidgasornpongse, was one of the most intriguing titles this year at Cannes, not
   least because of its…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-22T12:08:11Z'

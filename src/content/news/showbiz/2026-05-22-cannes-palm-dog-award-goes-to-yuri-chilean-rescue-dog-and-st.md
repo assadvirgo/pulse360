@@ -5,7 +5,7 @@ countryCode: CL
 description: The Palm Dog, Cannes&#8217; beloved, unofficial awards show celebrating
   the best canine performances across the official selection and various sidebars,
   has crowned its winner for…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-22T11:31:00Z'

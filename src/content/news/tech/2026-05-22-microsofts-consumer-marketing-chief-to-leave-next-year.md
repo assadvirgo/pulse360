@@ -5,7 +5,7 @@ countryCode: US
 description: Yusuf Mehdi, executive vice president and consumer chief marketing officer
   at Microsoft, is leaving the company after 35 years. Mehdi announced his departure
   in an internal memo…
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-22T10:57:07Z'

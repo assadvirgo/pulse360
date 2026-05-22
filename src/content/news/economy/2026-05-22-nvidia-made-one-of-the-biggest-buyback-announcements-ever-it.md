@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: There’s confidence in the business, but some analysts want to see it
   go higher.
-displayOrder: 22
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-22T12:32:00Z'

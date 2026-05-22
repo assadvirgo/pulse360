@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Police are seeking an arrest warrant for a YouTuber who allegedly fabricated
   evidence to defame actor Kim Soo-hyun.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 79.2
 pubDate: '2026-05-22T10:50:24Z'

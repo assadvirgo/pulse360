@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Twisha Sharma, a model and actor, had been married for just five months
   when she was found dead.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-22T11:41:23Z'
