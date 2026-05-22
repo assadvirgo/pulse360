@@ -5,7 +5,7 @@ countryCode: DE
 description: Bayern Munich goalkeeper Manuel Neuer comes out of international retirement
   to be named in Germany's squad for the 2026 World Cup, with manager Julian Nagelsmann
   saying the…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-21T12:39:54Z'

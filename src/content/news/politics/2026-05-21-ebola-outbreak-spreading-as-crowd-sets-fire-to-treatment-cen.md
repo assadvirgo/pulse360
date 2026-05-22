@@ -5,7 +5,7 @@ countryCode: CD
 description: Fears are growing that the Ebola outbreak in the Democratic Republic
   of Congo (DRC) is gathering momentum, as a treatment centre is set alight by an
   angry crowd.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-05-21T15:43:00Z'

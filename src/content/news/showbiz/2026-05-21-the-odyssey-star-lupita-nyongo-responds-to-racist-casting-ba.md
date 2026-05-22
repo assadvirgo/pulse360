@@ -5,7 +5,7 @@ countryCode: US
 description: Lupita Nyong&#8217;o is addressing the backlash to her casting as Helen
   of Troy in Christopher Nolan&#8217;s &#8220;The Odyssey.&#8221; Nyong&#8217;o plays
   Helen of Troy, the…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-21T20:08:08Z'

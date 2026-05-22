@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The party’s lack of unity caused party to haemorrhage voter confidence,
   according to the report’s author
-displayOrder: 39
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-21T19:31:18Z'

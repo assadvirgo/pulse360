@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The child fired a single shot at a teacher, who had to have surgery after
   the incident in 2023.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-21T16:20:36Z'

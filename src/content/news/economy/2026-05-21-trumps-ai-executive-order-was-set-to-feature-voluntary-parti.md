@@ -5,7 +5,7 @@ countryCode: US
 description: President Trump said Thursday that he had postponed a signing ceremony
   for the order because he “didn’t like certain aspects of it.” Here’s what’s going
   on.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T18:04:00Z'

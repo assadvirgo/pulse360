@@ -5,7 +5,7 @@ countryCode: NL
 description: 'Its name might be dull and uninspired, but the Philips 24B2D5300 Business
   Monitor brings a novel feature I''ve never seen on a display before: screens on
   either side. The design…'
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-21T19:36:00Z'
