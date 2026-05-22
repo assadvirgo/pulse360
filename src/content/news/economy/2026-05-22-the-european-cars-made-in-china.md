@@ -2,7 +2,7 @@
 category: Economy
 description: Western automakers are taking advantage of Chinese overcapacity to export
   lower-cost vehicles to their home markets
-displayOrder: 43
+displayOrder: 42
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-22T04:00:21Z'

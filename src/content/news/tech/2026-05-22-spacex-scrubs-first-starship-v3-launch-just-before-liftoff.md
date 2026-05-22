@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SpaceX fueled the third-generation rocket booster and ship and was just
   moments away from liftoff, before calling a scrub. It's expected to try again Friday.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-22T00:07:47Z'

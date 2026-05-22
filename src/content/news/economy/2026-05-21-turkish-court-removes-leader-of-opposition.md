@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: The country’s stocks fall 6% on move that could hobble President Recep
   Tayyip Erdoğan’s main rival
-displayOrder: 44
+displayOrder: 49
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-21T15:44:10Z'

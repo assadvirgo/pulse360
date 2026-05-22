@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The announcement comes a week after the Pentagon cancelled a planned
   deployment of 4,000 troops to the country.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-22T03:25:48Z'

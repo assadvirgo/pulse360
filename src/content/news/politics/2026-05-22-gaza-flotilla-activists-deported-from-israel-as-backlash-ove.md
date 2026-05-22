@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: A video showing a far-right Israeli minister taunting activists who were
   kneeling with their hands tied behind their backs has been widely condemned.
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 68.2
 pubDate: '2026-05-22T00:21:24Z'

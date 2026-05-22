@@ -2,7 +2,7 @@
 category: Politics
 description: The nonbinding ruling is expected to be hailed as a victory by workers&#039;
   groups and influence global labour relations.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 71.5
 pubDate: '2026-05-21T17:05:50Z'

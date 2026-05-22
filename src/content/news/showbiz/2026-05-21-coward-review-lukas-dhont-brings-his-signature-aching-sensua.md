@@ -5,7 +5,7 @@ countryCode: BE
 description: Even the manifold mudbaths and bloodbaths of the Western Front can&#8217;t
   do much to dirty up Lukas Dhont&#8217;s exactingly exquisite filmmaking in &#8220;Coward,&#8221;
   the…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-21T22:01:07Z'

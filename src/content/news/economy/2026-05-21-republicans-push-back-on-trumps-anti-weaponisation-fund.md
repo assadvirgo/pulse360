@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Senators postpone vote on bill because of ‘concern’ over the $1.8bn earmarked
   for alleged victims of ‘lawfare’
-displayOrder: 31
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-21T22:40:59Z'

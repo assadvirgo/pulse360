@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This article contains spoilers for the Season 5 finale
   of CBS&#8217; &#8220;Ghosts,&#8221; streaming on Paramount+ as of May 22. Is that
   it for Pete? The fan…'
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-05-22T02:00:00Z'

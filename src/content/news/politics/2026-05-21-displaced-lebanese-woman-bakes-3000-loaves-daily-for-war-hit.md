@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Soubhiye Zeiter vowed to feed people affected by war even after being
   displaced from her home.
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-21T18:04:14Z'

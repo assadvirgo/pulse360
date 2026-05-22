@@ -5,7 +5,7 @@ countryCode: CA
 description: In what is shaping up to become a very heated rivalry, the Motion Picture
   Association didn&#8217;t quite use the word socialism today over a Canadian regulatory
   move, but they got…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-22T02:07:42Z'

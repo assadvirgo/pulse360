@@ -3,7 +3,7 @@ category: Showbiz
 description: At a time when laws change daily to restrict women’s bodily autonomy,
   protect men from accountability and reinstate antiquated values that benefit a few
   at the expense of the…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-22T04:46:26Z'

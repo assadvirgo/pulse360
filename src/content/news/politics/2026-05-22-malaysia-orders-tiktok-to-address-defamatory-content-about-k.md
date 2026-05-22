@@ -4,7 +4,7 @@ country: Malaysia
 countryCode: MY
 description: Watchdog instructs social media giant to strengthen moderation following
   circulation of &#039;grossly offensive&#039; content.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-22T02:32:16Z'
