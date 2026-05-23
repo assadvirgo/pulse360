@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Isaiah Hartenstein and Alex Caruso were the final pieces of the Thunder's
   championship roster, playing specific roles to level up Oklahoma City.
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-23T01:02:01Z'

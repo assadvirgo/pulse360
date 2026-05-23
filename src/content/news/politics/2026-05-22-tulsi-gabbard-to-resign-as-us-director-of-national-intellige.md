@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gabbard who has been largely out of public view during recent US operations
   says she is leaving due to her husband's illness.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-22T20:30:26Z'

@@ -4,7 +4,7 @@ country: Slovenia
 countryCode: SI
 description: Approval of populist former leader is a shift for the EU country recently
   run by a liberal government.
-displayOrder: 13
+displayOrder: 32
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-22T19:42:20Z'

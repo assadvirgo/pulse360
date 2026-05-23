@@ -5,7 +5,7 @@ countryCode: US
 description: Grizzwald &#8216;Grizz&#8217; Chapman, the fan-favorite 30 Rock star
   who played Grizz on the NBC sitcom for its seven-season run, has died. He was 52.
   The actor&#8217;s longtime…
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-23T02:52:23Z'

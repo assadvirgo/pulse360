@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Protests have spiraled out of control and President Rodrigo Paz is facing
   demands to resign.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-22T20:29:37Z'

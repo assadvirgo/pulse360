@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Arsenal may have won the title, but the Premier League story is far from
   over with European spots and survival in play.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-22T22:15:14Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India and Pakistan remain publicly entrenched, even as unofficial voices
   push for renewed dialogue and restraint.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-23T04:11:31Z'

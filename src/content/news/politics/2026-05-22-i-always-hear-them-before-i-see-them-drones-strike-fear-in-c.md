@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Armed groups have taken the conflict to the skies by making greater use
   of cheap, widely available drone technology.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-05-22T18:49:40Z'

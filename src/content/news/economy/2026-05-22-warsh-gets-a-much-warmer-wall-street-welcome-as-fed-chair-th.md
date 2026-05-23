@@ -5,7 +5,7 @@ countryCode: US
 description: For only the 10th time in eight decades, a new Fed chair has been sworn
   in. Stocks are rising, as is historically typical, even if the last two swear-ins
   saw sharp selloffs.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-22T16:27:00Z'

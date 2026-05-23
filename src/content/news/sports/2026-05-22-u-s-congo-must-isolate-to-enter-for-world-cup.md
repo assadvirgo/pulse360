@@ -5,7 +5,7 @@ countryCode: US
 description: The Congo team must isolate for 21 days or risk the ability to enter
   the U.S. for the World Cup as the country deals with an outbreak of Ebola, Andrew
   Giuliani told ESPN on Friday.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-22T20:32:33Z'
