@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: President Xi Jinping has called on authorities nationwide to learn from
   the incident.
-displayOrder: 17
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-23T06:57:17Z'

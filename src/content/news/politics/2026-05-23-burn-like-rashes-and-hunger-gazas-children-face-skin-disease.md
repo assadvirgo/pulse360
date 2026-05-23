@@ -2,7 +2,7 @@
 category: Politics
 description: Overcrowded camps in Gaza see a surge in skin diseases. Children are
   most affected as healthcare services collapse.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-23T05:46:36Z'

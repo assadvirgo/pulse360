@@ -4,7 +4,7 @@ country: Sierra Leone
 countryCode: SL
 description: Those caught up in West Africa's Ebola outbreak a decade ago on how best
   to tackle the current epidemic.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-22T23:07:41Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Military capability depends increasingly on data centres. Now governments
   outpaced in AI are looking to experimental technologies
-displayOrder: 37
+displayOrder: 44
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-23T04:00:28Z'

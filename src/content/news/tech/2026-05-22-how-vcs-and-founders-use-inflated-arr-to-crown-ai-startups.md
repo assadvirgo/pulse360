@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some AI startups are stretching traditional revenue metrics when talking
   about progress publicly. And their investors are fully aware.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-22T20:40:48Z'

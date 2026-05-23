@@ -3,7 +3,7 @@ category: Showbiz
 description: Hunting season is upon us as a new season of Netflix&#8217;s hit sapphic
   murder mystery is in the can, with another on deck. The Hunting Wives star Dermot
   Mulroney, who plays Jed…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-23T02:04:20Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A long-running survey of how Americans feel about the economy sank to
   another all-time low — but not just because Democrats are furious at President Trump
   and his policies.
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 41.5
 pubDate: '2026-05-22T23:43:00Z'

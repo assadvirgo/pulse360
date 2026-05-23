@@ -5,7 +5,7 @@ countryCode: US
 description: Google's AI Overviews are running into an interesting problem right now.
   Earlier on Friday, if you searched for the term "disregard," the AI Overview section
   would include a…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-22T20:39:54Z'

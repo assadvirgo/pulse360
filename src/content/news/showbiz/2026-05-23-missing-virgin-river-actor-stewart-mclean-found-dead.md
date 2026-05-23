@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Canada's Integrated Homicide Investigation Team announced on Friday that
   McLean's remains were found in the Lions Bay area, per People.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-05-23T01:35:14Z'

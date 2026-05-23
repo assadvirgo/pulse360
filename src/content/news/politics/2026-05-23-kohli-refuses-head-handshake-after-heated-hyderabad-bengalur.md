@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Sunrisers Hyderabad beat Virat Kohli&#039;s Royal ​Challengers Bengaluru
   by 55 runs, leaving former India captain fuming.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-23T09:41:06Z'

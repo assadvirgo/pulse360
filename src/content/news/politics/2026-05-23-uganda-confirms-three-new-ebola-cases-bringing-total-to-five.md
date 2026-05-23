@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: The new cases include a driver who transported the country&#039;s first
   ⁠confirmed patient and a ​health worker.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-23T11:30:59Z'

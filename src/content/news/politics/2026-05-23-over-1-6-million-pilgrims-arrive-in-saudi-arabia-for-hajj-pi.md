@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: More than 1.6 million Muslim pilgrims have arrived in Saudi Arabia for
   the annual Hajj pilgrimage
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-23T04:20:04Z'

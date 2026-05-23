@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Midfielder Bruno Fernandes becomes the first Manchester United player
   to win the award since Nemanja Vidic in 2011.
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-23T10:53:34Z'
