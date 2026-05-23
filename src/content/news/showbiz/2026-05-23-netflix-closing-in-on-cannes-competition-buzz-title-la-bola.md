@@ -5,7 +5,7 @@ countryCode: FR
 description: Cannes Palme d’Or front runner La Bola Negra looks set to be acquired
   by Netflix for the U.S. in a record-breaking domestic deal for a non-English-language
   title in the $4-5…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-23T11:25:33Z'

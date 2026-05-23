@@ -5,7 +5,7 @@ countryCode: US
 description: 'SATURDAY AM: Those who&#8217;ve watched Lucasfilm/Disney&#8217;s Star
   Wars: The Mandalorian and Grogu are giving it an A- CinemaScore, the same grade
   as Solo: A Star Wars Story…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-23T15:35:00Z'

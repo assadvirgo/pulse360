@@ -5,7 +5,7 @@ countryCode: CA
 description: 'UPDATED on May 23, 2026: Canadian TV actor Stewart McLean&#8217;s remains
   have been positively identified one day after it was announced that a homicide victim
   thought to be the…'
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-23T16:05:39Z'

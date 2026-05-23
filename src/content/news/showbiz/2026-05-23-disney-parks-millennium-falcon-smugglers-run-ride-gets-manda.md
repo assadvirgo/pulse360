@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;This is the way.&#8221; After 18 months in the making, a brand
   new adventure tied to the release of &#8220;Star Wars: The Mandalorian and Grogu&#8221;
   has made its debut on…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-23T15:45:00Z'

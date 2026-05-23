@@ -5,7 +5,7 @@ countryCode: US
 description: Tom Ward, chief operating officer of Walmart's warehouse chain Sam's
   Club, is retiring, and Cedric Clark, Walmart's EVP of U.S. store operations, is
   leaving.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-05-22T22:19:27Z'

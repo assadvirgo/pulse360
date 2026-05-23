@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Supporters of Senegal’s ousted prime minister have rallied outside his
   home in Dakar.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-23T10:19:48Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: Mubi has taken North American rights to Lukas Dhont’s Coward for North
   America. The pic world premiered in competition at Cannes earlier this week to a
   13-minute standing ovation.…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-05-23T13:11:45Z'

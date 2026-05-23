@@ -2,7 +2,7 @@
 category: Economy
 description: Private equity funds own the same underperforming companies spooking
   the credit market — and their investors are in the crosshairs.
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-23T14:48:00Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The blast in Shanxi province constitutes the country's worst mining disaster
   in 16 years.
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-23T15:18:40Z'

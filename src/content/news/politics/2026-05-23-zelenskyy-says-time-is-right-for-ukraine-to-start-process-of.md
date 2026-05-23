@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: His comments come as Russia accuses Ukraine of killing 12 in an attack
   on a college.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-23T10:10:13Z'

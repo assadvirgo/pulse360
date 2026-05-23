@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It was all Canadiens in Game 1. Plus, highlights from Avs-Golden Knights
   Game 2 and updated playoff stats.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-23T16:57:58Z'
