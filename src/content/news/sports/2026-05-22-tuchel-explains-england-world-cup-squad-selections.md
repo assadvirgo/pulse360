@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England boss Thomas Tuchel said his job "isn't necessarily to select
   the 26 most talented players" as he explained his World Cup squad selections.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-22T11:03:00Z'

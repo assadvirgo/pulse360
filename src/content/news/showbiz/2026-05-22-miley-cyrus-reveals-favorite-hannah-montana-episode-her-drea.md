@@ -5,7 +5,7 @@ countryCode: US
 description: Hollywood is giving Miley Cyrus her flowers. On May 22, the Grammy winner
   and former Disney icon will receive a star on the Walk of Fame. The honor comes
   a couple months after the…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-22T15:30:00Z'

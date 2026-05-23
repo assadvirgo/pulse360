@@ -5,7 +5,7 @@ countryCode: US
 description: Director Jon Favreau&#160;knew there was a responsibility in being the
   director who would bring “Star Wars” back to movie theaters after seven years. Favreau
   told Variety, “People…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 67.8
 pubDate: '2026-05-22T20:10:00Z'

@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Thousands of people are protesting outside the US embassy in Havana to
   show their support for Raul Castro.
-displayOrder: 23
+displayOrder: 30
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-22T19:55:08Z'

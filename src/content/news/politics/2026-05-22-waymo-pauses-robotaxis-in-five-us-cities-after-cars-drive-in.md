@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A Waymo spokesperson said it had expanded the temporary pause "out of
   an abundance of caution".
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-22T16:10:21Z'

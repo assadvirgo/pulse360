@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A Ukrainian strike collapsed a five-storey college dormitory in the Russian-occupied
   city of Starobilsk, killing four.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-22T14:51:32Z'

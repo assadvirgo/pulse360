@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Martin O'Neill's Celtic and Neil Lennon's Dunfermline Athletic go head-to-head
   in Saturday's Scottish Cup final. Here are all the key details.
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-22T16:29:15Z'

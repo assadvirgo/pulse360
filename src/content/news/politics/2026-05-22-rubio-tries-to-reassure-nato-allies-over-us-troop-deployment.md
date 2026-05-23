@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump says he wants to send more troops to Poland, a
   week after his officials cancelled a similar deployment.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-22T15:18:30Z'

@@ -5,7 +5,7 @@ countryCode: CD
 description: The Ebola outbreak in the Democratic Republic of Congo (DRC) is "spreading
   rapidly", the director-general of the World Health Organisation (WHO) has said,
   as UK scientists work on…
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 74.0
 pubDate: '2026-05-22T14:05:00Z'

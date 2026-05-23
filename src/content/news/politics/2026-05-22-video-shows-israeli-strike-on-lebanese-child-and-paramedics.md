@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Video shows an Israeli air strike hitting paramedics responding to an
   earlier attack in southern Lebanon.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-22T17:04:08Z'
