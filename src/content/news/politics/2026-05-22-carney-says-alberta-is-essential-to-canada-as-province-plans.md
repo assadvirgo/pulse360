@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Alberta's decision to hold a referendum on separation has been widely
   criticised, including by separatists who say the question is not definitive enough.
-displayOrder: 16
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-22T20:59:28Z'

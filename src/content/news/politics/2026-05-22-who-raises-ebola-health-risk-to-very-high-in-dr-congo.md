@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Provincial gov&#039;t in Ituri province, the epicentre of the outbreak,
   has banned public gatherings to stop spread of virus.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-22T15:19:04Z'

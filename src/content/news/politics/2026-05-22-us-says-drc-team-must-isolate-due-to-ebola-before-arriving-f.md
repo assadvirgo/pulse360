@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: DR Congo play their first World Cup 2026 game against Portugal on June
   17 in Houston, but must isolate first.
-displayOrder: 26
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-22T18:18:26Z'

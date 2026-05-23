@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A US judge has dismissed a criminal case against a man who was wrongfully
   deported to El Salvador by the Trump administration last year.
-displayOrder: 14
+displayOrder: 19
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-22T22:10:00Z'

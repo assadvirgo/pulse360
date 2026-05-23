@@ -3,7 +3,7 @@ category: Politics
 country: Poland
 countryCode: PL
 description: Poland&#039;s right-wing president has welcomed Trump&#039;s announcement.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-22T14:44:07Z'

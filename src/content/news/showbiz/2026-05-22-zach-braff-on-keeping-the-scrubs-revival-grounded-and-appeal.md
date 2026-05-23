@@ -5,7 +5,7 @@ countryCode: US
 description: Zach Braff remembers the moment that the original run of &#8220;Scrubs&#8221;
   might have veered too far in its flights of fancy. &#8220;There&#8217;s an episode
   where JD and Turk…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-22T22:00:00Z'

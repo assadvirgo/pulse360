@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The rare species of Ebola involved - known as Bundibugyo - kills around
   a third of those infected and has no proven vaccine yet.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-22T15:03:51Z'

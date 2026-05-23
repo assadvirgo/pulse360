@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President says senators who object to his $1.8bn fund for alleged victims
   of ‘lawfare’ are ‘screwing the Republican Party’
-displayOrder: 19
+displayOrder: 30
 heroImage: ''
 importance: 69.5
 pubDate: '2026-05-22T15:38:38Z'

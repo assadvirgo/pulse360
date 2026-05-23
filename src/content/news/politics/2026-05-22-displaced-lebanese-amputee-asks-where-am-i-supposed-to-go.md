@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Mohamad Saaydoun, an amputee displaced by the latest Israel-Hezbollah
   war, is living in a makeshift camp.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-22T19:09:05Z'

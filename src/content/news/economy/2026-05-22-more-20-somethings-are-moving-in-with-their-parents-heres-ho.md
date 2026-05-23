@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As the class of 2026 looks toward the future after securing their diplomas,
   some are preparing to move from their dorm room back to their childhood bedroom.
-displayOrder: 47
+displayOrder: 46
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-22T19:44:00Z'

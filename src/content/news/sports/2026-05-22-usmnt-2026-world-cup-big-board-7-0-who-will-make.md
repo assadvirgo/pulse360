@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On Tuesday, Mauricio Pochettino will announce his squad for the World
   Cup, which kicks off on June 11. Which 26 players will be on the coach's list?
-displayOrder: 6
+displayOrder: 11
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-22T20:34:44Z'

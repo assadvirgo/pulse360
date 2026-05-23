@@ -2,7 +2,7 @@
 category: Economy
 description: There’s a new warning from the commodity market about the risks of a
   delayed reopening of the Strait of Hormuz.
-displayOrder: 20
+displayOrder: 26
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-22T19:40:00Z'

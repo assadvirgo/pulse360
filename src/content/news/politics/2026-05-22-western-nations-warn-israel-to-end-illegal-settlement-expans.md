@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Nine countries including UK, Germany and France warn settlements in occupied
   West Bank a &#039;breach of international law&#039;.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-22T15:58:42Z'
