@@ -5,7 +5,7 @@ countryCode: US
 description: Last year I deepfaked my kid's stuffed animal to make it look like his
   plush deer was on vacation. It was an experiment to see if I could re-create the
   events depicted in a Gemini…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-23T11:00:00Z'

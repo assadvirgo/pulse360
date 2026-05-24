@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Corporate profits can’t fix a chaotic trade war with China, climbing
   credit premiums and AI infrastructure limits.
-displayOrder: 25
+displayOrder: 33
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-23T18:17:00Z'

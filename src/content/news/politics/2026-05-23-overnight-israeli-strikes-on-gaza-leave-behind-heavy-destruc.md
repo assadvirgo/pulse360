@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Overnight Israeli strikes devastated the Nuseirat and Bureij refugee
   camps in central Gaza despite an ongoing ceasefire.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-23T15:53:50Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: Quiet on the surface, Cannes 2026 exposed the fault lines reshaping cinema
   — from the evolving indie ecosystem and the studios’ festival retreat to the industry’s
   uneasy embrace…
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-23T22:24:11Z'

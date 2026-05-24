@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Hull City beat Middlesbrough 1-0 in Championship playoff final at Wembley
   to seal promotion and ease spy-gate scandal.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 55.5
 pubDate: '2026-05-23T17:18:55Z'

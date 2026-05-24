@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Deep Fission is seeking an IPO that could raise $157 million, though
   investors may have trouble buying the nuclear startup's story.
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-23T14:50:00Z'

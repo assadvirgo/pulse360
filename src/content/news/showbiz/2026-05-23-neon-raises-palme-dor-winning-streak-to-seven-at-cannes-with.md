@@ -5,7 +5,7 @@ countryCode: FR
 description: U.S. theatrical distributor Neon continued to make history at Cannes
   tonight with its seventh straight Palme d&#8217;Or win for Christian Mungiu&#8217;s
   Fjord. Fjord marks…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-05-23T19:43:12Z'

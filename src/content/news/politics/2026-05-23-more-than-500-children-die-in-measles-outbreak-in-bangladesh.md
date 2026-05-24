@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: Most cases recorded by doctors among children aged between six months
   and five years.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-23T15:42:05Z'

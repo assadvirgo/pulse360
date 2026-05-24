@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa&#039;s Mamelodi Sundowns are seeking to end a below-par
   season on a high when they face AS FAR Rabat in Morocco.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 64.5
 pubDate: '2026-05-23T15:48:44Z'

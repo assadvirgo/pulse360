@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: JP Morgan Chase CEO warned of credit-market ‘cockroaches.’ But opaque
   AI loans and excessive leverage — ‘credit termites’ — are hollowing out the economy.
-displayOrder: 39
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-23T17:58:00Z'

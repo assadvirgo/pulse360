@@ -5,7 +5,7 @@ countryCode: JP
 description: Crunchyroll celebrated the 10th edition of its Anime Awards on Saturday
   in Tokyo, honoring this year&#8217;s winners, who were chosen from 73 million votes
   globally. Hosted by…
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 67.0
 pubDate: '2026-05-23T22:36:24Z'

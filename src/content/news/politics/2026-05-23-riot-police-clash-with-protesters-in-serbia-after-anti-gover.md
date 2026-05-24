@@ -4,7 +4,7 @@ country: Serbia
 countryCode: RS
 description: Clashes broke out in Belgrade after tens of thousands of people protested
   against Serbia's government.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-05-23T19:19:00Z'
