@@ -5,7 +5,7 @@ countryCode: FR
 description: A knee injury may have kept Barbra Streisand away from Cannes this year,
   but it wasn&#8217;t enough to stop her sending a special video message for the festival&#8217;s
   closing…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-23T18:59:28Z'

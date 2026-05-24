@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Thousands rally in Taipei backing higher defence spending after US pauses
   $14 billion arms sale to Taiwan.
-displayOrder: 29
+displayOrder: 35
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-23T17:14:15Z'

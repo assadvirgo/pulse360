@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Police in Switzerland are investigating a home invasion in which four-time
   Formula 1 world champion Alain Prost was reportedly injured.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-23T13:10:00Z'

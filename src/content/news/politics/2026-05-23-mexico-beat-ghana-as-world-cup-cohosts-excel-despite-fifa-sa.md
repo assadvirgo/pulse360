@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Parts of the Puebla stadium for high-profile warm-up for 2026 edition
   were closed to spectators due to FIFA sanctions.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-23T09:26:21Z'

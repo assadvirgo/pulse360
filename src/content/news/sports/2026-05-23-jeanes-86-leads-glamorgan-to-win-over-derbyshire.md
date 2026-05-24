@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Daisy Jeanes makes 86 as Glamorgan secure their second Vitality Blast
   Division Two victory, defeating Derbyshire by 92 runs.
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-23T17:34:33Z'

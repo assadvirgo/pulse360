@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I haven’t bought or sold property since the National Association of
   Realtors ruling that decoupled buyer’s and seller’s agent commissions.”
-displayOrder: 39
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-23T15:06:00Z'

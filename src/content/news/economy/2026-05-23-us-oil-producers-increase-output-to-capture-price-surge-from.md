@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Drilling expansion follows 40 per cent jump in cost from global supply
   crunch that has dented president’s approval ratings
-displayOrder: 38
+displayOrder: 45
 heroImage: ''
 importance: 55.5
 pubDate: '2026-05-23T11:00:07Z'

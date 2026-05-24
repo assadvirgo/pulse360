@@ -5,7 +5,7 @@ countryCode: RO
 description: Cristian Mungiu&#8217;s complex moral drama &#8220;Fjord,&#8221; starring
   Sebastian Stan and Renate Reinsve, has won the Palme d&#8217;Or for best film at
   the Cannes Film…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-23T18:11:02Z'

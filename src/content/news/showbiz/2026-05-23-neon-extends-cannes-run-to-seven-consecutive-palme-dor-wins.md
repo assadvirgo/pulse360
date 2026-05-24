@@ -5,7 +5,7 @@ countryCode: FR
 description: Cristian Mungiu claimed his second Palme d&#8217;Or at the Cannes Film
   Festival on Saturday night, as &#8220;Fjord&#8221; brought Neon its seventh consecutive
   top prize from the…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-23T20:05:59Z'

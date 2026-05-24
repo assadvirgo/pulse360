@@ -5,7 +5,7 @@ countryCode: US
 description: Back in 2019, when writer and director Jon Favreau asked composer Ludwig
   Göransson to score “The Mandalorian” TV series for Disney+, Göransson used new tools
   and introduced a new…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-23T18:30:50Z'

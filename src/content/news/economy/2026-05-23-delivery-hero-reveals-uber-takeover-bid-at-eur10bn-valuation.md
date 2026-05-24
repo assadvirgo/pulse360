@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: German food group has also been approached by rival DoorDash, people
   familiar with the situation said
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-23T17:35:44Z'
