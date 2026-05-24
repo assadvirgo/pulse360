@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The proposed US-Iran peace deal seeks to reopen the strategically vital
   Strait of Hormuz amid lingering disagreements.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-24T09:37:52Z'

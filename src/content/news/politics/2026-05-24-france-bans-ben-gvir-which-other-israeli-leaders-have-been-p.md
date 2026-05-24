@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France bans the Israeli far-right minister after his &#039;unspeakable&#039;
   behaviour against arrested Gaza flotilla activists.
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-24T14:01:27Z'

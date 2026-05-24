@@ -5,7 +5,7 @@ countryCode: US
 description: The third — and likely final — season of “Euphoria” is a case study in
   excess. It is the Artemis II of TV shows, going so far over the top it passes the
   Moon before crashing back…
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-24T14:00:00Z'

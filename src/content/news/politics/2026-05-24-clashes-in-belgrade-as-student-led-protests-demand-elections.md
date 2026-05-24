@@ -4,7 +4,7 @@ country: Serbia
 countryCode: RS
 description: Demonstrators challenge President Vucic’s rule and demand elections,
   justice and rule of law.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-24T11:48:02Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The Oreshnik missile, which reportedly travels over 10 times the speed
   of sound, was used, according to Volodymyr Zelensky.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-24T08:22:58Z'

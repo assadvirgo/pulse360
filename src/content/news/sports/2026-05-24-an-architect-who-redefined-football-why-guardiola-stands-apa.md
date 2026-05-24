@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Pep Guardiola undoubtedly belongs among football's greatest managers,
   but Spanish football expert Guillem Balague explores why he stands apart.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-24T05:57:50Z'

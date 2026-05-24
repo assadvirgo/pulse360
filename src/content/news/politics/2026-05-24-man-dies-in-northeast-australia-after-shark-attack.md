@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy
   Shoal, but died shortly afterwards.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-24T07:13:57Z'

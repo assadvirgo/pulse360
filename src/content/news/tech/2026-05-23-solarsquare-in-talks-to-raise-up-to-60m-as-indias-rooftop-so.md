@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: SolarSquare could be valued at up to $500 million in the financing expected
   to close next month.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-05-23T20:03:13Z'

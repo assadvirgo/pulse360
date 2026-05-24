@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iranian news agency says deal could see shipping levels through Strait
   of Hormuz return to pre-war levels within weeks.
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-24T10:01:44Z'

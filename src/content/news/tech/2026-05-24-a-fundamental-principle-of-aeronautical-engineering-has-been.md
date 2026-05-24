@@ -2,7 +2,7 @@
 category: Tech
 description: It's long been accepted that the smoother the surface, the lower the
   aerodynamic drag. That turns out not always to be the case.
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-24T08:30:00Z'

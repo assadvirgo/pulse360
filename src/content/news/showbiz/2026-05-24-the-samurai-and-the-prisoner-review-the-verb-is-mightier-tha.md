@@ -5,7 +5,7 @@ countryCode: JP
 description: The director of 'Cloud' and 'Cure' returns to Cannes with a period piece
   set in 16th-century feudal Japan, when warring samurai clans fought for control
   of the land.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-24T13:59:25Z'

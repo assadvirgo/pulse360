@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Security forces were met by resistance while attempting to clear highway
   barriers, amid unrest over the government's economic policies.
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-24T11:42:48Z'

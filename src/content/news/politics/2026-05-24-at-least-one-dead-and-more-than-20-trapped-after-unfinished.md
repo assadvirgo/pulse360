@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: At least one person has died after an unfinished building collapsed in
   the Philippines, authorities in the country have said.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-24T09:42:00Z'
