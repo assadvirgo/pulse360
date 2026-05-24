@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: An unfinished nine-storey building collapsed near Manila early on Sunday,
   with 19 workers feared trapped
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-24T04:49:21Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump had been in the executive mansion before witnesses reported
   hearing dozens of shots
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 52.5
 pubDate: '2026-05-23T23:50:07Z'

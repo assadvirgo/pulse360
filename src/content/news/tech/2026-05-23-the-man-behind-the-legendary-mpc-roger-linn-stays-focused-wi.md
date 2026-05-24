@@ -5,7 +5,7 @@ countryCode: US
 description: Roger Linn is a legend in the world of musical instruments. He's been
   at the cutting edge of music technology for decades. He created the LM-1, the first
   drum machine to use…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-23T15:00:00Z'

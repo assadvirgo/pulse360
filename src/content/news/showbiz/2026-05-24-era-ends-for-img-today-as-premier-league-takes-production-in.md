@@ -5,7 +5,7 @@ countryCode: GB
 description: When IMG&#8217;s Barney Francis and John Hollywood join Deadline for
   a virtual interview, they&#8217;ve just left a monthly &#8216;Premier League Huddle&#8217;
   – a get-together…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-05-24T09:01:09Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Mindless generational labels don’t help at a time when the workplace
   is one of the few places where young and old mix
-displayOrder: 44
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-24T03:00:04Z'

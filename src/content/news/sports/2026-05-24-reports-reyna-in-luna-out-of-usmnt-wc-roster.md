@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: USMNT coach Mauricio Pochettino has selected his 26-man roster for the
   upcoming World Cup, with Gio Reyna among those included, sources confirmed to ESPN.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-24T09:11:18Z'

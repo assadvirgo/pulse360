@@ -3,7 +3,7 @@ category: Showbiz
 country: Canada
 countryCode: CA
 description: Catch the Canadian GP live in the U.S. — race day is on Sunday, May 24.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-05-24T10:00:00Z'

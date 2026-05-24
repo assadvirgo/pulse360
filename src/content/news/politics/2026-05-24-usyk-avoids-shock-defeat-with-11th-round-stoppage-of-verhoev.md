@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: The world heavyweight champion is pushed by the former Dutch kickboxer
   to 11 rounds in Egypt.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-24T06:26:04Z'

@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Rescuers have been searching for more than 20 people feared trapped under
   the rubble after a building collapsed in the Philippines.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-24T09:42:00Z'

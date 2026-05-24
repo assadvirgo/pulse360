@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Separatist group claims responsibility for attack in capital of restive
   south-western Balochistan province
-displayOrder: 32
+displayOrder: 38
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-24T11:26:55Z'

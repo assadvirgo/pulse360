@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Mohammad Abu Mallouh, ​Alaa Zaqlan and their child, Osama, killed in
   the attack on Nuseirat refugee camp, medics say.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-24T11:41:58Z'

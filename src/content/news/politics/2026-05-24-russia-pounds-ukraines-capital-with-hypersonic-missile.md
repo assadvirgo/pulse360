@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia pounded Ukraine’s capital overnight on Saturday with drones and
   ballistic missiles.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-24T09:20:47Z'
