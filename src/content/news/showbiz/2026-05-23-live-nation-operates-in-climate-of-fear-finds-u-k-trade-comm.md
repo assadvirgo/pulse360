@@ -5,7 +5,7 @@ countryCode: GB
 description: The U.K.’s Parliamentary trade committee has urged the Competition and
   Markets Authority to investigate the live music industry as a matter of urgency,
   saying that Live Nation…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 66.8
 pubDate: '2026-05-23T23:01:00Z'

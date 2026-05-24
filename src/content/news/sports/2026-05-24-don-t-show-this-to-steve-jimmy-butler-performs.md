@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Warriors star jumps around on stage showing that his ACL injury seems
   to be healing well.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 52.5
 pubDate: '2026-05-24T01:34:04Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Who's getting paid this summer -- and how much? Bobby Marks examines
   the free agency future of 20 players, starting with the NBA's leading career scorer.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-24T01:09:08Z'

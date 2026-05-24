@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The 39-year-old was fatally injured while swimming out at a shoal off
   the Cassowary Coast in Queensland.
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-24T07:12:37Z'

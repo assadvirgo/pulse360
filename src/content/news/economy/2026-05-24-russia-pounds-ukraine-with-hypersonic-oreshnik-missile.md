@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Capital rocked by explosions after Ukrainian leader Volodymyr Zelenskyy
   warned of imminent large-scale attack
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-24T08:06:32Z'

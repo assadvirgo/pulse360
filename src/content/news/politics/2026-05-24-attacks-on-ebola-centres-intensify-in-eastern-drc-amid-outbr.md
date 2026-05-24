@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Anger and mistrust growing over Ebola burials as traditions clash with
   medical response to prevent spread.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-24T07:29:21Z'

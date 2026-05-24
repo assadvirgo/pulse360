@@ -4,7 +4,7 @@ country: Romania
 countryCode: RO
 description: This marks the second time that Romanian director Cristian Mungiu has
   won the prestigious prize.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-05-23T20:35:17Z'

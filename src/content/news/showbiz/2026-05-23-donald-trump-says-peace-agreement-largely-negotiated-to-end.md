@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump said that a peace agreement with Iran has been &#8220;largely
   negotiated&#8221; to end the war and reopen the Strait of Hormuz. The president&#8217;s
   announcement on…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 81.0
 pubDate: '2026-05-23T21:33:08Z'

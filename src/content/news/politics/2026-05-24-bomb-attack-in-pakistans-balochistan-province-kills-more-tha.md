@@ -3,7 +3,7 @@ category: Politics
 country: Pakistan
 countryCode: PK
 description: The Balochistan Liberation Army has claimed responsibility for the attack.
-displayOrder: 13
+displayOrder: 22
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-24T08:21:58Z'

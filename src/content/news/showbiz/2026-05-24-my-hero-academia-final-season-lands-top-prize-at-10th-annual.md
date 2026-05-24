@@ -5,7 +5,7 @@ countryCode: JP
 description: '&#8220;My Hero Academia Final Season&#8221; took home the top prize
   for Anime of the Year at the 10th Crunchyroll Anime Awards, held on Saturday, May
   23, in Tokyo. Voice actress…'
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 72.8
 pubDate: '2026-05-24T05:23:07Z'

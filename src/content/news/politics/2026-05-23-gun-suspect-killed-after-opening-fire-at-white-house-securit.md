@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The suspect in a shooting near the White House has died after being shot
   by police officers, according to the US Secret Service (USSS).
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-05-23T22:39:00Z'

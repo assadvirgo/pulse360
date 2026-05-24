@@ -3,7 +3,7 @@ category: Tech
 description: There isn't really a solid equivalent to Goodreads or Letterboxd for
   music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music,
   but its interface is…
-displayOrder: 26
+displayOrder: 43
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-23T22:41:11Z'

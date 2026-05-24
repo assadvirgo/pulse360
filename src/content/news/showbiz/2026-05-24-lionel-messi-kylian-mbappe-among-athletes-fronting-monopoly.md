@@ -3,7 +3,7 @@ category: Showbiz
 description: The merch rollout for the 2026 FIFA World Cup has started, with Hasbro
   unveiling two new Monopoly collaborations with the global soccer tournament. The
   first is a collaboration…
-displayOrder: 19
+displayOrder: 30
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-24T05:31:21Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: At its annual meeting this week, the German lender’s long-suffering shareholders
   finally had something to cheer
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-24T04:00:16Z'

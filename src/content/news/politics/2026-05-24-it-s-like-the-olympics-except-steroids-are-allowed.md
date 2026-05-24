@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The first ever Enhanced Games are taking place this weekend in Las Vegas,
   with big names, big money and much controversy.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-24T04:46:07Z'
