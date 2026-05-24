@@ -5,7 +5,7 @@ countryCode: FR
 description: Cannes&#8217; jury president, Park Chan-wook — long a Cannes favorite,
   never a Palme winner — managed to roast himself and plug his latest movie at the
   closing press conference of…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-05-24T00:04:30Z'

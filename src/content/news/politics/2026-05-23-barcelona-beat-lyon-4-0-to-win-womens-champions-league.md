@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona claim their fourth trophy of the season by beating Lyon 4-0
   in Norway in the Women&#039;s Champions League final.
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 55.5
 pubDate: '2026-05-23T18:10:34Z'

@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: Morocco jailed 18 Senegal fans following fan disturbances at the Africa
   Cup of Nations final in January.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-23T17:53:57Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: The Berlin Film Festival has demonstrated reticence about addressing
   geopolitical matters, but Cannes leader Thierry Frémaux is showing no such hesitation,
   at least as regards the…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 77.0
 pubDate: '2026-05-23T18:04:10Z'

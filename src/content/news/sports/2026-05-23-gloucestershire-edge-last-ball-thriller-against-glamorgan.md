@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Gloucestershire secured their second victory in two days as they beat
   Glamorgan with a final ball boundary.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-23T21:34:11Z'
