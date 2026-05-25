@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Fresh from its world premiere in the Midnight Screenings section of the
   Cannes Film Festival, Yeon Sang-ho&#8217;s action-horror zombie extravaganza &#8220;Colony&#8221;…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-05-25T07:45:23Z'

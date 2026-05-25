@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Mexico City unveiled a mural that earned a Guinness World Record ahead
   of the 2026 World Cup.
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 65.5
 pubDate: '2026-05-25T03:51:04Z'

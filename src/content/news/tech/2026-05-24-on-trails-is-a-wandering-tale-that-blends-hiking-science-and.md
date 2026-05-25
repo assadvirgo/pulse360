@@ -3,7 +3,7 @@ category: Tech
 description: Hiking is one of life's great joys. Turning off the screens and stepping
   out into nature for an extended period of time, perhaps even several days, is rejuvenating.
   Unfortunately,…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-24T15:15:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The American Music Awards 2026 are set to celebrate the best in music
   with a live event from the MGM Grand Garden Arena in Las Vegas. Taylor Swift leads
   the nominations for the…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-25T02:50:00Z'

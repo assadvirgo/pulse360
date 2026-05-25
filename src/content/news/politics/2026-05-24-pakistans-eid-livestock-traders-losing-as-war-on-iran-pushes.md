@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Livestock traders in Pakistan say the war on Iran has hurt their sales
   ahead of Eid al-Adha.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-24T21:03:51Z'

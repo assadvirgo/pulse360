@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump purges Republican critics, but are the prospects for his party
   in upcoming elections heading up or down?
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-24T19:30:00Z'

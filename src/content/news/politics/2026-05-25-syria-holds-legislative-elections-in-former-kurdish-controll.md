@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Al Jazeera’s Heidi Pett reports on the Syrian legislative elections in
   Hasakah and the town of Kobane.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-25T01:29:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: EU state aid has increased. Will that fend off China or fragment the
   single market?
-displayOrder: 44
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-25T04:00:06Z'

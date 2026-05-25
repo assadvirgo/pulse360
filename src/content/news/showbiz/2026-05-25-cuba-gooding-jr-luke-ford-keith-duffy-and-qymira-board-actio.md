@@ -3,7 +3,7 @@ category: Showbiz
 description: Hong Kong-based ACT3 and Philippine production company Blackops Studios
   Asia have set Cuba Gooding Jr., Luke Ford, Keith Duffy and multimedia artist Qymira
   in &#8220;Lotus,&#8221;…
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 47.8
 pubDate: '2026-05-25T08:32:56Z'

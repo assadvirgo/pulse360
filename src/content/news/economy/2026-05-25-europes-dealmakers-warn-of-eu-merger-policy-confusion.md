@@ -2,7 +2,7 @@
 category: Economy
 description: Mixed messages from top EU officials cloud promised overhaul of competition
   rules
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-25T04:00:06Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Victor Wembanyama stars as the San Antonio Spurs defeat the Oklahoma
   City Thunder to level the Western Conference finals.
-displayOrder: 13
+displayOrder: 30
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-25T06:00:22Z'

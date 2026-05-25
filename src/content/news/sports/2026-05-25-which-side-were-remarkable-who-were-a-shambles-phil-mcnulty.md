@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport chief football writer Phil McNulty reviews every team's Premier
   League - and looks back at his pre-season predictions.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-25T08:10:33Z'

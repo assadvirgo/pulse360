@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: For nearly 20 years, Mario Habib has run a barbershop through wars, economic
   collapse and political crisis in Lebanon.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-24T21:40:40Z'

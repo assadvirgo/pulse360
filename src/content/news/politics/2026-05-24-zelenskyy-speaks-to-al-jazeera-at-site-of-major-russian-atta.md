@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia has launched one of its largest attacks on Kyiv since the war
   began, firing hundreds of drones and missiles.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-24T18:22:54Z'

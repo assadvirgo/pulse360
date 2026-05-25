@@ -2,7 +2,7 @@
 category: Showbiz
 description: A stunning 73 million anime fans from around the world voted for the
   the 10th edition of the awards
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-25T04:31:41Z'

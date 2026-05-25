@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Average daily trading volume on Tokyo Stock Exchange’s prime market almost
   doubles in 12 months
-displayOrder: 45
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-25T01:07:28Z'

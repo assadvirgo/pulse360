@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pressure is mounting with fuel prices driven 50% higher by Strait of
   Hormuz blockade
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-25T04:00:18Z'
