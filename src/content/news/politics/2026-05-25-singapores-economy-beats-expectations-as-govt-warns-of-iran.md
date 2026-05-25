@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: GDP grows 6 percent year-on-year in first quarter as AI boom outweighs
   rising energy costs.
-displayOrder: 10
+displayOrder: 31
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-25T06:40:08Z'

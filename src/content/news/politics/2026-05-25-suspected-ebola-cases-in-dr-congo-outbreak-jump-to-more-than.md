@@ -5,7 +5,7 @@ countryCode: CD
 description: The number of suspected Ebola cases has jumped to more than 900 in the
   Democratic Republic of Congo (DRC), where authorities are struggling to contain
   an outbreak.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-25T06:24:00Z'

@@ -5,7 +5,7 @@ countryCode: CN
 description: China has launched the Shenzhou 23 rocket into space carrying three astronauts,
   in a mission that will take Beijing closer to its ambition for a moon landing in
   2030.
-displayOrder: 8
+displayOrder: 26
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-25T12:00:00Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: From “The 400 Blows” to “The Florida Project,” kids have made fascinating
   cinematic subjects. Even if they’re working from scripts, there’s always the sense
   that they’re not…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-05-25T08:24:32Z'

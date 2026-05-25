@@ -5,7 +5,7 @@ countryCode: FR
 description: 'Every Cannes Film Festival needs a film like “De Gaulle: Résistance,”
   a proudly French and massively scaled production with the energy of a vintage Hollywood
   blockbuster. Indeed,…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-25T07:25:41Z'

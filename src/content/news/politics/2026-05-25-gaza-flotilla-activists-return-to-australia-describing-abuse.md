@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australian activists from the Gaza-bound aid flotilla have arrived back
   in Sydney, reuniting with loved ones.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-25T07:16:14Z'

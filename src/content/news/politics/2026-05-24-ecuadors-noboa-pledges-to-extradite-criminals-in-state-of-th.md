@@ -4,7 +4,7 @@ country: Ecuador
 countryCode: EC
 description: The right-wing president highlighted anti-crime operations and economic
   progress, while critics warned of abuses.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-05-24T22:04:28Z'

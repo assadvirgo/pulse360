@@ -2,7 +2,7 @@
 category: Tech
 description: Shark makes some seriously powerful vacuums, from handheld vacs to steam
   mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-25T05:00:00Z'

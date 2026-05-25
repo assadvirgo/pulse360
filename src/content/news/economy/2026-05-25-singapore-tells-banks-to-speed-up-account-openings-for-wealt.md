@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: Regulator tries to strengthen city-state’s position as wealth hub after
   money-laundering cases lengthened wait times
-displayOrder: 38
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-25T05:55:35Z'

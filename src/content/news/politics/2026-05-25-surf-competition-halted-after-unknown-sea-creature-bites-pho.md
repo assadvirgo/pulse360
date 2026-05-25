@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: A photographer has been bitten by a "shark or a sea lion" during the
   finals for a World Surf League (WSL) competition in New Zealand. &#160;
-displayOrder: 9
+displayOrder: 27
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-25T08:30:00Z'

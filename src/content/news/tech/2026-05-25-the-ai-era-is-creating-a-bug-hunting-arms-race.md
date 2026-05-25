@@ -2,7 +2,7 @@
 category: Tech
 description: As attackers ramp up their AI exploit development, the search for software
   vulnerabilities is changing rapidly.
-displayOrder: 2
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-25T10:30:00Z'
