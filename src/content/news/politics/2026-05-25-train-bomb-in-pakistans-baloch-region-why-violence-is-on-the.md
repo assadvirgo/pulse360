@@ -3,7 +3,7 @@ category: Politics
 country: Pakistan
 countryCode: PK
 description: Deadly blast in Pakistan marks uptick in Balochistan separatist violence.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-25T15:43:21Z'

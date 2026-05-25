@@ -5,7 +5,7 @@ countryCode: US
 description: 'MONDAY AM UPDATE: The last time a Star Wars movie under Disney ownership
   registered a low opening, it was 2018&#8217;s Solo: A Star Wars Story with an $84M
   3-day, $103M 4-day and…'
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-25T16:34:25Z'

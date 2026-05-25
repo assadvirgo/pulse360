@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Antonelli finished more than 10 seconds ahead of Ferrari’s Hamilton,
   who secured his second podium finish in 2026.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-25T06:30:37Z'

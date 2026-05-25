@@ -5,7 +5,7 @@ countryCode: US
 description: The 2026 American Music Awards will air live on May 25 at 8 p.m. ET /
   5 p.m. PT on CBS and Paramount+. Cable-cutters can also stream the ceremony live
   on DirecTV and Hulu + Live…
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-25T16:00:00Z'

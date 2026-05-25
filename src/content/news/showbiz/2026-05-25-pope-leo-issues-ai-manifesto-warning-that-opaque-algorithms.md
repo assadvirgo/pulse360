@@ -3,7 +3,7 @@ category: Showbiz
 description: Pope Leo XIV on Monday launched an impassioned call for regulation of
   Artificial Intelligence, warning that &#8220;opaque algorithms,” controlled by a
   handful of powerful private…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-25T10:43:59Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Police say a man sprayed a substance at an ATM in the luxury Ginza 6
   shopping centre.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-25T11:08:05Z'

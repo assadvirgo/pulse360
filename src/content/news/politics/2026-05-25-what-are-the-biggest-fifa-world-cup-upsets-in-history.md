@@ -2,7 +2,7 @@
 category: Politics
 description: Nothing makes the news like an unfancied or low-ranked team pulling off
   a shock result at the football World Cup.
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-25T11:57:24Z'

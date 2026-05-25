@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As public backlash against Big Dating mounts, a batch of new gay hookup
   apps offer community-powered alternatives.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-25T11:30:00Z'

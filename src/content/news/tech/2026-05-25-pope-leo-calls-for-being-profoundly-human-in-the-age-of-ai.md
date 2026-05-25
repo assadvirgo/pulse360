@@ -5,7 +5,7 @@ countryCode: IT
 description: Pope Leo XIV warned of the risks of AI and unconstrained technological
   power in his first major papal document released on Monday. Magnifica Humanitas
   is the pope's manifesto on…
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-25T15:05:07Z'

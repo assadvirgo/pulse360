@@ -5,7 +5,7 @@ countryCode: US
 description: Mastercard is in an elite club. Among S&amp;P 500 components, only Nvidia
   and Apple shares have performed better over the two-decade span since the card company’s
   IPO.
-displayOrder: 46
+displayOrder: 47
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-25T13:30:00Z'

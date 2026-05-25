@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Injured forward Lamine Yamal is named in Spain's World Cup squad, which
   does not feature any Real Madrid players.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-25T12:33:59Z'

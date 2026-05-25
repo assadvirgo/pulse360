@@ -2,7 +2,7 @@
 category: Economy
 description: Another vessel carrying crude oil crossed the vital shipping lane on
   Saturday
-displayOrder: 45
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-25T13:36:37Z'

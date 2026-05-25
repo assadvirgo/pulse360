@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: More than 20 people have been taken to hospital after someone sprayed
   an unknown substance in Tokyo, authorities said.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-25T14:41:00Z'
