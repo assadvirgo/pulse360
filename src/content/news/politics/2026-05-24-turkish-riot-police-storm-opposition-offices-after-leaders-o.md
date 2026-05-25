@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Officers forced their way into the building days after the party vowed
   to defy a court ruling removing its leaders.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-24T19:49:39Z'

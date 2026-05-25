@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Pep Guardiola was playing it cool in his final game in charge of Manchester
   City - until the magnitude of the day gripped him on the hour mark.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-24T20:07:17Z'

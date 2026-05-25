@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Trump announces progress on Iran peace deal, signalling the Strait of
   Hormuz, vital for global trade, could reopen soon.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 81.5
 pubDate: '2026-05-24T10:25:43Z'

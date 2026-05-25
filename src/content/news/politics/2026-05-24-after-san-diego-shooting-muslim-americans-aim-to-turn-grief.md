@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: More than 25,000 US Muslims have come together for the annual ICNA conference,
   where speakers encouraged activism.
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-24T21:25:53Z'

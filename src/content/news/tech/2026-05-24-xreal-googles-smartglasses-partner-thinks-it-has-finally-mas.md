@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business
   has finally reached a turning point.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-24T19:00:00Z'

@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: Nearly five years on from the school ban, young women say they have waved
   goodbye to their dreams.
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-24T21:02:08Z'

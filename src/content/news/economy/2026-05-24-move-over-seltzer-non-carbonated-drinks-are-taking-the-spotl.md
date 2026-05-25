@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Non-carbonated alcoholic drinks like Surfside and BeatBox are stealing
   "share of throat" from hard seltzers, particularly among Gen Z.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-24T12:00:01Z'

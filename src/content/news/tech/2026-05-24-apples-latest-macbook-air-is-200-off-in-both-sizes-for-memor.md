@@ -5,7 +5,7 @@ countryCode: US
 description: If you’re looking for a laptop that’ll still perform well several years
   from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good
   time to pick one up, as…
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-24T15:00:00Z'

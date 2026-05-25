@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Al Jazeera exclusive footage follows Iran’s national football team as
   they train for the World Cup in Turkiye.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-24T16:40:39Z'

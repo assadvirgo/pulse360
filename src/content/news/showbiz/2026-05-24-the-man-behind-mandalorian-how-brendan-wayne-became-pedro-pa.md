@@ -5,7 +5,7 @@ countryCode: US
 description: Pedro Pascal may be the face of bounty hunter Din Djarin in &#8220;Mandalorian
   and Grogu,&#8221; but there&#8217;s another actor who does much of the walking,
   talking and…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 60.8
 pubDate: '2026-05-24T17:00:00Z'

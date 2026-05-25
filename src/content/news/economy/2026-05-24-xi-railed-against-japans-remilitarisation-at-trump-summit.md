@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese president became heated when criticising US ally for its increased
   defence spending
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-24T15:06:45Z'

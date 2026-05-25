@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The social media-verse exploded with rumors that Paramount was trying
   to "suppress" the episode, but the truth is something different.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 47.8
 pubDate: '2026-05-25T00:34:09Z'

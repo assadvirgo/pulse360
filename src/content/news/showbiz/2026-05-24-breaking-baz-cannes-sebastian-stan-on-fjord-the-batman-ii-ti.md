@@ -5,7 +5,7 @@ countryCode: FR
 description: 'EXCLUSIVE: Sebastian Stan is that rare breed of actor who uses his star
   superpower to help get movies such as Cristian Mungiu’s Palme d’Or winner Fjord
   made &#8211; a film that…'
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-05-24T13:38:08Z'

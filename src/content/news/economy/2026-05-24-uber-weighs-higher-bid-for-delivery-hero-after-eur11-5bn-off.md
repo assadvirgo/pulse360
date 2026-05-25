@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: San Francisco-based group approached major shareholder in German food
   group
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-05-24T19:29:04Z'
