@@ -5,7 +5,7 @@ countryCode: US
 description: Reid Detmers was nearly perfect for eight innings while striking out
   a career-high 14, and the Angels beat the Rangers 2-1 on Sunday night on Justin
   Foscue's ninth-inning throwing…
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-25T05:38:32Z'

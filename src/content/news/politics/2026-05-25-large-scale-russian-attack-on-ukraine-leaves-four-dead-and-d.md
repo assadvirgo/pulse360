@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A hypersonic missile, which reportedly travels over 10 times the speed
   of sound, was used, Russia has confirmed.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-25T04:45:13Z'

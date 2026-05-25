@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Comments downplay hopes of an imminent reopening of the Strait of Hormuz
-displayOrder: 44
+displayOrder: 49
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-24T18:27:03Z'

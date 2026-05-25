@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: The move by speaker El Malick Ndiaye clears the way for sacked premier
   Ousmane Sonko to run for head of parliament.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-24T20:43:21Z'

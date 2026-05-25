@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Unsurprisingly, the Denver gorpcore brand that makes many of the best
   bags in the world has delivered a perfect backpack.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-24T11:01:00Z'

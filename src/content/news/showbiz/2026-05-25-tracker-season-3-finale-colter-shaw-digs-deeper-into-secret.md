@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT! This post contains details from the Season 3 finale of
   CBS&#8217; Tracker. Colter Shaw (Justin Hartley) continues to unravel his father&#8217;s
   complicated past in…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-05-25T02:00:00Z'

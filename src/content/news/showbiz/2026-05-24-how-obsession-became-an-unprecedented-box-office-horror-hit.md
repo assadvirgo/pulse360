@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Obsession&#8221; is, well, the obsession of the box office. That&#8217;s
   after the low-budget horror film earned $22 million from 2,655 North American theaters
   in its…'
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-24T21:00:42Z'

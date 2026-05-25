@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The Ebola outbreak in the eastern Democratic Republic of the Congo is
   spreading as cases been confirmed in Uganda.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-24T19:57:56Z'

@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Flávio Bolsonaro’s presidential run thrown into doubt by revelations
   he procured film funding from suspected fraudster
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-25T04:00:16Z'

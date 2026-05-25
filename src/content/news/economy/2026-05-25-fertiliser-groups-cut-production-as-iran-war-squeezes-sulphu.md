@@ -2,7 +2,7 @@
 category: Economy
 description: Farmers in poorer countries risk lower yields as they reduce how much
   phosphate they apply to crops
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-25T04:00:06Z'

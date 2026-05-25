@@ -5,7 +5,7 @@ countryCode: GB
 description: An RAF jet which the defence secretary was travelling in had its signals
   jammed as it flew near the Russian border, in what a defence source said was "reckless"
   interference.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 44.0
 pubDate: '2026-05-25T02:55:00Z'
