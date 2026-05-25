@@ -5,7 +5,7 @@ countryCode: RU
 description: Standing at the Cannes podium Saturday night to collect the Grand Prix
   for &#8220;Minotaur,&#8221; exiled Russian director Andrey Zvyagintsev used his
   acceptance speech to issue a…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-24T15:28:45Z'

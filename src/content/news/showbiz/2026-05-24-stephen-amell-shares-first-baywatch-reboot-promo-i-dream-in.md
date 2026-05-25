@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The actor, who plays Captain Hobie Buchannon, son of David Hasselhoff's
   Mitch Buchannon, debuted the teaser for the Fox series, set to premiere in January.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-24T19:17:20Z'

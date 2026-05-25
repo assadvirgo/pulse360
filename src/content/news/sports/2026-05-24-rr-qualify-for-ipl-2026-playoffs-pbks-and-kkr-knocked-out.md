@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Rajasthan Royals' victory against Mumbai Indians knocked out both Punjab
   Kings and Kolkata Knight Riders
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-24T15:11:08Z'

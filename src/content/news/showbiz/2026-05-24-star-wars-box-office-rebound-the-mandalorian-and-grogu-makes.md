@@ -5,7 +5,7 @@ countryCode: US
 description: The Lucasfilm/Disney title is the first Star Wars movie to play on the
   big screen in seven long years in what seems like a galaxy far, far away. The other
   headline at the Memorial…
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-24T16:28:16Z'

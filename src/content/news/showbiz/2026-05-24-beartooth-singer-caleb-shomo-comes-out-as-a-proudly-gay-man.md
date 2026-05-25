@@ -5,7 +5,7 @@ countryCode: US
 description: Caleb Shomo, the frontman for rock band Beartooth, has come out as gay
   in a message to his fans. Shomo took to Instagram on May 23 to reveal &#8220;I am
   a proudly gay man,&#8221;…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-24T19:03:31Z'

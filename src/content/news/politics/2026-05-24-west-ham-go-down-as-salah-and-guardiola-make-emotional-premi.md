@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Tottenham secure Premier League survival with 1-0 win over Everton as
   West Ham&#039;s 14-year stay in top division ends.
-displayOrder: 28
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-24T17:45:39Z'

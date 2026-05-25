@@ -4,7 +4,7 @@ country: Bahrain
 countryCode: BH
 description: Convictions come amid an intensified crackdown by Bahraini authorities
   on individuals accused of having ties to Tehran.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-24T14:16:50Z'

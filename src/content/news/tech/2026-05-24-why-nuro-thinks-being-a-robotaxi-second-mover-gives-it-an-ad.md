@@ -5,7 +5,7 @@ countryCode: US
 description: Waymo is the undisputed leader in the robotaxi space, operating a fleet
   of over 3,000 driverless cars in at least 10 cities across the US. A number of companies,
   including Tesla,…
-displayOrder: 40
+displayOrder: 42
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-24T11:00:00Z'

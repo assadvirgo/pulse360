@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Violence erupted after Turkish police stormed the headquarters of the
   main opposition CHP party in Ankara.
-displayOrder: 25
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-24T16:28:19Z'

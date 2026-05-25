@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Abu Dhabi had hit out at countries in region for not doing more to help
   defend against Iranian attacks
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-24T04:00:08Z'

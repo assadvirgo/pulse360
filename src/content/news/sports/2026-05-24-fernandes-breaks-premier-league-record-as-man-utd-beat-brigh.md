@@ -5,7 +5,7 @@ countryCode: GB
 description: Manchester United beat Brighton on the final day of the season, with
   captain Bruno Fernandes breaking the Premier League record for most assists in a
   single campaign.
-displayOrder: 4
+displayOrder: 6
 heroImage: ''
 importance: 60.2
 pubDate: '2026-05-24T19:10:03Z'

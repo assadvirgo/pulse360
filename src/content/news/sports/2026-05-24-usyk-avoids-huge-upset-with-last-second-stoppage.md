@@ -5,7 +5,7 @@ countryCode: EG
 description: Oleksandr Usyk survived a scare against kickboxer Rico Verhoeven to score
   a controversial 11th-round stoppage in Giza, Egypt, preventing what would have been
   a monumental upset…
-displayOrder: 15
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-24T16:53:32Z'
