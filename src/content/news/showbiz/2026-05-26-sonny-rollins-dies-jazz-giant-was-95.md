@@ -5,7 +5,7 @@ countryCode: US
 description: Sonny Rollins, a giant of jazz who was often called the music&#8217;s
   &#8220;greatest improviser&#8221; died today at his home in Woodstock, NY. That,
   according to a post on his…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-05-26T02:06:09Z'

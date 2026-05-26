@@ -5,7 +5,7 @@ countryCode: US
 description: The deadline to apply or nominate for Startup Battlefield 200 is May
   27. This is your shot at VC access, global visibility, TechCrunch coverage, and
   $100,000. Apply now.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-25T14:30:00Z'

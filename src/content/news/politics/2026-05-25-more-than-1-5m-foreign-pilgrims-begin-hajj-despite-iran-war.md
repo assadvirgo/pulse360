@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Saudi Arabia says that is 11,000 more than the number of Muslims who
   travelled to the Gulf kingdom last year.
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-25T20:11:59Z'

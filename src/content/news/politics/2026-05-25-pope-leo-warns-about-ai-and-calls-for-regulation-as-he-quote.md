@@ -2,7 +2,7 @@
 category: Politics
 description: Pope Leo has called for robust regulation of artificial intelligence
   (AI) in a sweeping manifesto on safeguarding humankind.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-25T19:10:00Z'

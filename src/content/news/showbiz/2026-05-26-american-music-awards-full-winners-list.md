@@ -5,7 +5,7 @@ countryCode: US
 description: While Taylor Swift led the pack at the American Music Awards with eight
   nominations, the night&#8217;s top winners were KATSEYE, SOMBR, Sabrina Carpenter,
   BTS and Bruno Mars. They…
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-26T04:24:55Z'

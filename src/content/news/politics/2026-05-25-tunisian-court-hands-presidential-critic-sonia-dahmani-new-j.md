@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: Lawyer convicted for the second time this year as President Saied&#039;s
   crackdown on dissent intensifies.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-25T17:39:48Z'

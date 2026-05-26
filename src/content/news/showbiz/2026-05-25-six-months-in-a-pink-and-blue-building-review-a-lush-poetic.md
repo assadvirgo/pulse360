@@ -5,7 +5,7 @@ countryCode: MX
 description: For his first narrative feature, Mexican director Bruno Santamaría Razo
   — who’s previously made documentaries — chooses a personal memory piece. “Six Months
   in a Pink and Blue…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-25T23:21:15Z'

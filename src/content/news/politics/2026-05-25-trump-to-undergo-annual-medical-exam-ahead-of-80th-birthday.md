@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The BBC’s Bernd Debusmann explains the routine medical check of the president
   of the US.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-25T22:18:43Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Regulatory loosening has allowed countries’ banks to expand balance sheets
   while EU and Swiss rivals are constrained
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-26T04:00:15Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Independent analysis suggests retrospective change to data indicating
   climate change progress
-displayOrder: 29
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-25T23:01:09Z'

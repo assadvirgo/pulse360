@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Eight spectators and a rider are receiving hospital treatment after the
   crash at Parliament Square.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-25T20:15:54Z'

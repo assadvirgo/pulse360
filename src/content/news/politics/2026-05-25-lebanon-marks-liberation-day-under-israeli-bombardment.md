@@ -3,7 +3,7 @@ category: Politics
 country: Lebanon
 countryCode: LB
 description: People in Lebanon have gathered to observe Liberation Day.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-25T19:02:14Z'

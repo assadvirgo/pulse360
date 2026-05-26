@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli military hits targets in eastern Lebanon after the prime
   minister announces further strikes.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 73.2
 pubDate: '2026-05-25T20:40:15Z'

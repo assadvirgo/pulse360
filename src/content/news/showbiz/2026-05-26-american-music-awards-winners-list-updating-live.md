@@ -5,7 +5,7 @@ countryCode: US
 description: The Queen Latifah-hosted show, airing live on CBS from the MGM Grand
   Garden Arena in Las Vegas, features performances from lifetime achievement award
   recipient Billy Idol,…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-26T00:13:12Z'

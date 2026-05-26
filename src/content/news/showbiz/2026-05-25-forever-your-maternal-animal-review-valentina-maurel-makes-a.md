@@ -3,7 +3,7 @@ category: Showbiz
 description: About halfway into “Forever Your Maternal Animal,” a striking confession
   appears almost out of nowhere. The two main characters in the film, sisters in their
   early twenties, are…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-25T23:48:44Z'

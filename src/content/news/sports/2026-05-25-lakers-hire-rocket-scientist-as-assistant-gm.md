@@ -5,7 +5,7 @@ countryCode: US
 description: The Lakers made their first significant move of the offseason by hiring
   Rohan Ramadas as an assistant GM under president and GM Rob Pelinka, sources told
   ESPN.
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-25T19:58:55Z'
