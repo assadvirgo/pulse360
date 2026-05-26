@@ -5,7 +5,7 @@ countryCode: FR
 description: Gael Monfils bows out of his final French Open in the first round, losing
   in five sets to compatriot Hugo Gaston, as tributes are paid to one of the great
   tennis entertainers.
-displayOrder: 5
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-26T06:59:47Z'

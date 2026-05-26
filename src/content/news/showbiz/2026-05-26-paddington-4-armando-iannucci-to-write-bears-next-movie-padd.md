@@ -5,7 +5,7 @@ countryCode: GB
 description: Paddington Bear has found a new pair of writers to come up with his next
   big screen adventure and looks to have secured a director as well. Variety can exclusively
   confirm that…
-displayOrder: 6
+displayOrder: 24
 heroImage: ''
 importance: 51.8
 pubDate: '2026-05-26T09:00:00Z'

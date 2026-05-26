@@ -5,7 +5,7 @@ countryCode: GB
 description: Gary Lineker’s Rest is&#8230; outfit Goalhanger has launched a ventures
   arm. Goalhanger Ventures’ first investment is in Charlie Tymon&#8217;s Invisble
   Media, which runs digital…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-26T09:03:34Z'

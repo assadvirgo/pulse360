@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Muslim pilgrims have begun arriving in Mina, near Mecca, ahead of the
   start of Arafah Day.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-26T01:01:33Z'

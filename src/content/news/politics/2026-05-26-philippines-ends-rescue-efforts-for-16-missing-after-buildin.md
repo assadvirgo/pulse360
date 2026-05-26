@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Recovery efforts begin after building collapse in city of Angeles, near
   Manila, kills at least four people.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-26T08:43:29Z'

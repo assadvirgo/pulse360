@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The stock market gave its reaction to Ferrari’s new electric vehicle,
   called the Luce.
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-26T08:56:00Z'

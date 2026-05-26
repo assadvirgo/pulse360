@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New York Knicks are heading to the NBA Finals for the first time in 27
   years after sweeping Cleveland Cavaliers.
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-26T07:54:10Z'

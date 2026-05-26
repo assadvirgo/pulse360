@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The prime minister called for an independent investigation into Israeli
   mistreatment, but stopped short of penalties.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-26T00:18:37Z'

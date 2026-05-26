@@ -5,7 +5,7 @@ countryCode: GB
 description: Ampere Analysis today has a new owner and another research house in its
   stable. Private equity firm Goldenpeak has acquired the influential UK-based entertainment
   analysis…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-26T08:37:55Z'

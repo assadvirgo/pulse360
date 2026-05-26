@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The tech titan that once urged consumers to ‘think different’ may itself
   be ripe for disruption in the AI age
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-26T04:00:04Z'

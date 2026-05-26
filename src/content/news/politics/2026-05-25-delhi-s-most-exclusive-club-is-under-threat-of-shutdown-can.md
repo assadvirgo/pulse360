@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The British-era Gymkhana Club is facing eviction, triggering a legal
   battle and a wave of nostalgia.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-25T23:17:04Z'

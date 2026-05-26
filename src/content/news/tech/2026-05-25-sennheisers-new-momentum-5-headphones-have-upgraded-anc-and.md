@@ -5,7 +5,7 @@ countryCode: DE
 description: Nearly four years after the last version of Sennheiser's Momentum headphones
   debuted with a redesign that traded a retro aesthetic for a more contemporary and
   comfortable design,…
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-25T22:00:00Z'
