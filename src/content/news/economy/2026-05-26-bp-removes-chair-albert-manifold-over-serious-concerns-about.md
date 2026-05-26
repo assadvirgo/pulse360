@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manifold’s hands-on approach was viewed as excessive by several colleagues
   at oil major
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-26T12:50:30Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: IO Interactive would like to reintroduce you to the man who needs no
   introduction. Next to Godzilla, James Bond is one of pop culture’s longest running
   film franchises. From Sean…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-26T12:15:00Z'

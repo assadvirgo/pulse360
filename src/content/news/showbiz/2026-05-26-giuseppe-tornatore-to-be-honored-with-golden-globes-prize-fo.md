@@ -5,7 +5,7 @@ countryCode: IT
 description: Oscar-winning Italian director Giuseppe Tornatore will be honored during
   the upcoming Taormina Film Festival with the Golden Globes Prize for Documentary
   in partnership with…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-26T10:00:05Z'

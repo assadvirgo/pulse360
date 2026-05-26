@@ -5,7 +5,7 @@ countryCode: US
 description: Music sensation Kesha has finally sold her sprawling Los Angeles mansion,
   two years after she first made a move to offload the ultramodern “architectural
   gem.”
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-26T09:01:00Z'

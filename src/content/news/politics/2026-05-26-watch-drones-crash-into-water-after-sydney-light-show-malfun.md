@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Almost 90 drones fell from the sky over Sydney's Darling Harbour during
   a popular winter light show.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-26T07:11:50Z'

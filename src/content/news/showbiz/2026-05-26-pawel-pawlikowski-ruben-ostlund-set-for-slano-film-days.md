@@ -5,7 +5,7 @@ countryCode: HR
 description: The Polish director will bring his Cannes-premiering 'Fatherland,' honored
   with a best director award, to the event in Croatia, while the Swedish filmmaker
   will present a…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-26T10:09:09Z'

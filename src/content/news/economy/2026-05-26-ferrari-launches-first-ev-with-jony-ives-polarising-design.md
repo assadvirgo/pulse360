@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Shares in carmaker fall as futuristic Luce model sparks negative reaction
   on social media
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-26T07:12:05Z'

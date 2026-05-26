@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Students celebrated after days of protests against the closure decree
   that would have shut Bilgi University mid-year.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-26T02:48:49Z'

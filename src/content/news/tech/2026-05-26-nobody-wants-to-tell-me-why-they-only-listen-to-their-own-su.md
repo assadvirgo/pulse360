@@ -3,7 +3,7 @@ category: Tech
 description: There's this alarming trend in the Suno subreddit. People aren't just
   prompting AI songs; they're sitting around listening almost exclusively to their
   own slop. And in some cases,…
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-26T12:46:03Z'

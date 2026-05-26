@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BP said its board unanimously decided to remove Albert Manifold as chair,
   as well as a director, with immediate effect.
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-26T12:18:00Z'

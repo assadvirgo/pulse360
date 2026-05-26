@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: A billionaire whose company runs Starbucks in South Korea has publicly
   apologised for a controversial marketing campaign.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-26T01:52:00Z'

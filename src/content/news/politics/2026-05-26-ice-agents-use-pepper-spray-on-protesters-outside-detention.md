@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Dozens of ICE agents clashed with protesters using pepper spray to disperse
   crowds outside a detention centre.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-26T08:47:47Z'

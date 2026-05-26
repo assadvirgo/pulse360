@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some World Cup roster selections can be surprising, but who are some
   United States players who were shockingly left out in the past?
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-26T12:35:03Z'

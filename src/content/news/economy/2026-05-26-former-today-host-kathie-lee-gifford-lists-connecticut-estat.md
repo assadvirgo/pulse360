@@ -5,7 +5,7 @@ countryCode: US
 description: Kathie Lee Gifford has put her enormous Connecticut estate on the market
   for the staggering price of $100 million—32 years after she purchased the expansive
   property.
-displayOrder: 35
+displayOrder: 50
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-26T09:02:00Z'

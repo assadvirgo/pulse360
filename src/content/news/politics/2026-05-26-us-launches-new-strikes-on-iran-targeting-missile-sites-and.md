@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Central Command says the strikes were taken in "self-defence", while
   Iran reports it downed a US drone that entered its airspace.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 63.2
 pubDate: '2026-05-26T09:44:58Z'

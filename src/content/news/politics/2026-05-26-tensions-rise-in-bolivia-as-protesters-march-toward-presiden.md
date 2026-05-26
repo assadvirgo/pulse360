@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Demonstrators gathered near the presidential palace in La Paz as police
   maintained blockades and tensions remained high.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-26T00:07:15Z'

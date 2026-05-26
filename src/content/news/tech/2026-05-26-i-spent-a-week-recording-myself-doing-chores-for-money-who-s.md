@@ -2,7 +2,7 @@
 category: Tech
 description: Cooking. Doing laundry. Tidying up. All your household tasks can be turned
   into data to train future humanoids—if you’re prepared for the consequences.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-26T10:00:00Z'
