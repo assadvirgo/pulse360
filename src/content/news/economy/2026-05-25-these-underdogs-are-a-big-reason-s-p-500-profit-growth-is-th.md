@@ -5,7 +5,7 @@ countryCode: US
 description: Ever since Big Tech went all in on artificial intelligence more than
   three years ago, seven companies have done the heavy lifting for overall S&amp;P
   500 earnings growth. But more…
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-25T14:00:00Z'

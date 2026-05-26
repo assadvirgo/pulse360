@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Far-right officials, who fear a US-Iran peace deal could rein in Israel,
   call for ‘high-intensity’ campaign in Lebanon
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-25T19:56:53Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Victor Wembanyama set the tone from the beginning of Game 4 on Sunday
   as the Spurs evened the Western Conference finals at 2-2.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-25T19:58:55Z'

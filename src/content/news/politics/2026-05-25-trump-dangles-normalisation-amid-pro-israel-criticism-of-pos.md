@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says he is &#039;mandatorily requesting&#039; that regional
   countries establish formal relations with Israel.
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-25T19:59:37Z'

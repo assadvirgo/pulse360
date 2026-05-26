@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Far-right officials fear a US-Iran peace deal could rein in Israel’s
   campaign in Lebanon
-displayOrder: 37
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-25T14:57:56Z'

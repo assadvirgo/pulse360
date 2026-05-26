@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The war could end with Tehran more confident, more hardline and with
   new resources to rebuild its nuclear programme
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-05-25T11:39:16Z'

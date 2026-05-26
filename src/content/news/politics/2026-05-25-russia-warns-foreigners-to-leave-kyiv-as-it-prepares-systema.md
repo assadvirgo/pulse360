@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Moscow calls upcoming &#039;systematic strikes&#039; on Ukrainian capital
   a response to Kyiv&#039;s recent attack in Luhansk.
-displayOrder: 18
+displayOrder: 37
 heroImage: ''
 importance: 64.5
 pubDate: '2026-05-25T16:12:52Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: 'A local war has gone regional, drawing in Iran and the US, but its root
   cause is unchanged: Palestine.'
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-25T18:56:24Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Twenty-six years after Israeli forces were driven out of southern Lebanon,
   fears of a new occupation have emerged.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-25T17:39:54Z'
