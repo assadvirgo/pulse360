@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Temperatures near 44°C test worshippers’ endurance as the annual pilgrimage
   unfolds under the shadow of war.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-26T15:08:06Z'

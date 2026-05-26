@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The NBA great was among several high-profile names who saluted Guardiola&#039;s
   tenure after 10 years in charge at the club.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-26T09:34:47Z'

@@ -5,7 +5,7 @@ countryCode: HU
 description: The producer of Spring Wind – The Awakening, the doc championing the
   rise of Hungarian leader Péter Magyar, has been named his chief of staff. Claudia
   Sümeghy, who runs production…
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-26T16:48:27Z'

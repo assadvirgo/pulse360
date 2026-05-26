@@ -4,7 +4,7 @@ country: Czechia
 countryCode: CZ
 description: Czech-led initiative aimed at supplying Kyiv with millions of shells
   has halved since December, says president
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-26T11:38:06Z'

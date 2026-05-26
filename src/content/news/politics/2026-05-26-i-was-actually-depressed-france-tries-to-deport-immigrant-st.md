@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: In an impoverished Parisian suburb, some young people are being ordered
   to leave when they graduate from high school.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-26T10:17:43Z'

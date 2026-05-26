@@ -5,7 +5,7 @@ countryCode: US
 description: American Airlines plans to install SpaceX’s Starlink satellite internet
   service on more than 500 planes, solidifying the Elon Musk company’s lead among
   U.S. air carriers.
-displayOrder: 39
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-26T17:03:00Z'

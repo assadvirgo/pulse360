@@ -4,7 +4,7 @@ country: Rwanda
 countryCode: RW
 description: The first words spoken in Marie-Clémentine Dusabejambo&#8217;s &#8220;Ben&#8217;Imana,&#8221;
   are of forgiveness. But the body does not forget and the speaker&#8217;s defiant…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-26T16:19:50Z'

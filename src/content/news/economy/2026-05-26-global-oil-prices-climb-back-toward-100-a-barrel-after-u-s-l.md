@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Global oil prices were creeping back toward the $100 a barrel mark on
   Tuesday.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-26T12:55:00Z'

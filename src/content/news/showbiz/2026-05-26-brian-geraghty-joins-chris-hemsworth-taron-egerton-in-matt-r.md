@@ -5,7 +5,7 @@ countryCode: AU
 description: 'EXCLUSIVE: Brian Geraghty has joined the cast of Matt Ross’ crime thriller
   Kockroach as it shoots in Australia. He joins an ensemble cast featuring previously
   announced Chris…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-26T16:58:20Z'

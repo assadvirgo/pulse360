@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: At least five Palestinians killed in Israeli attack on a refugee camp
   in central Gaza, officials said.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-26T12:34:20Z'

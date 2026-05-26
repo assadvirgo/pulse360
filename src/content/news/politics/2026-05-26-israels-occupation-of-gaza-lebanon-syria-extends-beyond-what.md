@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Findings show Israel holds 1,000sq km of Gaza, Lebanon and Syria under
   direct military rule.
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-26T13:26:40Z'

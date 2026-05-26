@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Luce launch comes as executives are divided over demand for luxury electric
   cars
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-26T15:54:07Z'

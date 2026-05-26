@@ -5,7 +5,7 @@ countryCode: US
 description: The long weekend is over, but many of the best Memorial Day deals are
   still available. Many of our favorite portable speakers are discounted, as are other
   outdoorsy products we…
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-26T16:10:06Z'

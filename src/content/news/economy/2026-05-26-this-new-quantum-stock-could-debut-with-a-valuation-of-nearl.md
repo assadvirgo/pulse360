@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Quantinuum sets terms for its IPO, in which the quantum computing company
   looks to raise up to $1 billion.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-26T11:47:00Z'

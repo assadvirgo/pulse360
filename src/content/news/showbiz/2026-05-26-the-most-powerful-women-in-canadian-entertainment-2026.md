@@ -5,7 +5,7 @@ countryCode: CA
 description: THR salutes the actresses, execs, producers and other powerful females
   who are shaping their country’s screen culture — and making gay hockey players an
   international thing
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-26T15:30:00Z'
