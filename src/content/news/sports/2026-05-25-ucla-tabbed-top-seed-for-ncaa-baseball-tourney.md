@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: UCLA was rewarded for its dominant, wire-to-wire run through the regular
   season with the No. 1 seed for the NCAA tournament.
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-25T19:58:55Z'

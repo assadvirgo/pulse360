@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The suspect previously obstructed a White House entry lane in June of
   2025 and told Secret Service agents he was Jesus Christ.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-25T15:45:27Z'

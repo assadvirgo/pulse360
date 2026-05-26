@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Around 300 people were stranded mid-air after the Gondola system suddenly
   halted in Indian-administered Kashmir.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-25T15:58:07Z'

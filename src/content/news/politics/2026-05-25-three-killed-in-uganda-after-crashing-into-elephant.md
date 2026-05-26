@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: Four people were also injured in the incident inside Murchison Falls
   National Park, officials say.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-25T11:54:07Z'

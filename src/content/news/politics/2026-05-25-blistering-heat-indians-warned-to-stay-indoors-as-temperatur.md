@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The BBC's Sumedha Pal described how difficult it was to be standing in
   the streets of Delhi as temperatures rose to 45C .
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-25T15:17:10Z'

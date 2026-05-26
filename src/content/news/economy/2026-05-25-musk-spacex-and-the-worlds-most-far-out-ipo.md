@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: His ambition is to privatise the heavens — and to become the world’s
   first trillionaire
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-25T13:00:07Z'

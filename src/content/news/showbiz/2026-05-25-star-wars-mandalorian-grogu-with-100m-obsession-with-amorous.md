@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED, MONDAY AM: ComScore is weighing the four-day Memorial Day weekend
   at $221.9 million, which is off 33% from last year&#8217;s all-time record ($330.1M)
   for the holiday…'
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-25T18:00:00Z'

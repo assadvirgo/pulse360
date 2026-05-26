@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Pontiff warns of dangers of a technological revolution driven by ‘the
   idolatry of profit’
-displayOrder: 33
+displayOrder: 40
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-25T12:45:48Z'

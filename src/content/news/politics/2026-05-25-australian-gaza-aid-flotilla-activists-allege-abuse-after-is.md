@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Activists allege assaults and torture during Israeli detention after
   flotilla intercepted in international waters.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-25T14:33:35Z'

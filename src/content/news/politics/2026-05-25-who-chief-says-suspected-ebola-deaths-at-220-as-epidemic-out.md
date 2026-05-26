@@ -2,7 +2,7 @@
 category: Politics
 description: Tedros ⁠Adhanom Ghebreyesus says ​a delay in detecting cases means responders
   were now &#039;playing catch-up&#039;.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-25T14:32:56Z'

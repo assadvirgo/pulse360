@@ -2,7 +2,7 @@
 category: Politics
 description: Pope Leo has warned that some AI-powered weapons systems are becoming
   ‘practically beyond human control&#039;.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-25T15:06:46Z'
