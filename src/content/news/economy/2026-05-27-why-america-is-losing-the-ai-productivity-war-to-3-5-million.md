@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Big Tech’s structural mistakes are costing stock investors and fueling
   a massive talent crisis.
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-27T12:05:00Z'

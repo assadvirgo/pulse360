@@ -4,7 +4,7 @@ country: Laos
 countryCode: LA
 description: The search is continuing for a further two villagers who are still missing,
   rescuers say.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-27T11:52:46Z'

@@ -5,7 +5,7 @@ countryCode: IL
 description: Fox Entertainment Studios and Access Entertainment have boarded Israeli
   director Avi Nesher&#8217;s latest movie, about the October 7 tragedy. Our Loves
   is inspired by true events…
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-27T13:00:00Z'

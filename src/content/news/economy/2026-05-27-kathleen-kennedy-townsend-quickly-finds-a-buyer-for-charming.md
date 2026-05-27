@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Kennedy heiress has already secured an offer for the quaint home
   near the Kennedy family’s famed Hyannis Port compound.
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-27T09:00:00Z'

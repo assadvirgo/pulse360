@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Dong Guangping, an activist and former police officer, spent hours at
   sea before reaching Korean waters.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-27T11:12:33Z'

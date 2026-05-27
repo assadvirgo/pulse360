@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The UFC bout at the White House marks the 250th anniversary of the US
   and President Donald Trump&#039;s 80th birthday.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-27T12:11:29Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: Parsons, in his feature directing debut (the script is by Will Soodik),
   proves a wizard of mood who shares the early David Lynch’s love of industrial cosmic
   sound design, and also…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-27T10:00:00Z'

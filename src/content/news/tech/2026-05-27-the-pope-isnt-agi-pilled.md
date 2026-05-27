@@ -5,7 +5,7 @@ countryCode: IT
 description: On Monday, Pope Leo XIV unveiled an encyclical letter addressing the
   societal implications of artificial intelligence. The letter, titled Magnifica Humanitas,
   warned that the "use…
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-27T12:00:00Z'

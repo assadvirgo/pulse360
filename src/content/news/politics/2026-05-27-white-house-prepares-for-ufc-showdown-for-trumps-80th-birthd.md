@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Construction is underway on the South Lawn of the White House in preparation
   for UFC Freedom 250.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-27T04:11:52Z'

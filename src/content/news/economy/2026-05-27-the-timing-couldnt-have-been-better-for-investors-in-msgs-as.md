@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of MSG Sports have climbed 39% this year and are up 88% over the
   last 12 months. And that was before the Knicks made it to the NBA Finals.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-27T11:46:00Z'

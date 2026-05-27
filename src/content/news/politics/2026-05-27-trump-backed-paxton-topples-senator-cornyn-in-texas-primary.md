@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Trump-backed Paxton topples senator Cornyn in Texas primary
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-27T08:31:21Z'

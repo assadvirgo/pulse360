@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Asia bought the most Chinese EVs of any region, followed by Europe and
   Latin America, data compiled by Bloomberg shows.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-27T05:32:48Z'

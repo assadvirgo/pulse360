@@ -3,7 +3,7 @@ category: Showbiz
 description: Laurie Segall is betting she can build a new model for true-crime investigations,
   one that doesn’t have to rely on documentary structures or the hour-long conventions
   of broadcast…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 69.8
 pubDate: '2026-05-27T13:00:00Z'

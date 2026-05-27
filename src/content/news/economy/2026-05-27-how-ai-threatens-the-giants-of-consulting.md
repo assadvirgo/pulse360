@@ -2,7 +2,7 @@
 category: Economy
 description: The technology opens the door for smaller, well-funded challengers to
   take market share from the Big Four and others
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-27T04:00:04Z'

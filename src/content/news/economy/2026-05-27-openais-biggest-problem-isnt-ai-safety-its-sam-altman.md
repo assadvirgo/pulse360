@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ‘Conflict-averse’ CEO has built a culture of groupthink — and a massive
   corporate liability,
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-27T11:50:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza Palestinians will mark a third Eid under war-like conditions, with
   a shortage of food and joy.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-27T05:53:06Z'

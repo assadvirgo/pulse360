@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Son of former President Jair Bolsonaro is fighting to recover from a
   scandal that has rocked his presidential campaign.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-27T01:18:58Z'

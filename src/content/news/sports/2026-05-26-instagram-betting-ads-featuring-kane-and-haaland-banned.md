@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The advertising watchdog said the adverts featuring top footballers had
   a strong appeal to under-18s.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-26T23:33:40Z'
