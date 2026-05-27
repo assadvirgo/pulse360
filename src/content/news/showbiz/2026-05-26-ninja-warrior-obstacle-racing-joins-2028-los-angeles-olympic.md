@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Ninja Warrior&#8221; is making its way to the Olympics. Tokyo
   Broadcasting System Television — the producer behind the TV format &#8220;Sasuke&#8221;
   (adapted around the…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-26T19:00:00Z'

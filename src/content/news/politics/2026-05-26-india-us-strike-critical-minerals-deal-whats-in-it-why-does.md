@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Agreement is latest US has signed as it seeks to diversify its rare earths
   supply chain.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-26T14:36:33Z'

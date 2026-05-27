@@ -5,7 +5,7 @@ countryCode: US
 description: Code in recent Starlink firmware suggests that SpaceX might soon release
   a version of its smallest internet dish with an integrated battery. A battery-powered
   Starlink Mini would…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 71.2
 pubDate: '2026-05-26T08:55:51Z'

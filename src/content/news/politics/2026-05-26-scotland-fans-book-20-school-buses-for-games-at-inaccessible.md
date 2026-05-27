@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: As ticket prices soar to record levels, fans come to terms with overall
   cost of following their teams at World Cup.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-26T16:02:04Z'

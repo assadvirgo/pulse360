@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lack of awareness, social stigma, application struggles and eligibility
   concerns prevent people from getting benefits
-displayOrder: 40
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-26T16:15:00Z'

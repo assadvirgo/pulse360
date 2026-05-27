@@ -3,7 +3,7 @@ category: Politics
 country: Italy
 countryCode: IT
 description: The pontiff presented his encyclical at the Vatican alongside AI experts.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-26T16:52:34Z'

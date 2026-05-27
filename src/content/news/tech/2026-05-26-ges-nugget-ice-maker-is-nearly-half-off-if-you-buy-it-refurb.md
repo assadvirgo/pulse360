@@ -5,7 +5,7 @@ countryCode: US
 description: If you’re looking for ways to make staying cool and hydrated easier this
   summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget
   Ice Maker for $264.99…
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-26T18:50:35Z'

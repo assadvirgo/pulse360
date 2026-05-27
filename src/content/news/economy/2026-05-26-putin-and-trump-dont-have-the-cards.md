@@ -2,7 +2,7 @@
 category: Economy
 description: The wars Russia and America have waged in Ukraine and Iran are case studies
   in geopolitical self-harm
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-26T11:10:33Z'

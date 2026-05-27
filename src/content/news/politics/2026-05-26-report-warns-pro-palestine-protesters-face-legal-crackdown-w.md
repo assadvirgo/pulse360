@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Campaigners warn the right to protest is being put under pressure by
   the arms industry.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 71.5
 pubDate: '2026-05-26T13:18:20Z'

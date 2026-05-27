@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: As speaker, Sonko could use his position to challenge the policies of
   the president, his one-time ally.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-26T15:41:31Z'

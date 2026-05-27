@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Naomi Osaka continues her tradition of serving jaw-dropping looks at
   Grand Slams with an outfit that reminds her of "the Eiffel tower at night".
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-26T18:15:04Z'

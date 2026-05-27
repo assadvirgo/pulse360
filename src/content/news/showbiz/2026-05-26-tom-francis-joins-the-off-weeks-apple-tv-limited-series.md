@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Tony Award nominee Tom Francis (Sunset Blvd., Jay Kelly,
   You) is set for a recurring role opposite Richard Gere in The Off Weeks Apple TV‘s
   eight-episode limited series…'
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-26T20:00:00Z'

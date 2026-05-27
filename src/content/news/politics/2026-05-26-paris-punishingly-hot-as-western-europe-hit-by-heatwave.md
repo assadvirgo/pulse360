@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Hugh Schofield reports from Paris as a heat dome settled over Western
   Europe bringing temperatures above the average for May.
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-26T16:46:58Z'

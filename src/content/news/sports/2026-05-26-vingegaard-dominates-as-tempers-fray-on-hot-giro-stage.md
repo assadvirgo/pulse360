@@ -5,7 +5,7 @@ countryCode: DK
 description: Denmark's two-time Tour de France champion Jonas Vingegaard dominates
   the mountainous stage 16 of the Giro d'Italia to increase his overall lead in the
   pink jersey.
-displayOrder: 20
+displayOrder: 27
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-26T16:35:02Z'

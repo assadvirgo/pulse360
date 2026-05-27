@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: American Airlines said Tuesday it plans to install Starlink on more than
   500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-26T18:48:04Z'

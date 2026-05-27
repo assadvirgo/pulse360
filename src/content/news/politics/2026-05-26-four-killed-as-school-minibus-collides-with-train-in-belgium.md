@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: Two schoolchildren, their chaperone and the minibus driver were killed
   in the crash, says a Belgian minister.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-26T12:29:14Z'
