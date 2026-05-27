@@ -5,7 +5,7 @@ countryCode: US
 description: Clarence B. Jones, a key adviser to Martin Luther King Jr. who helped
   organize the March on Washington and assisted King in drafting the Civil Rights
   leader’s “I Have a Dream”…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-05-26T22:13:57Z'

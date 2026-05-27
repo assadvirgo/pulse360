@@ -5,7 +5,7 @@ countryCode: IT
 description: It's possible that AI was used to write parts of Pope Leo XIV's latest
   encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the
   forum LessWrong found…
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-27T00:38:11Z'

@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: The country has recorded more than 60,000 suspected cases of measles
   in just over two months.
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-27T01:34:42Z'

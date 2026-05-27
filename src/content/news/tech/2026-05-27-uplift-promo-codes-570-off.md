@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Upgrade your home office with the best Uplift Desk discount codes. Save
   on standing desks, ergonomic chairs, and accessories during the Spring Setup Sale.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-27T05:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite $17bn in pledges, organisation is stuck in limbo with no money
   flowing to projects in Gaza
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-27T04:00:14Z'

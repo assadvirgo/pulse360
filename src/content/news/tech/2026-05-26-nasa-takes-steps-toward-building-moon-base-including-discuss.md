@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: '"We also obviously want to be very mindful of the Outer Space Treaty."'
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-26T21:03:03Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Hurricanes remain the Stanley Cup favorites, with the Golden Knights
   just behind on the odds board.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-26T17:48:37Z'
