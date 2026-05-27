@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The attacks took place while Iranian and Qatari negotiators were in Doha
   for peace talks.
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 69.2
 pubDate: '2026-05-26T15:15:29Z'

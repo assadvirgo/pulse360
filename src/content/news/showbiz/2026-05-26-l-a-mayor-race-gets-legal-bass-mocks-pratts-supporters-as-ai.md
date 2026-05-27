@@ -5,7 +5,7 @@ countryCode: US
 description: A week before the primary that could decide who the next mayor of Los
   Angeles is, incumbent Karen Bass and poll-rising challenger Spencer Pratt got legal
   and personal today in…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-05-26T19:40:25Z'

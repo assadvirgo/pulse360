@@ -3,7 +3,7 @@ category: Politics
 country: India
 countryCode: IN
 description: Al Jazeera’s @avawarrinerr explores the rise of the Cockroach Janta Party.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-26T22:24:02Z'

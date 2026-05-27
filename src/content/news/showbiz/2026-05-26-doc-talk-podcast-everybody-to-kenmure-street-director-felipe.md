@@ -5,7 +5,7 @@ countryCode: GB
 description: 'Everybody to Kenmure Street left this year&#8217;s Sundance Film Festival
   with a major award in World Cinema Documentary competition: a Special Jury Award
   for Civil Resistance.…'
-displayOrder: 4
+displayOrder: 20
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-26T21:18:54Z'

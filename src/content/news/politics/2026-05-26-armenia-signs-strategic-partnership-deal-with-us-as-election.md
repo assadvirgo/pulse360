@@ -4,7 +4,7 @@ country: Armenia
 countryCode: AM
 description: PM Nikol Pashinyan, who deepened ties with US, faces challenge from pro-Russia
   parties in upcoming parliamentary polls.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-26T17:27:32Z'

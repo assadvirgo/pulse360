@@ -5,7 +5,7 @@ countryCode: US
 description: One of the most dramatic betrayals in reality TV (since Scandoval, of
   course) took place after, and potentially during, Season 10 of &#8220;Summer House.&#8221;
   Now, the…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-05-26T20:38:32Z'

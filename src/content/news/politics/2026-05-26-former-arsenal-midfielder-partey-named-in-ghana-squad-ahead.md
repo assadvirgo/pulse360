@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Ghana&#039;s Thomas Partey, who joined Villareal from Arsenal in 2025,
   has pleaded not guilty to seven rape charges in UK.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-26T17:45:39Z'

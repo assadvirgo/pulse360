@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Gujarat Titans dropped three chances and missed a run-out chance in the
   first innings, as Royal Challengers Bengaluru raced away to a record 254 for 5
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-26T18:57:30Z'

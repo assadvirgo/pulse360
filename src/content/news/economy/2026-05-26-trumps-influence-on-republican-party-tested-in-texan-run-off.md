@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Victory of flawed Senate candidate Ken Paxton could cement the president’s
   hold on the party
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-26T21:13:59Z'
