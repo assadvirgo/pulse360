@@ -5,7 +5,7 @@ countryCode: FR
 description: Jannik Sinner underlines why he is the overwhelming favourite to win
   the French Open with an efficient first-round win against French wildcard Clement
   Tabur.
-displayOrder: 45
+displayOrder: 49
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-26T21:32:45Z'

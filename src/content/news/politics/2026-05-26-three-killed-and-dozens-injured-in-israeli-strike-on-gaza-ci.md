@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel says it was targeting a Hamas commander whose predecessor was
   killed in a similar strike earlier in May.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-26T22:50:46Z'

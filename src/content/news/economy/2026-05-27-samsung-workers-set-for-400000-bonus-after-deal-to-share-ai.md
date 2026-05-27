@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Agreement with union ends wrangling over how to share spoils of boom
   at memory-chip maker
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-27T04:14:14Z'

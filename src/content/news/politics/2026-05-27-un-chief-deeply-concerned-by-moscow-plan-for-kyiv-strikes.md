@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: UN Secretary-General Guterres said he was “deeply concerned” after Russia
   announced plans to strike Ukraine.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-27T00:01:38Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The Italian Supreme Court rejected a tourist's claim that her consumer
   rights were breached when she was only offered €7 bottled mineral water.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-27T02:52:49Z'

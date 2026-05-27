@@ -5,7 +5,7 @@ countryCode: GB
 description: The U.K. and Ireland box office found its force over the weekend as Disney&#8217;s
   &#8220;Star Wars&#8221; spinoff &#8220;The Mandalorian and Grogu&#8221; captured
   the top spot,…
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-27T08:55:02Z'

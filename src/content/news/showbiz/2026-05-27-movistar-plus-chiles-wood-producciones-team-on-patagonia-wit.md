@@ -5,7 +5,7 @@ countryCode: CL
 description: In a pioneering collaboration with Latin America, Spain’s Movistar Plus
   is teaming with Chile’s Wood Producciones and Spain’s Atlantika&#160;Films to make
   “Patagonia,” starring…
-displayOrder: 2
+displayOrder: 15
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-27T09:01:08Z'

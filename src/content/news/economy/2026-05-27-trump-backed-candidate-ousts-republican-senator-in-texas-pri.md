@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Decisive victory for controversial attorney-general Ken Paxton shows
   US president’s enduring hold on Republican Party
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-27T03:30:48Z'

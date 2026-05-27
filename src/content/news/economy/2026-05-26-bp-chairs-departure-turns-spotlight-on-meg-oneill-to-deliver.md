@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Albert Manifold’s behaviour and use of personal devices cited as factors
   in his removal over conduct and governance concerns
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-26T23:02:53Z'
