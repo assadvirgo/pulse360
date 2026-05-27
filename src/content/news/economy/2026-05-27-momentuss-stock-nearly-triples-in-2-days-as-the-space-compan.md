@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Momentus investors continue to cheer as the space firm secures more cash
   through a private placement of stock.
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-27T16:46:00Z'

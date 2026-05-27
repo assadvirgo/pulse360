@@ -5,7 +5,7 @@ countryCode: BR
 description: 'EXCLUSIVE: The father-son directing team behind Netflix’s Brazil ’70:
   The Third Star told Deadline they set out to take viewers inside Brazil’s legendary
   1970 World Cup run. City…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-27T16:25:45Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Sony has a tradition of marking down its PlayStation 5 hardware a couple
   of times a year, and one of those opportunities to save is here through June 10th.
   Its latest Days of Play…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 72.2
 pubDate: '2026-05-27T14:38:05Z'

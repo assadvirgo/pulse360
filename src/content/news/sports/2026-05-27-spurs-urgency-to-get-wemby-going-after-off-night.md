@@ -5,7 +5,7 @@ countryCode: US
 description: After Victor Wembanyama was held to 20 points in the Spurs' loss to the
   Thunder on Tuesday night, coach Mitch Johnson said "we're going to need to" get
   him going if San Antonio is…
-displayOrder: 27
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-27T13:06:16Z'

@@ -5,7 +5,7 @@ countryCode: KR
 description: The frenzy in memory-chip stocks continued on Wednesday as SK Hynix took
   less than 24 hours to join American peer Micron Technology in the $1 trillion valuation
   club.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-27T08:57:00Z'

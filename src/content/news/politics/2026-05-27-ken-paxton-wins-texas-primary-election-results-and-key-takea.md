@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump-backed Paxton beat Cornyn, making him the first Texas Republican
   senator to lose renomination.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-27T09:03:07Z'

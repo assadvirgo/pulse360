@@ -5,7 +5,7 @@ countryCode: US
 description: I had one ask for friends, colleagues, the lady checking me in for a
   meeting at a large software company's headquarters, and everyone else who stopped
   to admire the phone I've…
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 68.2
 pubDate: '2026-05-27T12:00:00Z'

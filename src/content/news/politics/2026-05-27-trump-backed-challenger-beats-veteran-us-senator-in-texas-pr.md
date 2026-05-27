@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ken Paxton's victory sets up what will be a closely watched contest in
   November's midterm elections.
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-27T11:53:06Z'

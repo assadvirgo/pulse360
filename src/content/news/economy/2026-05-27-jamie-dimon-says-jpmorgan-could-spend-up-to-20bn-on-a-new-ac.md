@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bank chief executive says Trump administration’s lighter approach to
   regulation has freed as much as $50bn in excess capital
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-27T16:06:52Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Swidler, who's served as general counsel since 2008, will leave the company
   at the end of June.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-27T16:58:23Z'

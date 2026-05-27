@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SOND, a startup led by Bose’s former head of sleep products, emerged
   from stealth with $7M in funding for its AI-powered sleep earbuds.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-27T14:00:00Z'

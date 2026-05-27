@@ -2,7 +2,7 @@
 category: Politics
 description: A funeral has been held for Mohammed Odeh, believed to be the leader
   of Hamas’s military wing.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-27T14:48:09Z'

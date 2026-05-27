@@ -5,7 +5,7 @@ countryCode: CD
 description: The eastern Democratic Republic of Congo (DRC) "faces a catastrophic
   collision of disease and conflict" as the Ebola outbreak continues, the head of
   the World Health Organization…
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-27T12:26:00Z'

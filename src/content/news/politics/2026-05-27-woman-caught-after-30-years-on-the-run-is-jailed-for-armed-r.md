@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Klette was finally caught in a flat in Berlin in 2024 and put on trial
   last year.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-27T12:42:43Z'

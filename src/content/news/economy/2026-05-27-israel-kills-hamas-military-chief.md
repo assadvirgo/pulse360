@@ -3,7 +3,7 @@ category: Economy
 country: Israel
 countryCode: IL
 description: IDF also steps up strikes in Lebanon despite nominal ceasefire
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-27T07:45:36Z'

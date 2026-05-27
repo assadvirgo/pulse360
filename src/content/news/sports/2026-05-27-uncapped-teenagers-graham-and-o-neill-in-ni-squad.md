@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Uncapped teenagers Braiden Graham and Ceadach O'Neill have been named
   in Northern Ireland's squad for June's friendlies with Guinea and France.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-27T08:48:28Z'

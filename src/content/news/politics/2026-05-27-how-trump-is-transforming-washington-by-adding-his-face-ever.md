@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sarah Smith visits places across the US capital where the president has
   hung banners, renamed a site or is rebuilding something.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-27T09:17:42Z'
