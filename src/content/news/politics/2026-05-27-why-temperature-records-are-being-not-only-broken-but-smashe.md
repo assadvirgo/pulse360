@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The combined effects of a heat dome and climate change have brought extreme
   warmth to western Europe.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 69.2
 pubDate: '2026-05-27T14:08:50Z'

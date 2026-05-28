@@ -4,7 +4,7 @@ country: Laos
 countryCode: LA
 description: Seven Lao ​nationals entered the cave in Xaisomboun province last week
   before a landslide blocked their ⁠exit.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-27T18:32:05Z'

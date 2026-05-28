@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former county cricketer Roman Walker, who once took the wicket of Virat
   Kohli, has taken up darts since leaving Leicestershire last year
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-05-27T09:46:55Z'

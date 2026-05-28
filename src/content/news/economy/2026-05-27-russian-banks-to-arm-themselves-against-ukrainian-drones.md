@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: New law will allow staff at country’s central bank and Sberbank to carry
   weapons
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-27T15:06:29Z'

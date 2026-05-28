@@ -5,7 +5,7 @@ countryCode: US
 description: In the classic musical &#8220;Brigadoon,&#8221; the Scottish townspeople
   who inhabit the mysterious town of the title keep referring to &#8220;the miracle,&#8221;
   which confounds…
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-27T19:45:02Z'

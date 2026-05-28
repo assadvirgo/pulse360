@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ‘Conflict-averse’ CEO’s management style encourages groupthink — and
   it’s a massive corporate liability.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-27T19:34:00Z'

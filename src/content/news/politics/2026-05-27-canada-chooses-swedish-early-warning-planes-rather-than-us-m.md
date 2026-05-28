@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Canadian Prime Minister Carney has said he wants to diversify from the
   US which has threatened to annex Canada.
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-27T18:44:33Z'

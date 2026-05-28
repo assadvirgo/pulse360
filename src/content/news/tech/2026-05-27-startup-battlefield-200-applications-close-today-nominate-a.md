@@ -5,7 +5,7 @@ countryCode: US
 description: Today is the final day to apply or nominate a startup for Startup Battlefield
   200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete
   for $100,000…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-05-27T14:15:00Z'

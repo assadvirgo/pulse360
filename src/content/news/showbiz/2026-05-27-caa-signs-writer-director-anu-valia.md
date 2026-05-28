@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Writer and director Anu Valia has signed with CAA for representation.
   A graduate of New York University’s Tisch School of the Arts, Valia’s short film
   Lucia, Before and…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-27T20:35:33Z'

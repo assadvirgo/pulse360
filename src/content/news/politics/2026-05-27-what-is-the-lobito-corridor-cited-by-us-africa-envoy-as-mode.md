@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Washington is set on a trade-focused shift in Africa, but critics say
   it facilitates further plundering of resources.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-27T13:48:24Z'

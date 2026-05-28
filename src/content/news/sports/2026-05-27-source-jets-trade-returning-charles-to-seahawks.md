@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Special teams player Irv Charles is going from the last-place Jets to
   the Super Bowl champion Seahawks, it was announced on Wednesday.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-27T20:55:36Z'
