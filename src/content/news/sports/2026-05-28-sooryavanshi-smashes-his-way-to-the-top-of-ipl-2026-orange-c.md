@@ -5,7 +5,7 @@ countryCode: IN
 description: Jofra Archer, meanwhile, picked up three wickets for the second game
   running, and is only two behind Purple Cap leaders Bhuvneshwar Kumar and Kagiso
   Rabada
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-28T01:59:52Z'

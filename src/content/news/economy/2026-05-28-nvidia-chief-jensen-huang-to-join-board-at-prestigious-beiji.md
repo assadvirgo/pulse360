@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chipmaker boss’s move to join Tim Cook-chaired board underlines push
   to maintain ties with China
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-28T00:15:02Z'

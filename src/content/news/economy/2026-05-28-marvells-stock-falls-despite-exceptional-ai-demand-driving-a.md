@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The custom-chip maker says revenue growth is expected “to continue accelerating
   each quarter” for the rest of the fiscal year.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-28T00:27:00Z'

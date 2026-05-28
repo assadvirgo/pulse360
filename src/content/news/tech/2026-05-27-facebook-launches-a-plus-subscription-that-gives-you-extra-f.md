@@ -5,7 +5,7 @@ countryCode: US
 description: After announcing tests of premium subscriptions for Facebook, Instagram,
   WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching
   a global rollout over…
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-27T20:03:42Z'

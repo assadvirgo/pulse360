@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The BBC visited China’s EV factories and found they are dominating the
   ecosystems shaping the global auto industry.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-27T22:00:38Z'

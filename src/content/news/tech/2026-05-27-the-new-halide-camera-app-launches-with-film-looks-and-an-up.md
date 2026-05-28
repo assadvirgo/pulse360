@@ -5,7 +5,7 @@ countryCode: US
 description: After first being announced in December 2024, Lux Optics has finally
   released the latest version of its Halide camera app for the iPhone and iPad. The
   Halide Mark III app's most…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-27T20:06:12Z'

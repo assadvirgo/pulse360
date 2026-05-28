@@ -5,7 +5,7 @@ countryCode: US
 description: The company has finally set a date for the first customer deliveries
   of what CEO RJ Scaringe has said is "maybe the most important thing we’ve launched
   to date."
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-27T21:15:04Z'

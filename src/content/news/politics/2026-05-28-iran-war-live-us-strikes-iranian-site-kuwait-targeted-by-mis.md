@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Kuwait&#039;s military says air defences are battling &#039;hostile&#039;
   missiles and drones, as alarms sound across the country.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-28T00:00:00Z'

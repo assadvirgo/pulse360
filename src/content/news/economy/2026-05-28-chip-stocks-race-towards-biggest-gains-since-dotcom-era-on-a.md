@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Philadelphia Semiconductor Index rides Big Tech’s data centre spending
   spree to 75% gains in 2026
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-28T04:00:27Z'

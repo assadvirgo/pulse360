@@ -5,7 +5,7 @@ countryCode: GB
 description: Before the Champions League final against Paris Saint-Germain on Saturday,
   Arsenal players Leandro Trossard, Myles Lewis-Skelly, Declan Rice and Eberechi Eze
   talk about what…
-displayOrder: 8
+displayOrder: 15
 heroImage: ''
 importance: 53.2
 pubDate: '2026-05-28T05:15:36Z'

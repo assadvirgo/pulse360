@@ -5,7 +5,7 @@ countryCode: US
 description: It's no wonder that every studio executive in Hollywood would kill to
   be in business with Curry Barker, the Gen Z auteur who first gained attention on
   YouTube. His horror film,…
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-27T23:15:58Z'

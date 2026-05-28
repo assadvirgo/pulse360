@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED with deal close: Allen Family Digital, an affiliate of Byron
   Allen’s family office, has closed its deal to acquire to acquire a majority stake
   in digital media company…'
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-27T22:03:00Z'

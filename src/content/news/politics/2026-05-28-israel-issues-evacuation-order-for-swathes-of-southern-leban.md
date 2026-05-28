@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The military says areas south of the Zahrani River are now "combat zones"
   as it threatens Hezbollah with fresh strikes.
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-28T04:44:52Z'

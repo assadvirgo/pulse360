@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Intensification comes while US-Iran indirect talks continue.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-27T20:56:30Z'
