@@ -5,7 +5,7 @@ countryCode: CN
 description: '&#8220;Afterpiece,&#8221; a Hong Kong drama produced by Derek Yee and
   directed by debut filmmaker Keane T.K. Wong, will world premiere as the opening
   film of the 28th Shanghai…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-28T08:13:56Z'

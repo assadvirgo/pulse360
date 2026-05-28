@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Duterte is facing charges relating to a long and bloody war on drugs
   in which thousands were killed.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-28T03:14:56Z'

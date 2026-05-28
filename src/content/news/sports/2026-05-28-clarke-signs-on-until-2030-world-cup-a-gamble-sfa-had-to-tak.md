@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Head coach Steve Clarke signs a new Scotland contract to cover the next
   two World Cups and the 2028 Euros.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-28T10:55:53Z'

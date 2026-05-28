@@ -5,7 +5,7 @@ countryCode: US
 description: The main inflation barometer preferred by Federal Reserve rose to a three-year
   high in April and it could rise even higher, posing a stiff challenge for households,
   businesses and…
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-28T12:34:00Z'

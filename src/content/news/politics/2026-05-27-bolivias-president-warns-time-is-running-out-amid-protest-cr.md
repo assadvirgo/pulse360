@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Bolivia’s president has warned protesters “time is running out” amid
   a weeks-long standoff.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-27T23:24:57Z'

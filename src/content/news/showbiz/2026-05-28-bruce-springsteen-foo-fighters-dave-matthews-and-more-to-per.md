@@ -5,7 +5,7 @@ countryCode: US
 description: Rage Against the Machine co-founder and longtime activist Tom Morello
   has announced the “Power to the People” festival — described as a &#8220;non-partisan
   celebration of peace,…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-05-28T13:09:20Z'

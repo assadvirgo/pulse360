@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Rising energy exports have helped push currency to three-year high, making
   other exports less competitive
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-28T04:00:27Z'

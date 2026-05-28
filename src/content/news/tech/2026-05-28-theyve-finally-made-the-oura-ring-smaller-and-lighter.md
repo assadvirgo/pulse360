@@ -3,7 +3,7 @@ category: Tech
 description: Wherever I go, whatever I do, people point at my finger and ask, "Is
   that an Oura Ring?" Lots of people find they like the design, and they tell me why
   they're thinking about…
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-28T12:00:00Z'

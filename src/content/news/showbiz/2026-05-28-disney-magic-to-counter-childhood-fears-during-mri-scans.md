@@ -3,7 +3,7 @@ category: Showbiz
 description: Mickey and Minnie Mouse, Buzz and Woody, Marvel superheroes and ‘Star
   Wars’ favorites are being incorporated into Philips Ambient Experience at medical
   facilities in 87 countries…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-28T13:00:00Z'

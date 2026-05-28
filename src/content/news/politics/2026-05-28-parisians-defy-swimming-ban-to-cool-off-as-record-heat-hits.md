@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Parisians cooled off in the city’s Saint-Martin canal as an unprecedented
   heatwave pushed temperatures across Europe.
-displayOrder: 28
+displayOrder: 47
 heroImage: ''
 importance: 71.5
 pubDate: '2026-05-28T01:51:17Z'

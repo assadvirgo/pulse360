@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Americans get less bang for their bucks
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-28T12:38:00Z'

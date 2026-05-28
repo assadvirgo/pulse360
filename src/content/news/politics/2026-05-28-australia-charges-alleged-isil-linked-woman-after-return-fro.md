@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Case follows repatriation of women and children held for years in Syrian
   camps without trial.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-28T07:46:41Z'

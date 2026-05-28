@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: How does the current Arsenal side measure up against the 2006 team who
   were last in a Champions League final? Take your pick.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-05-28T05:51:36Z'
