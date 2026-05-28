@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: '&#039;Stopping this Ebola transmission depends entirely on humanitarian
   access,&#039; said Tedros, the WHO chief.'
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-27T13:05:21Z'

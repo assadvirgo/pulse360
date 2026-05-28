@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: T. Rowe Price’s Tony Wang is looking AI for bottlenecks and finding them,
   and also sees returns in space and light.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-27T12:37:00Z'

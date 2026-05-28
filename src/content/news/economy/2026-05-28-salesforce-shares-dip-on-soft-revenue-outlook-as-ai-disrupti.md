@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While the company’s Agentforce offering is picking up steam, Salesforce
   didn’t deliver the top-line growth investors wanted to see
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-28T00:23:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: By the time that the Democratic primary for New York's 12th congressional
   district wraps up in June, Anthropic and OpenAI will have spent millions on their
   battle over the…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-27T15:40:00Z'

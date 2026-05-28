@@ -5,7 +5,7 @@ countryCode: US
 description: Kenneth Iwamasa was intimately aware of Perry's yearslong struggle with
   addiction but procured the actor dozens of vials of ketamine in the weeks leading
   up to his death.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-27T20:34:02Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump administration has sought to pressure international officials who
   scrutinise reported abuses by Israeli forces.
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-28T00:03:18Z'

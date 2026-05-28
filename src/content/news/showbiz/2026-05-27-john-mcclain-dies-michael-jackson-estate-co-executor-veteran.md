@@ -5,7 +5,7 @@ countryCode: US
 description: John McClain, the veteran music executive who served as a co-executor
   for the Michael Jackson estate, has died. He was 71. The former A&#38;M and Interscope
   Records exec…
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-27T22:48:39Z'

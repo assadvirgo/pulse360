@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The AI data-center boom is quietly cannibalizing America’s power grid.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-27T18:28:00Z'

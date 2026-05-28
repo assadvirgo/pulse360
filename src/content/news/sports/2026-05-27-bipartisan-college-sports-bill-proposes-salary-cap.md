@@ -5,7 +5,7 @@ countryCode: US
 description: A group of U.S. senators introduced a bipartisan college sports bill
   that aims to regulate payments to players, limit transfers and restrict coach movement
   during the season.
-displayOrder: 23
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-27T20:55:36Z'

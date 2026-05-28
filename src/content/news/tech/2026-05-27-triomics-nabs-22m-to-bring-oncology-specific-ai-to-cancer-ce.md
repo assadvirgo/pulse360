@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: The Series B round was led by Battery Ventures.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-27T21:11:15Z'
