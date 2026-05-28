@@ -3,7 +3,7 @@ category: Tech
 description: For a few glorious years, a $399 portable gadget could run almost anything
   you'd want to play. In 2022, the Steam Deck finally made PC gaming portable and
   affordable. I played…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-28T06:30:23Z'

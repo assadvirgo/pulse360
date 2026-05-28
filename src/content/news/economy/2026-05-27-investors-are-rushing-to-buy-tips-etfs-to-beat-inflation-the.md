@@ -5,7 +5,7 @@ countryCode: US
 description: Inflation-protected funds don’t always protect against inflation. As
   consumer-price inflation hits a three-year high due to the Iran war, the premise
   in their names is being…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-27T19:29:00Z'

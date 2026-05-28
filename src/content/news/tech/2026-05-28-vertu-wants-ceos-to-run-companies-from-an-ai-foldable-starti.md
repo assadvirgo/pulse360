@@ -2,7 +2,7 @@
 category: Tech
 description: Built on top of the open-source Hermes project, Vertu's new foldable
   combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-28T07:00:00Z'

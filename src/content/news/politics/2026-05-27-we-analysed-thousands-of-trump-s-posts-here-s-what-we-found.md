@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The BBC's Ros Atkins and BBC Verify sifted through thousands of the president's
   posts.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-27T23:21:41Z'

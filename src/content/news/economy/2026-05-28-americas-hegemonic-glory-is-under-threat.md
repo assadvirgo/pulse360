@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Along with excessive ‘guns and butter’ spending, that risk means long-term
   Treasuries are expensive
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-28T04:00:19Z'

@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: North Africa leads Africa’s industrialisation, but continent-wide gains
   remain slow and uneven.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-28T07:19:43Z'

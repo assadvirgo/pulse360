@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The music legend on delivering "memory songs" for his 20th solo album,
   The Boys of Dungeon Lane - and why he's intrigued by the new Beatles biopics.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-27T23:13:45Z'

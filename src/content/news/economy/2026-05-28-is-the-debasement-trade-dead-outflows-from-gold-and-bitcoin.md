@@ -2,7 +2,7 @@
 category: Economy
 description: The so-called debasement trade has fallen out of favor as both a discussion
   point and an investment concept.
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-28T08:51:00Z'

@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: The first flight carrying around 300 Ghanaians evacuated from South Africa
   following anti-immigrant tensions.
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-28T04:56:36Z'

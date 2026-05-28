@@ -4,7 +4,7 @@ country: Zimbabwe
 countryCode: ZW
 description: A surge in malaria cases in Zimbabwe is exposing fragile health systems
   and growing treatment shortages in rural areas.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-28T02:18:55Z'
