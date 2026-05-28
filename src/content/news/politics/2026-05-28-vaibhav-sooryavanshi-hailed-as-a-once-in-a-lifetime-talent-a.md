@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Cricket greats, writers and broadcasters hail 15-year-old Rajasthan Royals
   opener after his 29-ball 97 in IPL playoffs.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-28T06:56:48Z'

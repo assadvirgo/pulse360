@@ -5,7 +5,7 @@ countryCode: CH
 description: Oscar-winning composer Gabriel Yared, whose multiple award-winning credits
   include the soundscapes for The English Patient, The Talented Mr. Ripley, Cold Mountain
   and Betty Blue,…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-05-28T13:01:00Z'

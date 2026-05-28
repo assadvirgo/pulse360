@@ -5,7 +5,7 @@ countryCode: US
 description: Canadian actress Malin Akerman and her husband, Jack Donnelly, have brought
   their longtime L.A. hideaway to the market for $2.99 million—more than 15 years
   after purchasing the…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-28T09:03:00Z'

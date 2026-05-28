@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: A man stabbed and wounded three people at a Swiss train station, police
   said.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-28T09:50:00Z'

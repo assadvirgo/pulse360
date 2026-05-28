@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president has issued a stark warning to a US ally, in a sign of
   rising tensions over Strait of Hormuz.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-28T12:54:26Z'

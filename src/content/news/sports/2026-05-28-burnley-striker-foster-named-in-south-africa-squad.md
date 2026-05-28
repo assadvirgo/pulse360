@@ -5,7 +5,7 @@ countryCode: ZA
 description: Burnley striker Lyle Foster is named in South Africa's World Cup squad
   as the country prepare to play in the tournament finals for the first time since
   they hosted the 2010…
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 63.2
 pubDate: '2026-05-28T16:57:17Z'

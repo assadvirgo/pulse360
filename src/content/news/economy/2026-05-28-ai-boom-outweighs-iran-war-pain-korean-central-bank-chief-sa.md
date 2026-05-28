@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Shin Hyun-song at first policymaking meeting projects boost to GDP on
   chip demand and surging stocks
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-05-28T04:52:07Z'

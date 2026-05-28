@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: The spread of datura is forcing the Iraqi Interior Ministry to urge farmers
   and citizens to report if spotted.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-28T14:53:59Z'

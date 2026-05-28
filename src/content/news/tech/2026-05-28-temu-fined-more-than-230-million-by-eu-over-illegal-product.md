@@ -3,7 +3,7 @@ category: Tech
 description: Temu has been fined &#8364;200 million (about $232 million) by the European
   Commission after it found that consumers are "very likely to encounter illegal items"
   on the popular…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-28T11:47:40Z'

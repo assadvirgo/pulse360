@@ -2,7 +2,7 @@
 category: Politics
 description: Some countries ban arrivals from affected countries while others step
   up screening in bid to contain rare strain.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-28T05:25:58Z'

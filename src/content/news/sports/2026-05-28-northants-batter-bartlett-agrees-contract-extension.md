@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: George Bartlett has signed a one-year contract extension with Northamptonshire
   until the end of the 2027 season.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-28T12:02:32Z'

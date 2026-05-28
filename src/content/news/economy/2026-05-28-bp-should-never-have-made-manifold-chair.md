@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: The UK energy company’s board took an unwise gamble on a dominant executive
-displayOrder: 30
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-28T14:49:22Z'

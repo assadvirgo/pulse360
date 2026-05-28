@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Billionaire co-founder of Apollo has been locked in a battle with East
   Hampton for years over changes to eatery
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-28T12:55:10Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: More than 20 others were injured in the attack, which came hours after
   the funeral of the head of Hamas’s armed wing.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-28T09:10:33Z'

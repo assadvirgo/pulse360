@@ -3,7 +3,7 @@ category: Tech
 description: 'Activision has officially announced Call of Duty: Modern Warfare 4 and
   says the game will launch on October 23rd, 2026. Modern Warfare 4, which is developed
   by Infinity Ward, will…'
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-28T15:32:52Z'

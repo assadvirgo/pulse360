@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The country’s war effort was at a nadir. But mass drone production has
   come to the rescue
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-28T04:00:19Z'
