@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Prime minister says Israel is ‘squeezing Hamas’ in the enclave at the
   same time as escalating attacks in southern Lebanon
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-28T19:48:41Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India's Jemimah Rodrigues and Yastika Bhatia put on 126 for the third
   wicket to set up a 38-run victory over England in the opening women's T20 at Chelmsford.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-28T21:16:35Z'

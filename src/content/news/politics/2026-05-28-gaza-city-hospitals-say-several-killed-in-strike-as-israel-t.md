@@ -2,7 +2,7 @@
 category: Politics
 description: At least five children were reportedly killed in the strike, which appears
   to have targeted a Hamas commander.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-28T16:20:50Z'

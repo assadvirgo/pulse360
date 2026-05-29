@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: After nearly three years of war and displacement, Eid in Lebanon no longer
   feels like celebration for many families.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-28T17:40:23Z'

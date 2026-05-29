@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: A 31-year-old Swiss man has been arrested, police say, as images from
   the scene show parts of the station cordoned off.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-28T16:26:14Z'

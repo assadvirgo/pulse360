@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A group of US lawmakers are joining protesters in demanding a controversial
   immigration detention centre be shut down.
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-28T20:49:52Z'

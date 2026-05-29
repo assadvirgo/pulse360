@@ -3,7 +3,7 @@ category: Showbiz
 description: Prime Video’s Off Campus received a season 2 renewal before its first
   season even launched, and the central couple is poised to take the torch from Hannah
   Wells (Ella Bright) and…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-28T23:14:49Z'

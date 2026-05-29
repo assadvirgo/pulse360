@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Fibre-optic drones are now Hezbollah's primary weapon against Israel's
   soldiers and civilians.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-28T16:39:30Z'

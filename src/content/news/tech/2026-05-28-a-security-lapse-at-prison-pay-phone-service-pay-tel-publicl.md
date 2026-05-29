@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pay Tel secured the publicly exposed data after security researchers
   discovered the leak containing callers' sensitive ID documents and inmate communications.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-28T18:00:00Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Beirut had until now largely been spared even as both Israel and Hezbollah
   accused each other of breaking last month's ceasefire.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-28T17:39:16Z'

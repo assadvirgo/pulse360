@@ -5,7 +5,7 @@ countryCode: US
 description: Bravo executive Josh Brown, who was in the room on reunion taping day,
   reveals to The Hollywood Reporter how production scrambled to capture the cast reacting
   to Amanda Batula and…
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-28T21:31:06Z'

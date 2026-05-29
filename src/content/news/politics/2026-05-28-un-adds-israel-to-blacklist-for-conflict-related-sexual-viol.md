@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli ambassador to the UN says Tel Aviv will cut ties with UN chief
   Antonio Guterres over the upcoming report.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-28T17:16:21Z'

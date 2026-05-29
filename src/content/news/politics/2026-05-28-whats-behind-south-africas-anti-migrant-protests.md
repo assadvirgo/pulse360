@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Thousands of foreign workers are under increasing pressure to leave the
   country.
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-28T19:35:24Z'

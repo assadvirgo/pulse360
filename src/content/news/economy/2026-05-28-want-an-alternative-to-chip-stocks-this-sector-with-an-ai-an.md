@@ -2,7 +2,7 @@
 category: Economy
 description: The transportation sector has benefited from hopes of a Iran peace deal,
   but also from the build out of data centers needed to power AI.
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-28T21:39:00Z'
