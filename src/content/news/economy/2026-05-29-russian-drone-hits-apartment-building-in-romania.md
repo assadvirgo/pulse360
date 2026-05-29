@@ -4,7 +4,7 @@ country: Romania
 countryCode: RO
 description: Nato and Bucharest condemn ‘reckless’ escalation after two people were
   injured in Galaţi
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-29T07:21:46Z'

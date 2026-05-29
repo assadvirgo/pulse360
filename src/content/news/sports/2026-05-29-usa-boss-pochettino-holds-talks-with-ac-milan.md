@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mauricio Pochettino's contract as United States head coach expires at
   the end of the World Cup in July.
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-29T08:44:13Z'

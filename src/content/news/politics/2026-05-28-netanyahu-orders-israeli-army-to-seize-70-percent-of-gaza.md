@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli Prime Minister Benjamin Netanyahu says he has ordered the military
   to take control of 70 percent of Gaza.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-28T23:48:28Z'

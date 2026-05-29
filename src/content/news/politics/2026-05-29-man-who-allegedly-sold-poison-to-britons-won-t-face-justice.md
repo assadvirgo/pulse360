@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A Canadian man accused of selling lethal substances linked to the deaths
   of more than 100 British people will not face justice in the UK.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-05-29T00:49:00Z'

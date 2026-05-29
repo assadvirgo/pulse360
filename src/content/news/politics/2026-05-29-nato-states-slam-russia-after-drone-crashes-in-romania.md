@@ -4,7 +4,7 @@ country: Romania
 countryCode: RO
 description: The incident adds to concern that Moscow&#039;s war on Ukraine risks
   spilling over to entangle neighbouring NATO states.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 77.5
 pubDate: '2026-05-29T07:50:50Z'

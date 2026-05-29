@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The ‘Jurassic World Rebirth’ and ‘Rogue One’ director said he has been
   experimenting with diffusion models and eventually wants to create a hybrid AI film.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-29T01:51:55Z'

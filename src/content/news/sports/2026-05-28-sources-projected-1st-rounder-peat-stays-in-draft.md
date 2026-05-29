@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Arizona forward Koa Peat, a projected first-round pick, is keeping his
   name in the NBA draft, sources told ESPN on Wednesday.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-28T17:48:30Z'

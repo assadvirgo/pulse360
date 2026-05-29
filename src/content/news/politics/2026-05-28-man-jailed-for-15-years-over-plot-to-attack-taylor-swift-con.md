@@ -4,7 +4,7 @@ country: Austria
 countryCode: AT
 description: A 21-year-old Austrian man is found guilty of planning the attack and
   other terrorism-related offences.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-28T21:07:46Z'

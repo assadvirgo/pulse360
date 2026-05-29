@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Al Jazeera’s Obaida Hitto brings you the latest from southern Lebanon
   amidst increasing Israeli attacks.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-29T03:18:49Z'

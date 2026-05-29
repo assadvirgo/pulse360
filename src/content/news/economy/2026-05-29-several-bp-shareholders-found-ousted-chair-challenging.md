@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Several large investors say it was hard to arrange meetings with Albert
   Manifold before his removal from oil major
-displayOrder: 28
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-29T04:00:29Z'

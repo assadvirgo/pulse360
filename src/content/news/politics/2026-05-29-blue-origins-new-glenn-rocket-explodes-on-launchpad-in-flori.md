@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The incident is the latest setback for Jeff Bezos’s space venture as
   it seeks to narrow the gap with Elon Musk’s SpaceX.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T03:52:24Z'

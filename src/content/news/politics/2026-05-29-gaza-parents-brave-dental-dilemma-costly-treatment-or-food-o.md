@@ -2,7 +2,7 @@
 category: Politics
 description: Many Palestinians in Gaza are forgoing expensive dental treatment, at
   a detriment to their health.
-displayOrder: 16
+displayOrder: 25
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-29T08:13:57Z'

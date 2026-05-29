@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: An Australian woman jailed for life after killing three relatives with
   a toxic mushroom-laced meal will appeal her conviction.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 44.0
 pubDate: '2026-05-29T06:30:00Z'

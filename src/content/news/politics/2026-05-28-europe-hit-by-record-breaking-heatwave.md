@@ -2,7 +2,7 @@
 category: Politics
 description: European countries are issuing heat warnings as an unseasonal heatwave
   drives record temperatures across the continent.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-28T20:57:10Z'
