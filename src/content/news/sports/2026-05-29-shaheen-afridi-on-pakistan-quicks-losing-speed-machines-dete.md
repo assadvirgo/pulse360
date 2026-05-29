@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Afridi said Rizwan's omission from the ODIs against Australia was to
   give youngsters chance ahead of the 2027 ODI World Cup
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-29T16:20:43Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Foreign minister asserts abuse against French nationals likely to amount
   to criminal offences if proven.
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T12:00:59Z'

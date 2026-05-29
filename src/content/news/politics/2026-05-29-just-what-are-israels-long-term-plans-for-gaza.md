@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Despite an apparent ceasefire, Israel&#039;s leaders continue to hint
   at annexation and ethnic cleansing.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T15:01:31Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wigan Warriors and Hull KR prepare to meet in the Challenge Cup final
   - a fixture described as the "unofficial World Club Challenge".
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-29T08:52:57Z'

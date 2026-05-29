@@ -5,7 +5,7 @@ countryCode: US
 description: This week, the Steam Deck OLED with 512GB of storage went from $549 to
   $789, putting it even further out of reach for those who were considering getting
   one as they came back in…
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-29T14:59:12Z'

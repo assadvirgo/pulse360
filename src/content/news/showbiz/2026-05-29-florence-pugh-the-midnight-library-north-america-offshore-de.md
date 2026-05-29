@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount has closed their deal with Studio Canal for North American
   and myriad foreign territories on the Garth Davis directed, Florence Pugh starring
   fantasy drama The Midnight…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-29T16:22:03Z'

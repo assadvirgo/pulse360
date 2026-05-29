@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Paramount Pictures has scooped North&#160;American and select international&#160;distribution
   rights to&#160;&#8220;The Midnight Library&#8221;&#160;from…
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-29T16:17:16Z'

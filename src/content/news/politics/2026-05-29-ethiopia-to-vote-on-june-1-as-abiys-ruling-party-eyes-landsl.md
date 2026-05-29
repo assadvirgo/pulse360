@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: Opposition fragmentation and violence in parts of the country could potentially
   limit voter turnout.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-29T05:58:03Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft has delayed its upcoming Fable reboot once again. The game
   was set to launch in autumn 2026, but Microsoft now says that Fable will come out
   in February 2027. However,…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-29T16:51:08Z'
