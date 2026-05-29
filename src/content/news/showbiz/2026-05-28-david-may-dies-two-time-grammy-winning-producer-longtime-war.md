@@ -5,7 +5,7 @@ countryCode: US
 description: David May, a two-time Grammy-winning producer who worked many of music&#8217;s
   biggest names and was a former longtime VP at Warner Records and Rhino Entertainment,
   has died. He…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-28T19:10:00Z'

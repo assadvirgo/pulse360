@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Restoring pre-war stockpiles of critical US munitions will take at least
   two years, according to CSIS report.
-displayOrder: 6
+displayOrder: 11
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-28T18:36:50Z'

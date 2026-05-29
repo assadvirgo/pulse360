@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Unlike the US president, the pontiff is choosing to grapple with the
   serious challenges of AI
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-28T14:20:07Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A $65 billion Series H funding round follows a sharp three-month revenue
   surge for the Claude creator, pushing Anthropic to a fresh $965 billion valuation.
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-28T19:15:00Z'

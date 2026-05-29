@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Brazil forward Neymar is set to be out for "two to three weeks" and means
   he will miss friendly matches against Panama and Egypt.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-28T14:16:00Z'

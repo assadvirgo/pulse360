@@ -5,7 +5,7 @@ countryCode: ID
 description: Julian Rosefeldt&#8217;s &#8220;Euphoria&#8221; will open Balinale&#8217;s
   19th edition, with Joshua Oppenheimer&#8217;s &#8220;The End&#8221; closing the
   program. The festival is…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-05-28T20:04:39Z'

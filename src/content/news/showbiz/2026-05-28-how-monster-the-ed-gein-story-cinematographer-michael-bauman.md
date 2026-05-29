@@ -5,7 +5,7 @@ countryCode: US
 description: 'When cinematographer Michael Bauman began research for Netflix’s “Monster:
   The Ed Gein Story,” he got unique insight into the story. The eight-part series,
   led by Charlie Hunnam,…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-28T18:45:00Z'

@@ -3,7 +3,7 @@ category: Tech
 description: Fosi Audio announced a new sound card today with a unique feature designed
   to give FPS players an advantage. The C3 Gaming Sound Card, which sits outside your
   PC or laptop and…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-28T14:55:23Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Disney&#8217;s ABC has submitted its license renewal applications for
   its eight local TV stations to the FCC as ordered by the agency &#8212; but said
   it is doing so &#8220;under…
-displayOrder: 3
+displayOrder: 5
 heroImage: ''
 importance: 65.8
 pubDate: '2026-05-28T20:20:22Z'

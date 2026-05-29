@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Impeachment committee to hold first meeting next week as President Cyril
   Ramaphosa challenges findings in court.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-28T13:57:49Z'

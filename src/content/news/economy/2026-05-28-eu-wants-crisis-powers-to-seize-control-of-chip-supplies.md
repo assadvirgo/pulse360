@@ -2,7 +2,7 @@
 category: Economy
 description: Chipmakers could be forced to override existing contracts under draft
   law
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-28T16:23:28Z'

@@ -3,7 +3,7 @@ category: Tech
 description: While startups raising back-to-back rounds at steep step-ups have become
   almost routine, a company whose valuation doubles in three weeks is unusual enough
   to raise questions,…
-displayOrder: 10
+displayOrder: 17
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-28T17:15:00Z'

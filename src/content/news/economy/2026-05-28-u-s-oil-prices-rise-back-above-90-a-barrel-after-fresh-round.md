@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: United States-Iran strikes are testing a fragile cease-fire, casting
   doubt on a peace deal and reopening the Strait of Hormuz.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-28T12:35:00Z'

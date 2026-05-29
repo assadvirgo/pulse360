@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Footage shows smoke billowing over south Beirut following an Israeli
   attack on the Lebanese capital.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-28T16:42:41Z'

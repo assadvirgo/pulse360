@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: As Muslims around the world celebrate Eid, Palestinians in Gaza are facing
   fear, grief, and deadly attacks.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-28T10:47:19Z'

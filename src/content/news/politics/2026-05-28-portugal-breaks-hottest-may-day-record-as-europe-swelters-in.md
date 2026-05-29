@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: French students are taking their exams in baking schools, while red alerts
   are issued in Italy.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-28T17:07:00Z'

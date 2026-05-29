@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: That means millions more Americans may get access to Lilly’s new GLP-1
   pill Foundayo or the GLP-1 injection Zepbound.
-displayOrder: 34
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-28T20:21:00Z'
