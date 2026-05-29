@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Northern Ireland's World Cup dream may have ended in March but the squad
   for June's internationals suggests Michael O'Neill has one eye on the future.
-displayOrder: 12
+displayOrder: 32
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-29T07:06:42Z'

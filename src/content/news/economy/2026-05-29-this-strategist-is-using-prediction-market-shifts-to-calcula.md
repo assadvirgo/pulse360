@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A Citadel strategist looked at prediction market changes during the Memorial
   Day long weekend to calculate market moves.
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-29T12:29:00Z'

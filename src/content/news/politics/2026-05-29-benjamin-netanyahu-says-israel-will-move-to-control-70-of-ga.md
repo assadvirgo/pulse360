@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli Prime Minister Benjamin Netanyahu said his country is expanding
   its hold on Gaza and would move to control 70% of the enclave.
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-29T06:52:00Z'

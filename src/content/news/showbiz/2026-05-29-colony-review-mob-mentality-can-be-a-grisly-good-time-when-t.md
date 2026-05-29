@@ -5,7 +5,7 @@ countryCode: KR
 description: With the global craving for Korean genre entertainments showing no sign
   of abating, it can&#8217;t be easy to be a filmmaker tasked with feeding the beast
   with ever bigger,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-29T10:14:29Z'

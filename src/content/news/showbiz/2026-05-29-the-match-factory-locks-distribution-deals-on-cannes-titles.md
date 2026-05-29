@@ -3,7 +3,7 @@ category: Showbiz
 description: The Match Factory has reported multiple distribution deals on its Cannes
   slate.&#160; Paweł Pawlikowski’s Fatherland has sold to Scandinavia (Nonstop Entertainment),
   Greece…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-29T09:07:49Z'

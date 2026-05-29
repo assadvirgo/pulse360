@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France overcame decades of underachievement to create a football talent
   system unmatched anywhere in the world.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-29T12:04:21Z'

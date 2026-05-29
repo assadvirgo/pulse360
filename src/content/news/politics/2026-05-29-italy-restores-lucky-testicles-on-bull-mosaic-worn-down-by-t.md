@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The artwork is the centre of a tradition that involves visitors performing
   three spins on it for good fortune.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-29T02:01:44Z'

@@ -3,7 +3,7 @@ category: Politics
 country: South Korea
 countryCode: KR
 description: Chipmaker becomes second South Korean company in history to hit milestone.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-29T08:04:27Z'

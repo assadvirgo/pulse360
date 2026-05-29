@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Studies and officials report rising PTSD, suicide and social strain in
   Israel amid sustained conflicts since 2023
-displayOrder: 21
+displayOrder: 41
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-29T06:39:24Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: For two retailers that both saw their stock slide by a double-digit percentage
   after earnings, what may be most surprising is that executives at both Gap and American
   Eagle…
-displayOrder: 40
+displayOrder: 50
 heroImage: ''
 importance: 36.5
 pubDate: '2026-05-29T08:58:00Z'

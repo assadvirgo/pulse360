@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Senegal were stripped of the AFCON title after a mid-game boycott of
   the final and now face turbulent World Cup start.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-29T06:11:07Z'

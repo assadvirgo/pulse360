@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As the S&amp;P 500 soars even higher by the end of the decade, gold will
   be going along for the ride, says Yardeni Research.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-29T08:28:00Z'

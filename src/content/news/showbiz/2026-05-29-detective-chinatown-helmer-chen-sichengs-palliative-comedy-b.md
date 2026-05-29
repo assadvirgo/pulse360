@@ -5,7 +5,7 @@ countryCode: GB
 description: Trinity CineAsia has acquired U.K. distribution rights to &#8220;Being
   Towards Death,&#8221; the latest feature from &#8220;Detective Chinatown&#8221;
   franchise director Chen…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-29T11:11:26Z'
