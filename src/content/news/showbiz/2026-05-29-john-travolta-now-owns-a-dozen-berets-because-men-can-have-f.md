@@ -5,7 +5,7 @@ countryCode: US
 description: John Travolta has wholeheartedly embraced the beret as his trademark
   look since his headline-making appearances at the Cannes Film Festival earlier this
   month. At the DGA premiere…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-29T03:08:07Z'

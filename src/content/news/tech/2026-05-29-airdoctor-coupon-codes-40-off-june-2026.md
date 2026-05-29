@@ -2,7 +2,7 @@
 category: Tech
 description: Save up to $400 on top air purifiers and filters with verified AirDoctor
   promo codes and special offers for May 2026.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-29T05:00:00Z'

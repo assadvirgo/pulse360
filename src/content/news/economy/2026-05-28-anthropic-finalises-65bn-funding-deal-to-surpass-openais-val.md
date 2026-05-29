@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: New round values Claude AI maker at $965bn including the new money
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-28T19:41:24Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Billionaire says the arrangement, described in IPO filings as a three-year
   agreement, only lasts for 180 days
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-28T19:17:18Z'

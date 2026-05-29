@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Failure comes days before planned launch of internet satellites for Amazon
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-29T03:29:02Z'

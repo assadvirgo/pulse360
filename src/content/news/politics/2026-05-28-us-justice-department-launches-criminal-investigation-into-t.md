@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The case centres on whether the former columnist lied about the funding
   she received for her civil lawsuit against the US president.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-05-28T16:50:33Z'

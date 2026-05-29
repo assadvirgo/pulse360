@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Critics say measure risks undermining electoral process and creating
   new avenues for contesting results.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-29T05:24:37Z'

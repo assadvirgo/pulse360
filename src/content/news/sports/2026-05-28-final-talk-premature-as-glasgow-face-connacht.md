@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Glasgow Warriors head coach Franco Smith will have hated parts of the
   preamble to Friday night's meeting with Connacht, writes Tom English.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-28T16:44:27Z'

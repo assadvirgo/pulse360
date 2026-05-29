@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Department of Justice has argued that states are obliged to give
   ICE vehicles confidential licence plates.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-28T20:03:31Z'

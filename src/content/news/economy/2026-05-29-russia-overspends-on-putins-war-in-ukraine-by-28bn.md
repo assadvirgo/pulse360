@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Finance ministry asked cabinet in February to freeze expenditure in other
   areas as cost of conflict mounts
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T04:00:08Z'

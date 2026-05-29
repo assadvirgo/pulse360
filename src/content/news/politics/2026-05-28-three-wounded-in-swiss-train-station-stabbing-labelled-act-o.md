@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Swiss authorities arrest suspect who had come to authorities&#039; attention
   in 2015 for distributing ISIL propaganda.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 70.5
 pubDate: '2026-05-28T20:00:17Z'

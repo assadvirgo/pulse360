@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Bezos-backed EV startup has yet to announce final pricing for its
   vehicle, which is supposed to start shipping by the end of this year.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-28T20:29:00Z'
