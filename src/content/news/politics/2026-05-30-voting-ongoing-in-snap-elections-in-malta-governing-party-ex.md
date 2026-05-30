@@ -4,7 +4,7 @@ country: Malta
 countryCode: MT
 description: Malta&#039;s economy to dominate this year’s election, with rising rents
   and infrastructure at the forefront of debates.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-30T08:22:40Z'

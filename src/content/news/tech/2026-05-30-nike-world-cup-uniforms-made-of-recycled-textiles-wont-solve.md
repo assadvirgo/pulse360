@@ -3,7 +3,7 @@ category: Tech
 description: The activewear giant has used chemical recycling to make jersey for 16
   teams competing in the tournament. But the technique is unlikely to help solve fashion’s
   waste issue.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-30T08:30:00Z'

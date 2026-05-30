@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: BBC Verify has analysed videos of attacks in occupied Ukraine on Russian
   trucks carrying ammunition, fuel and food.
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-30T01:34:38Z'

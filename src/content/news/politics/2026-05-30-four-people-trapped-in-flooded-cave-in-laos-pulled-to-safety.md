@@ -4,7 +4,7 @@ country: Laos
 countryCode: LA
 description: Four people trapped for 10 days in a flooded cave in Laos have been safely
   evacuated by rescuers.
-displayOrder: 30
+displayOrder: 42
 heroImage: ''
 importance: 40.0
 pubDate: '2026-05-30T08:32:00Z'

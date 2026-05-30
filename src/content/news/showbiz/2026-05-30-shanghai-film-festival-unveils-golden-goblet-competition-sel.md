@@ -5,7 +5,7 @@ countryCode: CN
 description: The 28th Shanghai International Film Festival has unveiled the competition
   lineup for its Golden Goblet Awards, spanning five categories across fiction, documentary,
   animation,…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 71.8
 pubDate: '2026-05-30T12:07:44Z'

@@ -4,7 +4,7 @@ country: Poland
 countryCode: PL
 description: Ukrainian leader&#039;s move to rename army unit after fighters who killed
   Poles in WWII causes &#039;outrage&#039; in Poland.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-05-29T20:56:38Z'

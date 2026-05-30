@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The ruling drew support from founders, while lawyers said it could force
   platforms to revisit how they handle trademarked keywords.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-05-30T02:00:00Z'

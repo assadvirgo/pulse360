@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pentagon chief still presses allies to boost defence spending to counter
   ‘military build-up’ by Beijing
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-30T04:47:54Z'

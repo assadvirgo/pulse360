@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel’s ground invasion of Lebanon has moved deeper into sovereign territory,
   with troops crossing the Litani river.
-displayOrder: 13
+displayOrder: 35
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-30T04:36:17Z'

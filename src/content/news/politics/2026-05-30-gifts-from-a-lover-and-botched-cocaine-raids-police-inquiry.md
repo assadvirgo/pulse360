@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa's Madlanga Commission hears about Brazilian butt lift bribe
   denials and alleged drug heists.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-05-30T02:56:40Z'

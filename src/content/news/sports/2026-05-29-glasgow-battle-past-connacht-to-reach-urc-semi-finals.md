@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Glasgow Warriors will face Bulls or Munster in the United Rugby Championship
   semi-finals after a hard-fought win against Connacht.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-29T21:49:49Z'

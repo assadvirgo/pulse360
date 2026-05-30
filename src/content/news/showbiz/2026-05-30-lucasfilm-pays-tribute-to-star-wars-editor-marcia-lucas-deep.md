@@ -5,7 +5,7 @@ countryCode: US
 description: Lucasfilm has posted a statement mourning the death of Marcia Lucas,
   George Lucas&#8217; former wife who was one of three to share an Oscar for editing
   &#8220;Star Wars.&#8221;…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-30T03:51:15Z'
