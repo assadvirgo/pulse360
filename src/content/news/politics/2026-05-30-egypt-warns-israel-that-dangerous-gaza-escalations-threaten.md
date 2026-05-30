@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement
   threats push deal to the brink of collapse.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-30T12:04:35Z'

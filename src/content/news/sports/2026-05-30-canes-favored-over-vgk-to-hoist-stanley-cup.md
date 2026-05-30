@@ -5,7 +5,7 @@ countryCode: US
 description: Having finally gotten over the conference finals hump, the Hurricanes
   are favored over the Golden Knights as they head into their first Stanley Cup Final
   since 2006.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-30T16:59:04Z'

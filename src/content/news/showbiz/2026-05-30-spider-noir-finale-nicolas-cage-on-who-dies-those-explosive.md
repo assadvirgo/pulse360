@@ -3,7 +3,7 @@ category: Showbiz
 description: 'SPOILER ALERT: This story contains spoilers from the Season 1 finale
   of &#8220;Spider-Noir,&#8221; now streaming on Prime Video. “Spider-Noir” is unlike
   any superhero saga we’ve…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-05-30T14:00:00Z'

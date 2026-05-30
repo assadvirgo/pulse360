@@ -5,7 +5,7 @@ countryCode: US
 description: I haven't seen anything as stupid as the WeWork IPO document in a very
   long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke.
   SpaceX is a threat. And…
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-30T12:00:00Z'

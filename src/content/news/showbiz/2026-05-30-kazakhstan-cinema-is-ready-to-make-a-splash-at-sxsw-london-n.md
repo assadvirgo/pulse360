@@ -5,7 +5,7 @@ countryCode: KZ
 description: With 'Sicko' and 'Becoming' among the feature lineup, along with a short,
   the event's head of screen Anna Bogutskaya explains why the Central Asian country,
   and the broader…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-30T09:00:00Z'

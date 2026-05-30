@@ -2,7 +2,7 @@
 category: Economy
 description: “I’ve found that acting ‘normal’ means others treat me like one of the
   group.”
-displayOrder: 36
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-30T14:22:00Z'

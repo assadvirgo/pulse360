@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “I’m trying to figure out whether it’s worth my while achieving FIRE.”
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-30T11:15:00Z'

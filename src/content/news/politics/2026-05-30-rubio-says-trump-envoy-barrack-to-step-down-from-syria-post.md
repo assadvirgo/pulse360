@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump envoy Tom Barrack to exit formal Syria post but retain key role
   managing US policy in Syria and Iraq.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-30T10:34:54Z'

@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: A new book looks into the long history of people who have opposed vaccines.
-displayOrder: 11
+displayOrder: 25
 heroImage: ''
 importance: 60.0
 pubDate: '2026-05-30T11:00:05Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: As friends, family and Star Wars fans mourn the death of editor Marcia
   Lucas, Lucasfilm has shared a statement. The production company, founded by Marcia&#8217;s
   ex-husband George…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 67.0
 pubDate: '2026-05-30T15:22:16Z'

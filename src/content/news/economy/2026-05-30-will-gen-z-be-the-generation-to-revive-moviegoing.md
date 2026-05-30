@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gen Zers like affordable, social experiences and are driving demand for
   anime and video game titles at the theaters.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-30T12:00:01Z'

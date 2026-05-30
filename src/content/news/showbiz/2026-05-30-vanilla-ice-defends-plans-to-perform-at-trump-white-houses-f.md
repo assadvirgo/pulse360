@@ -5,7 +5,7 @@ countryCode: US
 description: Multiple artists have dropped out of the Donald Trump-backed “Freedom
   250” festival this summer. But Vanilla Ice is sticking to his guns and plans to
   keep his gig at the D.C.…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-30T13:00:24Z'

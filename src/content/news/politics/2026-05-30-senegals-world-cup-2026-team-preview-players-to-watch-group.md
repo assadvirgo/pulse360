@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Senegal arrive for their third consecutive World Cup as arguably the
   best side in Africa - and aim to lift the trophy.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-05-30T08:05:32Z'
