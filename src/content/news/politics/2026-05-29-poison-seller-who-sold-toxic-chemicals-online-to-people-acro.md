@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Kenneth Law admitted charges relating to Canadian victims - but families
   say he should also be charged in the UK over 79 deaths in Britain.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-29T17:08:50Z'

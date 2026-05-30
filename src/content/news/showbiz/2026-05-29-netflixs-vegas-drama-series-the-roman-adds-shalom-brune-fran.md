@@ -5,7 +5,7 @@ countryCode: US
 description: 'Shalom Brune-Franklin (Dune: Prophecy) and Jimmy O. Yang (Interior Chinatown)
   have landed roles in&#160;The Roman, Netflix&#8217;s new Vegas drama series from
   creators Brian…'
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-29T17:00:00Z'

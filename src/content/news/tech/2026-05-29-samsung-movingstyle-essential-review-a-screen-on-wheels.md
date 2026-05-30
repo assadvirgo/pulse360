@@ -5,7 +5,7 @@ countryCode: KR
 description: Made for those who hate having a TV in the home, Samsung’s Movingstyle
   monitor-on-wheels brings the entertainment when you need it and hides away in a
   closet when you don’t.
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-29T15:52:17Z'

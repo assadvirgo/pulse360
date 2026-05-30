@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: A Canadian man accused of selling &#8204;deadly chemicals online to people
   who took their own lives has pleaded guilty &#8203;to aiding &#8204;suicide.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-29T13:40:00Z'

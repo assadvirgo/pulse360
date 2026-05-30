@@ -1,7 +1,7 @@
 ---
 category: Sports
 description: All the squads for the Women's T20 World Cup as they are announced.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-29T15:15:09Z'

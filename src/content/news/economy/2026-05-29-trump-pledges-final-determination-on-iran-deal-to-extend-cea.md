@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: US president seeks agreement on ‘unrestricted traffic’ in Strait of Hormuz
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 70.5
 pubDate: '2026-05-29T16:34:31Z'

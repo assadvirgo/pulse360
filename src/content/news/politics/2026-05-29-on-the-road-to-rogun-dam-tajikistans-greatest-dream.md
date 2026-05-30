@@ -4,7 +4,7 @@ country: Tajikistan
 countryCode: TJ
 description: Al Jazeera visits the site of the Rogun dam construction, Tajikistan&#039;s
   &#039;Project of the Century&#039;.
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-29T15:40:08Z'

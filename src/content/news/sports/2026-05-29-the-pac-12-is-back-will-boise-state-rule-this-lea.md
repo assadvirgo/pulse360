@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It still doesn't have 12 teams, but the conference has a new look with
   Mountain West heavyweights joining Oregon State and Washington State.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T12:45:41Z'

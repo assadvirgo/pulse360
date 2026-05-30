@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: WHO chief visits DRC amidst Ebola crisis and urges international community
   to increase support.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-29T10:24:27Z'

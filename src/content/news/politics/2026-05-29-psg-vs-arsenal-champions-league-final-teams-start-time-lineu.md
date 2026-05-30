@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: PSG seek to defend the title they won for the first time, while Arsenal
   hope for first Champions League trophy lift.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-29T15:11:16Z'

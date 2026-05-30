@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli Prime Minister Benjamin Netanyahu said Israeli forces had crossed
   the Litani River in southern Lebanon.
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-29T19:48:05Z'

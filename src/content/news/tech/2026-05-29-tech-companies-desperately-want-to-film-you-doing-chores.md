@@ -5,7 +5,7 @@ countryCode: US
 description: This week, an AI training startup called Shift said it would clean New
   Yorkers' homes for free. It has plans to expand into other cities as well, including
   London, and looking…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-29T17:37:43Z'

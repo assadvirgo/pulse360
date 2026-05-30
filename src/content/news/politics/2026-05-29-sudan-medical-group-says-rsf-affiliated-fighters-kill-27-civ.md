@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: The attacks come as nearly 19.5 million Sudanese face severe hunger amid
   the country’s deepening humanitarian crisis.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-29T14:01:59Z'

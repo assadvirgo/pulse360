@@ -4,7 +4,7 @@ country: Fiji
 countryCode: FJ
 description: Quad kicks back to life in Asia Pacific, looking to develop ports in
   Fiji, in a counter to China&#039;s rise.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T13:56:29Z'

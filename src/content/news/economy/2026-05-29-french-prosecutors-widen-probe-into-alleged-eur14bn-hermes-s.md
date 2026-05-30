@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Three Swiss lawyers placed under formal investigation over disappearance
   of Nicolas Puech’s shares in the luxury group
-displayOrder: 43
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-29T15:46:16Z'
