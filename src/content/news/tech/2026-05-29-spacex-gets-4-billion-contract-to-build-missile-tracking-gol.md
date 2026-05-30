@@ -5,7 +5,7 @@ countryCode: US
 description: The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking
   satellites linked with President Donald Trump's planned "Golden Dome" defense system,
   as reported…
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 68.2
 pubDate: '2026-05-29T21:48:52Z'

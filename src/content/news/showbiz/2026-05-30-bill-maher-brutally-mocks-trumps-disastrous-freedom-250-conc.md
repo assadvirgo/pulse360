@@ -5,7 +5,7 @@ countryCode: US
 description: Before accused sexual harasser Neil deGrasse Tyson joined the show for
   a softball interview, “Real Time” host Bill Maher dedicated a large chunk of his
   monologue Friday night to…
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-30T02:38:51Z'

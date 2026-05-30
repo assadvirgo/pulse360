@@ -5,7 +5,7 @@ countryCode: US
 description: With the DOJ expected to approve the $110 billion Hollywood megamerger,
   political concerns over turmoil at Paramount’s CBS may push Democratic AGs to act,
   experts say.
-displayOrder: 36
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T19:23:00Z'

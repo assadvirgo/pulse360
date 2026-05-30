@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Anthony Gordon is unveiled as a Barcelona player after joining the La
   Liga champions from Newcastle United in a deal worth more than £69.3m.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-29T19:31:18Z'

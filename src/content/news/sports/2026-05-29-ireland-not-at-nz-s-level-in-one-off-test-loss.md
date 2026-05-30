@@ -5,7 +5,7 @@ countryCode: IE
 description: Ireland captain Andy Balbirnie says that his side "weren't at the levels
   New Zealand were at" as the tourists completed a straightforward victory in their
   one-off Test against…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-29T16:13:56Z'

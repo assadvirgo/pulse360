@@ -2,7 +2,7 @@
 category: Politics
 description: United Nations spokesperson Stephane Dujarric said “100% of Gaza” should
   belong to Palestinians.
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T21:49:33Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ServiceNow shares gained over 40% this month, leading an industrywide
   relief rally among enterprise software companies.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T21:24:00Z'

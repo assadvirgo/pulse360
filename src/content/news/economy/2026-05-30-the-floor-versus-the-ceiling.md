@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: The world has come to prefer a high minimum to outright excellence
-displayOrder: 46
+displayOrder: 47
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-30T04:00:51Z'

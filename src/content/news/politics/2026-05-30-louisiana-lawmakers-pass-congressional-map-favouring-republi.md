@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Louisiana approves new congressional map eliminating a majority-Black
   district after an April Supreme Court ruling.
-displayOrder: 33
+displayOrder: 37
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-30T00:27:54Z'

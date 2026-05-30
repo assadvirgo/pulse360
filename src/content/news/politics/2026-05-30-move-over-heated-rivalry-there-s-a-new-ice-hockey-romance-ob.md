@@ -2,7 +2,7 @@
 category: Politics
 description: The Amazon Prime adaptation of Elle Kennedy's ice hockey romance book
   is an early hit with viewers.
-displayOrder: 17
+displayOrder: 25
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-30T02:59:16Z'

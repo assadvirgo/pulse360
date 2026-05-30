@@ -5,7 +5,7 @@ countryCode: IN
 description: Teenage sensation Vaibhav Sooryavanshi excels again in the IPL with a
   brilliant 96, but his Rajasthan Royals are beaten by Gujarat Titans who book their
   place in Sunday's final.
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-29T18:26:14Z'
