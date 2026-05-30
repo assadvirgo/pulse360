@@ -5,7 +5,7 @@ countryCode: IE
 description: Soon-to-be-laid-off Meta contractors say they’re being treated differently
   than Mark Zuckerberg’s full-time employees, who stand to receive more generous severance
   packages.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-29T20:18:01Z'

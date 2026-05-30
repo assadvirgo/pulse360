@@ -4,7 +4,7 @@ country: Rwanda
 countryCode: RW
 description: Rwanda turns to Russia for nuclear training and research, advancing ambitions
   in technology, healthcare and diplomacy.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 71.5
 pubDate: '2026-05-30T06:29:07Z'

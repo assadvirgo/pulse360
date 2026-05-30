@@ -5,7 +5,7 @@ countryCode: US
 description: Losers of three conference finals since 2019, the Hurricanes celebrated
   their first Stanley Cup Final berth in two decades after eliminating the Canadiens
   6-1 in Game 5 on Friday…
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-30T06:13:06Z'

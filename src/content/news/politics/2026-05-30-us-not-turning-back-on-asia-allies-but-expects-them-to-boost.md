@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US defense secretary is questioned about US commitment, including
   further arms deals, at an Asian security summit in Singapore.
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-30T05:57:46Z'

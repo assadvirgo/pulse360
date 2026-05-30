@@ -2,7 +2,7 @@
 category: Economy
 description: The real question is not what the technology can do but what it ought
   to do. Sarah O’Connor on the people fighting for the future of work
-displayOrder: 32
+displayOrder: 42
 heroImage: ''
 importance: 37.5
 pubDate: '2026-05-30T04:00:19Z'

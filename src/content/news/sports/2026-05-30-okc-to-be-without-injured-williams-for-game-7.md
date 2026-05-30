@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Thunder wing Jalen Williams, who has been hampered by injuries all season,
   will not play in Saturday's Game 7 against the Spurs.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 60.5
 pubDate: '2026-05-30T06:13:06Z'

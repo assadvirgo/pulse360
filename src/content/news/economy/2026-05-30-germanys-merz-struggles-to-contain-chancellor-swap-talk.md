@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Younger, more popular conservative Hendrik Wüst emerges as dark horse
   for the chancellery as polls slide
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-30T04:00:39Z'

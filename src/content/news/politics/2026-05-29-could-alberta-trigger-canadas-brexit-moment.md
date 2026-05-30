@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Alberta separatists are gaining momentum as Canada faces its biggest
   unity crisis in decades.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-29T20:59:57Z'

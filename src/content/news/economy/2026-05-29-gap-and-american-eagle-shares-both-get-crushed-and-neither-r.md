@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite earnings that underwhelmed investors, executives at both Gap
   and American Eagle Outfitters said nothing is wrong with the economy.
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-29T21:49:00Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Critics say John Elkann has detached the family empire from its home
   country
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 35.5
 pubDate: '2026-05-30T04:00:57Z'
