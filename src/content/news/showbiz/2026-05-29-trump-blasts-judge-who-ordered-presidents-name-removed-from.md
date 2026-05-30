@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump took aim at the judge who halted his plans to
   renovate the Kennedy Center &#8212; and ordered Trump&#8217;s name taken off the
   building &#8212; saying the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-05-29T21:51:59Z'

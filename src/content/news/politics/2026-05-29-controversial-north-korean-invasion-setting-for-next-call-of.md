@@ -2,7 +2,7 @@
 category: Politics
 description: Developer Infinity Ward said the game will be "grounded in the military
   authenticity" the series is known for.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 75.2
 pubDate: '2026-05-29T13:55:04Z'

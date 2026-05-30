@@ -5,7 +5,7 @@ countryCode: US
 description: As work crews put up a temporary arena on the White House grounds for
   a UFC event next month tied to America’s 250th anniversary, supporters and critics
   of the event are in…
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-29T18:23:00Z'

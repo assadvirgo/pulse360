@@ -5,7 +5,7 @@ countryCode: US
 description: Marcia Lucas, the film editor who won an Oscar for editing &#8220;Star
   Wars,&#8221; directed by her former husband George Lucas, and shaped several influential
   films of the 1970s,…
-displayOrder: 7
+displayOrder: 11
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-29T23:20:32Z'

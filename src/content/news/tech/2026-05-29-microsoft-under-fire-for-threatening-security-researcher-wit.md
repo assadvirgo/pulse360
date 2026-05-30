@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A public spat between Microsoft and an independent security researcher
   reopens a long-running debate over who is responsible for securing software.
-displayOrder: 12
+displayOrder: 19
 heroImage: ''
 importance: 74.0
 pubDate: '2026-05-29T17:03:39Z'

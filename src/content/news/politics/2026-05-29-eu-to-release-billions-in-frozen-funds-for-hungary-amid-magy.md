@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: PM Peter Magyar called ​the agreement to unlock funds frozen under former
   leader Orban a &#039;historic&#039; breakthrough.
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-29T17:34:13Z'

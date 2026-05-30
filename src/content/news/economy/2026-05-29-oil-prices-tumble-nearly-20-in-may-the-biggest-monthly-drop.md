@@ -2,7 +2,7 @@
 category: Economy
 description: Global oil prices tumbled over 20% in May on hopes for the U.S.-Iran
   peace deal.
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-29T19:52:00Z'

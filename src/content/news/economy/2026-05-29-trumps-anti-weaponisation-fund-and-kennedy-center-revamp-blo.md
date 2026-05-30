@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Administration ordered to halt actions linked to legal fund and separately
   remove president’s name from arts complex
-displayOrder: 19
+displayOrder: 22
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-29T22:55:56Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Video shows the moment Israeli fighter jets struck a residential building
   in Ain Qana village in southern Lebanon.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-29T18:15:07Z'

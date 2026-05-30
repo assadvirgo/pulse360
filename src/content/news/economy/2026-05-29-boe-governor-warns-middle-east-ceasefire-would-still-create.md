@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Andrew Bailey says interest rate cuts can only come when policymakers
   are ‘much more confident’
-displayOrder: 8
+displayOrder: 14
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-29T19:26:16Z'

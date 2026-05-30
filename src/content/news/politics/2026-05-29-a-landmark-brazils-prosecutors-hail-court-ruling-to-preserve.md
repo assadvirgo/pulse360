@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Advocates have argued that Brazil&#039;s government has dragged its feat
   over Fordlandia&#039;s fate, leaving the site to decay.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-29T18:14:16Z'

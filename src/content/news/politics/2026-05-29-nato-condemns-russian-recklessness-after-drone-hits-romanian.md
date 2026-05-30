@@ -4,7 +4,7 @@ country: Romania
 countryCode: RO
 description: Romania will hold an emergency meeting following the incident, in which
   two people were injured.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-29T16:13:28Z'
