@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former Barclays boss agrees to in-person interview with US lawmakers
   over his relationship with paedophile
-displayOrder: 30
+displayOrder: 35
 heroImage: ''
 importance: 32.5
 pubDate: '2026-05-31T00:04:56Z'

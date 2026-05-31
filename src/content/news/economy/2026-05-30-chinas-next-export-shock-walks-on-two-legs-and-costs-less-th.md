@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing is funding humanoid robots to slash Chinese factory costs and
   build a competitive advantage.
-displayOrder: 33
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-30T18:50:00Z'

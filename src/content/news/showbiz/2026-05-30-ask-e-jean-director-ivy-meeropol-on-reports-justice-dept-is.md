@@ -5,7 +5,7 @@ countryCode: US
 description: Ivy Meeropol, director of Ask E. Jean, the documentary about E. Jean
   Carroll who successfully sued Donald Trump for defamation and battery, is responding
   to reports the Justice…
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 64.0
 pubDate: '2026-05-30T23:41:14Z'

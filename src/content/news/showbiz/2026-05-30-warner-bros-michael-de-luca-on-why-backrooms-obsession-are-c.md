@@ -5,7 +5,7 @@ countryCode: US
 description: While there was no conversation about the elephant in the room&#8211;
   the pending Paramount Warner Bros Discovery merger &#8212; at Warner Bros. Motion
   Picture Co-Chair Michael De…
-displayOrder: 7
+displayOrder: 12
 heroImage: ''
 importance: 61.0
 pubDate: '2026-05-30T22:50:12Z'

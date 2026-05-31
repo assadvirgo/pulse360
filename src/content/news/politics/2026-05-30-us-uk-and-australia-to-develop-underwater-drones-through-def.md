@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Unmanned undersea vehicles will be developed under the AUKUS defence
   pact, US secretary of defence Pete Hegseth said.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-30T14:00:00Z'

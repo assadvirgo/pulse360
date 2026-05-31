@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Videos show the aftermath of renewed Israeli strikes on southern Lebanon
   that killed at least three people.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-30T10:57:48Z'

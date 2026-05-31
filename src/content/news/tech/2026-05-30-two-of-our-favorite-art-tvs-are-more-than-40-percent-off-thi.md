@@ -5,7 +5,7 @@ countryCode: US
 description: Art TVs aren’t exactly known for being affordable, which is why Woot’s
   latest sale is notable. Now through June 26th, the retailer is discounting Samsung&#8217;s
   2025 Frame TV and…
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 48.2
 pubDate: '2026-05-30T15:00:00Z'

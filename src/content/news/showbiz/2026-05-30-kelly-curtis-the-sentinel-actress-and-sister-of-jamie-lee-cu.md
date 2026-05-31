@@ -5,7 +5,7 @@ countryCode: US
 description: Kelly Curtis, an American actress and the sister of Jamie Lee Curtis,
   died on Saturday. She was 69. Jamie Lee Curtis announced her older sister’s death
   in a Facebook post. She…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-05-30T17:04:20Z'

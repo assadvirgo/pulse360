@@ -5,7 +5,7 @@ countryCode: RU
 description: Russian Dmitry Bivol marks his return from a 15-month lay-off with a
   dominant display against Michael Eifert to defend his unified light-heavyweight
   crown in his home nation.
-displayOrder: 10
+displayOrder: 14
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-30T22:14:25Z'

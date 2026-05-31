@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The brand's first EV has been heavily criticised, with some saying it
   has abandoned Ferrari's roots.
-displayOrder: 19
+displayOrder: 24
 heroImage: ''
 importance: 45.2
 pubDate: '2026-05-30T22:23:32Z'

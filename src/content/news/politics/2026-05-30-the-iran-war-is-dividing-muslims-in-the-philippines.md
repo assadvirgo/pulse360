@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Divisive foreign political narratives are being wrongly cast as religious
   discourse within our Muslim communities.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-30T12:49:20Z'

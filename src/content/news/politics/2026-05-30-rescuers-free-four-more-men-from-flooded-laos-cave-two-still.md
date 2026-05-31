@@ -4,7 +4,7 @@ country: Laos
 countryCode: LA
 description: Five of seven men who entered cave seeking gold are now out after being
   trapped for 10 days.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-30T14:53:35Z'

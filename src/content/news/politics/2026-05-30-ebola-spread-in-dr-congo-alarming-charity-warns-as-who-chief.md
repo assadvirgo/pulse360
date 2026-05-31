@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Médicins Sans Frontières says that never before has an Ebola outbreak
   recorded so many cases so soon after its declaration.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 82.2
 pubDate: '2026-05-30T20:19:21Z'
