@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Thousands of demonstrators took to the streets of Lima to protest the
   presidential bid of Keiko Fujimori.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 67.5
 pubDate: '2026-05-31T03:58:50Z'

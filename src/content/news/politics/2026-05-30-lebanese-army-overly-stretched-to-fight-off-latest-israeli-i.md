@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Geopolitical analyst Joe Macaron says the Lebanese army is ‘overly stretched’
   as Israeli troops expand their occupation.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-30T21:36:42Z'

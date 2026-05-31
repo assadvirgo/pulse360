@@ -4,7 +4,7 @@ country: Laos
 countryCode: LA
 description: Heavy rain is threatening to delay the search for two people missing
   in a flooded cave in Laos. &#160;
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 44.0
 pubDate: '2026-05-31T07:00:00Z'

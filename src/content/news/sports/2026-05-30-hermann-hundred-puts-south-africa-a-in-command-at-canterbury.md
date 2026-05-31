@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Rehan and Ekansh holding on at stumps, with aim to eke out a defendable
   fourth-innings lead
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-05-30T22:38:32Z'

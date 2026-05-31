@@ -5,7 +5,7 @@ countryCode: FR
 description: Paris Saint-Germain became just the second team to win back-to-back Champions
   League titles after rallying to beat Arsenal following a penalty shootout in Budapest,
   Hungary, on…
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-31T01:23:15Z'

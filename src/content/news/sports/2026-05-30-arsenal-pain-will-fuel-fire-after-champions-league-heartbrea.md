@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: On Sunday, Arsenal will get on an open bus parade to celebrate their
   Premier League title less than 24 hours after their Champions League final heartbreak.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-05-30T22:46:03Z'

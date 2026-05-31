@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The medical charity's comments come as the head of the World Health Organization
   visits the region worst-hit by the virus outbreak.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-31T06:47:05Z'

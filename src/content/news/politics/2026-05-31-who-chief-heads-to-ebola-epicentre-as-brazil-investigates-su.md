@@ -5,7 +5,7 @@ countryCode: CD
 description: The World Health Organisation (WHO) chief has visited the province hardest
   hit by the Ebola outbreak in the Democratic Republic of Congo (DRC), urging residents
   to seek treatment…
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 56.0
 pubDate: '2026-05-31T01:16:00Z'

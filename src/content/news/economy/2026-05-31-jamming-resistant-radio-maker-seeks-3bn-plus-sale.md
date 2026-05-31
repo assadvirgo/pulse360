@@ -2,7 +2,7 @@
 category: Economy
 description: Ukraine war has underlined importance of long-range data links that cannot
   be disrupted or intercepted
-displayOrder: 21
+displayOrder: 30
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-31T04:00:09Z'

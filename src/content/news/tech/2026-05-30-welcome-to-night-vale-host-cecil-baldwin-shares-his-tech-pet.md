@@ -5,7 +5,7 @@ countryCode: US
 description: Cecil Baldwin's r&#233;sum&#233; includes appearances on Gravity Falls,
   narrating the documentary Scream, Queen! My Nightmare on Elm Street, and performing
   as part of the New York…
-displayOrder: 44
+displayOrder: 49
 heroImage: ''
 importance: 44.2
 pubDate: '2026-05-30T16:00:00Z'
