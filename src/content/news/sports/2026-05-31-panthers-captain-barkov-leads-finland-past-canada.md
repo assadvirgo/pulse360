@@ -5,7 +5,7 @@ countryCode: FI
 description: Led by Aleksander Barkov, captain and two-time Stanley Cup champ for
   the Florida Panthers who missed the entire NHL season with an injury, Finland upset
   Canada 4-2 Saturday in…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-31T01:23:15Z'

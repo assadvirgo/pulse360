@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Unverified herbal remedies promoted on social media are driving rising
   health risks and delayed treatment in Nigeria.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-31T05:23:00Z'

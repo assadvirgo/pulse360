@@ -2,7 +2,7 @@
 category: Politics
 description: Governments around the world executed more people in 2025 than at any
   point since 1981.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-31T05:03:18Z'

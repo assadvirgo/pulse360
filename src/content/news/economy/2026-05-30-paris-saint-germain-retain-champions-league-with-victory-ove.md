@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French club triumph in penalty shootout over London side in win for Gulf
   sovereign wealth over US capital
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-05-30T19:52:29Z'

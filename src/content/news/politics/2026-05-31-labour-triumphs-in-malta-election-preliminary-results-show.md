@@ -4,7 +4,7 @@ country: Malta
 countryCode: MT
 description: Labour Party secures historic fourth term in Malta amid geopolitical
   and economic instability concerns.
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-31T10:48:46Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Despite headwinds from the current administration, automakers continue
   to release well-equipped EVs with bigger battery packs and increasingly faster charging
   speeds. For those…
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 58.2
 pubDate: '2026-05-31T11:00:00Z'

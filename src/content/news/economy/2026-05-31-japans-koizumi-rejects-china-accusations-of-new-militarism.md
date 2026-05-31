@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Shinjiro Koizumi says Tokyo is pursuing security co-operation across
   Asia-Pacific region
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-31T06:02:42Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “The neighbor estimates damage from the tree at approximately $6,000
   or more.”
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-31T11:00:00Z'

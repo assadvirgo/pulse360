@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amanda Serrano tied Christy Martin's KO record, Stephanie Han retained
   her belt, and Holly Holm showed she still belongs.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-31T12:30:17Z'

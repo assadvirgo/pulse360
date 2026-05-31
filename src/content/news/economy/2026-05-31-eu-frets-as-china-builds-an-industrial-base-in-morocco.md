@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: Billions of dollars of investment raise concerns that subsidised goods
   could swamp European manufacturers
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-31T04:00:08Z'

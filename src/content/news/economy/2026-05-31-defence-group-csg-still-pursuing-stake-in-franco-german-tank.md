@@ -4,7 +4,7 @@ country: Czechia
 countryCode: CZ
 description: Czech ammunition manufacturer is in discussions with KNDS stakeholders,
   chief executive says
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-31T04:00:17Z'
