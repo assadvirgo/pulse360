@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: At least 10 children among the dead as a packed truck carrying families
   returning from Pakistan flips on major highway.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-30T14:11:35Z'

@@ -2,7 +2,7 @@
 category: Sports
 description: Who will win the UEFA Champions League? Enjoy all of Saturday's updates
   for the final between Paris Saint-Germain and Arsenal in Budapest.
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-30T17:08:38Z'

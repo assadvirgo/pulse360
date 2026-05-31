@@ -5,7 +5,7 @@ countryCode: US
 description: Even as many are in a doom-and-gloom state of mind about entertainment,
   producers Jason Blum and James Wan have nothing but good things to say, with their
   horror…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-30T17:38:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The film editor and ex-wife of director George Lucas was widely recognised
   as a pivotal creative force behind the original space trilogy.
-displayOrder: 12
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-30T18:03:40Z'

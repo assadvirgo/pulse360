@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Pentagon claims the conflict has cost $29 billion — but the true
   cost is much higher and it’s fueling inflation.
-displayOrder: 14
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-30T18:18:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: When allowing cameras for the Fox Sports documentary You See L.A. into
   the lives of her players, UCLA women&#8217;s basketball head coach Cori Close, who
   just led the Bruins to a…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 57.0
 pubDate: '2026-05-30T19:18:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Freya Kemp breathes life into England's preparations for the T20 World
   Cup as they level their series against India with a 26-run victory in Bristol.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-30T17:06:37Z'

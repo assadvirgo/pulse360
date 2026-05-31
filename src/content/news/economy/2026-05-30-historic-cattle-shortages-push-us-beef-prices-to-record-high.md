@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: High feed costs and drought have thinned herds to the lowest levels in
   60 years as protein-hungry consumers drive demand
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-30T11:00:08Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Champions League final LIVE! Havertz fires Arsenal into early lead vs
   PSG
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 48.0
 pubDate: '2026-05-30T14:39:00Z'

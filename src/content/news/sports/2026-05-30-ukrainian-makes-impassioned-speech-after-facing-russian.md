@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine's Oleksandra Oliynykova says she cannot "stay silent" as she
   continues to heavily criticise Russian players for not denouncing the war.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-30T17:01:19Z'

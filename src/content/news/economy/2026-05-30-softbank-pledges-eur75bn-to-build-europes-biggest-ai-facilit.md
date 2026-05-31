@@ -3,7 +3,7 @@ category: Economy
 country: France
 countryCode: FR
 description: Masayoshi Son places France at the centre of his global AI ambitions
-displayOrder: 46
+displayOrder: 44
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-30T18:39:31Z'

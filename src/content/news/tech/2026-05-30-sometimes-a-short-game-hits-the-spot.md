@@ -3,7 +3,7 @@ category: Tech
 description: Slots &#38; Daggers, a low-key, fantasy-themed slot machine roguelike,
   was one of my favorite games last year. That may sound like a complicated description,
   but the game mixes…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-30T12:00:00Z'
