@@ -5,7 +5,7 @@ countryCode: US
 description: The Thunder tipped their cap to the Spurs after a disappointing Game
   7 loss on Saturday night and set out to "try to get over the hump" against a team
   that looms as a long-term…
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-31T12:58:49Z'

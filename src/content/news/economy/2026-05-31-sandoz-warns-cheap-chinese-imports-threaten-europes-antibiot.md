@@ -2,7 +2,7 @@
 category: Economy
 description: Continent risks losing critical medicine capacity without stronger protections,
   says chief executive
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-31T04:00:18Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Arne Slot's tenure at Liverpool felt untenable until, on Saturday, he
   was finally dismissed as manager. While it didn't end well, he should be remembered
   warmly for his work…
-displayOrder: 8
+displayOrder: 16
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-31T12:29:09Z'

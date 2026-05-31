@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Hundreds arrested across France during unrest after PSG win - as more
   than 50 officers injured
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 53.0
 pubDate: '2026-05-31T16:09:00Z'

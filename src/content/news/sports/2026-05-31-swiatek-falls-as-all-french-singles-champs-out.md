@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Marta Kostyuk reached the quarterfinals at the French Open for the first
   time on Sunday by taking out four-time champion Iga Swiatek.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-31T12:58:49Z'

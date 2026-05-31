@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Iran conflict threatens four-century tradition of glassmaking as industry
   tipped to use gas to power furnaces
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-31T02:06:40Z'

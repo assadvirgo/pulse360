@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: An experimental lung cancer drug from Akeso and Summit Therapeutics reduced
   the risk of death by 34% in a late-stage trial, according to data released Sunday.
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 45.5
 pubDate: '2026-05-31T12:00:02Z'

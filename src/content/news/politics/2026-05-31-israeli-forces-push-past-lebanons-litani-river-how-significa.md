@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Analysts say Israel is effectively expanding its area of military control
   northward towards the Zahrani River.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-31T13:39:54Z'

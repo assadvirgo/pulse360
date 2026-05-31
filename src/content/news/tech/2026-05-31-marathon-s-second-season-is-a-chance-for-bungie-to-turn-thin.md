@@ -3,7 +3,7 @@ category: Tech
 description: Earlier this month, I finally achieved the elusive goal I had set for
   myself in Bungie's Marathon. I collected six of the game's rarest items, allowing
   me to attempt and then…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-31T14:00:00Z'

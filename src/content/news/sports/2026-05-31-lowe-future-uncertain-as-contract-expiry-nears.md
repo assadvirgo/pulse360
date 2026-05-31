@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: The future of Ireland and Leinster wing James Lowe remains uncertain
   after his record-breaking night against the Lions in the United Rugby Championship.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-31T10:12:04Z'

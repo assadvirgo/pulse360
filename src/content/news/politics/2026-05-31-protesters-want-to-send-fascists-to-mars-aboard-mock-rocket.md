@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Environmental activists in Rome built a mock rocket with caricatures
   of Giorgia Meloni and Donald Trump.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-05-31T13:41:35Z'

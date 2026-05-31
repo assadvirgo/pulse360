@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: The warm-up friendly simulated World Cup conditions, including cooling
   breaks for the players, at the Rose Bowl stadium.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-31T06:07:18Z'

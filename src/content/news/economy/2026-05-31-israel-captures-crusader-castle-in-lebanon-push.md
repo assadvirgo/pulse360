@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Seizure of 12th-century hilltop fortress comes as Israeli prime minister
   orders expanded offensive against Hizbollah
-displayOrder: 38
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-05-31T11:24:36Z'

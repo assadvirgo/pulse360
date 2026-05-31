@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French Ministry of Interior says 416 people detained nationwide, including
   283 in Paris, after PSG&#039;s win over Arsenal.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-05-31T06:08:38Z'

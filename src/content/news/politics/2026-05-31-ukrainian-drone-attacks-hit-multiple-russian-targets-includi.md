@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Saratov refinery hit as Ukrainian strikes intensify across Russian regions,
   damaging civilian infrastructure.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-05-31T10:07:15Z'
