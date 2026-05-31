@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: In Colombia, FARC dissidents say they returned to war after a historic
   peace deal failed to deliver security
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 73.5
 pubDate: '2026-05-30T21:54:55Z'

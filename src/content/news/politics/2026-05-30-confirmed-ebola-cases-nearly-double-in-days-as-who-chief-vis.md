@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: WHO&#039;s Tedros calls for a community-led fight as a rare Ebola strain
   spreads rapidly through conflict-hit eastern DRC.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-30T16:44:46Z'

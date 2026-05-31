@@ -4,7 +4,7 @@ country: Romania
 countryCode: RO
 description: People have just begun returning to check on their homes in the block
   that was hit early on Friday morning.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-30T17:34:30Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gemini Spark helps automate everyday tasks, from inbox summaries to local
   event planning, but it’s unclear why Google made it a separate product.
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 46.0
 pubDate: '2026-05-30T15:30:00Z'

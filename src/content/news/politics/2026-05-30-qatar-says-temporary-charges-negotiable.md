@@ -3,7 +3,7 @@ category: Politics
 country: Qatar
 countryCode: QA
 description: Qatar rejects a set Strait of Hormuz toll, says temporary charges &#039;negotiable&#039;.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-30T18:42:26Z'

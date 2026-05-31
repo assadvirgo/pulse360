@@ -3,7 +3,7 @@ category: Politics
 country: Malta
 countryCode: MT
 description: Maltese voters are at the polls after PM Robert Abela called a snap election.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-05-30T17:20:17Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Pentagon chief Pete Hegseth says US &#039;more than capable&#039; of
   restarting war if satisfactory deal not reached.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-30T19:48:13Z'

@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: 22 people have been killed and 36 others injured when a truck carrying
   recently returned Afghan refugees overturned
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-05-30T18:06:29Z'

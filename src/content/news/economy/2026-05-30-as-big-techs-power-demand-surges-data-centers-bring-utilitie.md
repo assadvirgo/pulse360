@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'The market hasn’t fully priced the next logical step for the AI buildout:
   Big Tech acquiring regulated utilities outright.'
-displayOrder: 44
+displayOrder: 45
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-30T18:56:00Z'

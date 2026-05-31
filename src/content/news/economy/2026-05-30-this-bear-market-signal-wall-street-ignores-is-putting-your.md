@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Veteran trader Steve Burns prepares for a 50% decline and exposes the
   3 “deadly stock-market sins” destroying portfolios.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-30T18:25:00Z'

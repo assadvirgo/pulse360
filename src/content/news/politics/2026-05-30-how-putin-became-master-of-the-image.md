@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly
   reinvented his image, and himself.
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-30T23:17:26Z'

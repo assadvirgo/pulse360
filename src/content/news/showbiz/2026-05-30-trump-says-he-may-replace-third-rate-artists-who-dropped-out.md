@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president said he may instead "give a major speech," as many musical
   acts have announced they're exiting the Freedom 250 event.
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-30T22:52:47Z'

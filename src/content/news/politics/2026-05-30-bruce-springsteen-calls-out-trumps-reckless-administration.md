@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At a concert in the US capital, Washington, DC, musical legend Bruce
   Springsteen slammed US President Donald Trump.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-30T18:33:00Z'

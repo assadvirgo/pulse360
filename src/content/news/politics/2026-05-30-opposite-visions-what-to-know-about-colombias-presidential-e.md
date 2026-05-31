@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Senator Ivan Cepeda is leading two right-wing rivals in the first round
   of an election dominated by security concerns.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 79.5
 pubDate: '2026-05-30T16:21:52Z'

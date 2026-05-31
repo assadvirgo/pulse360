@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanese PM describes Israel&#039;s attacks as collective punishment
   as US warns Iran of strikes if no deal is reached.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 74.5
 pubDate: '2026-05-31T00:00:50Z'

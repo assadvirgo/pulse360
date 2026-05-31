@@ -5,7 +5,7 @@ countryCode: US
 description: Craig Campbell walked away from the river of investor money flowing into
   AI to create, of all things, a website. Sure, Campbell probably could have started
   an AI company. He's a…
-displayOrder: 38
+displayOrder: 42
 heroImage: ''
 importance: 66.2
 pubDate: '2026-05-30T13:00:00Z'
