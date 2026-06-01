@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: But the hardware refresh is tethered to a bundle with pricey AR glasses.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-01T16:04:45Z'

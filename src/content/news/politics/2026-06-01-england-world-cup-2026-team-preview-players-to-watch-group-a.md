@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England cruised through qualifying, but some fans are concerned over
   the squad selection and the form against top teams.
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-01T11:16:43Z'

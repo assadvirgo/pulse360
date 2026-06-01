@@ -5,7 +5,7 @@ countryCode: GB
 description: The GOAT isn&#8217;t finished. Serena Williams, who amassed 23 major
   championships and 73 career singles titles before retiring in 2022, is returning
   to competitive tennis at 44.…
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-01T17:08:56Z'

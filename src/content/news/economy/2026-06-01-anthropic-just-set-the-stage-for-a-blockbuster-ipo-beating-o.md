@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SpaceX is gearing up for its listing, and OpenAI is expected to soon
   file confidentially for its own IPO.
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-01T17:44:00Z'

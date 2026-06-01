@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Canada are playing only their third World Cup, but have high hopes for
   a talented squad under coach Jesse Marsch.
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-01T17:03:11Z'

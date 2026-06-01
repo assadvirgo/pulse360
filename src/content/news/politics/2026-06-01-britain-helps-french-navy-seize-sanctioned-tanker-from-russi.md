@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK forces helped the French navy intercept an oil tanker under international
   sanctions that was coming from Russia, alleged to be part of its shadow fleet.
-displayOrder: 18
+displayOrder: 37
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-01T10:16:00Z'

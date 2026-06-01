@@ -5,7 +5,7 @@ countryCode: US
 description: Nvidia has officially entered the world of consumer laptop chips with
   the RTX Spark, and several device makers already have hardware lined up for it.
   Microsoft, Asus, HP, MSI,…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-01T11:29:52Z'

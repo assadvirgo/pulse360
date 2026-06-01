@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: According to France, the tanker, which had sailed from Murmansk, was
   trying to &#039;skirt international sanctions&#039;.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-01T10:24:51Z'

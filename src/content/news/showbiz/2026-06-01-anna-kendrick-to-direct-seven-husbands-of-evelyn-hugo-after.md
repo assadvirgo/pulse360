@@ -5,7 +5,7 @@ countryCode: US
 description: Anna Kendrick has been hired to direct &#8220;The Seven Husbands of Evelyn
   Hugo&#8221; for Netflix. Two other filmmakers, Maggie Betts and Leslye Headland,
   were previously…
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-01T17:46:18Z'

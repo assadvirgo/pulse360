@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Hundreds of young demonstrators marched outside a military base in Kenya
   over US plans for an Ebola quarantine zone in the country.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-01T09:45:00Z'

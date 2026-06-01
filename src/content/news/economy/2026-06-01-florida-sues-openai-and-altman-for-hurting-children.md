@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: State files lawsuit over ‘litany of harms’ it claims the company’s chatbots
   have caused
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-01T16:59:50Z'

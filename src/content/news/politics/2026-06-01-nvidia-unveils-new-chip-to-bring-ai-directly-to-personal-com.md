@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nvidia&#039;s new chip will power new Windows laptop and desktop computer
   models to make &#039;AI personal computers&#039;.
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-01T17:27:38Z'

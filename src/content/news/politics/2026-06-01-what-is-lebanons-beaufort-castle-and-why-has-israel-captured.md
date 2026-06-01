@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The fortress, a historical battleground, is playing a central role in
   Israel’s military campaign against Hezbollah.
-displayOrder: 15
+displayOrder: 35
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-01T10:58:07Z'

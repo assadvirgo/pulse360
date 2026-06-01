@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The highly anticipated study found that ivonescimab reduced the risk
   of death by 34% compared with another drug
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-01T12:06:00Z'

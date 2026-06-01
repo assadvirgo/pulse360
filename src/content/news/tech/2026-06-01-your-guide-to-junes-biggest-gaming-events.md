@@ -3,7 +3,7 @@ category: Tech
 description: It's early June, which means it's video game event season once again.
   Now that E3 has been gone for a few years, a bunch of showcases and presentations
   have started to fill the…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-01T15:00:00Z'

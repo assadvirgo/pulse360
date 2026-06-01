@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Tensions have been rising in South Africa in recent weeks following several
   anti-migrant protests.
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 63.2
 pubDate: '2026-06-01T10:02:49Z'

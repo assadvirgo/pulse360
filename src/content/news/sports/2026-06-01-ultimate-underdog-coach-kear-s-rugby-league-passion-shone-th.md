@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former BBC rugby league correspondent Dave Woods pays tribute to John
   Kear, one of the sport's great characters, who has died aged 71.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-01T10:47:48Z'

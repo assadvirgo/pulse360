@@ -5,7 +5,7 @@ countryCode: US
 description: Lex Luthor is not messing around in the &#8220;Superman&#8221; sequel.
   Director James Gunn has revealed a first look at the villain&#8217;s iconic warsuit,
   worn by star Nicholas…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-01T16:36:31Z'

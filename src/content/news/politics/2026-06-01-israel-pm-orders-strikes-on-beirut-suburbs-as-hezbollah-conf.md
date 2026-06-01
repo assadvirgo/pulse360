@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu
   says it will be targeted in response to attacks on Israeli civilians.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-01T17:04:36Z'

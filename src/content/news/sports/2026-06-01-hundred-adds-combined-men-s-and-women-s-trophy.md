@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A new trophy rewarding the combined efforts of the men's and women's
   teams in The Hundred will be introduced this summer.
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-01T11:10:36Z'
