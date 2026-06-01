@@ -5,7 +5,7 @@ countryCode: US
 description: This weekend was one for the box office history books. Movie theaters
   across the nation were jamming with Gen Z crowds, who showed up en masse for not
   one but two buzzy horror…
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 68.8
 pubDate: '2026-05-31T14:51:34Z'

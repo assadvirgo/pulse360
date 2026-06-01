@@ -3,7 +3,7 @@ category: Tech
 description: 'The A Minecraft Movie sequel officially has a title: A Minecraft Movie
   Squared. What''s more, we now know that Kirsten Dunst will star as Alex, the game''s
   female character option,…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-05-31T19:28:11Z'

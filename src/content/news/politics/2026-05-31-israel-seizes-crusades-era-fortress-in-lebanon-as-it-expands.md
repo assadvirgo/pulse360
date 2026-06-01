@@ -5,7 +5,7 @@ countryCode: IL
 description: Israeli forces have captured a strategically important fortress from
   the Crusades, marking the country's deepest incursion into Lebanon in more than
   a quarter of a century.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-05-31T14:33:00Z'

@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: In 2025, Brazil’s deadliest police raid killed 120 people and exposed
   a pattern of mishandled evidence and impunity.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-31T11:24:16Z'

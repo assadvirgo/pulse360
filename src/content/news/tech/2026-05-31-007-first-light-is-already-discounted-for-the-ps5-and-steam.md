@@ -3,7 +3,7 @@ category: Tech
 description: IO Interactive’s 007 First Light is here, and it’s just as stunning a
   James Bond mov — err, video game — as we hoped it would be. Pardon the confusion,
   the title’s engaging…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-31T14:00:00Z'

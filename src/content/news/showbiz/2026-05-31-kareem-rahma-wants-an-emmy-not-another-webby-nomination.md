@@ -5,7 +5,7 @@ countryCode: US
 description: 'The viral ‘Subway Takes’ host says his hit digital series belongs in
   the same awards conversation as any streamer show: “I’m not an influencer, I’m an
   entertainer.”'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-31T18:00:00Z'

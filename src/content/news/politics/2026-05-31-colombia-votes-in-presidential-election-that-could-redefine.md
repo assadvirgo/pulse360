@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The election is held after months of public recrimination between current
   left-wing President Gustavo Petro and his US counterpart Donald Trump.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 78.2
 pubDate: '2026-05-31T08:47:46Z'

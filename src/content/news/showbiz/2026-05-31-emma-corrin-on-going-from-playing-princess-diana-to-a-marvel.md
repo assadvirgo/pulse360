@@ -3,7 +3,7 @@ category: Showbiz
 description: Emma Corrin is making history. The 30-year-old actor, who catapulted
   to fame playing Princess Diana in “The Crown,” is Variety’s first nonbinary Power
   of Women cover star. But it…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-05-31T15:00:00Z'

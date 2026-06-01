@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Athleta’s expected recovery has been pushed out for three straight years,
   as an attempt to widen its appeal ended up “appealing to no one in particular.”
-displayOrder: 44
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-31T14:00:00Z'

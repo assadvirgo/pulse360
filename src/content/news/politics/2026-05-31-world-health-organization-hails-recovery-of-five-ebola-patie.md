@@ -2,7 +2,7 @@
 category: Politics
 description: More than 220 people are suspected to have died from the disease&#039;s
   latest outbreak, which was declared two weeks ago.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-31T13:57:32Z'

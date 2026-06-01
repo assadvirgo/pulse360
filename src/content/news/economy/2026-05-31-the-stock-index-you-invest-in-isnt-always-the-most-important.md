@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Time in the stock market is more important than index selection — and
   the Dow’s 130-year history proves it.
-displayOrder: 23
+displayOrder: 27
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-31T20:08:00Z'

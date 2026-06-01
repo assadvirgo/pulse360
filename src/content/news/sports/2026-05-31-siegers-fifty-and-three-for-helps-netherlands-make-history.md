@@ -3,7 +3,7 @@ category: Sports
 country: Netherlands
 countryCode: NL
 description: They won their first ever women's T20I against Bangladesh by eight runs
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 50.5
 pubDate: '2026-05-31T17:27:11Z'

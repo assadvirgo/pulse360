@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: California is a Democrat stronghold, but thanks to the state&#039;s jungle
   primary, Republicans are frontrunners to advance.
-displayOrder: 22
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-31T15:19:33Z'

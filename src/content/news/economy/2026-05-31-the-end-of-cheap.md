@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After 50 years of falling capital, labour and energy prices, the next
   half-century will look very different for America
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-31T15:00:01Z'

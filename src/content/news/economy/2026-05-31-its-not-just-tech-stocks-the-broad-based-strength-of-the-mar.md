@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While tech is still leading the party, more parts of the market are starting
   to join in.
-displayOrder: 36
+displayOrder: 39
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-31T19:12:00Z'

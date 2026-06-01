@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: The Bazaar of Return in Aida Refugee Camp
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-05-31T17:15:07Z'

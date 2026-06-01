@@ -5,7 +5,7 @@ countryCode: US
 description: United flight 236 from Newark to Palma de Mallorca on Saturday night
   was forced to turn around just an hour after takeoff due to security concerns around
   a Bluetooth signal.…
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 65.2
 pubDate: '2026-05-31T15:50:02Z'

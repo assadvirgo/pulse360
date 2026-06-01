@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The 2014 champs exited in the group stages of the last two World Cups
   but look a stronger force under Julian Nagelsmann.
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-05-31T15:28:43Z'

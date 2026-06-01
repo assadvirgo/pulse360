@@ -2,7 +2,7 @@
 category: Economy
 description: Globalization is giving way to geopolitical power cartels and a structural
   shift toward domestic, state-subsidized industries.
-displayOrder: 25
+displayOrder: 28
 heroImage: ''
 importance: 42.5
 pubDate: '2026-05-31T20:02:00Z'

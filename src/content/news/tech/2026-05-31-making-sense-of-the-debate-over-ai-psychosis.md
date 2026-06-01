@@ -2,7 +2,7 @@
 category: Tech
 description: On the latest episode of Equity, we debate whether tech CEOs are "uniquely
   prone to AI psychosis."
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-05-31T15:30:00Z'
