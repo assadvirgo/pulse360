@@ -5,7 +5,7 @@ countryCode: US
 description: M.I.A. is suing Kid Cudi for $2.8 million after the British rapper was
   kicked off his Rebel Ragers Tour for “making offensive remarks” during her opening
   act. “Kid Cudi’s attempts…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-05-31T23:29:00Z'

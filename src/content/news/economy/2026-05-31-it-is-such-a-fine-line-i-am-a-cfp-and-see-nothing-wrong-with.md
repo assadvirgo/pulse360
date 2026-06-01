@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I would love to develop working relationships with almost everyone I
   play golf with.”
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-05-31T23:10:00Z'

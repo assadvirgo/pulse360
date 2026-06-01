@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The former Colombian president reflects on peace, conflict and the return
   of violence.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 59.5
 pubDate: '2026-05-31T15:44:21Z'

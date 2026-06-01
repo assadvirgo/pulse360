@@ -5,7 +5,7 @@ countryCode: US
 description: Prime Video&#8217;s serialized adaptation of Off Campus may be skipping
   ahead of Elle Kennedy&#8217;s source material, eschewing The Mistake couple of John
   Logan (Antonio…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-05-31T23:48:50Z'

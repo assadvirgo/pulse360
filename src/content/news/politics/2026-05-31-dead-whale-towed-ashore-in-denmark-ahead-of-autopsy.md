@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: '"Timmy" was found dead off the coast of Anholt despite multiple attempts
   to rescue it.'
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-31T19:05:42Z'

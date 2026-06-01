@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: Western attempts to imitate Beijing’s state-funded model are unwise
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-05-31T11:00:10Z'
