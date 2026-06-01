@@ -5,7 +5,7 @@ countryCode: US
 description: The retransmission battle between Scripps and DirecTV has escalated,
   with 54 local Scripps stations in 36 Nielsen-designated markets going dark as of
   7 p.m. ET on Sunday. Both…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-31T23:38:20Z'

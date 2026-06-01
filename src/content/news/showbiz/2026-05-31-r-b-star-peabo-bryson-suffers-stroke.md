@@ -5,7 +5,7 @@ countryCode: US
 description: Veteran R&#38;B singer Peabo Bryson, best known for his duets from the
   Disney films &#8220;Aladdin&#8221; and &#8220;Beauty and the Beast,&#8221; has suffered
   a stroke and is…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-05-31T22:58:03Z'

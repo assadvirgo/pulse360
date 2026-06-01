@@ -5,7 +5,7 @@ countryCode: IN
 description: Virat Kohli's imperious unbeaten 75 helps Royal Challengers Bengaluru
   to a five-wicket win over Gujarat Titans in the Indian Premier League final securing
   back-to-back titles.
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 52.2
 pubDate: '2026-05-31T19:00:19Z'

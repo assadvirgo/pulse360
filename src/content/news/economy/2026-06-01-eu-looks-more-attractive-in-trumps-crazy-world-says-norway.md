@@ -3,7 +3,7 @@ category: Economy
 country: Norway
 countryCode: 'NO'
 description: Oslo rethinks relationship with bloc after it rejected membership twice
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-01T04:00:20Z'

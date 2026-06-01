@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: A national vote alone can&#039;t address all challenges in the country,
   but it can be a step toward democratic consolidation.
-displayOrder: 16
+displayOrder: 35
 heroImage: ''
 importance: 69.5
 pubDate: '2026-05-31T20:28:26Z'

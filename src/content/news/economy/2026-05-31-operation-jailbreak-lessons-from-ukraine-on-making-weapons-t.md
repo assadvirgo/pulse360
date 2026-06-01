@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Defence companies join with Army personnel in hackathon to apply AI to
   ‘interoperability’ puzzle
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-05-31T16:50:21Z'

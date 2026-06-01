@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The contest is largely a three-horse race between a left-wing senator,
   a businessman and a right-wing lawmaker.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 66.5
 pubDate: '2026-05-31T15:58:50Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: China's worst coal mining disaster in 15 years comes amid an ambitious
   pivot towards green energy.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 61.2
 pubDate: '2026-05-31T23:32:04Z'

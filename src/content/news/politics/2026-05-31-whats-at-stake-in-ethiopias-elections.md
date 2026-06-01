@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: Ethiopia&#039;s governing party is seeking to cement its grip on power
   amid a fragmented electorate.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-05-31T19:38:00Z'

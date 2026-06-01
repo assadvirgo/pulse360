@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: After a day of uncertainty, the government confirms the team will depart
   for Mexico on Monday.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-05-31T17:27:18Z'

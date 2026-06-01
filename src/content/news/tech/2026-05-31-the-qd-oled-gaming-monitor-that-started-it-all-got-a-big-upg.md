@@ -5,7 +5,7 @@ countryCode: TW
 description: Alienware is taking to this year's Computex 2026 in Taipei to announce
   some cool gaming monitors, most notably two exciting OLED options that are coming
   at different points this…
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 62.2
 pubDate: '2026-05-31T23:00:00Z'

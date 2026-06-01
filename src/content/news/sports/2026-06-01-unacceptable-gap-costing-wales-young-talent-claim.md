@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Campaigners want to see Wales under-21 and 23 women's squads to improve
   pathways from age-grade to senior international football.
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-01T04:55:46Z'

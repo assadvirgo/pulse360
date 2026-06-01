@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This story contains spoilers for “In God We Trust,” the
   Season 3 finale of “Euphoria,” now streaming on HBO Max. Rue Bennett is gone. But
   to those whose lives she…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-01T02:36:00Z'

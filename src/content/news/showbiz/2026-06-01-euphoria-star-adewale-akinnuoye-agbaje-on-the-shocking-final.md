@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The veteran actor, who plays season three's big bad, Alamo Brown, gives
   a spoiler-filled analysis of the season.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-06-01T02:40:00Z'

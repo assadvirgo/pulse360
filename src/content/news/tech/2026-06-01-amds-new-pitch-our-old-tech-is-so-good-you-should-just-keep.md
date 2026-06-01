@@ -5,7 +5,7 @@ countryCode: TW
 description: Computex 2026 is underway in Taiwan, and we're expecting all manner of
   flashy computers with jaw-dropping pricetags (or no pricetags at all) as the entire
   industry navigates…
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-01T00:00:00Z'

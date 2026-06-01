@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: A vast development drive aims to tap the region’s economic potential
   and extend Beijing’s control
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-01T04:00:09Z'

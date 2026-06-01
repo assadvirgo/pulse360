@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Nearly 800 people were arrested after clashes with police which saw 219
   people injured, including 57 police officers.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-05-31T18:13:39Z'
