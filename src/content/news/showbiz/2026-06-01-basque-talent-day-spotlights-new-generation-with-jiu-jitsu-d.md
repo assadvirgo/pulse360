@@ -5,7 +5,7 @@ countryCode: ES
 description: Zineuskadi’s Talentuaren Gunea, the Basque Country’s emerging talent
   showcase, returned May 29 with a slate pointing to a new generation of creators
   thinking beyond graduation…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-01T11:08:42Z'

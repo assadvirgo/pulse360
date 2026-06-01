@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Author of ‘Cyberselfish’ points out that Silicon Valley was built on
   government dollars — and now its elite want to pull up the ladder
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-01T11:50:00Z'

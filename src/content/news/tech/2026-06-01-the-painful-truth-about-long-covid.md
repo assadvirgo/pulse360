@@ -2,7 +2,7 @@
 category: Tech
 description: There might finally be a way forward for long Covid treatment—if only
   you were allowed to talk about it.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-01T10:00:00Z'

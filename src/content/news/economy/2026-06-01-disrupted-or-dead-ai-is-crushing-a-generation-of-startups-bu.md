@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AI boom that has funneled more than $250 billion into OpenAI and
   Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-01T11:47:31Z'

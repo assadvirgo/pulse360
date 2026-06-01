@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The Seoul-based rocket startup is developing its own launch vehicles
   and engines.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-01T10:00:00Z'

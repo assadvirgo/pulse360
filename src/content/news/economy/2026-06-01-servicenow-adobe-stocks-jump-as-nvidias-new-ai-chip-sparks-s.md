@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As AI agents spur demand for more software — not less — major enterprise
   cloud platforms are staging a comeback.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-01T13:17:00Z'

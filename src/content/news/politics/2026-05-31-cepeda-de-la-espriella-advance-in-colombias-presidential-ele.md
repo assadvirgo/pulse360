@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The left-wing senator and far-right newcomer will face each other in
   a run-off on June 21, with security a top issue.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 83.5
 pubDate: '2026-05-31T23:02:53Z'

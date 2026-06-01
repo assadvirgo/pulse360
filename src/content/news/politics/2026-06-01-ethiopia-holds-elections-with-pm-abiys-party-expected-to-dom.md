@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: Voting will not take place in northern Tigray region and some parts of
   the Amhara region amid insecurity.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-01T10:23:34Z'

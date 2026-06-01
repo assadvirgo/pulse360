@@ -5,7 +5,7 @@ countryCode: US
 description: Actors Mary Steenburgen and Ted Danson are selling one of the most significant
   homes in their property portfolio, where they hosted A-list guests, including Tom
   Hanks and…
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-01T09:02:00Z'

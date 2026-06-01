@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran and the US say they have carried out fresh strikes around the Strait
   of Hormuz, with Kuwait condemning "repeated" Iranian attacks.
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-01T09:32:04Z'

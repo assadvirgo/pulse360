@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Ultra-Orthodox Jewish demonstrators storm Israeli police station
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-01T09:14:58Z'

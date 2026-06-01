@@ -5,7 +5,7 @@ countryCode: US
 description: This fall, Nvidia will officially become a consumer PC chipmaker like
   Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics
   - into the very heart…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-01T04:28:53Z'

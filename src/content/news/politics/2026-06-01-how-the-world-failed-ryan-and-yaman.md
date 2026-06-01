@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: An Israeli strike killed my children. What pains me is not just their
   loss but also the normalisation of their murder.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-01T12:58:03Z'
