@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: France requests UN Security Council meeting over Israel&#039;s expanding
   invasion in Lebanon.
-displayOrder: 10
+displayOrder: 37
 heroImage: ''
 importance: 76.5
 pubDate: '2026-06-01T00:00:00Z'

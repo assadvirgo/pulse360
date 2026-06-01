@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The US citizens allege that they have been denied entry to Britain due
   to their outspoken criticism of Israel.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-01T08:40:38Z'

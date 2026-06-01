@@ -2,7 +2,7 @@
 category: Economy
 description: EU leaders fear cheap Chinese exports when they should be worrying about
   embedded spyware and rare earths dependency
-displayOrder: 32
+displayOrder: 49
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-01T04:00:09Z'

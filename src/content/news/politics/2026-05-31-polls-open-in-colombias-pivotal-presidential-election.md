@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Colombians headed to the polls to choose a new president in a high-stakes
   election.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-05-31T18:23:39Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Leader of data centre unit says company aims to release ‘inference’ GPU
   as shares rally more than 200% this year
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-01T03:00:06Z'

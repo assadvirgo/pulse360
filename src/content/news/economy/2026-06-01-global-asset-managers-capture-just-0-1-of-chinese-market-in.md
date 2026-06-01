@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Foreign firms that launched their own businesses after Beijing relaxed
   ownership rules have attracted only $5bn
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-01T04:00:20Z'

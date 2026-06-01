@@ -5,7 +5,7 @@ countryCode: GB
 description: The second annual Sound Investments report from trade association Music
   Technology U.K., which will be in focus at SXSW London, highlights a 90 percent
   growth-stage funding plunge…
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 69.8
 pubDate: '2026-06-01T09:00:00Z'

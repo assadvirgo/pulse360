@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: Insurgents say it was caused by explosives being used for mining close
   to the Chinese border.
-displayOrder: 24
+displayOrder: 44
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-01T05:36:08Z'

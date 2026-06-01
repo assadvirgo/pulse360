@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about
   Nigeria's civil war.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-01T01:32:07Z'

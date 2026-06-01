@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Department of Commerce issues guidance on chip restrictions amid concerns
   about loopholes in export control regime.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-01T03:01:29Z'

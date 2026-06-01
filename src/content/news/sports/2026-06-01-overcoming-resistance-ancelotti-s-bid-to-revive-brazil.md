@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Carlo Ancelotti had to win over the Brazilian public and restore calm
   to chaos as he bids to return the country to World Cup glory.
-displayOrder: 23
+displayOrder: 43
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-01T05:49:39Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: At least two Palestinians were killed and around a dozen wounded when
   an Israeli air strike hit a crowded cafe.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-01T05:16:51Z'

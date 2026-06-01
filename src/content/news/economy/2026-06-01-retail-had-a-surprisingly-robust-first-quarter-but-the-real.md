@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The retail industry saw strong first-quarter sales and profits, but high
   tax refunds and buy now, pay later helped mask underlying consumer weakness.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-01T09:00:01Z'

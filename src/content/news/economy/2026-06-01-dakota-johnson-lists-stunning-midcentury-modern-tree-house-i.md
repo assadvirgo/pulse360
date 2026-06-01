@@ -5,7 +5,7 @@ countryCode: US
 description: Actress Dakota Johnson is selling her West Hollywood home that she has
   lived in for the last 10 years—having purchased it with the money she made from
   starring in “Fifty Shades of…
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-01T08:59:00Z'

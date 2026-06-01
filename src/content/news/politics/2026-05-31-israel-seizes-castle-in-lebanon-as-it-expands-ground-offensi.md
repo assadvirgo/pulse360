@@ -5,7 +5,7 @@ countryCode: IL
 description: Prime Minister Benjamin Netanyahu calls the capture of the strategic
   fortress a "decisive shift" in Israel's campaign against Hezbollah, as European
   governments criticise the…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-05-31T22:39:12Z'

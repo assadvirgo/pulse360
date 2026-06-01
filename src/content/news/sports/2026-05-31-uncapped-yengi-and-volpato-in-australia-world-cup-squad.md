@@ -5,7 +5,7 @@ countryCode: AU
 description: Livingston striker Tete Yengi and former Italy Under-21 winger Cristian
   Volpato are the uncapped players named in Australia's 26-man squad for the World
   Cup.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-05-31T22:06:46Z'

@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: Fayard is only remaining EU yard taking on dry-dock work for ships carrying
   gas exported from Siberia
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-01T04:00:20Z'

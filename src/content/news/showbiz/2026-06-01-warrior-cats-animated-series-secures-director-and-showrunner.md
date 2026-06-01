@@ -3,7 +3,7 @@ category: Showbiz
 description: 'A.C.Bradley (''What...if?'') and Rodrigo Blaas (''Trollhunters: Tales
   of Arcadia'') are on board for the series from Tencent Video and Coolabi based on
   the best-selling children''s…'
-displayOrder: 4
+displayOrder: 22
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-01T08:00:52Z'

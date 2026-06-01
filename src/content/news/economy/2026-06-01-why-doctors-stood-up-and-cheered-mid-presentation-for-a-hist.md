@@ -5,7 +5,7 @@ countryCode: US
 description: The announcement of a successful late-stage treatment that nearly doubles
   the survival for patients with deadly pancreatic cancer brought an audience of doctors
   and other global…
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-01T08:37:00Z'
