@@ -5,7 +5,7 @@ countryCode: US
 description: Las Vegas has suffered from uneven tourism trends as well as sports-betting
   competition, but analysts say there’s reason to believe things are looking up for
   Sin City.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-01T20:40:00Z'

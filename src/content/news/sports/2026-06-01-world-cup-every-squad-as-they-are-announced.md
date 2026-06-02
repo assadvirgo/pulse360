@@ -2,7 +2,7 @@
 category: Sports
 description: Every squad for the 2026 World Cup in the US, Canada and Mexico as they
   are announced.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-01T15:24:28Z'

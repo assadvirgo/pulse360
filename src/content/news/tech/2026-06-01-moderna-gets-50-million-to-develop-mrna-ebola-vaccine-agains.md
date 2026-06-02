@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amid a raging Ebola outbreak, officials "urgently accelerate development"
   of vaccines.
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 74.0
 pubDate: '2026-06-01T20:58:34Z'

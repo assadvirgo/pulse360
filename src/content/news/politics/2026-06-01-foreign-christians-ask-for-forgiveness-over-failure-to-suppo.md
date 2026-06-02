@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: ‘Lord, please forgive us for all the things that we did that we did not
   support Israel.’
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-01T21:01:11Z'

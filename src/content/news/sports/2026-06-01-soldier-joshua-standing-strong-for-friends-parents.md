@@ -5,7 +5,7 @@ countryCode: GB
 description: British heavyweight Anthony Joshua is preparing for his next fight but
   says his priorty remains on standing strong for the parents of the close friends
   who died in a car accident.
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-01T18:15:23Z'

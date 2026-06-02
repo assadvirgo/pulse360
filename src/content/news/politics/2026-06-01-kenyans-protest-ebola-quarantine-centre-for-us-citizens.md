@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Hundreds have protested in central Kenya against a US-funded plan to
   quarantine Americans exposed to Ebola there.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-01T20:23:08Z'

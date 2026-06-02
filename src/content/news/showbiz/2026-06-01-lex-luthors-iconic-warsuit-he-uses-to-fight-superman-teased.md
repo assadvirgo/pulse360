@@ -5,7 +5,7 @@ countryCode: US
 description: James Gunn understands fan service. The DC Studios Co-chairman and Co-CEO
   and director of the forthcoming Superman film Man of Tomorrow gave die hards new
   look at at old favorite:…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-01T23:27:29Z'

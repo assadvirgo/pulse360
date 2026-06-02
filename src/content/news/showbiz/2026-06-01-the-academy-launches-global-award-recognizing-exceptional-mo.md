@@ -5,7 +5,7 @@ countryCode: US
 description: The Academy of Motion Picture Arts and Sciences has announced a new global
   award to celebrate moviegoing and the traditional theatrical experience. The Academy
   Marquee Theater…
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-01T23:51:42Z'

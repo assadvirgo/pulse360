@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Rehan Ahmed and Ekansh Singh unable to replicate day-two defiance as
   tourists breeze to victory
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-01T18:53:49Z'

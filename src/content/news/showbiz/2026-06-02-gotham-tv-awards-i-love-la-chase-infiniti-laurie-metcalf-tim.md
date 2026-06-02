@@ -5,7 +5,7 @@ countryCode: US
 description: Refresh for updates&#8230; The Gotham Television Awards are being handed
   out tonight at Cipriani Wall Street in Manhattan, and Deadline is updating the winners
   as they are…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-02T00:00:00Z'

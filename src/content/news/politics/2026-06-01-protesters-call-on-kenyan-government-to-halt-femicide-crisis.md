@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Advocacy groups have given the government 40 days to intervene to deal
   with the plague of gender-based violence.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-01T20:13:16Z'

@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: To truly understand the scale of this AI rally, look no further than
   South Korea.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-01T20:55:00Z'

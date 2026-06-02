@@ -5,7 +5,7 @@ countryCode: US
 description: 'Every founder who applies to Startup Battlefield wants the same thing:
   the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well
   before the main stage.'
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-01T23:20:52Z'

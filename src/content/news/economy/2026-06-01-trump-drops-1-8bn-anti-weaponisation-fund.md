@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Legal challenges and pushback from Republican lawmakers prompt U-turn
   from the US president
-displayOrder: 19
+displayOrder: 27
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-01T22:25:22Z'

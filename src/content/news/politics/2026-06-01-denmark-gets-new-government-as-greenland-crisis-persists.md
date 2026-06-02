@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: End of election deadlock will see PM Frederiksen continue her stewardship
   of response to Trump&#039;s Greenland lust.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-01T20:56:39Z'

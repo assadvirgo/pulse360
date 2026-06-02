@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: These AI prompts can help make you a master salary negotiator at your
   next job interview.
-displayOrder: 39
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-02T00:38:00Z'
