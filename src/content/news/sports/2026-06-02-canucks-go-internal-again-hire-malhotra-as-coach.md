@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The Canucks named Manny Malhotra -- who led Vancouver's AHL affiliate
   to the Calder Cup in 2025 -- as the franchise's next head coach on Monday.
-displayOrder: 26
+displayOrder: 45
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-02T06:59:51Z'

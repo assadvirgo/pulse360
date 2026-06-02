@@ -5,7 +5,7 @@ countryCode: US
 description: A unicorn Beanie Baby. A 15-pound green bowling ball. A pair of dentures.
   These are just some of the items left behind in robotaxis in the past year, according
   to Uber's annual…
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-02T12:00:00Z'

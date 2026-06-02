@@ -5,7 +5,7 @@ countryCode: US
 description: 'A notable milestone was quietly reached in the April construction-spending
   report released by the Census Bureau on Monday: Construction spending on data centers
   overtook public…'
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-02T13:01:00Z'

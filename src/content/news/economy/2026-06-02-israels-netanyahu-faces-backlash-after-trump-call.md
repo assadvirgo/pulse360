@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Prime minister failed to follow through on threat to bomb Hizbollah after
   pressure from US president
-displayOrder: 13
+displayOrder: 32
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-02T08:52:40Z'

@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Thunder general manager Trent Copeland says Flintoff's "knowledge of
   Australian cricket and our Thunder program stood out during the process"
-displayOrder: 30
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-02T08:09:06Z'

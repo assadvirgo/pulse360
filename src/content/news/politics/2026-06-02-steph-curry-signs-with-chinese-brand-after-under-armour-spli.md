@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese firms have been vying to secure deals with big stars as they
   push to become global brands.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-02T06:29:35Z'

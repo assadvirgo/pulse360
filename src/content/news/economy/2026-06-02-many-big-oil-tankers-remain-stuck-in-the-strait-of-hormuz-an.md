@@ -2,7 +2,7 @@
 category: Economy
 description: There’s doubt massive tankers, once the backbone of global crude flows,
   will be returning in quite the same numbers to the Middle East.
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-02T13:07:00Z'

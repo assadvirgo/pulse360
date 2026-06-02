@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Eagles are trading star wide receiver A.J. Brown to the Patriots
   for a first-round draft pick in 2028 and a 2027 fifth-round pick.
-displayOrder: 25
+displayOrder: 44
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-02T06:59:51Z'

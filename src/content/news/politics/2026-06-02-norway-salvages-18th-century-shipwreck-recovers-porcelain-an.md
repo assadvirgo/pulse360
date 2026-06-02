@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Archaeologists recovered Chinese porcelain and European goods from an
   18th-century shipwreck found in southern Norway.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-02T08:21:38Z'

@@ -4,7 +4,7 @@ country: Chile
 countryCode: CL
 description: Labour unions and student groups protested in Chile as President Kast
   delivered his first State of the Nation.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-01T23:22:52Z'

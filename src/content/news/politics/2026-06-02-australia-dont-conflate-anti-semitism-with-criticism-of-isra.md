@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The anti-Semitism commission should protect Jewish Australians from hatred,
   not shield Israel from accountability.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-02T10:02:31Z'

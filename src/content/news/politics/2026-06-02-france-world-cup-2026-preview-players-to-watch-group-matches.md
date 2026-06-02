@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Departing Deschamps looks to win second title with side led by superstar
   forwards Kylian Mbappe and Ousmane Dembele.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-02T08:39:07Z'

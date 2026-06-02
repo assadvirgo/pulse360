@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Washington has signalled openness to additional countries hosting nuclear-capable
   bombers
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-02T04:00:15Z'

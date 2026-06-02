@@ -5,7 +5,7 @@ countryCode: US
 description: Thermacell has launched Liv 2.0, the next generation of its Wi-Fi-connected
   smart mosquito protection system. It features new hardware and can cover a larger
   area, and Thermacell…
-displayOrder: 3
+displayOrder: 19
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-02T13:00:00Z'

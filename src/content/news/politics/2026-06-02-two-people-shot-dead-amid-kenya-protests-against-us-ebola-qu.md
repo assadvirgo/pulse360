@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: The US plan has sparked public anger and led to demonstrations near the
   site of the proposed treatment facility.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-02T10:53:37Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Trump claims a diplomatic breakthrough after speaking with
   Israeli PM to halt escalation toward Beirut.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-06-02T01:48:49Z'

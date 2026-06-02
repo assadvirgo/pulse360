@@ -5,7 +5,7 @@ countryCode: US
 description: And then there was&#8230; one? Going into this past weekend, there were
   two out of nine artists booked for the &#8220;Freedom 250&#8221; concerts in Washington,
   D.C. that were…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-02T10:12:53Z'

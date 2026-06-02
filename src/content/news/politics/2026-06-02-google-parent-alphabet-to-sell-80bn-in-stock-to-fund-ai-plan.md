@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US tech giant says fundraising drive includes deal to sell $10bn of stock
   to Berkshire Hathaway.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-02T04:10:02Z'
