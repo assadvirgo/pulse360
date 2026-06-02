@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Atana Elements acquires exploration licences in Germany and Poland as
   Europe aims to reduce reliance on China
-displayOrder: 33
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-02T04:00:14Z'

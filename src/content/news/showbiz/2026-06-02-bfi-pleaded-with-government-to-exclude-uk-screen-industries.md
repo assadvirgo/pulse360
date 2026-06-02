@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: The British Film Institute lobbied ministers to request that
   the UK&#8217;s film and TV business not be included in any trade deal signed with
   U.S. President Donald…'
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-02T06:59:00Z'

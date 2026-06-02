@@ -5,7 +5,7 @@ countryCode: US
 description: In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries
   has raised another $300 million. It already has five autonomous vehicles in development
   and…
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-01T21:40:35Z'

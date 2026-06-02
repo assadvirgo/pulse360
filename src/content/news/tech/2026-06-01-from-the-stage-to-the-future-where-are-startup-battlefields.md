@@ -3,7 +3,7 @@ category: Tech
 description: 'We wanted to show you what happens after the confetti falls. We checked
   in with some of our recent alumni, many of whom have sat down with us on Build Mode:
   The Founder Survival…'
-displayOrder: 34
+displayOrder: 49
 heroImage: ''
 importance: 67.0
 pubDate: '2026-06-01T20:26:08Z'

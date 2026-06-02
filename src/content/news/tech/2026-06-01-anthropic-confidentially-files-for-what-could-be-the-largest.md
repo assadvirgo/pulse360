@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AI giant behind Claude submitted paperwork on Monday that would take
   it public, just a couple of weeks after SpaceX’s splashy IPO announcement.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-01T17:17:58Z'

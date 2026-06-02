@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: There are currently no approved drugs that target Bundibugyo - the species
   of Ebola responsible for this outbreak.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-01T23:20:13Z'

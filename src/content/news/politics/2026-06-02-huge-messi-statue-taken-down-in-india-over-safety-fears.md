@@ -3,7 +3,7 @@ category: Politics
 country: India
 countryCode: IN
 description: Huge Messi statue taken down in India over safety fears.
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-02T08:33:19Z'

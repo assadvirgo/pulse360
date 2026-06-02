@@ -5,7 +5,7 @@ countryCode: CZ
 description: Karel Och, artistic director of Karlovy Vary Intl. Film Festival, has
   unveiled a lineup of almost 40 titles in the main program, premiering at the 60th
   edition of the event in the…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-02T09:00:00Z'

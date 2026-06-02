@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Abelardo de la Espriella will face left-wing Senator Ivan Cepeda in the
   run-off for Colombia’s presidential election.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 79.5
 pubDate: '2026-06-01T21:08:44Z'

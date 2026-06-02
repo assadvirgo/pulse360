@@ -2,7 +2,7 @@
 category: Economy
 description: Historic bullion rally boosts metal’s share of reserves to 27% while
   central banks diversify away from dollar
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-02T08:00:03Z'

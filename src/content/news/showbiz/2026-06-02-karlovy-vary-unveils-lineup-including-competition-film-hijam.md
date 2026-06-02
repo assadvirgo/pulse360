@@ -5,7 +5,7 @@ countryCode: CZ
 description: Jurors, such as 'Sentimental Value' co-writer Eskil Vogt, and cineasts
   can look forward to titles from around the world, including KVIFF's first-ever Burmese,
   Colombian and Swiss…
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-02T09:00:00Z'

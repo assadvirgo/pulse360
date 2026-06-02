@@ -5,7 +5,7 @@ countryCode: US
 description: Lopez shared a series of photos and videos from her weekend on Instagram,
   revealing a glimpse at her picturesque property and the renovations she has done
   since buying it last…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-02T09:04:00Z'

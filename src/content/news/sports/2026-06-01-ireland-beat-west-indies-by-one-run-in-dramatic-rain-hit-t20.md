@@ -5,7 +5,7 @@ countryCode: IE
 description: Ireland followed up Sunday's win over Pakistan in the T20 Tri-Nations
   Series by beating West Indies for the first time in that format in a dramatic finish
   at Clontarf.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-01T20:52:20Z'

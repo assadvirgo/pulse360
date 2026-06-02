@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Malak Mahmoud, the pregnant woman filmed being thrown to the ground by
   a Dutch police officer has spoken to Al Jazeera.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-02T03:07:55Z'

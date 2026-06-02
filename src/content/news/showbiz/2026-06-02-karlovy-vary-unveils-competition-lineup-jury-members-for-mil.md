@@ -5,7 +5,7 @@ countryCode: CZ
 description: The Karlovy Vary International Film Festival has unveiled the official
   selection and jury members for its upcoming 60th edition, running from July 3 to
   11. 12 titles have been set…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-02T09:00:00Z'

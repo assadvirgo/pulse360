@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Police seen dragging ultra-Orthodox protesters from under a bus after
   they blocked roads in Jerusalem over conscription.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-01T23:36:03Z'

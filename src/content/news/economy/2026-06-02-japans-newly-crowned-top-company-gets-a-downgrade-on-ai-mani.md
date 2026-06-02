@@ -3,7 +3,7 @@ category: Economy
 country: Japan
 countryCode: JP
 description: Deutsche Bank analyst downgraded SoftBank to hold.
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-02T08:35:00Z'
