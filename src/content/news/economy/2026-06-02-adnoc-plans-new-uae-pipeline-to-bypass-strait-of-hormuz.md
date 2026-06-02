@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Move by state-run oil group comes as Iran war highlights region’s reliance
   on key shipping route
-displayOrder: 22
+displayOrder: 41
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-02T13:30:55Z'

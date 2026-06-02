@@ -5,7 +5,7 @@ countryCode: US
 description: PBS SoCal, KABC/ABC7 and KMEX led the tally on Tuesday as the TV Academy
   announced nominations for the 78th annual L.A. Area Emmy Awards. The annual ceremony
   will take place on…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-02T16:42:02Z'

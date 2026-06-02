@@ -2,7 +2,7 @@
 category: Economy
 description: Middle East energy shock pushes price growth to highest level in nearly
   3 years
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-02T09:01:26Z'

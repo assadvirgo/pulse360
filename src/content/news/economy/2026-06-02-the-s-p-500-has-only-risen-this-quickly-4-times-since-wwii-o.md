@@ -5,7 +5,7 @@ countryCode: US
 description: The S&amp;P 500 has overcome worries about artificial intelligence and
   the fallout from the war in Iran to stage one of its strongest two-month showings
   on record.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-02T17:00:00Z'

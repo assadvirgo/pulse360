@@ -5,7 +5,7 @@ countryCode: US
 description: Singer-songwriter Charlie Puth has sold an ultramodern “sculptural” residence
   in Studio City for $2.1 million—less than a year after putting the architectural
   marvel on the market.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-02T09:05:00Z'

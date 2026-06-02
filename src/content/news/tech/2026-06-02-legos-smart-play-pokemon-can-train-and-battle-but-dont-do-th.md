@@ -3,7 +3,7 @@ category: Tech
 description: When Lego announced its tech-packed Smart Bricks at CES, we were impressed
   by the potential - enough to give it our best-in-show award. But when the first
   Star Wars sets actually…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-02T13:28:27Z'

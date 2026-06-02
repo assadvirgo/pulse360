@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia launches 656 drones and 73 missiles at Ukraine overnight, according
   to Ukraine&#039;s air force.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-02T07:07:21Z'

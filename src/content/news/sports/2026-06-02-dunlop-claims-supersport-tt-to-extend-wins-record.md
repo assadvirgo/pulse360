@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Michael Dunlop powers clear of Dean Harrison to win the first Supersport
   race at the Isle of Man TT for his 34th victory at the road race.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-02T15:00:26Z'

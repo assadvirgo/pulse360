@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: One of the biggest challenges Preston Arrington faces on his 2,100-acre
   corn and soybean farm is the surge in the price of fertilizer.
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-02T16:50:00Z'

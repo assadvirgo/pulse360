@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Ousted PM says his party, which holds the parliamentary majority, will
   not participate in the new government.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-02T07:30:15Z'

@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Hundreds of people have been made homeless after a huge fire tore through
   a market in Jakarta.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-02T10:27:04Z'

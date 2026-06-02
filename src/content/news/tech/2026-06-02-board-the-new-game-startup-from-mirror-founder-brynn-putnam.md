@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Board, the startup building what it calls "together tech" designed to
   bring people into the same room, has closed a Series A led by Union Square Ventures.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-02T15:56:08Z'

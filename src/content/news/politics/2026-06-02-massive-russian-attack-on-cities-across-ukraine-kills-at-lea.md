@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have
   been hit and there are fears people are trapped under rubble.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-02T05:04:16Z'
