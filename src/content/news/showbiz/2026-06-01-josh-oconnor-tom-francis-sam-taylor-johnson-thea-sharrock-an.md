@@ -5,7 +5,7 @@ countryCode: GB
 description: Variety has announced the presenters for the inaugural Power of Women
   London taking place on June 3. The event, in partnership with A+E Global Media’s
   Lifetime, celebrates the…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-01T22:00:00Z'

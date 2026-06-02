@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Maker of WeChat has fallen behind domestic rivals in artificial intelligence
   models
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-02T02:52:04Z'

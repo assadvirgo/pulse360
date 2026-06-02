@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Accenture made a fortune from previous tech revolutions but investors
   think AI could kill it, not make it stronger
-displayOrder: 17
+displayOrder: 28
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-02T04:00:05Z'

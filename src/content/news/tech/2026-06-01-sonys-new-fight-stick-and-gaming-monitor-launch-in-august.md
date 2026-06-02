@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony is sharing new details about some of its upcoming gaming-focused
   hardware, including pricing and August launch dates for its FlexStrike fight stick
   and its 27-inch monitor.…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-01T16:36:18Z'

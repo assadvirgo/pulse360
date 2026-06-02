@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Florida Attorney General James Uthmeier sued OpenAI for putting children
   at risk, and said other states will likely also launch legal actions.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-01T21:39:00Z'

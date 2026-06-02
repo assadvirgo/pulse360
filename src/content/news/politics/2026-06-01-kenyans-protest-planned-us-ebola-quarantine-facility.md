@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Hundreds protest near the site of the planned facility, which would serve
   US nationals exposed to the virus.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-01T19:07:47Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Instead of a uniting event, America's Independence Day celebrations are
   becoming yet another partisan battleground.
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-01T22:56:39Z'

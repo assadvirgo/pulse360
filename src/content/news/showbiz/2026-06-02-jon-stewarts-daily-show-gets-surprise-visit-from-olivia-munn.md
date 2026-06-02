@@ -5,7 +5,7 @@ countryCode: US
 description: Back from the holiday vacation, Jon Stewart began his Monday night stint
   at The Daily Show in desperate need of &#8220;some good news.&#8221; &#8220;I need
   some relief. And…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-02T04:13:21Z'

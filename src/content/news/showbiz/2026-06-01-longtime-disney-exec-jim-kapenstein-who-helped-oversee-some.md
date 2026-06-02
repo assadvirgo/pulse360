@@ -5,7 +5,7 @@ countryCode: US
 description: Starz has tapped longtime Disney exec Jim Kapenstein to serve as the
   company&#8217;s new chief legal and strategy officer. Kapenstein will join Starz
   next week and report to…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-01T23:38:50Z'
