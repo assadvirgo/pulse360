@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Brigadier General Khaled al-Halabi faces charges of aggravated torture,
   coercion, sexual coercion and bodily harm.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-01T17:29:52Z'

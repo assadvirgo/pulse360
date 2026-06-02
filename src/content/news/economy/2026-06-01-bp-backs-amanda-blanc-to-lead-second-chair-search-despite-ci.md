@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Oil major’s senior independent director took lead on appointing shortlived
   chair Albert Manifold
-displayOrder: 31
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-01T19:34:08Z'

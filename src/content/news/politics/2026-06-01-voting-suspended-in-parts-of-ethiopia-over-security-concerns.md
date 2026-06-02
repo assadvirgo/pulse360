@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: Prime Minister Abiy Ahmed's party is expected to dominate the election
   as conflicts overshadow the vote.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-01T14:35:36Z'

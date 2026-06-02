@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel has pushed past the Litani River, with the UNFIL peacekeeping
   force helpless to prevent an invasion.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 69.5
 pubDate: '2026-06-01T15:56:39Z'

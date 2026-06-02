@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The artificial-intelligence buildout is driving intense demand for networking
   and servers, and Hewlett Packard Enterprise is reaping the rewards.
-displayOrder: 19
+displayOrder: 25
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-01T20:35:00Z'

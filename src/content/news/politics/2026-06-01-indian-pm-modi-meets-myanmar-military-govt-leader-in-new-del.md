@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Myanmar opposition groups criticise India for hosting Min Aung Hlaing,
   but India says engagement is best way forward.
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-01T14:45:17Z'

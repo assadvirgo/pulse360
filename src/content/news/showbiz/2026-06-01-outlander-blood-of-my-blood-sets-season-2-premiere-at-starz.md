@@ -5,7 +5,7 @@ countryCode: US
 description: 'Outlander: Blood of My Blood will return with Season 2 on September
   18, World Outlander Day, via Starz. A new teaser was released and can be found above.
   Season 2 will continue to…'
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 63.0
 pubDate: '2026-06-01T20:00:00Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Ethiopia
 countryCode: ET
 description: Ethiopians head to polls as millions excluded from elections.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-01T17:49:21Z'

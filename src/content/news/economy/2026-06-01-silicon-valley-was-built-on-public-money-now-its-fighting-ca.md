@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Cyberselfish” author says tech elite believe that taxes are for “little
   people.”
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-01T20:21:00Z'

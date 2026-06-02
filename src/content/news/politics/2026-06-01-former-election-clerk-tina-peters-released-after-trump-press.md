@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Peters had been sentenced to nine years in state prison after allowing
   access to Colorado state voting machines.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-01T19:38:21Z'
