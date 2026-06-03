@@ -5,7 +5,7 @@ countryCode: US
 description: Part two of the season 10 reunion aired Tuesday, where Ciara Miller and
   Kyle Cooke FaceTimed with Meija Moreno, the woman whom West Wilson was exclusively
   dating when his…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-03T01:00:00Z'

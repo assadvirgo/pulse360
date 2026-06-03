@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The space-tourism company made a move to pay off some debt, but investors
   aren’t happy that it will issue new shares to do so.
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-02T22:12:00Z'

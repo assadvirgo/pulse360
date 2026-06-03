@@ -5,7 +5,7 @@ countryCode: US
 description: Shares in Fannie Mae and Freddie Mac tumbled Tuesday as traders reacted
   to President Donald Trump’s announcement that Bill Pulte, the chair of the two government-backed
   mortgage…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-02T15:46:00Z'

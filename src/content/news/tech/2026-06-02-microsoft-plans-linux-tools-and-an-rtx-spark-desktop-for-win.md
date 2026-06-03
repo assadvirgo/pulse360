@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: One hardware announcement and several software highlights from Microsoft
   Build.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-02T22:51:10Z'

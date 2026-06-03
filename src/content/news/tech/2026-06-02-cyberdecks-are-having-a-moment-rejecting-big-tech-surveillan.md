@@ -3,7 +3,7 @@ category: Tech
 description: Over the last few months, these DIY hardware communities have exploded
   in popularity as people on social media show off their solar-powered game emulators,
   pocket-sized ereaders,…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-02T20:20:00Z'

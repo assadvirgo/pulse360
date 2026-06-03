@@ -2,7 +2,7 @@
 category: Sports
 description: The delayed offside flag could almost become a thing of the past after
   Fifa unveiled new technology to be used at the 2026 World Cup.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-02T18:42:29Z'

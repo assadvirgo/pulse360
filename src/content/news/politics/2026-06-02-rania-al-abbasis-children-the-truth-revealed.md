@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Syrian commission confirms the deaths of Rania al-Abbasi’s six children,
   missing under Bashar al-Assad’s rule.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-02T23:35:37Z'

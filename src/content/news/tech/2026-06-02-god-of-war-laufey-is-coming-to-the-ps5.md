@@ -5,7 +5,7 @@ countryCode: US
 description: 'Sony ended its big State of Play showcase with a major reveal: the next
   God of War. The new title is called God of War Laufey, and is once again developed
   by Sony''s Santa Monica…'
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-02T22:16:08Z'

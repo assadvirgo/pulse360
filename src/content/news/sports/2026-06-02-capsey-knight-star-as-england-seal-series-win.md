@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Alice Capsey leaves England with a huge selection call and Heather Knight
   finds form as England sign off for the T20 World Cup with victory over India.
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-02T20:57:05Z'

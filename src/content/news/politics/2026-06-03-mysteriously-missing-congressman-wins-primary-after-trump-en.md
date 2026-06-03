@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican lawmaker Tom Kean Jr has not been seen in Washington or his
   New Jersey district for several months.
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-03T02:10:07Z'

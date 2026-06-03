@@ -2,7 +2,7 @@
 category: Politics
 description: Potential impacts, including floods, drought and heatwaves, could &#039;hit
   even harder&#039; this year, UN chief warns.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-02T16:33:18Z'

@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Drones lit up the evening sky near Taiwan’s Taipei 101 skyscraper in
   a dazzling display for the Computex trade show.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-02T21:59:46Z'

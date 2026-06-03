@@ -3,7 +3,7 @@ category: Politics
 country: Japan
 countryCode: JP
 description: 'Watch: Man attacked by bear at steel works in Japan'
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-06-03T00:58:09Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Democrats pick former Navy commander to challenge Republican Tom Kean
   in New Jersey&#039;s 7th District.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-03T03:36:11Z'

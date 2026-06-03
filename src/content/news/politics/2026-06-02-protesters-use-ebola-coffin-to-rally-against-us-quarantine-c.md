@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Demonstrators in Nairobi have carried an ‘Ebola’ coffin to protest a
   proposed US quarantine facility.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-02T23:14:18Z'
