@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Scenes of devastation greet residents emerging from underground shelters
   after a major Russian attack.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-02T19:13:21Z'

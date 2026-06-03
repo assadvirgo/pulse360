@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;The Hunting Party&#8221; has been canceled after two seasons
   at NBC. The series, which aired its final episode on May 7, starred Melissa Roxburgh
   as former FBI profiler…'
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 62.8
 pubDate: '2026-06-02T23:30:00Z'

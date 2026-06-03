@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Press freedom advocates, however, have warned that the dinner could give
   Trump a podium to attack the news media.
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-03T00:11:17Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Trade discussions between the two countries have been frozen since late
   last year.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-02T16:51:06Z'

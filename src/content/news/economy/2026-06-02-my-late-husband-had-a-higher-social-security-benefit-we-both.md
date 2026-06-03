@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Early benefit claiming can affect your ultimate payment amount, though
   not always for survivors.
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-02T19:38:00Z'

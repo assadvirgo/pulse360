@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing warns brokers about overseas share sales amid fears of capital
   flight
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-02T21:00:08Z'

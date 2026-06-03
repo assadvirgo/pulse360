@@ -3,7 +3,7 @@ category: Tech
 description: Control Resonant, the upcoming sequel to Remedy Entertainment's Control,
   will be released on September 24th, 2026, according to a trailer that premiered
   during Tuesday's…
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-02T21:55:32Z'

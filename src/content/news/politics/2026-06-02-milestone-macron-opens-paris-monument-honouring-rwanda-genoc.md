@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: President Macron, acknowledging France&#039;s &#039;responsibility&#039;
   in the genocide, calls memorial a reconciliation &#039;milestone&#039;.
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-02T20:18:22Z'

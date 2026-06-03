@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft claimed last year that it had made a key breakthrough in quantum
   computing with Majorana 1, the company's first quantum processor. While physicists
   were immediately…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-06-02T18:15:00Z'

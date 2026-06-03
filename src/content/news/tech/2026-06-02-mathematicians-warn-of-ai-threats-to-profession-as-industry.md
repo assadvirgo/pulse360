@@ -2,7 +2,7 @@
 category: Tech
 description: International Mathematical Union endorses warning about tech industry
   influence.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-02T18:19:06Z'

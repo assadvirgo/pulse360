@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Blue Origin says it should be able to launch its New Glenn rocket before
   the end of 2026, which could help AST SpaceMobile.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-02T22:30:00Z'

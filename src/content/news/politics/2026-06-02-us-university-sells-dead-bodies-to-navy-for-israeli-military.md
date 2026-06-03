@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AJ+ documentary series Direct From investigates connections between
   body donations and Israeli military programmes.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-02T16:51:40Z'

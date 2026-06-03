@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: In a letter to his North American counterparts, US-Canada Trade Minister
   Dominic LeBlanc said the three countries should renew the USMCA trade deal.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-02T19:30:47Z'

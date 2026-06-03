@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Switzerland's World Cup squad travel to the United States without Breel
   Embolo as the forward's Esta authorisation is placed under review.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-02T13:14:50Z'

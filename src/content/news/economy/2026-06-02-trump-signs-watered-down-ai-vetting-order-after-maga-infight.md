@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President’s directive will allow the US government to gain early access
   to cutting-edge models
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-02T19:57:57Z'

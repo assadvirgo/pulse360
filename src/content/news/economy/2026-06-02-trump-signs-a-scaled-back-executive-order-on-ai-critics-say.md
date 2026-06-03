@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump on Tuesday signed an executive order on artificial
   intelligence that aims to set up a framework for AI companies to voluntarily inform
   the federal…
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-02T19:17:00Z'
