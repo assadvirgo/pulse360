@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bryson was best known as the voice behind Disney songs like A Whole New
   World and Beauty and the Beast.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-03T08:39:43Z'

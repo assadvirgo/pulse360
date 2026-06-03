@@ -3,7 +3,7 @@ category: Economy
 country: Ukraine
 countryCode: UA
 description: Kyiv hits oil terminal after deadly Russian strikes on Ukrainian cities
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-03T10:29:25Z'

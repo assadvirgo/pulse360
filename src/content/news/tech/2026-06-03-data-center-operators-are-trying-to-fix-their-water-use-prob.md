@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Google, Microsoft, and other hyperscalers have come under scrutiny for
   their impact on water quality and availability.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-03T10:00:00Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The Oscar-winning director found himself getting photographed aboard
   a boat in the Mediterranean — he’s still trying to figure out exactly why.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-03T17:00:00Z'

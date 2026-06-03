@@ -2,7 +2,7 @@
 category: Politics
 description: A stronger dollar, higher energy costs and market uncertainty are putting
   pressure on currencies across Asia.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-03T12:40:08Z'

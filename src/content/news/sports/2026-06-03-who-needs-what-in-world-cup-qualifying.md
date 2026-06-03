@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England will seal a place at next summer's World Cup if they avoid defeat
   against Spain on Friday, but who else can secure a spot in Brazil?
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-03T07:29:12Z'

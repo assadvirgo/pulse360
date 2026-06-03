@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Private-credit woes are back in focus after a pair of l funds limited
   redemptions in the second quarter
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-03T16:32:00Z'

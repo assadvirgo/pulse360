@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rapid growth shows volume of passive money ready to buy IPOs such as
   SpaceX and Anthropic
-displayOrder: 30
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-03T13:57:36Z'

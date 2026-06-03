@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Mayor of Spain&#039;s La Linea de la Concepcion bans friendly between
   DR Congo and Chile due to health concerns.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-03T13:22:26Z'

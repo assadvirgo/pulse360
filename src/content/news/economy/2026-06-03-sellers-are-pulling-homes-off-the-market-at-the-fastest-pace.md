@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Frustrated sellers are pulling their homes off the market at an increasingly
   high pace, as demand weakens and bidding wars wane.
-displayOrder: 28
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-03T16:31:57Z'

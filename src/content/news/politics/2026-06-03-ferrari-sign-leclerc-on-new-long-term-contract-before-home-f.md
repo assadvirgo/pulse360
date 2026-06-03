@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Charles Leclerc has extended his contract with Ferrari for an undisclosed
   length, having joined the F1 team in 2019.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-03T12:06:10Z'

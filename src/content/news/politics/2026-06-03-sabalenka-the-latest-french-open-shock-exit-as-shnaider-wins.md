@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Tennis&#039;s top-ranked Aryna Sabalenka knocked out of French Open in
   quarterfinal Roland-Garros defeat to Diana Shnaider.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-03T14:47:17Z'

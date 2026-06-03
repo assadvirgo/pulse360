@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wyland&#039;s mural stood for nearly three decades before workers began
   painting over it last month to promote the World Cup.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-03T09:56:46Z'

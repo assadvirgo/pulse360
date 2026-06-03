@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Restore Britain’s manifesto has pledged to implement the &#039;most ambitious
   programme of mass deportations&#039;.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-03T12:27:43Z'

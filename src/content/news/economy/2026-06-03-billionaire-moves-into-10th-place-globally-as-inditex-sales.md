@@ -5,7 +5,7 @@ countryCode: ES
 description: Amancio Ortega moved into 10th place on the Forbes real-time billionaires
   list after the retailer he co-founded, Inditex, reported accelerating sales in the
   current quarter.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-03T09:09:00Z'
