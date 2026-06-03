@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Another fusion startup has raised another a massive round to make this
   type of power a reality.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-02T17:01:17Z'

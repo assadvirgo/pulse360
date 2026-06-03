@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The Hind Rajab Foundation is using videos made by Eitan Gilboa and posted
   to social media as evidence.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-02T13:57:28Z'

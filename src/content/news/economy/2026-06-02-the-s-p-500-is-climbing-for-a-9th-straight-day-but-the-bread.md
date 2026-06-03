@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'The S&amp;P 500’s latest string of records has come with a catch: Fewer
   stocks are participating in the rally.'
-displayOrder: 33
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-02T19:11:00Z'

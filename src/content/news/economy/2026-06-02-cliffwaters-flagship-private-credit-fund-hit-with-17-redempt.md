@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fund with net assets of $31bn aimed at retail investors limits withdrawals
   in latest sign of exodus from sector
-displayOrder: 28
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-02T20:56:02Z'

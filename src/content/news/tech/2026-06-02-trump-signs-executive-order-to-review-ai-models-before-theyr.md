@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump signed an executive order Tuesday creating a "voluntary
   framework" for AI companies to share their frontier models with the federal government
   before…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-02T18:33:42Z'

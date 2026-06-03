@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican Congressman Tom Kean Jr has not been seen for months but is
   expected to win Tuesday's election.
-displayOrder: 24
+displayOrder: 34
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-02T17:40:56Z'

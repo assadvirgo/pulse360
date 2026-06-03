@@ -5,7 +5,7 @@ countryCode: US
 description: Alan Ritchson may be re-enlisting in the service. Netflix is working
   on a sequel to &#8220;War Machine,&#8221; the sci-fi, military-themed action film
   that has been a viewing…
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-02T19:39:16Z'

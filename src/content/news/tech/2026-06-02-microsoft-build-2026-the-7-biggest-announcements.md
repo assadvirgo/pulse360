@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella
   and other company leaders. As expected, it was filled with announcements, ranging
   from new Surface…
-displayOrder: 8
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-02T19:23:52Z'

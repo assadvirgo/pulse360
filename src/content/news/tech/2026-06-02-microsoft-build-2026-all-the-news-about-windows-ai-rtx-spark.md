@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft’s annual developer conference is kicking off on June 2nd in
   San Francisco with the keynote presentation streaming live at 12:30PM ET / 9:30AM
   PT, and we will be…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-02T15:59:58Z'

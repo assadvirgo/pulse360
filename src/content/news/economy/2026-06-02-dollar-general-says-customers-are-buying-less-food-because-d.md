@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “This pressure has been more pronounced on customers in rural communities
   as they work to minimize trip distance,” the discount retailer’s CEO said.
-displayOrder: 29
+displayOrder: 37
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-02T20:40:00Z'

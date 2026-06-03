@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: Braintree Town defender Tommy Smith is looking forward to the "crowning
   glory of his career" at the World Cup with New Zealand.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-02T12:49:37Z'

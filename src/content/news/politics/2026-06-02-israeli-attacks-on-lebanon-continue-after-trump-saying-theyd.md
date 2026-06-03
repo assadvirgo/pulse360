@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli air strikes on southern Lebanon have continued, a day after US
   President said the ‘shooting’ would stop
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-02T13:53:37Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Software giant’s AI chief Mustafa Suleyman says focus is on developing
   products for business users
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-02T18:00:06Z'

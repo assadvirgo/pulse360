@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Housing industry executive and staunch ally of the president to take
   up role in acting capacity
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-02T15:06:41Z'

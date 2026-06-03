@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hunter Hayes of Intrepid Capital described an “incredibly healthy” market
   for high-yield bonds and a conservative approach to investing in the space.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-02T16:17:00Z'

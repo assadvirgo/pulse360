@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The singer reported a series of "deeply alarming" incidents at her house
   to Los Angeles police.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-02T10:18:29Z'
