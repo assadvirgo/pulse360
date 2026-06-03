@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hawkish voices in Israel have accused Prime Minister Benjamin Netanyahu
   of holding back on bombing Beirut.
-displayOrder: 27
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-03T03:15:34Z'

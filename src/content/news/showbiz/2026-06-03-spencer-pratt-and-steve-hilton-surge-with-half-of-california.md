@@ -5,7 +5,7 @@ countryCode: US
 description: Karen Bass and Xavier Becerra are also in position to advance to the
   November election for L.A. mayor and California governor, respectively. Progressive
   gubernatorial candidate…
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-03T05:52:53Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Centcom says Tehran launched ‘several’ ballistic missiles at Kuwait and
   Bahrain
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-03T01:03:36Z'

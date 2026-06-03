@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: For decades, fame seemed to be the only guarantee for a quick, splashy,
   and profitable home sale, but in recent years, that playbook seems to have faltered.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-03T09:03:00Z'

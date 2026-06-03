@@ -2,7 +2,7 @@
 category: Economy
 description: Growth rates would tumble to levels rarely seen outside of major global
   events such as the Covid-19 pandemic
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-03T07:00:03Z'

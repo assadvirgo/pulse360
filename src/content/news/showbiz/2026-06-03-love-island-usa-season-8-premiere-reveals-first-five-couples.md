@@ -5,7 +5,7 @@ countryCode: US
 description: Summer is back in session! And with it comes “Love Island USA” Season
   8 on Peacock, complete with host Ariana Madix, narrator Iain Stirling and a new
   set of single islanders…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-03T03:24:10Z'

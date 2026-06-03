@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Brazil are aiming for a record-extending sixth world title at the 2026
   tournament in North America.
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 65.5
 pubDate: '2026-06-03T07:15:13Z'

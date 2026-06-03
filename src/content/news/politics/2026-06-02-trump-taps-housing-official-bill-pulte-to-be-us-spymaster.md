@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The head of the Federal Housing Finance Agency, who pushed for criminal
   charges against Trump's foes, will step in as acting Director of National Intelligence.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-02T20:36:15Z'

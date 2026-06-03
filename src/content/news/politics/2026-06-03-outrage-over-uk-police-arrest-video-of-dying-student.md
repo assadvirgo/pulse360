@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Footage of police arresting a dying student has set off heated protests
   in the UK.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-03T06:52:11Z'

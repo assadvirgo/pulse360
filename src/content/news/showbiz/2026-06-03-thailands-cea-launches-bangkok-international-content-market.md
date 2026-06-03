@@ -5,7 +5,7 @@ countryCode: TH
 description: Thailand’s Creative Economy Agency (CEA) is launching a fully-fledged
   contents market and pitching event this summer – Bangkok International Content Market
   (BICM) – with dates set…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-03T07:47:27Z'

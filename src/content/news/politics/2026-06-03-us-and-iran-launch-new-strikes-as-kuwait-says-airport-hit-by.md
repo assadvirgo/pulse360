@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Kuwait says its international airport has been badly damaged by Iranian
   drones, and traffic is suspended.
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 63.2
 pubDate: '2026-06-03T06:54:14Z'

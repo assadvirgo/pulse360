@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Far away from Indian mainland, the government is pumping billions of
   dollars into a controversial development project.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-03T07:17:37Z'

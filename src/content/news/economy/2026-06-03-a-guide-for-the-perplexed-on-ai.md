@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Should we think of this technology as boon, bane or bubble?
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-03T04:00:15Z'
