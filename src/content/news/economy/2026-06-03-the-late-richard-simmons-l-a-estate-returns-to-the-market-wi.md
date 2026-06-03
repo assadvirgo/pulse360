@@ -5,7 +5,7 @@ countryCode: US
 description: The iconic Los Angeles estate where fitness guru Richard Simmons died
   in 2024 has undergone a big price cut, just a few weeks after it reappeared on the
   market as a $5.8 million…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-03T09:01:00Z'

@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: The Bundibugyo strain is a reminder that serious health threats can escalate
   from under-the-radar pathogens
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-03T04:00:27Z'

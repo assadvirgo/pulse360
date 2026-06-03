@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A property-management technology company is charging people for a credit-repair
   service without their knowledge, a new class-action complaint alleges.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-03T13:30:00Z'

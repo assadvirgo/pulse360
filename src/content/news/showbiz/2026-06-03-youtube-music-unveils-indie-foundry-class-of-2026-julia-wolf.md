@@ -3,7 +3,7 @@ category: Showbiz
 description: Over the past decade, YouTube Music’s “Foundry Class” has become a trademark
   of quality for independent artists, and the 24 artists who make up this year’s class
   is no exception.…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 65.8
 pubDate: '2026-06-03T13:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: In the face of widespread backlash to the AI data center buildout throughout
   the US, Google is touting its efforts to minimize the environmental impact by actually
   increasing…
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-03T09:00:00Z'

@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: Opposition leader and dozens of other defendants handed lengthy prison
   terms for &#039;forming a terrorist alliance&#039;.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-03T02:45:38Z'

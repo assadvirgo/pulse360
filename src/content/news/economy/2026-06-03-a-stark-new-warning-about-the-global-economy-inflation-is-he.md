@@ -2,7 +2,7 @@
 category: Economy
 description: Organisation for Economic Co-operation and Development now anticipates
   a worldwide inflation rate of 4% this year.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-03T12:39:00Z'

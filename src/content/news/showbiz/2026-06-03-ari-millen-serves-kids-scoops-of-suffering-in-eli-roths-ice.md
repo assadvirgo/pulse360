@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The splatter master’s first movie under his The Horror Section banner
   will hit theaters Aug. 7.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-03T13:29:26Z'

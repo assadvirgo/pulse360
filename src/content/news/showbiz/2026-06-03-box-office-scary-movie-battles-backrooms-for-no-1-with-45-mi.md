@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Scary Movie&#8221; will contend with another scary movie, A24&#8217;s
   breakout horror hit &#8220;Backrooms,&#8221; for No. 1 at the domestic box office.
   Paramount and…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-03T13:20:09Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Some bond investors believe the group’s debt is unsustainable, but others
   think its scale and edge will see it through
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-03T04:00:06Z'

@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Can a US president promote stock they’ve invested in
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-03T08:24:11Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US President Trump reported to lash out at Israeli PM Netanyahu over
   Israel’s threat to strike Beirut suburbs.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-03T00:00:00Z'
