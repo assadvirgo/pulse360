@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Chipmaker opens new front in rivalry with Apple, Intel, AMD and Qualcomm
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-04T04:00:23Z'

@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Kanye West will be allowed to perform two gigs in the Netherlands after
   a judge shot down a Jewish group's attempt to block them.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 40.0
 pubDate: '2026-06-04T02:14:00Z'

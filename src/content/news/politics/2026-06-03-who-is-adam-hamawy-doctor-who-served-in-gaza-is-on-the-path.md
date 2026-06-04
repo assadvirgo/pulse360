@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hamawy&#039;s victory in New Jersey likely to make him a rare US Congress
   member with firsthand experience in besieged Gaza.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-03T21:56:47Z'

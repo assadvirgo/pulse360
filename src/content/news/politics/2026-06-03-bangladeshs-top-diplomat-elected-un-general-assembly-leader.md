@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: Khalilur Rahman elected as the president of the UNGA&#039;s 81st session,
   garnering 99 votes in secret ballot.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-03T16:44:51Z'

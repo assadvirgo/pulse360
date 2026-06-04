@@ -3,7 +3,7 @@ category: Tech
 description: Unlock significant savings on Jabra headphones, headsets, and speakers
   with our verified promo codes, exclusive coupons, and limited-time deals in June
   2026.
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-04T05:00:00Z'

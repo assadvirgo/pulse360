@@ -3,7 +3,7 @@ category: Tech
 description: Nintendo is planning to launch versions of Switch 2 hardware in the EU
   that will let users easily replace the battery. To meet its obligations from a new
   EU regulation that's set…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-04T00:04:04Z'

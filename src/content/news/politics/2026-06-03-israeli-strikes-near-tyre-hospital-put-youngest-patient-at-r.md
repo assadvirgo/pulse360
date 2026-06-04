@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Jabal Aamel Hospital in Tyre was heavily damaged after an Israeli strike
   levelled nearby buildings, leaving key medical
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-03T19:37:54Z'

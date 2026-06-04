@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The bill to fund immigration agencies has been delayed by opposition
   to Trump's 'anti-weaponisation fund'.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-04T01:18:09Z'

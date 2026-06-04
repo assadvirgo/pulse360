@@ -5,7 +5,7 @@ countryCode: US
 description: Boost your productivity and save with exclusive Google Workspace coupons
   from WIRED. Get up to 14% off plans for three months, including Starter, Standard,
   and Plus tiers.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-04T05:00:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former world champion Ken Doherty announces his retirement from professional
   snooker to end his 36-year career.
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-03T15:40:30Z'

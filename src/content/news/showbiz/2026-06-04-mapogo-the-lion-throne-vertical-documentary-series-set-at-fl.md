@@ -5,7 +5,7 @@ countryCode: SG
 description: COL Group&#8217;s FlareFlow and Singapore-based Bomanbridge Media have
   teamed on one of the first premium vertical-format documentary series, a wildlife
   title set to go live on…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-04T00:00:00Z'
