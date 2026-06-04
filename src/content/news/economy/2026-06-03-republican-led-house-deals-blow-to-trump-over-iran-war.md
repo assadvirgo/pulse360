@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawmakers vote to block president from carrying out more strikes in Middle
   East without congressional approval
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-03T22:57:18Z'

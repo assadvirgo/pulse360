@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Swiss group faces increasing strains as redemption requests from investors
   rise
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-04T07:27:25Z'

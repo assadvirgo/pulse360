@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ollie Pope strikes his first half-century of this year's T20 Blast as
   Surrey coast past Middlesex in a one-sided South Group derby at The Oval.
-displayOrder: 47
+displayOrder: 48
 heroImage: ''
 importance: 38.2
 pubDate: '2026-06-03T20:19:33Z'

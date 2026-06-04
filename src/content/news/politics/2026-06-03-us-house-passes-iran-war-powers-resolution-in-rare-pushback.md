@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Four Republicans allied with Democrats to pass bill to rein in Trump,
   though it is likely to face a presidential veto.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-03T22:10:58Z'

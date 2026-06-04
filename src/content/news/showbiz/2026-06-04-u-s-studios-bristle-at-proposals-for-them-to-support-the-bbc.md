@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: The Motion Picture Association (MPA), the trade body that
   represents U.S. studios including Netflix and Disney, is lobbying against proposals
   in the UK that could…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-04T07:12:39Z'

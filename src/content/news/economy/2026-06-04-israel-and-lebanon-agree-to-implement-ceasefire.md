@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Deal announced by US state department calls for Hizbollah to stop all
   attacks
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-04T06:47:02Z'

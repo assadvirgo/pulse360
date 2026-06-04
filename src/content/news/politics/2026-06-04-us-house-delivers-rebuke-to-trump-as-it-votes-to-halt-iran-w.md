@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In the 215-208 vote, four Republicans joined Democrats to pass the measure,
   which is largely symbolic.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-04T07:23:41Z'

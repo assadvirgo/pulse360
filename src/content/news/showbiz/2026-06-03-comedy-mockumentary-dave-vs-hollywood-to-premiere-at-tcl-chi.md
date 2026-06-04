@@ -5,7 +5,7 @@ countryCode: US
 description: “Dave Vs. Hollywood,” a new comedy mockumentary from directors Brad Dickson
   and Daniel Katz, will have its World Premiere at the TCL Chinese Theatre on June
   26 for the upcoming…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-03T23:00:00Z'

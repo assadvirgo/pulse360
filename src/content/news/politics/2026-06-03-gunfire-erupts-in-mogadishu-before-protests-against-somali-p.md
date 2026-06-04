@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Ex-Somali PM Khaire accuses government forces of attacking him before
   planned antigovernment protests in Mogadishu.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-03T18:45:32Z'

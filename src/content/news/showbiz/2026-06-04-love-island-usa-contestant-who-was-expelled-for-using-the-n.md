@@ -5,7 +5,7 @@ countryCode: US
 description: Vasana Montgomery, the 25-year-old from Beaverton, Ore. who was cast
   in &#8220;Love Island USA&#8221; Season 8 and promptly expelled for using the n-word
   in social media videos,…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-04T02:07:42Z'

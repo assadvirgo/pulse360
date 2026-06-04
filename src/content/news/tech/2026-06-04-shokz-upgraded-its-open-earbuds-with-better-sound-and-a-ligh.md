@@ -3,7 +3,7 @@ category: Tech
 description: Shokz has announced two new versions of its open earbuds. Like the original
   OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air
   are both designed to…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-04T07:00:00Z'

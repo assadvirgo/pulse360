@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Spending on new factories has fallen while industry executives point
   to uneven recovery
-displayOrder: 30
+displayOrder: 46
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-04T04:00:14Z'

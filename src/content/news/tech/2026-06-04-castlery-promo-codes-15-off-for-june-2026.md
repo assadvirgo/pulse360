@@ -2,7 +2,7 @@
 category: Tech
 description: Refresh your living space for less with these verified Castlery coupons,
   including free shipping offers and furniture set discounts.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-04T05:00:00Z'

@@ -4,7 +4,7 @@ country: Latvia
 countryCode: LV
 description: Military chief says Moscow has gained technological edge over west and
   may move sooner than expected
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-04T04:00:14Z'

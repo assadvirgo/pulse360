@@ -4,7 +4,7 @@ country: Armenia
 countryCode: AM
 description: Moscow’s trade restrictions put pressure on western-friendly government
   in Yerevan
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-04T04:00:32Z'

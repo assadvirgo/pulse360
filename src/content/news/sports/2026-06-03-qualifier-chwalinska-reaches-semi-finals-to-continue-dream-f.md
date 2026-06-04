@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Qualifier Maja Chwalinska continued her dream French Open run as she
   beats Anna Kalinskaya to reach her first Grand Slam semi-final.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-03T16:21:04Z'
