@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fault Lines investigates a surge in black lung among younger coal miners
   in Appalachia, and gaps in dust protections.
-displayOrder: 17
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-04T15:30:00Z'

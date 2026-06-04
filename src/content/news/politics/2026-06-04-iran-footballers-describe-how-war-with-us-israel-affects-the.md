@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran national players Saeid Ezatolahi and Mohammad Ghorbani talk about
   how war is overshadowing a World Cup dream.
-displayOrder: 16
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-04T14:13:24Z'

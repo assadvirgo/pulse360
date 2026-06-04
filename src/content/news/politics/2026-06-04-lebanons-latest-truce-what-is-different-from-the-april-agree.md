@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The ceasefire&#039;s prospects appear uncertain before its implementation
   has even started.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-04T14:58:15Z'

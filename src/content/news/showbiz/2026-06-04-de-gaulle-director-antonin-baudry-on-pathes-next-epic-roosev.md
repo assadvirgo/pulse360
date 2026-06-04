@@ -5,7 +5,7 @@ countryCode: FR
 description: 'As French cinema continues to embrace large-scale event filmmaking,
   Antonin Baudry’s “De Gaulle: Résistance” arrives as Pathé’s latest ambitious historical
   epic, following the…'
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 67.8
 pubDate: '2026-06-04T16:49:49Z'

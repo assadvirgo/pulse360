@@ -5,7 +5,7 @@ countryCode: GB
 description: A member of the RFU council has been stripped of perks of his position
   for seven months – including tickets to England games, free meals and travel expenses
   – after posting…
-displayOrder: 12
+displayOrder: 17
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-04T15:07:56Z'

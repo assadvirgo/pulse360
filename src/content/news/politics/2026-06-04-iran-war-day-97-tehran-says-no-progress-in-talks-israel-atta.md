@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Israel carries out drone attacks on Lebanon after agreeing to renew ceasefire
   as Tehran defends attacks on Gulf nations.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-04T07:01:19Z'

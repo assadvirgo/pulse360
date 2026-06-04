@@ -5,7 +5,7 @@ countryCode: GB
 description: After a candidate in Real Madrid's presidential election unveils an Erling
   Haaland shirt on live TV, Manchester City dismiss the suggestion their striker will
   move to Spain.
-displayOrder: 13
+displayOrder: 21
 heroImage: ''
 importance: 79.2
 pubDate: '2026-06-04T08:27:35Z'

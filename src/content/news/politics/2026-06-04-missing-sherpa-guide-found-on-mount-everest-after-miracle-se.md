@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: Cleaners found Dawa Sherpa crawling towards Base Camp six days after
   he went missing at a higher altitude.
-displayOrder: 21
+displayOrder: 33
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-04T10:18:49Z'

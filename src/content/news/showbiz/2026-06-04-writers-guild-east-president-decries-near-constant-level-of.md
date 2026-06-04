@@ -5,7 +5,7 @@ countryCode: US
 description: Union head Tom Fontana said management is displaying “a profound contempt
   for the journalism profession” after the firing of ‘60 Minutes’ correspondent Scott
   Pelley.
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-04T16:19:53Z'

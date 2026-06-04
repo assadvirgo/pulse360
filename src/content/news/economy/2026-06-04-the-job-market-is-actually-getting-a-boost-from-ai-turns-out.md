@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wasted AI budgets at Nvidia, Uber, Microsoft and others sink “tokenmaxxing”
   and trigger hiring.
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-04T16:49:00Z'

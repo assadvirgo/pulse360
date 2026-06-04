@@ -4,7 +4,7 @@ country: Albania
 countryCode: AL
 description: Environmental organisations have called for the project&#039;s suspension,
   citing threats to biodiversity.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-04T14:55:30Z'

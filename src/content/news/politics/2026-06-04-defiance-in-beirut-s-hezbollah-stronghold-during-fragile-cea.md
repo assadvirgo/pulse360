@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: BBC correspondent John Sudworth reports from the Beirut stronghold of
   Hezbollah support, Dahieh.
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-04T11:02:17Z'

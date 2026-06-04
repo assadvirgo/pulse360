@@ -5,7 +5,7 @@ countryCode: US
 description: “Buffy the Vampire Slayer” star Sarah Michelle Gellar and her actor husband,
   Freddie Prinze Jr., have put their stunning Hamptons-stye Los Angeles home on the
   market for $10.5…
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-04T09:01:00Z'

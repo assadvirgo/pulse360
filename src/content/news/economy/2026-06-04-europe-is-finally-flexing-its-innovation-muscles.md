@@ -2,7 +2,7 @@
 category: Economy
 description: The new EU tech sovereignty package shows a welcome shift from defensive
   regulation
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-04T13:50:30Z'
