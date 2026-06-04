@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican and Democratic lawmakers have questioned the credentials of
   President Trump&#039;s latest appointee.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-03T14:24:51Z'

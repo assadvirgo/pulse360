@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Marvell now ranks No. 22 in the Nasdaq-100 with a $269 billion market
   capitalization that’s higher than those of PepsiCo and T-Mobile.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-03T16:43:00Z'

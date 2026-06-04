@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: A fire has ripped through a hotel in New Delhi, killing at least 21 people
   including 18 foreign nationals.
-displayOrder: 34
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-03T21:01:17Z'

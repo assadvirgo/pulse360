@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Higher prices are crimping spending among lower- and middle-income consumers,
   the Fed’s beige book reports.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-03T21:03:00Z'

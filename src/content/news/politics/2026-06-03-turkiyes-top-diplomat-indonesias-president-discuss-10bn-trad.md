@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: The two discuss a range of sectors, including defence, energy, transportation
   and the halal food industry.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-03T15:29:31Z'

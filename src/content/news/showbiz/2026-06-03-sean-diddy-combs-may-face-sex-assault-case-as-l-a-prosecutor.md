@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jonathan Hay, who claims Combs sexually assaulted him twice in 2020 and
   2021, says the D.A.'s review marks "a critical juncture" in his fight for "accountability."
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-03T21:34:29Z'

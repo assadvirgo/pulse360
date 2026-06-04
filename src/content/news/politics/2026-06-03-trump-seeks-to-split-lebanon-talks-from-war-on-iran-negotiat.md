@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump says he wants to keep talks on the conflict in Lebanon separate
   from negotiations over the war with Iran.
-displayOrder: 13
+displayOrder: 19
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-03T23:22:15Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Industry warns prices could soon jump as inventories reach ‘critically
   low’ threshold
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-03T18:08:06Z'

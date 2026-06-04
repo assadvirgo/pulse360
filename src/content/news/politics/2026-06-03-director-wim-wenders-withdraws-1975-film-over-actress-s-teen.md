@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Nastassja Kinski, who appeared in the film when she was 13, said the
   film-maker "didn't protect me".
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-03T15:30:20Z'

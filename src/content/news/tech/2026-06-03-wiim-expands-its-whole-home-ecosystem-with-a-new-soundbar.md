@@ -5,7 +5,7 @@ countryCode: US
 description: WiiM, the audio company that's challenged the idea that audiophile-level
   performance requires a small loan, is expanding its whole-home ecosystem with the
   WiiM Bar, which releases…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-03T21:12:51Z'

@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Brazil&#039;s president says he was surprised by the proposed 25 percent
   tariffs, which came amid signs relations improving.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-03T17:36:11Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Carvana was granted a warrant to buy shares in Slate last year, according
   to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily
   invested in both…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 71.0
 pubDate: '2026-06-03T17:25:51Z'

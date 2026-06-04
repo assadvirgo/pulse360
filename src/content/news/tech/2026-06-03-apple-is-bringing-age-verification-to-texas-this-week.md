@@ -5,7 +5,7 @@ countryCode: US
 description: Apple will introduce age verification in the App Store for users in Texas
   starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days
   after a federal…
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-03T21:49:51Z'

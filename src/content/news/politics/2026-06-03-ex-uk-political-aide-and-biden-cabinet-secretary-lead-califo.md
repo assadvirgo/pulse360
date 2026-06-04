@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Another Democrat, billionaire climate activist Tom Steyer, is in third
   place as the tally continues.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-03T15:32:30Z'

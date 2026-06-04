@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta appears to have listened to the Supernatural users who protested
   the app's sad fate after sweeping layoffs.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 68.0
 pubDate: '2026-06-03T19:22:53Z'

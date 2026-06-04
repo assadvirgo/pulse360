@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED with official cause of death: The Okanogan County Coroner&#8217;s
   Office has confirmed that Matt Brown, who appeared in Discovery&#8217;s Alaskan
   Bush People reality…'
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-03T23:00:00Z'

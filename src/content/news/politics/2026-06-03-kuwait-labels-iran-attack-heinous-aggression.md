@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Kuwait’s defence ministry has labelled an attack on the country’s international
   airport as ‘heinous Iranian aggression’.
-displayOrder: 15
+displayOrder: 23
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-03T21:16:41Z'
