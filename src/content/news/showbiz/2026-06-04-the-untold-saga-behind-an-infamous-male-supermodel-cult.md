@@ -5,7 +5,7 @@ countryCode: US
 description: Once the world’s highest-paid male model, Hoyt Richards gave his last
   penny to a socialite conman who claimed to be an alien and preyed on the sexy and
   susceptible. A new HBO doc…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-04T13:00:00Z'

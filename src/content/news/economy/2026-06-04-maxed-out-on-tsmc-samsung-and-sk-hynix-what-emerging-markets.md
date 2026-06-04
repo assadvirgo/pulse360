@@ -3,7 +3,7 @@ category: Economy
 description: Fund managers who’ve made a killing this year with positions in the three
   top-performing emerging market stocks are increasingly being forced to diversify
   elsewhere.
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-04T10:05:00Z'

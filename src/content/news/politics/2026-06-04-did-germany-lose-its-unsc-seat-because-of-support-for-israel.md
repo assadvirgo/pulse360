@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Germany lost its Security Council bid to Austria and Portugal, which
   secured the two available seats.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-04T09:47:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The tournament comes after a period of fractious relations between the
   US, Canada and Mexico.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-04T08:46:23Z'

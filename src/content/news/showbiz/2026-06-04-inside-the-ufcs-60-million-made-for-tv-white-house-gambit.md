@@ -5,7 +5,7 @@ countryCode: US
 description: Dana White, the CEO of the MMA promotion, is betting that the unprecedented
   spectacle, sparked by a suggestion from President Trump, will deliver new fans to
   the sport and…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 67.8
 pubDate: '2026-06-04T12:05:00Z'

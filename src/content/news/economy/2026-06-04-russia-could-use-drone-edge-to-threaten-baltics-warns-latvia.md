@@ -4,7 +4,7 @@ country: Latvia
 countryCode: LV
 description: Military chief says Moscow has gained technological advantage that it
   may use to attack Nato by end of 2028
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-04T04:00:14Z'

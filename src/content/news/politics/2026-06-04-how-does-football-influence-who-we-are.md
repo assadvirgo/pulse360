@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: How does football influence who we are?
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-04T07:47:52Z'

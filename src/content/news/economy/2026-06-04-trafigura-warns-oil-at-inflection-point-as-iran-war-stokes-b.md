@@ -2,7 +2,7 @@
 category: Economy
 description: Commodity trader’s net profit more than doubles to $4.1bn for October
   to March period
-displayOrder: 31
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-04T10:00:06Z'

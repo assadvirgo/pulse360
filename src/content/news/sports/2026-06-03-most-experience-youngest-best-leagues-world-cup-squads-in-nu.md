@@ -2,7 +2,7 @@
 category: Sports
 description: BBC Sport look at all of the World Cup 2026 squads and answer some of
   the key questions.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-06-03T18:00:57Z'

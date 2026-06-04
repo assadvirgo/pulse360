@@ -5,7 +5,7 @@ countryCode: US
 description: Sen. Elizabeth Warren (D-MA) and three other Democratic lawmakers again
   are pressing Treasury Secretary Scott Bessent to conduct a foreign ownership review
   of Paramount&#8217;s…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-04T12:00:59Z'

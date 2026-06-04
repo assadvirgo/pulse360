@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Can the AI company hold on to its ethical founding principles as it strides
   to market with its most powerful and unnerving tool yet?
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-04T04:00:23Z'

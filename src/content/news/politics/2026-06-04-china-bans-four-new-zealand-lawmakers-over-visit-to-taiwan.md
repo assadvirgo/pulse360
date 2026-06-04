@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: China says the MPs&#039; visit sends the &#039;wrong signals&#039; to
   Taiwan&#039;s ruling party.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-04T08:29:29Z'

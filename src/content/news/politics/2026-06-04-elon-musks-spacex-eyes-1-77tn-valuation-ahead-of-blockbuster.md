@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Texas-based rocket company announces plans to sell shares at $135 apiece,
   aiming to raise approximately $75bn.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-04T02:38:51Z'

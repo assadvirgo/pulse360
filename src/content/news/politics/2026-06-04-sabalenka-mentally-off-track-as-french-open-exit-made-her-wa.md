@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: World number one Aryna Sabalenka let a two-set lead slip in a French
   Open quarterfinal defeat by Diana Shnaider.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-04T08:00:21Z'

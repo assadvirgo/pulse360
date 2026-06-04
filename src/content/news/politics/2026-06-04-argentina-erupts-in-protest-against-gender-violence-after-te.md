@@ -3,7 +3,7 @@ category: Politics
 country: Argentina
 countryCode: AR
 description: Argentina erupts in protest against gender violence after teen murder.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-04T10:29:32Z'

@@ -5,7 +5,7 @@ countryCode: AU
 description: Australia will play up to 21 Test matches in their busiest period on
   record and a fit-and-firing Pat Cummins is hopeful he won't have to rest from any
   of them
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-04T02:58:50Z'

@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: A Sherpa guide has crawled back to base camp on Mount Everest a week
   after going missing.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-04T10:20:00Z'

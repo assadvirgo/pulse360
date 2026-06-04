@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: The opposition has called for protests after the president's term in
   office was extended by a year.
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 79.2
 pubDate: '2026-06-04T08:05:33Z'

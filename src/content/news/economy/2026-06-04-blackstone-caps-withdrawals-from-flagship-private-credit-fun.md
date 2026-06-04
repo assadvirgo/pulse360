@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Redemption requests surged to $4.5bn in the second quarter amid mounting
   fears in sector
-displayOrder: 28
+displayOrder: 40
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-04T12:11:20Z'
