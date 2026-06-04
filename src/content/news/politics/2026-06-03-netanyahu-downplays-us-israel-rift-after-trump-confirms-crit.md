@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: US president acknowledges he had harsh words for Netanyahu over Lebanon
   attacks but says he &#039;likes&#039; the Israeli leader.
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-03T17:07:43Z'

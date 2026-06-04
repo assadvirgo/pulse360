@@ -3,7 +3,7 @@ category: Tech
 description: Smart lighting company Nanoleaf has been acquired by OneRobotics, the
   parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf
   CEO Gimmy Chu says the…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-03T12:00:20Z'

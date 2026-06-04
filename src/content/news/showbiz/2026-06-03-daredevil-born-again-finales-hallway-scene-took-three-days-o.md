@@ -5,7 +5,7 @@ countryCode: US
 description: 'Disney+ series “Daredevil: Born Again” is renowned for its iconic hallway
   fight sequences, so it’s only fitting that the season concludes with another epic
   moment. The episode…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-06-03T20:30:00Z'

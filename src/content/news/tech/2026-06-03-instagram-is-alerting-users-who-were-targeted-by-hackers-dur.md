@@ -5,7 +5,7 @@ countryCode: US
 description: Hackers appeared to take over victims’ accounts even after Meta said
   it fixed its AI-powered support chatbot, which granted hackers access to victims’
   accounts.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-03T16:12:06Z'

@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: The Atlas Lions aim to better their historic 2022 semifinal appearance
   but have had a chaotic run-in.
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 75.5
 pubDate: '2026-06-03T10:44:36Z'

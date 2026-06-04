@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Dreambeans is a curated list of AI-illustrated "stories" culled from
   the personal data in your Google account.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-03T19:07:42Z'

@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Iran says the attack on Kuwait was in retaliation for earlier US strikes
   on an Iranian oil tanker and island.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-03T14:02:25Z'

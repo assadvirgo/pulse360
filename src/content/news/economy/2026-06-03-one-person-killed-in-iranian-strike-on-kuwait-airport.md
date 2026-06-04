@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Gulf state condemns attack that threatens already strained Middle East
   ceasefire
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-03T11:24:15Z'

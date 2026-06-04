@@ -2,7 +2,7 @@
 category: Economy
 description: EU should be wary of curbing access to US providers as it tries to nurture
   its own
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-03T17:21:19Z'

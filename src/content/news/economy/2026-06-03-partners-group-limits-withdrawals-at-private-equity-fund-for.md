@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Swiss private capital firm caps redemptions from its $8.6bn flagship
   vehicle
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-03T15:59:37Z'

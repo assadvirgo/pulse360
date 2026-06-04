@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Macy's has been in the midst of a turnaround under CEO Tony Spring, who
   has worked to close underperforming stores and reinvest in ones worth keeping open.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-03T12:29:05Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Warriors superstar Stephen Curry has signed a 10-year, $400 million endorsement
   contract with Chinese sportswear company Li-Ning.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-03T05:18:13Z'

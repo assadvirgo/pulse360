@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Johannes Natland was due to carry out a shooting on behalf of a Swedish
   criminal group, trial hears.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-03T12:55:45Z'

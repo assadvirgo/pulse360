@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Al Jazeera speaks to Qatar coach Julen Lopetegui ahead of the World Cup,
   with a shot at knockouts within their grasp.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-03T17:05:07Z'

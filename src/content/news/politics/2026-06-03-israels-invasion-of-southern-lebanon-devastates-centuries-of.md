@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: From Phoenician temples to Crusader castles, heritage sites bear the
   brunt of Israel&#039;s expanding military offensive.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-03T10:41:06Z'

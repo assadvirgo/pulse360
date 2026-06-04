@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The incidents strain a partial ceasefire agreed by Israel and the Lebanese
   armed group on Monday.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-03T20:46:13Z'
