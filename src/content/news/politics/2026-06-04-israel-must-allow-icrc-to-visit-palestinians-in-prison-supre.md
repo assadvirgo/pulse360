@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel’s Supreme Court rejects government ban on prisoner visits, affirming
   Red Cross access under international law.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-04T16:38:30Z'

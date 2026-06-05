@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Quantinuum could be valued north of $18 billion, given indications for
   an opening price of about $71.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-04T16:11:00Z'

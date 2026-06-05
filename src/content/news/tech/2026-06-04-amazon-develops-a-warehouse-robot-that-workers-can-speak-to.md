@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon has announced a new version of its fully autonomous warehouse
   robot, Proteus, that will interact using language instead of code. The expanded
   capabilities come as part of a…
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-04T09:31:14Z'

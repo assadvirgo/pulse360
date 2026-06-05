@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Cryptocurrency is heading for biggest weekly loss since November 2022
-displayOrder: 28
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-04T18:46:26Z'

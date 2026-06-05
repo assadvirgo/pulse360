@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: HBO Max continues to ramp up development in the classic procedural
   genres under The Pitt model for series intended to return each year with sizable
   orders at a moderate…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-04T20:40:23Z'

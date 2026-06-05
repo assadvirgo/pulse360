@@ -5,7 +5,7 @@ countryCode: US
 description: Bravo executive Josh Brown, who was in the room on reunion taping day,
   returns for a talk with The Hollywood Reporter about what's still to come from Bravo's
   must-see reunion.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-04T20:00:31Z'

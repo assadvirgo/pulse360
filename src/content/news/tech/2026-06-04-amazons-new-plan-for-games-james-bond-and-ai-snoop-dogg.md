@@ -5,7 +5,7 @@ countryCode: US
 description: 'Amazon''s gaming strategy has never really been clear. It''s been very
   active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly
   six years ago, investing…'
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-04T17:01:15Z'

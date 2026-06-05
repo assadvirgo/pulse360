@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The lower chamber of Congress passed a measure that seeks to halt further
   military action, in a vote seen as largely symbolic.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-04T14:46:36Z'

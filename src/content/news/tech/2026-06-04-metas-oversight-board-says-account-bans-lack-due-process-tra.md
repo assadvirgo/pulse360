@@ -5,7 +5,7 @@ countryCode: US
 description: Meta's board cites "due process" concerns over account bans. It's also
   pushing Meta to offer clear information about violations and its use in AI in making
   its determinations.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-04T16:47:12Z'

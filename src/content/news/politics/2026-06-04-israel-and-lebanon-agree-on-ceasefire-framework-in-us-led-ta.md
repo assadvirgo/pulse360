@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The US announced an Israel-Lebanon ceasefire framework, but Hezbollah&#039;s
   absence leaves questions over enforcement.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-04T09:50:17Z'

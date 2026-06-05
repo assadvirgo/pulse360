@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Walmart shares have lagged peers and the S&amp;P 500 this year, with
   some analysts noting that business is still dominated by low-margin grocery sales.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-04T16:40:00Z'
