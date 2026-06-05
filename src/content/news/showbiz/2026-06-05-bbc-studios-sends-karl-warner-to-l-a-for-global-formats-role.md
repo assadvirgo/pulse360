@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC Studios has forged a newly-created global formats role for Karl Warner
   in L.A. Warner is relocating to the U.S. and being tasked with &#8220;identifying,
   partnering with, and…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-06-05T08:35:54Z'

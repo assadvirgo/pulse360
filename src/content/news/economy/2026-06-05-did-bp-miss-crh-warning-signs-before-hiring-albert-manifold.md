@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former colleagues say businessman’s management style should have raised
   concerns as oil group weighed him as chair
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-05T04:00:16Z'

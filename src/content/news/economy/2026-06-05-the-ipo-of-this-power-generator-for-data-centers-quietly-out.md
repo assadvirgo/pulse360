@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Innio’s stock soared in its debut, to outshine the shares of the more
   high-profile quantum-computing company, and Trump administration investment, Quantinuum.
-displayOrder: 36
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-05T11:12:00Z'

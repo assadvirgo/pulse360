@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jennifer Kupcho makes a strong start to golf's second women's major of
   the year as she leads the US Women's Open by one shot after the first round on Thursday.
-displayOrder: 27
+displayOrder: 48
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-05T06:42:34Z'

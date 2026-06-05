@@ -5,7 +5,7 @@ countryCode: US
 description: The U.S. added 172,000 jobs in May, beating expectations, as the unemployment
   rate remained unchanged at 4.3%. With gains in leisure and hospitality, health care
   and local…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-05T12:59:29Z'

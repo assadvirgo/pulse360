@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Save on rowers and accessories with Hydrow coupons, including an exclusive
   discount of $50.
-displayOrder: 26
+displayOrder: 45
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-05T05:00:00Z'

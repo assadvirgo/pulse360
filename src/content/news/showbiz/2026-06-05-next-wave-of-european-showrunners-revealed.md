@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: As Europe pushes for more showrunners, a dozen writers from
   across the continent have been selected for an EU-backed programme headed by some
   big names from Borgen,…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-05T11:10:14Z'

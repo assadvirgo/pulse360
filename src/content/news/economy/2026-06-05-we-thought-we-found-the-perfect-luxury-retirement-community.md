@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “If we were to leave, we would lose a portion of our buy-in — about $80,000.”
-displayOrder: 32
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-05T10:15:00Z'

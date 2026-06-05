@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Use a Mattress Firm promo code to save on top mattresses, score a free
   adjustable base, and unlock up to $300 in instant credits.
-displayOrder: 14
+displayOrder: 38
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-05T05:00:00Z'

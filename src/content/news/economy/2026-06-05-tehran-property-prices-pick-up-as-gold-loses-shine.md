@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Long-stagnant housing market has seen an unexpected revival as Iranians
   seek refuge from rampant inflation
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-05T04:00:26Z'

@@ -5,7 +5,7 @@ countryCode: DE
 description: Back in 2002, Porsche fans sputtered with rage as the Cayenne made its
   debut at the Paris Motor. More than 20 years later, Porsche now sells more SUVs
   than anything else in its…
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-05T11:00:00Z'

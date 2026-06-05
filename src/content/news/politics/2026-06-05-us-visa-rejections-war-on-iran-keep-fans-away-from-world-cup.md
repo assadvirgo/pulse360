@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: High visa application fees, equally high rejection rates, an unwelcoming
   America, and the war combine to deter fans.
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-05T09:44:10Z'

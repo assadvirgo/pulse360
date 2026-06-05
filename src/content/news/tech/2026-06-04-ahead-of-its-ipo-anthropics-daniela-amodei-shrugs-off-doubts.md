@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic has been growing at a breakneck pace. The company announced
   that annualized revenue crossed $47 billion in May, up dramatically from roughly
   $9 billion at the end of…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-04T22:43:26Z'

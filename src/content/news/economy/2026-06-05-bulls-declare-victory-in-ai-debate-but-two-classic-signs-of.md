@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The trend of ‘capex recycling’ is considered a problem by a TS Lombard
   analyst
-displayOrder: 30
+displayOrder: 42
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-05T12:35:00Z'

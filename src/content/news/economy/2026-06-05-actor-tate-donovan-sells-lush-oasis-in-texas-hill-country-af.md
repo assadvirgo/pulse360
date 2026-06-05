@@ -5,7 +5,7 @@ countryCode: US
 description: “The O.C.” star Tate Donovan has officially sold his “extraordinary”
   Texas dwelling—just two months after bringing the property to the market for $1.9
   million.
-displayOrder: 28
+displayOrder: 46
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-05T09:02:00Z'

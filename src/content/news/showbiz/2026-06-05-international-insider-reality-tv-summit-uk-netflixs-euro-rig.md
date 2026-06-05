@@ -5,7 +5,7 @@ countryCode: GB
 description: Good afternoon Insiders, happy Friday and welcome back to the Insider.
   Max Goldbart here steering you through. Sign up here. Reality TV Summit UK @ SXSW
   London The reality of it…
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-05T12:00:00Z'

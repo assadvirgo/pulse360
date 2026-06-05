@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The Chinese leader&#039;s visit on June 8-9, his first in seven years,
   comes as Pyongyang strengthens relations with Russia.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-05T07:32:01Z'
