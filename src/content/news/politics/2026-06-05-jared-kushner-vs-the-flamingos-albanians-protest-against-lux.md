@@ -4,7 +4,7 @@ country: Albania
 countryCode: AL
 description: A massive coastal resort development in Albania linked to President Donald
   Trump's son-in-law Jared Kushner has sparked days of protests.
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-05T02:51:00Z'

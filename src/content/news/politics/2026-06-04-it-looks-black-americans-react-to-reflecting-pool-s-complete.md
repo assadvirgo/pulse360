@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After weeks of renovation, water has begun refilling the historic pool,
   which has been coated in a colour named "American flag blue".
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-04T22:14:12Z'

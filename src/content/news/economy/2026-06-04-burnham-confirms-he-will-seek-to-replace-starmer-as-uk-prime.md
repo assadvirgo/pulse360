@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Greater Manchester mayor says he will aim to join a Labour leadership
   race if he wins upcoming by-election
-displayOrder: 22
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-04T22:21:03Z'

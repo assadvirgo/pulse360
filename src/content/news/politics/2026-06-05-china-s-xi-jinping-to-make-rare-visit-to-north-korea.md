@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Xi will be in North Korea from 8-9 June, a rare visit to the isolated
   regime that is a longstanding ally of Beijing.
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-05T05:17:13Z'

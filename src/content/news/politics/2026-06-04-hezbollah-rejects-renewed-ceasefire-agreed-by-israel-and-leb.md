@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The United States announced the ceasefire agreement on Wednesday night
   following a fresh round of talks.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-04T14:54:22Z'

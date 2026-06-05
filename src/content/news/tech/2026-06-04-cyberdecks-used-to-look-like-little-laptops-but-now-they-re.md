@@ -3,7 +3,7 @@ category: Tech
 description: DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her
   cyberdeck around without anyone noticing because it doesn't look like a computer
   at all. Tan, who has been…
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-04T20:07:31Z'

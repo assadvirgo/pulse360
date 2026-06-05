@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republicans seek to pass $70bn immigration-enforcement funding, but must
   endure series of votes on controversial issues.
-displayOrder: 18
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-04T22:57:15Z'

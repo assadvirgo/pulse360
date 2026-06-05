@@ -5,7 +5,7 @@ countryCode: US
 description: SAG-AFTRA members have ratified a four-year contract with the major studios,
   which includes new provisions on synthetic actors and a merger of the union&#8217;s
   two pension funds.…
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 62.8
 pubDate: '2026-06-05T01:35:18Z'

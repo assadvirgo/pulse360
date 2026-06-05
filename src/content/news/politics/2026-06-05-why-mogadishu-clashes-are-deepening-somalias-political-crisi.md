@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Tensions over Somali elections escalate into violence, leaving Mogadishu
   residents grappling with fear and disruption.
-displayOrder: 15
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-05T01:12:02Z'

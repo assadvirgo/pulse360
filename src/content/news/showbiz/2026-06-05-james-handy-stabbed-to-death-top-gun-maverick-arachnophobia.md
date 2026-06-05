@@ -5,7 +5,7 @@ countryCode: US
 description: 'James Handy, the actor who appeared in Top Gun: Maverick (2022), Jumanji
   (1995), The Verdict (1982) and Arachnophobia (1990), has died. He was 81. On Wednesday
   at around 9:30…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-05T01:30:59Z'
