@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: The Trump administration has supported Bolivian President Rodrigo Paz
   after his electoral victory over left-wing MAS.
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-04T21:01:12Z'

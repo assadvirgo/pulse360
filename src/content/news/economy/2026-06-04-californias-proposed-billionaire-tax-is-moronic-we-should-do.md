@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Almost everything about this tax is bad, and it obscures something much
   better that we do need.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-04T19:54:00Z'

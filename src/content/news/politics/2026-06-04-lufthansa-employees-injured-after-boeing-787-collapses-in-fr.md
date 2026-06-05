@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Several Lufthansa staff members were injured when the nose gear of a
   Boeing 787 jetliner collapsed at Frankfurt airport.
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-04T20:29:00Z'

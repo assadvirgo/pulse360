@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Former CBS Entertainment Chairman Nina Tassler has recruited
   another veteran TV executive-turned-producer, Joanna Klein, for her Kismet Creative
   Group. Klein has joined…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-04T23:11:38Z'

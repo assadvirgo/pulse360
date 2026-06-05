@@ -5,7 +5,7 @@ countryCode: US
 description: Valve now says that the delayed Steam Machine PC and Steam Frame VR headset
   are set to launch sometime this summer. In a Thursday blog post detailing its Verified
   programs for…
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-04T22:48:53Z'

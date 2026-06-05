@@ -2,7 +2,7 @@
 category: Economy
 description: There are plenty of ways to jump into the generative-AI hardware infrastructure
   expansion beyond the familiar chip makers and hyperscalers.
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-04T22:56:00Z'

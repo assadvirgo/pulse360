@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Uber blew its entire 2026 AI budget by April. Here’s why replacing workers
   with bots backfired.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-04T20:09:00Z'

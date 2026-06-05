@@ -5,7 +5,7 @@ countryCode: GB
 description: Lawyers for one of Europe's top "mafia bosses" have accused law enforcement
   of "kidnapping" the fugitive as part of an international underworld extradition
   saga.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-04T14:15:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Kevin O'Leary agreed to halve the size of his planned 40,000-acre data
   center in Utah amid mounting pressure from residents and activists, as reported
   earlier by local affiliate…
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-04T18:38:04Z'

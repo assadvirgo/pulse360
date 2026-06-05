@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: New Zealand made inroads in second session as rain creates stop-start
   contest
-displayOrder: 28
+displayOrder: 49
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-04T16:30:52Z'

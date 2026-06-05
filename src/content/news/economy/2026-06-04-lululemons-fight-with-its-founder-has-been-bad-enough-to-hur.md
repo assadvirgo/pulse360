@@ -5,7 +5,7 @@ countryCode: US
 description: Problems continue to add up for Lululemon, as the yoga-wear maker on
   Thursday trimmed its full-year forecast to account for a potential dip in sales
   this year.
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-04T22:30:00Z'

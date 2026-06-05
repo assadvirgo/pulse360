@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite serving as Trump&#039;s national security adviser, Bolton has
   emerged as a top critic of the president.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-04T17:04:47Z'

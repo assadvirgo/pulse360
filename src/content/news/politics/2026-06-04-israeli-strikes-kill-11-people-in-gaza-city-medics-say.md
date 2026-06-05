@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Women and children were among those killed in the attacks on four residential
   buildings, which Israel's military says killed four Hamas security officials.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-04T17:50:20Z'
