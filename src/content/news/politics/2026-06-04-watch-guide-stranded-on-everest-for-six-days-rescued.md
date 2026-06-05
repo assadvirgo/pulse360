@@ -3,7 +3,7 @@ category: Politics
 country: Nepal
 countryCode: NP
 description: The BBC's Rajini Vaidyanathan pieces together how events unfolded.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-04T20:38:43Z'

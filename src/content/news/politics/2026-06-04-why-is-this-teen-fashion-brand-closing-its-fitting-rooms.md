@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brandy Melville's move has caused uproar among some young women who frequent
   its stores, with one calling it a "devastating news".
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 57.2
 pubDate: '2026-06-04T18:48:29Z'

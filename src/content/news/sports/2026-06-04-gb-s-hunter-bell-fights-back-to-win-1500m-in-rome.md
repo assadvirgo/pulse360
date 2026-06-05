@@ -5,7 +5,7 @@ countryCode: GB
 description: Great Britain's Georgia Hunter Bell times her race perfectly, winning
   the 1500m in a season's best time of three minutes 58.63 seconds at the Diamond
   League event in Rome.
-displayOrder: 36
+displayOrder: 49
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-04T21:26:36Z'

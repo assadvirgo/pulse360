@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Up to a quarter of the rocket builder’s $75bn float will be set aside
   for individual investors
-displayOrder: 26
+displayOrder: 44
 heroImage: ''
 importance: 41.5
 pubDate: '2026-06-05T04:00:26Z'

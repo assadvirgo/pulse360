@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: S&amp;P Dow Jones Indices considered whether to loosen index requirements
   but opted to keep its policies unchanged.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-05T02:11:00Z'

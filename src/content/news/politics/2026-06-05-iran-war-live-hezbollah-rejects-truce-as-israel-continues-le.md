@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s supreme court annuls government ban on international Red
   Cross visiting Palestinian prisoners in Israeli jails.
-displayOrder: 21
+displayOrder: 41
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-05T00:00:00Z'

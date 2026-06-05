@@ -5,7 +5,7 @@ countryCode: KR
 description: Having more than doubled already this year, Korea’s stock market returns
   have driven a wealth effect that under an optimistic scenario could generate a wealth
   effect among the…
-displayOrder: 23
+displayOrder: 35
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-05T07:27:00Z'

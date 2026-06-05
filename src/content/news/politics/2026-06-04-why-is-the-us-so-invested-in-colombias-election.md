@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Al Jazeera’s Hala Al Shami explains why US officials are invested in
   Colombia&#039;s presidential elections.
-displayOrder: 17
+displayOrder: 39
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-04T22:05:23Z'

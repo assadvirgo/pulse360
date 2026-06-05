@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Samsung and SK Hynix are key to soaring South Korean stock market, but
   a rate hike could trigger a 15% market correction.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-04T22:40:00Z'

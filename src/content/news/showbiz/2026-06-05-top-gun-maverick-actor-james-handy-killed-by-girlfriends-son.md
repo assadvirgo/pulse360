@@ -5,7 +5,7 @@ countryCode: US
 description: 'James Handy, a longtime actor who appeared as the bartender in &#8220;Top
   Gun: Maverick&#8221; and &#8220;Jumanji&#8221; and had guest roles on dozen of TV
   shows, was killed…'
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-05T01:10:01Z'

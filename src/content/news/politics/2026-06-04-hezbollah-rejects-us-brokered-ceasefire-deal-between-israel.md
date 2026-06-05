@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Hezbollah has condemned a US-brokered ceasefire framework accepted by
   Israel and Lebanon
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-04T21:07:18Z'

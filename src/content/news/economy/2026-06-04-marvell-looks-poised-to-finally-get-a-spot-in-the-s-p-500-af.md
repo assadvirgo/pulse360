@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: S&amp;P 500 changes are likely to be announced on Friday, and Marvell
   is now vastly bigger than the next-largest eligible contender.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-04T22:50:00Z'

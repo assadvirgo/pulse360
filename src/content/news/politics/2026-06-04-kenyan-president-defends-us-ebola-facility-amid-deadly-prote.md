@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Kenyan President William Ruto said allowing the US to build an Ebola
   quarantine facility in Kenya was the “right thing”.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-04T22:38:37Z'

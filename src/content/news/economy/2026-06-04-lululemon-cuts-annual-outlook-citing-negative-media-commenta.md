@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lululemon is expecting its situation to get a lot worse before it gets
   better, as it issued weak guidance for the full year.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-04T23:09:14Z'

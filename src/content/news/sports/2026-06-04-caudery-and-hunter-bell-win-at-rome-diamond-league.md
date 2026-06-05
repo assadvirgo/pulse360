@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: World indoor champions Molly Caudery and Georgia Hunter Bell triumph
   in the pole vault and 1500m at the Diamond League meeting in Rome.
-displayOrder: 44
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-04T21:14:40Z'
