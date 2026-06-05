@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Israel strikes Lebanon despite ceasefire, while Hezbollah rejects deal
   as death toll tops 3,500.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-05T06:01:07Z'

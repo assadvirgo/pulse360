@@ -3,7 +3,7 @@ category: Politics
 country: South Korea
 countryCode: KR
 description: South Korean police break up 35-hour polling station protest
-displayOrder: 21
+displayOrder: 34
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-05T12:38:05Z'

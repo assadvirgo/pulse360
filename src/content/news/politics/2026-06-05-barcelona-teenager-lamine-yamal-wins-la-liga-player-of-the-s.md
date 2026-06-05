@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Lamine Yamal will be an integral part of Spain&#039;s World Cup 2026
   challenge and was key in Barcelona&#039;s La Liga defence.
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-05T15:05:25Z'

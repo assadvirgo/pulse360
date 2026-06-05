@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Satrapi&#039;s autobiographical novel was born from her experiences of
   Iran&#039;s Islamic revolution and war with Iraq.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-05T08:28:09Z'

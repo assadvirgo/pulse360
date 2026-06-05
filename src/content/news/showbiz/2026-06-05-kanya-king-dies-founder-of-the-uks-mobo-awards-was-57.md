@@ -5,7 +5,7 @@ countryCode: GB
 description: Kanya King, the founder of the UK’s popular Music of Black Origin awards
   show, colloquially known as the MOBOs, has died. She was 57.&#160; King’s death
   was announced this morning…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-05T11:09:25Z'

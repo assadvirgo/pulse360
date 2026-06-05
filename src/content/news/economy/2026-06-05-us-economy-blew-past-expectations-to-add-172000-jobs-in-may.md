@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Figure marks latest sign of labour market rebound
-displayOrder: 31
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-05T12:45:03Z'

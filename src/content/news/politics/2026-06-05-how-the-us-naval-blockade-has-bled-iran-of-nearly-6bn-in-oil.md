@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran is exporting less than one-sixth of the oil it was shipping before
   the war began.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-05T13:18:18Z'

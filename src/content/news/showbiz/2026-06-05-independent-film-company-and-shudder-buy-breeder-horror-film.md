@@ -5,7 +5,7 @@ countryCode: US
 description: Independent Film Company and Shudder have acquired Alex Goyette’s debut
   feature &#8220;Breeder.&#8221; The film is about an eccentric poodle breeder who
   lures a broke college…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-05T15:30:00Z'

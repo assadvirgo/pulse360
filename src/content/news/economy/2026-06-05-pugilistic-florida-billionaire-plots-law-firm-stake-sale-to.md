@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Move by largest US personal injury firm could cement buyout groups’ arrival
   in a sector that has long been off-limits
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-05T14:14:58Z'

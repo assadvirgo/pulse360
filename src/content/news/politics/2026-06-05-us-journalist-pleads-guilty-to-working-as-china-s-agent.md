@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Thomas Weir Pauken II, 50, knowingly worked with people employed by the
   Chinese government for years.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-05T11:20:30Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The Australian data center operator plans to set up 5GW of capacity in
   India.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-05T13:03:10Z'

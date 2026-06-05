@@ -5,7 +5,7 @@ countryCode: GB
 description: Anthony Head, the British actor best known for roles in Ted Lasso and
   Buffy the Vampire Slayer, has died at 72. Head&#8217;s daughters, actors Emily and
   Daisy, told BBC News that…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-05T15:49:58Z'

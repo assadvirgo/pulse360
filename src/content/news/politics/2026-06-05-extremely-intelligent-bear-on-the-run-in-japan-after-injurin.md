@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Authorities said that a bear in north-east Japan has eluded capture by
   opening a window.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-05T09:08:57Z'
