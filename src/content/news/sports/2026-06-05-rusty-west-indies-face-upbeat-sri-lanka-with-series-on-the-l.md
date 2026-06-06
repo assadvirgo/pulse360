@@ -4,7 +4,7 @@ country: Saint Lucia
 countryCode: LC
 description: Both sides are unlikely to change as SL eye their first bilateral ODI
   series in WI since 2003
-displayOrder: 33
+displayOrder: 41
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-05T14:21:17Z'

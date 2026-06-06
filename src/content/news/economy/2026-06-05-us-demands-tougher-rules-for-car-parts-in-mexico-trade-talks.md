@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Washington wants to reduce Chinese supplies from North America’s vehicles
   while increasing American content
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-05T17:37:36Z'

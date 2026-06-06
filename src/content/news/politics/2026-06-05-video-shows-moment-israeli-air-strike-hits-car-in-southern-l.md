@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Video shows the moment when journalist Abbas Fakih was reporting in Nabatieh,
   Lebanon and an Israeli air strike hit.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-05T17:44:52Z'

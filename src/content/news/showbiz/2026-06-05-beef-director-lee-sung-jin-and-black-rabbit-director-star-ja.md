@@ -5,7 +5,7 @@ countryCode: US
 description: Lee Sung Jin, the creator, executive producer and director of “Beef,”
   and Jason Bateman, who executive produced, directed and starred in “Black Rabbit,”
   sat down with Variety’s…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-05T20:00:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: The World Health Organisation (WHO) has unveiled a $518m (&#163;386m)
   six-month plan to fight Ebola, as the number of cases continue to grow.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-05T12:45:00Z'

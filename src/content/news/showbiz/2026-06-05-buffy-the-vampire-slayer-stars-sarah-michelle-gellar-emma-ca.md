@@ -5,7 +5,7 @@ countryCode: US
 description: Anthony Head, who died on June 5 at the age of 72, is being honored by
   his &#8220;Buffy the Vampire Slayer&#8221; co-stars. Head first appeared in the
   show&#8217;s pilot as Rupert…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-05T19:17:46Z'

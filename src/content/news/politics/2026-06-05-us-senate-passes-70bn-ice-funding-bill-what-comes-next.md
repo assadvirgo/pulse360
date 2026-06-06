@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republicans pass key Trump initiative after marathon vote-a-rama, avoid
   barring controversial &#039;anti-weaponisation&#039; fund.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-05T16:40:37Z'

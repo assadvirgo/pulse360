@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Friday’s strong jobs report could soon feel like a double-edged sword
   for borrowers struggling to keep up with inflation and their bills.
-displayOrder: 32
+displayOrder: 37
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-05T18:14:00Z'

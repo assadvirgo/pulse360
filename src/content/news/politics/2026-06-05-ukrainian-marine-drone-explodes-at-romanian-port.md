@@ -4,7 +4,7 @@ country: Romania
 countryCode: RO
 description: A malfunctioning Ukrainian naval drone has caused an explosion at a key
   Black Sea port in Romania.
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-05T13:22:40Z'

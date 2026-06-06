@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine says it struck five ships carrying illegal cargo in the Sea of
   Azov and in coastal waters of Russian-occupied territories.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-05T15:29:39Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Families in Az-Zawayda, central Gaza, clear rubble after overnight Israeli
   strikes in Gaza
-displayOrder: 15
+displayOrder: 22
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-05T19:40:41Z'
