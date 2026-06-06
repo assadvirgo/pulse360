@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French activists who took part in a Gaza-bound foreign aid flotilla accuse
   Israeli forces of abuse and torture.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-05T19:51:23Z'

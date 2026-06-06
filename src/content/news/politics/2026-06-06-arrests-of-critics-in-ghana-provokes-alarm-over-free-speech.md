@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Ghana’s 14 arrests in 16 months linked to false news have raised concerns
   about free speech.
-displayOrder: 14
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-06T02:01:27Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Following the announcement of the British actor's death on Friday, Sarah
   Michelle Gellar, David Boreanaz, James Marsters and more reacted to the loss of
   Head, who died at 72.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-06T01:22:14Z'

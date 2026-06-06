@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The insect, which has been found in America for the first time since
   1966, is a growing concern in the southern US.
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-06T01:55:03Z'

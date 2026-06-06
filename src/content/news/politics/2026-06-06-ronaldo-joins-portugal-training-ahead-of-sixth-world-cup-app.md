@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Portuguese star Cristiano Ronaldo hit the training pitch as he readies
   for his sixth World Cup appearance.
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-06T01:34:49Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Sean Penn hates selfies and will not, under any circumstances, go to
   a public gathering with more than eight people — which is why he was noticeably
   absent from the recent 98th…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-05T22:20:32Z'

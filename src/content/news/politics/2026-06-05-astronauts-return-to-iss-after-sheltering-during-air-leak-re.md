@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Russian attempt to repair tunnel area sparks safe-haven procedure for
   five other astronauts onboard.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-05T21:35:55Z'

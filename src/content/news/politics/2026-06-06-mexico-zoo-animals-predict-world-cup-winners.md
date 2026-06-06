@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Animals at Guadalajara Zoo in Mexico are making their own predictions
   for the 2026 FIFA World Cup.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-06T08:15:03Z'

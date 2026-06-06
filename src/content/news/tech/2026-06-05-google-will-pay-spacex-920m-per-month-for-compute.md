@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The companies announced the deal on Friday, just one week ahead of SpaceX's
   historic IPO.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-05T18:57:20Z'
