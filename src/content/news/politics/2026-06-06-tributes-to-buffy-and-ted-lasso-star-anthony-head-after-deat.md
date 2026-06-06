@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The British actor, who also appeared in Merlin and Little Britain, died
   of complications from pneumonia.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-06T07:33:07Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: U.S. commercial oil inventories may be too low for comfort as the war
   with Iran enters its fourth month far from a clear resolution — and a lot is riding
   on how much longer the…
-displayOrder: 37
+displayOrder: 43
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-06T12:00:00Z'

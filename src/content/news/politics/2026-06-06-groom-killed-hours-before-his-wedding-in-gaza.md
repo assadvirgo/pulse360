@@ -2,7 +2,7 @@
 category: Politics
 description: Muhannad Farwana never got to wear his wedding suit, Israel killed him
   in an air strike hours before his wedding.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-06T12:29:42Z'

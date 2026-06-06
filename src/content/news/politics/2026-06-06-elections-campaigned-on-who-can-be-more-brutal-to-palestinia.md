@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: ‘Elections campaigned on who can be more brutal to Palestinians’
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-06T13:23:02Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: “Scary Movie 6” is on pace to set a franchise record after a stellar
   opening day. Paramount and Miramax’s “Scary Movie 6,” the first in the parody series
   helmed by the Wayans…
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-06T16:03:34Z'

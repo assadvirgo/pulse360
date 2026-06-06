@@ -5,7 +5,7 @@ countryCode: US
 description: OTT provider Sling is making its bid to be a top summer streaming destination,
   with a new deal that gets you access to the World Cup, NBA Finals, Stanley Cup Finals
   and dozens of…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-06T13:54:15Z'

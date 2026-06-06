@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Spurs in need of an unprecedented comeback when the best-of-seven series
   shifts to New York for games three and four.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-06T05:19:44Z'

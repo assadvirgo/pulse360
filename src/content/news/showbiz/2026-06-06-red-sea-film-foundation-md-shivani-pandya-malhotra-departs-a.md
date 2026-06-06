@@ -5,7 +5,7 @@ countryCode: SA
 description: The Red Sea Film Foundation Managing Director Shivani Pandya Malhotra
   has stepped down after seven years in the role. The Saudi foundation, which runs
   the Red Sea International…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-06-06T11:30:35Z'

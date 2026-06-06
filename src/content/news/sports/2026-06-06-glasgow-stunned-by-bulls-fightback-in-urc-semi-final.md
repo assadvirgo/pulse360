@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Glasgow Warriors endure more heartbreak as the Bulls recover from an
   18-point deficit to win their URC play-off semi-final.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-06T15:11:35Z'

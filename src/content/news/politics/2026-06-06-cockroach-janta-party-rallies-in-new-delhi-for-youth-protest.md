@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Protesters call for education minister&#039;s resignation after exam
   scandals, symbolising a lost faith in India&#039;s system.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-06T11:07:41Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: '&#8204;Ukraine has launched a "large-scale" drone attack on St Petersburg,
   showing Kyiv''s ability to hit deep inside Russian territory.'
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-06T09:09:00Z'

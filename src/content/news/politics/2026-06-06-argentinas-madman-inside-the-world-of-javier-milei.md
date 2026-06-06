@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina’s self-styled anarcho-capitalist president impressed – and
   later alienated – many voters.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-06T13:21:31Z'

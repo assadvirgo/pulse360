@@ -4,7 +4,7 @@ country: Armenia
 countryCode: AM
 description: Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite
   falling domestic support.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-06T07:06:43Z'
