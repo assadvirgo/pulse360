@@ -2,7 +2,7 @@
 category: Politics
 description: Fishermen in Gaza are using dinghies made of reclaimed fiberglass, wood,
   and doorframes salvaged from rubble.
-displayOrder: 27
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-06T01:13:29Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A remarkable two-month sprint higher for major stock-market indexes encountered
   its first major hiccup on Friday as the Nasdaq Composite plummeted more than 1,121
   points — the…
-displayOrder: 32
+displayOrder: 37
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-05T22:27:00Z'

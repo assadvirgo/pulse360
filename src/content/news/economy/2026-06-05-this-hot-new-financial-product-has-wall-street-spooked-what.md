@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Perpetual futures have finally arrived in the U.S. Not everyone is thrilled.
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-05T19:40:00Z'

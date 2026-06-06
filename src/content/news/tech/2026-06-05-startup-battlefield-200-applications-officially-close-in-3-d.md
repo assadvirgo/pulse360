@@ -5,7 +5,7 @@ countryCode: US
 description: Applications for Startup Battlefield 200 officially close on June 8,
   11:59 p.m. PT. Now’s not the time to wait any longer. Secure your shot at competing
   on the Disrupt Stage at…
-displayOrder: 23
+displayOrder: 31
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-05T20:00:00Z'

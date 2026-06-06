@@ -2,7 +2,7 @@
 category: Politics
 description: A drone attack killed a young woman and injured 15 others near Khan Younis,
   reported the Wafa news agency.
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-05T20:17:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump seeks to shore up support among rural voters hard-hit by tariffs,
   economic fallout of war with Iran.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-05T21:02:52Z'

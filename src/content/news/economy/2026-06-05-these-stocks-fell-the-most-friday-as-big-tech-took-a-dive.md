@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Chip makers dominated the list of the day’s biggest losers among the
   S&amp;P 500.
-displayOrder: 43
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-05T21:10:00Z'

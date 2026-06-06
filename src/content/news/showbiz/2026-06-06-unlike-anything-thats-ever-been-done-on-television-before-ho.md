@@ -5,7 +5,7 @@ countryCode: GB
 description: Showrunner Ryan Condal, Steve Toussaint, Abigail Thorn and the cast on
   building The Battle of the Gullet, the most expensive, most dangerous and most gloriously
   irresponsible…
-displayOrder: 17
+displayOrder: 23
 heroImage: ''
 importance: 48.8
 pubDate: '2026-06-06T01:39:11Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The deadline to reauthorize Section 702 of the Foreign Intelligence Surveillance
   Act is coming up a week from now on June 12th, and legislators seem no closer to
   reaching a deal.…
-displayOrder: 19
+displayOrder: 28
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-05T21:15:48Z'

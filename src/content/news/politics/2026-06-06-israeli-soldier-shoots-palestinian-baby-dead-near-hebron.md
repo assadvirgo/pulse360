@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: An Israeli soldier has shot and killed seven-month-old Palestinian infant
   Sam Abu Haikal.
-displayOrder: 7
+displayOrder: 12
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-06T04:58:38Z'

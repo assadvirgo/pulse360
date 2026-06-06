@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Around 150 workers were evacuated after a fire broke out at a Honda industrial
   warehouse in Barcelona.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-05T18:39:12Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From a vaunted Japanese star to a former No. 1 pick, let's examine some
   of baseball's young players taking time to hit their stride.
-displayOrder: 8
+displayOrder: 13
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-06T05:18:33Z'

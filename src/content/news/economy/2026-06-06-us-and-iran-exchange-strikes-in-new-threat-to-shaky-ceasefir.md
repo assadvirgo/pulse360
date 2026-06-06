@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kuwait and Bahrain are attacked as American forces intercept drones launched
   over Strait of Hormuz
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-06T03:54:14Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: General counsel resigned after revelations about relationship with disgraced
   financier but now will stay on as adviser
-displayOrder: 34
+displayOrder: 38
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-05T21:54:02Z'

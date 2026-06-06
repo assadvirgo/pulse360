@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sunday's Tony Awards follow a record-breaking season on Broadway. The
   awards often lead to further ticket sales for winning shows.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-05T12:00:01Z'

@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: Uganda reported three more cases and one more death from the outbreak
   which has spread from the DRC.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-05T14:52:36Z'
