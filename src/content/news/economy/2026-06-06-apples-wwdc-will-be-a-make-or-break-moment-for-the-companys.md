@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At Monday’s keynote, Apple will get a second chance to show users it
   can make Siri smarter and more contextually aware.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-06T11:30:00Z'

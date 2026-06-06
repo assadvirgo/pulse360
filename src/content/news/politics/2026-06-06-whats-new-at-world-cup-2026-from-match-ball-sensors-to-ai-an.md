@@ -2,7 +2,7 @@
 category: Politics
 description: Technology, more specifically AI, will play a big role in the new additions
   at the upcoming World Cup.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-06T06:54:57Z'

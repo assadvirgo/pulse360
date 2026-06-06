@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: CJP organisers rally supporters to demand the resignation of Education
   Minister Dharmendra Pradhan.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-06T09:13:55Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Central Command said seven ballistic missiles were fired towards Kuwait
   and Bahrain.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-06T07:51:28Z'

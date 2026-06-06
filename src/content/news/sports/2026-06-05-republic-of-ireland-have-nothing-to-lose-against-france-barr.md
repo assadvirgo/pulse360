@@ -5,7 +5,7 @@ countryCode: IE
 description: Republic of Ireland striker Amber Barrett says the side "are going to
   give everything we have" during Tuesday's match against France when they have the
   chance to secure automatic…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-05T22:02:23Z'

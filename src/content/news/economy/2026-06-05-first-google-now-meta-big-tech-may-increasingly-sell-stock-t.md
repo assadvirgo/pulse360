@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stock investors may not love it — but bond investors already heavily
   engaged in funding the AI buildout are pleased.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-05T21:15:00Z'

@@ -4,7 +4,7 @@ country: Jordan
 countryCode: JO
 description: Jordan make their first World Cup appearance after recently making the
   finals at the 2023 Asian Cup and 2025 Arab Cup.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-06T10:23:09Z'

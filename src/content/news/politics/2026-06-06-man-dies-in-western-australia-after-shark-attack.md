@@ -3,7 +3,7 @@ category: Politics
 country: Australia
 countryCode: AU
 description: The man was fishing when he was bitten by a shark, police say.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-06T08:17:32Z'

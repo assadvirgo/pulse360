@@ -3,7 +3,7 @@ category: Politics
 description: A seven-month-old baby has been killed and his parents were wounded in
   the West Bank after Israeli soldiers opened fire, the Palestinian health ministry
   said.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-06T05:35:00Z'

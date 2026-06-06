@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A technical issue has been detected on one of the UK's largest warships
   as it was docked in Norway, the Ministry of Defence (MoD) said.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-06T07:45:00Z'

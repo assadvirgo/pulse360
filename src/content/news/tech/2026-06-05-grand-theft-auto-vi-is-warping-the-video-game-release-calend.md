@@ -3,7 +3,7 @@ category: Tech
 description: Who's afraid of the next GTA? Based on the last few days of Summer Game
   Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the
   keynote events, but its…
-displayOrder: 30
+displayOrder: 47
 heroImage: ''
 importance: 72.2
 pubDate: '2026-06-05T23:05:27Z'

@@ -5,7 +5,7 @@ countryCode: JP
 description: 'Square Enix has officially announced the third and final game in its
   Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release
   on multiple platforms…'
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-05T22:52:06Z'

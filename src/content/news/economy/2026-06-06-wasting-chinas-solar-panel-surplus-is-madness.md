@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: Clean power is within our reach — yet factories sit idle
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-06-06T04:00:49Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The new Fed chair might make swift changes to how the central bank communicates.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-06T11:00:00Z'

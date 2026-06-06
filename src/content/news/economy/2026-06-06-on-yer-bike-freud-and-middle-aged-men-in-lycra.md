@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The ever-present fear of ridicule among cycling’s weekend warriors tells
   us a thing or two about human nature
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-06T04:00:49Z'
