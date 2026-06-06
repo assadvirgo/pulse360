@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran players get visas 10 days before their opening ‌World Cup match
   against New Zealand in Los Angeles on June 15.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-05T20:49:40Z'

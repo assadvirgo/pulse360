@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix has been making overtures to movie theaters ever since it launched
   its bid to buy Warner Bros. Even after that deal collapsed, Netflix has signaled
   its openness to working…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-05T18:17:12Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Although the victim&#039;s father has warned against exploiting his family&#039;s
   tragedy, far-right groups are rallying.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-05T13:06:42Z'

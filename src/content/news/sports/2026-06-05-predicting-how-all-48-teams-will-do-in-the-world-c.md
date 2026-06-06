@@ -2,7 +2,7 @@
 category: Sports
 description: Who will win the FIFA World Cup? Instead of predicting a final winner,
   we've picked every single result to show HOW our predicted winner will do it.
-displayOrder: 26
+displayOrder: 36
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-05T18:44:23Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Fifa says fans who were mistakenly given free tickets to World Cup group
   stage matches in Toronto must pay for them within seven days or lose the seats.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-05T09:10:45Z'

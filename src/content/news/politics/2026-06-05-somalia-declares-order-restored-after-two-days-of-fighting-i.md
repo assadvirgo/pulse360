@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Violence that paralysed two Mogadishu districts subsides, but opposition
   rejects president&#039;s rule and vows to fight on.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-05T17:03:11Z'

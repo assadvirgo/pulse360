@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount is reconstituting its video game operation, launching a new
   game studio and setting a leadership team for the division. Like its media peers,
   the company has deployed…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 67.0
 pubDate: '2026-06-05T22:41:27Z'

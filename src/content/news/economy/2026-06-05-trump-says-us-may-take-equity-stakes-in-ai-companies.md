@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President suggests ‘partnership’ will ease voter concerns about the technology
   ahead of November’s midterm elections
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-05T20:22:33Z'

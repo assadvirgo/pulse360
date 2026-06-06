@@ -5,7 +5,7 @@ countryCode: GB
 description: Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and
   Rayan Cherki are nominated for the Professional Footballers' Association men's player
   of the year award.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-05T08:56:33Z'

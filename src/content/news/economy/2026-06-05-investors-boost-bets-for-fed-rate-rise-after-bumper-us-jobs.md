@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: World’s biggest economy adds 172,000 jobs in May in sign labour market
   is ‘turning the corner’
-displayOrder: 43
+displayOrder: 47
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-05T20:07:16Z'

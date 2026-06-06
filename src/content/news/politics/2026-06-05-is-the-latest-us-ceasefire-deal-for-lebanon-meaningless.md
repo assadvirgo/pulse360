@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Israel and Hezbollah continue fighting after truce announcement.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-05T18:45:16Z'

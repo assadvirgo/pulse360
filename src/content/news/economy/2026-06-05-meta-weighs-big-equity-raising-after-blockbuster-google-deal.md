@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Facebook parent could sell tens of billions of dollars in new stock as
   it seeks to finance AI infrastructure
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-05T18:12:32Z'

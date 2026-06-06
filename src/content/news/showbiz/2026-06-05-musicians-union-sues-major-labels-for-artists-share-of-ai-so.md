@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The American Federation of Musicians alleged that UMG and WMG "have refused
   to compensate the musicians whose work ... is fed into AI machines for profit."
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-05T19:54:54Z'
