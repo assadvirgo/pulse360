@@ -5,7 +5,7 @@ countryCode: US
 description: UFC president Dana White believes two-weight UFC champion Alex Pereira
   will surpass Jon Jones as the greatest MMA fighter of all time if he beats Ciryl
   Gane on June 14 at the…
-displayOrder: 44
+displayOrder: 50
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-06T05:56:28Z'

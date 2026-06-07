@@ -5,7 +5,7 @@ countryCode: US
 description: Myha’la and Maggie Rogers were also in attendance as Tribeca's Jane Rosenthal
   spoke of how "this has never just been about representation. It's about power. Who
   gets funding? Who…
-displayOrder: 9
+displayOrder: 13
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-06T18:32:53Z'

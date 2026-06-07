@@ -4,7 +4,7 @@ country: Jamaica
 countryCode: JM
 description: Minister Daryl Vaz reassures residents that power had been restored across
   Jamaica after a rare island-wide outage.
-displayOrder: 6
+displayOrder: 10
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-06T18:42:28Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: 'Patrick Godfrey, an English actor who played Leonardo da Vinci in the
   1998 fantasy film “Ever After: A Cinderella Story,” died on Thursday. He was 93.
   Godfrey’s death was…'
-displayOrder: 11
+displayOrder: 17
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-06T17:55:30Z'

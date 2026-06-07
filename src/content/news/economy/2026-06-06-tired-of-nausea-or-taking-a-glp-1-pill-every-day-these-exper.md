@@ -2,7 +2,7 @@
 category: Economy
 description: There is a new wave of weight-loss therapies in development that aim
   to be better than the existing GLP-1s.
-displayOrder: 26
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-06T18:53:00Z'

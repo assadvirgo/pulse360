@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Fifteen-year-old batting sensation Vaibhav Sooryavanshi receives his
   first international call-up by making the India T20 squad to tour England and Ireland.
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-06T11:56:23Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US defence secretary was speaking in Normandy, 82 years after allied
   forces launched their operation to liberate Nazi-occupied north-western Europe.
-displayOrder: 2
+displayOrder: 3
 heroImage: ''
 importance: 68.2
 pubDate: '2026-06-06T20:22:59Z'

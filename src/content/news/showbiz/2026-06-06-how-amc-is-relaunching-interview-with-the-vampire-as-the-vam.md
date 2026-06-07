@@ -5,7 +5,7 @@ countryCode: US
 description: Sam Reid isn’t a rock star, but he plays one on TV. Although, anyone
   who attended the June 2 premiere party for “The Vampire Lestat” at New York’s Beacon
   Theatre could have sworn…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-06T16:30:00Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Lebanon
 countryCode: LB
 description: Why Lebanon remains central to Israel&#039;s multi-front wars.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-06T13:31:49Z'

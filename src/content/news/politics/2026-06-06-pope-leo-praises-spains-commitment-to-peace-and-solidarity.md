@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Pope Leo XIV arrived in Madrid and was welcomed by King Felipe VI and
   Queen Letizia.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-06T13:18:33Z'

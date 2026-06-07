@@ -3,7 +3,7 @@ category: Showbiz
 description: There are many types of dads, and even more types of gifts you can buy
   them this Father&#8217;s Day. While the golf dads and stogie-smoking patriarchs
   aren&#8217;t entirely…
-displayOrder: 7
+displayOrder: 12
 heroImage: ''
 importance: 62.8
 pubDate: '2026-06-06T16:31:00Z'

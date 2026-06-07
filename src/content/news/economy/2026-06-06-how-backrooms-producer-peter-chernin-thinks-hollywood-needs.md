@@ -5,7 +5,7 @@ countryCode: US
 description: Franchise fatigue could drive an entertainment industry sea change as
   the appetite for fresh ideas grows and younger audiences make up more box office
   sales.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-06T13:00:01Z'

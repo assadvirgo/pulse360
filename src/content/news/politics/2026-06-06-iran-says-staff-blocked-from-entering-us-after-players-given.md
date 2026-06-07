@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian officials say technical staff have been denied visas, hours after
   the US said players could enter the country.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 70.2
 pubDate: '2026-06-06T11:56:25Z'
