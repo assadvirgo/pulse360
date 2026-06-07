@@ -3,7 +3,7 @@ category: Tech
 description: Benn Jordan may have initially gained notoriety for his music as Flashbulb
   and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But
   about five years ago,…
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-06T15:00:00Z'

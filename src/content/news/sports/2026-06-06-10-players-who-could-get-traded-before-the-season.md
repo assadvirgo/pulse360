@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The NFL trade deadline isn't until November, but we're making early predictions
   on 10 players.
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-06T15:48:30Z'

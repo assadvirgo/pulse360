@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Berlin&#039;s Charite hospital hailed treatment as a &#039;significant
   therapeutic success&#039; as outbreak spreads in DR Congo.
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-06T20:01:29Z'

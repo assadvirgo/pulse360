@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US military strikes Iranian drones and radar sites and Tehran says
   it has targeted US bases in Kuwait and Bahrain.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-06T14:46:20Z'

@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: In her fourth bid to be president, Fujimori faces her best odds yet.
   But can she overcome scandal and her father&#039;s past?
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-06T18:51:53Z'

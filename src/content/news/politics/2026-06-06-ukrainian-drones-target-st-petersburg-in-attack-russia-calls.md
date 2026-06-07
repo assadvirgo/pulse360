@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The city's governor urges residents to remain indoors for the first time
   since the beginning of the war.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 82.2
 pubDate: '2026-06-06T11:37:19Z'

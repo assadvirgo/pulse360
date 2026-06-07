@@ -2,7 +2,7 @@
 category: Economy
 description: Shipowners ploughed windfall into new vessels and are braced for steep
   drop in rates if Strait of Hormuz reopens
-displayOrder: 33
+displayOrder: 48
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-06T12:28:02Z'

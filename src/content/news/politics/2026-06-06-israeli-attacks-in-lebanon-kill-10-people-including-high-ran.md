@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The deaths include a brigadier general, a captain and a soldier killed
   while travelling on the Khardali-Nabatieh road.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-06T15:30:53Z'

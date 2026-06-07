@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: On the first day of his official seven-day tour of Spain, the Pope praises
   the country's "active commitment to peace and solidarity among peoples".
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 79.2
 pubDate: '2026-06-06T18:34:26Z'

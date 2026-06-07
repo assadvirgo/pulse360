@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Airline had its planes grounded when fighting began but demand for transit
   through region has recovered
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-06T21:56:16Z'

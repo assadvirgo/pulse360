@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The feasting phenomenon run by Le Canon Français has become a hot political
   issue.
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-06T18:16:42Z'

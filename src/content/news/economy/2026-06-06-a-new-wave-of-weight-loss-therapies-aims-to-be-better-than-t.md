@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Retatrutide is one of those drugs. It helped people lose a massive amount
   of weight in clinical trials. It also improved sleep apnea and knee pain.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-06T21:10:00Z'

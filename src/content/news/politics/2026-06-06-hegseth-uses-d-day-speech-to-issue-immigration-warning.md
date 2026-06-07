@@ -5,7 +5,7 @@ countryCode: US
 description: Pete Hegseth has warned Europe is facing "an invasion of dangerous ideologies"
   arriving by sea, as he linked immigration to the legacy of the D-Day landings in
   Normandy.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-06T17:23:00Z'

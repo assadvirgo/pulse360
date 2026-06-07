@@ -4,7 +4,7 @@ country: Armenia
 countryCode: AM
 description: Russia, the United States and European Union all have interests as geopolitics
   take centre-stage.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-06T18:19:02Z'

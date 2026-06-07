@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Emergency Lawyers said dozens were also wounded in the strike that came
   less than 24 hours after similar drone attacks.
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-06T20:54:09Z'

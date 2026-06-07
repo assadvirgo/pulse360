@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Bid from group including Orange and Free-Iliad faces showdown with antitrust
   regulators in Paris and Brussels
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-06T22:16:57Z'

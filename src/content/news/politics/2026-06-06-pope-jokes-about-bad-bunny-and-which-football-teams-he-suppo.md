@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Pope Leo revealed he'll be backing the USA and that he supports Real
   Madrid as he began a visit to Spain.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-06T14:40:00Z'

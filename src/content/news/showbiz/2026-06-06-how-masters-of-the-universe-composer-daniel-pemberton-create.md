@@ -5,7 +5,7 @@ countryCode: US
 description: The only way Daniel Pemberton, who elects not to work on many franchise
   films or sequels, was going to get on board with scoring the new “Masters of the
   Universe” film was if he…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-06T16:45:42Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: These newer social apps offer alternatives to Big Tech’s feeds, focusing
   on interests, creativity, and community.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-06T15:00:00Z'
