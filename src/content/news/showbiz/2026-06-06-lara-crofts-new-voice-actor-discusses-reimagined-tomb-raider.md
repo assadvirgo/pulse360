@@ -3,7 +3,7 @@ category: Showbiz
 description: 'A new adventure awaits everyone&#8217;s favorite female explorer. First
   announced at The Game Awards 2025, Tomb Raider: Legacy of Atlantis reimagines Lara
   Croft&#8217;s…'
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-06T22:14:34Z'

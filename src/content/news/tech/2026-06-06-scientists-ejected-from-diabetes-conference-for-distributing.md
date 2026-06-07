@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Those ousted included ADA journal editor-in-chief Steven Kahn and former
   ADA president Desmond Schatz
-displayOrder: 30
+displayOrder: 36
 heroImage: ''
 importance: 46.0
 pubDate: '2026-06-06T20:53:07Z'

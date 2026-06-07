@@ -5,7 +5,7 @@ countryCode: US
 description: Queer culture doc specialist Jeffrey Schwarz looks at the killing that
   inspired the 1980 film 'Cruising' and the protests triggered by perceptions of internalized
   homophobia,…
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-06T22:54:00Z'

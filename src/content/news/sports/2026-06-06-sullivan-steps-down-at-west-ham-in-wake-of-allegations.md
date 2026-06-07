@@ -5,7 +5,7 @@ countryCode: GB
 description: West Ham United co-owner David Sullivan steps down as joint chairman
   of the club with immediate effect following a joint investigation by BBC Panorama
   and the Times newspaper into…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-06T14:51:58Z'

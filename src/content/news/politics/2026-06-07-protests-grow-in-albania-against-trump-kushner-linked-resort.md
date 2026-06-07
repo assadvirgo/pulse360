@@ -4,7 +4,7 @@ country: Albania
 countryCode: AL
 description: Thousands of protesters have rallied in the Albanian capital against
   a proposed luxury beach resort linked to Trump.
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-07T02:17:04Z'

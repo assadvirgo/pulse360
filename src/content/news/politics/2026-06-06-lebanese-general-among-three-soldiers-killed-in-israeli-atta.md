@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The Israeli military is investigating the incident in south Lebanon,
   where it is fighting Hezbollah.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-06T21:23:03Z'

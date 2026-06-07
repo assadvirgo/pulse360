@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A critical part of the president’s base is questioning whether his politics
   and rhetoric align with Christian values
-displayOrder: 18
+displayOrder: 24
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-07T04:00:02Z'
