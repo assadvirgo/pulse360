@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The third round of the Memorial Tournament is suspended because of thunderstorms
   withJT Poston and Ryan Gerard in a share of the lead.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-06-06T23:20:26Z'

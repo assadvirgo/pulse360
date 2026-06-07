@@ -4,7 +4,7 @@ country: Monaco
 countryCode: MC
 description: F1 championship leader becomes the first Italian since Jarno Trulli in
   2004 to take pole position in the principality.
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-07T06:31:07Z'

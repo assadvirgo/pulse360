@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican Stephen Buyer was convicted and sentenced to 22 months in
   prison, though he has maintained his innocence.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-06T23:58:08Z'

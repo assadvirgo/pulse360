@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Three British men have pleaded guilty after a Canadian restaurant owner
   died following a row over an unpaid bill.
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-07T01:31:00Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Fifty years after his debut, Ilaiyaraaja remains one of the most celebrated
   composers in Indian cinema.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-06T22:27:05Z'

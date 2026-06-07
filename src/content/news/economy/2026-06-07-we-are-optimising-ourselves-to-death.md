@@ -2,7 +2,7 @@
 category: Economy
 description: A tracker might tell you that you got to bed too late, but it doesn’t
   tell you that you were busy living your life
-displayOrder: 39
+displayOrder: 45
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-07T04:00:11Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Masahiro Koike aims to turn Japanese group into top five global insurer
   within a decade
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-07T01:08:39Z'

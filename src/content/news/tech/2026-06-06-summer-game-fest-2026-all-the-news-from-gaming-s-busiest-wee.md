@@ -3,7 +3,7 @@ category: Tech
 description: Get ready for some gaming news. It&#8217;s officially June, which means
   splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more.
   PlayStation kicked…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-06-06T16:14:23Z'

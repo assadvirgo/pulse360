@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The U.S. provided reasons for both encouragement and frustration in the
   final tuneup before its World Cup opener June 12.
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-07T00:36:24Z'

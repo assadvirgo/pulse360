@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Petrol retails for £1.58 a litre in the UK, up about 20% since the start
   of the year
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-07T04:00:11Z'

@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Former Cuban president Raul Castro made his first public appearance in
   Havana since being indicted by the United States
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-06T20:55:31Z'
