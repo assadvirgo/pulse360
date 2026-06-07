@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At least 12 people were wounded, two critically, in a shooting near the
   Old West End Festival in Toledo, Ohio.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-07T08:18:10Z'

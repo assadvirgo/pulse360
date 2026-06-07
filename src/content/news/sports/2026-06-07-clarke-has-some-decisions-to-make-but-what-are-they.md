@@ -5,7 +5,7 @@ countryCode: GB
 description: Scotland head coach Steve Clarke has "some decisions to make" when it
   comes to his starting XI for their World Cup opener against Haiti on Sunday, but
   what are they?
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-07T07:33:31Z'

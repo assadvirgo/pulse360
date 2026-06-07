@@ -5,7 +5,7 @@ countryCode: KP
 description: The powerful sister of North Korean leader Kim Jong Un has declared that
   the country will never surrender its nuclear-armed status and continue to expand
   its atomic arsenal.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-07T08:38:00Z'

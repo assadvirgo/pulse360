@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Industry body warns that profits will be halved by surging energy costs
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-07T15:25:17Z'

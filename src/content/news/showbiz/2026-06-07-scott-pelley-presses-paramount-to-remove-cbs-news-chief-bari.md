@@ -5,7 +5,7 @@ countryCode: US
 description: Former &#8220;60 Minutes&#8221; correspondent Scott Pelley suggested
   in an interview with The New York Times that CBS News parent Paramount Skydance
   remove Bari Weiss as the…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-06-07T11:11:04Z'

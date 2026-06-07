@@ -5,7 +5,7 @@ countryCode: IR
 description: Following a retrial for his &#8220;propaganda activity against the regime,&#8221;
   Tehran Revolutionary Court has upheld Jafar Panahi&#8217;s one-year prison sentence.
   On Sunday,…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-07T16:20:29Z'

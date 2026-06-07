@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon&#039;s army chief Rodolphe Haykal left for Pakistan in a surprise
   visit as relentless fighting continues.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-07T07:59:02Z'

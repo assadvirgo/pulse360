@@ -3,7 +3,7 @@ category: Tech
 description: The Virtual OS Museum isn't a physical place, it's a collection of over
   1,700 distinct installations of over 600 operating systems for over 250 platforms
   that you can download and…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 68.2
 pubDate: '2026-06-07T14:17:00Z'

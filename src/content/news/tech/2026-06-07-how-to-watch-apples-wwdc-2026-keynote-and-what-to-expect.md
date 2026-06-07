@@ -5,7 +5,7 @@ countryCode: US
 description: The annual developer event is where Apple announces operating system
   updates—like iOS 27—and maybe even teases future hardware. Here’s how to see it
   all.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-07T09:30:00Z'

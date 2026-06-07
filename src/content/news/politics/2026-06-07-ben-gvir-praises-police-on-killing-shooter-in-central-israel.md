@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel’s far right minister Itamar Ben-Gvir praised police for killing
   a Kokhav Yair shooting suspect.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-07T13:01:40Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: $850bn start-up to recast hit chatbot as a route to higher-margin products
   before a potential IPO
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-07T04:00:11Z'

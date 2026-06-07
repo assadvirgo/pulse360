@@ -5,7 +5,7 @@ countryCode: US
 description: The Tribeca Festival has condemned the jokes made on the red carpet of
   &#8220;The Wedding Entertainer (The Tale of Moishe Badhan)&#8221; by comedian Elon
   Gold and influencer Lizzy…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-07T12:03:38Z'

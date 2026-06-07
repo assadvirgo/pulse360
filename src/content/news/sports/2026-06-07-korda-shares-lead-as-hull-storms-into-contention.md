@@ -5,7 +5,7 @@ countryCode: US
 description: Nelly Korda cards a four-under par 67 as she moves into a share of the
   lead after the third round of the US Women's Open, while England's Charley Hull
   hits a 65.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-07T06:45:56Z'
