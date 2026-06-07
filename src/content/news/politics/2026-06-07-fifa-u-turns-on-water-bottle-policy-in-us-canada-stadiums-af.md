@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New York Mayor Mamdani was among those critical of FIFA’s decision to
   ban water bottles at World Cup stadiums.
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-07T12:04:33Z'

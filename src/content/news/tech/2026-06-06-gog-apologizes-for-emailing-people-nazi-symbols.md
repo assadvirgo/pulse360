@@ -5,7 +5,7 @@ countryCode: PL
 description: GOG sent a newsletter about the game The End of the Sun on June 5th that
   included symbols associated with the Nazi SS. The Steam competitor issued a statement
   attributing the…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-06T17:59:37Z'

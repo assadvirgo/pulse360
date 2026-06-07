@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina great Lionel Messi is rested against Honduras, while Brazil,
   Germany, Belgium and Portugal each win warm-up games prior to the World Cup.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-07T09:49:42Z'

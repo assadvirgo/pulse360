@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US, Mexico and Canada have announced Ebola-related travel restrictions
   before the start of the World Cup.
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-07T09:33:07Z'

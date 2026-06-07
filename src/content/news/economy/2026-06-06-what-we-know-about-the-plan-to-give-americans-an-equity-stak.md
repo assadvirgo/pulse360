@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI has proposed a sovereign-wealth-style fund to ease public anxiety
   about the impact of artificial intelligence
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-06T21:18:20Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran’s ambassador to Mexico expressed concern over the reported denial
   of US visas to the World Cup delegation.
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-07T09:19:58Z'

@@ -3,7 +3,7 @@ category: Tech
 description: These 5- to 6-inch blades are the secret workhorses of the kitchen, whether
   you’re a smaller person, have smaller hands, or just desire a smaller but still
   high-functioning knife.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-07T11:00:00Z'

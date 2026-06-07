@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The Chinese leader is making his first trip to Pyongyang in seven years
   amid significant military developments.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-07T04:30:44Z'

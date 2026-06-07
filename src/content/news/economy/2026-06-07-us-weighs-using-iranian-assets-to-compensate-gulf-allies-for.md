@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Proposal comes as relations between Trump administration and regional
   partners have been strained by conflict
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-07T02:50:19Z'

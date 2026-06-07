@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From the human cost to the economy, Al Jazeera visualises how the US-Israel
   war on Iran has unfolded since February 28.
-displayOrder: 11
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-07T05:30:52Z'

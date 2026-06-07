@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Young farmers are combining traditional agriculture with mobile apps
   to build livelihoods in the absence of formal jobs.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-07T04:14:27Z'

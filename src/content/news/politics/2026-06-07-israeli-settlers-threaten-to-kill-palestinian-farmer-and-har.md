@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: A Palestinian farmer recounts the moment a large group of Israeli settlers
   hit him and harassed his livestock.
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-07T10:52:50Z'

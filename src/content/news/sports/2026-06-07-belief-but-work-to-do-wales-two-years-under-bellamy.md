@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC Sport Wales looks at Craig Bellamy's time in charge of Wales as he
   reaches the midway stage of his four-year deal with the Football Association of
   Wales.
-displayOrder: 10
+displayOrder: 30
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-07T08:57:06Z'

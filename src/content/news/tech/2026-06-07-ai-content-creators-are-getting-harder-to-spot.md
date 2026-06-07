@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback
   arrives in our…
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-07T12:00:00Z'

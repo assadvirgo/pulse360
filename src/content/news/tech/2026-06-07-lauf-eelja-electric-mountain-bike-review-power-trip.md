@@ -2,7 +2,7 @@
 category: Tech
 description: Lauf’s sleek new entry feels closer to a traditional mountain bike than
   anything I’ve ridden before.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-07T10:22:00Z'

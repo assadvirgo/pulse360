@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Group has banned dealers from bundling Luce sales and access to exclusive
   models as it seeks new clients
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-07T04:00:02Z'

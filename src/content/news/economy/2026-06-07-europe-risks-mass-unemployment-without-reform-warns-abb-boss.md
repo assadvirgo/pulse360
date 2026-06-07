@@ -2,7 +2,7 @@
 category: Economy
 description: Morten Wierod calls for urgent deregulation as energy shock from Iran
   war dents EU competitiveness
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-07T04:00:11Z'
