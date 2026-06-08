@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump stormed out of his interview with “Meet the Press”
   after getting into a verbal sparring match with Kristen Welker over claims of election
   fraud. Tensions…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 81.8
 pubDate: '2026-06-07T16:26:22Z'

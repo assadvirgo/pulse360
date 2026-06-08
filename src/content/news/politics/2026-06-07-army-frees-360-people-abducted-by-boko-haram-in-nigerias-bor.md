@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Two infants succumbed to the &#039;harsh conditions&#039; of Boko Haram
   captivity in the Mandara mountains, says army.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-07T14:39:53Z'

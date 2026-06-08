@@ -5,7 +5,7 @@ countryCode: US
 description: 'When Kristen Welker asked him for evidence, the president replied: "Listen
   to me: There''s tremendous evidence. There''s nothing but evidence. The election
   was rigged. It was a…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-07T16:23:28Z'

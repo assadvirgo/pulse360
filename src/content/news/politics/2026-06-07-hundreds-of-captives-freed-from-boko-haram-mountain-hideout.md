@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The group includes many women and children who were abducted in March
   from an area close to Cameroon.
-displayOrder: 12
+displayOrder: 32
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-07T14:00:16Z'

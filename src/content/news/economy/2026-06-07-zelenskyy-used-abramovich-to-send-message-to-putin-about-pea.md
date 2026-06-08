@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Former Chelsea FC owner invited to Kyiv last month in failed attempt
   to broker direct negotiations
-displayOrder: 28
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-07T18:56:21Z'

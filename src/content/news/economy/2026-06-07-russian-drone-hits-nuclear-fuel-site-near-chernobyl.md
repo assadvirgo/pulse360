@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Radiation levels remain ‘within normal limits’, says Ukraine’s state
   nuclear company
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-07T10:37:30Z'

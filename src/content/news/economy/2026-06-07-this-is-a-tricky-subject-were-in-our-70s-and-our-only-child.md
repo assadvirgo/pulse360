@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “It makes us feel uncomfortable.”
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-07T12:08:00Z'

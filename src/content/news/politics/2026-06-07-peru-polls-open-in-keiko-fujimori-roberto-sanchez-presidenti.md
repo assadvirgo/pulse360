@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Race between right-wing Fujimori and left-wing Sanchez follows first
   round of voting marred by logistical issues.
-displayOrder: 10
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-07T14:48:04Z'

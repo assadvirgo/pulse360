@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Pope Leo XIV hails Spain’s ‘school of faith’ at Madrid Mass, urges unity
   amid vast Corpus Domini crowds.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-07T16:03:53Z'

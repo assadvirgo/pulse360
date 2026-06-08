@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Palestinians inspect the aftermath of an Israeli strike in Khan Younis.
-displayOrder: 11
+displayOrder: 33
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-07T13:26:23Z'

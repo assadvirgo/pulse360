@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Limited strikes on Lebanese capital follow US president’s intervention
   last week forcing Israeli PM to delay major raid
-displayOrder: 37
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-07T15:02:53Z'

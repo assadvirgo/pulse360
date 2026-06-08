@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Multiple explosions have hit Beirut’s southern suburbs as Israel launches
   new attacks, claiming to target Hezbollah.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-07T16:04:21Z'

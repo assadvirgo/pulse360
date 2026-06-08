@@ -5,7 +5,7 @@ countryCode: IR
 description: Tehran’s Revolutionary Court has upheld a one-year prison sentence against&#160;Palme
   d’Or-winning filmmaker Jafar Panahi who in December had been sentenced in absentia
   on charges…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-07T15:06:08Z'

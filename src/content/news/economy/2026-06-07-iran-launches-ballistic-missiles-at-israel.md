@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Attack comes after Israel carried out a strike in Beirut that it said
   targeted Hizbollah
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-07T19:24:57Z'

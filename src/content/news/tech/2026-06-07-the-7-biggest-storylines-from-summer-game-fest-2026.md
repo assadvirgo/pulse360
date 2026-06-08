@@ -3,7 +3,7 @@ category: Tech
 description: The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly
   hectic. The nearly week-long event came at a challenging time for the games industry,
   and for the…
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-07T18:45:33Z'

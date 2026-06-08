@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran’s national football team has arrived in Mexico ahead of its World
   Cup matches in the US.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-07T15:16:16Z'

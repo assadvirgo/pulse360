@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: At least five people were killed in one attack on a police post as Hamas
   and other groups met mediators in Cairo.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-07T14:31:33Z'

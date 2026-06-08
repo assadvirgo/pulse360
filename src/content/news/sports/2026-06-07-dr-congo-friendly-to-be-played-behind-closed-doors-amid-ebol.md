@@ -5,7 +5,7 @@ countryCode: CD
 description: Democratic Republic of Congo's final World Cup warm-up game against Chile
   will take place behind closed doors amid concerns about the Ebola outbreak in the
   central African nation.
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 70.2
 pubDate: '2026-06-07T16:55:52Z'

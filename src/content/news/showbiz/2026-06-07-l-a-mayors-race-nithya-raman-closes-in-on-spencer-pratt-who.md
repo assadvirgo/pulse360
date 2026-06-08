@@ -5,7 +5,7 @@ countryCode: US
 description: Los Angeles City Council member Nithya Raman is within striking distance
   of Spencer Pratt in the race for L.A.’s next mayor. She is expected to overtake
   the Republican and former…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-07T17:20:52Z'

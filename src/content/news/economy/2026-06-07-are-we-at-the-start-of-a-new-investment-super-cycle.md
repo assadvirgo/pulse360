@@ -2,7 +2,7 @@
 category: Economy
 description: AI, clean energy and defence spending are reinforcing each other, amplifying
   potential spend
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-07T12:00:04Z'
