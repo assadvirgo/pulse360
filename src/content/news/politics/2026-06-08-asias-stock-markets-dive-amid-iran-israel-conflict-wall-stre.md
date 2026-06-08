@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: South Korea’s main index plunges nearly 9 percent, while stocks in Japan,
   Taiwan and Hong Kong also see sharp falls.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-08T08:49:41Z'

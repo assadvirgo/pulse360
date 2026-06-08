@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel killed at least 14 people in Gaza on Sunday in strikes across
   Khan Younis, Gaza City, and Deir el-Balah.
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-08T10:23:27Z'

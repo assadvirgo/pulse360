@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israel’s strikes on Iran expose Trump’s failure to restrain Netanyahu.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-08T09:16:54Z'

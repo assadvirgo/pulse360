@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: ‘Fortress North America’ is Ottawa’s response to being cut out of negotiations
   on new pact with US and Mexico
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-08T10:00:05Z'

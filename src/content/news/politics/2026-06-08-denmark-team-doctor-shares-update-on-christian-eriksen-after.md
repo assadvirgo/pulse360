@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: Christian Eriksen is expected to be discharged from hospital "soon" after
   he collapsed on the pitch during Denmark's friendly with Ukraine on Sunday.
-displayOrder: 14
+displayOrder: 23
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-08T11:11:00Z'

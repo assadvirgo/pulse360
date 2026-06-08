@@ -5,7 +5,7 @@ countryCode: US
 description: We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular
   Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling
   and Ventilation…
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-07T22:16:41Z'

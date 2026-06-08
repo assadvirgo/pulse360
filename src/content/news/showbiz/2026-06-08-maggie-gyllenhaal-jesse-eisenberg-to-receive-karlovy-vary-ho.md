@@ -5,7 +5,7 @@ countryCode: CZ
 description: The Czech film festival will present its President’s Award to "two distinctive
   personalities who have significantly shaped contemporary world cinema" and have
   "a certain…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-08T09:00:00Z'

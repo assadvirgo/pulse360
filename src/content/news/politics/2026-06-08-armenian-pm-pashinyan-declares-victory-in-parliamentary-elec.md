@@ -3,7 +3,7 @@ category: Politics
 country: Armenia
 countryCode: AM
 description: Armenian PM Pashinyan declares victory in parliamentary elections
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-08T11:03:05Z'

@@ -5,7 +5,7 @@ countryCode: AL
 description: 'EXCLUSIVE: Indie Outfit Mirak Studio has set plans to build a production
   facility in Albania. Mirak Studio was founded by Jamie Neale, Chris Beyrooty, Grayson
   Stubbs, and Klevis…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-08T12:05:08Z'

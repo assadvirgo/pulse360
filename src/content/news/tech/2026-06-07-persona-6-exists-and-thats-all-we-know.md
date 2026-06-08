@@ -5,7 +5,7 @@ countryCode: JP
 description: This year's Summer Game Fest turned out to be a good one for fans of
   Japanese RPGs. First, the conclusion of the Final Fantasy VII remake trilogy was
   announced at SGF Live, and…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-07T18:00:41Z'

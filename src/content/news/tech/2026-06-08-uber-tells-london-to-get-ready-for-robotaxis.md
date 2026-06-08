@@ -5,7 +5,7 @@ countryCode: GB
 description: Uber is getting ready to put robotaxis on London's streets, opening an
   interest list for riders who want to be among the first to hail one of Wayve's autonomous
   vehicles when the…
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-08T11:26:42Z'

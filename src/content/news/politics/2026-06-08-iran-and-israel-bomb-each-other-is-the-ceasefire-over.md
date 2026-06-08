@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Analysts say both sides are pushing the ceasefire to its limits while
   seeking greater leverage.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-08T10:38:36Z'

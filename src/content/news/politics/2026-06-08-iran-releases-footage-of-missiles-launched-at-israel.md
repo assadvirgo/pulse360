@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran said its attacks were "the beginning of a full week of continuous
   strikes."
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-08T07:26:45Z'

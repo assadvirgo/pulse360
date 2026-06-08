@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli leader has tried to secure his country by entirely military
   means. It isn’t working.
-displayOrder: 39
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-08T11:12:11Z'

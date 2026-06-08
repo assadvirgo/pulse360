@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli army said it intercepted missiles launched from Iran on Monday
   in response to attacks from Israel.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-08T07:14:34Z'
