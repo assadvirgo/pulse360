@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Experts warn of lasting trauma for Lebanon&#039;s children as war continues
   to shatter their sense of safety.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-08T16:01:27Z'

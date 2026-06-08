@@ -3,7 +3,7 @@ category: Showbiz
 description: Dads who golf can be surprisingly difficult to shop for. There are clubs,
   rangefinders, golf balls, gloves, even ball markers &#8212; and unless you spend
   your weekends on the…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-08T15:56:58Z'

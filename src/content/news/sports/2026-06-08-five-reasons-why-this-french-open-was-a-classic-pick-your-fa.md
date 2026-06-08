@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Why a series of shocks, dramas and fairytale runs made this year's French
   Open a instant classic.
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-08T08:31:34Z'

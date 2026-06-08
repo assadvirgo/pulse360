@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: Christian Eriksen is back at home and "doing well" after the Denmark
   footballer's collapse on the pitch during a friendly with Ukraine on Sunday.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-08T11:11:00Z'

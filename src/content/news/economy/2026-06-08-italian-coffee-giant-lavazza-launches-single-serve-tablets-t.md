@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With Tablì, Lavazza is betting that sustainability is still a top consideration
   for many coffee drinkers.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-08T12:49:34Z'

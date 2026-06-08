@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The Chinese President Xi received a colourful welcome to Pyongyang for
   his first visit in seven years.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-08T12:18:56Z'

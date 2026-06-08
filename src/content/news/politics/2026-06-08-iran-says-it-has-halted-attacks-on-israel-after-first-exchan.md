@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran launched about 30 missiles at Israel following a strike in Lebanon,
   while Israel carried out two waves of air strikes in Iran.
-displayOrder: 4
+displayOrder: 20
 heroImage: ''
 importance: 63.2
 pubDate: '2026-06-08T15:12:59Z'

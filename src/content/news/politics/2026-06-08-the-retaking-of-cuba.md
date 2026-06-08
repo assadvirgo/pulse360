@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Decades-old property claims, frozen since the 1960s, are being turned
   into live instruments of reconquest.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-08T12:49:58Z'
