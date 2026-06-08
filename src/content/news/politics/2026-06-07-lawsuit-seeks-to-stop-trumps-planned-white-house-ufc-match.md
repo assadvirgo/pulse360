@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Legal challenge claims US president did not seek proper approval for
   fighting event to be held on his 80th birthday.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-07T18:53:20Z'

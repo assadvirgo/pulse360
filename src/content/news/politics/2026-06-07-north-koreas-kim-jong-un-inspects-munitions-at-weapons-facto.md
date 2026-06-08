@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: North Korea has released photos of Kim Jong Un inspecting huge munitions
   at a weapons factory
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-07T22:38:05Z'

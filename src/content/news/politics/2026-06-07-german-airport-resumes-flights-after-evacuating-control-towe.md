@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Germany's&#160;Munich&#160;airport evacuated its control tower and temporarily
   suspended flights due to the smell of smoke.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-07T20:01:00Z'

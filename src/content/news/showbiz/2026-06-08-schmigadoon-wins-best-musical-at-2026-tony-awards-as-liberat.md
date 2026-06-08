@@ -5,7 +5,7 @@ countryCode: US
 description: 'The ceremony, hosted by Pink, included historic and first-time Tony
   wins, with ''Ragtime'' and ''Cats: The Jellicle'' ball battling in the musical revival
   category.'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-08T03:45:49Z'

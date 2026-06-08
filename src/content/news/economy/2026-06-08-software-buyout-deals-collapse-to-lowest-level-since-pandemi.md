@@ -2,7 +2,7 @@
 category: Economy
 description: Value of private equity software acquisitions struck in the first five
   months of the year tumbles to $50bn
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-08T04:00:05Z'

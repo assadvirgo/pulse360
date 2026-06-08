@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Officials in Indonesia, the Philippines, and Japan warn of possible tsunami
   waves after an earthquake off Mindanao.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 79.5
 pubDate: '2026-06-08T00:23:18Z'

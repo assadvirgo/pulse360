@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: All of Iran's group games are in the US, but players and support staff
   will have to fly in and out of the country on match day.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-07T13:24:50Z'

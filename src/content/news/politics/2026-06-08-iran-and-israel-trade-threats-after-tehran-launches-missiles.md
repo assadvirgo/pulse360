@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran and Israel exchanged threats after Tehran launched missiles towards
   Israel in response to Israeli strikes on Beirut
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 74.5
 pubDate: '2026-06-08T00:13:30Z'

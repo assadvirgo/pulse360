@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: The Netherlands has one of the world's lowest rates of 16 to 24-year-olds
   not in education, employment or training.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-07T23:03:23Z'

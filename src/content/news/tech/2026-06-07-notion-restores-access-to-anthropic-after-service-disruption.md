@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Notion's head of product said he was "astonished" at “the amount of people
   RT-ing this."
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-07T17:56:22Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The 79th Tony Awards unfolded at Radio City Music Hall with Pink as host,
   opening on a Broadway-sized reinvention of her hit &#8220;Lady Marmalade&#8221;
   that packed the stage…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-08T03:47:32Z'

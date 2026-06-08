@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: An earthquake of magnitude 7.8 has struck Mindanao in the Philippines,
   the US Geological Survey has said.
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 77.0
 pubDate: '2026-06-07T23:58:00Z'

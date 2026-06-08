@@ -5,7 +5,7 @@ countryCode: US
 description: It was revealed the couple — who previously co-starred in the film 'Black
   Bear' and off-Broadway revival of 'Danny and the Deep Blue Sea' — were expecting
   their first child in…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 74.8
 pubDate: '2026-06-08T02:30:00Z'

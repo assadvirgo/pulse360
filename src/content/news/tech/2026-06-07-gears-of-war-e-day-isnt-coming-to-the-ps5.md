@@ -5,7 +5,7 @@ countryCode: US
 description: 'Apparently, the "return of Xbox" means a retreat from other platforms.
   At its Xbox Games Showcase today, Microsoft revealed that Gears of War: E-Day -
   which was previously rumored…'
-displayOrder: 37
+displayOrder: 48
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-07T17:08:56Z'

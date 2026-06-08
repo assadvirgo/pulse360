@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: South Korea’s once-hot Kospi index is headed for another day of sharp
   declines as the AI trade loses steam.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-08T02:03:00Z'

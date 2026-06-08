@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president tells FT that he ‘calls the shots’ after urging the Israeli
   leader not to retaliate against Tehran
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-07T22:08:41Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran&#039;s attack on Israel aims to restore deterrence but avoid return
   to war.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-07T21:33:26Z'
