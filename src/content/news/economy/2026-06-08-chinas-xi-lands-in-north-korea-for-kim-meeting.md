@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese leader’s first trip to Pyongyang in 7 years comes as regime has
   stepped up rhetoric of nuclear expansion
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-08T03:26:04Z'

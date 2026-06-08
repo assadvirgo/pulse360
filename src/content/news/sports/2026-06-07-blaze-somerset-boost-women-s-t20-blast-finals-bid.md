@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Tammy Beaumont hits a half-century as The Blaze beat Lancashire Thunder
   in a low-scoring match to go top of the Women's T20 Blast table.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-07T16:19:14Z'

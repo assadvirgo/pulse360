@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Jude Bellingham has a fight on his hands to feature in England's starting
   line-up at the World Cup, says manager Thomas Tuchel.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-08T09:03:46Z'

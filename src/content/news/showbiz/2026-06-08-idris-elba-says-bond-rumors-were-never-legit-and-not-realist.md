@@ -3,7 +3,7 @@ category: Showbiz
 description: Idris Elba is putting those James Bond rumors to bed. The 53-year-old
   acclaimed actor — who tends to play heroic characters and currently stars in &#8220;Masters
   of the…
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-08T09:29:15Z'

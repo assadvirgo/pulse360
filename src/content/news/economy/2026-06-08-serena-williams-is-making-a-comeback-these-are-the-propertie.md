@@ -5,7 +5,7 @@ countryCode: US
 description: Williams is one of the most successful athletes to ever take part in
   tennis, but she’s also been steadily building her collection of properties for many
   years.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-08T09:02:00Z'

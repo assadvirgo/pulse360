@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Going back would create some big new problems but Switzerland provides
   an alternative model
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-08T04:00:25Z'

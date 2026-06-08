@@ -4,7 +4,7 @@ country: Jordan
 countryCode: JO
 description: Missiles believed fired from Iran toward Israel were seen over Jordan,
   with one reportedly intercepted.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-08T04:14:35Z'

@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Babar is one of 22 players part of the red-ball camp which will run until
   July 10, while the 27-player white-ball camp will last until September 18
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-08T06:20:49Z'

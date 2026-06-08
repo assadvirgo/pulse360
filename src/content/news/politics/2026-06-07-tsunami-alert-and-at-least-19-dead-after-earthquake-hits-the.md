@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: At least 19 people have died after a magnitude-7.8 earthquake struck
   the island of Mindanao in the Philippines.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-06-07T23:58:00Z'

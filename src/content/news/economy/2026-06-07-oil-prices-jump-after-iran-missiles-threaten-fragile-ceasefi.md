@@ -2,7 +2,7 @@
 category: Economy
 description: Traders worry that new strikes could escalate into a return to all-out
   conflict in Middle East
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-07T22:17:23Z'

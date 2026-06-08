@@ -3,7 +3,7 @@ category: Economy
 country: South Korea
 countryCode: KR
 description: Steep declines in tech-related stocks follow Wall Street rout on Friday
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-08T08:10:00Z'

@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: What kind of sanctions could keep a non-human corporation in check?
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-08T04:00:25Z'

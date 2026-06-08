@@ -3,7 +3,7 @@ category: Economy
 country: South Korea
 countryCode: KR
 description: Asian markets start week sharply lower after Nasdaq’s big Friday fall
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-08T03:55:54Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The Ukrainian president's meeting with his staunchest European allies
   came as US President Donald Trump's focus shifts to the war with Iran.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 85.2
 pubDate: '2026-06-07T21:39:43Z'

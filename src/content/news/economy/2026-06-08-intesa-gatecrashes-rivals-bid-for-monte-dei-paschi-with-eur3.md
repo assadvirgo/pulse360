@@ -3,7 +3,7 @@ category: Economy
 country: Italy
 countryCode: IT
 description: Italy’s largest bank says takeover would result in significant cost savings
-displayOrder: 30
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-08T05:07:02Z'

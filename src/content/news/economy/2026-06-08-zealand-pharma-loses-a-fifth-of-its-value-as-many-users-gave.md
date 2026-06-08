@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: The drugmaker’s shares tumbled in Copenhagen after saying a fifth of
   users discontinued its weight-loss drug because of gastrointestinal issues.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-08T08:44:00Z'

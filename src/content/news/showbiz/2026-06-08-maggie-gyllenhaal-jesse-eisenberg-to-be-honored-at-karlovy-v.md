@@ -5,7 +5,7 @@ countryCode: CZ
 description: Maggie Gyllenhaal and Jesse Eisenberg will receive Karlovy Vary’s honorary
   President’s Award during this year’s festival, which runs from July 3 to July 11.
   Gyllenhaal will be…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 66.0
 pubDate: '2026-06-08T09:21:54Z'

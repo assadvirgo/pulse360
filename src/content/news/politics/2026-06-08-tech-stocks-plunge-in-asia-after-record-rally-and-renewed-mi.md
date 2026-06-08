@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Markets in South Korea and Japan slid after a rally in tech stocks in
   recent weeks.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-08T04:42:42Z'

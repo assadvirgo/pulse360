@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tensions have escalated between Iran and Israel while ongoing diplomatic
   efforts have failed to yield lasting peace.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 71.5
 pubDate: '2026-06-08T07:16:28Z'

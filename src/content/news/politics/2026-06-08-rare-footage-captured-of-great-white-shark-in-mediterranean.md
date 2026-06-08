@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: A volunteer diver has described shaking as he filmed his encounter with
   an endangered Great White shark between Tunisia and Sicily.
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-08T06:09:53Z'
