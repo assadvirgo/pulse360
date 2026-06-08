@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors are suddenly dumping technology stocks and rotating into other
   areas — including health insurers, banks and retailers.
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-07T16:00:00Z'

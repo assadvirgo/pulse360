@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president raises stakes for central bank pick as expectations grow
   that borrowing costs will rise
-displayOrder: 34
+displayOrder: 43
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-07T16:03:15Z'

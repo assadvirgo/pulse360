@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: At least 990 refugees and migrants have died this year while attempting
   the perilous journey across the Mediterranean.
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-07T19:17:38Z'

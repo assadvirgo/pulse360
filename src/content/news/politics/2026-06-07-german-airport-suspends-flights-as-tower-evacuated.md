@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Germany's&#160;Munich&#160;airport has evacuated its tower and suspended
   flight operations.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-07T20:01:00Z'

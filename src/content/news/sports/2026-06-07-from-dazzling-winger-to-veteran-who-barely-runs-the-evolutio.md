@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Lionel Messi is set for his sixth World Cup with Argentina. Guillem Balague
   looks at how the Argentine has evolved.
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-07T16:55:11Z'

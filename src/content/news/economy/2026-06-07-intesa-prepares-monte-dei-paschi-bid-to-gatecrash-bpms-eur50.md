@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Board of Italy’s largest bank meets hours after rival proposed potential
   tie-up with MPS
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-07T15:52:31Z'

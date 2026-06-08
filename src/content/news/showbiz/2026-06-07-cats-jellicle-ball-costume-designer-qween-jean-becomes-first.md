@@ -5,7 +5,7 @@ countryCode: US
 description: 'That&#8217;s one for the history books: Qween Jean, whose costume design
   for Cats: The Jellicle Ball just won a Tony Award, is the first openly trans woman
   to ever win a Tony…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-07T23:04:43Z'

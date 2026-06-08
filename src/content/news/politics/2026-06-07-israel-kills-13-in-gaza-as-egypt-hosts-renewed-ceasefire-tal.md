@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli attacks came near Khan Younis, in Gaza City and Deir el-Balah
   as Hamas and other groups met mediators in Cairo.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-07T14:31:33Z'

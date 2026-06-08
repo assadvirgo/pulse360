@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It has remained a top choice among Americans trying to lose weight even
   after the launch of Foundayo, Eli Lilly’s GLP-1 pill.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-07T23:35:00Z'

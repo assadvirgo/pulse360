@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing is trying to reassert influence over a strategically vital yet
   deeply unpredictable partner.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-07T22:02:31Z'
