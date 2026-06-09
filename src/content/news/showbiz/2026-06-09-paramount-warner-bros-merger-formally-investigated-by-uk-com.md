@@ -5,7 +5,7 @@ countryCode: GB
 description: The UK’s antitrust authority has launched a formal investigation into
   the $110 billion merger between Paramount and Warner Bros. Discovery (WBD). The
   Competition and Markets…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 68.0
 pubDate: '2026-06-09T12:53:00Z'

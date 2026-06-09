@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Surveillance camera video captured the moment a Russian drone strike
   caused a blast in Zaporizhzhia, Ukraine.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-09T12:05:19Z'

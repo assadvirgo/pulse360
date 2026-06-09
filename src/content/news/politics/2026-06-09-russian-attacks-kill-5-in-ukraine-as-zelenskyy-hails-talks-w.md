@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine&#039;s president hopes to reinvigorate diplomacy after &#039;very
   positive&#039; talks with US envoys and European leaders.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-09T10:18:17Z'

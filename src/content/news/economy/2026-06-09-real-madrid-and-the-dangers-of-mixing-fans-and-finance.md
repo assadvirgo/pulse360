@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Club president Florentino Pérez’s aim of bringing in outside investors
   is high risk
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-09T11:00:06Z'

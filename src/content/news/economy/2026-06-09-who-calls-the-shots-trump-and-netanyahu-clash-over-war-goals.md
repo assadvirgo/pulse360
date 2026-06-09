@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president’s frustration with continued Israeli attacks on Lebanon
   and Iran erupts as he pushes to end the war
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-06-09T04:00:34Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Like the 39th US president, the current occupant of the White House has
   handed control of the narrative to Iran
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-09T11:13:13Z'

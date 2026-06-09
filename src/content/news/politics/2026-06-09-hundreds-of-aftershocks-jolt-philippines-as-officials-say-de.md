@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Dozens of people are dead and hundreds more injured following an earthquake
   in the country's south.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-09T07:36:15Z'

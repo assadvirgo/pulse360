@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Iran warned Israel on Monday that it could resume hostilities if attacks
   on its Lebanese ally Hezbollah do not stop.
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 63.2
 pubDate: '2026-06-09T15:15:29Z'

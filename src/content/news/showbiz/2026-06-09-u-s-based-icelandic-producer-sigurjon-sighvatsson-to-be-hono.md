@@ -5,7 +5,7 @@ countryCode: US
 description: U.S.-based Icelandic film, music video and TV producer Sigurjón Sighvatsson
   will be celebrated by the Locarno Film Festival with its Raimondo Rezzonico Award,
   dedicated to…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-06-09T09:00:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian players and support staff got US visas and landed in Mexico on
   Sunday for the World Cup, but now fans in doubt.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-09T08:58:20Z'

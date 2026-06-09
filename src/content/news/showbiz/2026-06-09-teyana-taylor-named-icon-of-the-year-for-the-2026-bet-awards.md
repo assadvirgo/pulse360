@@ -5,7 +5,7 @@ countryCode: US
 description: Golden Globe winner and Grammy nominee Teyana Taylor will be saluted
   as Icon of the Year at the 2026 BET Awards. Taylor will receive the special prize
   during the BET Awards…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-09T16:47:20Z'
