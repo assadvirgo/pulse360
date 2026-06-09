@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The Democratic Republic of the Congo is grappling with its 17th Ebola
   outbreak since virus was first identified in 1976.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-09T04:51:22Z'

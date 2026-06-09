@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: The capture in Utsunomiya comes as bear attacks have reached record levels
   across Japan.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-09T08:27:31Z'

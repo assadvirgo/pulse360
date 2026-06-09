@@ -3,7 +3,7 @@ category: Tech
 description: I've been a fan of Philips Hue smart lights since the early days. It's
   one of the few staples in my ever-changing smart home. However, when the Bridge
   Pro launched late last year,…
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-09T11:00:00Z'

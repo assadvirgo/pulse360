@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oracle’s fourth-quarter earnings call will deliver critical updates about
   the progress of its data-center build-out and the financial impact of its AI pivot.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-09T11:22:00Z'

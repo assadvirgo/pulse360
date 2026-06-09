@@ -5,7 +5,7 @@ countryCode: GB
 description: U.K. pharmaceutical giant GSK on Tuesday struck a $10.6 billion deal
   to buy U.S.-listed biotech company Nuvalent, its biggest acquisition in eight years
   as it seeks to bolster the…
-displayOrder: 39
+displayOrder: 46
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-09T08:39:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The catcalls came after ticketholders faced airport-style security to
   enter the venue at Madison Square Garden.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-09T08:46:05Z'

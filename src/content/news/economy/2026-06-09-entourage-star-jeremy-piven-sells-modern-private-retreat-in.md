@@ -5,7 +5,7 @@ countryCode: US
 description: Piven faced more than a few hurdles on his path to finding a buyer, with
   the 6,200-square-foot home bouncing on and off the market over the year, each time
   with a reduced asking…
-displayOrder: 33
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-09T08:58:00Z'

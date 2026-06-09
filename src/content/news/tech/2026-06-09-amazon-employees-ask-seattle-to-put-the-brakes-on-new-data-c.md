@@ -5,7 +5,7 @@ countryCode: US
 description: On Tuesday, the Seattle City Council will vote on whether to enact a
   one-year moratorium on new data centers - just two months after several companies
   proposed building five…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-09T10:00:00Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Crew members of the unladen tanker had sent distress messages saying
   the vessel was on fire and sinking.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-09T06:15:49Z'

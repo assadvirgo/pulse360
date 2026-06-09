@@ -5,7 +5,7 @@ countryCode: ID
 description: The title of Vivek Couto&#8217;s opening address at APOS 2026 uses the
   word &#8220;reset.&#8221; He has a more precise term in mind. &#8220;It&#8217;s
   not actually being…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-09T06:00:00Z'

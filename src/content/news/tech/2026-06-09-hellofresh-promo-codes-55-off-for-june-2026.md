@@ -2,7 +2,7 @@
 category: Tech
 description: Get up to 55% off and free meal boxes using a HelloFresh coupon code
   in June 2026. Discover our best codes and discounts to let you save time and money.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-09T05:00:00Z'

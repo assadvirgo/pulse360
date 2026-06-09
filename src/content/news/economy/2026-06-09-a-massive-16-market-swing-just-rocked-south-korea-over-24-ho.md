@@ -5,7 +5,7 @@ countryCode: KR
 description: Increasing use by retail investors or ‘ants’ of leveraged products to
   gain fast exposure to market upside is amplifying market volatility on Korea’s rollercoaster
   exchange.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-09T10:16:00Z'

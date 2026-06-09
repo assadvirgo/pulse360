@@ -3,7 +3,7 @@ category: Tech
 description: Donut Lab's solid-state battery claims have been thoroughly debunked
   by Ryan Inis Hughes on his popular Ziroth YouTube channel. According to Hughes,
   Donut Lab has engaged in…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-09T08:40:51Z'

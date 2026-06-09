@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Chinese embassy in Washington, DC, condemns designation, calling it &#039;discriminatory&#039;.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-09T02:20:51Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: New chief Luke Miels makes his mark at GSK with one of UK drugmakers’
   biggest deals
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-09T08:31:19Z'

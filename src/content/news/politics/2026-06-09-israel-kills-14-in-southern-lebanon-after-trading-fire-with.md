@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Killings come as Iran warned of &#039;crushing blows&#039; if Israeli
   attacks continued in Lebanon, including in the south.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-09T04:34:45Z'

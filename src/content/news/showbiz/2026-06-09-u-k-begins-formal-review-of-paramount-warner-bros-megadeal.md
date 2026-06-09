@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The deadline for the Competition and Markets Authority to decide on a
   possible phase 2 investigation is Aug. 7.
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-09T12:18:43Z'
