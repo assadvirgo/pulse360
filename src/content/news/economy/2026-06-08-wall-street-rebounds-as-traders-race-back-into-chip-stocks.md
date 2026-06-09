@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Intel and Micron among big gainers as fervour over AI-linked shares resumes
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-08T20:09:41Z'

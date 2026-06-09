@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Donald Trump urges both sides to ‘stop shooting’ as he pursues ceasefire
   extension
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-08T16:41:48Z'

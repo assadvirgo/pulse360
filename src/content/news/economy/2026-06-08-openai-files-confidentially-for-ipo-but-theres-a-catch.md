@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “It may be a while because there are things we want to do that are likely
   easier as a private company,” OpenAI says.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-08T21:55:00Z'

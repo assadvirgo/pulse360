@@ -5,7 +5,7 @@ countryCode: US
 description: The trend in Los Angeles&#8217; mayoral primary race continues to lean
   Nithya Raman&#8217;s way as the two-term City Council member grew her lead over
   Spencer Pratt for a run-off…
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-09T00:02:43Z'

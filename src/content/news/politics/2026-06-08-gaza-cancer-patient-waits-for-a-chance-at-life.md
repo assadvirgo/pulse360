@@ -2,7 +2,7 @@
 category: Politics
 description: A school director and novelist in Gaza needs urgent life-saving cancer
   surgery that she cannot access inside the Strip.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-08T20:47:30Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A top Somali referee will not officiate at the World Cup after being
   denied entry into the US.
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 44.0
 pubDate: '2026-06-08T22:23:00Z'

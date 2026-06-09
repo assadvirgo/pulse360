@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Debutant Manav Suthar takes seven wickets in the match as India thrash
   Afghanistan by an innings and 300 runs to claim their biggest Test win.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-08T11:42:57Z'

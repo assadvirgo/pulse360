@@ -5,7 +5,7 @@ countryCode: US
 description: Texas Tech star quarterback Brendan Sorsby has been granted a temporary
   injunction against the NCAA and will be eligible to play for the Red Raiders in
   2026.
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-08T16:59:17Z'

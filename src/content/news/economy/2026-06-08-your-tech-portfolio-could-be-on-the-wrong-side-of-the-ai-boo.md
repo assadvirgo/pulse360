@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Why the coming $1,000 videogame console will squeeze hardware stocks.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-08T21:44:00Z'

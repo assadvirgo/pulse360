@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Offshore quake rocks Mindanao, killing at least 35 and injuring more
   than 200.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-08T19:10:00Z'

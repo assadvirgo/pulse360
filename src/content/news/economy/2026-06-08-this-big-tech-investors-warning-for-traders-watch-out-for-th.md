@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brad Gerstner, CEO of tech investor Altimeter Capital, said retail investors
   are facing some potentially tricky times ahead with big tech IPOs.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 58.5
 pubDate: '2026-06-08T13:16:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Apple&#8217;s WWDC 2026 event kicked off this morning at 10 a.m. PT at
   Apple Park, starting a week full of expected announcements around Siri, iOS 27,
   Apple Intelligence and more,…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-08T19:41:32Z'

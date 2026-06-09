@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Crowds in Madrid were delighted to see Pope Leo make a visit to Santa
   Maria de la Almudena Cathedral with Queen Sofia.
-displayOrder: 27
+displayOrder: 38
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-08T21:28:33Z'

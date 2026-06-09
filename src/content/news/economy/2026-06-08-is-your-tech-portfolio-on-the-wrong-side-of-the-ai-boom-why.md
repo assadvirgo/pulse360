@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AI buildout is printing money for memory-chip suppliers. But it’s
   slamming device-makers and their customers.
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-08T20:16:00Z'

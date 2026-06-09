@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Impasse over Hizbollah has repeatedly tested the fragile ceasefire between
   Tehran and Washington
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-08T15:25:51Z'

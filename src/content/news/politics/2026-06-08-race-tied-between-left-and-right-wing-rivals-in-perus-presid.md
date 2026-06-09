@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: The split illustrates deep political polarisation in the South American
   country.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-08T17:47:37Z'

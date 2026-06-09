@@ -2,7 +2,7 @@
 category: Politics
 description: New proposed listings target Russia&#039;s &#039;military industrial
   complex, human rights violators and propagandists&#039;.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-08T21:25:10Z'

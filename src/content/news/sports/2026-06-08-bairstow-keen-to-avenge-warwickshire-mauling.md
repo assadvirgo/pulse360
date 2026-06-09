@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Yorkshire captain Jonny Bairstow is relishing their County Championship
   match against Warwickshire at Scarborough.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-08T11:16:07Z'
