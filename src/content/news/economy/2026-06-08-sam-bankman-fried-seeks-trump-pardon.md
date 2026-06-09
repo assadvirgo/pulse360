@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CEO of collapsed crypto exchange FTX has served three years in prison
   for misappropriating billions in customer funds
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-08T17:19:13Z'

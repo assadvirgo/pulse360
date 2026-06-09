@@ -5,7 +5,7 @@ countryCode: US
 description: I hope you have a modern Apple Watch or iPad, because otherwise watchOS
   27 and iPadOS 27 won't run on your device. Apple often drops support for older devices
   with its latest…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-08T19:45:00Z'

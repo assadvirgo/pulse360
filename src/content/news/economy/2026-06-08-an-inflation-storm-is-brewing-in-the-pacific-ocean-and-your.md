@@ -2,7 +2,7 @@
 category: Economy
 description: A looming climate shock threatens to drive up global commodity prices.
   These investments can help protect your purchasing power.
-displayOrder: 25
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-08T19:37:00Z'

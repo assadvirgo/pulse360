@@ -5,7 +5,7 @@ countryCode: US
 description: Richard Mettler, a film editor whose credits included Anthropoid (2016)
   starring Jamie Dornan and Cillian Murphy and the 2025 historical drama Desert Warrior
   starring Anthony…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 73.0
 pubDate: '2026-06-08T17:25:25Z'

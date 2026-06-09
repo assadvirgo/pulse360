@@ -3,7 +3,7 @@ category: Politics
 description: Experts have called the filming of a close encounter between divers and
   a great white shark in the Mediterranean Sea an "exciting" moment - but warned little
   is understood about…
-displayOrder: 28
+displayOrder: 39
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-08T13:43:00Z'

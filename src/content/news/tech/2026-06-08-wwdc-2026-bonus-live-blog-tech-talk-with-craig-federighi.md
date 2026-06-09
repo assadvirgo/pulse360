@@ -5,7 +5,7 @@ countryCode: US
 description: Fresh off the WWDC keynote presentation, The Verge has been invited to
   an "on-the-record technical deep dive into the bold new architecture enabling Apple
   Intelligence…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-06-08T18:42:53Z'

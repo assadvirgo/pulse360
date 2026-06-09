@@ -5,7 +5,7 @@ countryCode: US
 description: At WWDC 2026, Apple announced an overhaul to its Screen Time parental
   control features that aim to improve its safeguarding features to protect children
   who use iPhone, iPad, and…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-08T17:55:30Z'

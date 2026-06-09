@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese President Xi Jinping visits North Korea as Beijing aims to boost
   ties amid growing Pyongyang-Moscow relations.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-08T12:00:42Z'

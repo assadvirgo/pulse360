@@ -2,7 +2,7 @@
 category: Politics
 description: Markets in Europe and Asia were hit by a tech sell-off, and oil rises
   as Iran and Israel launch attacks at each other
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-08T09:27:46Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: EXCLUSIVE:&#160;WME has signed rising French horror filmmaker Sébastien
   Vaniček for representation in all areas. Vaniček directed and co-wrote&#160;Evil
   Dead Burn, the next…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-08T16:30:00Z'

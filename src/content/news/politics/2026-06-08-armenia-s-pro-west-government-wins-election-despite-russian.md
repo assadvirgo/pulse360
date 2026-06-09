@@ -4,7 +4,7 @@ country: Armenia
 countryCode: AM
 description: Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly
   50% of the vote, comfortably beating the other contenders.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-08T08:34:57Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Along with new software for Macs and iPhones, Apple announced visionOS
   27 during its keynote presentation at WWDC on Monday. Like its other platforms,
   visionOS 27 will feature…
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-08T18:32:00Z'

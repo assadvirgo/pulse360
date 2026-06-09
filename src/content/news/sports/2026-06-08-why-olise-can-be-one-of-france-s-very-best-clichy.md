@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Former France international Gael Clichy explains why Bayern Munich's
   France forward Michael Olise could be the breakout star of this summer's World Cup.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-08T05:41:53Z'
