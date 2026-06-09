@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: For the first time since the start of a precarious ceasefire two months
   ago, Israel and Iran have traded missile strikes.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-08T19:44:06Z'

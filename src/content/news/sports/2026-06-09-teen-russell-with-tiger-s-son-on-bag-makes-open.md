@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Teen Miles Russell, with Charlie Woods on his bag, was among those who
   endured "Golf's Longest Day" and qualified for next week's U.S. Open.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-09T05:19:06Z'

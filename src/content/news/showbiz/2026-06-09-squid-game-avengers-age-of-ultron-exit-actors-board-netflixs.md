@@ -5,7 +5,7 @@ countryCode: KR
 description: 'Netflix is following the money in Korea. The streamer has cast Park
   Hae-soo (Squid Game, Narco-Saints), Claudia Kim (Avengers: Age of Ultron, Gyeongseong
   Creature, The Atypical…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-09T00:00:00Z'

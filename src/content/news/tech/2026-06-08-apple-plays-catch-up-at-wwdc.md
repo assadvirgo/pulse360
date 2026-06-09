@@ -5,7 +5,7 @@ countryCode: US
 description: Apple spent much of its WWDC keynote highlighting fixes, performance
   improvements, and long-requested features before unveiling its upgraded AI-powered
   Siri, signaling that the…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-08T21:15:42Z'

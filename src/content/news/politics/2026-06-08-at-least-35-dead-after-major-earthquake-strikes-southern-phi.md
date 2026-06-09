@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: The magnitude-7.8 quake triggered small tsunami waves in the Philippines,
   Indonesia and Japan.
-displayOrder: 18
+displayOrder: 37
 heroImage: ''
 importance: 79.2
 pubDate: '2026-06-08T17:28:40Z'

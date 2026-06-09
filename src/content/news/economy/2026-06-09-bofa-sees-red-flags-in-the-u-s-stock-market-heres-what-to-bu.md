@@ -5,7 +5,7 @@ countryCode: US
 description: Most investors who pile into the S&amp;P 500 in 2026 think they own the
   entire stock market. What they actually own is nothing more than a heavy bet on
   Big Tech — and right now,…
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-09T00:56:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Transaction is one of the largest private credit fundraisings, fuelling
   the Claude maker’s AI growth plans
-displayOrder: 44
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-08T23:50:11Z'

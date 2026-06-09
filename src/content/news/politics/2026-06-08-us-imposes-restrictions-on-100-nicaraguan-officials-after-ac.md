@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The death of Indigenous leader Brooklyn Rivera has prompted calls from
   UN experts for an independent investigation.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-08T18:49:15Z'

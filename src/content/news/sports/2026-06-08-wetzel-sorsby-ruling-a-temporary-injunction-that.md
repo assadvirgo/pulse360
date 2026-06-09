@@ -5,7 +5,7 @@ countryCode: US
 description: '"Ridiculous, short-sighted and illogical." It''s hard for Dan Wetzel
   to comprehend a judge''s ruling that will enable Texas Tech QB Brendan Sorsby to
   play college football this…'
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-08T23:02:09Z'

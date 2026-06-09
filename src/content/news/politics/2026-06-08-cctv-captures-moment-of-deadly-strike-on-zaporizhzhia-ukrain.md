@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: CCTV footage captured the moment a missile struck Zaporizhzhia, Ukraine,
   killing two people and injuring 23.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-08T20:14:04Z'

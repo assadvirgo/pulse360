@@ -4,7 +4,7 @@ country: Latvia
 countryCode: LV
 description: The drone entered Latvian airspace due to &#039;Russian electronic warfare&#039;,
   the military says.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-08T18:54:59Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: '"Jean-Michel," directed by Quinn Whitney Wilson and Viridiana Lieberman
   (it just premiered at the Tribeca Festival and was bought by Netflix), is the first
   movie to penetrate the…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-06-09T02:36:08Z'

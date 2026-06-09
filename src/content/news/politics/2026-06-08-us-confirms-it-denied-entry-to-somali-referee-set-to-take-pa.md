@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Award-winning referee Omar Artan was &#039;determined to be inadmissible
   due to vetting concerns&#039; after arriving in Miami.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-08T21:30:58Z'

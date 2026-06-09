@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ChatGPT creator has submitted paperwork for IPO expected to value company
   at more than $1tn
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-08T22:23:37Z'
