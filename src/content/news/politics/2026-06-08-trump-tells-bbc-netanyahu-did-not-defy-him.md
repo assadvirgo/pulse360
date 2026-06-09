@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In a call with the US president, the BBC’s Sarah Smith asked Trump about
   the war in Iran and his relationship with the Israeli leader.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-08T22:34:25Z'

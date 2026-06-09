@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Silicon Valley giant promises user privacy as it makes long-delayed overhaul
   of voice assistant
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-09T00:32:11Z'

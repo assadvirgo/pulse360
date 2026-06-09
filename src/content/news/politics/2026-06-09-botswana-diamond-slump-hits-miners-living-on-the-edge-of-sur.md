@@ -4,7 +4,7 @@ country: Botswana
 countryCode: BW
 description: Botswana’s diamond-driven economy is under mounting strain as global
   demand weakens and production falls.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-09T02:09:08Z'

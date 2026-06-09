@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Mikel Oyarzabal opens the scoring after two minutes as Spain comfortably
   win their final World Cup warm-up in Puebla.
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 65.5
 pubDate: '2026-06-09T07:45:43Z'

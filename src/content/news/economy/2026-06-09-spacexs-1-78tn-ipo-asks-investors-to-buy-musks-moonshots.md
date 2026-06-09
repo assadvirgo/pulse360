@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Public markets asked to price in advances in AI, Starlink and space-based
   computing long before lift-off
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-09T04:00:25Z'

@@ -3,7 +3,7 @@ category: Tech
 description: Nearly a year after it was announced, Instagram says it's delivering
   the ability to rearrange the posts in your profile grid. It had been available to
   some people in test groups,…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-08T23:58:30Z'

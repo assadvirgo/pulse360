@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Israel's PM says his country is holding fire "at the moment", after Iran's
   armed forces said they had stopped military action.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 79.2
 pubDate: '2026-06-08T22:47:29Z'

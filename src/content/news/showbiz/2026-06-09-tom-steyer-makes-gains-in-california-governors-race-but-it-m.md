@@ -5,7 +5,7 @@ countryCode: US
 description: Democrat Tom Steyer, still hoping to compete against Democrat Xavier
   Becerra in November&#8217;s California gubernatorial election, has made gains in
   the vote count, but it may…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 73.0
 pubDate: '2026-06-09T00:50:17Z'

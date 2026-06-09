@@ -5,7 +5,7 @@ countryCode: US
 description: Actress Jennifer Aniston’s boyfriend Jim Curtis has delisted his longtime
   New York City home after four months—and a few weeks after the couple marked their
   one-year anniversary.
-displayOrder: 23
+displayOrder: 32
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-09T09:03:00Z'

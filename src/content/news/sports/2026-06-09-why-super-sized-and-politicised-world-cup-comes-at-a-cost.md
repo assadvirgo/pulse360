@@ -2,7 +2,7 @@
 category: Sports
 description: Whatever one's perspective, it seems certain that away from the on-field
   spectacle, this super-sized World Cup could be among the most contentious ever.
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-09T05:57:24Z'

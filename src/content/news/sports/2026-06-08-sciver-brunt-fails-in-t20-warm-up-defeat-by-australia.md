@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England lose their first T20 World Cup warm-up to Australia by five wickets
   in Cardiff.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-08T17:46:45Z'

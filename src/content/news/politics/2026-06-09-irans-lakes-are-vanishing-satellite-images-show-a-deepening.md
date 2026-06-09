@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Years of drought, falling rainfall and unsustainable water use have been
   worsened further by the US-Israel war.
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-09T06:38:49Z'

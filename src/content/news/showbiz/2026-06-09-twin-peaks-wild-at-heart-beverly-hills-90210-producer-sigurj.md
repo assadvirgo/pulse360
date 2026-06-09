@@ -5,7 +5,7 @@ countryCode: CH
 description: The Iceland-born, U.S.-based film, TV and music video producer, who has
   also been behind Kathryn Bigelow and Jim Sheridan films, will he honored with the
   Raimondo Rezzonico Award.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-09T09:00:00Z'

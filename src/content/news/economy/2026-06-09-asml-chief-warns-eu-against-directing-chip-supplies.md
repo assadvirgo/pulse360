@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Industry needs ‘champions’, not intervention, says Christophe Fouquet,
   head of Europe’s biggest listed company
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-09T04:00:16Z'

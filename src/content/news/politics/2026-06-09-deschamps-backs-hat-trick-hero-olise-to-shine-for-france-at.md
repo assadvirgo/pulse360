@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Michael Olise starred alongside Kylian Mbappe, Ousmane Dembele and Desire
   Doue in 3-1 win against Northern Ireland.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-09T08:21:33Z'

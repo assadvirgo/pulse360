@@ -2,7 +2,7 @@
 category: Economy
 description: Blockbusters keep cinemas open and leave room for quirkier originals
   to thrive
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-09T04:00:25Z'

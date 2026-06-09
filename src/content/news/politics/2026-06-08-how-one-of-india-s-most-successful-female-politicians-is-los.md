@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Mamata Banerjee's once-dominant Trinamool Congress party is unravelling,
   weeks after losing power in West Bengal.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-08T22:44:28Z'
