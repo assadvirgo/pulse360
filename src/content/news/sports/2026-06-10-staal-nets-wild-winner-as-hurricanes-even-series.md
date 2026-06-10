@@ -5,7 +5,7 @@ countryCode: US
 description: Jordan Staal scored his second goal of the game while stretched out on
   his stomach at 6:32 of the third period to put the Hurricanes ahead for good in
   their 5-3 victory Tuesday…
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-10T06:11:07Z'

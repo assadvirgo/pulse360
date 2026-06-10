@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tehran says it targeted American military facilities in Jordan and Bahrain
   following latest barrage
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-10T03:42:34Z'

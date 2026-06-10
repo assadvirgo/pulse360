@@ -3,7 +3,7 @@ category: Tech
 description: Meta has been ordered by the European Commission to restore free WhatsApp
   access for chatbots made by rival AI providers while the regulator finishes its
   antitrust investigation.…
-displayOrder: 4
+displayOrder: 20
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-10T08:40:56Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The UN says Israeli security forces routinely accompany settlers and
   act as a shield for their violence.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-10T04:33:46Z'

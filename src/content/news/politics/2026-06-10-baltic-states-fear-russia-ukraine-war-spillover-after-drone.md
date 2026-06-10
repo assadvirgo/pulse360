@@ -4,7 +4,7 @@ country: Estonia
 countryCode: EE
 description: A spate of drone incursions fuels anxieties about a possible military
   conflict with Russia.
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-10T07:57:57Z'

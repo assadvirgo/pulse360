@@ -5,7 +5,7 @@ countryCode: US
 description: Logitech finally announced its new ultraportable travel mouse following
   leaked marketing images that spoiled the surprise last month. As the name implies,
   the Mobi Fold is a…
-displayOrder: 9
+displayOrder: 28
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-10T07:01:00Z'

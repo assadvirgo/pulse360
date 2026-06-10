@@ -5,7 +5,7 @@ countryCode: US
 description: Unlock massive discounts on Priceline hotels, flights, and rental cars.
   Find verified Priceline coupon codes and deals for Express Deals, student discounts,
   and more.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-10T05:00:00Z'

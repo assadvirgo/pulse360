@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: At least 11 people were killed on Sunday in clashes between police and
   protesters in Pakistan-administered Kashmir.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-09T22:03:45Z'

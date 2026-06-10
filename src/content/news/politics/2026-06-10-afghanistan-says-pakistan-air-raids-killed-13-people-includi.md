@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: No immediate comment from Pakistan as Taliban says 11 children are among
   the dead in strikes on border provinces.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-10T05:04:26Z'

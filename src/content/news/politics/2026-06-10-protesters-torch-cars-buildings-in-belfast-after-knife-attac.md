@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Unrest comes after a Sudanese man was arrested over a stabbing attack
   in north Belfast, UK.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-10T02:23:18Z'

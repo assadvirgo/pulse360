@@ -2,7 +2,7 @@
 category: Tech
 description: Save up to 87% with a Surfshark coupon code, 3 months of VPN free today,
   and more from WIRED.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-10T05:00:00Z'

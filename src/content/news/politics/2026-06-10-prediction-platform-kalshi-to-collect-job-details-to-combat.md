@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Prediction platform says it will seek employment information for markets
   at &#039;heightened&#039; risk of manipulation.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-10T06:26:20Z'

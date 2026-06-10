@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: The BBC travels with rebels to frontline positions in Myanmar to see
   how the war is unfolding.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-09T21:13:17Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump earlier accused Iran of shooting down the US helicopter
   over the Strait of Hormuz and vowed to respond.
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-10T05:29:47Z'

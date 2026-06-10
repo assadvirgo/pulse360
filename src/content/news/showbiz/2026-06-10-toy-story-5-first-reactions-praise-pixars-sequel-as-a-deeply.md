@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Toy Story 5&#8221; has finally been unveiled to members of the
   film press, and it appears Pixar&#8217;s long-running animated franchise remains
   in top form after 30 years.…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-06-10T04:23:03Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The country’s railway renewal is the first test of whether Europe’s largest
   economy can reverse years of decline
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-10T04:00:15Z'

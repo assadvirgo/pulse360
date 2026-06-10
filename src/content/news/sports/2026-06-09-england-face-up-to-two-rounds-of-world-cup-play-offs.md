@@ -5,7 +5,7 @@ countryCode: GB
 description: England beat Ukraine 3-0 on Tuesday night but it did not matter what
   they did as automatic qualification for the 2027 Women's World Cup was out of their
   hands.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-09T22:57:14Z'

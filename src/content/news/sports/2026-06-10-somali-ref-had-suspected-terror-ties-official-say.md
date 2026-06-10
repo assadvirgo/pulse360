@@ -5,7 +5,7 @@ countryCode: US
 description: A United States official said Tuesday night that Omar Artan, the Somalian
   referee who was denied entry into the country ahead of the World Cup, was refused
   admission due to…
-displayOrder: 3
+displayOrder: 18
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-10T06:11:07Z'

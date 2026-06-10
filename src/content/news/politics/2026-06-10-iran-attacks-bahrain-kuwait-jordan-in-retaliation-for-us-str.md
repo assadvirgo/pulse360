@@ -4,7 +4,7 @@ country: Bahrain
 countryCode: BH
 description: Strikes come after US attacked Iranian ports and islands in the Strait
   of Hormuz over the downing of a helicopter.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-10T02:58:08Z'

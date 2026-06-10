@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Police say a manhunt is under way for more than 10 suspects after the
   attack on an informal settlement.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-10T08:11:07Z'
