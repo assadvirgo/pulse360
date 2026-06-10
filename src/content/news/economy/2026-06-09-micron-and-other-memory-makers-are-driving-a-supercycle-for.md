@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Chip-equipment companies are getting unprecedented visibility into companies’
   supply plans, a UBS analyst says.
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-09T21:58:00Z'

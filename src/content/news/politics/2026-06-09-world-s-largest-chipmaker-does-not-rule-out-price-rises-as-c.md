@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: In a rare interview, a senior executive at TSMC discusses the AI boom,
   the geopolitics of chips and what it means for the price of electronics.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-09T22:00:24Z'

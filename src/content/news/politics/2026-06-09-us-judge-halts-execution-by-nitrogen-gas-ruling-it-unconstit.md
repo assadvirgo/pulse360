@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Judge Emily Marks had previously allowed the execution to proceed, arguing
   that no execution is entirely without pain.
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-09T23:06:39Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump accused Iran of shooting down a US Apache helicopter
   over the Strait of Hormuz
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-09T21:17:31Z'

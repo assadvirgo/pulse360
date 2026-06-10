@@ -5,7 +5,7 @@ countryCode: US
 description: President Trump&#8217;s roster of performers for a now-canceled event
   on the National Mall has fallen apart, but there is still a wide range of events
   and unique celebrations…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-10T00:03:24Z'

@@ -5,7 +5,7 @@ countryCode: HU
 description: A TV camera suspended by wires fell on to the pitch during Hungary's
   friendly against Kazakhstan at Nagyerdei Stadium in Debrecen, forcing a brief stoppage
   in play.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-09T22:13:45Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The fund is diversified and has been an excellent performer, highlighting
   the advantages of a closed-end structure.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-09T23:17:00Z'

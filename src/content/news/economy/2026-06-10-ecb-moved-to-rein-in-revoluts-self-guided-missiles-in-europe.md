@@ -2,7 +2,7 @@
 category: Economy
 description: Europe’s most valuable fintech was ordered to address ‘deficiencies’
   in oversight with staff encouraged to rapidly launch new financial products
-displayOrder: 26
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-10T04:00:26Z'

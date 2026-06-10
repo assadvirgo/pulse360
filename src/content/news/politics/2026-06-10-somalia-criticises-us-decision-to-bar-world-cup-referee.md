@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Somalia’s football federation says the US decision to deny entry to award-winning
   referee Omar Abdulkadir Artan
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-10T03:57:23Z'

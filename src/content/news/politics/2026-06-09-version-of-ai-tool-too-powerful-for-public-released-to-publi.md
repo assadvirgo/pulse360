@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program
   which caused a stir among technology, finance, and government leaders.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-09T18:35:59Z'
