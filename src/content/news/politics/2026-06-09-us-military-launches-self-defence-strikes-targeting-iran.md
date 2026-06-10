@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Central Command (CENTCOM) says its forces began launching ‘self-defence’
   strikes against Iran.
-displayOrder: 1
+displayOrder: 13
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-09T23:55:41Z'

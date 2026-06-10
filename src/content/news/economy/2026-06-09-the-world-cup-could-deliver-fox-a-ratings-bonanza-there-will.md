@@ -5,7 +5,7 @@ countryCode: US
 description: Viewership for previous World Cup finals was only a little higher than
   for a strong Monday Night Football game, but with matches on U.S. soil, media executives
   are hopeful this…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 44.5
 pubDate: '2026-06-09T16:31:00Z'

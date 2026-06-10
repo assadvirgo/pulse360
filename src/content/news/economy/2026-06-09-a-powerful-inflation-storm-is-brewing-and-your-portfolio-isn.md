@@ -2,7 +2,7 @@
 category: Economy
 description: Looming El Niño shock threatens to drive up global commodity prices.
   These investments can help protect your purchasing power.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-09T20:23:00Z'

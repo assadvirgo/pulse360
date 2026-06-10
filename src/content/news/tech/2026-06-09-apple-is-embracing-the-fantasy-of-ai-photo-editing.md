@@ -5,7 +5,7 @@ countryCode: US
 description: Apple used to question whether generative AI-powered editing features
   were worth the risk of distorting our perceptions of the world. Now it seems Apple
   no longer believes that…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-09T16:13:14Z'

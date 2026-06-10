@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Washington says attack is ‘proportional response to unjustified Iranian
   aggression’
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-09T21:31:44Z'

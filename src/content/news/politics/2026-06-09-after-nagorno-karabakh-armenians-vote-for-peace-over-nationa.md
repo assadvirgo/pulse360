@@ -4,7 +4,7 @@ country: Armenia
 countryCode: AM
 description: Nikol Pashinyan&#039;s victory suggests Russia&#039;s influence in the
   country is waning.
-displayOrder: 26
+displayOrder: 45
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-09T17:04:00Z'

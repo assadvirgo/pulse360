@@ -5,7 +5,7 @@ countryCode: US
 description: Former Biden administration official Shuwanza Goff is joining Paramount
   Skydance as VP of U.S. government affairs, coming amid Paramount&#8217;s massive
   pending merger with Warner…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-06-09T19:34:06Z'

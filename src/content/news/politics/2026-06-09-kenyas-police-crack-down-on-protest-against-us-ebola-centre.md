@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Protesters clash with police in Kenya as they march against a US-run
   Ebola quarantine centre near the town of Nanyuki.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-09T16:16:44Z'

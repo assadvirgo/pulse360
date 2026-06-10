@@ -3,7 +3,7 @@ category: Politics
 country: Pakistan
 countryCode: PK
 description: Recent clashes between protesters and police killed at least 11 people.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-09T19:31:31Z'

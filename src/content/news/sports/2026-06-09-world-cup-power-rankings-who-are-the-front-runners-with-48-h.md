@@ -3,7 +3,7 @@ category: Sports
 description: With just 48 hours until the 2026 World Cup begins, our reporters ranked
   the top 15 contenders for this summer's top prize as they see it. Did your national
   team make the cut?
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-09T20:38:23Z'

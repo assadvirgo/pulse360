@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: David Cameron’s former adviser to face Democrat Xavier Becerra on November
   ballot
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-10T00:07:48Z'

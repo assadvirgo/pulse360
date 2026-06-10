@@ -5,7 +5,7 @@ countryCode: IE
 description: Republic of Ireland manager Carla Ward reacts with pride to the World
   Cup qualifying campaign as her side fall just short of an automatic place at next
   year's tournament.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-09T21:43:06Z'

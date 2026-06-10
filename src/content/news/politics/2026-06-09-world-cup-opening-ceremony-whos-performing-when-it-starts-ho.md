@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 2026 World Cup begins with historic ceremonies across the US, Canada
   and Mexico, launching a record tournament.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 84.5
 pubDate: '2026-06-09T12:33:42Z'

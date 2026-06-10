@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: KMT chair calls for more dialogue between Taipei and Beijing in FT interview
   ahead of her visit to Washington
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-09T20:53:02Z'

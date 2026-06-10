@@ -5,7 +5,7 @@ countryCode: US
 description: We’re only a few days since the SwitchBot Smart E Ink Weather Station
   launched, and you can already save $25 on the smart home gadget. Visit Amazon and
   clip the on-page coupon to…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-09T16:55:54Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: US asset manager may face regulatory hurdles amid preference for domestic
   players
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-09T21:00:00Z'

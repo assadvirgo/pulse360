@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Final preparations are underway for the opening of the 2026 FIFA World
   Cup at Mexico City&#039;s Azteca Stadium.
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-09T17:51:30Z'

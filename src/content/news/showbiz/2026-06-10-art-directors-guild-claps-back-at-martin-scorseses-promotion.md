@@ -5,7 +5,7 @@ countryCode: US
 description: The union, which represents storyboard artists, said the helmer is “turning
   his back on the human artists who throughout his career have helped him create his
   most memorable…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-10T00:38:58Z'

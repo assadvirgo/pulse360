@@ -5,7 +5,7 @@ countryCode: US
 description: With referee Omar Artan denied entry to the United States and worries
   over staff and supporters being turned back, what does this tell us about the World
   Cup?
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-09T17:55:45Z'

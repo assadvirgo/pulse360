@@ -5,7 +5,7 @@ countryCode: US
 description: At an event in San Francisco today, General Motors made a series of announcements
   around EV batteries, energy storage, and grid resiliency in the face of growing
   electricity…
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-09T21:00:00Z'

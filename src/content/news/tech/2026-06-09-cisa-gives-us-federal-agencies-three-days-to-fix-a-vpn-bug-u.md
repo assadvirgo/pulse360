@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Check Point said hackers broke into dozens of organizations by exploiting
   a VPN bug in several of its products used across the government.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-09T17:40:08Z'
