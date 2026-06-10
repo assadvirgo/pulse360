@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: American president said Tehran downed Apache aircraft over Strait of
   Hormuz amid fragile ceasefire
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-09T17:46:19Z'

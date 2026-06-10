@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Given all the doubts around Adobe, it’s perhaps surprising that the company
   will likely go with an internal candidate to replace outgoing CEO Shantanu Narayen.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-09T20:21:00Z'

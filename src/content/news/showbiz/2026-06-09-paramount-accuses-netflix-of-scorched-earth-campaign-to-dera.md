@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount has slammed rival Netflix in a letter to the Department of
   Justice for campaiging against the Warner Bros. Discovery merger amid regulatory
   review of the deal the David…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-09T16:09:26Z'

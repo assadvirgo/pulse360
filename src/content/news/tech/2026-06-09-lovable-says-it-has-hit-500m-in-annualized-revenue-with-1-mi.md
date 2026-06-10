@@ -2,7 +2,7 @@
 category: Tech
 description: Lovable says it has now surpassed $500 million in annualized run-rate
   revenue and its users are building businesses and replacing internal software.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-09T13:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Inflation is pulling rich buyers and struggling renters in different
   directions in housing market.
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-09T20:00:00Z'

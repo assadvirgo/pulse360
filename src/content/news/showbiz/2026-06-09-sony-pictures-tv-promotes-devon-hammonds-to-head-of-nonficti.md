@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Devon Hammonds is taking a step up after Sony Pictures Television
   restructured one of its unscripted divisions. The studio promoted Hammonds to Head
   of Nonfiction. This…'
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 70.0
 pubDate: '2026-06-09T20:36:00Z'

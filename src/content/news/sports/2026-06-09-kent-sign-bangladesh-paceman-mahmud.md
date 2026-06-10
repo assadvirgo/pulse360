@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Kent sign Bangladesh fast bowler Hasan Mahmud for six of their remaining
   eight County Championship matches.
-displayOrder: 35
+displayOrder: 50
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-09T11:48:57Z'

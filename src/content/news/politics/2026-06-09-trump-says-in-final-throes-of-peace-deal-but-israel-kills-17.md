@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president warned Netanyahu he would be on his own if attacks continue
   after Israel and Iran paused fighting.
-displayOrder: 11
+displayOrder: 25
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-09T13:41:52Z'

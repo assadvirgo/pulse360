@@ -3,7 +3,7 @@ category: Showbiz
 description: 'Netflix&#8217;s &#8220;Michael Jackson: The Verdict,&#8221; a docuseries
   that revisits the King of Pop&#8217;s 2005 trial, debuted at the top of the TV charts
   with 17.8 million…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-09T19:28:17Z'

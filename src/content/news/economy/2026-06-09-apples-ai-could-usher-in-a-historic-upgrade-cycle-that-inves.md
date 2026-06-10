@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple’s new AI features are on track to be monetized faster than expected,
   thanks to increased hardware requirements and new “killer apps.”
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-09T16:08:00Z'

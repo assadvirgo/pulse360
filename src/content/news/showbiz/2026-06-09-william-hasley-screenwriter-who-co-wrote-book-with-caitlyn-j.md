@@ -5,7 +5,7 @@ countryCode: US
 description: William Hasley, a writer who worked on TV series including &#8220;The
   Smurfs&#8221; and co-wrote an inspirational book with Caitlyn Jenner, has been identified
   as the hiker who…
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-09T19:59:31Z'

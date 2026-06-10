@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: All the news on the teams, lineups and start time as Portugal complete
   their World Cup preparations against Nigeria.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-09T16:07:24Z'

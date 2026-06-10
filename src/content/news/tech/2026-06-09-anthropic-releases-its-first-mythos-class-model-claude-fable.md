@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic just announced Claude Fable 5, a new AI model it said is the
   most powerful model it has ever made widely available. According to the company,
   Fable 5 "shows exceptional…
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-09T17:00:00Z'

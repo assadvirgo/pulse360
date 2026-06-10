@@ -5,7 +5,7 @@ countryCode: US
 description: Somali referee Omar Artan says he was subjected to an 11-hour immigration
   interview before being denied entry to the United States for the World Cup despite
   holding the "right…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-09T13:43:54Z'

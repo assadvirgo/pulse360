@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s second intensification of its war on Lebanon within two
   years has reached 100 days, killing thousands.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-09T10:37:40Z'
