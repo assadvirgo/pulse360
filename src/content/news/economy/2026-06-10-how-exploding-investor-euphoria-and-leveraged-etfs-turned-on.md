@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A Barclays strategist explains why it’s time to turn cautious on U.S.
   stocks, and what it will take for him to turn bullish again.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-10T12:49:00Z'

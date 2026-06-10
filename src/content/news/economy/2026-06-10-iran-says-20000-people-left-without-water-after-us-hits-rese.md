@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Washington says its jets targeted air defence and radar sites after Iranian
   forces downed American helicopter
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-10T11:51:47Z'

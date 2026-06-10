@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon&#039;s many powerful parties reflect the country&#039;s social,
   sectarian, and political divides.
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-10T14:46:05Z'

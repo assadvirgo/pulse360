@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The tech giant has now raised over $80 billion in external financing
   this year alone, with no signs of slowing down.
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-10T16:52:00Z'

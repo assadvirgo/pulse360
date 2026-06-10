@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Figure marks new three-year high
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-10T12:31:11Z'

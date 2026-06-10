@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Nine of them were killed in a series of attacks in the town of Tayr Debba,
   according to Lebanon's state news agency.
-displayOrder: 27
+displayOrder: 36
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-10T14:44:49Z'

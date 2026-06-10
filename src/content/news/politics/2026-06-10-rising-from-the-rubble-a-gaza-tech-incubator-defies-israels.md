@@ -2,7 +2,7 @@
 category: Politics
 description: Israel&#039;s war on Gaza has decimated the tech sector, killing experts
   and destroying incubators that offered opportunity.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-10T08:27:28Z'

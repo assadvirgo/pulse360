@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Pakistan launched new airstrikes in Afghanistan after months of fighting
   between the two neighbours that killed hundreds.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-10T10:53:00Z'

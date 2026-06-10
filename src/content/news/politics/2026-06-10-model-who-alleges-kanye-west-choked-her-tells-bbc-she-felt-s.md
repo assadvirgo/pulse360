@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: West claims the encounter on a music video set was part of a "provocative
   theatrical performance".
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 72.2
 pubDate: '2026-06-10T05:02:46Z'

@@ -5,7 +5,7 @@ countryCode: AR
 description: Julian Alvarez heads to the World Cup aiming to fire Argentina to back-to-back
   triumphs at a time when he is the subject of one the most sensational transfer bids
   ever made.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-10T12:43:44Z'

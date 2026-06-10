@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Omar Artan vows to officiate at the 2030 tournament instead, following
   his ban from entering the US.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-10T14:08:28Z'

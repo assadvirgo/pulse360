@@ -5,7 +5,7 @@ countryCode: US
 description: After over a decade, Steam will no longer sell physical gift cards in
   stores. In a support page spotted earlier by Windows Central, Valve says it will
   no longer restock its gift…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-10T14:10:38Z'

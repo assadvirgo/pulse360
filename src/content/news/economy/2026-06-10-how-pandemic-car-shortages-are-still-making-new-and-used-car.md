@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pandemic-era shortages are still pushing up used car prices, and automakers
   learned lessons from that time that stands to keep supply tight
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-10T15:54:52Z'

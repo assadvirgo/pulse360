@@ -3,7 +3,7 @@ category: Showbiz
 description: The European Union’s regulatory arm is investigating Paramount Skydance’s
   proposed Warner Bros. Discovery megamerger over the financial backing of three Middle
   Eastern sovereign…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-10T13:04:24Z'

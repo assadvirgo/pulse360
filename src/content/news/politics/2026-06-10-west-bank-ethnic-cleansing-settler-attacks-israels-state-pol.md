@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel uses war crimes to accelerate &#039;annexation agenda and settlement
   expansion&#039; in occupied land, rights group says.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-10T12:55:23Z'

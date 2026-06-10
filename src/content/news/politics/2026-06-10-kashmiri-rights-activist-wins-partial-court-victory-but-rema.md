@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The Delhi High Court grants bail to Kashmiri rights activist Khurram
   Parvez, jailed in India for nearly five years.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-10T12:18:41Z'

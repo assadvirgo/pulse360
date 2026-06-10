@@ -5,7 +5,7 @@ countryCode: US
 description: Over 15 years after David Fincher and Aaron Sorkin's The Social Network
   premiered in theaters, Sony has released the first trailer for The Social Reckoning
   ahead of its theatrical…
-displayOrder: 13
+displayOrder: 21
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-10T14:02:44Z'

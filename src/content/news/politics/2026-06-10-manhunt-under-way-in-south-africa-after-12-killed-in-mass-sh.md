@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Another nine people were injured at an informal settlement in Cleveland
   late on Tuesday.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-10T10:26:54Z'
