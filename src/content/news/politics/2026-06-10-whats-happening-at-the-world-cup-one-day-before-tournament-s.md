@@ -2,7 +2,7 @@
 category: Politics
 description: Political issues continue to dominate the build-up, with the US-Israel
   war on Iran overshadowing the World Cup.
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-10T11:40:15Z'

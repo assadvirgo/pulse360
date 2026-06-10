@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Everyday investors — like a Star Trek fan, an accountant and an engineer
   — buy satellite imagery, track planes and visit rocket-launch sites
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-10T12:53:00Z'

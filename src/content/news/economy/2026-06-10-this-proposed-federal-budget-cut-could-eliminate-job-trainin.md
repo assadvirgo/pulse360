@@ -5,7 +5,7 @@ countryCode: US
 description: A job-training program for low-income older adults is set to lose funding
   under President Donald Trump’s proposed budget for 2027 — just as more stringent
   work requirements for…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-10T01:31:00Z'

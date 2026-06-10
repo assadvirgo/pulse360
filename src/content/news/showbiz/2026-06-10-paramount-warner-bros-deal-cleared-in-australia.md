@@ -5,7 +5,7 @@ countryCode: AU
 description: The mega-merger is "unlikely to have the effect of substantially lessening
   competition in relation to the wholesale supply of films for theatrical release
   in Australia."
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-10T10:25:36Z'

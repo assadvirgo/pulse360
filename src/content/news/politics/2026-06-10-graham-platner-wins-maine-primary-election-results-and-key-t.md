@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Platner wins in Maine, Republican Nancy Mace loses in S Carolina. Results
   for Nevada and North Carolina also announced.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-10T10:22:43Z'

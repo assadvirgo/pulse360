@@ -3,7 +3,7 @@ category: Tech
 description: Decart is launching Oasis 3, a real-time world model that generates photorealistic
   driving environments for autonomous vehicle testing, now available via API for developers
   to…
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-10T13:07:56Z'

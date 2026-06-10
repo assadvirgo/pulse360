@@ -2,7 +2,7 @@
 category: Politics
 description: Qualified teams, groups, schedule and snapshot of stadiums that will
   host World Cup matches.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-10T07:57:54Z'

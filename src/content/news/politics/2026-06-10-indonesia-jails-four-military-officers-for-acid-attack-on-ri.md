@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Prosecutors argued in court that the soldiers were motivated by anger
   over Yunus’s activism.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-10T06:54:09Z'

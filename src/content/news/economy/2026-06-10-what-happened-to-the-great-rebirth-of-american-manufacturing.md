@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Skills shortages, shifting tariffs and complex permitting processes are
   major barriers
-displayOrder: 44
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-10T11:00:07Z'

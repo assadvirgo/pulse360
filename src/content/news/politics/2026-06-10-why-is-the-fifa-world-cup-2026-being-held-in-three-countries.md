@@ -2,7 +2,7 @@
 category: Politics
 description: The 2026 World Cup is the first to be held in three different host nations
   - but why? Al Jazeera explains.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-10T09:57:57Z'
