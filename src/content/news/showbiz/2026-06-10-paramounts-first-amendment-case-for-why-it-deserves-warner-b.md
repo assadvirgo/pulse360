@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As attorneys general aim to challenge the merger, David Ellison’s team
   is leaning on a free speech theory to help cross the finish line.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-06-10T16:27:18Z'

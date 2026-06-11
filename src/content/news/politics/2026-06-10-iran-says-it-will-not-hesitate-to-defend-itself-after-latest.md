@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran’s Foreign Ministry said overnight clashes in the Gulf between Tehran
   and Washington showed how Iran will respond.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-10T18:38:23Z'

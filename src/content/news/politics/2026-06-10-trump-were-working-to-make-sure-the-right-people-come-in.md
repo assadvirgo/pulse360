@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: When asked about people’s ability to obtain visas to attend the World
   Cup, Trump said administration is working hard.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-10T19:21:21Z'

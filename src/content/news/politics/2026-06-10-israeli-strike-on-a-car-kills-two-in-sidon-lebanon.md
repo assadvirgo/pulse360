@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: An Israeli strike on a vehicle in the southern Lebanese city of Sidon
   killed two people and sparked a fire.
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-10T19:23:23Z'

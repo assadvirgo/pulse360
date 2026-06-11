@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Four Brazilian players and four members of their coaching staff were
   sent off during a dramatic encounter in Fortaleza.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-10T13:36:58Z'

@@ -5,7 +5,7 @@ countryCode: SO
 description: Referee Omar Artan arrives back in Somalia after being denied entry to
   the United States for the World Cup because of his "association with suspected members
   of terror…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-10T14:40:38Z'

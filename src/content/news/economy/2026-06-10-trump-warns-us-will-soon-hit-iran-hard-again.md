@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President’s remarks come after countries exchange fire following downing
   of American helicopter
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-10T16:25:03Z'

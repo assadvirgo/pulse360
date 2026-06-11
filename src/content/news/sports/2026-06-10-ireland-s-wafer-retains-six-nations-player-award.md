@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Ireland forward Aoife Wafer is named the Women's Six Nations Player of
   the Championship for the second year in a row.
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-10T16:41:38Z'

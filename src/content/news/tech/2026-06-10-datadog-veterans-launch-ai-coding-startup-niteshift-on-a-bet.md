@@ -5,7 +5,7 @@ countryCode: US
 description: AI coding agent startup Niteshift has raised a $7 million seed round
   from a who's who of angels. It's betting companies will want power over, not lock-in
   with model makers.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-10T15:00:00Z'
