@@ -5,7 +5,7 @@ countryCode: US
 description: The decision by FIFA to nearly double the size of the World Cup has not
   drawn universal praise, but it is an undeniable boost to U.S. media rights holders
   Fox and Telemundo. The…
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-10T20:38:49Z'

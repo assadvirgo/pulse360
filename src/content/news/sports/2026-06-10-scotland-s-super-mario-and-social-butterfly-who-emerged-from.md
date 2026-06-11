@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: From unappreciated at Manchester United to idolised at Scotland and Napoli
   - but who is the real Scott McTominay?
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-10T14:38:32Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Poland is threatening to strip Ukraine's president of a state honour
   over the naming Ukrainian military unit after controversial World War Two fighters.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 79.2
 pubDate: '2026-06-10T09:57:20Z'

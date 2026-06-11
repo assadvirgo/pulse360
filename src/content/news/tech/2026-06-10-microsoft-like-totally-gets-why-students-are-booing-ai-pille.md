@@ -5,7 +5,7 @@ countryCode: US
 description: New college graduates around the country have been booing and heckling
   commencement speakers who hype up AI. Microsoft would like everyone to talk it out.
   In a blog post running…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 72.2
 pubDate: '2026-06-10T17:45:11Z'

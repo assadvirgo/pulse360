@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: As elections near, Israel&#039;s PM finds himself squeezed between his
   voters, his allies, and his opponents.
-displayOrder: 17
+displayOrder: 28
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-10T11:57:49Z'

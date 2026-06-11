@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon has launched a new feature for its Echo and Echo Kids smart speakers
   called Sleep Studio that's designed to make the daily transition to bedtime more
   enticing for kids and…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-10T16:54:17Z'

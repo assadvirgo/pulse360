@@ -3,7 +3,7 @@ category: Showbiz
 description: 'SPOILER ALERT: This post contains spoilers for the finale of Every Year
   After. Charlie Florek’s (Michael Bradway) redemption arc is loading. In the final
   moments of the season one…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-10T20:00:00Z'

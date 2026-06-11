@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: A manhunt is underway for at least 10 suspects in a mass shooting that
   left 12 people dead near Johannesburg.
-displayOrder: 30
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-10T16:30:54Z'

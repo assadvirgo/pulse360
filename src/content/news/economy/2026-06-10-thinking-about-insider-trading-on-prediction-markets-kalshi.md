@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Prediction-market companies are identifying hundreds of cases of suspected
   insider trading.
-displayOrder: 40
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-10T19:32:00Z'

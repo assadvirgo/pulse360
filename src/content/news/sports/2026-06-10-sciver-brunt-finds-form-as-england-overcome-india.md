@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Nat Sciver-Brunt spends valuable time in the middle as England beat India
   in their final warm-up match before the Women's T20 World Cup starts on Friday.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-10T13:59:07Z'

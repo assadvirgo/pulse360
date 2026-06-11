@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Campaigners argue that sanctions reflect a need to manage public anger
   rather than a genuine shift in state policy.
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-10T15:30:42Z'

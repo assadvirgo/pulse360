@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The stock market typically performs well leading up to and during periods
   when companies are issuing new stocks, according to Deutsche Bank.
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-10T20:16:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Microsoft co-founder spent hours talking to lawmakers behind closed
   doors, where he also said Epstein used his marital infidelities to pressure him.
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-10T19:31:24Z'

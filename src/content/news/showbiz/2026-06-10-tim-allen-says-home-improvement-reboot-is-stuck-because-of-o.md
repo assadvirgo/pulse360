@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Toy Story 5&#8221; star Tim Allen says a &#8220;Home Improvement&#8221;
   reboot is not likely at the moment due to &#8220;personality problems&#8221; with
   the actors who…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-10T19:38:45Z'

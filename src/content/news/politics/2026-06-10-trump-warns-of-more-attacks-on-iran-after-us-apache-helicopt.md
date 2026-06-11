@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Trump warns of more attacks on Iran after US Apache helicopter downing
-displayOrder: 19
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-10T18:22:13Z'

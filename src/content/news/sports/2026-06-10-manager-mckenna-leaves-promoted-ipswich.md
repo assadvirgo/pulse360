@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ipswich Town announce that Kieran McKenna has decided to resign, before
   the club's Premier League campaign.
-displayOrder: 23
+displayOrder: 31
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-10T17:13:51Z'

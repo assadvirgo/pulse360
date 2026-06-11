@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Another new face is coming to Baywatch. John Beckwith (Song
   Sung Blue) has booked a heavily recurring role opposite Jessica Belkin on Fox&#8217;s
   upcoming reboot of the…'
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-10T20:30:00Z'
