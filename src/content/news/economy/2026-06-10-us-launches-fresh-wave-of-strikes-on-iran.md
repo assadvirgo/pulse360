@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tehran announces Strait of Hormuz will be closed ‘until further notice’
   in response to American operation
-displayOrder: 28
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-10T23:37:18Z'

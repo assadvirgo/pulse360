@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: Hundreds gathered in eastern Afghanistan for the funerals of civilians
   killed in Pakistani airstrikes.
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-11T05:00:17Z'

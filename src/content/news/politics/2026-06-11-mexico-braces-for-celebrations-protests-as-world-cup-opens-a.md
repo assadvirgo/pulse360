@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: President Sheinbaum promises safe World Cup as host cities ramp up security
   after cartel violence scare and protests.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-11T00:14:52Z'

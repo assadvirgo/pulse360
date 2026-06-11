@@ -3,7 +3,7 @@ category: Economy
 country: Germany
 countryCode: DE
 description: Collapse of €100bn project with France leaves countries at a crossroads
-displayOrder: 26
+displayOrder: 32
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-11T04:00:38Z'

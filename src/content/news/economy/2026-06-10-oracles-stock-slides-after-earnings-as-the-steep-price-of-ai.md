@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oracle blew past earnings expectations and grew its contract pipeline
   to $638 billion, but Wall Street is concerned about its rising AI costs.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-10T23:17:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Apple's new Siri AI is finally here, and so far, it seems like it works.
   I have access and have been messing around with it, and my biggest impression so
   far is that Siri AI is…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-10T22:52:17Z'

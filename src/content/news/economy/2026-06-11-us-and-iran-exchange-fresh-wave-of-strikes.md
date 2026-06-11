@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oil price rises as Washington and Tehran send mixed signals over status
   of the Strait of Hormuz
-displayOrder: 32
+displayOrder: 36
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-11T04:11:52Z'

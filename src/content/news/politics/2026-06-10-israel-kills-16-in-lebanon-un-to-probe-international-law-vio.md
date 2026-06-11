@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: UN investigators to arrive in Lebanon next week to assess potential violations
   of international law by all parties.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-10T20:46:39Z'

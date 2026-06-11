@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian officials say the Strait of Hormuz has been closed in response
   to US strikes.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-11T01:18:55Z'

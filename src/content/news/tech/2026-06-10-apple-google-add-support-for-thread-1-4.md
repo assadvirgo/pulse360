@@ -5,7 +5,7 @@ countryCode: US
 description: Apple and Google are updating their smart home streaming devices to Thread
   1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived
   on compatible Apple…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-10T20:25:46Z'

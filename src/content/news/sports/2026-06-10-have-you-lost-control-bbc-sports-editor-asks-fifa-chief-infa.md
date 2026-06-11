@@ -3,7 +3,7 @@ category: Sports
 description: BBC sports editor Dan Roan quizzes Fifa president Gianni Infantino on
   the eve of the World Cup, after he told journalists to "chill" and "relax" over
   visa and ticketing issues.
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-10T20:59:00Z'

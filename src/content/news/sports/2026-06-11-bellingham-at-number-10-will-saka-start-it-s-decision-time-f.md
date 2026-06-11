@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England's World Cup preparations are complete, so who will now make it
   into Thomas Tuchel's team to face Croatia?
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-11T00:45:16Z'
