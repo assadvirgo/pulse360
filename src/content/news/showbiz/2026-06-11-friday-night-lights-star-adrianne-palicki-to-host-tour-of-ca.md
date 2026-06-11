@@ -5,7 +5,7 @@ countryCode: US
 description: Plex and ATX TV are taking &#8220;Friday Night Lights&#8221; on the road
   to celebrate the 20th anniversary of the drama. Across five cities, cast members
   will come together for…
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-11T13:00:00Z'

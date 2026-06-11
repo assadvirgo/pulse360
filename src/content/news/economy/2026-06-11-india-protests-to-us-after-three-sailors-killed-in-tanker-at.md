@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: New Delhi calls for ‘de-escalation’ in Gulf but appears to have little
   appetite for diplomatic confrontation with Washington
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-11T13:00:59Z'

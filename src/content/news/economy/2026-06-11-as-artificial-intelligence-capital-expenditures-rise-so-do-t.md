@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Forecasts of $920 billion in AI-related capex in 2027 are likely too
   conservative.
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-11T11:56:00Z'

@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: The August 2015 attack at the popular Erawan shrine in Bangkok&#039;s
   commercial heart killed 20 and wounded over 100 more.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-11T06:19:11Z'

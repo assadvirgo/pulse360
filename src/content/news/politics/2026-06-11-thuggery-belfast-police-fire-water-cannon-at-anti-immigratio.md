@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Far-right anti-immigration demonstrations in Northern Ireland turn violent
   for a second night after stabbing attack.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-11T08:13:19Z'

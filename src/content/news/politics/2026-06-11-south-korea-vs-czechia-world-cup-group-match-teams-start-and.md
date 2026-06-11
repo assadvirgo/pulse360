@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Asian giants South Korea face two-time runners-up Czechia in the second
   match of the opening day of World Cup 2026.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-11T08:16:06Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Climate change-induced weather events are pushing orangutan populations
   to extinction, says a study.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-11T03:50:22Z'

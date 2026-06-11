@@ -5,7 +5,7 @@ countryCode: US
 description: Surging airfares have made it harder for price-conscious travelers to
   justify summer vacations in Europe — and many are opting to travel within the U.S.
   instead.
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-11T12:30:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The strait is a crucial maritime route, through which 20 percent of global
   oil and natural gas is shipped in peacetime.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-11T12:57:11Z'

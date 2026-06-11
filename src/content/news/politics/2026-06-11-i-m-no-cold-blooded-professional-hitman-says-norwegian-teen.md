@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: A Norwegian teenager accused of flying to the UK to assassinate a stranger
   for money has told a court he's "no cold-blooded professional hitman".
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-11T11:18:00Z'

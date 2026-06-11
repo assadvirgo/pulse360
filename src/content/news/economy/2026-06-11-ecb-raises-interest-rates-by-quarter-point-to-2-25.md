@@ -2,7 +2,7 @@
 category: Economy
 description: Central bank is first in G7 to increase borrowing costs in response to
   Middle East energy crisis
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-11T12:16:56Z'

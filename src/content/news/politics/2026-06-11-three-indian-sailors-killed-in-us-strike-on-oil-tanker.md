@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: A US strike on an oil tanker accused of transporting Iranian oil has
   killed three Indian sailors.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-11T10:02:03Z'

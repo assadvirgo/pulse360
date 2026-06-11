@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: The Doctor is famed for having powers of regeneration, but
   the shape-shifting Time Lord&#8217;s next transformation could well be the most
   challenging yet. That&#8217;s…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-11T10:37:45Z'

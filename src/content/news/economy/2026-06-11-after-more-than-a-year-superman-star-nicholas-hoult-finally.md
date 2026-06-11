@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The actor was forced to take a rather hefty loss on the sale of the Hollywood
   Hills home, which he purchased for $2.33 million in 2018.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-11T09:01:00Z'

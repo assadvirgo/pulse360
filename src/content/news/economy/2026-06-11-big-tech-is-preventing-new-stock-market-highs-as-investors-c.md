@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nomura’s Charlie McElligott says investors are finally waking up to the
   problems with a market that is too concentrated on AI leadership.
-displayOrder: 21
+displayOrder: 34
 heroImage: ''
 importance: 44.5
 pubDate: '2026-06-11T12:39:00Z'
