@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Gaza paediatrician appears by video link in Israeli court, as lawyer
   and family demand release, fearing for his life.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-11T11:08:14Z'

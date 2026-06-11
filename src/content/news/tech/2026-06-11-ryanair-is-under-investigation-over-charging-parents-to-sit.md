@@ -5,7 +5,7 @@ countryCode: GB
 description: European economy airline Ryanair is under investigation in the UK for
   charging parents mandatory fees to sit with their children. The Competition and
   Markets Authority (CMA) said…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-11T08:59:16Z'

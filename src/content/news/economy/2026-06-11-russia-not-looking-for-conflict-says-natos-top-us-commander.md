@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: General Grynkewich’s remarks come as Washington withdraws key assets
   from Europe
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-11T13:24:48Z'

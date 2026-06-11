@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Fund will provide humanitarian support to Palestinians, crack down on
   Israeli settlers and support Gaza peace plan.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-11T08:59:25Z'

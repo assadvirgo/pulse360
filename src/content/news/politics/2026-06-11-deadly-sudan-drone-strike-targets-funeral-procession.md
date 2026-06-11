@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Rights groups accuse the RSF paramilitary group of killing civilians
   in el-Obeid, a city on the civil war's front line.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-11T15:57:04Z'

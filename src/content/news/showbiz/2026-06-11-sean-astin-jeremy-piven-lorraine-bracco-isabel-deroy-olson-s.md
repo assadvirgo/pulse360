@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: The Lord of the Rings actor and SAG-AFTRA President Sean
   Astin is starring with Jeremy Piven (Entourage), Lorraine Bracco (The Sopranos)
   and Isabel DeRoy-Olson (Three…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-11T15:20:00Z'

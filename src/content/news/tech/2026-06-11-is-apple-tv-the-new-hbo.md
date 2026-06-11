@@ -5,7 +5,7 @@ countryCode: US
 description: This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving
   intersection of tech and entertainment, syndicated just for The Verge subscribers
   once a week. Severance.…
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-11T15:30:00Z'

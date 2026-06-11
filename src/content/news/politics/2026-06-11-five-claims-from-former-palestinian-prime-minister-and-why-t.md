@@ -2,7 +2,7 @@
 category: Politics
 description: We spent an hour talking to former Palestinian prime minister Mohammad
   Shtayyeh, who is one of the most influential voices in the West Bank.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-11T14:41:00Z'

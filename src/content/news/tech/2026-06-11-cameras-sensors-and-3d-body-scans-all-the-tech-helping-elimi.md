@@ -3,7 +3,7 @@ category: Tech
 description: Soccer officials already rely on cameras to see who’s offside and who
   sent the ball out of bounds. But during this World Cup, refs will use digital twins
   of each player to view…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-11T10:00:00Z'

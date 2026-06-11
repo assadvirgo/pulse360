@@ -5,7 +5,7 @@ countryCode: AU
 description: EXCLUSIVE:&#160;Australian genre filmmaker Ben Young (Hounds of Love)
   is set to direct a feature adaptation of &#8220;Mister Yummy,&#8221; a short story
   by Stephen King from his…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-11T16:32:10Z'

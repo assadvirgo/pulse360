@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Pope Leo will meet with about 1,000 migrants on Friday who have braved
   dangerous Atlantic waters to reach Europe.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-11T12:55:19Z'

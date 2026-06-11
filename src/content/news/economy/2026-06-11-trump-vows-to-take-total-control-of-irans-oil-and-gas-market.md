@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says American forces will also seize control of key export
   hub Kharg Island
-displayOrder: 31
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-11T16:10:46Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries
   as the world&#039;s largest reserve asset.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-11T16:40:00Z'

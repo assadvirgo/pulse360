@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: A massive 850-square-meter street mural of football star Neymar da Silva
   has been unveiled in Brazil&#039;s Novo Hamburgo.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-11T12:04:40Z'

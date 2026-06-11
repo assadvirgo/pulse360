@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A large portion of IPO shares will be allocated to retail investors,
   but they face penalties if they sell too soon.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-11T12:51:00Z'
