@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran remains defiant amid US attacks, orders complete closure of Strait
   of Hormuz to all vessels.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-11T00:00:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Chief diplomat Kaja Kallas and her EEAS are in capitals’ crosshairs over
   leadership and co-ordination issues
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-11T04:00:27Z'

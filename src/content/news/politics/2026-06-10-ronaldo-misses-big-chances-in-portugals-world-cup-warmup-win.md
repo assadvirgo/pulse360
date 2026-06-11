@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Portugal beat Nigeria 2-1 as Pedro Neto and Francisco Conceicao net,
   but Cristiano Ronaldo scuffs golden chances.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-10T22:18:22Z'

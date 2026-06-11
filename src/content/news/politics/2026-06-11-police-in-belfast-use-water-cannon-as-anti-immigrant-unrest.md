@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Clashes come as family of knife attack victim calls for calm and condemns
   violence targeting immigrants.
-displayOrder: 17
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-11T03:48:10Z'

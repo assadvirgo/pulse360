@@ -5,7 +5,7 @@ countryCode: DE
 description: 'EXCLUSIVE: The producers behind Prime Video’s raunchy new German drama
   Game of Keys have called on creatives to work with intimacy co-ordinators from an
   earlier stage in the…'
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 70.0
 pubDate: '2026-06-11T08:30:42Z'

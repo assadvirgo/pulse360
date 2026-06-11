@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The Israel-Iran ceasefire may be holding, but for many in Lebanon, the
   war continues.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-10T18:54:40Z'

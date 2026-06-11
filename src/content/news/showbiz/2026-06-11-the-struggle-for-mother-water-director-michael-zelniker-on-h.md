@@ -5,7 +5,7 @@ countryCode: CA
 description: Canadian filmmaker Michael Zelniker, who will receive the Taormina Film
   Festival&#8217;s Special Sustainability Award on Thursday evening, is on a mission
   to try and heal the…
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-11T09:23:32Z'

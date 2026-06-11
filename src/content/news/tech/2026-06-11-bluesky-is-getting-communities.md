@@ -3,7 +3,7 @@ category: Tech
 description: Bluesky will be getting "communities," which will function as smaller
   spaces where you can "go deeper and hang out with people who care about the same
   stuff" sometime this year,…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-11T00:05:48Z'

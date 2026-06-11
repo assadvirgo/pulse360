@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Abrupt scrapping of two sets of planned talks in Beijing comes as tensions
   grow between trade superpowers
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-11T04:00:28Z'

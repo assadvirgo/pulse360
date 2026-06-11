@@ -5,7 +5,7 @@ countryCode: US
 description: Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning
   that automation and AI would hollow out the labor market and concentrate wealth
   in the hands of a few. At…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-06-10T22:24:12Z'

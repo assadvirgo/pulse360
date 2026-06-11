@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Data protection watchdog says e-commerce giant failed to implement safety
   measures and delayed reporting breach.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-11T04:48:35Z'

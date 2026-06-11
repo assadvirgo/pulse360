@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: During his visit, the Pope will appeal for a humane approach and respectful
   welcome for migrants seeking a better life.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-11T07:02:16Z'

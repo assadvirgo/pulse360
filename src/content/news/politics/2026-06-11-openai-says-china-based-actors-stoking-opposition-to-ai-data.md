@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI company says ChatGPT accounts sought to &#039;exploit and amplify
   existing public concerns&#039; about energy prices.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-11T03:59:30Z'
