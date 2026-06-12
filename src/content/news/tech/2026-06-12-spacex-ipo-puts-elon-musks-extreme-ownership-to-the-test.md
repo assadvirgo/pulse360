@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The rocket maker debuts on Nasdaq today under a wave of criticism about
   Musk’s near-absolute control. It’s how the company has worked from the start.
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-12T09:00:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The International Rescue Committee warns that people displaced by Israeli
   attacks in Lebanon are at &#039;breaking point&#039;.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-12T00:00:00Z'

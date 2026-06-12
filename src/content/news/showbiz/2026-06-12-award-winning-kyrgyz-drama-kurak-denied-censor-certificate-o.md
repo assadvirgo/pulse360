@@ -5,7 +5,7 @@ countryCode: KG
 description: 'EXCLUSIVE: Kyrgyz drama Kurak, directed by Erke Dzhumakmatova and Emil
   Atageldiev, has been denied a censor certificate in its home country, forcing the
   film to withdraw from the…'
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-12T06:55:00Z'

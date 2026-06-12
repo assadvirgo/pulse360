@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Charlotte Edwards' first true test and a chance to correct a missed opportunity
   - the 2026 T20 World Cup is a crucial moment for England.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-12T07:32:38Z'

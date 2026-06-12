@@ -3,7 +3,7 @@ category: Showbiz
 description: The Sony Future Filmmaker Awards, which aim to highlight outstanding
   original talents and help their film careers, have revealed the 2026 winners for
   their fourth annual edition.…
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-12T04:30:00Z'

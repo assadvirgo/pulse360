@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: North America&#039;s two other cohosts take centre stage on Friday as
   Canada and the US begin their FIFA World Cup campaigns.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-12T07:03:10Z'

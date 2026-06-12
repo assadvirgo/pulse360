@@ -4,7 +4,7 @@ country: Bosnia and Herzegovina
 countryCode: BA
 description: As Bosnia and Herzegovina prepare to face Canada in their 2026 World
   Cup opener, all eyes will be on Esmir Bajraktarevic
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-12T02:42:41Z'

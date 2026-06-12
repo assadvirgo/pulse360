@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: A star-studded opening ceremony featured artists from the World Cup's
   official soundtrack.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-11T20:26:06Z'

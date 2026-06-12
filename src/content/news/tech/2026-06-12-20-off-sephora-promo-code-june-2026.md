@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: Earn more points on skincare purchases when you use our Sephora coupon.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-12T05:00:00Z'

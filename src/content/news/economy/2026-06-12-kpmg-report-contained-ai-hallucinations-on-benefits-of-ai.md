@@ -2,7 +2,7 @@
 category: Economy
 description: Bogus case studies on UBS and transit systems exaggerated adoption of
   the technology
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-12T04:00:22Z'

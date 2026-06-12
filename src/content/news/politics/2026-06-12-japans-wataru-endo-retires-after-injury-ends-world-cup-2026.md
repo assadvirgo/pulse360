@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Midfielder and captain quits after failing to recover from foot injury
   ahead of Japan&#039;s game against the Netherlands.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-12T00:24:51Z'

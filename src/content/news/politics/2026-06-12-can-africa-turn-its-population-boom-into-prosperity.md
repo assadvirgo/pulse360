@@ -2,7 +2,7 @@
 category: Politics
 description: Africa’s rapid population growth offers major economic opportunities
   but also deep structural constraints.
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-12T01:31:05Z'

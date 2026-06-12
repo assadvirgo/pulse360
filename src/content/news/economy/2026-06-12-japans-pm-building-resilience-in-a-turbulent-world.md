@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: To tackle the new challenges of today, it is essential to acquire new
   capabilities
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-12T04:00:11Z'

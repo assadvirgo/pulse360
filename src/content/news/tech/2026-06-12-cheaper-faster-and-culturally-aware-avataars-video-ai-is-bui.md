@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Avataar AI's distilled video model is priced at $0.005 for every second
   of generation
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-12T04:30:00Z'
