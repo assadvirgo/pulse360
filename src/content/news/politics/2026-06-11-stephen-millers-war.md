@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Unelected and unaccountable, Stephen Miller has become one of the most
   powerful figures in modern US history.
-displayOrder: 17
+displayOrder: 28
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-11T16:30:00Z'

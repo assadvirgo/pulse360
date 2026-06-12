@@ -5,7 +5,7 @@ countryCode: AU
 description: Australia was the first country to issue a ban in late 2025, aiming to
   reduce the pressures and risks that young users may face on social media, including
   cyberbullying, social…
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-11T16:17:50Z'

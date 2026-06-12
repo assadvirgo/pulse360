@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Two men were sentenced to death in the 2015 Thai Erawan shrine bombing
   that killed 20 people and wounded more than 100.
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-11T18:24:48Z'

@@ -2,7 +2,7 @@
 category: Sports
 description: Who are the biggest World Cup legends of all time? From Pele to Lionel
   Messi, we attempt to name the top 10.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-11T05:51:06Z'

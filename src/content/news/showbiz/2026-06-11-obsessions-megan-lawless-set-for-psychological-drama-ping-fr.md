@@ -5,7 +5,7 @@ countryCode: US
 description: EXCLUSIVE:&#160;Obsession’s Megan Lawless is set to star in&#160;Ping,
   an indie psychological drama marking the feature debut of writer-director Richie
   Gordon that shoots in Utah…
-displayOrder: 8
+displayOrder: 16
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-11T20:05:49Z'

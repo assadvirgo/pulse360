@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Remembering Scotland's 1986 World Cup campaign, their fourth successive
   appearance at the tournament.
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-11T10:49:29Z'

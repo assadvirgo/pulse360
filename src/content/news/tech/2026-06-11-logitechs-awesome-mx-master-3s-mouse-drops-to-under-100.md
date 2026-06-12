@@ -5,7 +5,7 @@ countryCode: US
 description: The platform-agnostic Logitech MX Master 3S wireless mouse is discounted
   to $89.99 at Amazon ($30 off), matching the best price we’ve seen so far this year.
   While it may look like…
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-11T20:00:00Z'

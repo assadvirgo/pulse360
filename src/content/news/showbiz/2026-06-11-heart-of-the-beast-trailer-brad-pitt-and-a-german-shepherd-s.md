@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Pictures has released the trailer for “Heart of the Beast,”
   a new survival thriller film starring Brad Pitt. Pitt plays James Belmont, a former
   Army Special Forces…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-06-11T13:01:01Z'

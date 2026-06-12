@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nomination comes amid pushback over Donald Trump&#039;s selection of
   Bill Pulte as acting director of the agency.
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-11T19:56:14Z'

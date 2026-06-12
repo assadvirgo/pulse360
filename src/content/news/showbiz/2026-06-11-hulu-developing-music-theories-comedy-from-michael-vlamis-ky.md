@@ -5,7 +5,7 @@ countryCode: US
 description: EXCLUSIVE:&#160;Hulu has landed&#160;Music Theories, a new comedy series
   from Michael Vlamis and Kyle Anderson, who are set to write and executive produce,
   with&#160;American…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-11T17:00:00Z'

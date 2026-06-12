@@ -5,7 +5,7 @@ countryCode: US
 description: The Knicks aren&#8217;t the only ones putting on a show this postseason.
   As New York&#8217;s NBA Finals run turns Madison Square Garden into a celebrit hotspot,
   the courtside…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-11T19:16:26Z'
