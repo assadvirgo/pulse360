@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The BBC's Gary O'Donoghue looks at the US president's mixed messaging
   over the war and the questions it raises.
-displayOrder: 7
+displayOrder: 26
 heroImage: ''
 importance: 75.2
 pubDate: '2026-06-11T20:22:16Z'

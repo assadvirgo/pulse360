@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon's rolling out a free software update for Echo Hub devices that
   gives the home screen a much-needed update to the interface it launched with in
   2024. It had already added…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-11T22:06:32Z'

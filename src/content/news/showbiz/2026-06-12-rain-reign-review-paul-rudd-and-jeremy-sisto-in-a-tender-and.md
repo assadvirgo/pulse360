@@ -5,7 +5,7 @@ countryCode: US
 description: Rose is a neurodivergent middle schooler living in a rural town with
   Wesley, a single father just barely hanging on but trying to do everything he can
   to raise her alone. He told…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-12T00:02:15Z'

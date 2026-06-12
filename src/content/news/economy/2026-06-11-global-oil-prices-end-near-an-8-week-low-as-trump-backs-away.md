@@ -5,7 +5,7 @@ countryCode: US
 description: Global oil prices Thursday settled at their lowest in almost eight weeks
   after President Donald Trump said he was canceling planned fresh strikes on Iran,
   pulling back from his…
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-11T19:28:00Z'

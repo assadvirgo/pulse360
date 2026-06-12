@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Seoul court sentences former leader for sending military drones into
   North Korea.
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-12T03:44:39Z'

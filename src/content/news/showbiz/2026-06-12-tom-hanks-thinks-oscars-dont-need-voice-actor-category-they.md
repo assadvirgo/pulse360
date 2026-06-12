@@ -5,7 +5,7 @@ countryCode: US
 description: With his recent return as Woody in Toy Story 5, Tom Hanks thinks it&#8217;s
   time the Academy Awards recognize voice actors&#8230; just not in their own category.
   The 2x Oscar…
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-12T03:15:30Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Foreign investors are willing to bet on U.S. companies that are IPO-bound,
   but not on the dollar itself, according to FX analysts
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-11T21:59:00Z'

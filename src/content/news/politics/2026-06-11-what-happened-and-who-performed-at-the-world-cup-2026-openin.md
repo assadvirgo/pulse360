@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Musical performances, colour, and fan excitement precede the World Cup&#039;s
   opening game in Mexico City.
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-11T21:02:54Z'

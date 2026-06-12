@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Some mainlanders fear losing access to investment products that offer
   higher returns
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-12T04:00:22Z'

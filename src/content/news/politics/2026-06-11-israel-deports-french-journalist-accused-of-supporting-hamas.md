@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Isreal suppressed coverage of its war on Gaza, banning international
   press and killing hundreds of local journalists.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-11T19:52:21Z'
