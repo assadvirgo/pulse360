@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinian homes are being pulled down in occupied East Jerusalem to
   make way for a park.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-12T05:01:48Z'

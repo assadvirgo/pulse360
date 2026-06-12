@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Amnesty International and Oxfam released reports this week documenting
   a rise in state-backed Israeli settler violence.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-12T03:38:45Z'

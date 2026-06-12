@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: After their war last May, India and Pakistan reached a truce. But deaths
   continued on the world&#039;s highest battlefield.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-12T07:14:52Z'

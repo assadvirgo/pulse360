@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Thailand is mourning Princess Bajrakitiyabha, the king&#039;s eldest
   child and potential heir, who died at 47.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-12T12:15:06Z'

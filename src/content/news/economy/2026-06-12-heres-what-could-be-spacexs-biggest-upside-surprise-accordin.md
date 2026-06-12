@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brad Gerstner and Gavin Baker discussed the SpaceX IPO as well as a possible
   pivot for Nvidia.
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-12T12:16:00Z'

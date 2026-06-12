@@ -5,7 +5,7 @@ countryCode: UA
 description: Ukraine's continued strikes on fuel supplies to Crimea have sparked the
   worst fuel crisis on the Russian-held peninsula since it was illegally annexed by
   Russia in 2014.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 48.0
 pubDate: '2026-06-12T10:20:00Z'

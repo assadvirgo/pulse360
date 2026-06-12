@@ -2,7 +2,7 @@
 category: Economy
 description: Some 2026 World Cup predictions from AI models are going against tradition
   to pick the underdogs. Here’s why.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-12T09:09:00Z'

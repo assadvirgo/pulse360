@@ -5,7 +5,7 @@ countryCode: IE
 description: BBC Sport NI looks ahead to Ireland's T20 World Cup campaign in which
   they will try pick up a first win after 17 losses from their previous 17 games in
   the tournament.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-12T06:44:56Z'

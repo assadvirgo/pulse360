@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Warrington Wolves move back to the top of the Super League table as they
   come from behind to beat St Helens.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-11T21:55:11Z'

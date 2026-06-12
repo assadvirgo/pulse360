@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: '"If I needed to fly on another vehicle, what would that look like?"'
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-12T11:00:13Z'

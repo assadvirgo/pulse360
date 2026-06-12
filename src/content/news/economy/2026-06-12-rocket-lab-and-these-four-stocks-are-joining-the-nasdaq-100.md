@@ -5,7 +5,7 @@ countryCode: US
 description: The Nasdaq 100 could imminently include SpaceX, but first it’s getting
   a shakeup that will usher in another space-technology company and four flashy AI
   plays.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-12T01:56:00Z'

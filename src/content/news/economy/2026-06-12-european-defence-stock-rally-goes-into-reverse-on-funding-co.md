@@ -2,7 +2,7 @@
 category: Economy
 description: Higher government borrowing costs and changes in warfare have hit one
   of the biggest equity trades of recent years
-displayOrder: 34
+displayOrder: 49
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-12T04:00:22Z'

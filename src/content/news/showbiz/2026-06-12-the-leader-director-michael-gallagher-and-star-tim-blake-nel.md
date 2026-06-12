@@ -5,7 +5,7 @@ countryCode: US
 description: When director Michael Gallagher was eight years old, 39 people died in
   his neighborhood in San Diego, California. They were the victims of the infamous
   Heaven’s Gate cult, who…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-12T10:28:53Z'

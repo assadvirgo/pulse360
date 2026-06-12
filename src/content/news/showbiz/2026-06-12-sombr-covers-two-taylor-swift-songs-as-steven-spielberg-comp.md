@@ -5,7 +5,7 @@ countryCode: US
 description: As we say every year, the annual Songwriters Hall of Fame ceremony is
   a combination of an awards show and a family reunion — an annual gathering of superstars
   virtually everyone…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 67.8
 pubDate: '2026-06-12T13:00:00Z'

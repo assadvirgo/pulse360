@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Hockney "passed away peacefully at home on 11 June," just one month before
   his 89th birthday, his publicist has said.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-12T10:25:53Z'

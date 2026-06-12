@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Markets rally and oil prices dip as US president claims agreement will
   reopen Strait of Hormuz
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-12T00:53:17Z'

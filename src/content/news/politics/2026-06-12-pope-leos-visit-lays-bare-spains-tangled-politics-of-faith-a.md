@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The American pope&#039;s message underlines the rift between his Catholicism
   and that of Spain&#039;s far right.
-displayOrder: 22
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-12T07:20:22Z'

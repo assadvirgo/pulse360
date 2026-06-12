@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: FIFA World Cup cohosts United States begin their campaign against Paraguay,
   with Donald Trump&#039;s attendance in doubt.
-displayOrder: 7
+displayOrder: 26
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-12T09:39:59Z'
