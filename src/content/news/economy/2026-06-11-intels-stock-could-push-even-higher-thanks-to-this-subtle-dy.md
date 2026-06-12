@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite major stock gains this year, Intel is significantly “underowned”
   in funds, BofA notes — and as ownership expands, the stock could zoom higher.
-displayOrder: 32
+displayOrder: 41
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-11T20:31:00Z'

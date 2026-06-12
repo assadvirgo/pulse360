@@ -5,7 +5,7 @@ countryCode: US
 description: Reality TV does not have an enviable track record of transferring small-screen
   success to the big screen. In 2003 the American Idol extension From Justin to Kelly,
   pairing the…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 55.0
 pubDate: '2026-06-11T22:40:10Z'

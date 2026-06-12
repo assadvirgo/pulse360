@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: But the lawyer once shared by the executive and rival R.J Cipriani allegedly
   offered her own money to end the dispute.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-12T00:13:19Z'

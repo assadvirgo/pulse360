@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Mourinho returns to La Liga giants after 13 years following Florentino
   Perez&#039;s re-election as club president.
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-11T19:09:37Z'

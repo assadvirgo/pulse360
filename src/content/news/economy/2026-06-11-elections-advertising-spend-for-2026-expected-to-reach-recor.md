@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: High-profile 2026 midterm races in California, Texas and other key states
   are driving higher spend earlier in the cycle, AdImpact found.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-11T16:00:01Z'

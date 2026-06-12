@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel expands ground operations in southern Lebanon as ceasefire efforts
   remain stalled.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-11T15:50:16Z'

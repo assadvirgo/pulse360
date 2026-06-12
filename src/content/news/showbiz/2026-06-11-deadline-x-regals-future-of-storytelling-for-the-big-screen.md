@@ -5,7 +5,7 @@ countryCode: US
 description: On Monday, Regal Global Entertainment and Deadline are hosting the industry
   panel &#8220;Future of Storytelling for the Big Screen&#8221; with the studios bosses,
   execs and…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-11T22:01:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: While Oracle’s cloud-infrastructure business is growing rapidly, a massive
   $95 billion spending plan and a physical bottleneck in data-center deliveries are
   giving investors pause.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-11T16:08:00Z'

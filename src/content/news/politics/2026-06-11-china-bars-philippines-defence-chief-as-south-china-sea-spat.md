@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese individuals and organisations are also banned from doing business
   with Gilberto Teodoro and his family.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-11T19:46:22Z'

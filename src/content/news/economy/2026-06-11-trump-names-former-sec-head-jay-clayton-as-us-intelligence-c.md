@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President has faced backlash in Congress over his pick of Bill Pulte
   as acting director of national intelligence
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-11T18:24:59Z'

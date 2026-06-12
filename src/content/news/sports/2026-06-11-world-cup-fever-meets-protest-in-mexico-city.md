@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: With Mexico City hosting the World Cup for an unprecedented third time,
   protesters are keen to use the platform to highlight their causes.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-11T06:38:38Z'

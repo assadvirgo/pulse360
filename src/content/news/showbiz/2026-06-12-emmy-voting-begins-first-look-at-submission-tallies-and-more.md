@@ -5,7 +5,7 @@ countryCode: US
 description: Greetings from Variety Awards Headquarters! Today is June 11, 2026, which
   means nominations-round voting begins TODAY; it&#8217;s then 11 days until nominations-round
   voting ends…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-12T00:23:00Z'

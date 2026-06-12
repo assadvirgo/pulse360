@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: As Hezbollah&#039;s future is unclear, what role can Amal, Lebanon&#039;s
   other major Shia party, play?
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-11T19:20:39Z'

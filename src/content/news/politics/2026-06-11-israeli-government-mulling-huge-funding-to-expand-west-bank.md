@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The proposal, if passed, would mark one of the largest expansions of
   illegal Israeli settlements in decades.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-11T18:45:23Z'
