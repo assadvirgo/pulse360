@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Exeter's Campbell Ridl was playing university rugby last season, but
   has been one of the breakout stars of the season at the centre of Exeter's renaissance
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-12T15:42:17Z'

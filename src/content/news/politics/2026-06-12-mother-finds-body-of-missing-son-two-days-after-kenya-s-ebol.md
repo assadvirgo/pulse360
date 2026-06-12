@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on
   Tuesday, his mother says.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-12T16:41:53Z'

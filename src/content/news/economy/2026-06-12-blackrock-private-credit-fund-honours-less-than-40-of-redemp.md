@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The firm’s $13bn HPS Corporate Lending Fund limits withdrawals for a
   second consecutive quarter
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-12T13:05:12Z'

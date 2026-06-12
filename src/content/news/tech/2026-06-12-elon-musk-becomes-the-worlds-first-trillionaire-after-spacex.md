@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000
   at a time when he is more hated -- and powerful -- than ever.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-12T15:55:06Z'

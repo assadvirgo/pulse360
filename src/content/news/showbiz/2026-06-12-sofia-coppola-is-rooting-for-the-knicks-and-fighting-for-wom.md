@@ -5,7 +5,7 @@ countryCode: US
 description: “It’s just so outrageous,” offers Sofia Coppola. The Academy Award-winning
   filmmaker is seated across from me inside No Matter What, an immersive art installation
   from Planned…
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-12T16:56:06Z'

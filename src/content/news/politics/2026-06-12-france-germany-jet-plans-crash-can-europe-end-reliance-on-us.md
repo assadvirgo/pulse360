@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Despite the collapse of European fighter jet venture, there is optimism
   about the future of Europe&#039;s strategic autonomy.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-12T11:30:40Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: On World Day Against Child Labour, Al Jazeera takes a look at the latest
   numbers on child labour worldwide.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-12T09:01:55Z'

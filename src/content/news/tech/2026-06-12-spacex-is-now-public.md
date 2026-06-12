@@ -5,7 +5,7 @@ countryCode: US
 description: SpaceX is now a publicly traded company. In one of the most highly anticipated
   and controversial public offerings of all time, the rocket venture helmed by Elon
   Musk started…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 70.2
 pubDate: '2026-06-12T13:54:49Z'

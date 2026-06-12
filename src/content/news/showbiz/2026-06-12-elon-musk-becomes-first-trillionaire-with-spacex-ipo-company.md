@@ -5,7 +5,7 @@ countryCode: US
 description: Elon Musk is officially the world&#8217;s first trillionaire after his
   SpaceX tech company debuted Friday at $150/share, 11% higher than the company&#8217;s
   IPO pricing. SpaceX…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 63.8
 pubDate: '2026-06-12T15:59:43Z'

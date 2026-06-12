@@ -4,7 +4,7 @@ country: Armenia
 countryCode: AM
 description: Strong Armenia claims that incumbent Civil Contract party won Sunday&#039;s
   election due to voting irregularities.
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 70.5
 pubDate: '2026-06-12T16:25:54Z'

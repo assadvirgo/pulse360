@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The wife and family of an Indian sailor killed in a US strike on a tanker
   off Oman this week have gathered in mourning.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-12T09:51:11Z'

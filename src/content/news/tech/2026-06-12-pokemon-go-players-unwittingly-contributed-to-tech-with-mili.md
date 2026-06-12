@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The repurposing of Pokémon Go data for AI training continues to draw
   scrutiny.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-12T11:15:41Z'

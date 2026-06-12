@@ -5,7 +5,7 @@ countryCode: US
 description: Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's
   IPO. His net worth, which was hovering around $800 billion before the IPO, includes
   the value of his 4.8…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-12T16:24:39Z'
