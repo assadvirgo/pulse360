@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: Evangeline Lilly has joined the feature documentary Farmacy
   of Light as narrator and executive producer. Following its award-winning festival
   run last year, Farmacy of…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-12T19:48:12Z'

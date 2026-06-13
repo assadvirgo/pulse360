@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Vulnerability in the Oracle-owned PeopleSoft software is about as critical
   as they come.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-12T19:26:47Z'

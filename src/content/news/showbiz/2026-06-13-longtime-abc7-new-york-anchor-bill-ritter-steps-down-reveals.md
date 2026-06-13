@@ -5,7 +5,7 @@ countryCode: US
 description: Bill Ritter, an anchor for WABC-TV New York&#8217;s ABC7 Eyewitness News
   since 1999, announced Friday during his staple 6 p.m. newscast that he has been
   diagnosed with Alzheimer’s…
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-13T00:22:40Z'

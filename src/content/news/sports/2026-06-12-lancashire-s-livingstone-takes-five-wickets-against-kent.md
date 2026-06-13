@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Liam Livingstone takes 5-55 on day one of Lancashire's clash with Kent
   in his first County Championship game since 2021.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-12T18:23:30Z'

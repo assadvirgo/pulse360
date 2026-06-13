@@ -5,7 +5,7 @@ countryCode: US
 description: Gene Shalit, the longtime film critic for Today, known for his quirky
   puns and signature walrus mustache, has died. He was 100. His family tells NBC News
   in a statement that…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-12T23:21:18Z'

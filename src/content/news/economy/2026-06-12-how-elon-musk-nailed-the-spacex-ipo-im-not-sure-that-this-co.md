@@ -5,7 +5,7 @@ countryCode: US
 description: There were a lot of ways that SpaceX’s initial public offering could
   have gone wrong. Instead, the company bucked Wall Street norms, pulled off the biggest
   IPO ever and raised $75…
-displayOrder: 38
+displayOrder: 43
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-12T21:57:00Z'

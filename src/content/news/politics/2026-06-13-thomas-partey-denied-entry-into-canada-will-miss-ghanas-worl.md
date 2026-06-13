@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Partey&#039;s visa was denied due to the multiple charges of rape he
   faces in the United Kingdom.
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-13T00:14:49Z'

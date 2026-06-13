@@ -5,7 +5,7 @@ countryCode: GB
 description: After scoring an unbeaten century, Danni Wyatt-Hodge takes a stunning
   catch in the field as Sri Lanka fall to 22-2 against England, chasing 220 to win
   in the opening match of the…
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-12T20:39:43Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Leus du Plooy hits 85 for Middlesex as they reach 291-8 at stumps against
   Worcestershire on day one of their County Championship match.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-12T18:48:34Z'

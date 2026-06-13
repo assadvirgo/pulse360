@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The prime suspect in the killing of Lyhanna, 11, was reported to police
   nine months prior but never questioned.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-12T16:19:12Z'

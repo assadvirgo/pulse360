@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Pakistani Prime Minister Shehbaz Sharif says a &quot;final, agreed upon
   text&quot; of a US-Iran peace deal has been reached.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-12T17:39:03Z'
