@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A new UNHCR report reveals that 117.8 million people worldwide were forcibly
   displaced by the end of 2025.
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-13T07:56:36Z'

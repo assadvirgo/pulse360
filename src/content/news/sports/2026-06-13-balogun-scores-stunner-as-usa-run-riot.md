@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Folarin Balogun scores his second and USA's third goal before half-time
   in their opening game of the 2026 World Cup against Paraguay.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-13T02:26:15Z'

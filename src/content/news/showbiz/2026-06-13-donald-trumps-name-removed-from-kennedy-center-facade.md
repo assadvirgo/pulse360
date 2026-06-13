@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED: Donald Trump&#8217;s name was removed from the facade of the
   Kennedy Center on Saturday morning, following last minute efforts by the president
   and the board of the arts…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-13T15:34:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has continued to attack Lebanon, despite Iran saying it was included
   in a potential memorandum of understanding.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-13T10:13:54Z'

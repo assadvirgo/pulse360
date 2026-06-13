@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Lionheart Capital and Keo Energy create Nasdaq-listed company to pursue
   assets in Latin American nation.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-06-13T10:00:04Z'

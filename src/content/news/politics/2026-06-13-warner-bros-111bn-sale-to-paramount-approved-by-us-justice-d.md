@@ -5,7 +5,7 @@ countryCode: US
 description: The approval marks a key development in the merger that will reshape
   media, allowing the continue of the takeover of the Hollywood studio, which owns
   CNN and HBO.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-13T03:28:25Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: As the banned group fights its proscription in London, similar battles
   are playing out in Edinburgh.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-13T09:13:29Z'

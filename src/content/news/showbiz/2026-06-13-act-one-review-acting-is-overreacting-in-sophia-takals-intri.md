@@ -5,7 +5,7 @@ countryCode: US
 description: How far would you go for a woman who claims with a straight face to be
   &#8220;endeavoring to bring about a change in consciousness through our art?&#8221;
   Not that far, probably:…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-13T16:04:09Z'

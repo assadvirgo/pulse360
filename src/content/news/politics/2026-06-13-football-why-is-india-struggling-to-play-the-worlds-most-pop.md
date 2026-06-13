@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: As the 2026 FIFA World Cup kicks off, 101 East explores why India struggles
   to compete in the world&#039;s most popular sport
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-13T11:30:00Z'

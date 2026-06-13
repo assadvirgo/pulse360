@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Niño Guerrero was killed in a "swift and lethal kinetic strike," the
   US President wrote in a social media post.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-13T04:09:07Z'
