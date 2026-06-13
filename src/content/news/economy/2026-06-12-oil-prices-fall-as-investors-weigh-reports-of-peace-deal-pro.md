@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: West Texas Intermediate and Brent crude fell on Friday on reports that
   a potential deal would lift oil sanctions on Iran.
-displayOrder: 39
+displayOrder: 48
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-12T12:25:00Z'

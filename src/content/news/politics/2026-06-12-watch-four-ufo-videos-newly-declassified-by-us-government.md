@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The eyewitness footage shows bright orbs in the sky over an undisclosed
   location in the northeastern US.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-12T14:59:52Z'

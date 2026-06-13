@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president’s latest comments come after Iranian media leaks purported
   details of deal
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-12T15:45:43Z'

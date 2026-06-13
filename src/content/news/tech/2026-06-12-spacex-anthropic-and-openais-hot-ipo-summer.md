@@ -2,7 +2,7 @@
 category: Tech
 description: 'The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading
   the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;—…'
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-12T16:23:25Z'

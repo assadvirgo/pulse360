@@ -5,7 +5,7 @@ countryCode: US
 description: The seasoned PR pro has filled out his new agenda — a full-service PR
   firm with offices in L.A. and New York with a roster of vice presidents including
   Emily Teichner, Natalie…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-12T18:30:00Z'

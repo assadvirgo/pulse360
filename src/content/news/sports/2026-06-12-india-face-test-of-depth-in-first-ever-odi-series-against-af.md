@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Afghanistan will lean on their ODI experience in India, who will not
   have Kohli, Hardik, Siraj and Bumrah
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-12T12:05:18Z'

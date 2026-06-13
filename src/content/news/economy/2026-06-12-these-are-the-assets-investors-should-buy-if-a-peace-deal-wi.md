@@ -5,7 +5,7 @@ countryCode: US
 description: Low approval ratings and a jump in inflation may be forcing President
   Donald Trump’s hand in ending the war, with some asset prices already starting to
   anticipate that.
-displayOrder: 21
+displayOrder: 30
 heroImage: ''
 importance: 69.5
 pubDate: '2026-06-12T13:51:00Z'

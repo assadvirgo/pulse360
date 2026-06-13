@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk's stake in SpaceX is worth more than $766 billion. Combined
   with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.
-displayOrder: 37
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-12T20:42:19Z'

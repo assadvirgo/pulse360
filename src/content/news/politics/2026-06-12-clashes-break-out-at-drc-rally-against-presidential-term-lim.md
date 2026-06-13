@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Police dispersed the crowds with tear gas as opposition and pro-government
   activists clashed.
-displayOrder: 10
+displayOrder: 17
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-12T19:51:53Z'

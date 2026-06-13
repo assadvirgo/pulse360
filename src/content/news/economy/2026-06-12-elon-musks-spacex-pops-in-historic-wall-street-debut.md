@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Company opened at $150 per share after raising $75bn in the world’s biggest
   initial public offering
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-12T13:12:18Z'
