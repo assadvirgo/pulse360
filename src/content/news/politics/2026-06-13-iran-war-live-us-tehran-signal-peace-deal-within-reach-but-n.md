@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Four activists from Palestine Action jailed by a British court over protest
   raid on Israeli arms firm in UK.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 74.5
 pubDate: '2026-06-13T00:00:00Z'

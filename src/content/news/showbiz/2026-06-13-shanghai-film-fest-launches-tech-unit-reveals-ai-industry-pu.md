@@ -5,7 +5,7 @@ countryCode: CN
 description: The 28th Shanghai International Film Festival opened on June 12 with
   the launch of a new Technology Creation and Fabrication Unit and a parallel press
   conference for the Shanghai…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-06-13T08:32:38Z'

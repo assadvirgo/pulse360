@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Antonov An-32 transport plane crashed near Assam’s Jorhat region, air
   forces says.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-13T11:29:31Z'

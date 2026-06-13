@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The painter broke social taboos by celebrating same-sex relationships
   in his art.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-13T01:14:00Z'

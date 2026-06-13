@@ -5,7 +5,7 @@ countryCode: CN
 description: '&#8220;The Decisive Moment,&#8221; a sci-fi feature directed by Zhang
   Disha and produced by Huang Jianxin, will world premiere as the closing film of
   the 28th Shanghai…'
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-13T08:14:56Z'

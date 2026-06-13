@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Trade commissioner argues translation into 24 languages slows down bloc’s
   ability to strike up deals
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-13T04:00:22Z'

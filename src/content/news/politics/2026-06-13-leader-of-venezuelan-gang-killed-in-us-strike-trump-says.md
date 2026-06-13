@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump has said a "swift and lethal kinetic" US military
   strike has killed "the infamous leader" of Venezuela's Tren de Aragua street gang.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-13T01:26:00Z'

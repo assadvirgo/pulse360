@@ -2,7 +2,7 @@
 category: Economy
 description: The technology is leading to a fundamental shift in the way investors
   allocate funds and diversify risks across every asset class
-displayOrder: 40
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-13T04:00:31Z'

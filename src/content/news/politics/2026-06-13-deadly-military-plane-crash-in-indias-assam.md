@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: A military transport aircraft has crashed in India’s northeastern Assam
   during a routine fligh.
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-13T12:10:00Z'

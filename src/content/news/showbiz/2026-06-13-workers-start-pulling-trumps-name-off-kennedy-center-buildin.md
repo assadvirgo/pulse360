@@ -5,7 +5,7 @@ countryCode: US
 description: Workers began the process of prying &#8220;Donald J. Trump&#8221; off
   the facade of the Kennedy Center in the early morning hours on Saturday, after a
   court found the…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-13T11:57:41Z'
