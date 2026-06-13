@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump administration said it killed Héctor Guerrero in co-ordination
   with the government of Delcy Rodríguez
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-13T03:42:18Z'

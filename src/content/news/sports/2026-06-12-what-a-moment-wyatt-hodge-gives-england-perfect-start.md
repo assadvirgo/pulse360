@@ -5,7 +5,7 @@ countryCode: GB
 description: Watch the best shots as Danni Wyatt-Hodge hits an unbeaten 105 to guide
   England to an 85-run win against Sri Lanka, and give the hosts the perfect start
   to the ICC Women's T20…
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-12T23:25:45Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: On June 10th, the German container ship Posen docked in Los Angeles after
   a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost
   certainly carrying the…
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-13T01:32:18Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president has sought to reshape the capital city&#039;s image
   and institutions through series of plans and projects.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-12T21:32:08Z'

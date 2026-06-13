@@ -5,7 +5,7 @@ countryCode: US
 description: The Kennedy Center said that it will remove Donald Trump&#8217;s name
   from the facade of the arts complex &#8212; but that may not happen until early
   Saturday morning. As a…
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-13T04:42:00Z'

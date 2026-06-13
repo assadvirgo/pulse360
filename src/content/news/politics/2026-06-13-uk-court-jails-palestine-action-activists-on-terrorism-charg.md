@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK court has sentenced four pro-Palestine activists to jail for a raid
   on an Israeli arms factory near Bristol in 2024.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-13T04:22:27Z'

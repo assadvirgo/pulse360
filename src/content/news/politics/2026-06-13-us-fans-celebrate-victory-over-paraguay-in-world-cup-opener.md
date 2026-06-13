@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: US fans celebrate victory over Paraguay in World Cup opener
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-13T07:58:49Z'

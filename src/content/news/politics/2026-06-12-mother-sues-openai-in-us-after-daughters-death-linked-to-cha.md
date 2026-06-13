@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The lawsuit accuses OpenAI of failing to intervene despite warning signs
   in daughter&#039;s ChatGPT conversations.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-12T21:38:03Z'

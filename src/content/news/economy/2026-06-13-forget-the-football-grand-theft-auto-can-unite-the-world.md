@@ -2,7 +2,7 @@
 category: Economy
 description: Thirteen years in the making, the game’s next instalment promises to
   be the biggest entertainment product in history
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-13T04:00:23Z'

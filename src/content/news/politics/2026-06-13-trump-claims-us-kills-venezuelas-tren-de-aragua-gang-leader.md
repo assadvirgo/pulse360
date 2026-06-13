@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Trump claims US kills Venezuela’s Tren de Aragua gang leader
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-13T06:07:40Z'

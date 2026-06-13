@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The software sector has struggled in recent months amid concern that
   software companies will struggle to survive in the AI era
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-12T19:51:00Z'

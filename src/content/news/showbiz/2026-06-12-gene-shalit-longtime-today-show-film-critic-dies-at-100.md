@@ -5,7 +5,7 @@ countryCode: US
 description: Gene Shalit, the bushy-haired mustachioed television personality who
   reviewed books and movies on &#8220;The Today Show&#8221; for 40 years, died Friday.
   His family told NBC News…
-displayOrder: 11
+displayOrder: 33
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-12T23:08:18Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Thousands of Bosnia fans turned Toronto blue as they marched to the chants
   of &#039;Free Palestine&#039; in Toronto.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-13T04:11:05Z'
