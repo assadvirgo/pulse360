@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Quartet convicted on criminal damage and GBH charges, but judge insists
   raid on Israel arms company was &#039;terrorist act&#039;.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-12T19:27:17Z'

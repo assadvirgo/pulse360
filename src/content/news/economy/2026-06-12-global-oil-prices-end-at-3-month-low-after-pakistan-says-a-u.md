@@ -5,7 +5,7 @@ countryCode: PK
 description: Brent crude on Friday settled at its lowest level since the early days
   of the U.S.-Iran conflict. after Pakistan said a peace deal between the nations
   had been reached.
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-12T19:39:00Z'

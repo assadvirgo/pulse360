@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Andrew Yang made a list of everything Americans overpay for — housing,
   food, wireless — and thinks the next startup gold rush is giving that money back.
-displayOrder: 6
+displayOrder: 10
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-13T04:14:19Z'

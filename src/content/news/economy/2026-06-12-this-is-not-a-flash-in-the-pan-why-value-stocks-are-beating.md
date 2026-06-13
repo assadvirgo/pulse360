@@ -3,7 +3,7 @@ category: Economy
 description: Value stocks are putting up big gains this year that widely surpass growth
   equities, with investors appearing optimistic about earnings growth broadening beyond
   technology.
-displayOrder: 41
+displayOrder: 44
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-12T22:50:00Z'

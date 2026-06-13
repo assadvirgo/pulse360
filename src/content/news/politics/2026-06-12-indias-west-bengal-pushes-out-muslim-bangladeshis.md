@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Thousands of Muslim Bangladeshis have been detained or deported under
   West Bengal&#039;s new BJP government.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-12T18:21:15Z'

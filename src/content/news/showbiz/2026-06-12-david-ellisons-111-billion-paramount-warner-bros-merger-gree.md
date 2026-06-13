@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A coalition of state attorneys general led by California is preparing
   a lawsuit to challenge the merger.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-12T21:42:44Z'

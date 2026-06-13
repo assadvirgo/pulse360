@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Danni Wyatt-Hodge gives England's T20 World Cup campaign lift-off with
   a 'mummy hundred', writes Matthew Henry.
-displayOrder: 18
+displayOrder: 26
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-12T23:55:54Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: USA beat Paraguay 4-1 in Los Angeles as each of the three World Cup cohosts
   have now staged a game in 2026 edition.
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-13T03:19:42Z'

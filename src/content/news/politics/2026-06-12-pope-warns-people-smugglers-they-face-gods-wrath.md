@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Migration has been a central theme throughout Pope Leo&#039;s weeklong
   tour of Spain.
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-12T20:17:22Z'
