@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: 'It’s expected to be a spicy encounter: Haiti supporters and Scotland’s
   Tartan Army celebrate World Cup matchup.'
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-14T00:03:54Z'

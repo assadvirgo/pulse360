@@ -3,7 +3,7 @@ category: Politics
 country: Albania
 countryCode: AL
 description: Albania protests escalate over Kushner-backed coastal development
-displayOrder: 28
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-13T17:57:16Z'

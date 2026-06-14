@@ -5,7 +5,7 @@ countryCode: NZ
 description: Defending champions New Zealand have a day to forget in the field in
   their opening match of the ICC Women's T20 World Cup, as they drop six chances against
   the West Indies, with…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-06-13T23:14:01Z'

@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Follow our live build-up, with team news as it lands, before our text
   commentary stream.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-13T17:31:36Z'

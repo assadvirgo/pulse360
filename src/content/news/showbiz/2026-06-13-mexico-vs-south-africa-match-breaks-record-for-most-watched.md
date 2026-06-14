@@ -5,7 +5,7 @@ countryCode: MX
 description: The 2026 Fifa World Cup just kicked off on Thursday, but the global soccer
   event has already punted past viewership records. The opening game, a 2-0 matchup
   between Mexico and…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-06-13T22:33:11Z'

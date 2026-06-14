@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anthropic's Claude Fable 5, released publicly this week, sparked concerns
   about cybersecurity and hacking.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-13T16:28:38Z'

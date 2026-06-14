@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Canada&#039;s prime minister has warned that the &#039;rules-based&#039;
   global order is &#039;breaking down&#039; amid superpower dominance.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 96.5
 pubDate: '2026-06-13T19:54:46Z'

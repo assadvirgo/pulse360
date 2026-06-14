@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Crews erected scaffolding on Friday as onlookers gathered into the evening,
   though storms delayed the work until Saturday.
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-13T17:00:23Z'

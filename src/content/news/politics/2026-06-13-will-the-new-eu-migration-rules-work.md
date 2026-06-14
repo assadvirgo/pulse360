@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: The European Union&#039;s new migration policy has come into force.
-displayOrder: 15
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-13T20:05:19Z'

@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Strait of Hormuz will be reopened as part of ceasefire extension, Prime
   Minister Shehbaz Sharif says
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-13T11:55:00Z'

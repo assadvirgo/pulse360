@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILERS: This post contains details about the Cape Fear episode &#8216;Phantom
   Sensations&#8216; With a nod to the source material&#8217;s previous adaptation,
   this week&#8217;s…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-06-13T23:08:38Z'

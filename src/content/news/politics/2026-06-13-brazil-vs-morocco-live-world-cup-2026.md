@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Follow the updates as five-time record champions Brazil face African
   giants Morocco in a blockbuster Group C clash.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-13T18:01:18Z'

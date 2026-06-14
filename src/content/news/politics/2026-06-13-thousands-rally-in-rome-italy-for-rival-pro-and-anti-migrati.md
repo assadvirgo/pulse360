@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Thousands of police deployed to keep the rallies apart as far-right &#039;remigration&#039;
   initiative gains traction.
-displayOrder: 20
+displayOrder: 27
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-13T20:46:23Z'

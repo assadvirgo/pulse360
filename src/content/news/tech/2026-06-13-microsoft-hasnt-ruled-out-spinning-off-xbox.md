@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is preparing to lay off a significant chunk of its Xbox division
   and is reevaluating the plans for its next-generation Project Helix console. It's
   apparently also…
-displayOrder: 29
+displayOrder: 41
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-13T16:29:47Z'

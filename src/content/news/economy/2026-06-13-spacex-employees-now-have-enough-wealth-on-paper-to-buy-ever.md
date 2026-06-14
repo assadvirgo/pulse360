@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 2025 set an all-time high for first-time buyers who used financial assets
   to buy a home or fund a down payment, according to the National Association of Realtors.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-13T13:00:00Z'
