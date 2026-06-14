@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian authorities say assassinations and strikes over the past year
   have failed to deter them.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-13T15:43:27Z'

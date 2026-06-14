@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A total of 44% of older Americans depend on Social Security for all of
   their income, according to the Senior Citizens League.
-displayOrder: 46
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-13T19:00:00Z'

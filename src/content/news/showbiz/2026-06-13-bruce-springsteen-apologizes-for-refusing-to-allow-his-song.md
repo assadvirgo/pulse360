@@ -5,7 +5,7 @@ countryCode: US
 description: Bono gave Bruce Springsteen a hard time for refusing to license his song
   &#8220;Girls in Their Summer Clothes&#8221; for a commercial for the clothing brand
   Gap in partnership…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-13T22:27:20Z'

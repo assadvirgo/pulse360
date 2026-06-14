@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It might be nice to reduce the large share of benefits going to high
   earners who retire later and live long lives.
-displayOrder: 43
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-13T19:00:00Z'

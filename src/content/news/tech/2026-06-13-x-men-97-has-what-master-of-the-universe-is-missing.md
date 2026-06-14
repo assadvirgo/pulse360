@@ -3,7 +3,7 @@ category: Tech
 description: In 2026, Marvel and Mattel are both releasing projects designed to capitalize
   on people's love for iconic animated heroes from their childhoods. Masters of the
   Universe has put a…
-displayOrder: 38
+displayOrder: 40
 heroImage: ''
 importance: 44.2
 pubDate: '2026-06-13T20:00:00Z'

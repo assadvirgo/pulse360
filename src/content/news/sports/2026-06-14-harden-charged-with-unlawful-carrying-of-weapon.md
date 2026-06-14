@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Cavaliers guard James Harden was arrested early Saturday morning in Houston
   and has been charged with a misdemeanor unlawful carrying of a weapon.
-displayOrder: 12
+displayOrder: 18
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-14T06:06:32Z'

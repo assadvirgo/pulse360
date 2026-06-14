@@ -5,7 +5,7 @@ countryCode: US
 description: The World Cup is off to a record-breaking start for both Fox Sports and
   Telemundo. According to ratings from Fox Sports, Friday&#8217;s U.S. Soccer Men&#8217;s
   National Team win…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-14T01:57:38Z'

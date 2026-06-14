@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The New York Knicks, after 53 years of waiting, are finally NBA champions
   again. Here's why their path to glory wasn't easy.
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-14T06:00:57Z'

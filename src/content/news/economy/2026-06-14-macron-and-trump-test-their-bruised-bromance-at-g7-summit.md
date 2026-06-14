@@ -3,7 +3,7 @@ category: Economy
 country: France
 countryCode: FR
 description: French president will host world leaders at Évian-les-Bains from Monday
-displayOrder: 4
+displayOrder: 5
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-14T04:00:17Z'

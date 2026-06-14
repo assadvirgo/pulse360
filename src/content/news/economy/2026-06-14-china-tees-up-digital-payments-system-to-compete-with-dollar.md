@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing’s cross-border currency platform will be backed by central banks
   of Hong Kong, Thailand, UAE and Saudi Arabia
-displayOrder: 33
+displayOrder: 37
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-14T02:24:03Z'

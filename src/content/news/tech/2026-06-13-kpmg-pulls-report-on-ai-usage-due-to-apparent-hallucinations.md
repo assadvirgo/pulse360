@@ -2,7 +2,7 @@
 category: Tech
 description: Once again, AI proves to be an unreliable source of information about
   AI.
-displayOrder: 25
+displayOrder: 36
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-13T20:42:31Z'

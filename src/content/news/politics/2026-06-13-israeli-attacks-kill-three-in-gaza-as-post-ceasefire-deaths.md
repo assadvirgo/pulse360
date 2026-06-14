@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: One person killed in central Gaza’s Bureij refugee camp, and two others
   in Khan Younis in the south.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-06-13T16:01:15Z'

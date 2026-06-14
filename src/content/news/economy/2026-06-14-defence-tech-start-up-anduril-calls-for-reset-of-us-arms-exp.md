@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CEO of California-based group wants to enlist allies in helping with
   production of lower-cost weapons
-displayOrder: 29
+displayOrder: 35
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-14T04:00:17Z'

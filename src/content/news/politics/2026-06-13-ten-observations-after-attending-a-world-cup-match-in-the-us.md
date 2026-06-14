@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With the World Cup getting into full swing, Al Jazeera offers some tips
   for fans looking to attend a game in the US.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-13T20:44:11Z'

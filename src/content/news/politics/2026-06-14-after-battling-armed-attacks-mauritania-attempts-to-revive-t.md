@@ -4,7 +4,7 @@ country: Mauritania
 countryCode: MR
 description: Armed groups linked to al-Qaeda began attacks in the mid-2000s, but several
   security measures have halted them.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-14T01:08:42Z'

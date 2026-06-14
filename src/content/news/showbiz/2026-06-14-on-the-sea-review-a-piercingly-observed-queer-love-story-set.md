@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Barry Ward plays a middle-aged mussel farmer, with Lorne MacFadyen as
   the younger itinerant worker who sparks desires he has spent most of his life hiding.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-14T04:14:54Z'
