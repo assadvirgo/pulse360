@@ -5,7 +5,7 @@ countryCode: US
 description: I turned off Siri on the Mac years ago and never looked back. Similarly,
   I found Apple Intelligence so fruitless I never engage with it. But the new Siri
   AI coming to macOS 27…
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-13T15:00:00Z'

@@ -5,7 +5,7 @@ countryCode: AL
 description: Around 200 protesters have torn down fencing surrounding a controversial
   luxury development in Albania, as demonstrations continue over another planned resort
   linked &#8203;to…
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-13T18:34:00Z'

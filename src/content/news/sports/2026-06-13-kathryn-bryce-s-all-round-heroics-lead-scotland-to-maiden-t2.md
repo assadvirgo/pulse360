@@ -3,7 +3,7 @@ category: Sports
 country: United Kingdom
 countryCode: GB
 description: She followed up a 39-ball 60 with two wickets in a captain's performance
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-13T17:26:39Z'

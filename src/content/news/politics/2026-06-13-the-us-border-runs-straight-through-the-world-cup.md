@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The tournament was sold as a symbol of unity, but Trump’s border politics
   have turned it into a spectacle of exclusion.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-13T09:56:42Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Scotland make history at Old Trafford with a dominant 40-run victory
   over Ireland to secure their first ever win in a women's T20 World Cup.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-13T14:39:42Z'

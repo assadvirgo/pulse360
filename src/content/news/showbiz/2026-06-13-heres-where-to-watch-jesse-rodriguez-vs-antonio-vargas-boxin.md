@@ -5,7 +5,7 @@ countryCode: US
 description: In a title bout for the championship, San Antonio-native Jesse &#8220;Bam&#8221;
   Rodriguez takes on Houstonian boxer Antonio Vargas in a 12-round match. What&#8217;s
   on the line?…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-13T20:00:00Z'

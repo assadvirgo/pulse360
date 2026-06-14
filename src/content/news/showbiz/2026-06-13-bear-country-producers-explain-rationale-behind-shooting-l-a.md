@@ -5,7 +5,7 @@ countryCode: AU
 description: Derrick Borte’s Russell Crowe L.A.-set action-thriller Bear County sent
   a frisson through Hollywood last year when it was announced the production was shooting
   on Australia’s Gold…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-13T16:32:38Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: World Cup fans reveal how much they paid for a seat at the US’s opening
   game against Paraguay.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-13T13:14:25Z'

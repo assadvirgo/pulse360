@@ -5,7 +5,7 @@ countryCode: US
 description: Pulisic, Balogun &#38; Co.&#8217;s heroics at Los Angeles&#8217; SoFi
   Stadium made World Cup television history. The U.S. Men&#8217;s National Soccer
   Team&#8217;s opening match at…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-13T19:41:53Z'

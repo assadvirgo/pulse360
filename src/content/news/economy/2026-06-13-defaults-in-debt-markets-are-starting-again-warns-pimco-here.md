@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors should increasingly seek out fixed income to anchor portfolios
   as equity valuations look stretched, says Pimco.
-displayOrder: 25
+displayOrder: 43
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-13T12:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Ilia Topuria shoves Justin Gaethje in front of the Lincoln Memorial in
   the final news conference before the UFC's unprecedented show at the White House
   on Sunday.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-13T03:20:26Z'

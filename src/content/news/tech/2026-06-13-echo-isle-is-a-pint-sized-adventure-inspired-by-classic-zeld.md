@@ -3,7 +3,7 @@ category: Tech
 description: 'Echo Isle is heavily inspired by The Legend of Zelda, and it''s not
   afraid to show it: The retro graphics bear a striking resemblance to Link''s Awakening,
   the main character wears…'
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-13T12:00:00Z'
