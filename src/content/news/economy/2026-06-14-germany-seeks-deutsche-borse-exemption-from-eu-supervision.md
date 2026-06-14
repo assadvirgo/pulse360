@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Stock exchange would have option to remain under domestic authority as
   part of new EU markets regime
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-14T04:00:17Z'

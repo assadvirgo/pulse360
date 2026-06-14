@@ -5,7 +5,7 @@ countryCode: AU
 description: Andrey Zvyagintsev claimed the Sydney Film Prize on Sunday night for
   &#8220;Minotaur,&#8221; his thriller set against the backdrop of contemporary Russia,
   as the 73rd Sydney Film…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-14T13:11:44Z'

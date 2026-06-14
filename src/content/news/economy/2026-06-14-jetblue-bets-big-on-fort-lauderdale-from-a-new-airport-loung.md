@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: JetBlue faces heavy competition from Miami International Airport, an
   American Airlines stronghold.
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-14T12:00:02Z'

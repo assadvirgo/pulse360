@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: 'University of Leicester historian thinks Eilmer of Malmesbury saw two
   different comets: in 1018 and 1066'
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-14T16:02:53Z'

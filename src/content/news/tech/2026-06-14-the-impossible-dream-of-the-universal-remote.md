@@ -3,7 +3,7 @@ category: Tech
 description: You don't really ever have to explain why a universal remote is a good
   idea. You have a bunch of stuff that needs controlling; this thing controls them
   all. Many companies have…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-14T13:42:07Z'

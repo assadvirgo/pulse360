@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australia secure win in Group D courtesy of goals from Nestory Irankunda
   and Connor Metcalfe.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-14T06:40:28Z'

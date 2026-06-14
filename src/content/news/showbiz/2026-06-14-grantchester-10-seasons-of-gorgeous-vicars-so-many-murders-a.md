@@ -5,7 +5,7 @@ countryCode: GB
 description: “Grantchester” begins its final season on June 14, with crime-solving
   vicars who seem to face far too many murders for one small British village. Variety
   spoke with the core cast…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-14T15:30:00Z'

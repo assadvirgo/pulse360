@@ -5,7 +5,7 @@ countryCode: TR
 description: Turkish director Banu Sıvacı’s film Hear The Yellow swept the board at
   the 72nd Taormina Film Festival on Sunday, winning best film, director, actor and
   actress in ex-aequo. This…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-14T15:28:06Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Although she is quite frugal, she has not been particularly diligent
   with investing.”
-displayOrder: 46
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-14T11:25:00Z'

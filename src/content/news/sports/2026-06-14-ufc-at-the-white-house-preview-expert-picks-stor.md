@@ -3,7 +3,7 @@ category: Sports
 country: United States
 countryCode: US
 description: Before Sunday's fight card, here are storylines, stats and fight picks.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-14T12:33:32Z'
