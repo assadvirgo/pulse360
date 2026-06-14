@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: James Boyard's abduction is the highest-ranking abduction in the violence-wracked
   country in recent years, according to reports.
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-14T08:07:55Z'

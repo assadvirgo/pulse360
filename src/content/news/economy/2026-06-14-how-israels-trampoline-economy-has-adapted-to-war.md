@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: After two decades of growth the country has proven to be surprisingly
   resilient to war and energy shocks
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-14T08:09:41Z'

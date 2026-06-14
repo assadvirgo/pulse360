@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The New York Knicks ended their championship drought on Saturday, winning
   the best-of-seven NBA Finals series 4-1.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 65.5
 pubDate: '2026-06-14T03:37:55Z'

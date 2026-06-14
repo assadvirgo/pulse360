@@ -5,7 +5,7 @@ countryCode: US
 description: The effective U.S. national debt just crashed through $100 trillion for
   the first time in history, and now stands at an extraordinary 400% of annual gross
   domestic product — but…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-13T19:00:00Z'

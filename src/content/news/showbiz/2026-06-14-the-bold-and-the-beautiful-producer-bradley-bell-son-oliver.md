@@ -5,7 +5,7 @@ countryCode: US
 description: The Bold And The Beautiful’s Bradley Bell is prepping Season 2 of microdrama
   Hollywood Starlet before the freshman Season has launched. Hollywood Starlet will
   launch on aTwist,…
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 46.0
 pubDate: '2026-06-14T12:07:06Z'

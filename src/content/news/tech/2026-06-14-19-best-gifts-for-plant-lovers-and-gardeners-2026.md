@@ -2,7 +2,7 @@
 category: Tech
 description: From smart apps and planters to unique tools, these gifts will turn even
   a black thumb into a next-level plant parent.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-14T11:00:00Z'

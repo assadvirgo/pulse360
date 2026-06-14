@@ -5,7 +5,7 @@ countryCode: GB
 description: Thomas Tuchel will pick his first England World Cup team on Wednesday,
   when the Three Lions take on Croatia. BBC Sport pundits choose their starting XIs
   - who would you pick?
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-14T11:04:53Z'

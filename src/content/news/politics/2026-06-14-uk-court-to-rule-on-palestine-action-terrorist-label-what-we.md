@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Court of Appeal to rule whether government&#039;s proscription of action
   group was unlawful.
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-14T08:34:29Z'

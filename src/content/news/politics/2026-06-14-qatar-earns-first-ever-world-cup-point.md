@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Qatar has earned its first-ever FIFA World Cup point in dramatic fashion
   against Switzerland.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-14T05:14:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New York's basketball team won the NBA championship for the first time
   in over 50 years after beating the Spurs in Texas.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-14T06:34:11Z'

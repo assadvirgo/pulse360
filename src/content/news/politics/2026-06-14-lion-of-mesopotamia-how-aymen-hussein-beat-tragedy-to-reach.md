@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Iraq’s ‘most expensive footballer’, striker who scored Iraq’s qualifying
   goal against Bolivia, retraces his journey.
-displayOrder: 23
+displayOrder: 38
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-14T03:28:30Z'

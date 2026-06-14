@@ -5,7 +5,7 @@ countryCode: US
 description: The New York Knicks are the 2026 NBA champions. The Knicks defeated the
   San Antonio Spurs by a score of 94-90 Saturday, winning the NBA finals series 4-1
   and lifting the Larry…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-06-14T05:28:22Z'

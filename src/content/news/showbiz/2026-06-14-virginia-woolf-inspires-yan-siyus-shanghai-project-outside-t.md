@@ -5,7 +5,7 @@ countryCode: CN
 description: '&#8220;Outside the Room of My Own,&#8221; a debut feature from Chinese
   filmmaker Yan Siyu starring Lucie Zhang, is showing a work-in-progress cut at SIFF
   Project during the…'
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-06-14T08:53:12Z'

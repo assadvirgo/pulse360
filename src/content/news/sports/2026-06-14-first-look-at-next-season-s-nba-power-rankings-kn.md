@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Here's where all 30 NBA teams stand ahead of the 2026-27 season, based
   on votes from our insiders. Who's No. 1? And who's No. 30?
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-14T12:18:15Z'
