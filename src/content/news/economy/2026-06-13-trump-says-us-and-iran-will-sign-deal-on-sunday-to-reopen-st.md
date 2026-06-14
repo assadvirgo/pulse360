@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tehran cautions that timing is unclear but Pakistan says agreement to
   extend ceasefire is close
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-13T19:31:47Z'

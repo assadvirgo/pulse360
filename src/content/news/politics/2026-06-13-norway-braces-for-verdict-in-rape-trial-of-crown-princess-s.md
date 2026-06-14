@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Marius Borg Høiby will appear via video link, almost three months after
   his trial came to an end on 40 charges, including four counts of rape.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-13T23:11:28Z'

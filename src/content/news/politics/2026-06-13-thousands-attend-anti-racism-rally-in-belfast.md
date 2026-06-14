@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Thousands joined anti-racism demonstrations across the UK after days
   of anti-immigration unrest.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-13T19:45:19Z'

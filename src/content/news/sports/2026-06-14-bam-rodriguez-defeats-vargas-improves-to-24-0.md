@@ -5,7 +5,7 @@ countryCode: US
 description: Jesse "Bam" Rodriguez violently stopped Antonio Vargas with a sixth-round
   knockout to become a world champion in a third weight class at the Desert Diamond
   Arena in Glendale,…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-14T06:06:32Z'

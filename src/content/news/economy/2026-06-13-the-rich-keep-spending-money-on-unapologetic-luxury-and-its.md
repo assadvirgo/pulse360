@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The wealthy are unfazed by inflation, and that could complicate the Fed’s
   ability to fight it.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-13T12:30:00Z'

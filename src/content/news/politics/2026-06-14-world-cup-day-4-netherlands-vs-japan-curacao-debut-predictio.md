@@ -2,7 +2,7 @@
 category: Politics
 description: The Netherlands face Japan in a must-watch game as World Cup Day 4 brings
   predictions, key fixtures and other headlines.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-14T08:38:49Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: From regulars Timothée Chalamet, Spike Lee, Ben Stiller and Tracy Morgan
   to President Donald Trump, Taylor Swift and more, THR rounds up everyone — who was
   at least photographed —…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-13T22:02:32Z'

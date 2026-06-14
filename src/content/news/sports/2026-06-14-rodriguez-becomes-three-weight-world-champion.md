@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jesse 'Bam' Rodriguez stops fellow American Antonio Vargas in the sixth
   round to win the WBA bantamweight title.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-14T08:00:16Z'

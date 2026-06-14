@@ -5,7 +5,7 @@ countryCode: US
 description: Once frequent collaborators, Seth Rogen doesn&#8217;t see an onscreen
   reunion with James Franco in his future. The 2x Golden Globe winner recently said
   he hasn&#8217;t spoken to…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-14T02:13:38Z'

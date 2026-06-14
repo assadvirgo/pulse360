@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Vinicius Jr individual effort lift Brazil&#039;s struggle in team&#039;s
   2026 tournament opener against Africa champions Morocco.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-14T00:22:18Z'

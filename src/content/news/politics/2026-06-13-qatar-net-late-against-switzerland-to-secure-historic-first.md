@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Asian Cup holders Qatar level in injury time to draw 1-1 with Switzerland
   in World Cup 2026 opening game.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-13T21:29:10Z'

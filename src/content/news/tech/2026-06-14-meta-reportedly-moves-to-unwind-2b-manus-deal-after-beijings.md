@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta starts dismantling its $2 billion Manus acquisition after Beijing
   ordered the deal reversed.
-displayOrder: 31
+displayOrder: 39
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-14T00:03:49Z'

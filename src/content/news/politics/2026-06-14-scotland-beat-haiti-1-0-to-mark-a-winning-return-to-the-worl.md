@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: John McGinn&#039;s deflected goal gives the Scots a World Cup win for
   the first time since 1990.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-14T03:23:14Z'

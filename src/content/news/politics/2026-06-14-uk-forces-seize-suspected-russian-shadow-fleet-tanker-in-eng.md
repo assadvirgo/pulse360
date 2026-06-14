@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK Ministry of Defence says it captures the vessel Smyrtos in an
   operation that lasts six hours.
-displayOrder: 22
+displayOrder: 31
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-14T07:38:58Z'
