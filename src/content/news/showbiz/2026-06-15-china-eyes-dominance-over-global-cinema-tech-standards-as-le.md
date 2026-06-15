@@ -5,7 +5,7 @@ countryCode: CN
 description: Chinese technology companies and cinema exhibitors are positioning High
   Dynamic Range LED screens as both a remedy for a slowing local box office and a
   vehicle for challenging…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-06-15T09:54:24Z'

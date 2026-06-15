@@ -5,7 +5,7 @@ countryCode: GB
 description: The UK government is introducing a ban on social media for children and
   a minimum age for some chatbots in an attempt to shield young people from dangerous
   corners of the web.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-15T09:01:53Z'

@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Fatal shooting of nine-year-old Hania Ahmed by Punjab Police officer
   causes furore.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-15T08:54:49Z'

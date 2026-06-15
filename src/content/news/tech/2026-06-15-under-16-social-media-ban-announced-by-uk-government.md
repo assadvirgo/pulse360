@@ -5,7 +5,7 @@ countryCode: GB
 description: The UK is the latest country to follow Australia in implementing a total
   social media ban for children under 16, Prime Minister Keir Starmer has announced.
   The ban, which could…
-displayOrder: 27
+displayOrder: 37
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-15T08:19:09Z'

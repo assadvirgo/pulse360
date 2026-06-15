@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: PM Sharif praises Pakistan&#039;s army chief for his efforts in securing
   a tentative deal, likely to be finalised in Geneva.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-15T13:06:38Z'

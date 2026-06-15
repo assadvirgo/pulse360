@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Somerset wrap up a 306-run victory over Nottinghamshire to hand the defending
   county champions their first loss of the season.
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-15T13:53:18Z'

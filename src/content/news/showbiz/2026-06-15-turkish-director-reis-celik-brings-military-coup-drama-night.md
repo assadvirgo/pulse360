@@ -5,7 +5,7 @@ countryCode: TR
 description: Turkish director Reis Çelik unveiled &#8220;Night of Blindness,&#8221;
   a Turkish-German co-production set during Turkey&#8217;s 1980 military coup, at
   the 28th Shanghai…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 78.8
 pubDate: '2026-06-15T12:29:16Z'

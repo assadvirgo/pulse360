@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: U.S. gas prices dipped below $4 a gallon on Monday, based on GasBuddy’s
   national average.
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-15T13:34:00Z'

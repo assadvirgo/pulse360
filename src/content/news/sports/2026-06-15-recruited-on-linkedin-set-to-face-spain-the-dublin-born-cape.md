@@ -5,7 +5,7 @@ countryCode: CV
 description: They are one of the smallest countries to play in a World Cup, but Cape
   Verde are aiming high, with a Dublin-born defender who used to work in a bank among
   their ranks.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-15T08:24:39Z'

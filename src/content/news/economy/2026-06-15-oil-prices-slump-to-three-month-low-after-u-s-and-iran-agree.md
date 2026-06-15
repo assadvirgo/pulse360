@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: West Texas Intermediate and Brent crude fell after officials agreed to
   a 60-day ceasefire while final arrangements are being negotiated.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-15T09:27:00Z'

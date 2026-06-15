@@ -2,7 +2,7 @@
 category: Politics
 description: Northern Ireland's contribution to the World Cup song includes tournaments
   in Mexico, Spain and Italy.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-15T10:58:23Z'

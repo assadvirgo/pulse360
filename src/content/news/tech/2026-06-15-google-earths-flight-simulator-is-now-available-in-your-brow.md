@@ -5,7 +5,7 @@ countryCode: US
 description: On Friday Google announced it was making a relatively unknown feature
   of Google Earth available to a wider audience. The desktop version of Google Earth
   has had a hidden flight…
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-15T13:13:23Z'

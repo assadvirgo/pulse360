@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The chain was criticised for a "Tank Day" marketing ploy on the anniversary
   of a military massacre.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-15T12:37:27Z'

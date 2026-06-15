@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A credit-limit increase can help strained borrowers improve how their
   financial picture looks on paper.
-displayOrder: 39
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-15T14:00:00Z'

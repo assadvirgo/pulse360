@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The Ebola outbreak, caused by the rare Bundibugyo virus strain, has reached
   782 confirmed cases.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 71.5
 pubDate: '2026-06-15T12:46:22Z'

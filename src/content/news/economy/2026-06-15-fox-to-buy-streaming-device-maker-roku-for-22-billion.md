@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fox, the owner of the news and sports networks, said it has reached a
   deal to acquire Roku for about $22 billion in enterprise value.
-displayOrder: 40
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-15T13:58:38Z'
