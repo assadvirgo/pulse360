@@ -5,7 +5,7 @@ countryCode: IT
 description: Banu Sıvacı’s “Hear the Yellow” has swept the main awards at this year’s
   Taormina Film Festival. The drama, which started its festival journey in Berlin
   back in February, was…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-14T19:40:31Z'

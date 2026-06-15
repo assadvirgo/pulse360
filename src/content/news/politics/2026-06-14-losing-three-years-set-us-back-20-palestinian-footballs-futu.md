@@ -2,7 +2,7 @@
 category: Politics
 description: The suspended Palestinian league is squeezing a generation of footballers,
   with little certainty about the future.
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-14T19:18:01Z'

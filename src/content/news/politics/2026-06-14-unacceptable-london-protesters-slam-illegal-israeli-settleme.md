@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Demonstrators denounce event promoting Israeli settlement land and property
   sales as a violation of international law.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-14T15:49:33Z'

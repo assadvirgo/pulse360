@@ -5,7 +5,7 @@ countryCode: BR
 description: Oliver Tree, the California-born singer-songwriter known for tracks like
   “Life Goes On,” “When I’m Down” and “Miss You,” died in a helicopter crash in Rio
   de Janeiro, according to…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-14T18:31:38Z'

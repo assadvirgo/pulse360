@@ -3,7 +3,7 @@ category: Politics
 country: Ukraine
 countryCode: UA
 description: EU set to hold membership talks with Ukraine
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-14T14:39:12Z'

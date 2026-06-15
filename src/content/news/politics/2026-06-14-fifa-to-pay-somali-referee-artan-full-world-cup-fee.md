@@ -5,7 +5,7 @@ countryCode: SO
 description: Somali referee Omar Artan, who was denied entry to the United States
   to officiate at the World Cup, will still receive his tournament fee from Fifa in
   full.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-14T09:00:08Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli affairs analyst Dan Perry explains how the US, Israel and Iran
   may react as they get closer to an agreement.
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-14T16:32:09Z'

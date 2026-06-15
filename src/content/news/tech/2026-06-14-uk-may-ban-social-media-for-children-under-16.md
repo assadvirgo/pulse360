@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The U.K. seems to be following Australia's lead in banning a wide swath
   of social media for teens.
-displayOrder: 8
+displayOrder: 15
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-14T20:17:00Z'

@@ -5,7 +5,7 @@ countryCode: BR
 description: Oliver Tree, the singer-songwriter and record producer who first burst
   onto the indie scene with Whethan&#8217;s viral alternative pop track &#8220;When
   I&#8217;m Down,&#8221; has…
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-14T19:43:25Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Nobody was seriously hurt as a result of the accident in the Spanish
   town, local authorities say.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-14T12:04:54Z'

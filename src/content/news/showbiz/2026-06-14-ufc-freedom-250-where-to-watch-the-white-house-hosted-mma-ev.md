@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The main card includes a lightweight title unification bout between Ilia
   Topuria and Justin Gaethje.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-14T19:30:02Z'

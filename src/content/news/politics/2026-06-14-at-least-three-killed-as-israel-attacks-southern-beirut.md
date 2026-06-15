@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israeli escalation in Lebanon&#039;s capital raises concerns that peace
   negotiations between US and Iran could be derailed.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-14T10:25:45Z'

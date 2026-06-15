@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: James Coles follows up his double century with three wickets as Sussex
   beat Glamorgan by an innings and 98 runs in the County Championship.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-14T17:06:41Z'
