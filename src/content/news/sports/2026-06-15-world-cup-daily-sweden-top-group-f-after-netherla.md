@@ -2,7 +2,7 @@
 category: Sports
 description: Relive all the action from Sunday's World Cup matches, with features,
   news, video analysis and color from around the competition.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-15T05:19:37Z'

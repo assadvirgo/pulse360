@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: El-Geneina residents face soaring food and water costs as aid struggles
   to meet the needs of displaced families.
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-15T08:43:00Z'

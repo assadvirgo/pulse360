@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pakistan says the deal includes Lebanon, but recent ceasefires there
   have failed to take hold.
-displayOrder: 14
+displayOrder: 32
 heroImage: ''
 importance: 75.2
 pubDate: '2026-06-15T01:37:47Z'

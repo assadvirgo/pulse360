@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US President Donald Trump and Iranian leaders say a deal has been agreed
   to end more than 100 days of war.
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-15T07:52:46Z'

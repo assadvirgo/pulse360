@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stanford University graduates walked out during Google CEO Sundar Pichai’s
   commencement address.
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-15T09:32:50Z'

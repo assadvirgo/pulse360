@@ -5,7 +5,7 @@ countryCode: UA
 description: A large-scale Russian attack on Ukraine has killed five rescue workers
   in Kharkiv and four people in Kyiv, as strikes set apartment buildings ablaze and
   sparked a fire at one of…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-15T03:51:00Z'

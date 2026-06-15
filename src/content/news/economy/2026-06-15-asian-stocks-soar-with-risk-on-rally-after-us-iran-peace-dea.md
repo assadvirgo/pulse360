@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Investor euphoria following Friday’s record SpaceX IPO helps propel Japanese
   and Korean markets
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-15T04:00:25Z'

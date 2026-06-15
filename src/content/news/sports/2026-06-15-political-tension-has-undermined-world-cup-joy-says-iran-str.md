@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran's striker Mehdi Taremi said the country's political predicament
   "undermines the joy of the World Cup".
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 60.2
 pubDate: '2026-06-15T06:50:46Z'

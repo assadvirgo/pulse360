@@ -5,7 +5,7 @@ countryCode: MC
 description: In order to create a long-running series, “there has to be meat on the
   bone,” “Vikings” creator Michael Hirst said Sundance at Monte-Carlo Television Festival.&#160;
   “It has to be…
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-15T08:44:20Z'

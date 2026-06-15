@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Orbio announces $21 Million Series A in round led by Dawn Capital.
-displayOrder: 31
+displayOrder: 42
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-15T04:01:00Z'

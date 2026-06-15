@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Coffee chain to hold &#039;historical awareness&#039; training after
   backlash to ad campaign that evoked 1980 military crackdown.
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-15T07:00:43Z'

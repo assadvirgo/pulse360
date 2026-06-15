@@ -5,7 +5,7 @@ countryCode: US
 description: Ciryl Gane captured the UFC's interim heavyweight championship for a
   second time Sunday night, crushing former two-division champion Alex Pereira at
   UFC Freedom 250 at the White…
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-15T06:40:01Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: The U.K. is moving ahead with a social media ban for children under 16,
   Prime Minister Keir Starmer announced on Monday. If passed in parliament, the ban
   will go into effect by…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-15T08:15:59Z'
