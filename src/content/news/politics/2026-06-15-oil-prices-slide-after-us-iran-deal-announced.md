@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Under the agreement, the key Strait of Hormuz waterway will be reopened,
   US President Donald Trump said.
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-15T03:17:36Z'

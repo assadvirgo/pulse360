@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gaethje is the new undisputed UFC lightweight champion after Topuria
   retired at the end of round four at White House.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-14T21:21:43Z'

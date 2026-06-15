@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Asian stock markets surge as Washington and Tehran announce agreement
   to end hostilities and reopen Strait of Hormuz.
-displayOrder: 13
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-15T00:37:07Z'

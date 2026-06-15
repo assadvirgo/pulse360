@@ -5,7 +5,7 @@ countryCode: US
 description: '"Right now, the government and its cronies [are] routinely violating
   its First Amendment to silence artists," she said at Rise Up, Sing Out: A Concert
   for the First Amendment in…'
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-15T05:34:16Z'

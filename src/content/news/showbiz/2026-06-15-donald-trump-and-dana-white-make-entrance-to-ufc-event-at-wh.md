@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATE: Donald Trump and UFC&#8217;s Dana White walked from the Oval
   Office along the colonnade to the &#8220;claw,&#8221; signaling that the championship
   fights at the White…'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-15T00:41:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Agreement will extend ceasefire by 60 days, reopen the Strait of Hormuz
   and begin nuclear negotiations
-displayOrder: 23
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-14T23:17:40Z'

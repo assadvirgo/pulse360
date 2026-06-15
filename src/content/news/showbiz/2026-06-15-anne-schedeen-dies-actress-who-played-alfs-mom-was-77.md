@@ -5,7 +5,7 @@ countryCode: US
 description: Anne Schedeen, the actress who starred as matriarch Kate Tanner on NBC&#8217;s
   ALF (1986-&#8217;90), has died. She was 77. Deadline confirms the actress died after
   the family…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 63.0
 pubDate: '2026-06-15T03:26:16Z'

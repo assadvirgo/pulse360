@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Asia&#039;s most successful side, Japan, twice come from behind to draw
   2-2 with Netherlands in Group F opener.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-14T22:16:14Z'

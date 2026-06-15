@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president has said he expects Washington and Tehran to seal a deal
   to reopen the Strait of Hormuz on Sunday
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-14T16:11:01Z'

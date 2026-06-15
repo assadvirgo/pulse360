@@ -5,7 +5,7 @@ countryCode: IN
 description: Deepti Sharma takes five wickets, including three in the final over,
   to help India secure a 64-run win over Pakistan in their ICC Women's T20 World Cup
   Group One match at…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-14T18:39:58Z'

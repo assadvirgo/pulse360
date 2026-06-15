@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: ‌Victor Munoz is also fit to play, as coach Luis de la Fuente says he
   has no concerns over his players&#039; fitness.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-14T22:15:48Z'

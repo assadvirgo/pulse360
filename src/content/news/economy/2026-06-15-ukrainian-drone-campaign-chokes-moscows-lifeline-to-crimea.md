@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Fuel shortages are plaguing Russian-occupied peninsula that is ‘very
   easy to capture and very hard to keep’
-displayOrder: 39
+displayOrder: 44
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-15T04:00:26Z'

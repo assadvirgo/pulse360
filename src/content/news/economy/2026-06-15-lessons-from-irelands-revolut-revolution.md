@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: The fintech’s model is proving more suitable for international scaling
   than the often outdated systems of legacy rivals
-displayOrder: 40
+displayOrder: 45
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-15T04:00:26Z'
