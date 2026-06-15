@@ -5,7 +5,7 @@ countryCode: CH
 description: Police in Geneva have fired tear gas and water cannons at protesters
   who set fire to a Tesla vehicle and smashed windows at a UN agency in protests ahead
   of tomorrow's G7 summit…
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 80.0
 pubDate: '2026-06-14T20:00:00Z'

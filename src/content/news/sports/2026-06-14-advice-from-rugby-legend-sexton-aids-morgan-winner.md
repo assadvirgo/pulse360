@@ -5,7 +5,7 @@ countryCode: IE
 description: A chance encounter with former Ireland rugby star Johnny Sexton helped
   Niall Morgan hold his nerve as Tyrone beat Mayo to secure a place in the last eight
   of the All-Ireland SFC.
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-14T17:30:12Z'

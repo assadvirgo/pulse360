@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Foreigners barred from accessing top AI models, underscoring Donald Trump&#039;s
   policy of export controls over high tech.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 65.5
 pubDate: '2026-06-14T13:57:22Z'

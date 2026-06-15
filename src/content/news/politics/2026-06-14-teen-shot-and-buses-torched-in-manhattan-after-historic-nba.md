@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At least 63 people were arrested in the disorder after the Knicks beat
   the Spurs to clinch the title.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-14T14:08:03Z'

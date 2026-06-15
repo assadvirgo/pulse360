@@ -5,7 +5,7 @@ countryCode: AU
 description: 'EXCLUSIVE: Here&#8217;s your first look at Anna Friel as Dr. Gloria
   Wall in Australian medical drama series The F Ward. The Pushing Daisies and Marcella
   star plays a fearsome and…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-14T20:00:00Z'

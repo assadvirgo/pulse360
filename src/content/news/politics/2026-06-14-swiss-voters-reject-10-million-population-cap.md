@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Nearly 55% of participants voted against the proposal to cap population
   by cutting migration, results show.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-14T18:23:52Z'

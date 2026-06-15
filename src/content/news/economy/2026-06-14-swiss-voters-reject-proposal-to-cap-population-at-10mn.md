@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Early projections showed 54 per cent of voters rejected the initiative
   backed by the rightwing Swiss People’s party
-displayOrder: 45
+displayOrder: 50
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-14T16:23:28Z'

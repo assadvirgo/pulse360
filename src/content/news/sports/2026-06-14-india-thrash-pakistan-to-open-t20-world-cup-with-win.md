@@ -5,7 +5,7 @@ countryCode: IN
 description: Smriti Mandhana's 68-run knock and Deepti Sharma's five-wicket haul helped
   India secure an impressive 64-run win over Pakistan in Group One of the ICC Women's
   T20 World Cup.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-14T17:57:06Z'

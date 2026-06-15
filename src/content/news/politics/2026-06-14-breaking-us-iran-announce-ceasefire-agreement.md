@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: US President Donald Trump has announced a ceasefire agreement with Iran.
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-14T22:54:36Z'

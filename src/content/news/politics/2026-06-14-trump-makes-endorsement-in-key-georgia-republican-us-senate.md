@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump picks Mike Collins over Derek Dooley in race to determine who will
   face Democrat Jon Ossoff in November midterms.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-14T15:38:02Z'

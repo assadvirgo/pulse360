@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Seven-time world champion&#039;s maiden victory for the Italian manufacturer
   is also his first F1 win in nearly two years.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-14T19:37:30Z'

@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: By shifting work to the consumer, AI will usher in a self-service economy
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-14T12:00:09Z'

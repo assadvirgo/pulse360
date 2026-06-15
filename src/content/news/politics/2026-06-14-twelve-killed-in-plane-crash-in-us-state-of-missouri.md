@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Plane crashes near Butler Memorial Airport near Kansas City, with authorities
   reporting skydivers on board.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-14T19:29:29Z'
