@@ -3,7 +3,7 @@ category: Economy
 description: Crowded positioning, a pause in central-bank buying, an increase in the
   dollar and a rise in real interest rates all contributed to the 26% peak-to-trough
   decline in the gold…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-15T12:20:00Z'

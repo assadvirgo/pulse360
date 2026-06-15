@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: At least ‌28 people have died and several others were injured after a
   bus ‌plunged into a ravine ​in Ethiopia, state media reported.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-15T08:56:00Z'

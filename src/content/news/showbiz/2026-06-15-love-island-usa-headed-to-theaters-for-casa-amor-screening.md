@@ -5,7 +5,7 @@ countryCode: US
 description: Love Island USA is headed to theaters this summer with a screening of
   the Casa Amor fallout. Peacock is taking the villa to select theaters nationwide
   so fans can experience the…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-15T16:45:00Z'

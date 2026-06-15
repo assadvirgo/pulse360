@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The research firm Citrini says hot inflation and jobs readings mask a
   more somber reality — and that’s good news for the stock market.
-displayOrder: 35
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-15T12:43:00Z'

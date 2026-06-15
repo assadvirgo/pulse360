@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Medicare Part A, which pays for inpatient hospital stays, would see an
   11% payment cut.
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-15T17:22:00Z'

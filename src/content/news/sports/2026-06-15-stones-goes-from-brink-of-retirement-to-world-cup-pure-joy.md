@@ -5,7 +5,7 @@ countryCode: GB
 description: John Stones' selection for England's World Cup squad may have raised
   a few eyebrows but the player says he had to "dig deep" to secure his place in the
   26-man travelling party.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-15T12:21:54Z'

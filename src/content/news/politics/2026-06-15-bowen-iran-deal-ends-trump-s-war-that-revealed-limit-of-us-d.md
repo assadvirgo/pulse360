@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The deal to end fighting and re-open the Strait of Hormuz leaves the
   sides where they were 24 hours before the war - only with thousands now dead.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-15T14:26:28Z'
