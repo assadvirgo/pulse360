@@ -5,7 +5,7 @@ countryCode: MA
 description: Yassine El Idrissi&#8217;s drama &#8220;Halima&#8221; has entered the
   Golden Goblet Awards Main Competition at the 28th Shanghai International Film Festival,
   where it celebrated…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-16T13:27:02Z'

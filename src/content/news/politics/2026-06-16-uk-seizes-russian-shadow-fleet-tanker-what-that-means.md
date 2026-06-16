@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK&#039;s Royal Marines conduct first-of-its-kind operation in the English
   Channel, causing other tankers to turn around.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-16T04:54:06Z'

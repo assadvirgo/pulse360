@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australia’s Bureau of Meteorology says forecasts have pointed towards
   a &#039;very strong El Nino event&#039;.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-16T10:35:32Z'

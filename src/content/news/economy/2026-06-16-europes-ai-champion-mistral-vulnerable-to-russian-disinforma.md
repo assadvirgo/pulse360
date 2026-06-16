@@ -4,7 +4,7 @@ country: Estonia
 countryCode: EE
 description: Open-source generative models are worse at removing false news than others,
   according to Estonian researchers
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-16T04:00:25Z'

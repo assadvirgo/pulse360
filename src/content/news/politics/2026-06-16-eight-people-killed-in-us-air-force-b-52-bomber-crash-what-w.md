@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The aircraft, one of the US Air Force&#039;s longest-used bombers, goes
   down during a routine test mission.
-displayOrder: 18
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-16T08:32:45Z'

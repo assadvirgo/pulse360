@@ -3,7 +3,7 @@ category: Politics
 country: Qatar
 countryCode: QA
 description: Qatar’s Emir hails Iran deal and touts US investments in Trump meeting.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-16T10:57:16Z'

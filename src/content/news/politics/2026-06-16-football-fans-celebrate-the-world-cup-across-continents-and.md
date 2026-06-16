@@ -2,7 +2,7 @@
 category: Politics
 description: Fans in jerseys and painted faces gather to watch World Cup matches,
   celebrating unity and rivalry alike.
-displayOrder: 12
+displayOrder: 31
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-16T08:43:00Z'

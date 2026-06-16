@@ -5,7 +5,7 @@ countryCode: US
 description: FBI Director Kash Patel said that &#8220;multiple individuals are now
   in custody after the bureau and other law enforcement stopped a plot to attack the
   UFC event at the White…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-16T12:53:46Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: It's been more than a year since Schlage announced its first smart lock
   to support ultra wideband technology (UWB), but now it's finally almost available
   to purchase. Starting…
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 63.2
 pubDate: '2026-06-16T13:00:00Z'

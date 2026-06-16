@@ -5,7 +5,7 @@ countryCode: GB
 description: Video assistant referee Shaun Evans has denied "intentionally" making
   a hand gesture "to communicate a message, affiliation, game or belief of any kind"
   and claimed it was a "an…
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-15T22:29:29Z'

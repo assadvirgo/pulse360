@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Primaries are set to take place in Alabama, California, Oklahoma, Georgia,
   and the capital, Washington, DC, on Tuesday.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-16T08:58:44Z'

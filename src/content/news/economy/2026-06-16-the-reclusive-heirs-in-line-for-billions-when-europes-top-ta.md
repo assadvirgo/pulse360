@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Unlikely cast of characters who own half of KNDS set for a windfall as
   Berlin prepares to buy in at an up to €20bn valuation
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-16T04:00:14Z'
