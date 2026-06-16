@@ -5,7 +5,7 @@ countryCode: US
 description: Senior officials at the Justice Department moved to close out the antitrust
   investigation into Paramount&#8217;s $111 billion takeover of Warner Bros. Discovery
   before the team of…
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 75.8
 pubDate: '2026-06-16T13:09:27Z'

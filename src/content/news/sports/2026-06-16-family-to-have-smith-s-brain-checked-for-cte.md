@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The family of Aldon Smith has decided to send his brain to medical experts
   in Boston to see if CTE played a role in the former NFL defensive lineman's death.
-displayOrder: 36
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-16T14:25:16Z'

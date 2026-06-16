@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 37th president’s foundation has posted a slew of slickly edited videos
   aiming to make the late disgraced POTUS seem cool. It appears to be working.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-16T17:00:00Z'

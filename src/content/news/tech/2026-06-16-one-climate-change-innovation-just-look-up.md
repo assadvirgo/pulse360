@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: To build one family’s dream house on a flood-prone Mississippi bayou,
   AD100 architect Tom Kundig decided the sky’s the limit.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-16T16:58:47Z'

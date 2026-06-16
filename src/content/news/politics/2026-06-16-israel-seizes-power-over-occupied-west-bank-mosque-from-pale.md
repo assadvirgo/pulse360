@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hebron&#039;s mayor warns unilateral changes breach agreements, posing
   significant consequences for the region&#039;s stability.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-16T17:23:12Z'

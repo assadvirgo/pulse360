@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A dismembered body found in a chain-bound trunk in the Seine in 1995
   was only recently connected to the defendant by DNA evidence.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-16T14:46:35Z'

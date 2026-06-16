@@ -5,7 +5,7 @@ countryCode: US
 description: Despite some warning signals from inflation and the direction of travel
   for Kevin Warsh, fund managers seem reluctant to reduce exposure but Michsael Hartnett
   expects some chips…
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-16T12:28:00Z'

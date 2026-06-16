@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president also made unusually critical comments about Israel&#039;s
   military offensive in Lebanon.
-displayOrder: 23
+displayOrder: 38
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-16T11:41:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says he is ‘not happy’ with Israeli military campaign against
   Lebanese militant group
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-16T13:22:42Z'

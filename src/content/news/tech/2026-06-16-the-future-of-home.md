@@ -3,7 +3,7 @@ category: Tech
 description: How we live now is defined by unprecedented forces. In this special issue,
   WIRED and Architectural Digest help you understand what home will look like tomorrow—and
   beyond.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-16T17:00:00Z'

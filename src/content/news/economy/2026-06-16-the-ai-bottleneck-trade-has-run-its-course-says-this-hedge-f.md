@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: One hot AI trade that is starting to wind down is the “bottleneck trade,”
   says Altreides Management managing partner Gavin Baker
-displayOrder: 30
+displayOrder: 45
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-16T12:49:00Z'

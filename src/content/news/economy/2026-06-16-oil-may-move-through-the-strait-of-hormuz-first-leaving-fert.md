@@ -5,7 +5,7 @@ countryCode: US
 description: The interim peace agreement between the U.S. and Iran seems to be doing
   little to answer some of the thornier questions about the Strait of Hormuz, including
   how much longer it…
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-16T15:39:00Z'

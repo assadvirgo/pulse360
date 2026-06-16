@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Ministry of Defence says it is ‘investigating reports of incident’
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-16T17:10:37Z'

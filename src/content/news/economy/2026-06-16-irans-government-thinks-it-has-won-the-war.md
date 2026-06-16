@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The Islamic republic faced devastating losses during the conflict, but
   the regime has gained in confidence
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-16T11:20:36Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French President Emmanuel Macron said Tuesday’s lunch summit would focus
   on reopening the Strait of Hormuz.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 90.5
 pubDate: '2026-06-16T09:13:41Z'
