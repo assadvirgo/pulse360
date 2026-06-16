@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The BBC's Gary O'Donoghue looks at the contrasting approaches of the
   two presidents as Trump touts a new peace deal.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-15T23:11:25Z'

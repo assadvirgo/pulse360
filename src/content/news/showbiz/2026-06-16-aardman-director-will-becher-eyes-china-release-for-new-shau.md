@@ -5,7 +5,7 @@ countryCode: CN
 description: 'Aardman director Will Becher said &#8220;Shaun the Sheep: The Beast
   of Mossy Bottom&#8221; could reach Chinese cinemas in October, speaking at a panel
   discussion at the Shanghai…'
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-16T08:45:37Z'

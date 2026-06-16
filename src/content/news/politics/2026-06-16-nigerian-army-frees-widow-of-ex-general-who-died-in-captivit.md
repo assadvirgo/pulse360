@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Maj Gen Rabe Abubakar and his wife Amina were abducted in north-west
   Nigeria at the end of last month.
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-16T09:06:57Z'

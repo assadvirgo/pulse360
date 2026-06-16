@@ -5,7 +5,7 @@ countryCode: AU
 description: 'UPDATE — June 16, 01:24 am PT: FIFA’s disciplinary committee has cleared
   Australian video referee Shaun Evans of any wrongdoing after he was accused of making
   a hand gesture…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 55.0
 pubDate: '2026-06-16T08:26:53Z'

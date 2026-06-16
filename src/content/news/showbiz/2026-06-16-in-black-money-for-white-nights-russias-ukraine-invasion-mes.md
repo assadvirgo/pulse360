@@ -5,7 +5,7 @@ countryCode: BG
 description: The film from Bulgarian directors Kristina Grozeva and Petar Valchanov
   about post-Soviet society debuts in the main competition of the Karlovy Vary festival,
   which the duo won in…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-16T06:59:00Z'

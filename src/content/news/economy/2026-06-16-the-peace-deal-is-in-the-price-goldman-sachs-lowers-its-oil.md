@@ -3,7 +3,7 @@ category: Economy
 description: Risks to oil price assumptions in the event of a finalized peace deal
   are two-sided but the Goldman Sachs report notes that the global economy adjusted
   very flexibly to the…
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-16T09:07:00Z'

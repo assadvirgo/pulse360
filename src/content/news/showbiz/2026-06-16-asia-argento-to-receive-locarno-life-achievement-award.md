@@ -5,7 +5,7 @@ countryCode: CH
 description: Giona A. Nazzaro, the Swiss festival's artistic director, lauded her
   as "an artist who has always managed to reimagine what it means to make films, constantly
   challenging herself…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-16T09:00:00Z'

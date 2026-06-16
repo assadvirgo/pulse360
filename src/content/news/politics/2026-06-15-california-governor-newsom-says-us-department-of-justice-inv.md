@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Newsom says he and wife targeted because he is considering running for
   president in 2028; DOJ has not confirmed probe.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-15T19:54:01Z'

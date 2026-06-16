@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Boeing B-52 Stratofortress has been used by the US military since
   the 1950s.
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-16T01:49:03Z'

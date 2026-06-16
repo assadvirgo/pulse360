@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Prime Minister Benjamin Netanyahu says Israeli forces will maintain a
   ‘security zone’ in occupied Lebanon.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-16T01:38:36Z'

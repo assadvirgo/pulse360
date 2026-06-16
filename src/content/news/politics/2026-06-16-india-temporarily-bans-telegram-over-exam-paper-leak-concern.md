@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The NEET exam had earlier been scrapped over allegations of a paper leak,
   sparking massive protests.
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-16T09:23:06Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv sees EU accession as a security guarantee and alignment with Western
   values as it defends against Russian invasion.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-15T20:46:46Z'

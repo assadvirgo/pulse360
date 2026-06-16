@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Incentives would be tied to Tehran’s ‘performance’ including over opening
   of the Strait of Hormuz and nuclear talks
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-15T21:03:49Z'

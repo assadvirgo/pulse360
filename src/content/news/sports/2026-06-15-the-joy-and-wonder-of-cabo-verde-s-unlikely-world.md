@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: Searching for a lovable underdog to cheer for this World Cup? Look no
   further than Cabo Verde.
-displayOrder: 45
+displayOrder: 50
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-15T20:08:21Z'

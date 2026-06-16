@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The men's cycling race starts in Lincolnshire, with further stages in
   Yorkshire and Scotland.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-16T04:59:17Z'

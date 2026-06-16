@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped
   in a new political and security dilemma.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-16T03:40:36Z'
