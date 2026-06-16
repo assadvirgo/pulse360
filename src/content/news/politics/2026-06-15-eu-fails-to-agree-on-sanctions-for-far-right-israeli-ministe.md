@@ -2,7 +2,7 @@
 category: Politics
 description: EU diplomacy chief Kaja Kallas confirms EU remains divided on sanctioning
   Israel
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-15T18:47:22Z'

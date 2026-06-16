@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Prime minister launches a fierce defence of his wartime policies, insisting
   the strikes on Iran had been a success
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-15T19:39:51Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Trade tensions, wars and Asia&#039;s rise are testing the influence and
   unity of the Group of Seven (G7).
-displayOrder: 10
+displayOrder: 28
 heroImage: ''
 importance: 77.5
 pubDate: '2026-06-15T16:27:17Z'

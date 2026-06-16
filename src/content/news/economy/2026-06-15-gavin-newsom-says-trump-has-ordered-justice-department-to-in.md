@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: California governor is considered a potential Democratic presidential
   candidate for 2028
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-15T20:13:44Z'

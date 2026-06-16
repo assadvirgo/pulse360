@@ -5,7 +5,7 @@ countryCode: US
 description: The $30 trillion Treasury market is taking a wait-and-see approach to
   the U.S.-Iran peace framework deal and to Kevin Warsh’s first meeting as Federal
   Reserve chair.
-displayOrder: 30
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-15T19:41:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It was not immediately clear if there were any casualties in crash at
   base north of Los Angeles, California.
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-15T19:27:25Z'

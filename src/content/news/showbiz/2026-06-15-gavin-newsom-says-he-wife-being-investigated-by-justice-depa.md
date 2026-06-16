@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED: California Governor Gavin Newsom said that he and his wife
   are under investigation by the Justice Department, in what he called a politically
   motivated probe at the…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 71.0
 pubDate: '2026-06-15T18:41:35Z'

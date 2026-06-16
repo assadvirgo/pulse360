@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian President Volodymyr Zelenskyy visited a landmark Kyiv cathedral
   damaged by Russian missile and drone strikes.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-15T18:23:30Z'

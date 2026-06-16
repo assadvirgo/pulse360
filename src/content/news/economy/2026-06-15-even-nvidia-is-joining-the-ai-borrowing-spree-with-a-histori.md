@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nvidia is launching a seven-tranche debt offering to refinance its existing
   debt, as investor appetite for AI credit surges.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-15T15:23:00Z'

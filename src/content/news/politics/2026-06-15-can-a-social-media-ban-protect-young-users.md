@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK says it&#039;s banning access to social media for those under
   age 16.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-15T20:56:36Z'

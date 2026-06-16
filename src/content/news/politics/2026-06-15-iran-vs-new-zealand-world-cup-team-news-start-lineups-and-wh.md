@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: After uncertainty over their participation and a disrupted build-up,
   Iran are set to begin their World Cup campaign.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-15T17:23:51Z'

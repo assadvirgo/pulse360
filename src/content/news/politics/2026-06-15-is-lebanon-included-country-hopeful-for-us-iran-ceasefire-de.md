@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Ceasefire raises hopes in Lebanon, yet Israeli defiance and past violations
   overshadow lasting peace.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-06-15T15:20:57Z'

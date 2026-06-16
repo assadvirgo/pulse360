@@ -5,7 +5,7 @@ countryCode: US
 description: 'For months, Big Tech''s Washington lobbyists have chased after the holy
   grail of pro-AI legislation: preemption. This would be a comprehensive federal law,
   passed in Congress and…'
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-15T17:44:10Z'

@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The claims also prompted a response from UK media regulator Ofcom, who
   called them "deeply concerning".
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-15T23:40:31Z'
