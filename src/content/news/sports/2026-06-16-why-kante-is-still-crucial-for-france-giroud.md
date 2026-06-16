@@ -5,7 +5,7 @@ countryCode: FR
 description: France's World Cup winner Olivier Giroud explains why N'Golo Kante is
   still an important part of Didier Deschamps' squad, eight years after planning to
   retire from international…
-displayOrder: 14
+displayOrder: 23
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-16T05:27:16Z'

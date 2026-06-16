@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Buyout groups that have invested heavily in professional services face
   disruption from developing technology
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-16T04:00:24Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The 57-year-old, who is in the running for five Emmy nominations this
   year — two for acting, two for producing and one for directing — spoke with THR
   in front of a Chapman…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-15T20:52:14Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Sheryl Crow has slammed President Donald Trump and his administration
   for staging the UFC Freedom 250 event last night at the White House, describing
   it as &#8220;disgraceful and…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-16T01:43:43Z'

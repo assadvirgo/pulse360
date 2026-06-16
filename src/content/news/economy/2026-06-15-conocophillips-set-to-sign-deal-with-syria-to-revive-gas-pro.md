@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Agreement will be first by a US energy major with Damascus as it aims
   to rebuild activity after years of civil war
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-15T21:09:52Z'

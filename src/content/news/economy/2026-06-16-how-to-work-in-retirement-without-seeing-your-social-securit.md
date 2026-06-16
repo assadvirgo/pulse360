@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Claiming benefits before full retirement age while keeping a job can
   trigger unexpected withholdings — but the money isn’t lost forever.
-displayOrder: 32
+displayOrder: 37
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-16T00:11:00Z'

@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: The reform is one of the first introduced by PM Peter Magyar as he seeks
   to return Hungary to the EU mainstream.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-15T20:46:00Z'

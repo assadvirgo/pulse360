@@ -5,7 +5,7 @@ countryCode: US
 description: Los Angeles quartet the Linda Lindas, who first captured national attention
   as teenagers (or pre-teenagers) in 2018, have signed with Reprise-Warner Records
   and celebrated by…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-15T22:14:57Z'

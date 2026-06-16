@@ -2,7 +2,7 @@
 category: Economy
 description: This common comparison invites us to see ourselves as sub-optimal alternatives
   to AI agents
-displayOrder: 44
+displayOrder: 42
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-16T04:00:33Z'

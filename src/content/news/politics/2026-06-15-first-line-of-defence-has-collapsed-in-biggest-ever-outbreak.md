@@ -5,7 +5,7 @@ countryCode: CD
 description: The number of Ebola infections in the Democratic Republic of Congo (DRC)
   is likely far higher than official figures, Oxfam has warned, due to lack of clean
   water and sanitation.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-15T23:01:00Z'

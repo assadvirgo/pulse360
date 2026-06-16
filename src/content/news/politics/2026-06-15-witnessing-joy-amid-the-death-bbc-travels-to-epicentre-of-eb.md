@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: There are glimpses of happiness in the Democratic Republic of Congo's
   fight against the virus that has killed more than 170.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-15T23:26:39Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Britain's Francesca Jones misses two match points in a narrow defeat
   by Talia Gibson in the Nottingham Open first round.
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-15T18:38:33Z'

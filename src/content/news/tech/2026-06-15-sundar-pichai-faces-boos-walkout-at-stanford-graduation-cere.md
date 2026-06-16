@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI is once again at the heart of a college graduation protest — this
   time for the technology's use in Google's defense contracts.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-06-15T23:51:44Z'

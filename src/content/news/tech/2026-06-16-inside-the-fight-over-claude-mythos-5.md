@@ -5,7 +5,7 @@ countryCode: US
 description: As the rest of the country celebrated the USA's first World Cup win and
   the New York Knicks championship, Anthropic spent its weekend fighting the Trump
   administration over its…
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-16T03:00:00Z'

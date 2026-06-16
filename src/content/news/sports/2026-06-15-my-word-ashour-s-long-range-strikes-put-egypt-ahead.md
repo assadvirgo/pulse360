@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Egypt's Emam Ashour scores the opener in their Group G fixture against
   Belgium in the 2026 World Cup.
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-15T20:08:57Z'

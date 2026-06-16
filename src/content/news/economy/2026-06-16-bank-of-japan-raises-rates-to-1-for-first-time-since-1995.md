@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Central bank says it will stop reducing level of monthly bond purchases
   from next year
-displayOrder: 40
+displayOrder: 41
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-16T04:26:05Z'

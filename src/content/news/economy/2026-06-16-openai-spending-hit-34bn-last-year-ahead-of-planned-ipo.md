@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Audited figures reveal mounting costs from model development, infrastructure
   and rapid expansion
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-16T03:28:59Z'

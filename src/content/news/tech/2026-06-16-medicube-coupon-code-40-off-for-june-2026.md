@@ -2,7 +2,7 @@
 category: Tech
 description: Upgrade your K-beauty routine with these active Medicube promo codes.
   Save on Age-R devices, serums, and masks with student discounts and referral rewards.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 71.2
 pubDate: '2026-06-16T05:00:00Z'

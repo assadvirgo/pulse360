@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Reports show drone use expanding, with more than 1,000 civilians killed
   in first five months of 2026.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 70.5
 pubDate: '2026-06-15T16:45:14Z'

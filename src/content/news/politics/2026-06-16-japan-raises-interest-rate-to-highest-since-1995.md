@@ -3,7 +3,7 @@ category: Politics
 country: Japan
 countryCode: JP
 description: The Bank of Japan has been raising rates from near-zero since 2024.
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-16T05:35:57Z'
