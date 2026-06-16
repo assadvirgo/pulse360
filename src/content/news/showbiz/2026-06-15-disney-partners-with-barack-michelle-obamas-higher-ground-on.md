@@ -5,7 +5,7 @@ countryCode: US
 description: Disney and President Barack Obama and Michelle Obama’s Higher Ground
   are joining forces to greenlight music-driven, original animated fantasy series
   Journey for Disney+. It marks…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-15T21:00:00Z'

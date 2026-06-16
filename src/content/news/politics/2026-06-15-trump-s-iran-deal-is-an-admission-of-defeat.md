@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Iran "deal" is a tacit admission of strategic defeat by the Trump
   administration and of a failure to achieve nearly all of his war aims.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-15T17:05:00Z'

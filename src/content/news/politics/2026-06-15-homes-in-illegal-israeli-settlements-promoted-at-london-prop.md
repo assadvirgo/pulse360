@@ -5,7 +5,7 @@ countryCode: GB
 description: Sky News has obtained exclusive images that demonstrate illegal Israeli
   settlements in the West Bank were being advertised at a controversial property show
   that attracted large…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-15T16:18:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: PM warns social media platforms are exposing children to content that
   is &#039;dangerous&#039; and &#039;designed to be addictive&#039;.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-15T10:01:31Z'

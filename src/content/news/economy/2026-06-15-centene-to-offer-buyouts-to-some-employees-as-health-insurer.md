@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The health insurer Centene did not indicate to how many employees were
   offered buyouts or how much it is aiming to reduce its workforce.
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-15T20:50:35Z'

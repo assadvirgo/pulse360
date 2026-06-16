@@ -5,7 +5,7 @@ countryCode: US
 description: Last week, Xbox boss Asha Sharma sent a memo warning of an Xbox "reset"
   ahead of expected layoffs, and today, Kotaku reported that Xbox plans to shut down
   Compulsion Games, the…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-15T17:08:35Z'

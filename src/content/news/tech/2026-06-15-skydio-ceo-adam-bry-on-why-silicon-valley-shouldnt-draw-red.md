@@ -5,7 +5,7 @@ countryCode: US
 description: Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US
   maker of autonomous drones. Before we recorded this episode, I actually got to remotely
   operate one of…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-15T14:00:00Z'

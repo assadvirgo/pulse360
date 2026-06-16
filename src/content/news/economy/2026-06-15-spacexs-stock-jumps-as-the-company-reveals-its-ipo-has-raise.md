@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Underwriters on the already record-breaking IPO exercised the option
   to buy another 83 million shares.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-15T20:23:00Z'

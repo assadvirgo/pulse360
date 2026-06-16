@@ -3,7 +3,7 @@ category: Politics
 country: Lebanon
 countryCode: LB
 description: Mass return to southern Lebanon following US-Iran agreement
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-15T17:25:29Z'
