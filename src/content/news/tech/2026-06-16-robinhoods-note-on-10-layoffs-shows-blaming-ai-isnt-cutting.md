@@ -5,7 +5,7 @@ countryCode: US
 description: Unlike many of his tech industry peers who have cut thousands of jobs
   citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev
   conspicuously made no…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 72.0
 pubDate: '2026-06-16T14:50:09Z'

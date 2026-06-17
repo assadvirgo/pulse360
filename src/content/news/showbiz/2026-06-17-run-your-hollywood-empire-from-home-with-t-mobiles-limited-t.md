@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Customers who sign up for the carrier's 5G Home Internet will receive
   their first month on them plus up to $200 back — here's how to claim the deal online.
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-17T00:31:05Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: From Cape Verde’s debut to Ghana’s quarter-final legacy, six teams from
   sub-Saharan Africa to watch at the World Cup.
-displayOrder: 25
+displayOrder: 33
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-16T20:14:29Z'

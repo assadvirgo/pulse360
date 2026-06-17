@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Newly launched leveraged ETFs are seeing heavy inflows as investors look
   for fresh ways to play the SpaceX hype.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-16T19:20:00Z'

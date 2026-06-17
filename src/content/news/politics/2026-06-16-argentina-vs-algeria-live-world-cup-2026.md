@@ -2,7 +2,7 @@
 category: Politics
 description: Follow our live build-up, with full team news coverage, ahead of our
   text commentary stream service.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-16T21:05:41Z'

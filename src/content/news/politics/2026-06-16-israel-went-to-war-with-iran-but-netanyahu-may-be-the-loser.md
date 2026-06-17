@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Critics say PM Benjamin Netanyahu&#039;s Iran war strengthened Tehran,
   strained US ties, and left Israel weaker.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-16T15:57:03Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A major injury scare around captain Nat Sciver-Brunt overshadows England's
   four-wicket victory over Ireland at the T20 World Cup in Southampton.
-displayOrder: 12
+displayOrder: 16
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-16T23:08:33Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: '"I always will think of myself as a working actor who''s had extraordinary
   triumphs and a lot of dry spells," the 50-year-old, whose past credits include the
   ''Final Destination''…'
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 75.8
 pubDate: '2026-06-16T20:51:14Z'

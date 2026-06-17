@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Warning comes as Trump criticises Netanyahu over Israel&#039;s attacks
   on Lebanon.
-displayOrder: 7
+displayOrder: 12
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-17T00:00:18Z'

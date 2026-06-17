@@ -5,7 +5,7 @@ countryCode: US
 description: The adaptation trail of &#8220;Girls Like Girls&#8221; is an unusual
   one. In 2015, pop singer Hayley Kiyoko released her hyper-catchy song of the same
   name, bringing a plainly…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-17T00:00:26Z'

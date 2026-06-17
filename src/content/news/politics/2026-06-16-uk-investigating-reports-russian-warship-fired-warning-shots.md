@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC News understands the yacht had drifted towards the Admiral Grigorovich,
   a Russian frigate which has been operating in the Channel.
-displayOrder: 6
+displayOrder: 13
 heroImage: ''
 importance: 68.2
 pubDate: '2026-06-16T20:21:09Z'

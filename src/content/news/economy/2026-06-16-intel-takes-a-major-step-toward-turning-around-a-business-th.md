@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Intel’s new manufacturing process has entered a stage that signals the
   company is confident in its ability to bring on external customers, analysts say.
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-16T22:49:00Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: A pitch at the same venue had received an unsatisfactory rating from
   the match referee ODI between USA and Netherlands last week
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-16T17:02:17Z'
