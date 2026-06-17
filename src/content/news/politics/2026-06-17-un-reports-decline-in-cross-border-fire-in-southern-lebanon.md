@@ -3,7 +3,7 @@ category: Politics
 country: Lebanon
 countryCode: LB
 description: UN reports decline in cross-border fire in southern Lebanon
-displayOrder: 20
+displayOrder: 26
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-17T01:24:27Z'

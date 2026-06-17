@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Yoshimitsu Kobayashi highlights worries over $550bn funding for American
   infrastructure as domestic productivity lags
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-17T01:53:46Z'

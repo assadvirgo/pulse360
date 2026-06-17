@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ready for an upgrade? Apply our latest promotional codes today and choose
   a select service plan to score a discount with Verizon.
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-17T05:00:00Z'

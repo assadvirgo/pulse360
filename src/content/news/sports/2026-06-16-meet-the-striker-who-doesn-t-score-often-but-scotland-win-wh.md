@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lyndon Dykes has taken a long road to a major finals with Scotland but
   he's bald, belligerent and up for the battle against Morocco.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-16T21:33:43Z'

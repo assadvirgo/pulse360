@@ -5,7 +5,7 @@ countryCode: US
 description: James Barker, an executive producer on Love Island USA, died last week,
   and the Peacock series paid tribute to him on tonight&#8217;s episode. Following
   the recoupling episode on…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-17T01:55:15Z'

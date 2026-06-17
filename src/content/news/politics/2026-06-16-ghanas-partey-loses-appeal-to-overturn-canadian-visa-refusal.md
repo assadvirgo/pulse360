@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Thomas Partey will not be able to enter Canada for Ghana&#039;s first
   World Cup match against Panama on Wednesday.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-16T21:39:27Z'

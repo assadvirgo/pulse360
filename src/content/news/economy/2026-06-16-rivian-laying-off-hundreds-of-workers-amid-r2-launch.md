@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rivian said Tuesday it was laying off hundreds of workers, or less than
   2% of its workforce.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-16T18:41:27Z'

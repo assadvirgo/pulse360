@@ -5,7 +5,7 @@ countryCode: US
 description: The legendary musician spoke with Bono at the Tribeca Festival about
   their music and activism before the duo joined Patti Smith on a rousing rendition
   of "People Have the Power."
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-16T22:01:59Z'

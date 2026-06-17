@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK says incident is not linked to Britain’s interception of an oil tanker
   that is part of Moscow’s shadow fleet
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-16T20:01:51Z'

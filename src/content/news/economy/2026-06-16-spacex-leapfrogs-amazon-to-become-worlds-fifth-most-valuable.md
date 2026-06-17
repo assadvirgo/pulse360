@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk’s AI, rocket and satellite group also announces $60bn deal
   for AI coding app Cursor
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-16T20:26:41Z'

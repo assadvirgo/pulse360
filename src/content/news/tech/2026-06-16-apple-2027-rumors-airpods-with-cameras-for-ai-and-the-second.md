@@ -5,7 +5,7 @@ countryCode: US
 description: Now that we're clear of WWDC and all of the new AI-powered features coming
   to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored
   new hardware, like…
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-16T17:04:05Z'

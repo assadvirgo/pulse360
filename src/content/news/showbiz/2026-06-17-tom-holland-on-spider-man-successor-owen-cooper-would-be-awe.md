@@ -5,7 +5,7 @@ countryCode: US
 description: Tom Holland has played Spider-Man across the Marvel Cinematic Universe,
   and it will not be forever. As the fourth film looms, the actor already has an idea
   of who could play the…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-17T02:54:13Z'
