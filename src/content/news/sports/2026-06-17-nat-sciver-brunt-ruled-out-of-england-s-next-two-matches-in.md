@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Scans reveal England's captain suffered a repeat strain of her left calf
   muscle against Ireland on Tuesday
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-17T15:28:40Z'

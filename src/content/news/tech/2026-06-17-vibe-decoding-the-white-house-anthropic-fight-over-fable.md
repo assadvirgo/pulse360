@@ -5,7 +5,7 @@ countryCode: US
 description: Hello and welcome to Regulator, an email for Verge subscribers about
   technology, politics, and what happens when science crashes headlong into self-interest.
   Not a subscriber?…
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-17T16:27:00Z'

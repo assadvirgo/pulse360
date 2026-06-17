@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli nationalists are increasingly flouting a convention on how faiths
   share the al-Aqsa mosque compound.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-17T09:13:34Z'

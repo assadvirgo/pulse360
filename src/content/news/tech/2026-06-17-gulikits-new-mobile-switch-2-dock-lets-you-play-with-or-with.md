@@ -3,7 +3,7 @@ category: Tech
 description: After teasing it on X last week, GuliKit announced a new version of its
   TV Docking Station today that now supports the Switch 2 as well as previous versions
   of the console,…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-17T13:00:00Z'

@@ -3,7 +3,7 @@ category: Politics
 country: China
 countryCode: CN
 description: China pledges new humanitarian aid packages for Lebanon and Iran.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-17T12:26:57Z'

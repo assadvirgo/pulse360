@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed
   "to be more responsible with respect to Lebanon".
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-17T10:01:42Z'

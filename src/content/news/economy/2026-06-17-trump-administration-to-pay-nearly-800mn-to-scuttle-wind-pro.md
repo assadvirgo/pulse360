@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Power developer Invenergy will redeploy funds into natural gas and geothermal
   projects in western US
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-17T16:00:06Z'

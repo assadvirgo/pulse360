@@ -5,7 +5,7 @@ countryCode: GB
 description: Jacob Bethell takes a stunning diving catch to remove New Zealand captain
   Tom Latham for 27 off the bowling of Jofra Archer as the tourists fall to 58-2 on
   the opening morning of…
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-17T12:40:19Z'

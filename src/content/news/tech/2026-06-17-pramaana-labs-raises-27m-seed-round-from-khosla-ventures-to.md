@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pramaana will focus on highly sensitive verticals like law, drug discovery,
   and tax preparation — where errors can be costly and reliability is at a premium.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-17T14:15:22Z'

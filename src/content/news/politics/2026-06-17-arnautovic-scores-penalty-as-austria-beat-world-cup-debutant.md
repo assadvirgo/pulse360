@@ -4,7 +4,7 @@ country: Austria
 countryCode: AT
 description: Austria were given a scare by debutants Jordan before securing a win,
   rounded off by a penalty in stoppage time.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-17T07:12:14Z'

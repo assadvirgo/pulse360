@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Smartbird finalized the divestiture of its sneaker assets as the company
   eyes greener pastures in the AI-computing business.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-17T12:10:00Z'

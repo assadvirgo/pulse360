@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President blames Democrats for blocking intelligence legislation over
   appointment of Bill Pulte in acting role
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-17T12:40:34Z'
