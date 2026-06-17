@@ -2,7 +2,7 @@
 category: Economy
 description: ‘Gradual’ return of flows will give way to sharp rise in production,
   outstripping forecasts for increased demand
-displayOrder: 22
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-17T08:00:12Z'

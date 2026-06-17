@@ -3,7 +3,7 @@ category: Politics
 country: Brazil
 countryCode: BR
 description: Eduardo Bolsonaro called the conviction "baseless and senseless".
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-17T00:31:35Z'

@@ -3,7 +3,7 @@ category: Politics
 country: France
 countryCode: FR
 description: Here’s what came out of the G7 summit in France.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-16T20:36:36Z'

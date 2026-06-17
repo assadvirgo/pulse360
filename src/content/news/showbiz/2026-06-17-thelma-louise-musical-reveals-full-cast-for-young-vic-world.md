@@ -5,7 +5,7 @@ countryCode: GB
 description: London&#8217;s Young Vic has unveiled the complete cast for its upcoming
   world premiere of &#8220;Thelma &#38; Louise,&#8221; filling out the ensemble around
   previously announced…
-displayOrder: 2
+displayOrder: 15
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-17T09:00:00Z'

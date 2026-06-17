@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In newly unsealed court filings, the government says the group allegedly
   expressed grievances about corruption, the Epstein files, and data centres.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-16T23:17:46Z'

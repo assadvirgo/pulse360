@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: A body has been found after a British man went missing while swimming
   in the sea in Portugal last week.
-displayOrder: 12
+displayOrder: 34
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-17T05:40:00Z'

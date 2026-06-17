@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: The Manchester City striker scored his first goals at a major international
   tournament as Norway powered past Iraq.
-displayOrder: 21
+displayOrder: 41
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-17T02:46:13Z'

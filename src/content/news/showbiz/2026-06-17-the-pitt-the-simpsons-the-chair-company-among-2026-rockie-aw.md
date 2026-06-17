@@ -5,7 +5,7 @@ countryCode: CA
 description: '&#8220;The Pitt,&#8221; &#8220;The Simpsons,&#8221; &#8220;The Chair
   Company&#8221; and &#8220;Mountainhead&#8221; were among the big winners as the
   Banff World Media Festival…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-17T02:30:00Z'

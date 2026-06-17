@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: T. Rowe Price fund manager David Giroux says Big Tech isn’t in a bubble,
   but there’s value in healthcare and utilities.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-16T21:19:00Z'

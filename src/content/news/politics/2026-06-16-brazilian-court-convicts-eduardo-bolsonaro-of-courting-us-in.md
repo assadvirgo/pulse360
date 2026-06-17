@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: US placed tariffs on Brazilian goods and sanctioned judicial officials
   involved in trial of the father for coup plot.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-16T22:46:47Z'

@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Seven patients have left an Ebola treatment centre in the Democratic
   Republic of the Congo, having recovered.
-displayOrder: 23
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T01:24:10Z'

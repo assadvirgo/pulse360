@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Iran war has hit country’s equity market and disrupted what was positioned
   to be another record year for flotations
-displayOrder: 24
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T01:00:09Z'

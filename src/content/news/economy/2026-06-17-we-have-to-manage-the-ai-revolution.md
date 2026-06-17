@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: There must be a global agreement on how the technology is controlled
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-17T04:00:24Z'

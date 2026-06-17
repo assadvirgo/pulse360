@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina open defence of their World Cup crown with a Lionel Messi-inspired
   3-0 win against Algeria at 2026 edition.
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-17T03:00:40Z'

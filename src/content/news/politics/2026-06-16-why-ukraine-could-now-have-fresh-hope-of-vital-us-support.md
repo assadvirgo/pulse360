@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The official G7 agenda started on Tuesday morning with a two-hour session
   on Ukraine.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-16T23:38:00Z'
