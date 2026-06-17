@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former institutional trader Kevin Muir pushes against the market tide
   with a call to buy oil now.
-displayOrder: 27
+displayOrder: 45
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-17T12:37:00Z'

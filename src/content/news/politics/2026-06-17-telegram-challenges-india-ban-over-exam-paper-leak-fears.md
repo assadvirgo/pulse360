@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Telegram CEO Pavel Durov has called the ban a "mistake", arguing it would
   punish millions of users.
-displayOrder: 22
+displayOrder: 44
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-17T06:56:27Z'

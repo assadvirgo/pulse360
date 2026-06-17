@@ -5,7 +5,7 @@ countryCode: GB
 description: Paramount-owned UK broadcaster 5 has agreed a deal with Warner Bros.
   Discovery’s TNT Sports to become the UK home of free-TV highlights of the Tour de
   France. It takes over…
-displayOrder: 9
+displayOrder: 27
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-17T11:54:15Z'

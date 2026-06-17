@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: German carmaker moves to counter fears EQT has edge after teaming up
   with major shareholders
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-17T04:00:34Z'

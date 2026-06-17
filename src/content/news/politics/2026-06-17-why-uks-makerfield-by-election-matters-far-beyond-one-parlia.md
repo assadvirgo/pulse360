@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Thursday&#039;s contest could pave the way for Manchester Mayor Andy
   Burnham to challenge Keir Starmer&#039;s premiership.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T09:53:28Z'

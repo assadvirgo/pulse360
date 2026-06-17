@@ -2,7 +2,7 @@
 category: Sports
 description: It has officially been one week of 2026 FIFA World Cup action. Enjoy
   all the features, news, video analysis and color from around the competition.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-17T13:39:16Z'

@@ -5,7 +5,7 @@ countryCode: DE
 description: BMW was the worst performing major European stock on Wednesday after
   the luxury-car maker lowered its profit outlook, citing a downturn in China as well
   as the impact from the…
-displayOrder: 36
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-17T08:11:00Z'

@@ -4,7 +4,7 @@ country: Haiti
 countryCode: HT
 description: UN Secretary-General Antonio Guterres says the international community
   has failed Haiti as gang violence deepens
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T06:05:52Z'

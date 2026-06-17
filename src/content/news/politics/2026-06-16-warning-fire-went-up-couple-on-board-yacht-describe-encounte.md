@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The Russian frigate fired warning shots near a British retired couple
   on a yacht in the English Channel.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 71.2
 pubDate: '2026-06-16T22:01:34Z'

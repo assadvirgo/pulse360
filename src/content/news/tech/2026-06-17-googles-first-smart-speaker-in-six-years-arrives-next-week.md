@@ -5,7 +5,7 @@ countryCode: US
 description: Google's first new smart speaker in six years starts shipping on June
   29th, narrowly missing its promised spring launch window. Preorders for the Google
   Home Speaker open today,…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-17T13:00:00Z'

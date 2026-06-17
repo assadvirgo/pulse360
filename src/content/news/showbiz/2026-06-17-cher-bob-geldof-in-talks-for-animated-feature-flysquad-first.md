@@ -5,7 +5,7 @@ countryCode: AU
 description: 'EXCLUSIVE: Oscar winner and music icon Cher and Live Aid founder Bob
   Geldof are in talks to voice Australian animated feature Fly Squad &#8212; First
   Strike! Written and produced…'
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-17T12:03:15Z'

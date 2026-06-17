@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Health facilities have come under attack during the current outbreak
   as a result of misinformation and fear.
-displayOrder: 2
+displayOrder: 15
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-17T11:26:39Z'

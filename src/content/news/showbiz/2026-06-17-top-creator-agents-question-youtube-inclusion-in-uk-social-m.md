@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: The UK has become the second English-speaking country to
   outlaw social media for under-16s, but the inclusion of YouTube on the banned list
   has raised eyebrows among…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-06-17T08:00:00Z'

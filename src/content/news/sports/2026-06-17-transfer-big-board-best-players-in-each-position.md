@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The transfer window is open in Premier League and will be soon in Europe,
   so who is available? It's our big board!
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T13:01:32Z'

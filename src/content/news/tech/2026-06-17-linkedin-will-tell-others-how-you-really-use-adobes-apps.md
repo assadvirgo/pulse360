@@ -5,7 +5,7 @@ countryCode: US
 description: LinkedIn is trying to make it easier for users to prove their proficiency
   with apps that are relevant to their current or future jobs. A new "connected apps"
   feature is launching…
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-17T13:00:00Z'

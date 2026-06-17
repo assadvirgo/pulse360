@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran warns of a &#039;harsh response&#039; as Lebanon attacks test the
   US deal and strain Trump-Netanyahu ties.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T07:24:12Z'
