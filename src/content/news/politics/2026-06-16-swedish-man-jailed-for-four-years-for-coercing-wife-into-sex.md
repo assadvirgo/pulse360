@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: The 61-year-old was found to have coerced his wife into sexual acts with
   men he found online in exchange for payment.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-16T12:46:03Z'

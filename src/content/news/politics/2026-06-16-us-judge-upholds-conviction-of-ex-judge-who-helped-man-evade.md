@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Activists say former judge Hannah Dugan was targeted by the Trump administration
   for defiance over immigration raids.
-displayOrder: 15
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-16T19:17:31Z'

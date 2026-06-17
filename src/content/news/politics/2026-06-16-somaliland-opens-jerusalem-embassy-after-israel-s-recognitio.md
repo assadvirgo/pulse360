@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: The move comes six months after Israel became the first country to recognise
   the breakaway East African state.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-16T14:34:39Z'

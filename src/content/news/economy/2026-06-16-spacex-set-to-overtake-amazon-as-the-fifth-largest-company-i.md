@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Elon Musk-led company announced that it plans to follow through on
   an option that allows it to purchase AI startup Cursor.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-16T12:24:00Z'

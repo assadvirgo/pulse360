@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump slammed Israeli attacks on Lebanon at the G7
   Summit.
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 76.5
 pubDate: '2026-06-16T16:55:31Z'

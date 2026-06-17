@@ -5,7 +5,7 @@ countryCode: US
 description: An icon of Silicon Valley’s counterculture, Stewart Brand is confronting
   his final years in a home that embodies the self-sufficient, DIY ethos of his famous
   Whole Earth Catalog.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 72.2
 pubDate: '2026-06-16T14:00:00Z'

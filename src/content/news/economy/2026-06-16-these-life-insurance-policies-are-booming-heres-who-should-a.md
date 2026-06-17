@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Indexed universal life insurance policies have a very specific purpose
   that can help families, if used correctly.
-displayOrder: 39
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-16T16:10:00Z'

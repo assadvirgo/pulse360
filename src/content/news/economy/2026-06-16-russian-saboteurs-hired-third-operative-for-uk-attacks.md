@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Footage points to the role of an unidentified man spraying anti-Muslim
   graffiti in London
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-16T17:31:47Z'

@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: A woman in Brazil died after bungee jumping operators failed to attach
   her cord before a jump from a 40-metre bridge.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-16T14:11:24Z'

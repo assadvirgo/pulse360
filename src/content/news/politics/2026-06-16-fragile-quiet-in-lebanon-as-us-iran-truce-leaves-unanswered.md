@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Many Lebanese remain doubtful that the agreement could finally mean the
   end of the fighting between Israel and Hezbollah.
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-16T16:20:33Z'

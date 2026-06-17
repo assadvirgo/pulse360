@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Watch Ireland hit four boundaries in the final over to push their total
   up to 118-9 in the ICC Women's T20 World Cup at Southampton.
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-16T20:24:58Z'

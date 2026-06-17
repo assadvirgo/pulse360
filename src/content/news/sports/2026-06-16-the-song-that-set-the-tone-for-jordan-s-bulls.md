@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Thirty years after Chicago's historic run, the story of "Sirius" is also
   the story of how music helped build one of the most iconic brands in sports.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-16T21:13:54Z'

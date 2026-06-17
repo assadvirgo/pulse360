@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The Kyiv Pechersk Lavra is under repair after deadly Russian attacks
   on the Ukrainian capital on Monday.
-displayOrder: 19
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-16T18:27:19Z'

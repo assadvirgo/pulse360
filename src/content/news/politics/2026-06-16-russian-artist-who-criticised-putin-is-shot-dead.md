@@ -4,7 +4,7 @@ country: Poland
 countryCode: PL
 description: An artist critical of Russia's President Vladimir Putin was shot and
   killed near his home in eastern Poland on Monday.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-16T15:34:00Z'

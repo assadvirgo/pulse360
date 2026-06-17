@@ -5,7 +5,7 @@ countryCode: US
 description: Universal Studio Group is going down from four to three divisions as
   Pearlena Igbokwe, Chairman, Television Studios, NBC Entertainment &#38; Peacock
   Scripted, is proceeding with…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-06-16T18:00:43Z'
