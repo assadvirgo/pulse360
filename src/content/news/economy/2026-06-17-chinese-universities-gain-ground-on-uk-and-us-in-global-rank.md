@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Britain and US retain grip on top 10, with MIT first and Imperial College
   London second
-displayOrder: 41
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-17T23:01:08Z'

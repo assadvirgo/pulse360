@@ -2,7 +2,7 @@
 category: Tech
 description: Save up to 77% on 2-year plans and get 3 free months with our NordVPN
   discount codes.
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-18T05:00:00Z'

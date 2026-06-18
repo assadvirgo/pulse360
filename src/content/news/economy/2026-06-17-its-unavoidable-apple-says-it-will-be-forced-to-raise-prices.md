@@ -5,7 +5,7 @@ countryCode: US
 description: Tech giants are gobbling up memory chips for AI servers, leaving Apple
   with soaring component costs that Tim Cook says will inevitably be passed on to
   consumers.
-displayOrder: 34
+displayOrder: 43
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-17T23:19:00Z'

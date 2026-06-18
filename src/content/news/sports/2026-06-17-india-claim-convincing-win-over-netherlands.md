@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Watch highlights as India continue their dominance at the Women's T20
   World Cup after they crush Netherlands by 95 runs in Headingley.
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-17T18:09:18Z'

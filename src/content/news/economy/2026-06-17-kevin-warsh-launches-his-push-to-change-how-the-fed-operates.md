@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The new Federal Reserve chair rolls out five task forces that will focus
   on the central bank’s communications, inflation frameworks and more
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-17T22:44:00Z'

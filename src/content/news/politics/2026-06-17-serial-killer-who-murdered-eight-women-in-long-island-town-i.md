@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In fiery exchange, judge sentenced him to three life sentences plus 25
   years to life on four other charges, all running consecutively.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-06-17T17:00:54Z'

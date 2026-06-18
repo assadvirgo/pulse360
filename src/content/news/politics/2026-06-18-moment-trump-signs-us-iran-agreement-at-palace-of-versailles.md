@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 14-point Memorandum of Understanding was signed at a post-G7 dinner
   in France.
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-18T01:59:38Z'

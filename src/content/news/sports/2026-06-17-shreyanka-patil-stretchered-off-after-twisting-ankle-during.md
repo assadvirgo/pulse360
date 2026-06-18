@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The offspin allrounder suffered the injury after bowling her first ball
   in the game while attempting to run and stop a single
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-17T17:40:06Z'

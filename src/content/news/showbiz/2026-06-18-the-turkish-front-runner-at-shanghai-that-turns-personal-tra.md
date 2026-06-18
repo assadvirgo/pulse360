@@ -5,7 +5,7 @@ countryCode: TR
 description: Director Reis Çelik draws on his own escape during Turkey's 1980 military
   coup for 'Night of Blindness,' a tense black-and-white thriller that's become an
   early Golden Goblet…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-18T01:09:11Z'

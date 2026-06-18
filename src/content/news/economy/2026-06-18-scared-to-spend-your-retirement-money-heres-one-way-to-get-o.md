@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: This fear is probably going to cause you some regrets.
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-18T00:43:00Z'

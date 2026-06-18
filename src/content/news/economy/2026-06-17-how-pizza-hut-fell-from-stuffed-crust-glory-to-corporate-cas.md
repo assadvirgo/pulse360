@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “They struggled to figure out what the next big thing was,” an analyst
   says in the wake of a recently announced private-equity buyout.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-17T20:28:00Z'

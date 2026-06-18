@@ -5,7 +5,7 @@ countryCode: US
 description: A 2010s reboot of “Police Academy” was canceled after a tragic real-life
   incident sparked a national debate about the police use of force. On the June 17
   episode of the podcast…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-17T23:29:58Z'

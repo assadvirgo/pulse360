@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Lula is currently in a tight race for re-election against right-wing
   candidate Flavio Bolsonaro, an ally of Trump.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T20:14:52Z'
