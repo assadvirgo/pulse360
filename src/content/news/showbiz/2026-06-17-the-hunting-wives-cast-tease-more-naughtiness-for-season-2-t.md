@@ -3,7 +3,7 @@ category: Showbiz
 description: The Hunting Wives&#160;recently&#160;wrapped filming Season 2&#160;of
   the Netflix series, and stars Malin Akerman, Brittany Snow, and Jaime Ray Newman
   are teasing that…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-17T19:15:00Z'

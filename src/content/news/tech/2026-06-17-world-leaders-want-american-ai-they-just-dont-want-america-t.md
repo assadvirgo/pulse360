@@ -5,7 +5,7 @@ countryCode: US
 description: French President Macron and Indian PM Modi raised alarms at the G7 summit
   that the U.S. could cut off access to American AI overnight — a fear the Anthropic
   blackout just made…
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 74.0
 pubDate: '2026-06-17T19:01:19Z'

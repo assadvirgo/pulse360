@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The killing of a Russian artist who was critical of Vladimir Putin has
   the hallmarks of a "political murder", according to Poland's prime minister.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-17T14:32:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT:&#160;This story contains spoilers for “Disclosure Day,”
   now playing in theaters. While Steven Spielberg&#8217;s latest sci-fi film is headlined
   by performances from…
-displayOrder: 4
+displayOrder: 7
 heroImage: ''
 importance: 65.8
 pubDate: '2026-06-17T20:30:00Z'

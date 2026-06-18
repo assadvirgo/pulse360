@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Trump says he expects the agreement with Iran to be signed &#039;shortly&#039;
   without specifying the exact date.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T18:53:38Z'

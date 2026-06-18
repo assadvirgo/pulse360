@@ -5,7 +5,7 @@ countryCode: US
 description: CBS&#8217; Matlock is going to court for real with a lawsuit from a former
   writer on the Kathy Bates-led series who claims he was axed after raising concerns
   about alleged racist…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-17T18:19:26Z'

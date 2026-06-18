@@ -3,7 +3,7 @@ category: Politics
 country: India
 countryCode: IN
 description: Why was India’s Cockroach Janta Party founder attacked?
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-17T20:10:16Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Blackstone-led consortium to take over software company and inject $150mn
   to help cut its debt load
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-17T16:30:31Z'

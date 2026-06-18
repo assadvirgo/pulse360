@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US cannot wait for the worst job losses to hit before moving corporate
   and public policy in a pro-worker direction
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-06-17T16:54:22Z'

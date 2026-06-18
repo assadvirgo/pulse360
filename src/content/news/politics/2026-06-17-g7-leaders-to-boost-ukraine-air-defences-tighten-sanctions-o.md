@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A statement from the G7 summit in France says leaders are united in their
   &#039;unwavering support for Ukraine&#039;.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 83.5
 pubDate: '2026-06-17T08:50:31Z'

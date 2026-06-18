@@ -2,7 +2,7 @@
 category: Politics
 description: The virus is spreading faster than health workers can track it and international
   funding has slumped.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 69.5
 pubDate: '2026-06-17T16:15:30Z'

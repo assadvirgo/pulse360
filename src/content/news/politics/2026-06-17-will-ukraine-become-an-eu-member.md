@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine has opened the first phase of membership talks with the ‌European
   Union.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-17T18:53:27Z'

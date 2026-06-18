@@ -5,7 +5,7 @@ countryCode: US
 description: Epic Games has been touting the potential of an interoperable metaverse
   for years, though that vision hasn't yet become a reality. But with Unreal Engine
   6, the next major version…
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-17T19:09:00Z'

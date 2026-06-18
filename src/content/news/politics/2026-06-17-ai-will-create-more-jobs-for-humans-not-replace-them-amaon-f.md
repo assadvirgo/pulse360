@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Amazon founder, who now has robotics and space travel companies,
   thinks AI will create a labour shortage.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 72.2
 pubDate: '2026-06-17T16:37:41Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Diezani Alison-Madueke had been accused of receiving bribes from oil
   tycoons but was found not guilty by a jury at Southwark Crown Court.
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-17T19:03:10Z'

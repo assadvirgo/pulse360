@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: Under Taliban rule, one woman struggles to negotiate with the men limiting
   the lives of Afghan women.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T16:00:00Z'
