@@ -5,7 +5,7 @@ countryCode: US
 description: Apple is planning to raise prices in response to the ongoing memory shortage.
   In an interview with The Wall Street Journal, Apple CEO Tim Cook says "price increases
   are…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-17T21:42:21Z'

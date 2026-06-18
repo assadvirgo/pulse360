@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Over 2,500 pounds of paper will rain on the Knicks as New York City overcomes
   windows that don’t open and the death of actual ticker tape.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-17T19:34:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The U.S. government’s official 2% annual inflation target has suddenly
   been thrown into doubt by Kevin Warsh and J.D. Vance.
-displayOrder: 25
+displayOrder: 29
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-17T23:00:00Z'

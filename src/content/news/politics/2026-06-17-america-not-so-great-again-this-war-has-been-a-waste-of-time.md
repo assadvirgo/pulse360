@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: In covering Trump, the past day has been one of the wildest days.
-displayOrder: 16
+displayOrder: 24
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-17T23:18:00Z'

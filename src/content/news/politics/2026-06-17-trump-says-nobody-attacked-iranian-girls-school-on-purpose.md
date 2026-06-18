@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump has said "nobody" purposefully attacked an Iranian girls'
   school where scores of people were killed in a strike on the first day of the war.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-17T18:08:00Z'

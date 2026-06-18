@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: But don't expect Carvana to sell you a vehicle at one of its seven Stellantis
   stores, marking a stark contrast from typical franchised dealers.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-17T20:02:25Z'

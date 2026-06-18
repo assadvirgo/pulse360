@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: EU Council president António Costa’s office held calls with senior official
   close to Russia’s Vladimir Putin
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T15:03:40Z'

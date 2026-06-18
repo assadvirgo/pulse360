@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India batter hits her first T20 World Cup fifty and backs it up with
   a three-for in Headingley
-displayOrder: 45
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-17T17:54:56Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Jamie Bell is still dancing. Twenty-five years ago, an 11-year-old boy
   from northeast England filmed a small movie about a coal miner&#8217;s son who wanted
   to dance ballet. Three…
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-17T22:30:00Z'

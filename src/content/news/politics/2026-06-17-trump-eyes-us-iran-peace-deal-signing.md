@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A US-Iran agreement aimed at ending hostilities and reopening the Strait
   of Hormuz is set to be signed Friday.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-17T19:14:45Z'

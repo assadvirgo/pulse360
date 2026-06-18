@@ -5,7 +5,7 @@ countryCode: US
 description: Megan Stalter ended her run on Hacks recently as she dropped her new
   single &#8220;Prettiest Girl in America.&#8221; While making an appearance at Bravo&#8217;s
   Las Culturistas…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-17T20:50:00Z'

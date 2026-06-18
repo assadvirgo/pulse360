@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: President Donald Trump praised Indian Prime Minister Narendra Modi as
   a “killer” and an “angel&quot; at the G7 in France.
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 77.5
 pubDate: '2026-06-17T15:15:08Z'
