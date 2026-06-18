@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: In the Makerfield by-election, Andy Burnham is trying to win over an
   area that voted heavily for Leave
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-18T04:00:15Z'

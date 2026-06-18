@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japan needs to revisit the pacifist posture that has defined it since
   World War Two, Shinjiro Koizumi says.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-17T22:36:13Z'

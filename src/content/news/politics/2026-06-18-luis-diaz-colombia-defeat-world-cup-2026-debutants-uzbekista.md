@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The star winger scores a goal and sets up another, as Colombia make a
   winning return to the FIFA World Cup.
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-18T05:17:18Z'

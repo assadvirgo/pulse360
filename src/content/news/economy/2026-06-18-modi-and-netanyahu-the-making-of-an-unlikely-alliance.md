@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: As Israel’s isolation deepens, ties with New Delhi are growing — from
   drones to statues
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-18T04:00:15Z'

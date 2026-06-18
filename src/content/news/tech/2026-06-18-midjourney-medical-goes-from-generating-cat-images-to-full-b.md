@@ -5,7 +5,7 @@ countryCode: US
 description: Midjourney CEO David Holz just showed off the company's first hardware
   product and plans to build a San Francisco spa, which he admitted is a bit different
   from the "cat pictures"…
-displayOrder: 13
+displayOrder: 34
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-18T03:12:31Z'

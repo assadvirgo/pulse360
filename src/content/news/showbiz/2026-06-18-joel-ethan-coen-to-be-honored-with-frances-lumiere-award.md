@@ -5,7 +5,7 @@ countryCode: FR
 description: Joel and Ethan Coen will be feted with the Lumière Award at the 18th
   edition of Thierry Frémaux’s classic film-focused Lumière Festival in Lyon in October.
   First working together…
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-18T08:00:00Z'

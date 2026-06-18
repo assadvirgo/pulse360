@@ -4,7 +4,7 @@ country: Ecuador
 countryCode: EC
 description: The gunmen concealed their weapons behind flowers and stuffed toys while
   waiting for the victim outside Guayaquil airport.
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-18T09:26:16Z'

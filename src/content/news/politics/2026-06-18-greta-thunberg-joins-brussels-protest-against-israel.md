@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: Around 100 people, including Greta Thunberg and other Flotilla activists,
   have rallied in Brussels.
-displayOrder: 20
+displayOrder: 41
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-18T02:24:13Z'

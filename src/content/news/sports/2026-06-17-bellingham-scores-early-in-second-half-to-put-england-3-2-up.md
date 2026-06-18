@@ -5,7 +5,7 @@ countryCode: GB
 description: Jude Bellingham gives England a flying start to the second half against
   Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the
   Fifa World Cup.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-17T22:00:39Z'

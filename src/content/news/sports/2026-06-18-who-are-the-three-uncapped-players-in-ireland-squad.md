@@ -5,7 +5,7 @@ countryCode: IE
 description: BBC Sport NI assesses the credentials of the three uncapped players named
   by Ireland head coach Andy Farrell in his squad for the upcoming Nations Championship
   fixtures.
-displayOrder: 4
+displayOrder: 21
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-18T07:19:23Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump has encouraged Israeli Prime Minister Benjamin
   Netanyahu to use a ‘softer touch’ in Lebanon.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-17T23:57:07Z'

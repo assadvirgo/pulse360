@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Both sides say the deal is in effect and includes an end to war in Lebanon
   and the reopening of the Strait of Hormuz.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-18T00:00:00Z'

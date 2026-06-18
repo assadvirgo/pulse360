@@ -5,7 +5,7 @@ countryCode: GB
 description: Piers Morgan is deepening his relationship with Paramount UK network
   5 by bringing his World Cup and royals shows to the network. World Cup Uncensored
   sees the presenter analyze…
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 51.0
 pubDate: '2026-06-18T08:25:19Z'

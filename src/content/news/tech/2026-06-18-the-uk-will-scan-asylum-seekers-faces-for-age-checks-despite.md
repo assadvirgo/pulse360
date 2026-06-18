@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Internal Home Office tests of age-verification technology show the risks
   of life-altering errors. It’s moving forward anyway.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-18T06:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'The Real Housewives franchise is turning 20, and Bravo is celebrating
   with The Real Housewives Ultimate Girls Trip: Roaring 20th. During the 2026 Las
   Culturistas Culture Awards,…'
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-18T02:04:33Z'
