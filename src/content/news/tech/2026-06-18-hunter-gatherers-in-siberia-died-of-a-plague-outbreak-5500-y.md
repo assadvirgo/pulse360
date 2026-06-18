@@ -3,7 +3,7 @@ category: Tech
 country: Russia
 countryCode: RU
 description: We can't blame the Neolithic Transition for the plague anymore.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-18T15:04:40Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The increase of AI data centres has made supply for key electronic device
   components dwindle, driving up prices.
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-18T11:16:29Z'

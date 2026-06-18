@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: Uganda's military chief had boasted of "the hurt and pain" he would inflict
   on Erias Lukwago, who was arrested earlier this week.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-18T09:35:29Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: 'Women in Animation has announced its lineup for this year’s WIA World
   Summit at Annecy, themed “Frame by Frame: A Global Celebration of Women and Nonbinary
   Creators.” The summit…'
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-18T10:01:04Z'

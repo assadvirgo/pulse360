@@ -2,7 +2,7 @@
 category: Sports
 description: The Ivory Coast football federation have announced their forward Elye
   Wahi has been denied entry to Canada for their next World Cup game.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-18T11:39:28Z'

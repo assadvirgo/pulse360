@@ -2,7 +2,7 @@
 category: Politics
 description: Despite having medical referrals to leave Gaza, Palestinians are not
   allowed to leave.
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-18T14:30:50Z'

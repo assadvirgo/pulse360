@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Warrior Cats&#8221; is getting the television treatment. An animated
   TV adaptation of the beloved, long-running children&#8217;s fantasy book series
   is coming to Disney+…'
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-18T17:00:00Z'

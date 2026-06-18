@@ -5,7 +5,7 @@ countryCode: US
 description: The U.S. and Iran agreed to a framework for a peace deal that extends
   their cease-fire for another 60 days. Now, a series of practical steps are needed
   for traffic to pick back up…
-displayOrder: 32
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T12:00:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia&#039;s Defence Ministry says air defences shot down 555 Ukrainian
   drones over several regions overnight.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T08:11:58Z'

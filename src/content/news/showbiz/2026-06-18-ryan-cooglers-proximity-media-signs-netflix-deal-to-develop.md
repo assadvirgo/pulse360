@@ -5,7 +5,7 @@ countryCode: US
 description: Proximity Media, the media company founded by &#8220;Sinners&#8221; director
   Ryan Coogler, Zinzi Coogler and Sev Ohanian, has signed a multi-year deal with Netflix
   to exclusively…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-18T17:00:00Z'

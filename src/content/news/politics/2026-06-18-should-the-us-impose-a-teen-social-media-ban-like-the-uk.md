@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The UK is enforcing a social media ban for children under the age of
   16. The BBC asked Americans of different ages if they thought it was a good idea.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-18T14:45:11Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: When three Amazon software engineers testified earlier this month at
   Seattle City Council hearings about data centers, they started their testimony by
   citing a city law barring…
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-18T16:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Running out of color options for events in Google Calendar shouldn't
   be an issue going forward. The previous limit of 11 predefined colors has now been
   expanded to give users…
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-18T14:32:16Z'

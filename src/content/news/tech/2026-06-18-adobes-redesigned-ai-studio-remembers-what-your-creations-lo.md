@@ -5,7 +5,7 @@ countryCode: US
 description: Adobe is introducing some new capabilities for its Firefly AI assistant,
   alongside a "reimagined" AI studio that lets you edit and generate new designs from
   a single interface.…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-18T13:00:00Z'
