@@ -5,7 +5,7 @@ countryCode: US
 description: For a decade, the network and the president have fueled each other’s
   rise. As the midterms approach, both are learning who really owns the Republican
   base.
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-18T13:00:00Z'

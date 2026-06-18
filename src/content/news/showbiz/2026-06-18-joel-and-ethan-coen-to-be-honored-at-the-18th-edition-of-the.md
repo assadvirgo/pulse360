@@ -5,7 +5,7 @@ countryCode: FR
 description: Joel and Ethan Coen will be honored at the 18th edition of the Lumière
   Festival, which runs from Oct. 10-18 in Lyon, France. The filmmaking brothers will
   receive the Lumière Award…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-18T09:25:05Z'

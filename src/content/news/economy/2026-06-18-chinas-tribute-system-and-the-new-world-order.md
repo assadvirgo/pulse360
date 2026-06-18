@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Exercising power without resorting to war could be Beijing’s ultimate
   show of strength
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-18T10:00:04Z'

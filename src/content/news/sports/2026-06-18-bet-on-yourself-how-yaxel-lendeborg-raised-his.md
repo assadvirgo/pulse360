@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Michigan star went from fringe first-round to projected lottery pick
   by spending one more season in college.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T12:53:15Z'

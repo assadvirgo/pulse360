@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Defence secretary announced decision as he scolded Nato allies for failing
   to support Washington in Iran war
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-18T11:17:55Z'

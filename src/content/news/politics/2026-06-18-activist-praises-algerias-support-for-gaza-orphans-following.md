@@ -4,7 +4,7 @@ country: Algeria
 countryCode: DZ
 description: Activist praises Algeria’s support for Gaza orphans following World Cup
   defeat
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-18T04:35:18Z'

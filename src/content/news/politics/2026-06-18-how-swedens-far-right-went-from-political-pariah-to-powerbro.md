@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: Once shunned by every major party, the Sweden Democrats have gone from
   political pariah to the heart of government.
-displayOrder: 30
+displayOrder: 48
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T07:17:55Z'
