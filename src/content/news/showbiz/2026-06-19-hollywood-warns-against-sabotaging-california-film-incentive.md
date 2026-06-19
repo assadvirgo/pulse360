@@ -5,7 +5,7 @@ countryCode: US
 description: The entertainment industry is warning Gov. Gavin Newsom that the state
   risks undermining California production if it imposes a new limit on corporate tax
   credits. In a June 8…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-19T00:33:17Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: World Cup matches offer residents of Gaza a brief escape from war, blackouts
   and life in tents.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T20:18:08Z'

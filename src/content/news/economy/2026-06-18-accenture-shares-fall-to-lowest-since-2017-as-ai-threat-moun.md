@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: IT consultancy hit by concerns technology will hurt its business model
-displayOrder: 37
+displayOrder: 39
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-18T20:25:25Z'

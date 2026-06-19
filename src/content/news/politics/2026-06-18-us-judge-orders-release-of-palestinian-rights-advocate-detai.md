@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mosque leader says he was arrested and detained by immigration authorities
   for his Palestine advocacy.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-18T23:01:26Z'

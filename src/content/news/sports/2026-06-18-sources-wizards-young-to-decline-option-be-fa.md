@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wizards star Trae Young plans to decline his $48.97 million player option
   for the 2026-27 season, although Washington remains the front-runner, sources said.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T13:58:05Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: BC Place was a battlefield as Kone was stretchered off, Qatar got two
   red cards, and both teams brawled after full-time.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-19T01:14:09Z'

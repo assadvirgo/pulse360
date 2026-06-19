@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI is bulking up before its IPO, landing Transformer co-inventor
   Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball
   in the same week.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-18T19:59:22Z'

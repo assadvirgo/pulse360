@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Brazil&#039;s record goal-scorer continues to struggle with injuries
   after being named in their World Cup 2026 squad.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-06-18T20:49:56Z'

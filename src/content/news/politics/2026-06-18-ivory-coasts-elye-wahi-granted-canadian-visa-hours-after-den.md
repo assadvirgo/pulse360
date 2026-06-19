@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The forward will now be able to join his team in Toronto when they take
   on Germany on Saturday.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-18T20:32:14Z'

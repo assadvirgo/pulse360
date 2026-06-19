@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: UN and allies warn of grave rights violations in North Kordofan, ⁠urge
   maximum pressure on ⁠RSF and SAF.
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 70.5
 pubDate: '2026-06-18T19:52:53Z'
