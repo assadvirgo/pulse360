@@ -5,7 +5,7 @@ countryCode: US
 description: As he opened his new presidential center on Chicago&#8217;s South Side,
   Barack Obama invoked some of his signature themes of hope over division, while warning
   of greater…
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 74.0
 pubDate: '2026-06-18T20:26:59Z'

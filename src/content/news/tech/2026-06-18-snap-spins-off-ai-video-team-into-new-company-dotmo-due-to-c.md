@@ -5,7 +5,7 @@ countryCode: US
 description: The Snapchat maker is spinning off yet another internal unit. Dotmo will
   be composed of current Snap staff who are leaving the social media company to focus
   on AI video…
-displayOrder: 13
+displayOrder: 22
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-18T20:30:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The consulting company’s outlook came up short of expectations, and at
   least one analyst wonders if newly announced deals will bring complex integration
   challenges.
-displayOrder: 38
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-18T21:58:00Z'

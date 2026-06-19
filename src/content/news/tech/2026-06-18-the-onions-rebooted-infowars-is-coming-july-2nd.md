@@ -5,7 +5,7 @@ countryCode: US
 description: 'The Onion''s InfoWars officially has a launch date: On July 2nd, the
   conspiracy network previously run by Alex Jones will return as a comedy and media
   platform. The reboot comes…'
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-18T17:00:00Z'

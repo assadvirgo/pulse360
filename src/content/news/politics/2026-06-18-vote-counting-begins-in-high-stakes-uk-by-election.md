@@ -3,7 +3,7 @@ category: Politics
 country: United Kingdom
 countryCode: GB
 description: Ballots are being counted in the UK’s closely watched Makerfield by-election.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-18T23:32:23Z'

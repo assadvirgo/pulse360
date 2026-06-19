@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Federal Reserve is in a “new era,” but home buyers are facing the
   same old affordability challenges.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-18T16:05:00Z'

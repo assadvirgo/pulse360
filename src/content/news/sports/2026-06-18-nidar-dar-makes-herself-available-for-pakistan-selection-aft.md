@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: She last played for Pakistan in October 2024, before taking a break in
   April 2025 to focus on her mental health
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T16:57:57Z'

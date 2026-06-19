@@ -2,7 +2,7 @@
 category: Economy
 description: Elon Musk’s group hits out at proposal by bloc to reserve part of spectrum
   band for European operators
-displayOrder: 15
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T22:00:06Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: David Sheiner, the character actor known for his work in films like &#8220;The
   Odd Couple&#8221; and shows like &#8220;Murder, She Wrote,&#8221; died June 5 of
   renal failure in…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-18T22:45:53Z'

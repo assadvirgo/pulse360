@@ -5,7 +5,7 @@ countryCode: US
 description: Paul Avery, an actor who appeared in All My Children, and his wife Sheila
   died in a house fire on Tuesday. Shortly after 12:38am, New Jersey State Police
   and Blairstown Fire…
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-19T00:31:26Z'

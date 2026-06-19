@@ -5,7 +5,7 @@ countryCode: US
 description: The software engineers filed a complaint with Seattle’s civil rights
   office accusing Amazon of illegally retaliating against them for expressing their
   personal political beliefs.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-18T16:03:27Z'

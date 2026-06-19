@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The starting USMNT goalkeeper has an economics degree from Harvard. In
   his remarkable family, that makes him the underachiever.
-displayOrder: 23
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-18T23:36:55Z'

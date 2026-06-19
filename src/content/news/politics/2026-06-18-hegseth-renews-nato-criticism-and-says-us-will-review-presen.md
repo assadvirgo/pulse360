@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US defence secretary's move follows a US decision to scale back its
   commitments to a high readiness force within the alliance.
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-18T20:27:31Z'
