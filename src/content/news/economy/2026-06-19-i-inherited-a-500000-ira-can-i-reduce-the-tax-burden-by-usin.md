@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “I would like to use my share to help fund college for my three children.”
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-19T11:05:00Z'

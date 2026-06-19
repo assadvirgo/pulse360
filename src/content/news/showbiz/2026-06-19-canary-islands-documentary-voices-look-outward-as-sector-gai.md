@@ -5,7 +5,7 @@ countryCode: ES
 description: As the Canary Islands’ audiovisual sector pushes more assertively onto
   the international doc scene, a cluster of producers, directors and creative executives
   is helping to define…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-19T12:55:12Z'

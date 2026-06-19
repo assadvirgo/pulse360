@@ -5,7 +5,7 @@ countryCode: RO
 description: Fresh off Romanian filmmaker Cristian Mungiu’s triumph at the Cannes
   Film Festival, where his latest, “Fjord,” starring Sebastian Stan and Renate Reinsve,
   earned the director his…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-19T12:33:26Z'

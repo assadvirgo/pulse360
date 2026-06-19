@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: South Korea&#039;s president said Trump had told him the &#039;time had
   come&#039; to focus on North Korea &#039;issue&#039; at the G7 summit.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 87.5
 pubDate: '2026-06-19T11:07:23Z'

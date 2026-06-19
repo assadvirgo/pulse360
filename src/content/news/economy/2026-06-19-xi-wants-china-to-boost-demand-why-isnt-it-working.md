@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Activity is sputtering midway through 2026, undercutting efforts to galvanise
   the economy
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-19T03:12:19Z'

@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: The strikes are the latest threat to the fragile ceasefire between Afghanistan
   and Pakistan.
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-19T11:57:41Z'

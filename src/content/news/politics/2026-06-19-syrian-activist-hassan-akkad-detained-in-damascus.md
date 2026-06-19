@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Syrian journalist Mousa al-Omar reportedly filed a complaint about Akkad’s
   social media comments prior to his arrest.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-19T09:49:00Z'

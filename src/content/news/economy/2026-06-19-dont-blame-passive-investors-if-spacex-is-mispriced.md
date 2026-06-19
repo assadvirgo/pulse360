@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Index funds don’t misallocate capital — that’s what stock pickers do
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-19T11:48:31Z'

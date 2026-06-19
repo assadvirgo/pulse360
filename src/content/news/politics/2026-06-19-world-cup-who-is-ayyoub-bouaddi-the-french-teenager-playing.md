@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: A promising midfielder marked for the French team, Bouaddi is a breakout
   sensation on his World Cup debut with Morocco.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-19T08:32:17Z'

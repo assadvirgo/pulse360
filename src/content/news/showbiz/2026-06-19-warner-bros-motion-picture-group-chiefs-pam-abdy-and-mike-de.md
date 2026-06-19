@@ -5,7 +5,7 @@ countryCode: CA
 description: 'Toronto Intl. Film Festival’s first-ever market, known as TIFF: The
   Market, has revealed that Warner Bros. Motion Picture Group co-chairs and CEOs Pam
   Abdy and Mike De Luca will…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-19T08:39:50Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Italian premier on offensive after US president claimed she ‘begged’
   for a photo with him
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-19T12:25:39Z'

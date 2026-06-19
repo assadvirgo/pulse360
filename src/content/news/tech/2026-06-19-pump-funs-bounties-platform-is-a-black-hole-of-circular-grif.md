@@ -3,7 +3,7 @@ category: Tech
 description: The crypto platform claims you can “pay anyone to do anything,” from
   quitting a job on camera to getting a memecoin-themed tattoo. But it mostly seems
   like people trying to scam…
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-19T10:30:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Eighteen people and four IDF soldiers are also killed in clashes in Lebanon,
   officials say, despite a truce meant to be in place in the country.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-19T07:38:16Z'

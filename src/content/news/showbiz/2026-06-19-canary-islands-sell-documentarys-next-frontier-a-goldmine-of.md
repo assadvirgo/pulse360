@@ -5,7 +5,7 @@ countryCode: ES
 description: Soccer legend Pelé kneeling to tie his boots in the seconds before kickoff
   at the 1970 World Cup and the Puma brand on show is a legendary image; less well
   known is that…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-19T12:39:21Z'

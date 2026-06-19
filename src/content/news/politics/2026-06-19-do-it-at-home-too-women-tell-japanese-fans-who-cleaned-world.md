@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: 'Some see a double standard: Japanese men who clean in public while their
   wives do all the housework.'
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-19T04:30:47Z'

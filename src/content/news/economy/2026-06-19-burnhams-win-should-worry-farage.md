@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Fear of a Reform victory led Makerfield voters — including some 2024
   Conservatives — to tactically vote Labour
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-19T05:13:56Z'

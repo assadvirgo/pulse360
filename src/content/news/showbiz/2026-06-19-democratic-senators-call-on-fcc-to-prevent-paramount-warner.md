@@ -5,7 +5,7 @@ countryCode: US
 description: Three Democratic senators are calling on the FCC to bar the Paramount-Warner
   Bros. Discovery merger from closing until an agency review of foreign ownership
   is pending. Sen. Cory…
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 74.0
 pubDate: '2026-06-19T13:00:00Z'

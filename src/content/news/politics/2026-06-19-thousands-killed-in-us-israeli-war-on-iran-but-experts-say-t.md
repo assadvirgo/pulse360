@@ -2,7 +2,7 @@
 category: Politics
 description: Experts say internet, media and government restrictions have all hampered
   casualty reporting across the region.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-19T05:33:59Z'

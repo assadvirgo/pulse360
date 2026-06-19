@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tehran holds back from talks to cement ceasefire due to ongoing Israeli
   attacks on southern Lebanon.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-19T07:06:03Z'

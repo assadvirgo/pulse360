@@ -2,7 +2,7 @@
 category: Sports
 description: Eye-watering budgets are nothing new, but this year both Nike and Adidas
   have gone bigger and bolder than ever before in the fight for World Cup attention.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-19T13:01:38Z'
