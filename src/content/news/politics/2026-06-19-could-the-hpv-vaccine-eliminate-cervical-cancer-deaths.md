@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The HPV vaccine has reduced the risk of cervical cancer death before
   age 30 to effectively zero in the United Kingdom.
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-19T11:41:34Z'

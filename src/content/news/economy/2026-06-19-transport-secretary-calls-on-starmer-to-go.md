@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Cabinet member urges prime minister to set timetable for departure after
   Andy Burnham’s victory in Makerfield
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-19T16:21:57Z'

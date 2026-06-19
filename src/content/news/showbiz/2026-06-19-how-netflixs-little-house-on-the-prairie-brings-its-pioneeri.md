@@ -5,7 +5,7 @@ countryCode: US
 description: In this first-look, star Jocko Sims, showrunner Rebecca Sonnenshine and
   costume designer Mitchell Travers reveal how they used Laura Ingalls Wilder’s 1935
   novel, history and some…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-19T16:00:00Z'

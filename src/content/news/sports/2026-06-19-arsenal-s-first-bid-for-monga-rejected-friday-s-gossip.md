@@ -5,7 +5,7 @@ countryCode: GB
 description: Arsenal's opening bid for Jeremy Monga rejected by Leicester, Gunners
   also preparing bid for Bradley Barcola, RB Leipzig make contact with Everton over
   Barry.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-19T09:26:07Z'

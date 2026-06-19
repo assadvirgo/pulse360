@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ashton-in-Makerfield, a town few knew of until recently, has potentially
   chosen the UK&#039;s next prime minister.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 69.5
 pubDate: '2026-06-19T12:08:39Z'

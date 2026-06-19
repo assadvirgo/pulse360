@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: It comes a day after the US and Iran signed a deal to end their conflict,
   including fighting in Lebanon.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-19T09:25:26Z'

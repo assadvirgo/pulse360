@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The ruling comes after India said channels on the app were selling leaked
   questions for undergraduate entrance ​exams.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-19T09:48:12Z'

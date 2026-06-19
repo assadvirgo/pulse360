@@ -4,7 +4,7 @@ country: Niger
 countryCode: NE
 description: Niger has been fighting a militant Islamist insurgency for a decade and
   in January suspected jihadists attacked the same airport.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-19T09:43:30Z'

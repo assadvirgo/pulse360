@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Buyout comes amid an uptick in biotech dealmaking as Big Pharma seeks
   to bolster its drug pipelines
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-19T14:15:53Z'

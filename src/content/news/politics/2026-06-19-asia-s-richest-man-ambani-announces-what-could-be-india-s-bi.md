@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India's largest telecom operator is expected to raise around $4bn (£3.02bn),
   according to media reports.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-19T10:13:41Z'

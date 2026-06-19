@@ -5,7 +5,7 @@ countryCode: CN
 description: Five documentary films are competing for the Golden Goblet Award in the
   Documentary category at the 28th Shanghai International Film Festival, with the
   creative teams behind all…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-19T16:00:48Z'

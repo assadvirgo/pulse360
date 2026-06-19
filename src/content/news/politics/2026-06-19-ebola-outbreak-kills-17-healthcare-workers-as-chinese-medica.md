@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Seventeen healthcare workers have died from Ebola in the Democratic Republic
   of Congo (DRC), a World Health Organisation official has said.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-19T11:16:00Z'

@@ -5,7 +5,7 @@ countryCode: IT
 description: Italian Prime ​Minister Giorgia Meloni has accused Donald Trump of making
   up a story about her, after ‌the US president told an Italian TV channel that she
   had "begged" him to…
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 66.0
 pubDate: '2026-06-19T12:03:00Z'

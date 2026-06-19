@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Will Christian Pulisic be fit for United States as they seek to secure
   top spot in Group D with win over Australia?
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-19T11:07:15Z'

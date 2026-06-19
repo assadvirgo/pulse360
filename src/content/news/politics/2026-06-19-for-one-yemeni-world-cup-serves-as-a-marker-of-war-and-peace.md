@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Since 1982, a Yemeni fan&#039;s commitment to the World Cup has endured
   war, economic turmoil, and personal sacrifices.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 70.5
 pubDate: '2026-06-19T08:49:47Z'
