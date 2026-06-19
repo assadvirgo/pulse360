@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Norwegian lawmakers paused a parliamentary session on Thursday to perform
   the team&#039;s trademark “Viking Row” celebration.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-19T03:57:57Z'

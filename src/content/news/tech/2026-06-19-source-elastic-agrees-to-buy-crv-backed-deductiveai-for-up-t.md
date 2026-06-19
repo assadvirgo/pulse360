@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: DeductiveAI, a startup that uses AI to catch and resolve bugs in software,
   was founded just three years ago.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-19T00:51:11Z'

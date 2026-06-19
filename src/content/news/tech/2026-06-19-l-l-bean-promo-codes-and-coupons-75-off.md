@@ -5,7 +5,7 @@ countryCode: US
 description: Find the best L.L.Bean promo codes and coupons for 10% off your first
   order, major sale discounts, free shipping on $75+, and extra savings for select
   groups.
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-19T05:00:00Z'

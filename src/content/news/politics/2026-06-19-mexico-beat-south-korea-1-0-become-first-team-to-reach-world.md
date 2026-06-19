@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Luis Romo&#039;s 50th-minute goal sent Mexico into the round of 32, which
   they will play on home soil, too.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-19T04:41:34Z'

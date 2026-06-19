@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Left-wing Senator Jaques Wagner was the latest prominent figure to be
   swept up in investigations into Banco Master.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 75.5
 pubDate: '2026-06-18T21:13:00Z'

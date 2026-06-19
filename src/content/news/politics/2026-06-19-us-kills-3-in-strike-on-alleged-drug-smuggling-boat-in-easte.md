@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The attack is the latest in a series of strikes on vessels operated by
   &#039;narco-terrorists,&#039; according to Washington.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-19T08:23:26Z'

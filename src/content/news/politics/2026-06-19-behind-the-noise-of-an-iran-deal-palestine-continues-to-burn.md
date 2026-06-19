@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s war on the Palestinians never stopped; the world just stopped
   watching.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-19T04:56:53Z'

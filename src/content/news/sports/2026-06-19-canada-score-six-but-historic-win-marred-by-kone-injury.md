@@ -5,7 +5,7 @@ countryCode: CA
 description: Ismael Kone's serious-looking injury left Canada manager Jesse Marsch
   in tears and overshadowed their first-ever World Cup finals win as they thrashed
   nine-man Qatar 6-0.
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-19T01:58:33Z'

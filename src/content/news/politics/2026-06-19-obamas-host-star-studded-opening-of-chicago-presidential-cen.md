@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The campus opens to the public this weekend with a museum, community
   amenities and more to honour the 44th US president.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-06-19T00:01:27Z'

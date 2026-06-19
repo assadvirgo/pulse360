@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: The mother of Cape Verde’s star goalkeeper Vozinha has been granted a
   visa to enter the United States.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-19T05:23:49Z'

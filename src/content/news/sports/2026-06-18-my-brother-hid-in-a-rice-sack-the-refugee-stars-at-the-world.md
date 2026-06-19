@@ -5,7 +5,7 @@ countryCode: DE
 description: Germany and Real Madrid defender Antonio Rudiger, whose family fled Sierra
   Leone's civil war, is among those campaigning for a change in global attitudes around
   refugees.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 78.2
 pubDate: '2026-06-18T13:41:06Z'

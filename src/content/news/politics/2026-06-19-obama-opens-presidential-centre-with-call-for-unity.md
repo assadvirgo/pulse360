@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former US President Barack Obama opened his presidential centre in Chicago,
   using the occasion to call for unity.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-19T01:12:44Z'

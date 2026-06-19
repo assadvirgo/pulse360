@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Greater Manchester mayor’s victory in Makerfield clears path for attempt
   to become Labour leader and prime minister
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-19T02:26:08Z'

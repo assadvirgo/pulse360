@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Newly elected MP has made clear that he intends to challenge Keir Starmer
   — but the prime minister’s response will shape the timeline
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-19T03:57:07Z'

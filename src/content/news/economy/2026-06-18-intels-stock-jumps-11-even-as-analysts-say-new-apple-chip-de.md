@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Intel “is steadily expanding its domestic capacity and converting political
   and strategic tailwinds into concrete foundry wins,” an analyst says.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-18T22:00:00Z'

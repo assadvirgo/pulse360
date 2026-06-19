@@ -5,7 +5,7 @@ countryCode: GR
 description: Director Efthimis Kosemund-Sanidis’ debut feature, about a man arriving
   on a remote Greek island to claim his late father’s inheritance, world premieres
   in the Karlovy Vary film…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-19T06:59:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Greater Manchester mayor defeats Farage’s Reform UK in pivotal Makerfield
   poll
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-19T09:21:53Z'
