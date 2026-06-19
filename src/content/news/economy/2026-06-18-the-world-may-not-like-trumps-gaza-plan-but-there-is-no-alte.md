@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: If even I, an implacable opponent of the president, can accept this as
   the best option, then surely others can too?
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-18T17:00:05Z'

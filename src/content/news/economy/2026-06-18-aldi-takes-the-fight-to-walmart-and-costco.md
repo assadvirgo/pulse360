@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After 50 years of slow US expansion the German discount grocer is upping
   the pace. Can it win over hard-pressed consumers?
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-18T16:06:51Z'

@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: A Filipino artist has created a giant sand portrait of Lionel Messi on
   a beach in Tandag, Philippines.
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-18T17:30:16Z'

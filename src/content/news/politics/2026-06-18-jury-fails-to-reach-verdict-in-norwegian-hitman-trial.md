@@ -3,7 +3,7 @@ category: Politics
 country: Norway
 countryCode: 'NO'
 description: Johannes Natland, 19, was remanded in custody and will now face a retrial.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-18T14:36:33Z'

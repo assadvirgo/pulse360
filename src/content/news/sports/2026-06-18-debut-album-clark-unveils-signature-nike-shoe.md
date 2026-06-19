@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Caitlin Clark announced her first signature shoe -- the Caitlin 1 --
   on Wednesday afternoon.
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-18T13:58:05Z'

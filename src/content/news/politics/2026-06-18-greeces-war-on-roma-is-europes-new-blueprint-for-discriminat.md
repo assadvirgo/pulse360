@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Mass raids on Roma communities show how Europe is recasting racial discrimination
   as crime prevention and public order.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-18T11:33:35Z'

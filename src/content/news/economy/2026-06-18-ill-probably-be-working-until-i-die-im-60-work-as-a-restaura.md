@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Last year, I had to buy a used car because my previous one died. I also
   have $4,400 in credit-card debt.”
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-18T12:38:00Z'

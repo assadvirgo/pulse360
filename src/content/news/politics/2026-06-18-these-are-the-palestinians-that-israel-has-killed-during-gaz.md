@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has killed more than 1,000 Palestinians since agreeing to a US-brokered
   ‘ceasefire’ in its genocidal war.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-18T14:33:38Z'

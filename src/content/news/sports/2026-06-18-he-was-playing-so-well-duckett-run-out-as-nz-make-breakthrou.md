@@ -5,7 +5,7 @@ countryCode: GB
 description: England lose their first wicket as Ben Duckett is run out for 36 by New
   Zealand's Nathan Smith on day two of the second Test at The Oval, with the home
   side 45-1 in their first…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-18T13:27:21Z'

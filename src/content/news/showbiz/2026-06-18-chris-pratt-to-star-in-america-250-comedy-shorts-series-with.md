@@ -5,7 +5,7 @@ countryCode: US
 description: 'Chris Pratt is saddling up for an unlikely buddy comedy: a series of
   comedy shorts focused on American history, co-starring presidential historian Doris
   Kearns Goodwin. The series…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-18T20:36:18Z'

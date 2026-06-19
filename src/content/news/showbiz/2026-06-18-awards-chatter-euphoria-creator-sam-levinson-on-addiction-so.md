@@ -5,7 +5,7 @@ countryCode: US
 description: '"There''s a difference between what I write and who I am," says the
   HBO show''s polarizing creator. "You have to make something for an audience who
   can handle uncomfortable truths,…'
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 67.8
 pubDate: '2026-06-18T20:02:25Z'

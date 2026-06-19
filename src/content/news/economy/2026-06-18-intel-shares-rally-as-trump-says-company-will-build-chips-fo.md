@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Intel shares jumped in premarket trade on Thursday as President Donald
   Trump said the foundry will produce chips for Apple in the U.S.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-18T09:16:00Z'

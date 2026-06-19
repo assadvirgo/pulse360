@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Acquisition of the French defender, who is currently at the World Cup,
   is a key signing by new Real coach Jose Mourinho.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-18T11:21:18Z'

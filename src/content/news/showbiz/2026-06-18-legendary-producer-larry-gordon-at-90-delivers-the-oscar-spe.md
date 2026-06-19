@@ -5,7 +5,7 @@ countryCode: US
 description: Accepting Producers United’s inaugural Legacy Award on Sherry Lansing’s
   back lawn, Gordon had guests rolling with laughter with an unfiltered speech that
   Jerry Bruckheimer called…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-18T20:25:10Z'

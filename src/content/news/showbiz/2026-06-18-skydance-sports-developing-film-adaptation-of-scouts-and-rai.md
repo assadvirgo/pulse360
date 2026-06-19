@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Skydance Sports is developing a feature adaptation of Scouts
   and Raiders: The Navy&#8217;s First Special Warfare Commandos, a 1993 work of non-fiction
   by John B. Dwyer,…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-18T19:52:20Z'

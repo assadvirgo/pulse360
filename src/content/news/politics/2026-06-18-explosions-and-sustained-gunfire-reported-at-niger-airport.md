@@ -4,7 +4,7 @@ country: Niger
 countryCode: NE
 description: Soldiers have been searching for militants around the main airport and
   military airbase in Niger's capital Niamey.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-18T15:18:00Z'
