@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian deputy foreign minister says Iran &#039;ready to move forward&#039;
   on diplomacy with US, but war must end on all fronts.
-displayOrder: 24
+displayOrder: 30
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-20T00:00:11Z'

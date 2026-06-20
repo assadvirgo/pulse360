@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: New Zealand beat Ireland by four runs in a match that goes to the final
   ball at the Women's T20 World Cup.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-19T22:15:07Z'

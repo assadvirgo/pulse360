@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Norwegian government announces consultation on new bill as it steps up
   policies regarding &#039;unlawful&#039; Israeli activities.
-displayOrder: 30
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-19T19:18:35Z'

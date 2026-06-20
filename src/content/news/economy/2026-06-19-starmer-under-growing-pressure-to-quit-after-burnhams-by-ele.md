@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Prime minister faces mutiny in his cabinet after outgoing Greater Manchester
   mayor sees off Reform UK in Makerfield
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-19T18:57:29Z'

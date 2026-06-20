@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: There is an opportunity to freeze the conflict, but Putin’s fantasy of
   total victory could get in the way
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-20T04:00:38Z'

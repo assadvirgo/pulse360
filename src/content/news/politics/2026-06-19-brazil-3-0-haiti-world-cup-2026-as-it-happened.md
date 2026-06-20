@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: All our updates, including post-match reaction, following our text commentary
   stream of the Group C clash.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-19T20:33:07Z'

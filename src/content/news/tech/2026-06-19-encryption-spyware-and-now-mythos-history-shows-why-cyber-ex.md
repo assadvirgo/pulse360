@@ -3,7 +3,7 @@ category: Tech
 description: For the last 30 years, stopping the flow of cybersecurity-related software
   has proven to be ineffective. It's unclear why it would work now with Anthropic’s
   cybersecurity model…
-displayOrder: 13
+displayOrder: 21
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-19T22:40:14Z'

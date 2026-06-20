@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Jonathan Toews, a three-time Stanley Cup champion with the Blackhawks
   and two-time Olympic gold medalist with Canada, has announced his retirement.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-19T21:16:30Z'
