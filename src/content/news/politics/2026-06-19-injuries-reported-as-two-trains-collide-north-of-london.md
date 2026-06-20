@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Local media say multiple injuries reported after crash near Bedford,
   but emergency services did not provide details.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-19T18:32:03Z'

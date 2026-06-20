@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Follow our live build-up, with full team news coverage, ahead of our
   text commentary stream of the Group C clash.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-19T20:33:07Z'

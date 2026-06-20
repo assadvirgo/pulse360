@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The country carries the seeds of escalation that could undo Trump’s tenuous
   deal with Tehran
-displayOrder: 34
+displayOrder: 39
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-19T16:31:51Z'

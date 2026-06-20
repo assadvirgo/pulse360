@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: '&#039;No ceasefire can be considered meaningful while children continue
   to be killed&#039; says UNICEF.'
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-19T20:50:50Z'

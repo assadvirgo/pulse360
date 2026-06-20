@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A French launch startup is scrapping the name of its rocket, apparently
   due to a trademark issue.
-displayOrder: 37
+displayOrder: 43
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-19T13:36:53Z'

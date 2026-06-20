@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Call it a startup with a sole founder and a very large seed round, but
   what's next is less clear.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-19T13:00:00Z'

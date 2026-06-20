@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: How will teaching artificial intelligence help China take on a high-tech
   future?
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-19T16:22:22Z'

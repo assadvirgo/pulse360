@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The Italian prime minister has accused Trump of making up a story that
   she &#039;begged&#039; him for a photo at G7 in France.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-19T16:38:46Z'

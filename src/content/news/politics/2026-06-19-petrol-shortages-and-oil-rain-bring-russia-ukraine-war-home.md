@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Ukraine increases strikes on Russian oil and weapons infrastructure as
   it garners aid and begins EU talks.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-19T15:19:26Z'

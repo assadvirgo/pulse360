@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: As Britain and Canada follow Australia’s lead on under-16 social media
   bans, experts warn the measures may be easy to evade and hard to enforce.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-19T20:15:55Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: 2CRSi shares suspended from trade on the Paris exchange “until further
   notice.”
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-19T12:33:00Z'

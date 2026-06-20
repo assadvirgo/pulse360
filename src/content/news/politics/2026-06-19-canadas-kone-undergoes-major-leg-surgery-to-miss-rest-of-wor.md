@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Kone is expected to make a full recovery after breaking his left leg,
   with multiple fractures, in the match against Qatar.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-19T21:20:21Z'

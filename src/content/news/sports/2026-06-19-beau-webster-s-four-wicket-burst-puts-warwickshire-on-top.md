@@ -3,7 +3,7 @@ category: Sports
 country: United Kingdom
 countryCode: GB
 description: Lewis Goldsworthy makes 90 but Somerset up against it in Taunton
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-19T17:33:31Z'

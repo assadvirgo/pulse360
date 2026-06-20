@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lewis Goldsworthy musters a battling 90 to keep Somerset afloat on day
   one of the County Championship match against Warwickshire at Taunton.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-19T18:13:43Z'
