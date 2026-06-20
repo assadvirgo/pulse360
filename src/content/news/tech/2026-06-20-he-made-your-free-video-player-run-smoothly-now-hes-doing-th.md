@@ -5,7 +5,7 @@ countryCode: FR
 description: French serial entrepreneur and open-source legend Jean-Baptiste Kempf
   has been building Kyber, an infrastructure layer to control remote devices in real
   time.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 42.0
 pubDate: '2026-06-20T00:47:44Z'

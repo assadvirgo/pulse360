@@ -5,7 +5,7 @@ countryCode: IT
 description: Italian prime minister Giorgia Meloni has called out US President Donald
   Trump for "senseless", "constant, unprovoked attacks", as a row triggered by his
   claim she begged him for…
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 74.0
 pubDate: '2026-06-20T11:55:00Z'

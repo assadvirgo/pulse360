@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain face Saudi Arabia in need of a win to take control of Group H.
   Can they rediscover their attacking edge?
-displayOrder: 24
+displayOrder: 44
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-20T12:17:44Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump has unveiled the new Air Force One, an upgraded Boeing 747
   gifted by Qatar that has been converted into the official US presidential aircraft.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-20T05:20:00Z'

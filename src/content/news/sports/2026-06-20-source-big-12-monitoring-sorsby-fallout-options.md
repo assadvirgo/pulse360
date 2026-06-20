@@ -5,7 +5,7 @@ countryCode: US
 description: The Big 12 presidents and chancellors haven't rushed to pull the league's
   recently filed federal lawsuit because there are still questions about Texas Tech
   quarterback Brendan…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-20T06:00:28Z'

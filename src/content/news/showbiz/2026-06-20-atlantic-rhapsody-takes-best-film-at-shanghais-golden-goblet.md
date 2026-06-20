@@ -5,7 +5,7 @@ countryCode: CN
 description: China&#8217;s &#8220;Atlantic Rhapsody,&#8221; directed by Zhong Kaifeng,
   claimed the best feature film at the 28th Golden Goblet Awards, capping the Shanghai
   International Film…
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-20T13:44:54Z'

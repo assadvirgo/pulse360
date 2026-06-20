@@ -5,7 +5,7 @@ countryCode: GB
 description: An ongoing heatwave has triggered weather warnings across Europe, with
   several nations - including the UK - bracing for what could be one of the hottest
   June days on record.
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-20T11:45:00Z'

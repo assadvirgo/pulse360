@@ -5,7 +5,7 @@ countryCode: US
 description: Rory McIlroy, who posted a 1-over 71 to fall to even par after 36 holes
   at the U.S. Open on Friday, says seven shots isn't too much to make up at Shinnecock
   Hills Golf Club.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-20T06:00:28Z'

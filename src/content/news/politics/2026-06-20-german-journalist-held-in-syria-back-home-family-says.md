@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Eva Maria Michelmann&#039;s brother says she had been held in the Syrian
   city of Raqqa since January.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-20T11:32:33Z'

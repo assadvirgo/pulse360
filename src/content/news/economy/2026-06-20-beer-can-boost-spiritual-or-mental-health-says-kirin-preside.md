@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’
   as it ‘helps make people happy’
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-20T04:00:20Z'

@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Ghana has been hosting a conference to advance the UN resolution declaring
   slavery the ‘gravest crime against humanity.&#039;
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-20T11:50:01Z'
