@@ -5,7 +5,7 @@ countryCode: GB
 description: '&#8220;Slow Horses&#8221; may be headed by Gary Oldman&#8217;s dishevelled
   MI5 agent Jackson Lamb but it was Roddy Ho, played by Christopher Chung, who took
   the reins in Season 5.…'
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 65.8
 pubDate: '2026-06-19T15:59:36Z'

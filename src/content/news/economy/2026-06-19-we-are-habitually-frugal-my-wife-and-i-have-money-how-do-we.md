@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Partly due to some mental-health issues, they may continue to go through
   life living paycheck to paycheck, or worse.”
-displayOrder: 46
+displayOrder: 47
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-19T18:30:00Z'

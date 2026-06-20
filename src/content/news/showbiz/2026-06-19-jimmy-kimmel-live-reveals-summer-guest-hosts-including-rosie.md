@@ -5,7 +5,7 @@ countryCode: US
 description: On his last show before his traditional summer break, Jimmy Kimmel on
   Thursday night announced the celebs who will fill in for him as guest hosts of Jimmy
   Kimmel Live! over the…
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 73.0
 pubDate: '2026-06-19T17:54:00Z'

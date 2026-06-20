@@ -5,7 +5,7 @@ countryCode: US
 description: Where's the Trump phone? We're going to keep talking about it every week.
   We don't have the phones we preordered yet, but this week we received unexpected
   news from Trump Mobile's…
-displayOrder: 32
+displayOrder: 38
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-19T13:00:00Z'

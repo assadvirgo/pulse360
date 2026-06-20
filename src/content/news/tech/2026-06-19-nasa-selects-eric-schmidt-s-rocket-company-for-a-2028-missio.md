@@ -5,7 +5,7 @@ countryCode: US
 description: Relativity Space, the rocket company led by former Google executive Eric
   Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported
   earlier by TechCrunch.…
-displayOrder: 16
+displayOrder: 24
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-19T18:41:48Z'

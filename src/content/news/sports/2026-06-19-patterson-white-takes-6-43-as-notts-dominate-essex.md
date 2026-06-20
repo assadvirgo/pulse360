@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Liam Patterson-White takes a career-best 6-43 as Nottinghamshire dominate
   against Essex on day one of their County Championship game.
-displayOrder: 15
+displayOrder: 23
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-19T17:31:56Z'

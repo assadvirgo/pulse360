@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Leaked media reports quoted EU&#039;s top diplomat likening Israel to
   South Africa&#039;s apartheid regime.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-19T13:58:52Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: At least 47 people killed in Israeli attacks on Lebanon since midnight
   as US-Iran talks stall.
-displayOrder: 22
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-19T15:47:15Z'

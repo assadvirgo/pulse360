@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Strategists at the investment bank see gold rising to $4,900 an oune
   by the end of the year instead of $5,400.
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-19T11:55:00Z'

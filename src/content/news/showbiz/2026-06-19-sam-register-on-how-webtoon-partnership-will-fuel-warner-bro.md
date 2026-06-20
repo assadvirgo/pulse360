@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. Animation President Sam Register says partnering with Webtoon
   Entertainment will power up its push into streamer-friendly YA animation. Register
   and Webtoon…
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 77.0
 pubDate: '2026-06-19T15:37:34Z'
