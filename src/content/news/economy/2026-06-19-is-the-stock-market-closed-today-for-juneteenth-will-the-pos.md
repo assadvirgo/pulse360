@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The June 19 federal holiday falls on a Friday this year. Here’s how trading
   hours and other services are affected.
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-19T16:41:00Z'

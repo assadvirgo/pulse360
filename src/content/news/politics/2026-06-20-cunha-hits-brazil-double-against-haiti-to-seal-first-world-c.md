@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Manchester United&#039;s Matheus Cunha scores Brazil&#039;s first two
   goals in 3-0 win against Haiti as FIFA event progress nears.
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-20T02:42:34Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The agreement followed concerns that continued clashes would undermine
   the deal to end the war between the US and Iran.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 79.2
 pubDate: '2026-06-19T19:27:12Z'

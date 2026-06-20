@@ -5,7 +5,7 @@ countryCode: US
 description: '"Finnegan’s Foursome" is his 16th feature, and he’s still doing that
   shaggy-likable, spiky-quaint, semi-low-budget Edward Burns dramedy thing — the script
   that’s talky and kind of…'
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-20T04:15:30Z'

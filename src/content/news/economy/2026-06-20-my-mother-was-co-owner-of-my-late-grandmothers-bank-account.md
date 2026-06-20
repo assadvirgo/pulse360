@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “The will stated that the estate was to be divided equally among her
   children.”
-displayOrder: 22
+displayOrder: 31
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-20T05:18:00Z'

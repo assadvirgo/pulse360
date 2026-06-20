@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Elon Musk’s amplification of anti-immigrant sentiment in Belfast, Southampton
   and beyond cannot be explained by ideology alone
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-20T04:00:38Z'

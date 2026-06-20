@@ -5,7 +5,7 @@ countryCode: JP
 description: Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more
   than provide a much-needed boost to the country&#8217;s languishing listing season.
   It has also supplied…
-displayOrder: 29
+displayOrder: 39
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-19T21:45:00Z'

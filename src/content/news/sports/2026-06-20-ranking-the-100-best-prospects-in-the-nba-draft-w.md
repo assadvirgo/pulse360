@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Who made big jumps in the top 25? Where do Dybantsa and Peterson land?
   Here's our final big board of 2026.
-displayOrder: 11
+displayOrder: 25
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-20T05:21:30Z'

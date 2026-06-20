@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: An own goal and a goal by Alex Freeman helped the home side maintain
   a perfect record and progress to the round of 32.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-19T22:22:52Z'

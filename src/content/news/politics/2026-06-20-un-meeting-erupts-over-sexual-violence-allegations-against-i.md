@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: “You will be quiet.” A UN meeting descended into a heated exchange.
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-20T04:26:07Z'

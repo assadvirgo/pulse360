@@ -3,7 +3,7 @@ category: Politics
 country: Italy
 countryCode: IT
 description: Italian Prime Minister says she didn&#039;t ‘beg’ Trump for G7 photograph.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-19T20:53:44Z'
