@@ -5,7 +5,7 @@ countryCode: CN
 description: '&#8220;Sumpa Kingdom,&#8221; a drama set in Xizang selected for the
   Belt and Road Film Week sidebar at the Shanghai International Film Festival, held
   a post-screening event, with…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-20T11:58:18Z'

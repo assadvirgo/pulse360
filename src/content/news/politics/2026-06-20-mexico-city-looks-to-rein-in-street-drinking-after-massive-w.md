@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Authorities collected some 40 tonnes of waste around Reforma Avenue,
   the historic centre, on Friday morning.
-displayOrder: 11
+displayOrder: 32
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-20T03:43:21Z'

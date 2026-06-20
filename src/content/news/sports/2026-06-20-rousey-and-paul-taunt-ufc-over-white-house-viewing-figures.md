@@ -5,7 +5,7 @@ countryCode: US
 description: Ronda Rousey and Jake Paul taunt the UFC and Dana White for failing to
   break Most Valuable Promotions' MMA record audience figure with the White House
   event.
-displayOrder: 16
+displayOrder: 35
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-20T07:16:37Z'

@@ -3,7 +3,7 @@ category: Economy
 country: Israel
 countryCode: IL
 description: Exchange of fire underlines fragility of the latest ceasefire
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-20T12:01:33Z'

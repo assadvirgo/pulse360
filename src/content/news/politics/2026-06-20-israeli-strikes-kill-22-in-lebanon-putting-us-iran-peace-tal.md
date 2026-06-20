@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: US media are reporting that Witkoff and Kushner are preparing for negotiations
   with Iran after talks were postponed.
-displayOrder: 14
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-20T07:02:41Z'

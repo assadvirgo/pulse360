@@ -2,7 +2,7 @@
 category: Economy
 description: From litter-pickers to cage fighters, the signs of a society’s health
   are often hidden in plain sight
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-20T04:00:38Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: European monies paid for anti-immigrant posters during ‘Say No to EU’
   tour
-displayOrder: 36
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-20T04:00:38Z'

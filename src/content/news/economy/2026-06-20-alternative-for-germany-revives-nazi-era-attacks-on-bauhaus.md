@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Modernist art institution fears AfD ‘patriotic culture’ push nearly 100
   years after closing under Hitler
-displayOrder: 40
+displayOrder: 47
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-20T04:00:30Z'

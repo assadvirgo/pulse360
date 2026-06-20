@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australia confirmed its first mainland H5N1 bird flu case in a seabird
   near Esperance, WA.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-20T07:24:39Z'

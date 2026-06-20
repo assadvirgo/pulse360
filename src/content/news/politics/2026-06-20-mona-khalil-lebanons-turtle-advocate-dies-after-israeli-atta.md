@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Khalil spent more than two decades protecting the nests of endangered
   turtle species in southern Lebanon.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-20T07:42:26Z'

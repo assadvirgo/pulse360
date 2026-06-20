@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Turkiye suffered their second successive defeat in North America, bringing
   an end to their World Cup campaign.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-20T05:24:20Z'

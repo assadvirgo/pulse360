@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australia was previously the only continent where the H5N1 bird flu strain
   had not yet been found.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-20T03:12:47Z'

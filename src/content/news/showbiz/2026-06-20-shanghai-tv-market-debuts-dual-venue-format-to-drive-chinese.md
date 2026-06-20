@@ -5,7 +5,7 @@ countryCode: CN
 description: The Shanghai International Film &#38; TV Market is launching a new dual-venue
   format at the Shanghai Exhibition Center this year, with separate spaces for international
   company…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-20T11:48:25Z'

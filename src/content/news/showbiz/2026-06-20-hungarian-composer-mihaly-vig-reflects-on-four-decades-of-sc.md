@@ -5,7 +5,7 @@ countryCode: HU
 description: Mihály Víg, the Hungarian composer, actor and screenwriter who has served
   as Béla Tarr&#8217;s closest creative partner for more than four decades, held court
   at the 28th Shanghai…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-20T12:25:11Z'
