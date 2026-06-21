@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US-Iran memorandum of understanding does not rule out future tolls
   in the strait after an initial 60-day period.
-displayOrder: 16
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-20T21:54:39Z'

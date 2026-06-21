@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Victims' families say there are ways to be an ethical true-crime fan
   - not an exploitative one.
-displayOrder: 25
+displayOrder: 31
 heroImage: ''
 importance: 41.2
 pubDate: '2026-06-20T23:26:45Z'

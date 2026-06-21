@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The first feature from China's Zhong Kaifeng won over a jury led by Hong
   Kong icon Tony Leung Chiu-wai, which had set out in search of "surprises."
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-06-21T00:52:10Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Talks come as Iran says it is closing the Strait of Hormuz over Israel&#039;s
   deadly attacks on Lebanon.
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-21T00:00:00Z'

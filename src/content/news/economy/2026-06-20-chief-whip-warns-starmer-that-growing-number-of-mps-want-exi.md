@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Prime minister is spending the weekend discussing his future with allies
   and colleagues
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-06-20T17:01:50Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israeli strike kills children in Gaza despite ceasefire claims
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-20T16:39:03Z'

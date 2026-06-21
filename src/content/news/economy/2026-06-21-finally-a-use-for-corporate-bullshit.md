@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Companies might one day be able to use it to choose who to hire and promote
-displayOrder: 13
+displayOrder: 20
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-21T04:00:17Z'

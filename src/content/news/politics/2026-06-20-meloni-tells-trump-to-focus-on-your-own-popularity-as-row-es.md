@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The US president earlier questioned Meloni's popularity after suggesting
   she "begged" for a photo at G7 summit
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 71.2
 pubDate: '2026-06-20T15:31:12Z'

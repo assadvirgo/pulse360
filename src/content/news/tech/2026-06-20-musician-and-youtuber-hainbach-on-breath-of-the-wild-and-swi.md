@@ -5,7 +5,7 @@ countryCode: DE
 description: Stefan Paul Goetsch, better known as Hainbach, is a German experimental
   composer, artist, and YouTuber who is perhaps most famous for making music with
   laboratory equipment and…
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-20T15:20:00Z'

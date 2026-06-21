@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The Grammy Award winner and Callum Turner had a three-day wedding celebration
   in Palermo, Sicily, separate from their May 31 nuptials.
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 44.8
 pubDate: '2026-06-21T04:01:41Z'

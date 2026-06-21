@@ -5,7 +5,7 @@ countryCode: US
 description: A new legislative proposal would create a bipartisan commission to strengthen
   the finances of Social Security and Medicare at a time when the programs are under
   pressure.
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-20T18:36:00Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: “There’s AI — the film has no AI,” says director-writer Duncan Jones
   emphatically about his latest feature, “Rogue Trooper.” The subject comes up as
   producer Stuart Fennegan talks…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-21T05:00:00Z'

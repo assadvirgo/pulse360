@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian president calls on Warsaw to show more respect in row dating
   back to second world war
-displayOrder: 26
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-20T18:33:11Z'
