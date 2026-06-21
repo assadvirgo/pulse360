@@ -5,7 +5,7 @@ countryCode: US
 description: 'With the United States&#8217; 250th birthday, the documentary filmmakers
   of Declarations: Black Americans and the Revolutionary War turned to modern technology
   to reclaim history.…'
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 74.0
 pubDate: '2026-06-21T00:18:11Z'

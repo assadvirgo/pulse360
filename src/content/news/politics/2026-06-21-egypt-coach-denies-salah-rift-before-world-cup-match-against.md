@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: '&#039;If he starts ... or if he gets substituted, it&#039;s fine - it
   is his role as a player,&#039; Egypt ‌coach Hossam Hassan says.'
-displayOrder: 30
+displayOrder: 49
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-21T02:43:53Z'

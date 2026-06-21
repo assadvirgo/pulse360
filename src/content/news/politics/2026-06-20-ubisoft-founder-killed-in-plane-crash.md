@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The founder of Ubisoft, the gaming company behind Assassin's Creed, has
   been killed in a plane crash.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-20T22:50:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wyndham Clark shot an even-par 70 and will take a six-shot lead into
   the final round as he pursues his second U.S. Open title Sunday at Shinnecock Hills.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-21T06:01:00Z'

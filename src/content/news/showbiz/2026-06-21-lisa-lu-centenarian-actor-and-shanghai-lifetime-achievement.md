@@ -5,7 +5,7 @@ countryCode: CN
 description: Lisa Lu, recipient of the Lifetime Achievement Award at the 28th Shanghai
   International Film Festival, joined a packed audience for a post-screening event
   celebrating &#8220;The…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-21T06:38:17Z'

@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Both nations seek a durable end to their war as Iran slams Israeli attacks
   on Lebanon as violations of interim deal.
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-21T07:39:51Z'

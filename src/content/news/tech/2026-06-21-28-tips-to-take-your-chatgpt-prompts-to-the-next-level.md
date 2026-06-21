@@ -2,7 +2,7 @@
 category: Tech
 description: Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you
   can get way more interesting results.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 42.2
 pubDate: '2026-06-21T10:30:00Z'

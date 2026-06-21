@@ -3,7 +3,7 @@ category: Showbiz
 description: Rolling off its eyecatching portfolio of premium, high-end kids titles,
   Banijay Kids &#38; Family has clinched a raft of package deals in Latin America,
   announced strategically in…
-displayOrder: 7
+displayOrder: 25
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-21T10:33:11Z'

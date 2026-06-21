@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Reversing Brexit would sidetrack UK parliament from pursuing more impactful
   growth reforms
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-21T11:00:07Z'

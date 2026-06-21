@@ -5,7 +5,7 @@ countryCode: RO
 description: Cristi Iftime’s “The Fear’s Artist” and Marius Olteanu’s “We Won’t Get
   Old Together” won big at the industry awards ceremony of the Transilvania Intl.
   Film Festival, with the two…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-21T08:10:34Z'

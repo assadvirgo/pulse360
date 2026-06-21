@@ -2,7 +2,7 @@
 category: Economy
 description: Rebound across eastern Mediterranean as travellers reassess conflict’s
   threat and proximity
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-21T04:00:17Z'

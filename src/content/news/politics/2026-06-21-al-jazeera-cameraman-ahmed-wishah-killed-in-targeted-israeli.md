@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-21T05:35:36Z'
