@@ -3,7 +3,7 @@ category: Sports
 description: Curacao goalkeeper Eloy Room equals the record for most saves in a World
   Cup match, as Dick Advocaat's side earn their first ever point in the tournament
   with a 0-0 draw against…
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 50.2
 pubDate: '2026-06-21T03:14:41Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US disputed Iran's claim the waterway is shut, a move Tehran says
   was a response to Israeli attacks in Lebanon.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-21T04:34:00Z'

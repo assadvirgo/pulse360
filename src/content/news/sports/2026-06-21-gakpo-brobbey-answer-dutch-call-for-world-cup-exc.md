@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: After drawing Japan in their Group F opener, the Netherlands were under
   pressure vs. Sweden. Ronald Koeman pressed the right buttons in a dominant win.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-21T03:22:16Z'

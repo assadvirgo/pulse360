@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: As Labour toys with the idea, Brussels warns it needs clear commitment
   and will not accept cherry-picking
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-21T04:00:07Z'

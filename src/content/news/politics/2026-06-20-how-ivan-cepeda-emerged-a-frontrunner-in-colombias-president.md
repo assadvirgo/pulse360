@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Critics say Cepeda, a soft-spoken senator, became a &#039;hero to the
   left&#039; after he took on a right-wing president in court.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 86.5
 pubDate: '2026-06-20T16:04:37Z'

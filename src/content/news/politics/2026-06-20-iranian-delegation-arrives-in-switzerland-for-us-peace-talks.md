@@ -3,7 +3,7 @@ category: Politics
 country: Switzerland
 countryCode: CH
 description: Iranian delegation arrives in Switzerland for US peace talks
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-20T23:39:45Z'

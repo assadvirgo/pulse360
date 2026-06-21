@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Andrew Giuliani says Iran&#039;s players will not be allowed to stay
   longer for their group matches in the US.
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-20T23:45:36Z'

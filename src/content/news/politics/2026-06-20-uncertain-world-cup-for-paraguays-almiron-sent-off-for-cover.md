@@ -4,7 +4,7 @@ country: Paraguay
 countryCode: PY
 description: Almiron received the first red card for covering his mouth in the World
   Cup Group D match against Turkiye.
-displayOrder: 17
+displayOrder: 37
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-20T21:52:28Z'

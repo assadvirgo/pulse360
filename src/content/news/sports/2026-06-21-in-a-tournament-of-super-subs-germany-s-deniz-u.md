@@ -5,7 +5,7 @@ countryCode: DE
 description: Deniz Undav reprised his 'super sub' role with two priceless goals as
   Germany rallied for a 2-1 win against Ivory Coast that booked their spot in the
   round of 32.
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-21T08:05:37Z'

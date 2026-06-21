@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bystanders captured the moment police arrested a machete-weilding man,
   suspected of anti-Muslim stabbing rampage.
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-21T02:37:17Z'
