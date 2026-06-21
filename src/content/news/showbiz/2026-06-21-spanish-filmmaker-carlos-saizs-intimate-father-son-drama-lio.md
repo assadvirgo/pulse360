@@ -5,7 +5,7 @@ countryCode: ES
 description: Spanish filmmaker Carlos Saiz took home the top prize Saturday at the
   Transilvania Intl. Film Festival, as the jury awarded the first-time director the
   Transilvania Trophy for…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-21T08:15:25Z'

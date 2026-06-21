@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK prime minister under intense pressure to set out departure timetable
   after Andy Burnham’s by-election win
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-21T08:14:55Z'

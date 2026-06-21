@@ -5,7 +5,7 @@ countryCode: US
 description: Several of the buyers who screened Luca Guadagnino’s hotly anticipated
   “Artificial” in the days after Amazon MGM Studios abruptly dropped the film have
   passed on acquiring it,…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-21T16:22:16Z'

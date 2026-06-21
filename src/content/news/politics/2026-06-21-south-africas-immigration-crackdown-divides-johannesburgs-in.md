@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: A government push to curb undocumented employment is exposing the dependence
   of many small businesses on migrant labour.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-21T05:42:08Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: The cryptographic keys that secure your computer's boot sequence will
   start to expire on June 24. Here's what that means for you.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-21T09:00:00Z'

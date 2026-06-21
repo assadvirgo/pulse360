@@ -3,7 +3,7 @@ category: Economy
 country: Ukraine
 countryCode: UA
 description: Ukraine’s innovations cut into Russia’s manpower advantage
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-21T04:00:17Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: British actor Kit Harington spent years on the set of some of the biggest
   films and TV shows of the last decade, from his breakthrough role as Jon Snow in
   HBO’s “Game of Thrones”…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-21T14:22:58Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump has claimed vandals are responsible for issues with the
   Reflecting Pool in Washington DC following a refurbishment costing more than $14m
   (£10.5m).
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 40.0
 pubDate: '2026-06-21T06:26:00Z'

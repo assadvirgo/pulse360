@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Northampton show their grit and unity to prevail in a tussle of a Prem
   final with Exeter and secure their third English title.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-21T07:41:24Z'
