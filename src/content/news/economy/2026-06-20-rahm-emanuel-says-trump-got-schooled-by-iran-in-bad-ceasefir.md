@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Possible Democratic presidential candidate describes war as historic
   ‘American national security mess’
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 65.5
 pubDate: '2026-06-20T17:07:11Z'

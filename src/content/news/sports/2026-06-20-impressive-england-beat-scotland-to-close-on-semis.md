@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England's batting sparkles again as the hosts close on a place in the
   T20 World Cup semi-finals with an 38-run victory over Scotland at Headingley.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 60.2
 pubDate: '2026-06-20T20:54:57Z'

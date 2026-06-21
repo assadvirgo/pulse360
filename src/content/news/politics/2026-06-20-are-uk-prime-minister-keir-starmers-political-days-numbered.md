@@ -3,7 +3,7 @@ category: Politics
 country: United Kingdom
 countryCode: GB
 description: British PM resisting intensifying party pressure to step aside.
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-20T18:50:14Z'

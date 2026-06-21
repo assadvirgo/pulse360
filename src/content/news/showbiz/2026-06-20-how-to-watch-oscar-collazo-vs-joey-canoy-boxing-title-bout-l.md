@@ -3,7 +3,7 @@ category: Showbiz
 description: In a title bout for the championship, Puerto Rican Oscar Collazo takes
   on Filipino boxer Joey Canoy in a 12-round match. What&#8217;s on the line? Collazo&#8217;s
   WBA and WBO…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-06-20T21:00:00Z'

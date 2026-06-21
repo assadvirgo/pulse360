@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shinkei makes a refrigerator-sized robot called Poseidon to kill fish
   quickly and humanely.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-20T18:26:02Z'

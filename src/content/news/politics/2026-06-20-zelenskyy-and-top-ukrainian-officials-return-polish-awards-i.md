@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The move comes after Ukrainian President Volodymyr Zelenskyy was stripped
   of Poland&#039;s top honour.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-20T12:38:34Z'

@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: For several weeks, a wave of protests has erupted over President Rodrigo
   Paz’s austerity measures.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-20T16:41:34Z'

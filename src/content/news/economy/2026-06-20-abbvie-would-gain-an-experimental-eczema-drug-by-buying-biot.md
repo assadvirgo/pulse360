@@ -5,7 +5,7 @@ countryCode: US
 description: AbbVie is reportedly trying to buy a biotech company that is developing
   a promising atopic dermatitis drug for $10.9 billion in cash, according to a Financial
   Times report.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-20T16:11:00Z'
