@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 'Star Wars' creator will lend his voice for a role in the upcoming
   animated feature from Illumination and Universal Pictures.
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-20T20:19:28Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: From crisp, low-alcohol sippers to lush, fruit-forward pours, top wine
   experts reveal the salmon-hued California bottles they recommend for every sun-soaked
   gathering.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-20T14:55:44Z'

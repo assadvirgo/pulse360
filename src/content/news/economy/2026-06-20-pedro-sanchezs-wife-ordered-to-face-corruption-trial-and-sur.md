@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spanish prime minister’s office accuses judge of over-reach after shock
   decision
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-20T14:40:11Z'

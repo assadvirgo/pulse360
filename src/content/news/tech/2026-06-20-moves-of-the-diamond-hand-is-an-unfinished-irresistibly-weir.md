@@ -3,7 +3,7 @@ category: Tech
 description: 'From its opening minutes, Moves of the Diamond Hand is upfront about
   what it offers: You''re going to have a lot of strange conversations, and you''re
   going to roll a lot of dice.…'
-displayOrder: 23
+displayOrder: 32
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-20T14:00:00Z'

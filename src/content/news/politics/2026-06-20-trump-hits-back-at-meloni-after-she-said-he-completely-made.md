@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Donald Trump has hit back at Italian prime minister Giorgia Meloni after
   she accused him of making up a story that she begged him for a picture.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-20T11:55:00Z'

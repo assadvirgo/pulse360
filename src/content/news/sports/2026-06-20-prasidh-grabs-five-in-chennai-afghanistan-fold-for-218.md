@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Shahidi's maiden ODI century brought some respectability to Afghanistan's
   first-innings show in Chennai
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-20T12:18:34Z'

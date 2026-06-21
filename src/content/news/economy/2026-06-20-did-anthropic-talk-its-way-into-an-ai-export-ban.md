@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: FT analysis shows company warned about dangers of advanced AI far more
   than rival OpenAI this year
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-20T11:00:09Z'

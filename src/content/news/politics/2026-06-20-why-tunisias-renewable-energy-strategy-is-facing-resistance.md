@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: Giving concessions for renewable projects to foreign corporations will
   not help solve the country’s energy crisis.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-20T12:06:02Z'

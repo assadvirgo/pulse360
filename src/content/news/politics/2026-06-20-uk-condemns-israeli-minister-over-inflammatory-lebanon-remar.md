@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK foreign secretary slams Israeli minister&#039;s inflammatory remarks
   amid regional tensions and fragile ceasefire.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-20T13:01:23Z'

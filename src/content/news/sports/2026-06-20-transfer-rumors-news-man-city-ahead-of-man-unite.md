@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England midfielder Elliot Anderson is looking more likely to join Manchester
   City than Manchester United this summer. Transfer Talk has the latest.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-20T09:49:10Z'

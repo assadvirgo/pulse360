@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran said Israel's continued attacks in Lebanon are a breach of Tehran's
   agreement with the US to end the war.
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-20T18:39:55Z'

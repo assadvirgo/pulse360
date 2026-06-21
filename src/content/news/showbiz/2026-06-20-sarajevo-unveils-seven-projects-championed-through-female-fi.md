@@ -5,7 +5,7 @@ countryCode: BA
 description: From a Romanian legal doc to a film about two Serbian teens fleeing political
   repression, the Sarajevo Film Festival has revealed which female filmmakers will
   be getting tailored…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-06-20T16:12:47Z'

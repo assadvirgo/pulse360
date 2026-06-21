@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The SEC used to intimidate corporate wrongdoers. Now its own commissioners
   are gutting its leverage.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-20T18:28:00Z'

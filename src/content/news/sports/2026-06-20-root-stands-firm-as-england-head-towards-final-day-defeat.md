@@ -5,7 +5,7 @@ countryCode: GB
 description: Watch the highlights as Joe Root stands between England and defeat in
   the second Test against New Zealand where a world record of 463 runs is needed to
   win at The Oval.
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 70.2
 pubDate: '2026-06-20T18:58:56Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'Star Wars creator George Lucas is coming out of his show biz retirement
   for a role a decidedly non-Star Wars project: He&#8217;ll lend his voice to a character
   in…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-20T17:07:19Z'
