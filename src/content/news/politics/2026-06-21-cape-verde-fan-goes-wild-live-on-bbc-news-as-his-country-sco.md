@@ -5,7 +5,7 @@ countryCode: CV
 description: During a live BBC News broadcast, reporter Paul Njie interviews a Cape
   Verde fan when the country suddenly scores its first ever World Cup goal against
   Uruguay in the 2026 World…
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-21T23:53:13Z'

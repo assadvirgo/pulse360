@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Outgoing leader delivers emotional speech to clear way for Andy Burnham
   to become Britain’s seventh premier in a decade
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-22T05:49:59Z'

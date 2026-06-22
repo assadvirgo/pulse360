@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Berlin wants to loosen the shackles on the BND as part of a Europe-wide
   drive to reduce dependence on US intelligence
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-22T04:00:15Z'

@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Blast at Ras Laffan Industrial City caused by &#039;technical malfunction&#039;,
   Ministry of Interior says.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-22T03:57:17Z'

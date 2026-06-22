@@ -5,7 +5,7 @@ countryCode: IT
 description: The main jury roster for this year’s&#160;Venice Film Festival&#160;has
   been unveiled, with Hong Kong filmmaking giant Johnnie To, Tunisian director Kaouther
   Ben Hania and Afghan…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-22T09:03:45Z'

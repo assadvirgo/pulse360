@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Keir Starmer's resignation on Monday morning paves the way for yet another
   leadership battle.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-06-22T09:46:54Z'
