@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Valdes was close ally of Castro brothers and helped found Cuba&#039;s
   notorious intelligence apparatus.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-21T19:51:03Z'

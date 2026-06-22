@@ -3,7 +3,7 @@ category: Economy
 country: Ireland
 countryCode: IE
 description: Taoiseach Micheál Martin tells FT there are ‘ways of landing this’
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-22T04:00:30Z'

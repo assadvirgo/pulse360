@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Private equity groups swiftly recreate software products to gauge their
   competitive advantages
-displayOrder: 21
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-22T04:00:07Z'

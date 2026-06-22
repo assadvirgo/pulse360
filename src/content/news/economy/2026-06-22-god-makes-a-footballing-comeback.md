@@ -2,7 +2,7 @@
 category: Economy
 description: World Cup players offer up prayers, Muslim prostrations and even Jesus
   shin pads
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-22T04:00:31Z'

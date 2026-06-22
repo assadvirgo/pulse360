@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As North Carolina forced a winner-take-all game in Omaha, it wasn't without
   any tears.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-22T05:03:45Z'

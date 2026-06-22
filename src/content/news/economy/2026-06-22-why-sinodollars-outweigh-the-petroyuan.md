@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: China’s currency is becoming a more important part of the global financial
   system but the dollar is still in control
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-22T02:51:39Z'

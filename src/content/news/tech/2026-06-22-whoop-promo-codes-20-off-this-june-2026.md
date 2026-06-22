@@ -3,7 +3,7 @@ category: Tech
 description: Whether you're looking for a Whoop free trial, student discount, or military
   savings, our guide to Whoop promo codes will help you maximize your membership benefits.
   Stay on top…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 61.2
 pubDate: '2026-06-22T05:00:00Z'

@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Gas sales in Russian-controlled Crimea have halted after Ukrainian drone
   strikes on the peninsula’s supply route.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-22T03:18:49Z'

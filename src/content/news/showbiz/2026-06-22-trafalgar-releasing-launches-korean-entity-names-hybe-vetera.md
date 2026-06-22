@@ -5,7 +5,7 @@ countryCode: KR
 description: Trafalgar Releasing, the U.K.-based event cinema distributor, has established
   a dedicated Korean subsidiary, Trafalgar Korea, and appointed Sokyung Jung as head
   of acquisitions,…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-22T05:00:00Z'

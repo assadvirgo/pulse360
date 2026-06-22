@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: Uruguay could need a win over Spain next weekend to avoid a second consecutive
   FIFA World Cup group-stage exit.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-22T00:58:28Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This post contains spoilers from “Ahead By a Century,”
   the series finale of Hallmark’s “The Way Home,” streaming on Hallmark+. &#8220;The
   Way Home&#8221; is saying…'
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-22T02:34:00Z'

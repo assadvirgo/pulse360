@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Claude Guillemot, who founded Ubisoft with his four brothers, has died
   at the age of 69.
-displayOrder: 22
+displayOrder: 43
 heroImage: ''
 importance: 70.0
 pubDate: '2026-06-21T18:34:31Z'

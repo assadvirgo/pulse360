@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Ronaldo has faced criticism after his performance in Portugal’s first
   match of the FIFA World Cup.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-22T01:12:05Z'

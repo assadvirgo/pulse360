@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Defence secretary warns of heightened Chinese military activity around
   Scarborough Shoal
-displayOrder: 31
+displayOrder: 48
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-21T20:19:30Z'
