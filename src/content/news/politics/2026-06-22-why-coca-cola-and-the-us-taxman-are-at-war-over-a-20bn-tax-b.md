@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beverage giant is appealing a 2020 ruling that has major implications
   for how much tax firms pay on overseas profits.
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-22T10:59:58Z'

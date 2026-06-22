@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Analysts expect borrowing costs in the U.K. to rise in the longer term
   if Andy Burnham takes over as leader of the Labour Party.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-22T09:06:00Z'

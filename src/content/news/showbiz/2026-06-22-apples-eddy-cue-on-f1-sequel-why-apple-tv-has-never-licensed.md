@@ -5,7 +5,7 @@ countryCode: US
 description: 'Apple hasn&#8217;t officially greenlit a sequel to last year&#8217;s
   blockbuster &#8220;F1: The Movie,&#8221; but Eddy Cue &#8212; who oversees the tech
   giant&#8217;s…'
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 62.8
 pubDate: '2026-06-22T12:24:01Z'

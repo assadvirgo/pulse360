@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Labour in ‘last chance saloon’ as party’s shortest-serving prime minister
   announces resignation
-displayOrder: 28
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-22T08:36:43Z'

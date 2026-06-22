@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SOUTHCOM said it notified the US Coast Guard about the &#039;six male
   survivors&#039; without providing details of their rescue.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-22T12:27:49Z'

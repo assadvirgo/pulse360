@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: After less than two years as PM, Keir Starmer announces his resignation
   amid mounting pressure from own Labour Party.
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-22T11:08:46Z'

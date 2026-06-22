@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Longstanding Federal Reserve chair was lionised in office — but his legacy
   was reassessed in the financial crisis
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-22T11:36:17Z'

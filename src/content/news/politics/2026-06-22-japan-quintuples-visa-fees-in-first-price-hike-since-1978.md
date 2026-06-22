@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Authorities say they do not expect the hikes to have an "immediate impact
   on inbound tourism".
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-22T03:45:51Z'

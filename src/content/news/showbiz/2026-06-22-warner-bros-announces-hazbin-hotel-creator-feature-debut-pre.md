@@ -3,7 +3,7 @@ category: Showbiz
 description: As Annecy Animation Festival attendees try to avoid the scorching sun
   as much as they can, Warner Bros. Pictures Animation turned up the heat today in
   its 2026 Annecy Showcase,…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-22T11:31:22Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Seven months after introducing its $119.98 Ultra BodyScan smart scale,
   Wyze announced a cheaper $79.98 alternative available today that makes a few compromises
   to shave $40 off…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-22T13:00:00Z'

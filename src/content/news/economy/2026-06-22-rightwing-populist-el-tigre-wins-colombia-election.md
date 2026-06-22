@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Trump-loving political outsider Abelardo de la Espriella narrowly beats
   leftist continuity candidate
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-22T05:31:41Z'

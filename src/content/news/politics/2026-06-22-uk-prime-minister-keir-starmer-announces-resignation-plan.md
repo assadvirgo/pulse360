@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK Prime Minister Keir Starmer was visibly emotional as he announced
   plans to step down.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-22T09:08:30Z'

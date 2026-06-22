@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japanese fans stayed behind after celebrating their 4-0 victory over
   Tunisia, by collecting rubbish from the stands.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-22T03:14:22Z'

@@ -3,7 +3,7 @@ category: Economy
 country: Ireland
 countryCode: IE
 description: Irish company to purchase Dallas-based construction company
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-22T12:00:02Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Squeezed by stagnant wages, young Chinese are spending billions to buy
   “feelings.”
-displayOrder: 32
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-22T12:09:00Z'

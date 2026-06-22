@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: There is a growing body of evidence of the systematic nature of sexual
   assaults against Palestinian detainees.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-22T11:44:04Z'
