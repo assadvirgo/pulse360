@@ -5,7 +5,7 @@ countryCode: IE
 description: Ireland centre Stuart McCloskey agrees a one-year contract extension
   with Ulster, which will see him remain with the province until the end of the 2027-28
   season.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-22T12:45:30Z'

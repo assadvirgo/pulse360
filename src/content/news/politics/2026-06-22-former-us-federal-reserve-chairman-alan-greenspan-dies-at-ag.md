@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Greenspan presided over economic turbulence, including crises and booms,
   during his 18-year tenure as Fed chairman.
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-22T15:12:01Z'

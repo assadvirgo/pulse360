@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Mohamed Salah scored the go-ahead goal, and Egypt went on to defeat New
   Zealand 3-1 on Sunday night and secure a first-ever World Cup win.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-22T05:23:26Z'

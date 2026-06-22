@@ -2,7 +2,7 @@
 category: Economy
 description: In the wake of the SpaceX IPO, investors can expect global communications
   and AI data processing — both via satellites — to be important themes for many years.
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-22T16:02:00Z'

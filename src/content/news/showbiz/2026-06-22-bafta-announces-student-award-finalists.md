@@ -5,7 +5,7 @@ countryCode: GB
 description: Out of 600 submissions from around the world, 15 finalists have been
   chosen for honors that recognize the next generation of film, games and immersive
   storytellers.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-22T16:30:00Z'

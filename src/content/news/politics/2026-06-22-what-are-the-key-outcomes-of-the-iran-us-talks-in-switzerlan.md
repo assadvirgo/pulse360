@@ -2,7 +2,7 @@
 category: Politics
 description: Experts warn unresolved questions over Lebanon could complicate efforts
   to secure a lasting agreement.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-22T08:17:46Z'

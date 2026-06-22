@@ -5,7 +5,7 @@ countryCode: US
 description: 'Valve finally announced the price of the Steam Machine, and like a lot
   of new gadgets these days, it''s not cheap: It starts at $1,049 for a 512GB model,
   and a 2TB model costs $300…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-22T17:02:00Z'

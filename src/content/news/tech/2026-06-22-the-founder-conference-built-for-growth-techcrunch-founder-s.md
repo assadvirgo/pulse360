@@ -5,7 +5,7 @@ countryCode: US
 description: Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June
   26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register
   today.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-22T14:00:00Z'

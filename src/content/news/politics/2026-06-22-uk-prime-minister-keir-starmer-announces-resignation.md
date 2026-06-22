@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Starmer&#039;s main rival Andy Burnham says he will stand in any contest
   to replace outgoing Labour Party leader.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-22T08:48:02Z'

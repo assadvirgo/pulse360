@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Warning comes as country braces for likely fourth consecutive year of
   punishing monsoon, expected to arrive this month.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-22T12:54:59Z'

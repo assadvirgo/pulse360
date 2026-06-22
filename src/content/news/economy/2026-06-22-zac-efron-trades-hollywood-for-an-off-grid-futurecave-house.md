@@ -5,7 +5,7 @@ countryCode: AU
 description: Actor Zac Efron has bid farewell to Hollywood in favor of building a
   unique off-grid retreat made almost entirely of hemp on a remote plot of land in
   Australia.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-22T09:01:00Z'

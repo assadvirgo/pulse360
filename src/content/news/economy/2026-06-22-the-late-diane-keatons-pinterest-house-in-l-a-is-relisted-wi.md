@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Actress Diane Keaton’s final home has returned to the market with a significant
   discount, just weeks after its previous listing was taken down.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-22T08:58:00Z'

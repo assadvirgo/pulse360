@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The British leader announced a timetable for his resignation as prime
   minister.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-22T08:48:02Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A competition series inspired by the world of &#8220;Gabby&#8217;s Dollhouse&#8221;
   is coming to Netflix. Hosted by Laila Lockhart Kraner, who played Gabby in the…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-22T16:00:00Z'

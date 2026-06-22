@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Greenspan, who died at age 100, opened the door to issues that still
   bedevil the Fed.
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-22T15:42:00Z'

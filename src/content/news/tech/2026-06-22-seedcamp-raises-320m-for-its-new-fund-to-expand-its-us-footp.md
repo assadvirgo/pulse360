@@ -5,7 +5,7 @@ countryCode: US
 description: After 18 years of focusing on Europe, early-stage investor Seedcamp said
   that it has raised $320 million for its latest fund which will see it expanding
   its presence in the United…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-22T13:37:25Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: After months of waiting, Valve has finally announced that the Steam Machine,
   its new living room-friendly PC, will start at $1,049 and go on sale beginning June
   29th. You can now…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-22T17:00:00Z'

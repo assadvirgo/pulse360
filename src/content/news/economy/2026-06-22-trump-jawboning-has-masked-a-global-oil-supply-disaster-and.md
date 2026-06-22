@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Author and former trader Dan Dicker says President Donald Trump’s rhetoric
   can only take the market so far,
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-22T12:26:00Z'

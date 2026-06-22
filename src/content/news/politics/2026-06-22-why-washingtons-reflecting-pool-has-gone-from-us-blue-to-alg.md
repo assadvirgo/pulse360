@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump, who spent $14m relining the iconic pool, claims it has
   been vandalised by &#039;radical left lunatics&#039;.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-22T15:35:16Z'

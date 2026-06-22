@@ -5,7 +5,7 @@ countryCode: GB
 description: U.K. Prime Minister Keir Starmer announced his resignation on Monday,
   bringing an end to a turbulent tenure marked by record-low approval ratings and
   internal party strife.…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 72.8
 pubDate: '2026-06-22T08:38:05Z'

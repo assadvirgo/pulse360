@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine says facility a &#039;critical component&#039; in defence production
   as local Russian authorities confirm attack.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-22T14:43:55Z'

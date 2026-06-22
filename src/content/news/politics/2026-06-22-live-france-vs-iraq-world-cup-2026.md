@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Follow the live build-up and team news coverage ahead of our text commentary
   stream of the Group I game in Philadelphia.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-22T17:03:59Z'
