@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Negotiations aimed at reaching permanent end to war will initially focus
   on Israeli-Hizbollah conflict in Lebanon
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-21T10:56:55Z'

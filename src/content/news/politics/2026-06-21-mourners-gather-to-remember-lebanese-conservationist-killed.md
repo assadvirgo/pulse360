@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: People gathered in Beirut in memory of beloved turtle conservationist
   Mona Khalil, killed in Israeli attack.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-21T20:21:59Z'

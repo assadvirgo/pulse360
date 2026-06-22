@@ -5,7 +5,7 @@ countryCode: FR
 description: Aardman co-founders Peter Lord and David Sproxton, the company&#8217;s
   star director Nick Park and Executive Creative Director Sarah Cox hit the Annecy
   International Animation…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-21T16:58:51Z'

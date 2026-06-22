@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oil prices rise as Trump threatens new strikes if Tehran does not rein
   in Hizbollah in Lebanon
-displayOrder: 9
+displayOrder: 27
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-21T23:48:58Z'

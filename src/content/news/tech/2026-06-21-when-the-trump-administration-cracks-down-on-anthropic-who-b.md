@@ -5,7 +5,7 @@ countryCode: US
 description: On the new episode of Equity, we discussed what actually prompted the
   administration's latest moves against Anthropic, and what this might mean for the
   AI ecosystem.
-displayOrder: 30
+displayOrder: 46
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-21T15:28:17Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: According to a Wall Street Journal investigation, Polymarket has been
   paying people to film themselves placing fake bets and celebrating fake wins on
   social media. WSJ identified…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-21T14:19:46Z'

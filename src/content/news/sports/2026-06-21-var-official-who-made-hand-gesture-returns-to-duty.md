@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: Video assistant referee official Shaun Evans will return to duty for
   New Zealand's game against Egypt on Sunday (Monday, 02:00 BST).
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-21T15:58:46Z'

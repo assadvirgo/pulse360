@@ -5,7 +5,7 @@ countryCode: US
 description: After a string of canceled and postponed shows, 81-year-old rock legend
   Rod Stewart needed oxygen midset before finishing his show at the Utah First Credit
   Union Amphitheatre in…
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-22T00:35:00Z'

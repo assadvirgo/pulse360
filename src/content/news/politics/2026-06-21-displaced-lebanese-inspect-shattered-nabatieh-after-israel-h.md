@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Displaced residents returned to Nabatieh after Israel ordered a halt
   to fighting in southern Lebanon.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-21T20:04:40Z'

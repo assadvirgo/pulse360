@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Welcome back to TechCrunch Mobility — your central hub for news and insights
   on the future of transportation.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-21T16:05:00Z'

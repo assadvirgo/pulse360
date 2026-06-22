@@ -2,7 +2,7 @@
 category: Politics
 description: Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life
   in Gaza before he was killed by Israel.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-21T20:11:48Z'

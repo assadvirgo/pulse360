@@ -5,7 +5,7 @@ countryCode: GB
 description: Does the performance, even the result, matter as long as Scotland qualify
   for the group stage of the World Cup after Wednesday's game against Brazil? Tom
   English ponders.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-21T21:39:43Z'

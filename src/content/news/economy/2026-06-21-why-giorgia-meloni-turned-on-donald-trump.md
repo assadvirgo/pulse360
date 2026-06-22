@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Italian premier’s fallout with US president comes as she gears up for
   re-election battle
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-21T12:48:32Z'

@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Irish company closes in on purchase of Dallas-based construction firm
   with market capitalisation of almost $7bn
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-21T19:31:29Z'

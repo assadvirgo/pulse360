@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Thomas Rew celebrates a second County Championship century in eight days
   to lead an unlikely Somerset fightback against Warwickshire on day three at Taunton.
-displayOrder: 7
+displayOrder: 29
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-21T18:06:16Z'

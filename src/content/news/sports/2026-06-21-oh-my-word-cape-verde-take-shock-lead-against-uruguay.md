@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: Cape Verde's Kevin Pina scores the opening goal against Uruguay in their
   Group H match in the 2026 World Cup.
-displayOrder: 13
+displayOrder: 30
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-21T22:46:33Z'
