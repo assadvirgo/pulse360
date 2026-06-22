@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Colombians are voting in an election where senator Ivan Cepeda is racing
   against Abelardo de la Espriella.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 70.5
 pubDate: '2026-06-21T19:58:00Z'

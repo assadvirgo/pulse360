@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Georgia Hunter Bell wins the women's 800m title with a new championship
   record time of 1:55.93 at the UK Athletics Championships.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-21T15:20:52Z'

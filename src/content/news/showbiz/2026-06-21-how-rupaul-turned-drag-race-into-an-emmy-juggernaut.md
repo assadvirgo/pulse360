@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From his record-setting hosting wins to the franchise’s broader cultural
   impact, RuPaul’s run has reshaped both reality TV and queer visibility in the mainstream.
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-21T19:00:00Z'

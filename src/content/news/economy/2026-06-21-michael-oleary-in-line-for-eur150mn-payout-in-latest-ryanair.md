@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Longtime boss of Europe’s biggest airline signs new deal that includes
   bumper share award if he hits ambitious targets
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-21T13:05:18Z'

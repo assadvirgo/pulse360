@@ -5,7 +5,7 @@ countryCode: US
 description: The Bentonville Film Foundation, in collaboration with founding partner,
   Walmart, and presenting sponsor, Coca-Cola, announced the winners of the 12th edition
   of the Bentonville…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-21T14:22:12Z'

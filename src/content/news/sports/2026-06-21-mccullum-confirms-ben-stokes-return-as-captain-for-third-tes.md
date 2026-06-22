@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Stokes and Gus Atkinson withdrawn from County Championship matches as
   England pave way for Trent Bridge comeback
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-21T12:32:42Z'

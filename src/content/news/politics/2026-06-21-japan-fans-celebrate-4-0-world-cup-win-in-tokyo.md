@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Fans gathered at Tokyo&#039;s Shibuya Crossing after Japan beat Tunisia
   4-0 in a World Cup group-stage match.
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-21T19:54:29Z'

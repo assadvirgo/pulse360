@@ -2,7 +2,7 @@
 category: Economy
 description: Funding this year has already surpassed 2025 total as soaring valuations
   fuel fears of a hype cycle
-displayOrder: 13
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-21T18:00:01Z'

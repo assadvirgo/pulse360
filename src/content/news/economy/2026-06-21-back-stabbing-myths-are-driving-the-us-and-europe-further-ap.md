@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Competing narratives of abandonment — from Iran to Greenland — could
   lead to Nato’s permanent unravelling
-displayOrder: 27
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-21T15:00:08Z'

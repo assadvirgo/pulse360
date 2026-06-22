@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The artist, who passed away at his home in London earlier this month,
   requested just his partner and great-nephew attend.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-21T13:08:49Z'

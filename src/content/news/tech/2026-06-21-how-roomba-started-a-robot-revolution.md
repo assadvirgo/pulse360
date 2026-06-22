@@ -5,7 +5,7 @@ countryCode: US
 description: If you had a Roomba, especially in the early days of the robot vacuum,
   it was in many ways a fairly unsophisticated machine. It would just bump around
   your house, looking for…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-21T12:29:01Z'

@@ -5,7 +5,7 @@ countryCode: NL
 description: There may be about 5,000 miles between the Netherlands and their former
   colony Curacao but members of the Dutch royal family managed to see both sides play
   on Saturday.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-21T09:45:57Z'

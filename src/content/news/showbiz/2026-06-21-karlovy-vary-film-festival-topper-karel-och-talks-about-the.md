@@ -5,7 +5,7 @@ countryCode: CZ
 description: Among pop-up bars, bandstands and opulent, 19th century spa buildings
   painted in sherbet pastels, the Karlovy Vary Intl. Film Festival (KVIFF) takes place
   each year in July, at…
-displayOrder: 8
+displayOrder: 14
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-21T17:02:29Z'

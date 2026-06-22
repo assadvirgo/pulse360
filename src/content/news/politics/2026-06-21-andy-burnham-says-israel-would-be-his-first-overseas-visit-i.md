@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: An old clip has resurfaced showing Andy Burnham saying Israel would be
   his first overseas visit if elected as UK PM.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-21T13:41:55Z'
