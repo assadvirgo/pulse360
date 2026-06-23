@@ -3,7 +3,7 @@ category: Tech
 description: 'Last week, Midjourney, an AI startup best known for its image generator,
   made an unusual pivot: medical imaging. The company announced a futuristic ultrasound
   scanner that would…'
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-23T15:56:35Z'

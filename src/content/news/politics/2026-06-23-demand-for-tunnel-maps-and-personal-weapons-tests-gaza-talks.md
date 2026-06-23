@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza talks remain active, but stall as the US envoy demands the handover
   of tunnel maps and family arms.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-23T13:59:31Z'

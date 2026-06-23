@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel rejects the new report by the three-member expert panel, calling
   it a "libellous sham".
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-23T11:10:06Z'

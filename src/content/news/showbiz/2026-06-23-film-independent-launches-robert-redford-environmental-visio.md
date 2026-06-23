@@ -5,7 +5,7 @@ countryCode: US
 description: Film Independent is expanding the Film Independent Spirit Awards with
   the introduction of the Robert Redford Environmental Vision Award, a new honor recognizing
   narrative film and…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-23T16:00:00Z'

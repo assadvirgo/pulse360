@@ -2,7 +2,7 @@
 category: Sports
 description: Scotland's Darcey Carter becomes the leading run scorer at the Women's
   T20 World Cup with an unbeaten 72 against New Zealand.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-23T11:43:20Z'

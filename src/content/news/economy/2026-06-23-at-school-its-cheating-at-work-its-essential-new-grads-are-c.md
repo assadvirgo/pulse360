@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mixed messages on AI are another challenge when Gen Z already faces a
   tough job market.
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-23T15:03:00Z'

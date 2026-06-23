@@ -5,7 +5,7 @@ countryCode: US
 description: ESPN&#8217;s NFL draft analyst Matt Miller revealed that he was recently
   in a severe car accident and had a &#8220;life-saving amputation&#8221; of his left
   arm. &#8220;Last week,…
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-23T16:37:19Z'

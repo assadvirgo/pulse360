@@ -3,7 +3,7 @@ category: Tech
 description: Amflow, the e-bike brand spun out of DJI, just announced its TL Carbon,
   a do-it-all "eSUV" suitable for both bikepacking adventures and dropping the kid
   at daycare on your cycle…
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-23T07:00:20Z'

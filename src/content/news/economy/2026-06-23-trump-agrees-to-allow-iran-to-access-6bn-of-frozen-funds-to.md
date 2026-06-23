@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President says that money held in Qatar to be used to buy US medical
   supplies and crops
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-23T13:59:32Z'

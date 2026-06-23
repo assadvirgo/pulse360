@@ -5,7 +5,7 @@ countryCode: US
 description: President Trump probably can’t get rid of her yet, but FCC commissioner
   Anna Gomez still checks her email every day to see if he has. Until then, she wants
   to stand up for the…
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-23T10:30:00Z'

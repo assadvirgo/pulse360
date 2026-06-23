@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: A police officer has been killed in a shooting at a hotel in Canada that
   also left a civilian and a suspected gunman dead.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-06-23T11:41:00Z'

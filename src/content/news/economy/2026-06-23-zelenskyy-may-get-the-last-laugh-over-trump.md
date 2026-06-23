@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine’s president increasingly looks as if he holds the future of the
   west in his hands
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-23T11:26:57Z'

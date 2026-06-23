@@ -5,7 +5,7 @@ countryCode: US
 description: EXCLUSIVE:&#160;WME has signed Rick Glassman in all areas, with an eye
   toward accelerating his momentum across comedy, television, podcasting, and beyond.
   A stand-up comedian,…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-23T15:59:09Z'

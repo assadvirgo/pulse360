@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Industry spends millions to target candidate who supports greater regulation
   of the technology
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-23T16:00:01Z'

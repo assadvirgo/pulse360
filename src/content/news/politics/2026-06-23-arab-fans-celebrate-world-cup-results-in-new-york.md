@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Arab fans have come together in New York to show support for all Arab
   teams at the World Cup.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-23T12:05:02Z'

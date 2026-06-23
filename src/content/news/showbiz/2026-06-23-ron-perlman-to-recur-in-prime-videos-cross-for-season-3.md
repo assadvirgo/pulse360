@@ -5,7 +5,7 @@ countryCode: US
 description: Ron Perlman (Sons of Anarchy, Hellboy) has joined Prime Video&#8217;s
   Cross for Season 3, in a reunion with showrunner Ben Watkins, following their collaboration
   on Hand of God.…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-23T16:00:00Z'

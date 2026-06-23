@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Forty people drown in France in a week as country endures hottest night
   for 79 years
-displayOrder: 21
+displayOrder: 33
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-23T15:10:00Z'
