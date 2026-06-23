@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: Martha Karua is a lawyer representing detained Ugandan opposition leader
   Kizza Besigye who is on trial for treason.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-22T17:19:16Z'

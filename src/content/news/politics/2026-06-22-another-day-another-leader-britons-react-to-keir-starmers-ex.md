@@ -3,7 +3,7 @@ category: Politics
 country: United Kingdom
 countryCode: GB
 description: Londoners shared mixed reactions to Keir Starmer&#039;s resignation.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-22T20:48:26Z'

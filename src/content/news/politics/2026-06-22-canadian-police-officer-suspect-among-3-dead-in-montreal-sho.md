@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Few details available after law enforcement say suspected attacker &#039;neutralised&#039;
   in Quebec city.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-22T19:20:55Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: '"Just seeing him be so moved by hearing a song and having tears in his
   eyes, there''s nobody like that anymore," Warren told The Hollywood Reporter in
   an interview paying tribute…'
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-23T00:06:48Z'

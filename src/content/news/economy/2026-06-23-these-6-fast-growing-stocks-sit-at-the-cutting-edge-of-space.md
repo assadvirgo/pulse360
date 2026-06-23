@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In the wake of the SpaceX IPO, investors can expect global communications
   and AI data processing — both via satellites — to be important themes for many years.
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-23T00:23:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: If the next phase of negotiations fails, Washington and Tehran could
   find themselves locked in an endless cycle of war
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-22T16:55:59Z'

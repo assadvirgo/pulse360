@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Scotland examines the impact of Bologna's Lewis Ferguson in the Scotland
   midfield going into the crunch game with Brazil.
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-22T17:39:02Z'

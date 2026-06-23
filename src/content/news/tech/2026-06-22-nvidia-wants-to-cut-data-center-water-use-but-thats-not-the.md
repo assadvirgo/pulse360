@@ -5,7 +5,7 @@ countryCode: US
 description: Nvidia announced a new cooling system that cuts water use inside the
   data center. But it does nothing to address AI's biggest water use — fossil fuel
   power plants.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-22T20:08:15Z'

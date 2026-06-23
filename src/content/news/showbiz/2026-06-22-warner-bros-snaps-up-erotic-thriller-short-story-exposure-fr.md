@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'EXCLUSIVE: In a competitive situation, Warner Bros. has acquired &#8220;Exposure,&#8221;
   a short story by Erika Vázquez &#38; Siena Butterfield, who will pen a feature adaptation.…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-06-22T20:22:28Z'

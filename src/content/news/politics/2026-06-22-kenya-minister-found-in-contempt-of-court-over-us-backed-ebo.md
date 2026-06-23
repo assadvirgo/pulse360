@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Aden Duale defied a High Court order to stop building work on a controversial
   US-funded facility.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-22T16:34:39Z'

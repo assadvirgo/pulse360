@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Critics saw the move as an underhanded way to steer them toward more
   costly chips.
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-22T19:16:52Z'
