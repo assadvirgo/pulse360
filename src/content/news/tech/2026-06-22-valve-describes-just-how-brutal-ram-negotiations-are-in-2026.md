@@ -5,7 +5,7 @@ countryCode: US
 description: 'Valve''s Steam Machine finally has a price: a whopping $1,049 for the
   512GB configuration or $1,349 for the 2TB version. And those are without bundled
   controllers, which drive up…'
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-06-22T21:07:14Z'

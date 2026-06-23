@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The ad sparked accusations of sexism in China, after featuring a man
   looking for a partner who is "not tainted by other men".
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-23T08:05:07Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: Adult Swim, the iconic adult animation brand behind Rick &#38; Morty
   and Harvey Birdman, Attorney at Law, is still seeking out that elusive European
   project. President Michael…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 66.0
 pubDate: '2026-06-23T09:00:00Z'

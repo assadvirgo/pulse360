@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Colombia’s leftist presidential candidate Ivan Cepeda has vowed to challenge
   the results of the presidential runoff.
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-23T05:12:16Z'

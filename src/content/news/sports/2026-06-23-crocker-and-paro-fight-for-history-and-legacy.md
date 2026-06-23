@@ -5,7 +5,7 @@ countryCode: AU
 description: Lewis Crocker puts his IBF welterweight world title on the line against
   Liam Paro in the Australian's home city of Brisbane on Wednesday with both aware
   of the rewards on offer.
-displayOrder: 10
+displayOrder: 28
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-23T06:29:08Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Prior records for U.S. equity issuance came in 1929 and 2000 — and we
   all know what happened next.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-22T22:18:00Z'

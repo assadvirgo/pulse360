@@ -2,7 +2,7 @@
 category: Sports
 description: It is fast turning into a Golden Boot race for the ages as the world's
   best strikers star at the World Cup. But who will come out on top?
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-23T03:56:28Z'

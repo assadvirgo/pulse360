@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: The raft of proposed changes includes a new constitution and anti-corruption
   office, and the ousting of the president.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-22T21:23:50Z'

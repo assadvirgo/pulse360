@@ -5,7 +5,7 @@ countryCode: GB
 description: Edinburgh’s long-running TV festival is set to relocate to Manchester
   next year after spending 50 years in the Scottish capital. The decision was taken
   by the festival’s board of…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-23T09:00:00Z'

@@ -3,7 +3,7 @@ category: Economy
 country: Russia
 countryCode: RU
 description: Vladimir Putin is still able to fund his aggression
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-22T19:07:09Z'

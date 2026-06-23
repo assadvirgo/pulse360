@@ -2,7 +2,7 @@
 category: Tech
 description: Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on
   cameras, printers, and more this June.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-23T05:00:00Z'

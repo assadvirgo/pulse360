@@ -3,7 +3,7 @@ category: Showbiz
 description: 'After the controversies surrounding ''The Day the Earth Blew Up'' and
   ''Coyote vs. Acme,'' WBPA boss Bill Damaschke came to Annecy with a message for
   the industry: The era of canceled…'
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-23T08:32:32Z'

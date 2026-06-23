@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Road safety regulator investigates crash involving a Model 3 that had
   been reportedly operating in self-driving mode.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-23T02:41:18Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: An activist in Japan was surrounded by police after he approached the
   Israeli Embassy in Tokyo on Monday and shouted.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-22T22:03:24Z'

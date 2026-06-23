@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: Doku travelled to the UK as a French presenter who said fathers &#039;useless&#039;
   at childbirth was stood down from her show.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-22T22:32:48Z'

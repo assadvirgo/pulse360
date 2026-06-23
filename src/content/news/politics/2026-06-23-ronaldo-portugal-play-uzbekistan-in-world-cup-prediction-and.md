@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Cristiano Ronaldo&#039;s Portugal face Uzbekistan in a must-win group
   match, as race for the knockouts intensifies.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-23T06:30:49Z'

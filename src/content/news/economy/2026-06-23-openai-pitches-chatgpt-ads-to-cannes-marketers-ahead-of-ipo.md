@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Lossmaking AI group is presenting at Cannes Lions advertising conference
   for the first time
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-23T04:00:31Z'

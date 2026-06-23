@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran’s chief negotiator said the Strait will never return to the way
   it was before the war.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-23T01:45:42Z'

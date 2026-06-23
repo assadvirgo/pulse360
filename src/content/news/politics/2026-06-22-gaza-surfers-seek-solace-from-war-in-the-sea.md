@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza’s surf community was nearly wiped out by Israel’s genocidal war.
   But some surfers continue to chase the waves.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-22T23:01:22Z'

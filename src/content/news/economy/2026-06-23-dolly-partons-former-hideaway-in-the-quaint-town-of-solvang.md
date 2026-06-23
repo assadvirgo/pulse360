@@ -5,7 +5,7 @@ countryCode: US
 description: A quaint—and very quirky—California property that once served as music
   legend Dolly Parton’s private hideaway has returned to the market for just a hair
   under $2 million.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-23T08:59:00Z'
