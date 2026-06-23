@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Xenophobic protest groups have demanded that undocumented foreigners
   leave the country by June 30 .
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-22T17:05:33Z'

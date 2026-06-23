@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Fintech founder Kunal Shah to replace Will Cathcart who steps down after
   seven years leading the Meta-owned messaging app
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-22T17:23:57Z'

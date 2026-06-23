@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Brothers Taiwo and Kehinde Oguntoye speak to the BBC after getting hitched
   to twin sisters.
-displayOrder: 27
+displayOrder: 36
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-22T16:01:07Z'

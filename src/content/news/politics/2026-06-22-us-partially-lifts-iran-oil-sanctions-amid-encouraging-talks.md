@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The move, expected under the MoU, comes as Vice President JD Vance says
   there&#039;s a &#039;good foundation&#039; for a final deal.
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-22T15:38:23Z'

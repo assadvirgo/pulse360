@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Leicestershire head coach Alfonso Thomas says he was "over the moon"
   to see his side earn a first County Championship Division One win in 23 years.
-displayOrder: 30
+displayOrder: 38
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-22T14:37:44Z'

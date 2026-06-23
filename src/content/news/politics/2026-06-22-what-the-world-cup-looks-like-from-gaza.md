@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza&#039;s footballers train on broken pitches with no shoes. Why has
   FIFA&#039;s rebuilding plan gone nowhere?
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-22T15:02:28Z'

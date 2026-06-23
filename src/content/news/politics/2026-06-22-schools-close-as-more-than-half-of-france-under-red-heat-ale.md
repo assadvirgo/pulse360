@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The health minister warns many citizens "will suffer", with temperatures
   set to peak on Monday.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-22T12:36:07Z'

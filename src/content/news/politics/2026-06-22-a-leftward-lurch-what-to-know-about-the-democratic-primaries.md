@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Democratic socialist candidates push for an edge in US races that hinge
   on issues like Israel policy and inequality.
-displayOrder: 18
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-22T18:28:13Z'

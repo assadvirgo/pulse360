@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Company signs 20-year agreement to develop data centre in heart of US
   oil country that could include gas-fired plant
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-22T17:02:38Z'

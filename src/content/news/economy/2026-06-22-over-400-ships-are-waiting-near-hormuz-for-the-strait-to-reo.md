@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Many tanker operators reluctant to move vessels until Iran and the US
   strengthen ceasefire deal
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-22T11:41:54Z'

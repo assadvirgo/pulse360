@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Petrol prices lead the surge with a 33.2 percent price increase on an
   annual basis.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-22T16:24:55Z'

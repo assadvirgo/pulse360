@@ -5,7 +5,7 @@ countryCode: US
 description: European offensive cybersecurity company Paradigm Shift released details
   of a flaw and a technique to exploit it that opens the door for hackers to unlock
   and break into older…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-22T18:50:24Z'

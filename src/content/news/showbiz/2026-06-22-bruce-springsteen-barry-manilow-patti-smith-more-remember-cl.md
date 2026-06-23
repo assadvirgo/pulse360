@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Paul Stanley, Diane Warren, Magic Johnson and Geraldo Rivera also paid
   tribute to the music mogul who died Monday at the age of 94.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-22T19:26:18Z'
