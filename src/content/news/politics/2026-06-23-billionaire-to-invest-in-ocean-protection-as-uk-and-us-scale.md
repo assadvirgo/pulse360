@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Michael Bloomberg has pledged $260m (£196m) to conserve the world's oceans,
   as major funders including the US and UK scale back science and conservation budgets.
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-23T04:00:00Z'

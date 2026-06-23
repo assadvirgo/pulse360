@@ -5,7 +5,7 @@ countryCode: US
 description: Target Chair Brian Cornell built the retailer into a $100 billion-plus
   giant, but recent struggles and underperformance have fueled investor calls for
   change.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-22T17:55:37Z'

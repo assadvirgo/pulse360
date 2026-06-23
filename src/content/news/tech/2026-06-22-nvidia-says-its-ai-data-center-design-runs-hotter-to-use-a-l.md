@@ -5,7 +5,7 @@ countryCode: US
 description: Public pushback against data centers has emphasized their water and energy
   consumption, and now Nvidia is highlighting its claim that the Rubin generation
   reference design for a…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-22T23:24:32Z'

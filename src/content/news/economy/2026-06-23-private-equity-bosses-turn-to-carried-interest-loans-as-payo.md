@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Requests to borrow against future shares of profits are multiplying,
   as the buyout market remains slow
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-23T04:00:22Z'

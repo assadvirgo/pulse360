@@ -4,7 +4,7 @@ country: Czechia
 countryCode: CZ
 description: Plan to put funding under direct control has sparked widespread opposition,
   with critics fearing political interference.
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-22T21:21:37Z'

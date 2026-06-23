@@ -2,7 +2,7 @@
 category: Sports
 description: From rookies to veterans, here are the players who have made an early
   impression on every team ahead of training camp.
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-22T22:07:24Z'

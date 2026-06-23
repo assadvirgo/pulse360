@@ -5,7 +5,7 @@ countryCode: US
 description: On Monday night’s episode of “The Daily Show,” Jon Stewart covered the
   fiasco that is President Donald Trump’s renovation of the Lincoln Memorial Reflecting
   Pool, which is now…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-23T04:08:22Z'

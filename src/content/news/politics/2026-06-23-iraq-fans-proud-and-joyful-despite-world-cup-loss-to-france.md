@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Iraqis in Philadelphia weather Mbappe and a storm, but still find happiness
   in their team&#039;s FIFA World Cup performance.
-displayOrder: 16
+displayOrder: 25
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-23T04:13:40Z'

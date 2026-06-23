@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US autoworkers union warns of robot automation as dark factory future
   looms.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-22T21:52:39Z'

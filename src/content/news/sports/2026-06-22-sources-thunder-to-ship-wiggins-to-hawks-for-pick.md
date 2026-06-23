@@ -5,7 +5,7 @@ countryCode: US
 description: The Atlanta Hawks are finalizing a deal to acquire Aaron Wiggins from
   the Oklahoma City Thunder for two second-round draft picks, sources told ESPN's
   Shams Charania on Sunday.
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-22T17:51:10Z'

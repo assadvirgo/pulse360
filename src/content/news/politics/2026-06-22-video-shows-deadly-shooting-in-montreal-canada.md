@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: A police officer, a civilian and the suspected gunman were killed after
   a shooting in Montreal.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-22T23:00:13Z'

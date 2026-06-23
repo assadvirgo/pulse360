@@ -2,7 +2,7 @@
 category: Politics
 description: Israel is pushing humanitarian groups and rights defenders to scale down
   operations in occupied Palestinian territories.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-22T20:47:55Z'

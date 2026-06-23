@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From the ashes of Enron, Ken Griffin built a commodities empire that
   extends beyond financial trading
-displayOrder: 28
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-23T04:00:21Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The policy differences between his future premiership and Starmer’s will
   be small but significant
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-23T04:00:31Z'

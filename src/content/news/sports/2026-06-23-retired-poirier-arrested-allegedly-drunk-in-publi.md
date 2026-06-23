@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Dustin Poirier was arrested for alleged public drunkenness on Sunday
   in Georgia.
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-23T06:00:56Z'

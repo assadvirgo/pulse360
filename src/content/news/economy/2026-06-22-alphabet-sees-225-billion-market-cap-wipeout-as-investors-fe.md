@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Two AI leaders, including a Nobel laureate, recently said they would
   leave Google for rival labs.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-22T20:48:00Z'

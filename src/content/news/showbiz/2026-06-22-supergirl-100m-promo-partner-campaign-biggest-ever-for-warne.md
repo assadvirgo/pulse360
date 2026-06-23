@@ -5,7 +5,7 @@ countryCode: US
 description: When Supergirl takes to the screen this Friday, she&#8217;ll be the biggest
   Warner Bros/DC Studios movie ever when it comes to promotional partnerships with
   80+ sponsors who are…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-06-22T22:31:48Z'

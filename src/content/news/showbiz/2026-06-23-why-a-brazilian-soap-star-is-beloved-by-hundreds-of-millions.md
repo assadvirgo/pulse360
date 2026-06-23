@@ -5,7 +5,7 @@ countryCode: BR
 description: Forty years after 'Escrava Isaura' swept the country, Lucélia Santos
   — the first foreign actress to win China's Golden Eagle Award — has returned to
   Shanghai.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-23T00:00:00Z'

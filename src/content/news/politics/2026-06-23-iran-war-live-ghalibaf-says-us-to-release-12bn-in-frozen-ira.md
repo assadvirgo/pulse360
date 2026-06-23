@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Trump says released funds will be used to buy US produce, a claim Tehran
   rejected immediately.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-23T00:00:00Z'

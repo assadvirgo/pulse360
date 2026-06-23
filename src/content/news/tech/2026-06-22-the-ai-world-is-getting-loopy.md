@@ -2,7 +2,7 @@
 category: Tech
 description: The loop takes agentic AI a step further, by authorizing a swarm of agents
   to work continuously in the background, endlessly.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 67.0
 pubDate: '2026-06-22T20:53:11Z'

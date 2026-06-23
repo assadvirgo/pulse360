@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Young Chinese aren’t buying status symbols. They’re spending money on
   things that make them feel something — anything.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-22T22:14:00Z'
