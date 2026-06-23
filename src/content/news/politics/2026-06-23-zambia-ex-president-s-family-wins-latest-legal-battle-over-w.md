@@ -4,7 +4,7 @@ country: Zambia
 countryCode: ZM
 description: Edgar Lungu's family and the Zambian government remain in dispute 12
   months after he died.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 72.2
 pubDate: '2026-06-23T12:02:29Z'

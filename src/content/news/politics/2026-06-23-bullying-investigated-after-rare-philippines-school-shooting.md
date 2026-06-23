@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Three students are killed and seven others wounded after a rare school
   shooting in the central Philippines.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-23T04:12:56Z'

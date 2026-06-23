@@ -2,7 +2,7 @@
 category: Economy
 description: Plants pushed jet fuel production to record levels after Iran war cut
   off Middle East export routes
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-23T04:00:21Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Likely successor to prime minister wants to review long-awaited military
   investment plan
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-23T11:57:41Z'

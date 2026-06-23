@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Upgrade your setup with Sony’s newest releases. Save on industry-leading
   noise-canceling audio, and pro-level Alpha cameras.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-23T05:00:00Z'

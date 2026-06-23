@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Forty people have drowned in heatwave-related deaths in France since
   last Thursday, Prime Minister Sébastien Lecornu says.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-23T12:32:50Z'

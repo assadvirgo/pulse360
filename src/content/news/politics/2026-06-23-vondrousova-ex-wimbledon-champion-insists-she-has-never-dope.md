@@ -4,7 +4,7 @@ country: Czechia
 countryCode: CZ
 description: Vondrousova, who won Wimbledon in 2023, was issued a four-year ban from
   tennis after she refused to submit a ⁠sample.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-23T10:31:42Z'

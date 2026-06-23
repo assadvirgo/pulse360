@@ -3,7 +3,7 @@ category: Showbiz
 description: The Circle Women Doc Accelerator today announced the projects that will
   take part in the latest edition of the training program for women and gender-expansive
   nonfiction…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-23T12:14:04Z'

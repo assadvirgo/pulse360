@@ -5,7 +5,7 @@ countryCode: US
 description: The conventional wisdom is that federal government debt — $39.1 trillion,
   or a mere $31.6 trillion when accounting for the liabilities owed to itself — is
   astronomically high.…
-displayOrder: 32
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-23T09:10:00Z'

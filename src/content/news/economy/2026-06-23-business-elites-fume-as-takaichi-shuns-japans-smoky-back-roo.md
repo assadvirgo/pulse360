@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: PM has angered corporate executives accustomed to highest levels of government
   access
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-23T04:00:21Z'
