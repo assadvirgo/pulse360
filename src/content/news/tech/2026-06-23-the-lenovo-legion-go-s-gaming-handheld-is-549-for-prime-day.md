@@ -5,7 +5,7 @@ countryCode: US
 description: If gaming hardware prices have you looking for less expensive alternatives,
   Amazon has the Windows version of the Lenovo Legion Go S on sale for $549.99 (typically
   around $700)…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-23T19:00:39Z'

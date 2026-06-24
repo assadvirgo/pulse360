@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Ellyse Perry stars with 71 as Australia beat Pakistan by 113 runs to
   remain unbeaten at the Women's T20 World Cup.
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-23T20:44:53Z'

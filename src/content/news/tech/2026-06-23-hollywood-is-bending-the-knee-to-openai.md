@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly
   decided to pass on picking up Artificial - director Luca Guadagnino's new biographical
   drama about…
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-23T22:03:18Z'

@@ -5,7 +5,7 @@ countryCode: IN
 description: 'EXCLUSIVE: India’s Eros Innovation is launching a music label powered
   by an AI Large Cultural Model (LCM) with seven AI-native artists drawn from established
   Eros characters and…'
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-24T04:30:00Z'

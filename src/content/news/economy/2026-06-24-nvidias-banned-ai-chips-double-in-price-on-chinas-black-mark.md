@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: US crackdown on illicit exports has made it riskier, harder and more
   expensive to buy tech giant’s processors
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-24T00:15:04Z'

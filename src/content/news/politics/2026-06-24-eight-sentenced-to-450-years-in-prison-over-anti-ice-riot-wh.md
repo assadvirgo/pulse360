@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: An officer was shot in the neck during the Texas disorder by "Antifa
   Cell operatives", prosecutors said.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-24T00:00:06Z'

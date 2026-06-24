@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Civil liberties advocates have expressed alarm over the case involving
   a protest outside Prairieland Detention Center.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-23T23:22:37Z'

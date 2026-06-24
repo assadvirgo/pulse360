@@ -5,7 +5,7 @@ countryCode: US
 description: Alexis Wilkins, the conservative country singer who is the longtime girlfriend
   of FBI director Kash Patel, is responding to critics after announcing that she has
   been booked to…
-displayOrder: 21
+displayOrder: 30
 heroImage: ''
 importance: 50.8
 pubDate: '2026-06-24T01:16:04Z'

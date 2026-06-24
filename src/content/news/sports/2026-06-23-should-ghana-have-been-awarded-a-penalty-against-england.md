@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: England fans have been left frustrated by the goalless draw against Ghana,
   but were Thomas Tuchel's side fortunate not to have given away a penalty?
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-23T23:46:07Z'

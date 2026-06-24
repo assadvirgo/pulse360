@@ -4,7 +4,7 @@ country: Sri Lanka
 countryCode: LK
 description: Chamari Athapaththu hits a superb unbeaten 106 as Sri Lanka cruise to
   a nine-wicket win against Ireland to keep their T20 World Cup semi-final hopes alive.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-23T17:43:48Z'

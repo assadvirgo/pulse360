@@ -2,7 +2,7 @@
 category: Economy
 description: ‘Unprecedented’ blockade of the strait raises concerns about the future
   of global maritime trade, says insurer Allianz
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-23T23:01:03Z'

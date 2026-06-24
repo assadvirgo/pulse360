@@ -5,7 +5,7 @@ countryCode: TW
 description: 'EXCLUSIVE: Taiwan&#8217;s PTS Taigi TV station has started production
   on Gunshot, an eight-part police drama produced with S11 Partners and Third Culture
   Content. The…'
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-24T00:00:00Z'
