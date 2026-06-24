@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The former Louisiana inmate argued his Rastafarian faith was violated
   after prison officials focibly shaved off his hair.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-23T15:57:29Z'

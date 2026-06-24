@@ -2,7 +2,7 @@
 category: Economy
 description: Recent price run-ups don’t mean a bubble is about to burst — unless you’re
   looking at this sector.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-23T19:38:00Z'

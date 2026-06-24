@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As Alphabet rolls out more data centers — and borrowing money to do it
   — it can be argued that it is becoming more of an industrial company, says strategist
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-24T00:25:00Z'

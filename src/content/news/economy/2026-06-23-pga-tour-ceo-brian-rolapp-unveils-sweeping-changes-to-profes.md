@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Changes to the PGA Tour are designed to elevate competition and raise
   payouts for winners.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-23T18:31:27Z'

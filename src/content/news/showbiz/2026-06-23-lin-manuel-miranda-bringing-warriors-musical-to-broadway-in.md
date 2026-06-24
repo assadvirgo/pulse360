@@ -5,7 +5,7 @@ countryCode: US
 description: Lin-Manuel Miranda is returning to Broadway more than a decade after
   &#8220;Hamilton&#8221; became a cultural phenomenon. His new show &#8220;Warriors&#8221;
   is a musical…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-23T19:58:03Z'

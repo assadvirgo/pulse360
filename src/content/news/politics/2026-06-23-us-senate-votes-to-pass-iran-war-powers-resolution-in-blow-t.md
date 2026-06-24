@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Four Senate Republicans crossed party lines to approve the resolution,
   which passed the House earlier this month.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-23T19:50:29Z'

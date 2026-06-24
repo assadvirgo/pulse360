@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Following the start of the US-Israel war on Iran on February 28, Tehran
   had effectively closed off the vital waterway.
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-23T21:00:32Z'

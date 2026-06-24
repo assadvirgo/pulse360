@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Germany's railway system was brought to a halt, leaving some passengers
   stranded across the country due to an IT issue.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-23T22:47:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England and Ghana share a 0-0 draw in Group L, despite a late barrage
   by the English.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-23T22:22:57Z'

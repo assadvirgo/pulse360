@@ -3,7 +3,7 @@ category: Sports
 description: Then there were 32. Or we're getting there, anyway. So, let's review
   why each team still alive at the 2026 World Cup could win the whole thing -- and
   why each probably won't.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-23T14:25:46Z'

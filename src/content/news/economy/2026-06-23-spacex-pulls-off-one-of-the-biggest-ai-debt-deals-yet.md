@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The offering is set to close on Friday and help SpaceX pay off its existing
   debt
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-23T23:14:00Z'

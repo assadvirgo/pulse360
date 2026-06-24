@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: A UN report found the facilities are operated by foreign nationals who
   were trafficked by criminal gangs.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-23T14:55:27Z'

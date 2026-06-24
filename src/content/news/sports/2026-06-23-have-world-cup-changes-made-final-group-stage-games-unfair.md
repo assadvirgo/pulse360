@@ -3,7 +3,7 @@ category: Sports
 description: With eight teams already having nothing to play for, has the jeopardy
   in the group stage at the World Cup been diminished? And are concerns over the integrity
   of competition…
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 60.2
 pubDate: '2026-06-23T16:44:13Z'

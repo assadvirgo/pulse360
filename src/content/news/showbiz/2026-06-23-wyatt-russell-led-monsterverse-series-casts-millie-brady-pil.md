@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Millie Brady (Surface, The Last Kingdom) and Pilou Asbaek
   (Foundation) have joined the Apple TV series from Legendary’s Monsterverse as series
   regulars. They join the…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-23T21:00:00Z'
