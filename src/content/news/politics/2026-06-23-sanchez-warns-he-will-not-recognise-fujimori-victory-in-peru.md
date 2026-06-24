@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: The left-wing candidate has called for voting results from 119 consular
   offices to be nullified over a procedure change.
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-23T20:03:56Z'

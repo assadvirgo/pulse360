@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Traffic in the waterway has risen since the US and Iran signed a deal
   aimed at ending the war, including 42 ships on Saturday alone.
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-23T14:55:31Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Monsoon rains so far have been 43 percent below average, which is expected
   to impact India&#039;s crops.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-23T20:06:39Z'

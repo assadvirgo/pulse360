@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Researchers say their hunting method - which allows them to prey on dangerous
   ants - is unprecedented.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-23T10:05:53Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Keir Starmer is the latest to step down, after less than two years in
   office.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-23T17:36:04Z'

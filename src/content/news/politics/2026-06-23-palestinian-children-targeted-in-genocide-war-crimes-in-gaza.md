@@ -2,7 +2,7 @@
 category: Politics
 description: UN commission of inquiry says Israel&#039;s deliberate targeting of Palestinian
   children in Gaza resulted in genocide.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-23T11:55:55Z'

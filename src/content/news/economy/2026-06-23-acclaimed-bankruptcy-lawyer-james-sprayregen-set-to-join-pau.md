@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former Kirkland & Ellis partner helped turn firm into a restructuring
   powerhouse
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-23T19:34:22Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;The Rainmaker&#8221; has packed the court with three new actors
   joining the cast of Season 2. Richard Kind joins the USA Network legal drama as
   Larry Shifflet, the father…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-23T19:00:00Z'
