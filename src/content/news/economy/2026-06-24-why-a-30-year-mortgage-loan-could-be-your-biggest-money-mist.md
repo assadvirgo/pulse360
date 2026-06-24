@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: You might be able to save hundreds of thousands of dollars with a 15-year
   mortgage loan.
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-24T15:38:00Z'

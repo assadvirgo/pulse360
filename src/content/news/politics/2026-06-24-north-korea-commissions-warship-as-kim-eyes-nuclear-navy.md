@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: Kim Jong Un vows to equip North Korea&#039;s navy with nuclear weapons,
   signaling a strategic shift in military capabilities.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 69.5
 pubDate: '2026-06-24T11:24:15Z'

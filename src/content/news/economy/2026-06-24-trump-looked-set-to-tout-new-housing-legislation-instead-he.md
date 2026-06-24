@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump was expected to celebrate a new housing package
   with Democratic and Republican lawmakers — especially a provision having to do with
   banning big investors…
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-24T16:06:00Z'

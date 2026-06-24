@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France has recorded it hottest day since records began in 1947, its national
   weather agency says, breaking a record set on Tuesday.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-24T16:31:38Z'

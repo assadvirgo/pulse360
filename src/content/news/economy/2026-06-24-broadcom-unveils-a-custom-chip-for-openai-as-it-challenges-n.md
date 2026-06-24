@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The custom chip is designed to support the ChatGPT maker’s future AI
   models and products.
-displayOrder: 30
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-24T15:20:00Z'

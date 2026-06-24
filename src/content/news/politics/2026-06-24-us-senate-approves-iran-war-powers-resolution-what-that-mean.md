@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Four Republicans cross party lines to vote in favour of the measure.
-displayOrder: 23
+displayOrder: 46
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-24T11:25:40Z'

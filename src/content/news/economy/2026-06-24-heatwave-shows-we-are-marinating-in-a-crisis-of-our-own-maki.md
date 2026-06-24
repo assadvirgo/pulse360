@@ -2,7 +2,7 @@
 category: Economy
 description: Political inaction in the battle against climate change is costly and
   getting costlier
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-24T04:00:29Z'

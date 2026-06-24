@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England will assess the fitness of Reece James and Declan Rice before
   their final World Cup group game against Panama.
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-24T16:00:05Z'

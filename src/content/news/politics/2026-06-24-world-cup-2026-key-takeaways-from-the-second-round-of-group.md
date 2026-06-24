@@ -2,7 +2,7 @@
 category: Politics
 description: Here&#039;s a look at the viral moments, on-field controversies, the
   biggest players, best performances, goals and more.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-24T09:23:23Z'

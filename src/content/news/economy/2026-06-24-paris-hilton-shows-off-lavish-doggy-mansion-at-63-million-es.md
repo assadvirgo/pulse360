@@ -5,7 +5,7 @@ countryCode: US
 description: Hotel heiress Paris Hilton’s children have found a new home in the form
   of a luxurious custom “doggy mansion” that the family has set up for their pets
   on the grounds of their $63…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-24T09:01:00Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Mark Rutte puts Giorgia Meloni under pressure by disclosing Rome let
   500 aircraft take off in Operation Epic Fury
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-24T12:27:38Z'

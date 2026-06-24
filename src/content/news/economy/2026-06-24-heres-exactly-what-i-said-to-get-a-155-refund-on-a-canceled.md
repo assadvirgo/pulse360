@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'Plus: Know your rights as a passenger — and what you’re entitled to
   if an airline cancels your flight for any reason.'
-displayOrder: 29
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-24T15:29:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starting July 1, Medicare beneficiaries will have access to weight-loss
   drugs for the first time. There are some unique factors they should consider.
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-24T15:35:00Z'

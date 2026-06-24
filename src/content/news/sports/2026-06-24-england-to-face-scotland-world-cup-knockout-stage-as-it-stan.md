@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Use BBC Sport's projections tool with in-game updates to plot your country's
   route through the World Cup knockouts.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-24T09:26:41Z'

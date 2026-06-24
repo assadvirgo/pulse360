@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tehran says the strait &#039;will never return&#039; to its prewar conditions
   and claims it can charge fees for services.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-24T14:27:55Z'

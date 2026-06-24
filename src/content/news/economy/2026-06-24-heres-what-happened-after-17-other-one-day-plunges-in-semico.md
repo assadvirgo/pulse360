@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microchip stocks tumbled on Tuesday, but a look at similar one-day downturns
   in the semiconductor sector shows such declines are often fleeting.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-24T11:21:00Z'

@@ -2,7 +2,7 @@
 category: Sports
 description: All 48 teams in the World Cup have played exactly two games, so we look
   at the players and nations who were winners and losers.
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-24T13:27:19Z'

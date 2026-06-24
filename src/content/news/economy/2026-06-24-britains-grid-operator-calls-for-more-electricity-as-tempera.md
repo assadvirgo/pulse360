@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Extreme heat increases demand for power and reduces efficiency of solar
   panels
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-24T10:52:39Z'

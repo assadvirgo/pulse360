@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions
   over the Israel-Gaza war.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-06-24T05:07:55Z'

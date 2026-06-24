@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Candidates backed by Zohran Mamdani have scored major wins in primaries,
   unseating Democrats backed by pro-Israel groups
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-24T11:55:18Z'

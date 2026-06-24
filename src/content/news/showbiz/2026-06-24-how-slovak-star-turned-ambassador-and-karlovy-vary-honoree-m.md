@@ -5,7 +5,7 @@ countryCode: SK
 description: KVIFF calls the Renaissance woman "one of the greatest Slovak actresses
   of all time," with her award also honoring "the unique artistic connection between
   the Czech and Slovak…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-24T09:30:00Z'
