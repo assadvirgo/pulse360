@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A blistering heatwave has swept across Europe triggering the highest-level
   red heat warnings in Britain and France.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-24T05:57:19Z'

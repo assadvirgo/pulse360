@@ -5,7 +5,7 @@ countryCode: AU
 description: Australia made it four wins from four at the ICC Women's T20 World Cup
   after easing to a 113-run victory against Pakistan at Headingley, with the six-time
   winners on the verge of…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-23T21:42:57Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: As heatwave intensifies, far-right champions air conditioning while the
   left calls for renovations and green spaces
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-24T04:00:21Z'

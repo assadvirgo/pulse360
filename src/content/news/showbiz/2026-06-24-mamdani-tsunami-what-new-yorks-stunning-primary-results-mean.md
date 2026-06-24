@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With DSA and DSA-Aligned Congressional candidates staging three big wins,
   a new plot twist in our Trump sequel
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-24T07:07:45Z'

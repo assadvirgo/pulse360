@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Ahmed al Ahmed tackled one of the gunmen who killed 15 people at a Jewish
   event in December.
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-24T04:06:51Z'

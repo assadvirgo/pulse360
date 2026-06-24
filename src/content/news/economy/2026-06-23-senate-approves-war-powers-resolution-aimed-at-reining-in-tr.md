@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Largely symbolic resolution is a sign of disquiet over the US president’s
   handling of the conflict
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-23T21:45:50Z'

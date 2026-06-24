@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Shares in defence group Rheinmetall tumble as Berlin ditches F126 frigate
   programme after cost overruns and delays
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-23T22:30:43Z'

@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Leah Stewart, 34, had one of her arms amputated after she was bitten
   while swimming at Coogee Beach.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-24T01:42:43Z'

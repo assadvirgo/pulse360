@@ -5,7 +5,7 @@ countryCode: FR
 description: The Indo-French animated feature &#8220;Heirloom&#8221; has formalized
   its French co-production with Paris-based Condor Films and secured the CNC&#8217;s
   Aide aux Cinémas du Monde…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-06-24T07:42:46Z'

@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Prime Minister Sheikh Mohammed says Gulf state will resume normal LNG
   production within weeks
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-24T04:00:29Z'

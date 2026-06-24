@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: New UN report documents the toll of Israel&#039;s war on Gaza and its
   occupation of the West Bank on Palestinian children.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-23T22:50:00Z'

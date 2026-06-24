@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: US Senate votes to pause Iran war in rare rebuke to Trump
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-24T01:29:51Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The resolution is largely symbolic, but it adds to pressure on the White
   House to end the conflict once and for all.
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-24T03:57:59Z'

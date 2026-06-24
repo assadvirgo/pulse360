@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: What 10 years covering the Manchester mayor’s many reinventions taught
   me about the man who wants to lead Britain
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-24T04:00:21Z'

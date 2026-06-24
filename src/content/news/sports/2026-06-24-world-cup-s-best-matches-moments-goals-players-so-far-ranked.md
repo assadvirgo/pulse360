@@ -2,7 +2,7 @@
 category: Sports
 description: After two rounds of fixtures, BBC Sport ranks the best matches, moments,
   players and goals of the World Cup so far.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-24T06:59:52Z'
