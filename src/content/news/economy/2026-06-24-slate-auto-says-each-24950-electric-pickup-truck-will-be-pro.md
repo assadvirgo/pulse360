@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: EV startup Slate Auto CEO Peter Faricy told CNBC that every vehicle the
   company produces will be gross margin positive.
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-24T12:00:01Z'

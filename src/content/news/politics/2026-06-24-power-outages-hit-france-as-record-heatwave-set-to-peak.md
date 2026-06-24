@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: About 68,000 homes in Brittany have been affected, with electricity unlikely
   to be fully restored until Wednesday night.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-24T11:20:58Z'

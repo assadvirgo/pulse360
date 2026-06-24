@@ -3,7 +3,7 @@ category: Politics
 country: Ukraine
 countryCode: UA
 description: Ukraine strikes strategic Russian bridge in Crimea
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-24T08:32:05Z'

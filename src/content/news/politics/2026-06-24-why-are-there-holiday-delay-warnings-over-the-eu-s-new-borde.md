@@ -2,7 +2,7 @@
 category: Politics
 description: The EU's much-delayed Entry/Exit System will change the way UK passengers
   travel to 29 countries.
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-24T09:47:35Z'

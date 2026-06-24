@@ -3,7 +3,7 @@ category: Tech
 description: Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming
   PC, these Lenovo discount codes and promotions can help you save big on your next
   tech upgrade.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-24T05:00:00Z'

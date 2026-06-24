@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: General CD Donahue will announce his retirement on Wednesday, according
   to people familiar with the matter
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-24T02:29:49Z'

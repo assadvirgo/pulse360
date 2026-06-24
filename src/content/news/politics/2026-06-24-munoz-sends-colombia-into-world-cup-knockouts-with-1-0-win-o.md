@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Daniel Munoz&#039;s 76th-minute goal guided Colombia to a Group K win
   over DR Congo, sending them to the round of 32.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-24T04:40:44Z'

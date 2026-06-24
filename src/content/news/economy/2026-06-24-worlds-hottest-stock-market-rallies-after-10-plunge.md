@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Chip makers Samsung and SK Hynix recover some ground after bout of profit
   taking
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-24T08:14:00Z'

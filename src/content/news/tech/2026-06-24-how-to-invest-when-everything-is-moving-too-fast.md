@@ -5,7 +5,7 @@ countryCode: US
 description: TechCrunch's StrictlyVC evening in Los Angeles late last week brought
   together two of the more straight-talking investors working in AI right now. They
   were as entertaining as…
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 58.0
 pubDate: '2026-06-24T06:26:11Z'

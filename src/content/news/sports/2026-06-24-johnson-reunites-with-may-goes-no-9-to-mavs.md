@@ -5,7 +5,7 @@ countryCode: US
 description: Michigan forward Morez Johnson Jr. was taken with the ninth pick by the
   Mavs and his former coach at Michigan, Dusty May, and was one of three Wolverines
   to go in the lottery…
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-24T07:28:05Z'

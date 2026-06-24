@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Italy declares red heatwave alert in 16 cities, including Rome, as UK
   prepares for highest ever June temperatures.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-24T07:45:44Z'

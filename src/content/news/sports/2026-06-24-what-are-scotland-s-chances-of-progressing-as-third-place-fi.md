@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: With 32 of 48 teams advancing to the knockout rounds of the World Cup
   it is more difficult to be eliminated than to qualify.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-24T06:35:58Z'

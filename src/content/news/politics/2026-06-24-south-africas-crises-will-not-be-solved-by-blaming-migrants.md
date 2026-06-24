@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: The solution is real socio-economic change in the country, and the labour
   movement is best positioned to push for it.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-24T09:22:45Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: More than 260 people in the Democratic Republic of Congo are known to
   have died during the current outbreak.
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-24T10:40:57Z'

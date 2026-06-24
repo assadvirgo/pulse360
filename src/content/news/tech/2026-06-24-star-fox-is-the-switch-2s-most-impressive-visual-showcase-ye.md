@@ -3,7 +3,7 @@ category: Tech
 description: The biggest Switch 2 exclusives so far have largely been about scale.
   Mario Kart World introduced a wide open continent to race across, Donkey Kong Bananza
   let you smash basically…
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-24T12:00:00Z'

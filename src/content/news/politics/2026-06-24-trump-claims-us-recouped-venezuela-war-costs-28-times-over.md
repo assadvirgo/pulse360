@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump claimed the United States has recovered its
   costs 28 times over through oil extraction.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 83.5
 pubDate: '2026-06-24T03:51:21Z'

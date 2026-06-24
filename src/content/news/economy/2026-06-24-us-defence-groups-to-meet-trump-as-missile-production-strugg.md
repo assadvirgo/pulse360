@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The administration is seeking to rebuild conventional weapons stockpiles
   while regearing for modern warfare
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-24T04:00:08Z'
