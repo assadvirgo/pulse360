@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England eased into the T20 World Cup semi-finals with a game to spare
   by comfortably beating West Indies by 38 runs at Lord's.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-24T21:24:19Z'

@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The far-right president-elect has pledged to rebuild ties with Israel
   and the US following tensions under Gustavo Petro.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-24T19:56:41Z'

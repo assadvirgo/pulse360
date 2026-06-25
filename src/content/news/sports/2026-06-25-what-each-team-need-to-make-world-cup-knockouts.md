@@ -2,7 +2,7 @@
 category: Sports
 description: With the final round of group fixtures under way the path to the World
   Cup final on 19 July is starting to take shape.
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-25T00:11:51Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Experts say Trump is likely to ignore it, but that even though it carries
   little power, it is politically significant.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-24T14:57:21Z'

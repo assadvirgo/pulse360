@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Request comes hours after lunch between the US president and GOP lawmakers
   descends into shouting match
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-24T22:44:22Z'

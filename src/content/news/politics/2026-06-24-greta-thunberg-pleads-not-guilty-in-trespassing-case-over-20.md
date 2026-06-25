@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestine
   protest
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-24T16:49:03Z'

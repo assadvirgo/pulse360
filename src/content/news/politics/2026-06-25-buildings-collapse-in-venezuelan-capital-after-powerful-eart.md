@@ -3,7 +3,7 @@ category: Politics
 country: Venezuela
 countryCode: VE
 description: Buildings collapse in Venezuelan capital after powerful earthquakes hit.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-25T00:18:28Z'

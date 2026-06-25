@@ -5,7 +5,7 @@ countryCode: US
 description: Jeff Olson, a veteran visual effects producer and modelmaker who spent
   a quarter-century at Industrial Light and Magic and worked on projects including
   Star Wars prequel The…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 66.0
 pubDate: '2026-06-25T00:00:39Z'

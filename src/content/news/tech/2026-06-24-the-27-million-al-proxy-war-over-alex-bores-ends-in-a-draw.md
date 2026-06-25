@@ -5,7 +5,7 @@ countryCode: US
 description: The expensive, $27 million political proxy war between Anthropic and
   OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose
   popularity surged after…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-24T17:25:00Z'

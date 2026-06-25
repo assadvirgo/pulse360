@@ -3,7 +3,7 @@ category: Tech
 description: A critique published in Nature Wednesday calls the basic technology behind
   Microsoft's "breakthrough" quantum computing chip the Majorana 1 into question.
   Microsoft unveiled the…
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-24T20:54:57Z'

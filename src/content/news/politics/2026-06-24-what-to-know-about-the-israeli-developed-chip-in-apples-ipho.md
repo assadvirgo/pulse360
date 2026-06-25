@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: There’s more to the iPhone 17e than meets the eye. Like an advanced silicon
   chip that is said to be developed in Israel.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-24T18:00:33Z'

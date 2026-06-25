@@ -5,7 +5,7 @@ countryCode: GB
 description: Sir Keir Starmer's determination to release a long-delayed defence investment
   plan ahead of a NATO summit next month risks doing more harm than good as officials
   scramble to meet…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-06-24T16:40:00Z'

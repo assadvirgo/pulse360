@@ -5,7 +5,7 @@ countryCode: US
 description: Gold, silver and bitcoin are all falling to their lowest levels of the
   year as a strong dollar and fears of interest-rate hikes heap pressure on the “debasement
   trade.”
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-24T20:02:00Z'
