@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Right now he's merely a several-hundred-billionaire, according to Bloomberg's
   Billionaires Index.
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-24T23:09:39Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Venezuela
 countryCode: VE
 description: Thousands feared dead as twin earthquakes cause devastation across Venezuela.
-displayOrder: 10
+displayOrder: 16
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T04:16:01Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The PCE inflation report will either calm Wall Street or ignite fears
   of a restrictive Fed.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-25T01:06:00Z'

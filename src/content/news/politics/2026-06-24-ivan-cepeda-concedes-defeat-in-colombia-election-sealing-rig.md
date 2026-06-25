@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Presidential candidate Ivan Cepeda accepted the victory of his opponent
   Abelardo de la Espriella.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-24T18:10:16Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Welcome to day two of Amazon&#8217;s four-day Prime Day event, which,
   if we&#8217;re being honest, looks a lot like day one. That&#8217;s actually good
   news, though, because many…
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-24T23:48:19Z'

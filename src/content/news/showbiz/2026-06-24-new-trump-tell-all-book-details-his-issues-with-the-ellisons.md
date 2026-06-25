@@ -5,7 +5,7 @@ countryCode: US
 description: Dozens of books are sure to result from the staggering events of Donald
   Trump&#8217;s second term, from the president&#8217;s unprecedented grip on the
   media to the spectacle of…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 72.8
 pubDate: '2026-06-24T21:33:43Z'

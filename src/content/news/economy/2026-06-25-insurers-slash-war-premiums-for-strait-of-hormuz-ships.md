@@ -2,7 +2,7 @@
 category: Economy
 description: Premiums for hull war coverage drop by more than half as ceasefire deal
   holds
-displayOrder: 12
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T04:00:29Z'

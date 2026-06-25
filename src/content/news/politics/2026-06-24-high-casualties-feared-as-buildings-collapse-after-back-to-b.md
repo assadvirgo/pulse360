@@ -5,7 +5,7 @@ countryCode: VE
 description: Buildings have collapsed in Venezuela's capital, Caracas, after powerful
   back-to-back earthquakes hit the south American country - with reports there could
   be 'high casualties'.
-displayOrder: 14
+displayOrder: 22
 heroImage: ''
 importance: 63.0
 pubDate: '2026-06-24T23:50:00Z'

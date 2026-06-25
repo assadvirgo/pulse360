@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The request is likely to face an uphill battle in Congress, which voted
   a day earlier to rein in Trump&#039;s war powers.
-displayOrder: 30
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-24T23:25:01Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Donald Trump praised “courageous” Volodymyr Zelenskyy as he said the
   Ukrainian president was “doing pretty well” in the war against Russia.
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-24T22:02:00Z'

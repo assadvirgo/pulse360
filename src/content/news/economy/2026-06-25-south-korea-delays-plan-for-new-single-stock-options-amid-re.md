@@ -3,7 +3,7 @@ category: Economy
 country: South Korea
 countryCode: KR
 description: Concerns grow of frothiness in world’s best-performing equity market
-displayOrder: 45
+displayOrder: 49
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-25T04:09:47Z'

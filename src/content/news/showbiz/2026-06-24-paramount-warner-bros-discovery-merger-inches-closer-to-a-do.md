@@ -3,7 +3,7 @@ category: Showbiz
 country: United States
 countryCode: US
 description: Regulators in over a dozen countries have signed off on the deal.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-24T20:43:27Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'Jeff Olson, a modelmaker, model supervisor, and visual effects producer
   who worked on &#8220;Star Wars: Episode 1 &#8211; The Phantom Menace&#8221; and
   numerous other films, died…'
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-24T22:56:06Z'

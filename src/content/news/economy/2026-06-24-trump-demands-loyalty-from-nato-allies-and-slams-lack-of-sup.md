@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president singles out alliance members, including the UK, after meeting
   secretary-general Mark Rutte
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-24T23:03:23Z'

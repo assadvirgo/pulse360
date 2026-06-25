@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump is demanding the DOJ look into why gas prices aren’t
   falling faster at the pump. Here are four practical factors at play.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-24T22:57:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Olympians from both the summer and winter games can apply for $10,000
   grants after competing.
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-24T23:44:25Z'
