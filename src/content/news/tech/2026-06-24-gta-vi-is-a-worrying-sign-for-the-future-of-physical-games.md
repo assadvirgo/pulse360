@@ -5,7 +5,7 @@ countryCode: US
 description: Rockstar Games has finally given Grand Theft Auto VI a price ahead of
   the game's November 19th launch. But while announcing that the game would cost $79.99,
   Rockstar also…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-24T18:42:07Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: The pop singer-songwriter’s debut was a critical success. Now, she’s
   taking the album on the road for her Staircase to Stardom tour, which she’s “entirely”
   involved in shaping:…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-24T19:09:15Z'

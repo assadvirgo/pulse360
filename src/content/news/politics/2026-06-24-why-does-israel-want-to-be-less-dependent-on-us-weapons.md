@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Prime Minister Benjamin Netanyahu has called for Israel to pursue &#039;armaments
   independence&#039;.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-24T19:27:46Z'

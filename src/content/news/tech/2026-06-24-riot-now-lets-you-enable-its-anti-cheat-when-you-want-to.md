@@ -5,7 +5,7 @@ countryCode: US
 description: If League of Legends and Valorant players have the right hardware and
   elect to opt into "pre-boot security mechanisms and Windows' own native protection
   features," then, starting…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-24T17:00:00Z'

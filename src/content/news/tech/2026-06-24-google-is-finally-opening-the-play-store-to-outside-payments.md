@@ -5,7 +5,7 @@ countryCode: US
 description: While the court still hasn't signed off on the massive settlement resolving
   Epic's antitrust lawsuit against Google for having a monopoly over Android's app
   store with Google…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-06-24T17:36:44Z'

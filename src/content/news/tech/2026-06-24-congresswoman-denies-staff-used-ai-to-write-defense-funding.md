@@ -5,7 +5,7 @@ countryCode: US
 description: Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck"
   in an amendment summary for a major defense bill, but denies it was used for the
   bill text itself and says…
-displayOrder: 9
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-24T19:36:46Z'

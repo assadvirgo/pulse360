@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France is being forced to re-think its longstanding reservations about
   air-conditioning as temperatures soar.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-24T13:51:24Z'

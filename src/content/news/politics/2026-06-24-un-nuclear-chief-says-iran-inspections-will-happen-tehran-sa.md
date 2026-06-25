@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Head of the IAEA, Rafael Grossi, said the MoU stated &#039;explicitly&#039;
   that the agency would supervise inspections in Iran.
-displayOrder: 1
+displayOrder: 13
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-24T19:33:17Z'

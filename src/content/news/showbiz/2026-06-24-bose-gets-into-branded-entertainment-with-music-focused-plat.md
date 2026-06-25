@@ -5,7 +5,7 @@ countryCode: US
 description: EXCLUSIVE:&#160;Bose, the more than 60-year-old consumer audio company,
   has announced the launch of Bose Studios, a music-centered branded entertainment
   platform whose output will…
-displayOrder: 2
+displayOrder: 20
 heroImage: ''
 importance: 70.0
 pubDate: '2026-06-24T16:36:22Z'

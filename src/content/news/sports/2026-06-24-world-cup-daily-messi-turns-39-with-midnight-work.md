@@ -3,7 +3,7 @@ category: Sports
 description: We are now down to the final round of group stage matches at the 2026
   FIFA World Cup, where all teams from the same group will be playing at the same
   time.
-displayOrder: 23
+displayOrder: 45
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-24T12:49:11Z'

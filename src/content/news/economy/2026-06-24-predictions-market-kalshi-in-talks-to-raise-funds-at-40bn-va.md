@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rapidly growing company is increasingly challenging established derivatives
   and betting rivals
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-24T19:00:32Z'

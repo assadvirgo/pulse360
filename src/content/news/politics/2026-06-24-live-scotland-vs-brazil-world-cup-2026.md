@@ -2,7 +2,7 @@
 category: Politics
 description: Updates of Scotland vs Brazil, who have Neymar back from injury, via
   our buildup and text commentary stream coverage.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-24T18:00:53Z'

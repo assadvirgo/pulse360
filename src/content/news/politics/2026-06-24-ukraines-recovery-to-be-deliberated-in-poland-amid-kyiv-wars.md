@@ -4,7 +4,7 @@ country: Poland
 countryCode: PL
 description: Amid a brewing row that tests Poland&#039;s alliance with Ukraine, President
   Zelenskyy will skip a key conference.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 70.5
 pubDate: '2026-06-24T08:27:43Z'

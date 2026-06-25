@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: After completing an "old-school" 253-run win at The Oval, the NZ captain
   pushes for more glory at Trent Bridge
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-24T14:16:49Z'

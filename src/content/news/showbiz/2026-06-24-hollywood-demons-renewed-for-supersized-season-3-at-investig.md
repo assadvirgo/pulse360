@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Hollywood is clearly full of enough demons to warrant a supersized
   third season of its namesake true-crime docuseries. Deadline understands that Investigation
   Discovery…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-24T16:26:00Z'

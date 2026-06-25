@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jeff Bezos-backed Slate Auto is pricing its truck at just under $25,000,
   but buyers have to be willing to make some sacrifices.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-24T16:05:00Z'

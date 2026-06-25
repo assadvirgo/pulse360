@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Two years since Gen Z protests rocked President Ruto&#039;s government,
   thousands gear up to take to the streets again.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-24T10:41:04Z'
