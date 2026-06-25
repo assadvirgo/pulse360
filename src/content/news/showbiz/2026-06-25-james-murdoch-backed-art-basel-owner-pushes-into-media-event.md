@@ -5,7 +5,7 @@ countryCode: CH
 description: MCH Group, in which the Fox scion is the largest shareholder, is launching
   an event titled the Jupiter Festival with an eye toward becoming a stop on the thought
   leader circuit.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-25T09:00:00Z'

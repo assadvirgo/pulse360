@@ -5,7 +5,7 @@ countryCode: IN
 description: 'The &#8220;Baahubali” universe is one which has been continually transformative
   for mainstream Indian cinema and the latest entry, the animated feature &#8220;Baahubali:
   The…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-25T07:09:07Z'

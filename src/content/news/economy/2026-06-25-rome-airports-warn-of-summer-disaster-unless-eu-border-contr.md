@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Biometric checks must be put on hold to cope with passenger numbers,
   airports boss says
-displayOrder: 17
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T04:00:30Z'

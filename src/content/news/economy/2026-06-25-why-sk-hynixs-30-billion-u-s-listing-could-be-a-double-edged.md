@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The South Korean memory company could give investors more opportunities
   beyond Micron, though it may also raise awareness of industry dynamics.
-displayOrder: 28
+displayOrder: 46
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-25T00:22:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Britain is facing its hottest June weather on record as a blistering
   heatwave spreads across Europe.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-24T22:31:21Z'

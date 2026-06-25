@@ -5,7 +5,7 @@ countryCode: ES
 description: Six emerging female animation directors in Spain, some with a considerable
   career in cinema such as IDFA Audience Award winner Lucija Stojević (“La Chana”),
   will unveil their…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-25T06:49:27Z'

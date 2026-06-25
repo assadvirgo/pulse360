@@ -3,7 +3,7 @@ category: Economy
 country: Venezuela
 countryCode: VE
 description: US Geological Survey warns that will probably result in high casualties
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-25T05:32:39Z'

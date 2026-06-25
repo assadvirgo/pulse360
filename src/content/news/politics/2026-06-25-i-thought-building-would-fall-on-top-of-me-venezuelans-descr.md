@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Two quakes hit the capital seconds apart, the first at a magnitude of
   7.2 and the second at 7.5.
-displayOrder: 27
+displayOrder: 45
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-25T02:27:27Z'

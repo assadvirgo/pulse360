@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Get 20% off with verified Dell promo code, plus today’s coupons for up
   to $600 off laptops, Alienware monitors, and all things tech.
-displayOrder: 1
+displayOrder: 13
 heroImage: ''
 importance: 75.2
 pubDate: '2026-06-25T05:00:00Z'

@@ -4,7 +4,7 @@ country: Zimbabwe
 countryCode: ZW
 description: Constitutional amendment will keep President Mnangagwa in office until
   2030 and allow parliament to elect the president.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-24T20:43:33Z'

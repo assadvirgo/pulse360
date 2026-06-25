@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: The nation’s shock win against South Korea quelled criticism back at
   home after doubts about coach Hugo Broos’ team.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-25T08:21:59Z'

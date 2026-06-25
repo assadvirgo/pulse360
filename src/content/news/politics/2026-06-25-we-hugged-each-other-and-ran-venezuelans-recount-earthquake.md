@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Survivors describe panic and collapsing buildings during two strong quakes
   as thousands of people feared dead.
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-25T07:46:43Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: NATO chief Mark Rutte visited the White House to ease tensions with Trump
   ahead of next month&#039;s NATO summit.
-displayOrder: 12
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-25T02:22:08Z'

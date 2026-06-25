@@ -5,7 +5,7 @@ countryCode: US
 description: Just days after a gunman killed conservative activist Charlie Kirk, it
   became clear that President Donald Trump would use the assassination to fuel a crackdown
   on free speech. To…
-displayOrder: 32
+displayOrder: 50
 heroImage: ''
 importance: 64.2
 pubDate: '2026-06-24T21:40:26Z'

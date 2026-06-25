@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: But the budget faces an uphill battle, coming a day after lawmakers rebuked
   Trump's military action.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-25T00:51:28Z'
