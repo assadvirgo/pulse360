@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: A huge couple of days for Irish cricket beckon as India arrive at Stormont
   for two T20 internationals on Friday and Sunday [both 13:30 BST].
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-25T08:01:44Z'

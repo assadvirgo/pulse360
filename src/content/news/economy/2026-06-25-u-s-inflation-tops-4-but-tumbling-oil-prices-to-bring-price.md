@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Worst inflation in three years may have peaked
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-25T12:37:00Z'

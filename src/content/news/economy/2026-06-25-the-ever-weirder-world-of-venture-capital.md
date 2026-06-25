@@ -2,7 +2,7 @@
 category: Economy
 description: Why the Power Law remains a guiding principle of the high-risk, high-reward
   VC game
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-25T13:08:12Z'

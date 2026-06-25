@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Protesters demand justice for the dozens killed during the 2024 demonstrations
   and last year's anniversary protests.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-25T16:18:23Z'

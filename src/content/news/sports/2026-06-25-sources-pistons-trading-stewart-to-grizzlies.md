@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Pistons are trading backup big man Isaiah Stewart to the Grizzlies
   for three future second-round picks, sources said.
-displayOrder: 40
+displayOrder: 50
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-25T06:04:35Z'

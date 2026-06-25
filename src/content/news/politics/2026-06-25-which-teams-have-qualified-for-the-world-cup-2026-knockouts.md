@@ -2,7 +2,7 @@
 category: Politics
 description: The 2026 FIFA World Cup knockout stage format, criteria and rules for
   qualification. Find out who&#039;s in and who&#039;s out.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-25T09:05:22Z'

@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Two back-to-back earthquakes have struck Venezuela, devastating infrastructure
   and sending panic through the streets.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-25T13:35:53Z'

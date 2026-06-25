@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: A US-backed initiative aiming to unify Libya&#039;s divided institutions
   tests political loyalties in the country&#039;s west.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-25T11:48:08Z'

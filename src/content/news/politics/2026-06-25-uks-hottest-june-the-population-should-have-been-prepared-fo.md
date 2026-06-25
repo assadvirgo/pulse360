@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Schools are closing, public transport is slowing and cooling items are
   flying off shelves as Britons swelter.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T14:18:46Z'

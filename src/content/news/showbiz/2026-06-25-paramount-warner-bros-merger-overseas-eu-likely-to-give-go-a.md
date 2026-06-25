@@ -5,7 +5,7 @@ countryCode: GB
 description: With Paramount’s $111 billion takeover of Warner Bros. Discovery likely
   to soon get the go-ahead from the European Union, the next question will be whether
   the&#160;U.K.’s…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-25T15:21:35Z'

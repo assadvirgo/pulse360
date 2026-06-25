@@ -5,7 +5,7 @@ countryCode: US
 description: '"There were employees doing things like, ''Claude is so helpful for
   me — it analyzes my calendar and my email and puts together a plan for me,''" he
   says. "That person was spending…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-25T16:00:00Z'
