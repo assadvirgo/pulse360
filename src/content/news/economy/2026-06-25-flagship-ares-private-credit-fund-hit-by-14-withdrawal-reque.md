@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Firm caps redemptions as retail investor exodus accelerates across the
   industry
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-25T12:00:04Z'

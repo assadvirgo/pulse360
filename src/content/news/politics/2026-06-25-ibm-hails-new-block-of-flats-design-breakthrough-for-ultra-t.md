@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: IBM says it has created the world's first known chip tech below 1 nanometre
   - but it will be some time before it's ready for production.
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 63.2
 pubDate: '2026-06-25T10:04:43Z'

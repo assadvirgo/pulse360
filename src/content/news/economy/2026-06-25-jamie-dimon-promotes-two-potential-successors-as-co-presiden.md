@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Doug Petno and Troy Rohrbaugh handed control of two of the bank’s largest
   divisions
-displayOrder: 28
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-25T12:12:13Z'

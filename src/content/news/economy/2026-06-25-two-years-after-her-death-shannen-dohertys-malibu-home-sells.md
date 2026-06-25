@@ -5,7 +5,7 @@ countryCode: US
 description: The home was described as her personal “sanctuary,” where she was able
   to escape the hustle and bustle of Hollywood, particularly during her lengthy cancer
   battle.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-25T09:02:00Z'

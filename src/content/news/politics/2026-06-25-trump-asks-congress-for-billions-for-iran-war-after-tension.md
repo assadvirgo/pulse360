@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: But the budget faces an uphill battle as the president spars with some
   members of his own party over the issue.
-displayOrder: 8
+displayOrder: 27
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-25T09:06:59Z'

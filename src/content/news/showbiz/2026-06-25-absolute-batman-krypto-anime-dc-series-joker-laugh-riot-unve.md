@@ -5,7 +5,7 @@ countryCode: FR
 description: In their first joint studio presentation at Annecy&#8217;s lakeside Bonlieu
   theater, DC Studios and Warner Bros. Animation unveiled Thursday a next wave of
   animated projects for…
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-25T12:20:27Z'

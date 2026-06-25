@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: A major search-and-rescue effort is underway in Venezuela after two earthquakes
   levelled buildings and left many trapped
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-25T07:32:59Z'

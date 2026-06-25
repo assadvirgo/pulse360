@@ -5,7 +5,7 @@ countryCode: 'NO'
 description: 'EXCLUSIVE: Dutch-Norwegian director Zwart Arbeid gave a sneak peek of
   his upcoming animated feature ViQueens in a masterclass at the Annecy International
   Animation Film Festival…'
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-25T09:00:00Z'

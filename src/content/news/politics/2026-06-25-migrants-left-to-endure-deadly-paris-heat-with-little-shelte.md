@@ -3,7 +3,7 @@ category: Politics
 country: France
 countryCode: FR
 description: Hundreds of migrants in Paris are left exposed as a heatwave sweeps Europe.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T03:50:26Z'

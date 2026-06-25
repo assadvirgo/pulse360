@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Thousands gathered in Tehran on the eve of Ashura, the first since the
   killing of Iranian supreme leader Ali Khamenei.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-25T03:55:07Z'

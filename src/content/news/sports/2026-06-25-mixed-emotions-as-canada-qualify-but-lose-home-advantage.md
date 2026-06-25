@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Losing their final group game to Switzerland means co-hosts Canada will
   play no further matches in their home country at this year's World Cup.
-displayOrder: 29
+displayOrder: 49
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-25T04:36:44Z'

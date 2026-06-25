@@ -3,7 +3,7 @@ category: Economy
 country: Venezuela
 countryCode: VE
 description: Officials warn of fatalities as people left trapped under rubble
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-25T02:24:31Z'

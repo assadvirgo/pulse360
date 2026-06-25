@@ -5,7 +5,7 @@ countryCode: CH
 description: 'The Locarno Film Festival will celebrate Virginie Efira, the Belgian-born,
   France-based actress who was recently in Cannes with lead roles in two competition
   films: Ryusuke…'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-25T09:33:31Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wall Street, and Main Street, love their round numbers, as at least four
   strategists have the same 8,000 year-end target on the S&amp;P 500.
-displayOrder: 27
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-25T11:44:00Z'

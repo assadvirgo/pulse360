@@ -2,7 +2,7 @@
 category: Politics
 description: Judges argue sanctions aimed to punish and coerce ICC decisions on US
   and Israeli war crimes cases.
-displayOrder: 2
+displayOrder: 18
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-25T07:47:39Z'
