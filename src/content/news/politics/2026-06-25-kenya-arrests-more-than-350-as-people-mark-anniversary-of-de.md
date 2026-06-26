@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Demonstrators mark the second anniversary of a 2024 protest where 60
   people were killed by security forces.
-displayOrder: 29
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-25T18:55:10Z'

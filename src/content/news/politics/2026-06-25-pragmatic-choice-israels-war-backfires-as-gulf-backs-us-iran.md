@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened
   support for diplomacy.
-displayOrder: 23
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T17:11:34Z'

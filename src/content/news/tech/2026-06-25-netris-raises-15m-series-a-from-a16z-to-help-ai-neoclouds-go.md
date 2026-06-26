@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Netris provides software that runs on network switches, and offers a
   platform that helps neocloud operators reduce the time it takes to go live.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-25T14:55:38Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Renewed challenge from open-source models raises stakes on AI labs to
   make their case
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-25T16:48:50Z'

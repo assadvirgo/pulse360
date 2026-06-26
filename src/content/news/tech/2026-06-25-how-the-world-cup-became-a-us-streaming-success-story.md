@@ -5,7 +5,7 @@ countryCode: US
 description: This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving
   intersection of tech and entertainment, syndicated just for The Verge subscribers
   once a week. The 2026 World…
-displayOrder: 14
+displayOrder: 21
 heroImage: ''
 importance: 64.2
 pubDate: '2026-06-25T15:30:00Z'

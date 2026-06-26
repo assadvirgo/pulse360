@@ -5,7 +5,7 @@ countryCode: US
 description: Starz is developing a TV series based on &#8220;The Wolf King,&#8221;
   Lauren Palphreyman&#8217;s popular romantic fantasy book series. The project follows
   a princess named Aurora…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-25T20:30:00Z'

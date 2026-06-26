@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Willa Fitzgerald, Ione Skye and Daithí Ó hAragáin have joined
   Brie Larson in the Sony Pictures’ thriller Skeletons. JT Mollner is directing the
   pic. Kyle Gallner is…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-25T20:00:00Z'

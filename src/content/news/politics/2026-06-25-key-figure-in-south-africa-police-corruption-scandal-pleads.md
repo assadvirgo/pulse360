@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Prosecutors say Vusimusi "Cat" Matlala could provide evidence against
   "high-ranking officials".
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-25T14:00:13Z'

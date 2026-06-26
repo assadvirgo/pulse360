@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rogen, who is currently starring in Olivia Wilde's new movie 'The Invite,'
   has had some PTSD after his 2014 comedy "almost started a war."
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 71.8
 pubDate: '2026-06-25T19:58:22Z'

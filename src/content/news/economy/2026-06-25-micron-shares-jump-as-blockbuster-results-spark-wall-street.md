@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple’s stock slides after company unveils price rises linked to ‘unprecedented’
   cost of memory chips
-displayOrder: 15
+displayOrder: 19
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T19:39:55Z'
