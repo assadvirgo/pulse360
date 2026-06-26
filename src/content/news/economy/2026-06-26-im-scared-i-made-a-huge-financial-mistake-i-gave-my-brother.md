@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “One lawyer estimated that my brother and I would each walk away with
   a couple hundred thousand dollars.”
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-26T16:30:00Z'

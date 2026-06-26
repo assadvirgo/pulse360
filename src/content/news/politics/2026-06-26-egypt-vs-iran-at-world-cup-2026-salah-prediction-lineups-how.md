@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Mohamed Salah&#039;s Egypt and Mehdi Taremi&#039;s Iran are both in the
   hunt for the FIFA World Cup knockouts in Group G.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-26T11:25:13Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early
   Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register
   now.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-26T13:00:00Z'

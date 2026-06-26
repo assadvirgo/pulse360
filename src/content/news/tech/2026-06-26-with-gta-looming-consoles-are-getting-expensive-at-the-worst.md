@@ -3,7 +3,7 @@ category: Tech
 description: The release of Grand Theft Auto VI is a singular moment, the kind of
   massive cultural phenomenon that makes people want to go out and buy a console to
   play it. It is the…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-26T12:00:00Z'

@@ -2,7 +2,7 @@
 category: Sports
 description: Are the surprise results achieved by lower-ranked teams in the World
   Cup a matter of luck - or clever planning and execution?
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-26T09:18:00Z'

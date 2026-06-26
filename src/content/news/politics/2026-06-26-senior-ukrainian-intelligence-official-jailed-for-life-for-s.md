@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Col Dmytro Kozyura agreed to share state secrets and systematically disclosed
   classified information, prosecutors say.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-26T10:38:37Z'

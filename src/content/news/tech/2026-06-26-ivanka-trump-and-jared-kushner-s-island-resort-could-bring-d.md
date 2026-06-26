@@ -5,7 +5,7 @@ countryCode: AL
 description: What began as a “flamingo revolution” to protest the $1.4 billion development
   on Sazan Island has spiraled into mass protests against a ruling party that thousands
   now want out.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-26T11:00:00Z'

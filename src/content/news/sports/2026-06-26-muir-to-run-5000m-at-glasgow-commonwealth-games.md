@@ -5,7 +5,7 @@ countryCode: GB
 description: Scotland's Laura Muir will run the 5,000m at the Commonwealth Games in
   Glasgow as she aims to be "as strong as possible" for the major events up to the
   2028 Olympics.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-26T09:02:12Z'

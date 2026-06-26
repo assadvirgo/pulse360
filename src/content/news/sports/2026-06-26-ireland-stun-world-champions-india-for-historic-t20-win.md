@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Ireland pull off a massive shock as they beat world champions India for
   the first time in Friday's opening T20 international in Belfast.
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-26T16:13:30Z'

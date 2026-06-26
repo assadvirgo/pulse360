@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Carmaker’s move will ratchet up the pressure on European policymakers
   to slap restrictions and trade barriers on China
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-26T15:31:41Z'

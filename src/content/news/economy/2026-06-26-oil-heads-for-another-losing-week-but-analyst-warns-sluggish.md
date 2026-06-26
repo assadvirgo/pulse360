@@ -5,7 +5,7 @@ countryCode: IR
 description: Iran warned on Thursday that vessels not following approved routes would
   be be dealt with ‘accordingly,’ and a U.N. organization paused ship-evacuation efforts
   at the strait.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-26T11:50:00Z'

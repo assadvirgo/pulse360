@@ -5,7 +5,7 @@ countryCode: FR
 description: 'Rising Mexican animator Luis de la Rosa, who took credits on works such
   as Spider-Man: Across the Spider-Verse and My Little Pony: The Movie, has died in
   an accident while…'
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-26T16:36:25Z'

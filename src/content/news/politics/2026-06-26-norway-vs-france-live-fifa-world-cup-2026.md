@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Follow live updates from the blockbuster clash in Group I - including
   the build-up, analysis and live text commentary.
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-26T16:00:00Z'

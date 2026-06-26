@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SoftBank shares slumped Friday following a report that OpenAi may delay
   its IPO until next year.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-26T09:31:00Z'

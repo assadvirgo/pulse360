@@ -2,7 +2,7 @@
 category: Politics
 description: Heatwaves are forcing the continent to choose between preserving the
   past and adapting for the future.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 69.5
 pubDate: '2026-06-26T11:06:57Z'

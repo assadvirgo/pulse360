@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New long-term customer agreements could bring more predictability to
   Micron’s financials, addressing a persistent investor concern about sustainability.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-26T12:03:00Z'

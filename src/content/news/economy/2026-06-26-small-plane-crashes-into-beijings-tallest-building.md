@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Debris seen falling from Citic Tower after propeller aircraft hit skyscraper
   in Chinese capital’s central business district
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-26T16:17:01Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: As the global race for AI moves forward, a shortage of memory chips has
   begun to drive up prices of consumer electronics and may lead to product shortages.
-displayOrder: 33
+displayOrder: 48
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-26T12:00:01Z'

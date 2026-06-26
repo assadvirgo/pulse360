@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Prime Minister Mark Carney raised the idea of Canada joining the song
   contest in his 2025 budget.
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-26T13:41:36Z'
