@@ -1,7 +1,7 @@
 ---
 category: Sports
 description: Will you get today's World Cup player in as few attempts as possible?
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-26T05:56:43Z'

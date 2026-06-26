@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Experts say the first three days following a serious quake often determine
   how many lives can still be saved.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-26T11:36:53Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: The World Cup winners and losers in advertising may be indicative of
   a broader trend of how people are responding to authentic branding.
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-26T12:30:01Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Venezuela
 countryCode: VE
 description: Baby pulled alive from rubble after Venezuela earthquake
-displayOrder: 14
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-26T10:23:01Z'

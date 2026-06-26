@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ina Yoon leads the Women's PGA Championship by two shots after the first
   round as Nelly Korda's hopes of a third straight major falter.
-displayOrder: 23
+displayOrder: 44
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-26T06:59:20Z'

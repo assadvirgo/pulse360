@@ -5,7 +5,7 @@ countryCode: US
 description: The Hollywood Reporter's executive editor of awards coverage shares his
   projected nominees, alternates, potential surprises and "shoulda been a contenda"
   selections for 63…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-26T12:00:00Z'

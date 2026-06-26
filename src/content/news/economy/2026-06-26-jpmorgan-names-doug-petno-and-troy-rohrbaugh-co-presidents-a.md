@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The moves would appear to make Doug Petno and Troy Rohrbaugh the most
   obvious possible successors to JPMorgan Chase CEO Jamie Dimon.
-displayOrder: 22
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-26T12:32:02Z'

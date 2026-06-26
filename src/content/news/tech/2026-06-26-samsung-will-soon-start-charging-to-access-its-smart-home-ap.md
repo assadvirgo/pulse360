@@ -5,7 +5,7 @@ countryCode: KR
 description: From October this year Samsung will roll out a variety of new paid tiers
   for access to its SmartThings API, including a $4.99 monthly plan for "non-commercial,
   individual…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-26T11:38:11Z'

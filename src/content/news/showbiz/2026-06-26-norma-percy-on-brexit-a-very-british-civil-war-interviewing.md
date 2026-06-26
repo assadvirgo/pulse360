@@ -5,7 +5,7 @@ countryCode: GB
 description: As the UK once again awaits a new Prime Minister, attention is fixed
   on the latest Westminster upheaval, but few political shocks in recent British history
   match Brexit. A decade…
-displayOrder: 2
+displayOrder: 18
 heroImage: ''
 importance: 77.0
 pubDate: '2026-06-26T07:43:02Z'

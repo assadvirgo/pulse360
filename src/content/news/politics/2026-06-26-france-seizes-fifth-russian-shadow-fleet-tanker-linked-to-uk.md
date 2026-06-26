@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France seizes fifth Russian ‘shadow fleet’ tanker linked to funding Ukraine
   war.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-26T01:20:40Z'

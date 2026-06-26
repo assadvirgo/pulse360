@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Satellite images compare Venezuela&#039;s coastal city of La Guaira before
   and after twin earthquakes struck.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-26T03:50:29Z'

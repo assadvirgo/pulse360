@@ -2,7 +2,7 @@
 category: Politics
 description: The extreme June temperatures would have been &#039;virtually impossible&#039;
   50 years ago, says World Weather Attribution group.
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-26T11:42:01Z'

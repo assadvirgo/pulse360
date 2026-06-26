@@ -2,7 +2,7 @@
 category: Economy
 description: Daytime peaks on the continent rising three times as fast as the wider
   rate of global warming, scientists say
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-26T04:00:33Z'
