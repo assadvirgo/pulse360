@@ -2,7 +2,7 @@
 category: Politics
 description: In a World Cup for everyone, as it has been dubbed by FIFA, players carry
   historic stories of war and displacement.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-06-25T15:31:55Z'

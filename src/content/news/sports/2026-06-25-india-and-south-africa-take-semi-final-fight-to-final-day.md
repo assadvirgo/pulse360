@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The group stage of the Women's T20 World Cup concludes on Sunday with
   a must-win fixture for India against Australia at Lord's.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-25T20:59:47Z'

@@ -3,7 +3,7 @@ category: Tech
 description: It's not exactly surprising that RAMaggeddon is making new tech hardware
   really expensive. But if you've been in the market for things like a new computer
   or tablet, this week has…
-displayOrder: 29
+displayOrder: 41
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-25T18:20:17Z'

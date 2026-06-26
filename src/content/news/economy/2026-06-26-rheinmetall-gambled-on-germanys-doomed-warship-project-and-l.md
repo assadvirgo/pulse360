@@ -3,7 +3,7 @@ category: Economy
 country: Germany
 countryCode: DE
 description: Arms company’s €15bn frigate blow tests faith among investors
-displayOrder: 19
+displayOrder: 26
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-26T04:00:33Z'

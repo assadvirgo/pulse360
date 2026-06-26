@@ -5,7 +5,7 @@ countryCode: US
 description: The studio was hoping to repeat the success of “Superman,” which powered
   a box-office turnaround for Warner Bros. last year and breathed new life into its
   DC comics franchise.
-displayOrder: 33
+displayOrder: 42
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-25T20:27:00Z'

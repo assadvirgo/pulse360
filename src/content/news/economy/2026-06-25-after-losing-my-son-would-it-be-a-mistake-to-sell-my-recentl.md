@@ -2,7 +2,7 @@
 category: Economy
 description: “I raised my children there as a single mother, and it was the last home
   my son lived in before he passed away unexpectedly.”
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-25T20:54:00Z'

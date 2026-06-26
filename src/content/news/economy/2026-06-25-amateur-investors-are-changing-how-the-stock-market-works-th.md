@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The rise of the retail investor is making the market less efficient —
   and AI is compounding the problem, according to a quant at Goldman Sachs.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T16:59:00Z'

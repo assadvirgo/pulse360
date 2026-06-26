@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Emergency crews are racing to rescue hundreds trapped under collapsed
   buildings after earthquakes struck Venezuela.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-26T02:13:54Z'

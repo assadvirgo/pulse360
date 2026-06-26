@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Watch Tazmin Brits' brilliant unbeaten 114 for South Africa as they take
   on Netherlands in the women's T20 World Cup in Bristol.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-25T20:03:59Z'

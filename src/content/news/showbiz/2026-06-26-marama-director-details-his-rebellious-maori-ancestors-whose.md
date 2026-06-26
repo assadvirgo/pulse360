@@ -5,7 +5,7 @@ countryCode: NZ
 description: Writer-director Taratoa Stappard is an artist who tells stories of his
   lineage, and his latest film, &#8220;Mārama,&#8221; is a tribute to the ancestral
   women who risked it all to…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-26T02:33:41Z'

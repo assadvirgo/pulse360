@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz
   evacuation after ship struck.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-25T20:55:46Z'

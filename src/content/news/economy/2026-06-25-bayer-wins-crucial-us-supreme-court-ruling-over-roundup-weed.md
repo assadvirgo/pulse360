@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Justices overturn verdict that became basis for billions of dollars in
   claims over warnings of alleged cancer risk
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-25T16:05:17Z'

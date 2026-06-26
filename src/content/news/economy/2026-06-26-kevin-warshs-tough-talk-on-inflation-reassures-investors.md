@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New Fed chair’s hawkish words and the fall in oil drive down long-term
   expectations for price rises
-displayOrder: 10
+displayOrder: 15
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-26T04:00:33Z'
