@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Residents are trapped beneath rubble of collapsed buildings after two
   major quakes hit Venezuela, killing at least 235.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-25T22:00:02Z'

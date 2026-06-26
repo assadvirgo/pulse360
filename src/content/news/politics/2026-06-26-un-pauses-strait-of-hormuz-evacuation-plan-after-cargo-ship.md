@@ -4,7 +4,7 @@ country: Oman
 countryCode: OM
 description: The ship was reportedly struck by an "unknown projectile" near Oman but
   no casualties were reported.
-displayOrder: 21
+displayOrder: 43
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-26T00:28:02Z'

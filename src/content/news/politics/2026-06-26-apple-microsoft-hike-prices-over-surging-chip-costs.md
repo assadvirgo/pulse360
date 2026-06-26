@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tech giants roll out steep price increases amid shortage of memory chips
   used to power AI.
-displayOrder: 20
+displayOrder: 41
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-26T04:17:14Z'

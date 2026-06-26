@@ -2,7 +2,7 @@
 category: Politics
 description: Start-ups are taking fresh approaches to geothermal energy, but will
   the economics work?
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-25T23:05:05Z'

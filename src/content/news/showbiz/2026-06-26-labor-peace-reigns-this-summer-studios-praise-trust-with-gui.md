@@ -5,7 +5,7 @@ countryCode: US
 description: In a far, far cry from the severe strikes of three years ago, the studios
   and streamers tonight heaped nothing but praise and good will on the Hollywood guilds
   as the DGA became…
-displayOrder: 3
+displayOrder: 21
 heroImage: ''
 importance: 55.0
 pubDate: '2026-06-26T06:50:46Z'

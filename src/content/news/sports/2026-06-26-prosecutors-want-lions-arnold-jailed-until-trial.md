@@ -5,7 +5,7 @@ countryCode: US
 description: Lions cornerback Terrion Arnold, who is facing felony charges of armed
   robbery and kidnapping, appeared at a hearing Thursday in Tampa, Florida, and was
   ordered held without bail…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-26T01:21:38Z'

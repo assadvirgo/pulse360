@@ -2,7 +2,7 @@
 category: Politics
 description: 'Rising rents and prices outpacing wages provoke global debate: Is housing
   a basic right or an investment asset?'
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-26T08:36:52Z'

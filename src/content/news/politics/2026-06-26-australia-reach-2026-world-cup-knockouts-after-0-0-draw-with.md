@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The Socceroos finish second in Group D with four points and are through
   to the FIFA World Cup round of 32.
-displayOrder: 6
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-26T04:15:20Z'

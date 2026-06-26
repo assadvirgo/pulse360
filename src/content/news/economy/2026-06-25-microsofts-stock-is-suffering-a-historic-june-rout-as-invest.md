@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Those who owned Microsoft’s stock for the free-cash-flow profile now
   “are being asked to underwrite a capital-intensity cycle,” says an analyst.
-displayOrder: 31
+displayOrder: 48
 heroImage: ''
 importance: 59.5
 pubDate: '2026-06-25T20:51:00Z'

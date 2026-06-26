@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: A man who killed six people when he drove into crowds at a Christmas
   market in Germany has been sentenced to life in prison.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-26T06:14:00Z'

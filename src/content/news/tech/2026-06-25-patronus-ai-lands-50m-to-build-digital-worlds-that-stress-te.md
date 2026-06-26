@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Agent-testing startup Patronus AI, founded by former Meta AI researchers,
   is experiencing nearly insatiable demand, its investor says.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-25T20:19:25Z'

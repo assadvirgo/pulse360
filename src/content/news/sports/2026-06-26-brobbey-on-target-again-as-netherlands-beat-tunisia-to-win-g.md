@@ -5,7 +5,7 @@ countryCode: NL
 description: Brian Brobbey scores for the second game in a row as Netherlands defeat
   Tunisia 3-1 to top Group F, setting up a match against Morocco in the last 32 at
   the World Cup.
-displayOrder: 13
+displayOrder: 32
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-26T03:32:25Z'

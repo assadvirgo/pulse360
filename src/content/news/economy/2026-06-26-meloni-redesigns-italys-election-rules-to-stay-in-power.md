@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Opposition parties denounce ‘authoritarian’ attempt to tilt next year’s
   general elections in premier’s favour
-displayOrder: 19
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-26T04:00:33Z'

@@ -5,7 +5,7 @@ countryCode: EC
 description: Sebastian Beccacece was on the verge of losing his job as Ecuador head
   coach as the clock ticked down against Germany - now he has a last-32 match to look
   forward to.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-26T00:34:29Z'

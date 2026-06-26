@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Questions are being raised over the handling of cash, valuable jewellery,
   gold and silver offered by devotees.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-26T01:02:36Z'

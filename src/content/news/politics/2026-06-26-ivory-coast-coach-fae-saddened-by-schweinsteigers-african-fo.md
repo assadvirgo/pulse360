@@ -2,7 +2,7 @@
 category: Politics
 description: Former German player&#039;s comments that &#039;African football&#039;
   is ‘a bit unorthodox sometimes, a bit wild&#039; sparked controversy.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-26T01:55:56Z'

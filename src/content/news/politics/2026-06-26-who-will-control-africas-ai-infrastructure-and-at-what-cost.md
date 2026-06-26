@@ -2,7 +2,7 @@
 category: Politics
 description: Data centres and AI systems are expanding across Africa, bringing new
   pressure on energy and resources.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-26T00:53:33Z'

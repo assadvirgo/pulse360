@@ -5,7 +5,7 @@ countryCode: US
 description: FTSE Russell is undertaking its semi-annual rebalancing — what the index
   provider calls its reconstitution — and the size of the undertaking could impact
   markets, say analysts.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-26T04:47:00Z'

@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Rescue teams raced to find survivors and recover bodies after twin earthquakes
   rocked Venezuela on Wednesday.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T21:42:33Z'
