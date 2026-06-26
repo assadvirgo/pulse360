@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Down over 30% since the beginning of June, shares of Palantir just hit
   a new 52-week low
-displayOrder: 28
+displayOrder: 41
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-25T20:14:00Z'

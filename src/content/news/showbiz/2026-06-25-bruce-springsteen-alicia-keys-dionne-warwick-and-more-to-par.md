@@ -5,7 +5,7 @@ countryCode: US
 description: Clive Davis — the legendary record executive who died Monday at the age
   of 94 — cast as long a shadow across the music world as any executive, and participants
   in his funeral will…
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-25T21:39:20Z'

@@ -4,7 +4,7 @@ country: Ecuador
 countryCode: EC
 description: Germany finish top of Group E, with Ivory Coast second and Ecuador will
   have a chance of qualifying on third place.
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-25T22:21:22Z'

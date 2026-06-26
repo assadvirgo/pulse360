@@ -5,7 +5,7 @@ countryCode: US
 description: Since ABC launched an ad campaign earlier this week pushing back on the
   FCC&#8217;s crackdown on The View, more than 50,000 public comments have been filed
   with the agency, an…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-25T21:04:13Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Shafali Verma's 53 leads India to a five-wicket over Bangladesh at Old
   Trafford, setting up a must-win encounter against Australia on Sunday.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-25T17:03:53Z'

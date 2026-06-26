@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Attacks continue on the ground as Moscow expels Romania’s consul general
   in a tit-for-tat move.
-displayOrder: 30
+displayOrder: 46
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-25T17:12:34Z'

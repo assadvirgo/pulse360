@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: The twin quakes come less than six months after Venezuela's then-leader
   Nicolás Maduro was seized by US forces.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-25T13:09:58Z'

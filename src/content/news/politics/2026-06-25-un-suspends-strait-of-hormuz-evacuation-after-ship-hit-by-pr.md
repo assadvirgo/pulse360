@@ -2,7 +2,7 @@
 category: Politics
 description: The UN has halted the evacuation of thousands of seafarers in the Strait
   of Hormuz after a vessel came under a suspected attack.
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-25T18:47:00Z'

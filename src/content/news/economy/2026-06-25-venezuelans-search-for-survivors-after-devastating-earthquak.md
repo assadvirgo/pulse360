@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Officials put death toll at 188 but expect it to climb as victims are
   dug out of the rubble
-displayOrder: 34
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-25T23:33:12Z'

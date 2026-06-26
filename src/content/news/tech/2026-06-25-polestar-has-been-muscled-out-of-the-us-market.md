@@ -5,7 +5,7 @@ countryCode: US
 description: Polestar won't be allowed to sell its electric vehicles model year 2027
   and beyond in the US after the federal government denied the company's request for
   authorization under a…
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-25T17:58:37Z'

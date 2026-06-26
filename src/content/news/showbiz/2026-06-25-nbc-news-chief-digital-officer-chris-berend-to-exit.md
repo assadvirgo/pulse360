@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Berend a digital-media executives who has had a hand in helping
   to create new distribution platforms for NBC News journalism and properties including
   &#8220;Today,&#8221; is…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-25T20:01:48Z'

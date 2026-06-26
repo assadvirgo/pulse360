@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The court ruled that states cannot have differing labeling warning rules
   than federal law requires.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-25T15:31:00Z'

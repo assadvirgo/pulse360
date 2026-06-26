@@ -4,7 +4,7 @@ country: Chad
 countryCode: TD
 description: Fleeing scorched earth, Darfur’s mothers share harrowing tales of starvation
   and survival in Chad.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-25T16:13:49Z'

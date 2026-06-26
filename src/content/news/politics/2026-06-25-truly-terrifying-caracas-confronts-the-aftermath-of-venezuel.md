@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Devastated residents recall the moment when they experienced the twin
   earthquakes that toppled buildings and killed 188.
-displayOrder: 22
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-25T19:44:43Z'

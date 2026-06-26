@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US secretary of state tells Gulf Cooperation Council (GCC) states
   that the Iran deal will ensure their security.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-25T20:00:22Z'

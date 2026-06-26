@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The prediction market giant Polymarket said it's refunding users who
   had funds stolen due to a third-party breach.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-25T19:58:46Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US Treasury, commerce department and other government offices request
   limited distribution of GPT 5.6
-displayOrder: 42
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-26T00:17:06Z'
