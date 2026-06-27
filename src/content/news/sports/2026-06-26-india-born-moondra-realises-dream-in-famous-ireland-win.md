@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: India-born bowler Jai Moondra says helping Ireland claim a historic T20
   win over the world champions is a "dream come true".
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-26T20:26:03Z'

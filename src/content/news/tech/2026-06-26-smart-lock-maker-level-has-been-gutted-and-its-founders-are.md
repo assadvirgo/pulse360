@@ -5,7 +5,7 @@ countryCode: US
 description: Assa Abloy has laid off the majority of staff at Level Home, the smart
   lock company known for building smart tech into traditional-looking deadbolts, and
   is folding the business…
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-26T16:59:16Z'

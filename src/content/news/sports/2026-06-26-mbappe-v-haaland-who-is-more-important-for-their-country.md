@@ -5,7 +5,7 @@ countryCode: FR
 description: Two of the greatest forwards in world football will go head-to-head at
   Boston Stadium on Friday, as France and Kylian Mbappe take on Norway and Erling
   Haaland.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-06-26T07:27:37Z'

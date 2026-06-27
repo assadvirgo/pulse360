@@ -5,7 +5,7 @@ countryCode: US
 description: A bipartisan housing package appears once again close to becoming U.S.
   law, albeit with a delay after President Donald Trump canceled a signing ceremony
   for the legislation on…
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-26T20:14:00Z'

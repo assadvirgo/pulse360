@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says levy would supersede any trade deals Washington has
   with other capitals
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 70.5
 pubDate: '2026-06-26T19:37:37Z'

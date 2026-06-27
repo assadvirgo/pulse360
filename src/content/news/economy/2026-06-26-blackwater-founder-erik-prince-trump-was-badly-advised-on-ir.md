@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The mercenary-in-chief on facing public anger — and the role that private
   contractors will play in the future of war
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-26T11:33:41Z'

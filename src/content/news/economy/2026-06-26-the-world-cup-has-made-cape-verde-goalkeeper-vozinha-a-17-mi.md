@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: As Cape Verde faces off against Saudi Arabia tonight, here’s a look at
   what could be next for the breakout World Cup star.
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 40.5
 pubDate: '2026-06-26T19:47:00Z'

@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: President says his country will readmit genuine nationals but insists
   Europe must first verify deportees&#039; identities.
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-26T15:18:02Z'

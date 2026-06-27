@@ -5,7 +5,7 @@ countryCode: US
 description: I can understand why The Verge readers are flocking to the BirdBuddy
   deal we posted at the beginning of Prime Day. The BirdBuddy Pro with Solar Panels
   is a wholesome upgrade for…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-26T17:56:25Z'

@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Kinshasa accuses its neighbour of committing various violations since
   the 1994 Rwanda genocide.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-26T17:05:22Z'
