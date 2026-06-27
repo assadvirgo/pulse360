@@ -5,7 +5,7 @@ countryCode: IN
 description: K. Bhagyaraj, the writer-director-actor widely regarded as one of Tamil-language
   cinema&#8217;s defining creative figures, died Saturday in Chennai following a cardiac
   arrest. He…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-06-27T11:47:43Z'

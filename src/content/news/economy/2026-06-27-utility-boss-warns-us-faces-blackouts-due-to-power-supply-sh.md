@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Exelon chief executive says electricity bill increases are necessary
   to fund infrastructure to support AI boom
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-27T04:00:34Z'

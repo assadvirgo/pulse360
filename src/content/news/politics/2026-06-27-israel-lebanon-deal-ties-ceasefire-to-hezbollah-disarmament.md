@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hezbollah chief calls the deal &#039;null and void&#039;, raising questions
   if the latest agreement can lead to peace in Lebanon.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-27T13:54:14Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As a war-damaged president faces midterms, a battle looms for the future
   of US conservatism that the hard right is well placed to win
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-27T04:00:34Z'

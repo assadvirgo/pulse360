@@ -5,7 +5,7 @@ countryCode: US
 description: Kai Wright is the co-host of Stateside with Kai and Carter over at the
   Guardian. But Wright has been bringing his unique insights to listeners for years.
   He's also hosted Notes…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 72.2
 pubDate: '2026-06-27T15:15:00Z'

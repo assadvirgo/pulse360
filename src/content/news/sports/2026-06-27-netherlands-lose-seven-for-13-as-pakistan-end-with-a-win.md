@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Pakistan end a disappointing T20 World Cup campaign in style, beating
   winless Netherlands by 37 runs.
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-27T13:12:48Z'

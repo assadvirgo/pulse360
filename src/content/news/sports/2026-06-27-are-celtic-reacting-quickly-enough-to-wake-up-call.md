@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Have Celtic learned lessons from last season as Martin O'Neill sounds
   "wake-up call" warning?
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-27T13:58:59Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: England lose three wickets for eleven runs as Joe Root, Jacob Bethell
   and Jamie Smith are dismissed early on day three of the third Test against New Zealand
   at Trent Bridge.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-27T11:17:01Z'

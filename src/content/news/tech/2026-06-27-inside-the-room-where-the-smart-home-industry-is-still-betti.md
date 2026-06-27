@@ -5,7 +5,7 @@ countryCode: NL
 description: Four years ago, overlooking a canal in Amsterdam, the smart home industry
   collectively launched Matter, the one interoperability standard to rule them all.
   Heralded as the…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-27T13:00:00Z'

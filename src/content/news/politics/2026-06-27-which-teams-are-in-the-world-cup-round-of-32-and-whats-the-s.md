@@ -2,7 +2,7 @@
 category: Politics
 description: Cape Verde&#039;s stunning debut headlines the team list for the World
   Cup knockouts, which begin on Sunday in Los Angeles.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T05:56:01Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: A modern-day gold rush is giving a big boost to U.S. GDP.
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-27T13:00:00Z'

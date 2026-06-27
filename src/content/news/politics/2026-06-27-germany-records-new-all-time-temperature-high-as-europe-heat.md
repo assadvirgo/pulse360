@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Several countries, including the UK and Germany, have posted record June
   temperatures, with deaths reported in France.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T08:09:47Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The equal-weighted version of the S&amp;P 500 outperformed its traditional
   capitalization-weighted sibling this week by the widest margin in six years.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-27T11:30:00Z'

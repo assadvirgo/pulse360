@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sweeping victories by progressives expose divisions over how party takes
   on Trump in November’s elections
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-27T11:00:01Z'

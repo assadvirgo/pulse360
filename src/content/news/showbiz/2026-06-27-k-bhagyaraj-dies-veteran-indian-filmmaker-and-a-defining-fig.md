@@ -5,7 +5,7 @@ countryCode: IN
 description: K. Bhagyaraj, the Indian filmmaker and actor who held a central place
   in Tamil-language cinema, died today in Chennai following a heart attack. He was
   73. India&#8217;s Vice…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-27T12:45:33Z'

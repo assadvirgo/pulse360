@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kohl's went from a household name to a plunging stock as it lost relevancy
   and its core customer. Now, the company is trying to turn itself around.
-displayOrder: 39
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-27T12:00:01Z'

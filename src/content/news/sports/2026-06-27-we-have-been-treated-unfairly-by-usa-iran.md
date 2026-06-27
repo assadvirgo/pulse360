@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran coach Amir Ghalenoei says his nation have been treated unfairly
   by the United States during the World Cup
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-27T11:14:31Z'

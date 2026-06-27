@@ -2,7 +2,7 @@
 category: Tech
 description: New models are launching in Asia that promise Mythos-like capabilities
   without fear of an export ban. U.S. AI labs may never recover this enormous market.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-27T12:00:00Z'

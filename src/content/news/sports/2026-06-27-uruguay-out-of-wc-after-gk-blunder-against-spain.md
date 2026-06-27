@@ -5,7 +5,7 @@ countryCode: UY
 description: Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA
   World Cup group stage final after his blunder in the first half gifted Spain the
   lead at Estadio Akron on…
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-27T12:06:33Z'
