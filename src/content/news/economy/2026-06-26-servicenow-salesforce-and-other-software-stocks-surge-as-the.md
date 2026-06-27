@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oracle’s stock missed out on the broader software rally, as the company
   is tied to OpenAI’s success through its cloud-infrastructure business.
-displayOrder: 39
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-26T22:09:00Z'

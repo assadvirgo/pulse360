@@ -2,7 +2,7 @@
 category: Sports
 description: For Pakistan and Netherlands, it's one final opportunity to end their
   campaigns on a positive note
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-26T21:25:05Z'

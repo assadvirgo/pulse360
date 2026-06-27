@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Senegal currently hold the fifth-best record of third-place teams based
   on their plus-2 goal differential.
-displayOrder: 21
+displayOrder: 30
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-26T22:05:09Z'

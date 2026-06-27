@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Supreme Court allows Trump to end protected status for Haiti and Syria,
   threatening family separation say advocates.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-26T18:33:04Z'

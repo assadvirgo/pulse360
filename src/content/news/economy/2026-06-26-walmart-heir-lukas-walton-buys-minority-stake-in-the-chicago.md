@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton.
   He and Samantha Walton are residents of Chicago.
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-26T20:12:31Z'

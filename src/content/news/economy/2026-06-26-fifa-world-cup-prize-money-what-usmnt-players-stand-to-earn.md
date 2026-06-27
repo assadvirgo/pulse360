@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The U.S. men’s national soccer team has advanced to the Round of 32 —
   increasing their prize payout.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-26T16:21:00Z'

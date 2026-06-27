@@ -5,7 +5,7 @@ countryCode: US
 description: The Coalition of Asian Pacifics in Entertainment (CAPE) has announced
   its Emerging Executives Committee for 2026. The initiative, known as CEEC, will
   be supported by The Asian…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-26T18:35:00Z'

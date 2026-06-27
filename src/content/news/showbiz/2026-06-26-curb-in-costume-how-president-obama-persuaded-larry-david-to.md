@@ -5,7 +5,7 @@ countryCode: US
 description: Imagine, for a second, that Thomas Jefferson didn’t write the first draft
   of the Declaration of Independence. Larry David can. David, dressed in layered woolen
   and cravats, kicks…
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-26T22:40:00Z'

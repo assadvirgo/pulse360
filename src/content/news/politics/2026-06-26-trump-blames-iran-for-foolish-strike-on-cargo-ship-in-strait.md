@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fragile US-Iran ceasefire tested as drone strike off Oman draws stern
   warning from the US president.
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 81.5
 pubDate: '2026-06-26T19:26:16Z'

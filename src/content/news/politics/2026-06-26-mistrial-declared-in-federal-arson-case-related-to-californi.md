@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New trial set to take place in October after jury fails to reach decision
   in closely-watched case on Palisades Fire.
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-26T20:51:08Z'

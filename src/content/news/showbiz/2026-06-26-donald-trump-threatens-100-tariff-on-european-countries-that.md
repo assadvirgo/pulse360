@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump threatened a 100% tariff on European countries that impose
   a digital services tax, as the president once again came to the defense of American
   tech giants that have…
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 65.0
 pubDate: '2026-06-26T18:36:56Z'

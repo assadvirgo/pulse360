@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: War-risk premiums narrowed considerably in recent days but could increase
   again.
-displayOrder: 23
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-26T21:06:00Z'

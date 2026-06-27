@@ -5,7 +5,7 @@ countryCode: US
 description: The Academy of Country Music Awards has set its 2027 date. The ACMs and
   Dick Clark Productions announced that the 62nd ACM Awards will return to the MGM
   Grand Garden Arena in Las…
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 56.0
 pubDate: '2026-06-27T00:22:07Z'

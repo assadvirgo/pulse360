@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Warwickshire provide arguably the shock of this season's Women's T20
   Blast as they move off bottom spot by beating high-flying Surrey.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-26T19:08:44Z'
