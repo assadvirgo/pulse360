@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: A viral World Cup campaign tapped into a familiar conversation among
   Egyptian football fans, prompting debate.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-06-26T17:55:06Z'

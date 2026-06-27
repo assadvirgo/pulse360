@@ -5,7 +5,7 @@ countryCode: GB
 description: Scotland's T20 World Cup campaign ends in a thrilling final-over defeat
   by Sri Lanka at Old Trafford. Sarah Bryce's unbeaten 47 runs helps Scotland to 151-6,
   but Sri Lanka win by…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-06-26T21:47:06Z'

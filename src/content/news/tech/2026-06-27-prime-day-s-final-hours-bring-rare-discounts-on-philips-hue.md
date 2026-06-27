@@ -5,7 +5,7 @@ countryCode: US
 description: Philips Hue products don&#8217;t often see major discounts, which makes
   this year&#8217;s Prime Day deals especially notable. Prices have dropped significantly
   across much of the…
-displayOrder: 20
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-27T00:20:50Z'

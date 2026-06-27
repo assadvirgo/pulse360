@@ -4,7 +4,7 @@ country: Burkina Faso
 countryCode: BF
 description: The military government, in power since 2022 coup, accused France of
   having &#039;neo-colonial ambitions&#039;.
-displayOrder: 31
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-26T21:10:10Z'

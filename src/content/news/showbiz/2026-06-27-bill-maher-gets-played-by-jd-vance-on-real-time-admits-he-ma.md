@@ -5,7 +5,7 @@ countryCode: US
 description: On Thursday, Vice President JD Vance paid a visit to the Nixon Presidential
   Library and Museum in California and, as is his wont, put his foot squarely in his
   mouth. The…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-27T03:02:05Z'

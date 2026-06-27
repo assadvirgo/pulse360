@@ -5,7 +5,7 @@ countryCode: US
 description: We’ve arrived at the final day of Prime Day, which at this point should
   probably be called “Prime Week.” We’ve found discounts on all manner of gadgets,
   including TVs, smart home…
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 60.2
 pubDate: '2026-06-27T02:54:45Z'

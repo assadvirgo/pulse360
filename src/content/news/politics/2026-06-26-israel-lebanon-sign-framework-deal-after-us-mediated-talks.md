@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: US Secretary of State Marco Rubio announced a US-mediated framework agreement
   between Israel and Lebanon.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-26T19:05:24Z'

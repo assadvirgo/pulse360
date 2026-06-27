@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Usyk, who had held the WBA, WBC and IBF belts, has been the world undisputed
   cruiserweight and heavyweight champion.
-displayOrder: 15
+displayOrder: 23
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-26T22:39:35Z'
