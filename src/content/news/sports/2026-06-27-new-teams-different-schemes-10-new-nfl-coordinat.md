@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ben Solak identifies 10 new coordinators with a lot at stake this season,
   including the man tasked with repairing the Cowboys' defense.
-displayOrder: 9
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T05:22:42Z'

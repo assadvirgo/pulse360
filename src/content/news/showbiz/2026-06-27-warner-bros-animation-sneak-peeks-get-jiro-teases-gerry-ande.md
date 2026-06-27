@@ -5,7 +5,7 @@ countryCode: FR
 description: Warner Bros. Animation, hugely active this year at Annecy, unveiled Friday
   at Annecy a new &#8220;Dark Shadows&#8221; animated series,&#160; confirming the
   studio&#8217;s push in…
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-27T08:32:34Z'

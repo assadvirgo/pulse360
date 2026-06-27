@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hezbollah is not party to Friday's agreement, and previous ceasefires
   between Israel and Lebanon have still seen near-daily cross-border strikes.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 63.2
 pubDate: '2026-06-26T22:55:28Z'

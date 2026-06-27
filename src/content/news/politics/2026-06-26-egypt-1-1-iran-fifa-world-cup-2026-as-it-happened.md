@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Live updates, score and commentary stream as Mohamed Salah&#039;s Egypt
   play Iran in the final group match in Seattle.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-26T22:57:35Z'

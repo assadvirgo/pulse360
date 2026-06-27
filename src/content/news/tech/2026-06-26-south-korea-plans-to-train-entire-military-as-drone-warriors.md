@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Half-million strong military will train on drones as “universal combat
   tool.”
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-26T22:19:05Z'

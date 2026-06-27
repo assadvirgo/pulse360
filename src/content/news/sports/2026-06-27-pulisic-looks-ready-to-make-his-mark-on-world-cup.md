@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'Christian Pulisic''s performance vs. Türkiye mirrored that of his team:
   The beginning was terrific. The ending stunk.'
-displayOrder: 6
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T05:38:21Z'

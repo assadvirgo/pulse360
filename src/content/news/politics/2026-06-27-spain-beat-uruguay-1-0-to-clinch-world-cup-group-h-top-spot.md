@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain wins World Cup group, beating Uruguay 1-0 as Fernando Muslera’s
   error sends two-time champions home.
-displayOrder: 13
+displayOrder: 33
 heroImage: ''
 importance: 55.5
 pubDate: '2026-06-27T02:56:16Z'

@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: Cape Verde&#039;s third draw gives them a second-place finish in Group
   H and pits them against the world champions in the knockouts.
-displayOrder: 8
+displayOrder: 29
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-27T02:28:37Z'

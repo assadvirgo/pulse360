@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Move eases tension with AI lab but unease over Washington’s ad hoc regulatory
   approach remains
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-27T00:37:57Z'

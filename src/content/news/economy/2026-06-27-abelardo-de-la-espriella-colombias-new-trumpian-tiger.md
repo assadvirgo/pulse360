@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: The firebrand criminal lawyer has won the presidency, vowing to crush
   drug traffickers like cockroaches
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-27T04:00:45Z'

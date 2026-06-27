@@ -5,7 +5,7 @@ countryCode: IR
 description: Shoja Khalilzadeh's goal is ruled out by VAR in injury-time denying Iran
   automatic qualification into the round of 32, meaning they will have to wait on
   other results to see if…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-27T05:45:25Z'
