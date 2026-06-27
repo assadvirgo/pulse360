@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US has struck Iran in retaliation for what it says was an Iranian
   attack on a ship in the Strait of Hormuz.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-27T00:16:58Z'

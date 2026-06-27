@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Washington says ‘unwarranted aggression against commercial shipping’
   violated ceasefire between adversaries
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-27T08:06:11Z'

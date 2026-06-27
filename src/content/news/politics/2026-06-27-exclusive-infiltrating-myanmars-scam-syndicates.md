@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: 101 East goes undercover to expose the playbook of Myanmar’s notorious
   scam industry.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-27T11:30:00Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Vehicle was at airfield from where aircraft that hit Citic Tower took
   off
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-27T04:53:56Z'

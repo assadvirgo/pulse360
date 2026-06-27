@@ -3,7 +3,7 @@ category: Tech
 description: 'What''s the Password? has a simple concept: To solve each of the game''s
   more than 100 puzzles, you have to type in the right four-digit password on a number
   pad. That might sound…'
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-27T12:00:00Z'

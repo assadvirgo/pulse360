@@ -3,7 +3,7 @@ category: Tech
 description: Hi, friends! Welcome to Installer No. 134, your guide to the best and
   Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in
   all this heat, and also you…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-27T12:00:00Z'

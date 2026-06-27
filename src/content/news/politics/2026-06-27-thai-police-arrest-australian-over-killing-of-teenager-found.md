@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Suspect was stopped at Bangkok&#039;s main airport as he allegedly tried
   to fly home.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T08:13:05Z'

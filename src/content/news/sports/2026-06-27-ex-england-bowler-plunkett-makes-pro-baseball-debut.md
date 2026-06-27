@@ -5,7 +5,7 @@ countryCode: US
 description: Former England fast bowler Liam Plunkett trades the cricket field for
   the baseball diamond as he makes his professional debut for a minor league team
   in the United States.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-27T06:33:19Z'

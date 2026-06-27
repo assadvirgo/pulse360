@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Cash-strapped country to become one of the world’s largest to offer citizenship-by-investment
   under President Javier Milei
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-27T04:00:23Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: As summer temperatures soar, it makes no sense — sartorially or environmentally
   — to stick with long trousers
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-06-27T04:00:34Z'
