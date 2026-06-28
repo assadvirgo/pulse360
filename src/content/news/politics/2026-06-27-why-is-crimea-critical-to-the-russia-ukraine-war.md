@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv
   tries to pressure Moscow into ending the war.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T19:22:00Z'

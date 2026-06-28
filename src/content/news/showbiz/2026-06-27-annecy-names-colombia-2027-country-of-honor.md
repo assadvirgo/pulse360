@@ -5,7 +5,7 @@ countryCode: CO
 description: The most prominent animation festival in the world, Annecy, has named
   Colombia as its Country of Honor next year, a significant nod to the South American
   nation’s burgeoning…
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-27T20:23:23Z'

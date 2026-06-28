@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Six found and one missing, NGOs say, after arrests at memorial gatherings
   for protesters killed in 2024.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T18:46:23Z'

@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: The latest quake comes as rescuers are still searching for survivors
   of the twin 7.2 and 7.5 earthquakes on Wednesday.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-27T19:38:14Z'

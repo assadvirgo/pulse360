@@ -5,7 +5,7 @@ countryCode: CD
 description: DR Congo set up a World Cup last-32 meeting with England by reaching
   the knockouts for the first time as they come from behind to beat Uzbekistan in
   their final group-stage game.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-28T02:23:19Z'

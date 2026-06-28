@@ -3,7 +3,7 @@ category: Politics
 country: Serbia
 countryCode: RS
 description: Vucic is under ⁠pressure after months ⁠of antigovernment protests.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-27T20:23:44Z'

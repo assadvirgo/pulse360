@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: Instagram users could soon see more ways to tune their content.
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 46.0
 pubDate: '2026-06-27T21:27:37Z'

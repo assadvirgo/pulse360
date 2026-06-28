@@ -5,7 +5,7 @@ countryCode: US
 description: Mark Thompson, CNN's editor-in-chief, reportedly told Paramount officials
   he would not share oversight of CNN with another executive, according to The New
   York Times.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-28T00:13:14Z'

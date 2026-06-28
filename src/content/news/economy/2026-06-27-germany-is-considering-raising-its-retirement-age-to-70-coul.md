@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Germany may gradually raise its retirement age to 70 by 2092 — but such
   a move would fix only part of Social Security’s funding gap.
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-27T19:30:00Z'

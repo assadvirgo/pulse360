@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican Senator Dan Sullivan has sought to have a namesake primary
   challenger removed, citing midterm confusion.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T19:05:26Z'

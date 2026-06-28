@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England earned a 2-0 win over Panama and topped Group L, but only after
   an almost painful first-half bereft of clear-cut chances.
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-28T00:45:52Z'

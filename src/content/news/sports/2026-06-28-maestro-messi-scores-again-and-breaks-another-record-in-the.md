@@ -5,7 +5,7 @@ countryCode: AR
 description: Lionel Messi comes off the bench to score his sixth goal of the 2026
   World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to
   score in seven World Cup…
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 50.2
 pubDate: '2026-06-28T04:06:58Z'

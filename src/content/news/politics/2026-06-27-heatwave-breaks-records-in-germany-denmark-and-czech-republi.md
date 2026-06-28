@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: An estimated 150 million people are now experiencing temperatures of
   over 35C across Europe.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-27T20:48:16Z'

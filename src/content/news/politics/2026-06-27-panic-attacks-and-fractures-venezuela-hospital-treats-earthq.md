@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: The BBC travelled to a Caracas hospital that is treating people from
   the worst affected areas.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-27T21:33:12Z'

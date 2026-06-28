@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: All the updates from a lively but goalless game, as Colombia top Group
   K, while Portugal finish second.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-27T20:30:00Z'
