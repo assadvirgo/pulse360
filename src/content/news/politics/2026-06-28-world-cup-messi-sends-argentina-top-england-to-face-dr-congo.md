@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Lionel Messi scored his sixth goal of the 2026 World Cup, Harry Kane
   sent England top of their group, and Iran exited.
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-28T05:09:04Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: London-based buyout group is looking beyond its traditional speciality
   in corporate buyouts
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-27T20:00:33Z'

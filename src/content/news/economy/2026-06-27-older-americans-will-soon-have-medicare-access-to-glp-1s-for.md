@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starting July 1, Medicare beneficiaries who qualify can get weight-loss
   drugs for $50 a month. They should consider the side effects and muscle loss.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-27T19:30:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The attacks come after an alleged Iranian drone struck another commercial
   vessel in the Strait of Hormuz on Saturday.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-27T22:07:03Z'

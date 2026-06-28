@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Thousands of forgotten news reports are reshaping our understanding of
   Aurangzeb and the Mughal world.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-27T23:40:43Z'

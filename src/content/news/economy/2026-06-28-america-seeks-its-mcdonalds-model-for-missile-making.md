@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Defence groups are developing modular workshops that can mass-produce
   cheap missiles during wartime
-displayOrder: 32
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-28T04:00:09Z'

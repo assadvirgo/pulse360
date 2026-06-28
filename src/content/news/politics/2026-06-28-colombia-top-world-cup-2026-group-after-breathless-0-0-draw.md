@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Colombia book last 32 clash with Ghana, while Portugal will face Croatia
   in the first knockout stage.
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-28T01:52:39Z'

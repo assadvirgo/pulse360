@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Anger is mounting in Venezuela after the military barred citizens from
   entering zones devastated by the earthquakes.
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-28T00:09:46Z'

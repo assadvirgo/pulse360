@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Who will face who in last 32 of World Cup?
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-28T08:51:00Z'

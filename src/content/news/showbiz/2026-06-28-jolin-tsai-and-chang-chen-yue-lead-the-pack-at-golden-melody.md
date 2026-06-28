@@ -5,7 +5,7 @@ countryCode: TW
 description: Taipei Arena erupted on Saturday night as the 37th Golden Melody Awards
   – the Grammys of the Mandarin pop world – delivered one of its most memorable ceremonies,
   with pop titan…
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-28T08:48:28Z'

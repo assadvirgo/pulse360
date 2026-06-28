@@ -5,7 +5,7 @@ countryCode: FR
 description: “The Violinist” beat out major competition at Annecy, such as “In Waves,”
   “Viva Carmen” and “Iron Boy,” all already big hits at Cannes, to win on Saturday
   the biggest festival…
-displayOrder: 34
+displayOrder: 45
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-27T20:00:12Z'

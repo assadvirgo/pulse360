@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: The death toll from Venezuela’s twin earthquakes has reached 1,430, with
   an estimated 51,000 people still missing.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-28T05:51:38Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Trust in specialists is growing 10 years after Brexit but employers still
   need more of them
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-28T04:00:19Z'

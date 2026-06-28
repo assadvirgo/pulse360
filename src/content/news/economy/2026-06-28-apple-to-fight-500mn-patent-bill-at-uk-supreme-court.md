@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Battle over licensing of mobile connection protocols could shape global
   rates for other technologies
-displayOrder: 39
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-28T04:00:27Z'

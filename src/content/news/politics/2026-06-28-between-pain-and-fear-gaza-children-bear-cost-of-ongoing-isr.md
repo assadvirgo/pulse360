@@ -2,7 +2,7 @@
 category: Politics
 description: Suffering of Gaza&#039;s children continues unabated due to Israeli attacks
   despite &#039;ceasefire&#039; reached in October 2025.
-displayOrder: 2
+displayOrder: 3
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-28T07:39:08Z'
