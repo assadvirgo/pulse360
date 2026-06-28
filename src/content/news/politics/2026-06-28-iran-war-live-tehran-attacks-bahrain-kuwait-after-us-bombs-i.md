@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: President Trump threatens to &#039;militarily complete the job&#039;
   as the US strikes Sirik and Qeshm Island over ship attacks.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-28T00:00:00Z'

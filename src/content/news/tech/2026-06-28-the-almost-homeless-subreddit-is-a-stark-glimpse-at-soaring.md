@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As the billionaire class gets richer, the growing online community is
   offering tips on how to survive with very little.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-28T11:00:00Z'

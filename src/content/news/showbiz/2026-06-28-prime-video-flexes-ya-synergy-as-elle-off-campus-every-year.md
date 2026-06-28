@@ -5,7 +5,7 @@ countryCode: US
 description: Prime Video&#8217;s Obsessed Fest fan event at nya Studios in Los Angeles
   was for the fangirls, and it’s evident that the streamer has begun to create its
   own ecosystem of…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 39.0
 pubDate: '2026-06-28T04:30:00Z'

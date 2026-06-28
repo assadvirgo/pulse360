@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: CEO Tufan Erginbilgiç is seeking state backing for an engine it hopes
   will power the next generation of narrow-body jets
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-06-28T04:00:09Z'

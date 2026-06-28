@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Students in Kenya say mother tongue improves learning, but English still
   dominates education and work.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-28T05:24:21Z'

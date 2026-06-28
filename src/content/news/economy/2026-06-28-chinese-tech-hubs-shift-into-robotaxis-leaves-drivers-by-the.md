@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Shenzhen expands driverless vehicles as growing automation drive threatens
   gig economy workforce
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-28T02:53:30Z'

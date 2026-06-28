@@ -2,7 +2,7 @@
 category: Politics
 description: The New Zealand public broadcaster reports that about 2,500 police officers
   were deployed to secure and monitor polling stations.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-28T07:12:10Z'

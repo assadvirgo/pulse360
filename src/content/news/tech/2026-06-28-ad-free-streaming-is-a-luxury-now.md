@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more news about the streaming industry, follow Emma
   Roth. The Stepback arrives…
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 45.2
 pubDate: '2026-06-28T12:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Magic have waived forward Jonathan Isaac, which will save Orlando
   $6.5 million, according to ESPN's Bobby Marks.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-28T06:37:51Z'

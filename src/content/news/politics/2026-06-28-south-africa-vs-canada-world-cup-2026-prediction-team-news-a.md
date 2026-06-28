@@ -2,7 +2,7 @@
 category: Politics
 description: Neither South Africa nor Canada has reached the knockout rounds of a
   World Cup before, but now a last-16 place awaits.
-displayOrder: 13
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-28T08:04:33Z'

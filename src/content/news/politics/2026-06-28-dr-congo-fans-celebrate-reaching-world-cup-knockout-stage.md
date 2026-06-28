@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: DR Congo fans are celebrating after their team secured a historic place
   in the World Cup knockout stage.
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-28T07:52:28Z'

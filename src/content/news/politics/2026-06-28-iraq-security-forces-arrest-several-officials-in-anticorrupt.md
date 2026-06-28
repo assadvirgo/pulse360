@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Large-scale operation carried out at dawn in Green Zone and several neighbourhoods
   in Baghdad, security source says.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-28T10:05:16Z'

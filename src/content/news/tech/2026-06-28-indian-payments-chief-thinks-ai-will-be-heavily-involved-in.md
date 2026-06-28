@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Dilip Asbe said that newer UPI apps could be more competitive with a
   viable commercial model
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-06-28T05:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a
   second day of US strikes on Iran.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-28T10:30:45Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “In many states, Social Security benefits are exempt from state income
   tax.”
-displayOrder: 35
+displayOrder: 40
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-28T11:00:00Z'
