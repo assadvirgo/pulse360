@@ -5,7 +5,7 @@ countryCode: VE
 description: There is a sense that the next few hours will be critical for saving
   anyone who is still trapped, says the BBC's Dan Johnson reporting from the border
   of Venezuela and Columbia.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-27T18:41:03Z'

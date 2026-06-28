@@ -5,7 +5,7 @@ countryCode: SE
 description: Teenage Engineering has already issued multiple substantial updates for
   its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest
   yet. OS 2.5 adds audio…
-displayOrder: 20
+displayOrder: 28
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-27T21:20:32Z'

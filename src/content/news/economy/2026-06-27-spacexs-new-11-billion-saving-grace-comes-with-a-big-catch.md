@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company’s pivot toward offering hardware access to rivals could hamstring
   its own AI goals.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-27T12:00:00Z'

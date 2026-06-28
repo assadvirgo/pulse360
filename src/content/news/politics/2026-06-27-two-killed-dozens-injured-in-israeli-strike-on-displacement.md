@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Two killed and dozens injured in Israeli strike on displacement tents
   in Gaza
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-27T18:50:59Z'

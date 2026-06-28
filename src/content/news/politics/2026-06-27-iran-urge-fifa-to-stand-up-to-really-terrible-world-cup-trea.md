@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran, who played their three group-stage matches at World Cup 2026, now
   face a wait to know if they will reach last 32.
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-27T18:30:26Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: San Francisco holds a special place in Colman Domingo’s heart. He called
   it home from 1991 to 2001 and it’s where “I became of age as an artist,” he says.
   It’s only fitting that…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-27T17:45:00Z'

@@ -5,7 +5,7 @@ countryCode: KR
 description: South Korea's Ina Yoon admits being nervous as she lets a five-shot lead
   slip as Haeran Ryu moves two shots clear heading into the final round of the Women's
   PGA Championship.
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-27T22:56:42Z'

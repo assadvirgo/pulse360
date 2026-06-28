@@ -3,7 +3,7 @@ category: Economy
 country: Germany
 countryCode: DE
 description: Threat to industrial model of Europe’s largest economy mounts
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-27T11:00:00Z'

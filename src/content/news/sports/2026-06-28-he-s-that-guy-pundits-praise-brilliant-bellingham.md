@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC Sport World Cup pundits Micah Richards and Wayne Rooney praise Jude
   Bellingham's "desire and hunger" to perform on the biggest stage, after the England
   midfielder produces a…
-displayOrder: 3
+displayOrder: 5
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-28T00:15:37Z'

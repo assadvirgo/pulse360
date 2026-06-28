@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: Cape Verde set sights on Lionel Messi&#039;s Argentina in last 32 as
   dream run continues at 2026 edition of FIFA&#039;s showpiece.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-27T14:07:12Z'

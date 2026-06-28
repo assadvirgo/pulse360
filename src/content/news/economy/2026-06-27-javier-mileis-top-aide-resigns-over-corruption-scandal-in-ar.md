@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Allegations against cabinet chief Manuel Adorni have engulfed libertarian
   government for months
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-27T22:22:39Z'
