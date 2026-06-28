@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Moscow&#039;s attacks are reported to have killed two, while Kyiv&#039;s
   attacks on Russia killed one.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-27T11:58:54Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The long-shot proposal would guarantee some cost protection to all people
   with Medicare.
-displayOrder: 45
+displayOrder: 46
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-27T19:30:00Z'

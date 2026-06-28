@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Germany, Denmark and the Czech republic are among the countries recording
   new all-time high temperatures.
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-27T20:08:45Z'

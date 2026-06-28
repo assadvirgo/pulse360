@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Who was the best value pick? Why were there so few trades in Round 1
   of the draft? And who will win Rookie of the Year? We answered 13 questions.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-27T12:18:19Z'

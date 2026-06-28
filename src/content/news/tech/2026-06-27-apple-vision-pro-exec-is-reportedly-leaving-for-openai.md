@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Paul Meade, the Apple vice president in charge of the Vision Pro headset,
   is reportedly leaving the company to join OpenAI’s hardware team.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-27T16:45:09Z'

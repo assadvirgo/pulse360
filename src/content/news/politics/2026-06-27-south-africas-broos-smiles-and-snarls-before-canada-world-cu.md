@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa and Canada are both competing in the knockout stages of
   a World Cup for the first time.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-27T18:55:14Z'

@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Police say four attackers were also killed after gunmen stormed a Rangers
   facility in country&#039;s commercial capital.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-27T17:04:34Z'

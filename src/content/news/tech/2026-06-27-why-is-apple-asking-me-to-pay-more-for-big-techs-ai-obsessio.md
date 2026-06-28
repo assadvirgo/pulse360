@@ -5,7 +5,7 @@ countryCode: US
 description: Tim Cook recently said price increases were "unavoidable" and described
   the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price
   go up by $300. The 11-inch…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-27T13:30:00Z'

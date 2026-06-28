@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s Prime Minister Benjamin Netanyahu faces mounting political,
   legal and US pressure ahead of crucial elections.
-displayOrder: 15
+displayOrder: 36
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-27T10:35:08Z'

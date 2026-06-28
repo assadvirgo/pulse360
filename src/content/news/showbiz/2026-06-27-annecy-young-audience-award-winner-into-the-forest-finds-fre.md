@@ -5,7 +5,7 @@ countryCode: CH
 description: Swiss filmmaker Antonin Niclass brings imagination to life in &#8220;Into
   the Forest,&#8221; a stop-motion short which won Friday the Young Audience Award
   at the Annecy Animation…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-06-27T11:18:53Z'

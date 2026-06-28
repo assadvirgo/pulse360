@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “They say I made $43,000 in 2019, but I actually made that in 2020.”
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-27T19:30:00Z'

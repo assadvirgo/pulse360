@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I raised my children there as a single mother, and it was the last home
   my son lived in before he passed away unexpectedly.”
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-27T15:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Arizona residents have campaigned against state’s data centres as they
   seek a share of the shrinking water supply.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-27T15:11:37Z'
