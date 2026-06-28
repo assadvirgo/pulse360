@@ -3,7 +3,7 @@ category: Tech
 description: I've seen lots of so-called "smart" bike locks over the years, but none
   so far could justify the added cost. A newcomer that got its start securing ATMs
   for banks is trying to…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-28T07:00:00Z'

@@ -5,7 +5,7 @@ countryCode: DE
 description: Prime Video has revealed the cast of its German-language original series
   “Superior,” which is set in the world&#8217;s best hotel management school. Filming
   is underway in Bavaria…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-06-28T13:00:00Z'

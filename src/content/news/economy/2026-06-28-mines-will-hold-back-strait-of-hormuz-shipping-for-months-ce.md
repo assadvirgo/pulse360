@@ -2,7 +2,7 @@
 category: Economy
 description: NYK’s Takaya Soga says safe routes are ‘extremely limited’, restricting
   traffic to half prewar levels
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-28T04:00:09Z'

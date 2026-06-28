@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Authorities say pilot and all 10 ⁠passengers - ​five students ⁠and five
   instructors - died in the accident in Tomblaine.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-28T11:52:44Z'

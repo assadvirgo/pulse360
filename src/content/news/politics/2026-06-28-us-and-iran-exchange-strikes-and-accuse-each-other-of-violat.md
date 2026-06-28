@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran says it has launched retaliatory attacks at US infrastructure in
   Kuwait and Bahrain after the US said it hit multiple targets across Iran.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 76.2
 pubDate: '2026-06-28T04:54:50Z'

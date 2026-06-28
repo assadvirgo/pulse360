@@ -2,7 +2,7 @@
 category: Economy
 description: Weak returns could trigger a sharp pullback in funding for tech companies
   that threatens the global economy
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-28T09:00:07Z'

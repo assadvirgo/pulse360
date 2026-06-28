@@ -5,7 +5,7 @@ countryCode: US
 description: The founding story of Nest is pretty much a perfect tech myth. A legendary
   product maker (in this case, Tony Fadell) helps create one of the most successful
   products ever (the…
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-28T12:02:44Z'

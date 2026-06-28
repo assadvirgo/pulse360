@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa stutter but apply the pressure to India in the race for
   the T20 World Cup semi-finals by beating Bangladesh at Lord's
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-28T12:52:46Z'

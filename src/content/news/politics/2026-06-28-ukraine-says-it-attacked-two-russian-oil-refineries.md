@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: At least two killed in drone attacks, Russian authorities say, as Ukraine
   continues to target energy facilities.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-28T13:36:15Z'

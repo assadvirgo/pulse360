@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Supergirl&#8221; is struggling to take flight at the box office.
   The comic book adaptation, a space adventure revolving around Superman&#8217;s cousin,
   debuted to a…'
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 61.8
 pubDate: '2026-06-28T15:27:45Z'

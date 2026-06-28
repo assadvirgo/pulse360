@@ -5,7 +5,7 @@ countryCode: US
 description: Jonathan Rinderknecht was facing arson charges for setting a fire on
   New Year's Day in 2025, which became one of the deadliest wildfires in LA history.
   To make their case,…
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-06-28T14:12:06Z'

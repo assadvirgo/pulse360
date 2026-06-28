@@ -5,7 +5,7 @@ countryCode: US
 description: After Alannah Keyser was dumped from the villa, the Love Island USA star
   took to social media to address her past racist posts. On Saturday, Keyser apologized
   in a TikTok video to…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-06-28T15:38:55Z'

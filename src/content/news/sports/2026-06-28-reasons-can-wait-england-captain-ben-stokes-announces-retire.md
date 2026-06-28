@@ -5,7 +5,7 @@ countryCode: GB
 description: Watch the moment England captain Ben Stokes tells his teammates that
   he will be retiring from Test cricket at the conclusion of the third and final Test
   against New Zealand at…
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-28T15:19:49Z'
