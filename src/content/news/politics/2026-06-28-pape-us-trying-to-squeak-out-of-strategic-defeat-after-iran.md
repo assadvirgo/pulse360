@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Political scientist Robert Pape argues the fallout of Iran war curbs
   US hubris and challenges Trump’s self-image.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-28T14:46:32Z'

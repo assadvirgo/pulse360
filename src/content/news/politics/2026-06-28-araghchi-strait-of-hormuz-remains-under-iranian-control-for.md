@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran’s foreign minister has urged ‘all parties not to interfere’ in the
   management of the Strait of Hormuz.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-28T12:38:33Z'

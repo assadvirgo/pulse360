@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump has warned he would &#039;rather not have&#039;
   the free trade agreement ahead of its July 1 review.
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 81.5
 pubDate: '2026-06-28T14:52:35Z'

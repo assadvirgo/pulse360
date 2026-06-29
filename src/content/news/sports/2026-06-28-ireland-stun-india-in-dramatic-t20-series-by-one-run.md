@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Ireland's historic weekend continues as they inflict a first Twenty20
   series defeat on India since 2023 with a dramatic one-run victory at Stormont.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-28T16:54:37Z'

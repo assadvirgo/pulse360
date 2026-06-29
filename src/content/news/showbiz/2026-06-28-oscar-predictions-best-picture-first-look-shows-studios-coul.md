@@ -5,7 +5,7 @@ countryCode: US
 description: 'Variety&#160;Awards Circuit&#160;section is the home for all awards
   news and related content throughout the year, featuring the following: the official
   predictions for the…'
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-28T17:45:00Z'

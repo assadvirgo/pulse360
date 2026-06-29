@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hezbollah calls the deal a surrender as Israeli forces stay put and continue
   striking the south.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-28T15:53:07Z'

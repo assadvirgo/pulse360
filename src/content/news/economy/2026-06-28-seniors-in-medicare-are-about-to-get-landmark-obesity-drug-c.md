@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Many seniors may be unaware of the landmark coverage shift starting on
   July 1, with limited advertising seen from the government or Eli Lilly and Novo.
-displayOrder: 41
+displayOrder: 42
 heroImage: ''
 importance: 45.5
 pubDate: '2026-06-28T12:00:01Z'

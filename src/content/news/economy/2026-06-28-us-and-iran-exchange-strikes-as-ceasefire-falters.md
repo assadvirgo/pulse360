@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Truce under pressure as Tehran counters US attacks by targeting military
   installations in Bahrain and Kuwait
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-28T11:00:25Z'

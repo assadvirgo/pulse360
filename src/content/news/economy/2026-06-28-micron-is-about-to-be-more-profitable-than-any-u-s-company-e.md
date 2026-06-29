@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Big Tech companies are willing to pay astronomical prices for AI memory
   components, helping spark a dramatic turnaround in Micron’s finances.
-displayOrder: 36
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-28T14:00:00Z'

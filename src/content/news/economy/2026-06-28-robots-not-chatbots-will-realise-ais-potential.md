@@ -2,7 +2,7 @@
 category: Economy
 description: Factory-floor applications of the technology could significantly enhance
   rich-world economies
-displayOrder: 44
+displayOrder: 47
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-28T11:00:10Z'

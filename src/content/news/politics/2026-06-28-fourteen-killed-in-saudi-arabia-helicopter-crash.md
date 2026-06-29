@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: The aircraft belonged to state oil giant Aramco and the cause of the
   crash is being investigated.
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-28T15:42:01Z'

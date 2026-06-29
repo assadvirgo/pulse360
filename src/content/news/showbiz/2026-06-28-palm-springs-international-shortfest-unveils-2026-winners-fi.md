@@ -5,7 +5,7 @@ countryCode: US
 description: The Palm Springs International Shortfest has unveiled its winners for
   2026. The winners were announced at Sunday’s award ceremony. Honorees receieved
   $30,000 dollars in cash…
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-28T19:00:13Z'

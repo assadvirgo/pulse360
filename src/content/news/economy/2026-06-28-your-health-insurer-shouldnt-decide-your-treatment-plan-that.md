@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With a digital health record, clinicians and AI-driven diagnostic tools
   would be able to see your full health history, and then make better decisions.
-displayOrder: 43
+displayOrder: 45
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-28T14:03:00Z'

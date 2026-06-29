@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran and the US trade attacks over navigation through the Strait of Hormuz,
   which has emerged as a major sticking point.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-06-28T13:17:40Z'
