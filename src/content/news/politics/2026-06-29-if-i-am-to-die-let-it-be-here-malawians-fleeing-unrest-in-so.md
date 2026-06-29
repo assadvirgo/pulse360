@@ -4,7 +4,7 @@ country: Malawi
 countryCode: MW
 description: A mass return of Malawians from South Africa exposes the cost of migration,
   violence and broken livelihoods.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-29T00:19:47Z'

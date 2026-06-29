@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: 11 people were killed when a plane belonging to a parachuting school
   crashed in Tomblaine, France.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-29T05:35:37Z'

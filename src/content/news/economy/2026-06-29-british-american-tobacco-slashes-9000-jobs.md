@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Maker of Dunhill cigarettes says cuts and outsourcing will affect about
   one in five jobs
-displayOrder: 17
+displayOrder: 37
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-29T08:51:38Z'

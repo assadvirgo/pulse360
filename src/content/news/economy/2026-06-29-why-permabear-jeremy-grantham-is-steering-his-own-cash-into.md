@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A viral social-media post this weekend took Jeremy Grantham bashing a
   step further by looking at the investing legend’s own investments.
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-29T09:05:00Z'

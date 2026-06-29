@@ -2,7 +2,7 @@
 category: Economy
 description: Emirates could have highest expense because of reliance on long-haul
   flights, MSCI Carbon Markets says
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-06-28T20:00:01Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Companies in dealmaking blitz as they seek to build the energy infrastructure
   for data centres
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-29T04:00:07Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Sonia Citron scored a career-high 32 points, including the basket that
   put her team ahead to stay with 21.4 seconds left, and the Washington Mystics held
   off the Portland Fire…
-displayOrder: 23
+displayOrder: 45
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-29T01:27:59Z'

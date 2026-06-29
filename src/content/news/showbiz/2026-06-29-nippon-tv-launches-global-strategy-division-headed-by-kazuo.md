@@ -5,7 +5,7 @@ countryCode: JP
 description: Japanese media group Nippon TV is undergoing a major restructuring as
   it expands its international activities, launching a Global Strategy division, headed
   by former Hulu Japan…
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-29T08:38:08Z'

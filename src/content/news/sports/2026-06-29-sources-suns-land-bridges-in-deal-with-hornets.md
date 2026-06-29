@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Hornets are trading Miles Bridges, a 2029 first-round pick and a
   second-round pick to the Suns for Grayson Allen, Royce O'Neale and a 2033 first.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-29T01:27:59Z'

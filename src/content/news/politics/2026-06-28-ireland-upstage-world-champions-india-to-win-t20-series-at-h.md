@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Ireland won the second T20 by one run over India, who did not give a
   debut to teen sensation Sooryavanshi.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-28T21:37:49Z'

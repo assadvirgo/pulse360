@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Latest match highlights, reaction and previews from the FIFA World Cup
   2026 in North America.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-29T08:30:41Z'

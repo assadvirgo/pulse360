@@ -3,7 +3,7 @@ category: Sports
 country: United Kingdom
 countryCode: GB
 description: Leicestershire outmuscled at Grace Road as visitors head towards knock-outs
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-28T22:01:18Z'

@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: From the prime minister to sport celebrities and fans on social media,
   Canadians have revelled in their team&#039;s win.
-displayOrder: 19
+displayOrder: 41
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-29T01:20:04Z'

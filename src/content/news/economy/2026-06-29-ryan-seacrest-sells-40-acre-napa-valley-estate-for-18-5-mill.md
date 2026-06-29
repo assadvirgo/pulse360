@@ -5,7 +5,7 @@ countryCode: US
 description: Ryan Seacrest has officially offloaded his 40-acre California estate
   for $18.5 million—two years after listing the stunning Napa Valley property for
   the much higher price of $22…
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-29T08:59:00Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: The life of Jesus Christ will be the subject of a BBC doc
   series from Wonderhood Studios. The series, which is currently untitled and planned
   to broadcast in 2027, will…'
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-29T09:00:00Z'

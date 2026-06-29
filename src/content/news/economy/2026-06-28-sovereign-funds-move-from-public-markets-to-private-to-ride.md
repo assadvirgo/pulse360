@@ -2,7 +2,7 @@
 category: Economy
 description: High concentration in stock markets and national security concerns send
   SWFs to private credit and infrastructure
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-28T23:01:02Z'
