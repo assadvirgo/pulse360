@@ -3,7 +3,7 @@ category: Tech
 description: First announced over a year ago in April 2025, the Busy Bar will be available
   for purchase starting on July 14th when the device also starts shipping. Created
   by the same team…
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-29T13:00:00Z'

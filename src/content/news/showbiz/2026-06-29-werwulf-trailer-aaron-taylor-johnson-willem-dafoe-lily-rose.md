@@ -5,7 +5,7 @@ countryCode: US
 description: We have the first official trailer for Werwulf, the latest feature from
   Robert Eggers.&#160; An official synopsis for the film has yet to be released, but
   the film has been…
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-29T12:42:54Z'

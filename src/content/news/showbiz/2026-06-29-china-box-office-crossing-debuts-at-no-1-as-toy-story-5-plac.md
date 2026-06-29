@@ -5,7 +5,7 @@ countryCode: CN
 description: Bona Film Group&#8217;s historical war epic &#8220;Crossing&#8221; captured
   the top spot at the mainland China box office during the June 26–28 weekend, opening
   with RMB79.3…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-29T06:36:05Z'

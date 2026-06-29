@@ -5,7 +5,7 @@ countryCode: VE
 description: The survivors are hopeful the authorities will find them some form of
   temporary accommodation while the country rebuilds - for now they are dependant
   on donated food and clothing.
-displayOrder: 1
+displayOrder: 13
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-29T11:50:44Z'

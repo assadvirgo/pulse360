@@ -2,7 +2,7 @@
 category: Sports
 description: BBC Sport looks at five young players who are making a big impression
   on the same World Cup stage as veterans Lionel Messi and Cristiano Ronaldo.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-29T10:33:25Z'

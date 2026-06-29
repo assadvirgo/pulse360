@@ -5,7 +5,7 @@ countryCode: GB
 description: The BBC is experiencing a “come to Jesus” moment. That’s not a reference
   to any self-reflection the corporation may have undergone in light of the many scandals
   it has faced over…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-29T09:51:59Z'

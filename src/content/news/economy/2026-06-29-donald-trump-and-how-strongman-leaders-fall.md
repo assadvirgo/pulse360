@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The downfalls of would-be autocrats in Hungary, Brazil and the Philippines
   hold lessons for America
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-29T11:25:21Z'

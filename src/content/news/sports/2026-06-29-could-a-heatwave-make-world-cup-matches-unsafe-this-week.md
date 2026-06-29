@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Temperatures are expected to soar across parts of the US and Canada this
   week which could bring significant health impacts to some World Cup matches.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-29T11:36:07Z'

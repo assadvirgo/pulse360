@@ -5,7 +5,7 @@ countryCode: US
 description: Comcast has announced plans to separate itself into two publicly traded
   companies, spinning off its NBCUniversal and Sky broadcasting arms. The shake up
   aims to protect the media…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-29T11:29:40Z'

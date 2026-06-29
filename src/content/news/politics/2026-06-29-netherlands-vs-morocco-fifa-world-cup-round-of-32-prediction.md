@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: A rare meeting of the top 10 ranked teams sees Morocco take on the Netherlands
   in the round of 32 in Monterrey, Mexico.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-29T11:20:20Z'

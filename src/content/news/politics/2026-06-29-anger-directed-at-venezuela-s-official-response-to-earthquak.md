@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Residents in quake-affected areas have expressed anger over the state's
   efforts to locate survivors and help victims, the BBC's Orla Guerin reports.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-29T03:35:09Z'

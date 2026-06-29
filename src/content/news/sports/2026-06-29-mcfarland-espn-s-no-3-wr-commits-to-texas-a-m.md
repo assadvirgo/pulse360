@@ -5,7 +5,7 @@ countryCode: US
 description: Five-star wide receiver Eric McFarland, a 5-foot-8, 180-pound class of
   2027 player from Florida's IMG Academy who is ranked third by ESPN at his position,
   chose Texas A&amp;M on…
-displayOrder: 34
+displayOrder: 50
 heroImage: ''
 importance: 52.5
 pubDate: '2026-06-29T04:50:37Z'

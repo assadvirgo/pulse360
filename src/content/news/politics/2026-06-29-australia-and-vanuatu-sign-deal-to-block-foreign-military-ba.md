@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Two countries sign economic and security pact, as China expresses concern
   that the agreement may be targeted at it.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-29T09:43:44Z'

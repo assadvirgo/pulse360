@@ -5,7 +5,7 @@ countryCode: GB
 description: Penelope Keith, the British actor best known for her roles in sitcoms
   such as “The Good Life,” has died. She was 86. The BBC reported her death from cancer,
   citing a statement…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-29T11:50:11Z'

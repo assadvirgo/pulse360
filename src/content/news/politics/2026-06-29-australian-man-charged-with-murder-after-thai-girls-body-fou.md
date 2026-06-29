@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Simon Peter Carman has been charged with murder after the body of 17-year-old
   Tunchanok Donhomla was found in a suitcase
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-29T03:12:32Z'
