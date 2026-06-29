@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former Titans and Cardinals running back Chris Johnson told "Good Morning
   America" that he was diagnosed with ALS in 2025.
-displayOrder: 20
+displayOrder: 28
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-29T17:51:24Z'

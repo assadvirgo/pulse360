@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before
   an inquiry into police corruption this week.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-06-29T12:38:19Z'

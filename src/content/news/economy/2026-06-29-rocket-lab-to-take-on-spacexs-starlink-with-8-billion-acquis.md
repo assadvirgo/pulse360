@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rocket Lab said it is buying Iridium as a “shortcut” to expanding its
   growing capabilities.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-29T14:07:00Z'

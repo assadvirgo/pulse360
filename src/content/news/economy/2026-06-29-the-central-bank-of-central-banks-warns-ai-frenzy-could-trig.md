@@ -3,7 +3,7 @@ category: Economy
 description: Rich stock market valuations, investor complacency, circular financing,
   and the potential knock-on effects in credit markets are a clear warning in the
   BIS annual report
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-29T09:13:00Z'

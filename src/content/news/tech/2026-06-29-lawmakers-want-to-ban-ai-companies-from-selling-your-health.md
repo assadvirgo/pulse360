@@ -5,7 +5,7 @@ countryCode: US
 description: A new proposal would ban the sale of Americans' health and location information
   to data brokers - including information people reveal to an AI chatbot like ChatGPT
   or Claude. In…
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-29T16:00:00Z'

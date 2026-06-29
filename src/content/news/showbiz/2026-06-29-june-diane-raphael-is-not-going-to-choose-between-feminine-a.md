@@ -5,7 +5,7 @@ countryCode: US
 description: '"I used to feel like I couldn''t do improv because I didn''t know enough
   ''Star Wars'' references and I didn''t want to wear sneakers onstage," says the
   ''Elle'' star, who opened up to…'
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 68.8
 pubDate: '2026-06-29T14:45:00Z'

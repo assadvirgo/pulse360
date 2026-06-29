@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: An Australian man has been charged with the murder of a teenage girl
   in Thailand after her body was found in a suitcase by police on Saturday.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-29T07:01:00Z'

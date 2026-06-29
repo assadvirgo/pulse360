@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Krysten Ritter is returning to New York as a guest star for
   another season of Showtime&#8217;s Dexter: Resurrection for Paramount+. Who she
   will play is under wraps.…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-29T16:31:13Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The Supreme Court just placed once-independent agencies more firmly under
   presidential control. The court ruled in Trump v. Slaughter with a 6-3 vote that
   President Donald Trump…
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-29T15:10:45Z'

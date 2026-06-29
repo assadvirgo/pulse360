@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: China and Sudan signed off on a waiver of $50m as Sudan’s military-led
   government seeks support amid Western sanctions.
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-29T12:51:57Z'

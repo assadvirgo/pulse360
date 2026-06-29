@@ -5,7 +5,7 @@ countryCode: CA
 description: Dbrand announced Monday that it's refunding everyone who bought its Steam
   Machine Companion Cube, which it said it made "without a license from Valve." Dbrand
   announced the…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-29T15:59:45Z'

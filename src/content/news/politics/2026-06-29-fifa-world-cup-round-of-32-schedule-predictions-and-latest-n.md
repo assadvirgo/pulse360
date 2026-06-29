@@ -2,7 +2,7 @@
 category: Politics
 description: World Cup round of 32 continues with Brazil, Germany and the Netherlands
   in action as Canada celebrates history.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-29T09:03:17Z'

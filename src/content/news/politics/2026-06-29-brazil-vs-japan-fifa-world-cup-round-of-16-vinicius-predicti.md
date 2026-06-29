@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: The 2026 FIFA World Cup round of 32 pits South American giants Brazil
   against Asian heavyweights Japan in Houston.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-29T06:25:01Z'
