@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Eustaquio flip-flopped between his home country and that of his parents
   throughout his youth and senior career.
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 70.5
 pubDate: '2026-06-29T00:27:03Z'

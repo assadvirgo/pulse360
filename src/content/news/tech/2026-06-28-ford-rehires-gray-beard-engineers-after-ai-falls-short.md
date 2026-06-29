@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: '"Mistakenly we thought that by just introducing artificial intelligence
   ... that would produce a high-quality product.”'
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 44.0
 pubDate: '2026-06-28T19:05:39Z'

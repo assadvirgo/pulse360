@@ -5,7 +5,7 @@ countryCode: US
 description: The 2026 BET Awards, hosted by Druski, celebrated the best in culture
   and had some big winners. Teyana Taylor was honored with the Icon of the Year Award,
   while Sylvia Rhone was…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-29T04:00:04Z'

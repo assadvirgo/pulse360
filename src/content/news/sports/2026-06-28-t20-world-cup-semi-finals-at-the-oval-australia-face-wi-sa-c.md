@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The Australia-West Indies semi-final is on June 30, while England and
   South Africa play on July 2
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-28T17:52:10Z'

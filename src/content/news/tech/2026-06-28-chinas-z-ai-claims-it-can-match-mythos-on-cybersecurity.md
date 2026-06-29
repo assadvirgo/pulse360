@@ -5,7 +5,7 @@ countryCode: CN
 description: China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers
   have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios.
   While GLM…
-displayOrder: 40
+displayOrder: 45
 heroImage: ''
 importance: 38.2
 pubDate: '2026-06-28T21:42:51Z'

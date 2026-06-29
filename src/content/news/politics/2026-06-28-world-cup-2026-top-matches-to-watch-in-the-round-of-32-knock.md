@@ -2,7 +2,7 @@
 category: Politics
 description: We have finally reached the knockout stages of the 2026 World Cup - here
   is Al Jazeera&#039;s guide to the best matchups.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-28T19:48:40Z'

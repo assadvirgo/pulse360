@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Manufacturer squeezed €10bn valuation from cloak-and-dagger Everllence
   auction but may need more to fund restructuring
-displayOrder: 22
+displayOrder: 31
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-29T04:00:20Z'

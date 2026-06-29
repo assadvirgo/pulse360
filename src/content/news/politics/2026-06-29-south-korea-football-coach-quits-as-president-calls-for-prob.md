@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: South Korea was eliminated after missing out on a spot among the eight
   best third-placed teams.
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-29T03:34:21Z'

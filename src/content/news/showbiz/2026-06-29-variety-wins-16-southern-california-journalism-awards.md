@@ -5,7 +5,7 @@ countryCode: US
 description: Variety scored 16 first-place wins Sunday night as the Los Angeles Press
   Club handed out the 68th annual Southern California Journalism Awards. Variety’s
   first place finishes…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-29T04:42:36Z'

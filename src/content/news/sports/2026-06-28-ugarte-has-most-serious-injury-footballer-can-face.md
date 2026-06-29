@@ -4,7 +4,7 @@ country: Uruguay
 countryCode: UY
 description: Manchester United have confirmed that midfielder Manuel Ugarte suffered
   knee ligament damage during Uruguay's World Cup defeat by Spain.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-28T17:42:20Z'

@@ -3,7 +3,7 @@ category: Showbiz
 country: United States
 countryCode: US
 description: The music mogul died on June 22 at 94.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-29T02:54:29Z'

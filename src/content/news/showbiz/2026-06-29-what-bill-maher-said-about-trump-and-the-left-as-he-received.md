@@ -5,7 +5,7 @@ countryCode: US
 description: Bill Maher celebrated his ability to anger the right and the left as
   he received the Kennedy Center&#8217;s Mark Twain Prize, with a message to those
   who complain about being…
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 67.0
 pubDate: '2026-06-29T02:42:29Z'

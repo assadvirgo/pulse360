@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: As Kyiv’s battlefield fortunes change, policies long favoured by the
   west could now do real damage to Moscow
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-28T12:00:08Z'

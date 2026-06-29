@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: This is the second World Cup that comes after deadly nationwide protests
   inside Iran, and the first one amid a war
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-28T21:55:27Z'

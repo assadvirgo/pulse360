@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tehran yet to confirm end of tit-for-tat attacks that threaten fragile
   truce in Strait of Hormuz
-displayOrder: 27
+displayOrder: 36
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-29T02:37:25Z'

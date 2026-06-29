@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The Democratic Republic of Congo takes Rwanda to the International Court
   of Justice.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-28T19:24:05Z'

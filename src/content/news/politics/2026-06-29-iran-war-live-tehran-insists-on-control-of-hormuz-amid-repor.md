@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Washington and Tehran have agreed to stop attacks and renew talks in
   the Qatari capital, Doha, Axios reports.
-displayOrder: 21
+displayOrder: 30
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-29T00:00:00Z'
