@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: At least 14 killed in Ras Tanura incident just hours after US-Iran strikes
   threaten fragile deal to reopen Strait of Hormuz
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-28T18:09:40Z'

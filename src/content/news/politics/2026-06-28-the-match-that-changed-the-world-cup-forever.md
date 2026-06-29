@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: One of football&#039;s biggest scandals changed the World Cup forever.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-28T17:14:07Z'

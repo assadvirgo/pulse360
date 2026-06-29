@@ -4,7 +4,7 @@ country: Serbia
 countryCode: RS
 description: Demonstrators doubt the president is truly surrendering power after 12
   years in charge.
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-28T18:53:49Z'

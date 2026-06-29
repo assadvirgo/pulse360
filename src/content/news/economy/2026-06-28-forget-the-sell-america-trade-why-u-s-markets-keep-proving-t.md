@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Foreign investors are still pouring money into U.S. assets, and the dollar
   remains the undisputed global reserve currency.
-displayOrder: 39
+displayOrder: 46
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-28T13:00:00Z'

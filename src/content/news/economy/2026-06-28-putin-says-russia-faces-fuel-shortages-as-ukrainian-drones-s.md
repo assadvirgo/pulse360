@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: President’s comments are first admission that Kyiv’s long-range attacks
   have dented production
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-28T22:28:40Z'

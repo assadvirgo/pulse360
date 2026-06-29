@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared
   for high temperatures.
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 65.2
 pubDate: '2026-06-28T19:37:07Z'

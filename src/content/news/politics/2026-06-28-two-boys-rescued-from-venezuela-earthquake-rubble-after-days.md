@@ -5,7 +5,7 @@ countryCode: VE
 description: Rescuers spent six hours carefully digging to reach one of the boys,
   as many residents continue searching through the rubble by hand, still waiting for
   heavy machinery to arrive.
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-28T19:21:07Z'

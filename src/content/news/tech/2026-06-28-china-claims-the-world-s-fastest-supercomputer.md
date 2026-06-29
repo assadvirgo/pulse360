@@ -5,7 +5,7 @@ countryCode: CN
 description: Despite trade restrictions, China has reclaimed the title of the world's
   fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan
   out of number one on…
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 46.2
 pubDate: '2026-06-28T17:20:59Z'

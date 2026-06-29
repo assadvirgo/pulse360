@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The pilot and 10 passengers - including five first-time parachutists
   - died in the incident, local officials said.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-28T18:34:07Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: The British Board of Film Classification, the U.K.&#8217;s primary ratings
   body, has revealed that it developed and deployed a bespoke AI tool for the first
   time to support the…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-06-28T21:30:21Z'

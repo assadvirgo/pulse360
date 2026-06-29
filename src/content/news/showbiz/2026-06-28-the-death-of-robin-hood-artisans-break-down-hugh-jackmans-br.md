@@ -3,7 +3,7 @@ category: Showbiz
 description: The artisans behind “The Death of Robin Hood,” including hair designer
   Sean Flanigan and costume designer Lorna Mugan, wanted Hugh Jackman to become unrecognizable
   as Robin Hood.…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-28T20:16:25Z'

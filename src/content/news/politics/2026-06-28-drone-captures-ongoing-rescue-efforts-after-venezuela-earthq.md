@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Drone footage from Venezuela&#039;s La Guaira shows widespread destruction
   after twin earthquakes devastated the region.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-28T16:38:04Z'

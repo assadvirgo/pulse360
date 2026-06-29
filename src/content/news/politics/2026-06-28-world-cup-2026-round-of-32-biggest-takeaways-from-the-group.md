@@ -2,7 +2,7 @@
 category: Politics
 description: FIFA World Cup group stage is now behind us with plenty of key talking
   points as the tournament enters the knockouts.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-28T14:43:29Z'

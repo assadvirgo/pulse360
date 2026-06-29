@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The auto industry is selling fewer cars--one forecaster says this is
   a fundamental change, and it is going to get worse.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 31.5
 pubDate: '2026-06-28T11:00:01Z'
