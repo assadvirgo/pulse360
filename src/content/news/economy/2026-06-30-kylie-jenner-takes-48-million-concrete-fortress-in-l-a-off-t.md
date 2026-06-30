@@ -5,7 +5,7 @@ countryCode: US
 description: Kylie Jenner has removed her extraordinary concrete megamansion from
   the market—just six months after listing the modern Los Angeles dwelling for $48
   million.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-30T09:03:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Erling Haaland&#039;s Norway face Yan Diomande-powered Ivory Coast, as
   the pair clash for a place in the round of 16.
-displayOrder: 2
+displayOrder: 22
 heroImage: ''
 importance: 64.5
 pubDate: '2026-06-30T08:28:20Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The move could unlock millions of new patients for Novo Nordisk and Eli
   Lilly and expand access to medications that were previously out of reach for seniors.
-displayOrder: 37
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-30T11:34:46Z'

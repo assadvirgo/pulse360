@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: As well as Gill&#039;s heroics, Paraguay&#039;s unlikely victory was
   founded on coach Alfaro&#039;s unshakeable faith in his defenders.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-30T03:51:58Z'

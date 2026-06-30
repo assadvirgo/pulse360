@@ -3,7 +3,7 @@ category: Showbiz
 description: Rich Peppiatt’s highly anticipated Netflix-backed period tale Bad Bridgets
   has added a raft of high-profile cast members ahead of its shoot this July. Colin
   Farrell (Banshees of…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-06-30T09:00:01Z'

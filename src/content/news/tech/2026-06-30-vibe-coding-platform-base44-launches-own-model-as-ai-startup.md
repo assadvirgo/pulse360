@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wix-owned vibe coding platform Base44 has started rolling out its own
   AI model — with hopes that it will eventually outperform frontier models.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-06-30T02:28:41Z'

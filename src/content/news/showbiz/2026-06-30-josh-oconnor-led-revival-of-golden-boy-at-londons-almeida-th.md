@@ -5,7 +5,7 @@ countryCode: GB
 description: The London revival of Clifford Odets&#8217; classic American play &#8220;Golden
   Boy&#8221; at the Almeida Theatre has bulked out its cast while revealing a trailer
   of Josh…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-06-30T10:00:00Z'

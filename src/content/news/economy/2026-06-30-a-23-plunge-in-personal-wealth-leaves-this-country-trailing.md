@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The average wealth per person has rapidly dropped in this country — and
   it’s not looking good compared with other developed markets.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-30T12:12:00Z'

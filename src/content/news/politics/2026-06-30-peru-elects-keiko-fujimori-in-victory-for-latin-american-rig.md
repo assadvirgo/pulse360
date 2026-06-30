@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Peru&#039;s conservative president-elect Keiko Fujimori vows that the
   ‘doors to dialogue will always be open.’
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-30T06:37:07Z'

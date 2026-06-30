@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The justices deliver consequential rulings on mail-in ballots, the E
   Jean Carroll case and the firing of Lisa Cook.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-30T10:22:59Z'

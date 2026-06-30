@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Red alerts for extreme heat have been issued in Italy and the Balkans
   as a record-breaking heatwave continues to bake the European continent.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-06-30T10:19:00Z'

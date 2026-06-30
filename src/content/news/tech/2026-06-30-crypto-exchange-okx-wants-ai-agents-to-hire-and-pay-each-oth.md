@@ -2,7 +2,7 @@
 category: Tech
 description: OKX is bringing together payments, identity and reputation into a marketplace
   for AI agents.
-displayOrder: 32
+displayOrder: 42
 heroImage: ''
 importance: 47.0
 pubDate: '2026-06-30T09:00:00Z'

@@ -5,7 +5,7 @@ countryCode: KR
 description: Samsung is expected to unveil its next generation of foldables at a Galaxy
   Unpacked event next month, but now we know what they might look like, courtesy of
   some leaked images…
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-30T09:54:44Z'

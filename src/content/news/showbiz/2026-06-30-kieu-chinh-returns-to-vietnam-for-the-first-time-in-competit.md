@@ -5,7 +5,7 @@ countryCode: VN
 description: Kieu Chinh has spent 68 years as an actor, and most of those years carried
   her further from the country where she began, through Hollywood, through &#8220;The
   Joy Luck…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-06-30T08:55:22Z'

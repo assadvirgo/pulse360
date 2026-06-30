@@ -2,7 +2,7 @@
 category: Economy
 description: Technology that helps people do things they couldn’t otherwise achieve
   can also lead to atrophy
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-30T04:00:18Z'

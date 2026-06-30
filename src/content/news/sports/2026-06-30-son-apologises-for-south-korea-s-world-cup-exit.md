@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Son Heung-min apologises for South Korea's early World Cup exit and says
   he will "run to death" for the nation's football fans.
-displayOrder: 30
+displayOrder: 46
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-30T06:51:10Z'

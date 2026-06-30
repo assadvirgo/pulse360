@@ -4,7 +4,7 @@ country: Paraguay
 countryCode: PY
 description: Paraguay has declared a national holiday after its national team stunned
   four-time champions Germany
-displayOrder: 13
+displayOrder: 35
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-30T05:59:33Z'

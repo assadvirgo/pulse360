@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The vaunted investor has spawned a small army of new firms mirroring
   Julian Robertson’s ‘Tiger cubs’
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-30T04:00:08Z'
