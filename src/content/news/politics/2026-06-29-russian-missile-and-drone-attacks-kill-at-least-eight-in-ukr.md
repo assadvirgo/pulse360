@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: President Volodymyr Zelenskyy condemns the &#039;horrific attacks&#039;
   and urges allies to boost Ukraine&#039;s air defences.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-29T13:54:35Z'

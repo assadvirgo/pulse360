@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan&#039;s el-Obeid faces mass atrocities, like el-Fasher in 2025,
   the UN warns.
-displayOrder: 19
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-06-29T14:18:41Z'

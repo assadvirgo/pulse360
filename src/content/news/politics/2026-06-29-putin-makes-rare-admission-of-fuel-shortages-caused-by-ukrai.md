@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The Russian president acknowledged Ukraine's attacks were "obviously
   creating problems" but denied the shortages were "critical".
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 63.2
 pubDate: '2026-06-29T17:28:59Z'

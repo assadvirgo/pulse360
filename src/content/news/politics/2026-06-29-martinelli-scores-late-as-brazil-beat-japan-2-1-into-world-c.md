@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Martinelli&#039;s stoppage-time goal in Houston takes the five-time champions
   to the Round of 16, breaking Japanese hearts.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 61.5
 pubDate: '2026-06-29T19:33:59Z'

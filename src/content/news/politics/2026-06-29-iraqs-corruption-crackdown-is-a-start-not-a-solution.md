@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: New PM Ali al-Zaidi&#039;s arrest of 47 officials is welcome, but the
   rot runs through the system that put him in power.
-displayOrder: 22
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-29T15:57:02Z'

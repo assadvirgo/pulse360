@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The frontrunner to succeed Keir Starmer was criticised for not taking
   questions after setting out his policy vision
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 67.5
 pubDate: '2026-06-29T18:15:12Z'

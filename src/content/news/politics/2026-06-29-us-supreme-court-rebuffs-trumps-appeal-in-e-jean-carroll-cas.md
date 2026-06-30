@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US Supreme Court has rejected a push by President Trump to throw
   out a jury&#039;s findings of sexual assault.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-29T15:59:52Z'

@@ -3,7 +3,7 @@ category: Tech
 description: WhatsApp is introducing a new way to add and chat with contacts, without
   having to share your phone number. Usernames will launch "later this year," in a
   move to make the…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-29T16:00:00Z'

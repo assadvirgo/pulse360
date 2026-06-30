@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Flight operators say authorities issued indefinite nationwide airspace
   controls
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-29T09:47:10Z'

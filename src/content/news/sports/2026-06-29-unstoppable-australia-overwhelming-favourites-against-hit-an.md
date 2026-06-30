@@ -3,7 +3,7 @@ category: Sports
 country: Australia
 countryCode: AU
 description: In nine World Cups, Australia have qualified for the final seven times
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 58.5
 pubDate: '2026-06-29T18:23:11Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: Cate Blanchett, among her litany of talents and accolades, is aware she’s
   not the savviest when it comes to technology. That doesn’t mean she doesn’t understand
   when technology…
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 65.8
 pubDate: '2026-06-29T16:45:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Comcast on Monday said it would spin off NBCUniversal into a separate
   company, breaking off the media business it acquired 15 years ago.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-29T11:54:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The Supreme Court has refused to allow President Donald Trump to fire
   Federal Reserve governor Lisa Cook, in a move that strengthens the independence
   of the central bank.
-displayOrder: 44
+displayOrder: 50
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-29T16:05:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The Los Angeles Coroner&#8217;s Office has announced a cause of death
   for Daveigh Chase, who voiced Lilo in &#8220;Lilo &#38; Stitch&#8221; and starred
   in &#8220;The Ring.&#8221;…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-29T18:15:08Z'

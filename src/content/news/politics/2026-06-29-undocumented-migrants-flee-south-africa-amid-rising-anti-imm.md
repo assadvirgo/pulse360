@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Thousands of undocumented migrants in South Africa are rushing to leave
   after anti-immigrant protests.
-displayOrder: 13
+displayOrder: 20
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-29T18:18:48Z'

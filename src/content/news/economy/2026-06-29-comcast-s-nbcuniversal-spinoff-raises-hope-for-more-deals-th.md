@@ -5,7 +5,7 @@ countryCode: US
 description: Comcast plans to separate its cable and media divisions over the next
   year. This could set each company up for M&amp;A, but there might not be any good
   options.
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-29T18:59:34Z'

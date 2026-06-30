@@ -2,7 +2,7 @@
 category: Politics
 description: Amid Israel’s genocidal war on Gaza that destroyed most schools, 18-year-old
   Dana Shabat sits her final exams online.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-29T15:54:36Z'
