@@ -3,7 +3,7 @@ category: Politics
 country: Iraq
 countryCode: IQ
 description: A number of senior politicians have been detained in a wave of arrests.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-29T20:24:15Z'

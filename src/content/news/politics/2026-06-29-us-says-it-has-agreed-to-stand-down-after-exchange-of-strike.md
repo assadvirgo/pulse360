@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A series of strikes over the weekend saw the US and Iran accuse each
   other of violating the ceasefire agreement.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-29T14:52:10Z'

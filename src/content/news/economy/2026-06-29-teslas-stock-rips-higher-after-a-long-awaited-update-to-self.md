@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: EV maker’s stock has best day in over a year, but is still down for the
   month.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-29T21:24:00Z'

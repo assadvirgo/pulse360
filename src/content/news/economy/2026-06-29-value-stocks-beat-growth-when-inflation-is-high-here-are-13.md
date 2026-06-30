@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Many portfolio experts are wrong about what drives value outperformance.
   This single metric explains why.
-displayOrder: 37
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-29T20:43:00Z'

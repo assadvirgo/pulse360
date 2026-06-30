@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Follow the updates, with live build-up, team news coverage, and our text
   commentary stream of the last-32 match.
-displayOrder: 24
+displayOrder: 34
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-29T21:35:12Z'

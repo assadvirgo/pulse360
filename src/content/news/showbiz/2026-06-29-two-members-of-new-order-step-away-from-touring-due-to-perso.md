@@ -5,7 +5,7 @@ countryCode: GB
 description: New Order announced Monday that Stephen Morris and Gillian Gilbert will
   not be joining their show at Primavera in Chile in November &#8220;due to personal
   health reasons.&#8221;…
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-29T23:20:06Z'

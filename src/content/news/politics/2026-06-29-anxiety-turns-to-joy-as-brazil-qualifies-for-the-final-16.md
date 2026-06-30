@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Brazil fans at a fan fest on Rio de Janeiro celebrated after their team
   overturned Japan’s early lead and won 2-1.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-29T23:56:18Z'

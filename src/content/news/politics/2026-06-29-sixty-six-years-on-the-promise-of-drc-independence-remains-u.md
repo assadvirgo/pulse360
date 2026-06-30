@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The DRC’s independence anniversary renews debate over progress, security
   and state capacity.
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-29T23:57:22Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Taylor Sheridan has built one of the most-watched television empires
   on the planet, and he wants everyone to know he did it without chasing trophies
   or taking notes from the…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-29T19:08:00Z'

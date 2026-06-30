@@ -5,7 +5,7 @@ countryCode: US
 description: EXCLUSIVE:&#160;Flula Borg (Pitch Perfect&#160;franchise) and Academy
   Award winner Troy Kotsur (CODA) have wrapped on the Los Angeles shoot for&#160;The
   American Winner, a…
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 61.0
 pubDate: '2026-06-29T21:47:12Z'

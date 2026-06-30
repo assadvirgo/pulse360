@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: Pakistan claims it was targeting militants near its border, but the Taliban
   government calls it an "atrocity".
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-29T15:46:50Z'

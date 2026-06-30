@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Why Palantir and Elbit are top plays in the booming counterdrone market.
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-06-29T19:45:00Z'

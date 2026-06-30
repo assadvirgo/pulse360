@@ -5,7 +5,7 @@ countryCode: US
 description: There’s a scene toward the end of “Supergirl” that perfectly encapsulates
   how tonally inept it is. After what feels like an eternity, our Kryptonian hero,
   Kara Zor-El (Milly…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-29T19:00:00Z'

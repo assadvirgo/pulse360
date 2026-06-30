@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The BBC's Jessica Parker reports from the scene of the shooting that
   killed six people in northern Germany.
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-30T00:17:27Z'
