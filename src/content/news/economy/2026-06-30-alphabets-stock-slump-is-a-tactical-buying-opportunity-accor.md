@@ -5,7 +5,7 @@ countryCode: US
 description: Investors are overlooking the potential of Alphabet’s custom-chip business
   as the company plans to expand its data-center capacity going into 2028, according
   to Morgan Stanley.
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-30T15:27:00Z'

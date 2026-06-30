@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: The deportees were sent to Ghana, then to their home countries, despite
   earlier rulings by US judges that it was unsafe.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-30T10:03:34Z'

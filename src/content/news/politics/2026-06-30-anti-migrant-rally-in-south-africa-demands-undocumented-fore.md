@@ -3,7 +3,7 @@ category: Politics
 country: South Africa
 countryCode: ZA
 description: Anti-migrant rally in South Africa demands undocumented foreigners leave.
-displayOrder: 15
+displayOrder: 36
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-30T12:11:57Z'

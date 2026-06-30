@@ -2,7 +2,7 @@
 category: Politics
 description: World Cup Day 20 sees France, Norway and Mexico chase Round of 16 places
   as the knockout stage continues.
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-30T10:44:09Z'

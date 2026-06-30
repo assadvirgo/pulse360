@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: An Israeli attack on the al-Mawasi camp in Khan Younis has killed several
   people, including a mother and her child.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-30T09:10:10Z'

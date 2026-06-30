@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The United States' head of homeland security says he "danced a happy
   dance" when Iran's elimination from the World Cup was confirmed.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-30T07:47:46Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At an Islamic centre in US, World Cup watch parties are giving many a
   place to cheer on teams chasing football history.
-displayOrder: 25
+displayOrder: 43
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-30T12:18:14Z'

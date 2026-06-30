@@ -5,7 +5,7 @@ countryCode: US
 description: Although the last week has been painful for quant funds, asset allocators
   remind investors that it’s important to look at returns over a wider timeframe.
   So far in 2026, the…
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-30T08:57:00Z'

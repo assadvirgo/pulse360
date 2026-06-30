@@ -5,7 +5,7 @@ countryCode: US
 description: The Supreme Court upheld birthright citizenship, ruling 6-3 against President
   Donald Trump's effort to end the longstanding constitutional right via executive
   order. Birthright…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-30T14:44:42Z'

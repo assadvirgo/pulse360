@@ -5,7 +5,7 @@ countryCode: US
 description: EXCLUSIVE:&#160;Gilbertson Entertainment has signed Academy Award winner
   Marlee Matlin for representation across film, television and producing as she continues
   to develop new…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-30T15:22:08Z'

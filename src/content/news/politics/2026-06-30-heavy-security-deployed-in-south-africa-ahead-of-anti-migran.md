@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Thousands of people have left South Africa ahead of Tuesday's deadline
   set by anti-migrant groups.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-30T08:10:00Z'

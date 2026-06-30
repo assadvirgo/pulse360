@@ -5,7 +5,7 @@ countryCode: GB
 description: U.K. Secretary of State for Culture, Media and Sport Lisa Nandy cited
   concerns around the plurality of views in news media, and consolidation in on-demand
   programming.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-06-30T13:31:44Z'

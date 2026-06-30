@@ -5,7 +5,7 @@ countryCode: GB
 description: CHOOSE CINEMA The Edinburgh International Film Festival will mark the
   30th anniversary of Danny Boyle&#8216;s &#8220;Trainspotting&#8221; with a screening
   featuring live…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-30T10:19:27Z'

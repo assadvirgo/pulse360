@@ -5,7 +5,7 @@ countryCode: US
 description: Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the
   case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about
   his AI failures - was a…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-30T12:00:00Z'
