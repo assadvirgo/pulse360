@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Shops reopened and public transport services partially resumed in Pakistan-administered
   Kashmir after weeks of protests.
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 54.5
 pubDate: '2026-06-30T04:28:33Z'

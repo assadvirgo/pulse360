@@ -4,7 +4,7 @@ country: Paraguay
 countryCode: PY
 description: Kai Havertz, Nick Woltemade and Jonathan Tah missed crucial penalties
   as Germany were eliminated from the World Cup in a shootout by Paraguay.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-30T01:18:24Z'

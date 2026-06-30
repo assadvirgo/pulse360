@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Daughter of former President Alberto Fujimori says country is closer
   to &#039;order and hope&#039; after prolonged vote count.
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 66.5
 pubDate: '2026-06-30T00:28:43Z'

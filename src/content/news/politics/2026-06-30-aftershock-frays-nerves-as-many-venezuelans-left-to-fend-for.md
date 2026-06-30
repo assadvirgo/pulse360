@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: In areas devastated by the twin earthquakes, people are using crowbars,
   pickaxes and their bare hands to try to reach survivors.
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-30T04:21:58Z'

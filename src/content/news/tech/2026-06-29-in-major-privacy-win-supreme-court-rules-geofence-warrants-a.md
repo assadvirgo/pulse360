@@ -5,7 +5,7 @@ countryCode: US
 description: The Supreme Court's decision to limit geofence warrants is a win for
   privacy advocates, who called their use unconstitutional but sought an outright
   ban.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-06-29T16:05:23Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors switch to soaring chipmakers benefiting from hyperscalers’
   vast AI spending
-displayOrder: 31
+displayOrder: 42
 heroImage: ''
 importance: 37.5
 pubDate: '2026-06-30T04:00:18Z'

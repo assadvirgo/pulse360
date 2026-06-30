@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Dances With Films: LA, the independent-focused film festival,
   has wrapped its 29th edition with the presentation of awards. Bandit, directed by
   Brian L. “BLT” Tan, won…'
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 57.0
 pubDate: '2026-06-30T01:38:37Z'

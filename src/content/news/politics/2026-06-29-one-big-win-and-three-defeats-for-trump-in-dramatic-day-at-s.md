@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While Trump celebrated a ruling expanding presidential power to remove
   and replace regulators, other decisions were major setbacks.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-29T20:34:52Z'

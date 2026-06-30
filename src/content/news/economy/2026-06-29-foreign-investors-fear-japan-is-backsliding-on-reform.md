@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Pendulum ‘swinging back towards economic nationalism’, warns one private
   equity executive
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-29T21:00:01Z'

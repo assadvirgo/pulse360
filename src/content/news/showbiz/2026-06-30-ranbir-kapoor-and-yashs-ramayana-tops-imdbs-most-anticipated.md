@@ -5,7 +5,7 @@ countryCode: IN
 description: The leading Indian film on IMDb heading into the year&#8217;s second
   half is Nitesh Tiwari&#8217;s epic adaptation &#8220;Ramayana Part 1,&#8221; which
   claimed the top position on…
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 51.8
 pubDate: '2026-06-30T04:30:00Z'

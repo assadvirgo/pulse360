@@ -5,7 +5,7 @@ countryCode: US
 description: Tom Ligon, a veteran actor in films, TV and on Broadway who also was
   a longtime member of SAG-AFTRA New York Local board, has died. He was 85. The actors
   union confirmed his death…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-06-30T01:03:23Z'

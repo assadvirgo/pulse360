@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Strategy disclosed a program to sell bitcoin “from time to time” to fund
   its U.S. dollar reserve and share repurchases.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-29T20:41:00Z'

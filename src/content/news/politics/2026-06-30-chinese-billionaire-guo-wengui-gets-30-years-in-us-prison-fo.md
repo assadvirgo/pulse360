@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A federal judge said Guo&#039;s fraud cost more than 1,000 people worldwide
   hundreds of millions of dollars.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-30T05:07:01Z'

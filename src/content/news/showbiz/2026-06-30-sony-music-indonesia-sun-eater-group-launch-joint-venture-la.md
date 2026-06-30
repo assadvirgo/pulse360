@@ -5,7 +5,7 @@ countryCode: ID
 description: Sony Music Indonesia and Sun Eater Group have unveiled Lunar, a joint-venture
   record label aimed at developing and distributing Indonesian artists with global
   ambitions. The new…
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 55.8
 pubDate: '2026-06-30T05:00:00Z'
