@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Controversial revision of electoral rolls removed millions. Now, the
   BJP says they are not eligible for government aid.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-30T08:25:02Z'

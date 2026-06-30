@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Guo Wengui branded himself as a China critic, gaining followers who backed
   his fraudulent schemes.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-06-30T02:08:21Z'

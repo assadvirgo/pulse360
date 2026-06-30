@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former Barcelona striker Robert Lewandowski joins Major League Soccer
   side Chicago Fire on a two-year deal.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-06-29T20:44:24Z'

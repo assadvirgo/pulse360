@@ -2,7 +2,7 @@
 category: Politics
 description: Talks between EU trade commissioner and Chinese commerce minister come
   as bloc seeks to limit influx of Chinese imports.
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-30T08:30:52Z'

@@ -4,7 +4,7 @@ country: Monaco
 countryCode: MC
 description: Ukrainian oligarch reported to be among injured in explosion at residential
   building in the Mediterranean principality.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-30T02:56:24Z'

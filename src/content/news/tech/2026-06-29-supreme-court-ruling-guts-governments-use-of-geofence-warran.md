@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: SCOTUS falls short of deeming geofence warrants unconstitutional, though.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-06-29T20:04:04Z'

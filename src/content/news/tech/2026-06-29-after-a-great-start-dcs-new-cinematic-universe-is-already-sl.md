@@ -5,7 +5,7 @@ countryCode: US
 description: While Kara Zor-El's appearance at the end of James Gunn's Superman was
   a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone
   Supergirl feature always…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-06-29T21:00:00Z'

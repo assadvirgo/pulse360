@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tens of trillions of dollars are moving between generations — and younger
   heirs feel little loyalty to traditional advisers
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-30T04:00:08Z'

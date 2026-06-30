@@ -3,7 +3,7 @@ category: Tech
 description: A new report finds "high-intensity AI adopters” saw headcount increase
   10.2%. Among those companies, entry-level headcount rose by 12%, countering the
   rhetoric that AI kills…
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-30T04:01:00Z'

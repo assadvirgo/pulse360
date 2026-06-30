@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Perez Hilton is selling his Las Vegas home for $4.25 million and moving
   to Miami after “God told him” to leave Nevada following several health scares.
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 32.5
 pubDate: '2026-06-30T08:58:00Z'

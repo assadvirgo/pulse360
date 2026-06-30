@@ -5,7 +5,7 @@ countryCode: US
 description: Quiver Distribution has taken worldwide rights, excluding U.K., German-speaking
   territories, South Korea and Taiwan, to Armie Hammer’s controversial comeback movie
   “Citizen…
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-30T06:44:16Z'

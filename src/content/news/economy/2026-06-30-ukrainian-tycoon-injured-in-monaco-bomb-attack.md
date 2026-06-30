@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Police hunt suspected bomber believed to have fled wealthy Mediterranean
   principality
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-30T07:29:34Z'

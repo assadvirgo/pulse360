@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Study of 22,000 US companies challenges fears that generative AI will
   trigger broad job losses
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-06-30T04:00:18Z'
