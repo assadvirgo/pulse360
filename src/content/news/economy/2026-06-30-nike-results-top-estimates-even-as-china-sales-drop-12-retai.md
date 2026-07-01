@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nike was expected to report another quarter of declining sales as the
   sneaker giant struggles to regain strength under its turnaround strategy.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-30T22:07:27Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Delta, United shares fly toward fresh records as the airline sector has
   rallied in June.
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 60.5
 pubDate: '2026-06-30T20:25:00Z'

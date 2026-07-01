@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US, Canada and Mexico were to reach an agreement on whether to extend
   their free trade pact by 1 July. All signs point to them blowing past that deadline.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-06-30T17:44:15Z'

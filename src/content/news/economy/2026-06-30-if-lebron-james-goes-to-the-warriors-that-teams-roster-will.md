@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: LeBron James’s agent has told the Los Angeles Lakers that he intends
   to sign with a new team, according to a new report.
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-30T22:32:00Z'

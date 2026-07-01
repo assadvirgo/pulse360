@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump called it a "big win" but a major LGBT campaign group described
   the ruling as "heartbreaking".
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-06-30T17:02:39Z'

@@ -3,7 +3,7 @@ category: Sports
 country: United States
 countryCode: US
 description: The Thunder on Monday exercised forward Lu Dort's 2026-27 contract option.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 56.5
 pubDate: '2026-06-30T19:30:27Z'

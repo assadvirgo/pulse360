@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Anti-migrant groups had given a deadline to undocumented foreigners to
   leave by June 30.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-30T18:39:47Z'

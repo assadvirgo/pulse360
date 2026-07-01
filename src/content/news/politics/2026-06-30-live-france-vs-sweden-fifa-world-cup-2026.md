@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: All our updates, live build-up, team news coverage and full text commentary
   stream as Mbappe&#039;s France eye last-16.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-30T17:31:58Z'

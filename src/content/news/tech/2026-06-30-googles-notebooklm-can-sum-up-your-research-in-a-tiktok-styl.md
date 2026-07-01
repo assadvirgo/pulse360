@@ -5,7 +5,7 @@ countryCode: US
 description: 'Google''s NotebookLM is adding a new way to catch up on your notes:
   TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro
   subscribers, allowing…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-06-30T19:24:51Z'

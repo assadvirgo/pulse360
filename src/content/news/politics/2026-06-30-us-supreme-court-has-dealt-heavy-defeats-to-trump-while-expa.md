@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The birthright ruling brings to an end a Supreme Court term that has
   delivered the president some key victories.
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-30T22:29:47Z'

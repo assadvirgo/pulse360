@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nation&#039;s highest court strikes down executive order that would have
   restricted right established in US Constitution.
-displayOrder: 21
+displayOrder: 33
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-30T21:30:43Z'

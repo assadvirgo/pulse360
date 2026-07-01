@@ -3,7 +3,7 @@ category: Showbiz
 description: SPOILER ALERT:&#160;This post contains mild spoilers from the video game
   “Unhinged,” which is now available to play on Netflix. When it comes to horror movies,
   I am a wimp. A…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-06-30T21:39:11Z'

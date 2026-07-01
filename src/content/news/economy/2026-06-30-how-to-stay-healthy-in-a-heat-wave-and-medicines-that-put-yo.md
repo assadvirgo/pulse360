@@ -2,7 +2,7 @@
 category: Economy
 description: Heatstroke can affect anyone, but people who take certain medications
   or have certain health conditions are at higher risk.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-06-30T19:10:00Z'

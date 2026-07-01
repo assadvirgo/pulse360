@@ -4,7 +4,7 @@ country: Czechia
 countryCode: CZ
 description: EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind
   researchers, is now valued at more than $500 million.
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 64.0
 pubDate: '2026-06-30T20:33:48Z'

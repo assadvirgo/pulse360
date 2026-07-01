@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The attacks targeted a secondary school in the northeastern town of Lassa,
   in Borno State.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-30T20:55:38Z'

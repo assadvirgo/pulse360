@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “We can take power from a plasma,” Kieran Furlong, co-founder and CEO
   of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-06-30T19:12:43Z'

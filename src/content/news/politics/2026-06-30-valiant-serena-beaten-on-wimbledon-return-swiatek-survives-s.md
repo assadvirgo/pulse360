@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ben Shelton dumped out by Finland&#039;s Otto Virtanen as Taylor Fritz
   and Alex de Minaur progress in straight sets.
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-30T22:12:07Z'

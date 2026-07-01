@@ -2,7 +2,7 @@
 category: Economy
 description: Workarounds to the Strait of Hormuz chokepoint and a drop in crude imports
   to China helped ease the impact of lost Persian Gulf oil supplies.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-30T21:28:00Z'

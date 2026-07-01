@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US government move allows AI start-up to re-release Mythos and Fable
   models
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-01T00:01:48Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Jarell Quansah and Reece James miss training as England's right-back
   issues mount before their World Cup last-32 match against DR Congo on Wednesday.
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-30T18:52:31Z'

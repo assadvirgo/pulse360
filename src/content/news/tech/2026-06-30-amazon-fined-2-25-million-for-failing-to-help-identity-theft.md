@@ -5,7 +5,7 @@ countryCode: US
 description: The Federal Trade Commission fined Amazon $2.25 million to settle claims
   that the company failed to help customers who fell victim to identity theft, as
   reported earlier by…
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 66.2
 pubDate: '2026-06-30T21:20:01Z'
