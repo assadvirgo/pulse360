@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Peptide drugs are popular, but FDA scientists warn they're untested,
   may be harmful.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 60.0
 pubDate: '2026-06-30T18:25:10Z'

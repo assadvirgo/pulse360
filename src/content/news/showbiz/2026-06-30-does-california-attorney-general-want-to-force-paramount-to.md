@@ -5,7 +5,7 @@ countryCode: US
 description: David Ellison&#8217;s Paramount Skydance is hoping to close its megamerger
   with Warner Bros. Discovery within the next several months &#8212; but there are
   still a few roadblocks…
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 66.8
 pubDate: '2026-06-30T15:28:11Z'

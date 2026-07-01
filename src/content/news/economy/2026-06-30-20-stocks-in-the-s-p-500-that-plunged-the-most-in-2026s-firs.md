@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: These companies were hit hard as investors worried about eventual losses
   of market share to AI tools.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-30T11:55:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Announced at CES 2026, the Moto Tag 2 has finally arrived in the US.
   The Bluetooth tracker with improved battery life over its predecessor, plus UWB
   sensing for more accurate…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-30T17:38:23Z'

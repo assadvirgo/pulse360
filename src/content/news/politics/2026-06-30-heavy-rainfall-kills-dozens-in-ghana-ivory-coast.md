@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Greater Accra Regional Fire Command says crews rescued more than 400
   people.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-06-30T15:54:52Z'

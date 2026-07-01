@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Top court&#039;s 6-3 ruling major blow to Trump, affirms nearly all infants
   born on US soil automatically become citizens.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-30T14:40:17Z'

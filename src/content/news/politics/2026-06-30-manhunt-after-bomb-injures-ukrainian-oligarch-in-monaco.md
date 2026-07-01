@@ -4,7 +4,7 @@ country: Monaco
 countryCode: MC
 description: The blast was caused by an explosive device which appeared to contain
   bolts and pellets, the head of Monaco's government said.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-06-30T13:22:15Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Kylian Mbappe&#039;s France, the title favourites for the 2026 World
   Cup, take on Alexander Isak&#039;s Sweden in the last 32.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-06-30T12:44:13Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Dutton Ranch&#8221; has found its new showrunner. Benjamin Cavell
   has joined the &#8220;Yellowstone&#8221; spinoff series to helm Season 2. Cavell
   takes over from Season 1…'
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-06-30T16:43:10Z'

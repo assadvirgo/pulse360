@@ -4,7 +4,7 @@ country: Serbia
 countryCode: RS
 description: Aleksandar Vučić says he plans to step down as president and return as
   premier after snap elections this autumn
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-30T13:17:04Z'

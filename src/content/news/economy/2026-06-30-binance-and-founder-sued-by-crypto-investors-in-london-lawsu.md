@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Nearly 1,700 UK users allege that world’s largest crypto exchange offered
   risky products without regulatory approval
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-06-30T17:25:01Z'

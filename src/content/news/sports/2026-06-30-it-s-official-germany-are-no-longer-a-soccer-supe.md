@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Germany expected Paraguay to be "an uncomfortable opponent," but the
   South American side was so much more that it ended Die Mannschaft's World Cup.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-30T17:08:24Z'

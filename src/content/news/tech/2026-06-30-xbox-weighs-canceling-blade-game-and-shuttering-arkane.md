@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is set to announce a wave of layoffs for its Xbox studios and
   employees next week. Sources familiar with Microsoft's plans tell The Verge that
   the layoffs will lead to…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-06-30T17:00:00Z'

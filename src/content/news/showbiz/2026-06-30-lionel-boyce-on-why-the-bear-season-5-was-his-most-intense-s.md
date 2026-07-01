@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This interview contains spoilers for Season 5 of &#8220;The
   Bear,&#8221; now streaming on Hulu. The fifth and final season of “The Bear” dropped
   12 hours ago on…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-06-30T19:15:00Z'
