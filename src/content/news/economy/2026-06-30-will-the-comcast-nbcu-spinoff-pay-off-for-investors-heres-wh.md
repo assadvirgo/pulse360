@@ -5,7 +5,7 @@ countryCode: US
 description: Comcast says splitting its cable and broadband business from NBCUniversal
   will unlock value for both businesses — but media spinoffs historically have resulted
   in mixed outcomes.
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-30T21:42:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Winning the whole tournament might be a stretch, but USA must look to
   regain momentum against Bosnia and Herzegovina.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-01T03:17:40Z'

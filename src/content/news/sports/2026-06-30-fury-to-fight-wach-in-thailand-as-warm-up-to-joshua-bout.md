@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Tyson Fury will fight Poland's Mariusz Wach in Thailand on 24 July as
   a warm-up for a potential all-British encounter with Anthony Joshua.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-06-30T17:13:47Z'

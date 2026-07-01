@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump has launched a slate of crypto-friendly policies since returning
   to the White House for a second term.
-displayOrder: 22
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-06-30T23:14:58Z'

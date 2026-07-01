@@ -5,7 +5,7 @@ countryCode: US
 description: Paula Reid is laying down the law at CNN. The Warner Bros. Discovery-backed
   outlet&#8217;s chief legal affairs correspondent has decided to leave ahead of an
   expected takeover of…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-01T00:47:15Z'

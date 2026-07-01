@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India&#039;s viral Cockroach Janta Party spends nearly two weeks protesting,
   demanding the education minister resign.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-06-30T22:14:33Z'

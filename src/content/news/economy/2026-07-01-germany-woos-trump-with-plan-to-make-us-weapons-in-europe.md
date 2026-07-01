@@ -3,7 +3,7 @@ category: Economy
 country: Germany
 countryCode: DE
 description: Talks on ‘joint production concepts’ accelerate ahead of Nato summit
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-01T04:00:26Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: With his fifth and sixth goals at the tournament, Mbappe pulls even with
   Messi in the Golden Boot race.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-01T00:54:02Z'

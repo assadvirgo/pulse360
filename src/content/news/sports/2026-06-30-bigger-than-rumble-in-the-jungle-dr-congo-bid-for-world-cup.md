@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: DR Congo's run at the 2026 World Cup comes 52 years on from both their
   disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-30T18:26:34Z'

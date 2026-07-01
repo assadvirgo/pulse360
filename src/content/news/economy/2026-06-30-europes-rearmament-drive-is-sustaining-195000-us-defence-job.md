@@ -2,7 +2,7 @@
 category: Economy
 description: Mark Rutte makes economic case for Donald Trump to remain committed to
   the alliance in FT interview
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-06-30T20:00:09Z'

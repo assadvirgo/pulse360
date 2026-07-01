@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It compares with more than $600m in total income that Trump reported
   in his last financial disclosure.
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-01T00:39:14Z'

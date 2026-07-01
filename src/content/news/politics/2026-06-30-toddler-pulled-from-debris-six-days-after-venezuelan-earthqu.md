@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: A Jordanian rescue team used thermal imaging to rescue a toddler who
   had been trapped under rubble for six days.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-06-30T17:15:53Z'
