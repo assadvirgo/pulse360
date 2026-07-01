@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A major issue for automakers is the deal's rules of origin, which determine
   where a product comes from and which goods are eligible for preferential treatment.
-displayOrder: 31
+displayOrder: 47
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-01T12:56:49Z'

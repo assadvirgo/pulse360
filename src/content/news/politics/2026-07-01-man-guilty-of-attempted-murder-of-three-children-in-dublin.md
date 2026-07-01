@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Riad Bouchaker denied attempting to murder three children and assaulting
   four other people on 23 November 2023.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-01T15:34:10Z'

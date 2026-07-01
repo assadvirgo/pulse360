@@ -3,7 +3,7 @@ category: Sports
 description: The Word Cup has suffered a 'significant increase' in the most serious
   examples of racist abuse online, Fifa's social media protection service (SMPS) has
   found.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-01T15:16:29Z'

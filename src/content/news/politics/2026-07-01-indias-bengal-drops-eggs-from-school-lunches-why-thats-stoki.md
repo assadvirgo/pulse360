@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Opposition politicians say the BJP is &#039;imposing vegetarianism&#039;
   by removing eggs from midday meals.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T14:52:12Z'

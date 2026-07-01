@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Gojek co-founder and former Education Minister Nadiem Makarim has been
   sentenced to 10 years in prison.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-01T04:46:31Z'

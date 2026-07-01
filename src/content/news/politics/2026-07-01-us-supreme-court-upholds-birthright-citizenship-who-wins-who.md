@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Court struck down US President Trump&#039;s executive order abolishing
   it, but he has pledged to challenge the ruling.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 70.5
 pubDate: '2026-07-01T12:24:19Z'

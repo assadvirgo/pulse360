@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED: Paula Reid is expected to depart CNN, where she has served
   as the network&#8217;s chief legal affairs correspondent, according to sources familiar
   with her plans. Reid is…'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-01T16:08:00Z'

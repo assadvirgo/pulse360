@@ -4,7 +4,7 @@ country: Algeria
 countryCode: DZ
 description: Post-Hirak distrust, candidate exclusions and political apathy are expected
   to drive low turnout.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-01T13:38:48Z'

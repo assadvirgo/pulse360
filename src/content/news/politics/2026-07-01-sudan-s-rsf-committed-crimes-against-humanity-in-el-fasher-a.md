@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: The Amnesty report adds to evidence of atrocities in el-Fasher, which
   the UN says bore the hallmarks of genocide.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-01T06:29:31Z'

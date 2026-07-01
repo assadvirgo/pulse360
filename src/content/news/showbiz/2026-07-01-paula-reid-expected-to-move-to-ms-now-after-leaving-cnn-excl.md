@@ -5,7 +5,7 @@ countryCode: US
 description: Legal-affairs journalist Paula Reid is expected to take up new duties
   at MS NOW, according to a person familiar with the matter, leaving behind a top
   job at CNN in part due to the…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-01T15:43:20Z'

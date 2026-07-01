@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Heatstroke can affect anyone, but people who take certain medications
   or have certain health conditions are at higher risk.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-01T12:02:00Z'

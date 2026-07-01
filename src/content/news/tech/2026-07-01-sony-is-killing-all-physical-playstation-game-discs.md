@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony has announced that from January 2028 it will entirely stop the production
   of physical discs for new PlayStation games. From that point onwards, new releases
   will only be…
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-01T12:15:13Z'

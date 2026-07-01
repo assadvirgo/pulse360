@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The country becomes the first new participant since Australia joined
   the contest in 2015.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-01T12:30:56Z'

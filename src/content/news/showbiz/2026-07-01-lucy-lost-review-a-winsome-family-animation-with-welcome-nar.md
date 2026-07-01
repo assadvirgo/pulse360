@@ -5,7 +5,7 @@ countryCode: GB
 description: From the blockbuster stage and screen iterations of &#8220;War Horse&#8221;
   to the underseen &#8220;When the Whales Came&#8221; to the recent, BAFTA-winning
   &#8220;Kensuke&#8217;s…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-01T16:03:39Z'

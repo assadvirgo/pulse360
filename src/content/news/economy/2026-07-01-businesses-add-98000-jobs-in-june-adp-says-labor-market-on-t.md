@@ -5,7 +5,7 @@ countryCode: US
 description: ADP said U.S. businesses 98,000 new jobs in June — the smallest increase
   in three months. The payroll processor said hiring was slow but demand for labor
   was improving.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-01T12:26:00Z'

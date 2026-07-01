@@ -2,7 +2,7 @@
 category: Politics
 description: As trade tensions grow, Europe tries to remain competitive while balancing
   ties with the US and China.
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-01T14:00:52Z'

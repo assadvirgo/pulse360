@@ -5,7 +5,7 @@ countryCode: US
 description: 'Viz Media will premiere &#8220;Bleach: Thousand-Year Blood War – The
   Calamity&#8221; on July 25, streaming exclusively on Hulu in the U.S. and Disney+
   in select international…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-01T16:00:00Z'
