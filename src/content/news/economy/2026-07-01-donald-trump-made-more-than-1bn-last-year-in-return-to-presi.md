@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president also earned hundreds of thousands of dollars from licensing
   of Bibles, watches and perfume
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-07-01T00:04:20Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Melat Kiros’s victory is latest challenge to Democratic Party leaders
   ahead of crucial US midterm elections
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-01T04:32:30Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Nike’s profit and gross margins were buoyed by a tariff refund.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-01T00:19:00Z'

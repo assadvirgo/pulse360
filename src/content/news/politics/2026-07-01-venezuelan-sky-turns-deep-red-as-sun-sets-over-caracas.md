@@ -3,7 +3,7 @@ category: Politics
 country: Venezuela
 countryCode: VE
 description: Venezuelan sky turns deep red as sun sets over Caracas
-displayOrder: 19
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T09:01:57Z'

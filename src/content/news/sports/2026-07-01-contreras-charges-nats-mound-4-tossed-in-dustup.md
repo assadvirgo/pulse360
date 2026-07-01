@@ -5,7 +5,7 @@ countryCode: US
 description: Boston Red Sox first baseman Willson Contreras was ejected for a second
   straight game following a heated exchange with Washington Nationals pitcher Cade
   Cavalli.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T13:46:16Z'

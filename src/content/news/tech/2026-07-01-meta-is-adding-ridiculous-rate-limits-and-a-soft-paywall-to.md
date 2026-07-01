@@ -5,7 +5,7 @@ countryCode: US
 description: Would you pay $20 a month for access to AI hardware you already own?
   That appears to be one of Meta's next bets. This week, it quietly announced that
   your glasses' Conversation…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-01T00:51:03Z'

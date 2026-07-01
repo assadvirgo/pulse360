@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: Once a European nation receiving large numbers of refugees and migrants,
   Sweden completes a decade-long overhaul.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T05:52:19Z'

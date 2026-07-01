@@ -3,7 +3,7 @@ category: Tech
 description: Unlock massive discounts on Priceline hotels, flights, and rental cars.
   Find verified Priceline coupon codes and deals for Express Deals, student discounts,
   and more.
-displayOrder: 34
+displayOrder: 49
 heroImage: ''
 importance: 54.2
 pubDate: '2026-07-01T05:00:00Z'

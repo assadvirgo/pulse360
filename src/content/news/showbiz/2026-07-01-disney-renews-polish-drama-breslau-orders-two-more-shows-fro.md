@@ -5,7 +5,7 @@ countryCode: PL
 description: Disney+ is going big in Poland, renewing Breslau for a second season
   and ordering two more shows. Deadline revealed back in 2024 that the streamer had
   greenlit Breslau, its first…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-01T09:28:42Z'

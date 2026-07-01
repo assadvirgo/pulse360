@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Vinton Cerf, one of the creators of the protocols underlying the internet,
   will step down as Google's chief internet evangelist next week.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-01T03:15:37Z'

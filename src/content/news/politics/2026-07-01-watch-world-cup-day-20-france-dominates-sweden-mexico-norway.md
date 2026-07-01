@@ -2,7 +2,7 @@
 category: Politics
 description: Latest match highlights, reaction and previews from the FIFA World Cup
   2026 in North America.
-displayOrder: 26
+displayOrder: 46
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-01T08:40:41Z'

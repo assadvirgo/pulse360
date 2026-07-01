@@ -5,7 +5,7 @@ countryCode: AU
 description: Beloved Australian comedy Colin from Accounts is soon back for Season
   3 on Binge and Paramount+, and trailer has dropped. The third season with the addition
   of new cast including…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-01T08:09:35Z'

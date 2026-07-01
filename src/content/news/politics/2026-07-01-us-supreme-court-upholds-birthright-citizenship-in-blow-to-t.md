@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The ruling is a major setback for Donald Trump's immigration agenda,
   and has been welcomed by civil rights groups.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-01T05:32:26Z'

@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: Swedish court rules search engine favoured its own price-comparison tool
   over fintech’s PriceRunner site
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-01T12:19:33Z'

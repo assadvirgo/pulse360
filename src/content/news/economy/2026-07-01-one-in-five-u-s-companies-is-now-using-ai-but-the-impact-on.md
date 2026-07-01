@@ -5,7 +5,7 @@ countryCode: US
 description: Artificial-intelligence usage by American firms increased to 20.6% in
   June, and drags caused by the technology in certain sectors have been offset by
   growth in the construction…
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-01T12:20:00Z'

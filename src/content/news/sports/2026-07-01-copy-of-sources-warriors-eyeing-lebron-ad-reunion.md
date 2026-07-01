@@ -5,7 +5,7 @@ countryCode: US
 description: The Warriors are prepared to pursue a reunion of LeBron James and Anthony
   Davis in Golden State, with Draymond Green declining his player option to open up
   the flexibility for…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-01T03:53:55Z'

@@ -5,7 +5,7 @@ countryCode: CH
 description: Established and emerging auteurs feature in 40 "fearless titles" in the
   experimental section, reflecting "the war of the worlds," both "the public conflicts
   shattering our present…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-01T09:00:00Z'

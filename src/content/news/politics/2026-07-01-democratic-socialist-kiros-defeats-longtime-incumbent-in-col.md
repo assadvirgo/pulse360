@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former lawyer Melat Kiros, 29, has criticised Democrats for support of
   Israel during its genocidal war on Gaza.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T05:56:54Z'

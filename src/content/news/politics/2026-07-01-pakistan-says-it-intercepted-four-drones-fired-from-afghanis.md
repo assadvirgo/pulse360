@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Afghan defence ministry says it carried out &#039;air strikes&#039; in
   Pakistan&#039;s Balochistan and Khyber Pakhtunkhwa provinces.
-displayOrder: 17
+displayOrder: 40
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-01T07:55:16Z'
