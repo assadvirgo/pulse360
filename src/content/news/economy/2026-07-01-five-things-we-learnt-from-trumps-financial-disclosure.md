@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president earned more than $1bn from digital currency interests
   as well as real estate and stock trades
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-01T03:03:34Z'

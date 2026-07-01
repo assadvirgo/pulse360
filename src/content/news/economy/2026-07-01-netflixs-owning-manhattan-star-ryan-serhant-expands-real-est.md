@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Reality TV star Ryan Serhant is expanding his fast-growing real estate
   empire to the Lone Star State.
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-01T09:03:00Z'

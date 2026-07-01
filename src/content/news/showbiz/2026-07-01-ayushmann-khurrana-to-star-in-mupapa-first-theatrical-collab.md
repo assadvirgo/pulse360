@@ -5,7 +5,7 @@ countryCode: IN
 description: Yash Raj Films and Posham Pa Pictures are joining forces for their first
   theatrical collaboration, &#8220;Mupapa,&#8221; starring Ayushmann Khurrana, with
   a release date of Feb.…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-01T05:30:00Z'

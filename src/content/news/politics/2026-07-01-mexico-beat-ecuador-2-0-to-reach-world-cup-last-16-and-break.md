@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Adverse weather does not dampen Mexico&#039;s party as the cohosts storm
   into the last 16 by beating Ecuador.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-01T04:02:34Z'

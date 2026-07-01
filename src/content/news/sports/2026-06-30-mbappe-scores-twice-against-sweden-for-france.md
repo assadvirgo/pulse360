@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Kylian Mbappe scores twice as France cruise to a comfortable win over
   Sweden in their World Cup round of 32 match at the New York New Jersey Stadium.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-06-30T22:55:28Z'

@@ -3,7 +3,7 @@ category: Economy
 description: Investors have poured money into exchange-traded funds at a rapid pace
   in the first half of 2026, demonstrating an unrelenting appetite for stocks associated
   with the AI theme.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-06-30T22:12:00Z'

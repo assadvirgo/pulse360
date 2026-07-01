@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Partial ownership group now has customers in their twenties
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-01T04:00:26Z'

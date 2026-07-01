@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president’s new annual filing is nearly four times as lengthy as
   last year’s disclosure and shows crypto income in the hundreds of millions
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-06-30T22:48:00Z'

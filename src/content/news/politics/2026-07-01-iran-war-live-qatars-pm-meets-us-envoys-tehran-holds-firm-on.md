@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran says talks on a final deal will not begin until hostilities end
   in Lebanon and US releases frozen Iranian funds.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-01T00:00:09Z'

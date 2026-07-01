@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Supreme Court’s 6-3 ruling on birthright citizenship could signal
   that the issue could return to the Court.
-displayOrder: 18
+displayOrder: 39
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-01T04:41:26Z'

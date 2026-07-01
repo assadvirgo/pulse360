@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Brown was found liable by a Los Angeles jury on Tuesday for $13
   million in the gruesome case of a dog that mauled and disfigured his housekeeper
   at his home in 2020. At the…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-01T01:13:48Z'

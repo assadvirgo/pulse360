@@ -5,7 +5,7 @@ countryCode: US
 description: Kathy Griffin took to Instagram on Tuesday to claim that she’s been banned
   from Jimmy Fallon&#8217;s “Tonight Show.” She also slammed Fallon for hosting UFC
   legend Conor McGregor,…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-01T03:51:37Z'

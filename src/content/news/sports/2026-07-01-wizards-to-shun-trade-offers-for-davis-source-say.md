@@ -5,7 +5,7 @@ countryCode: US
 description: The Washington Wizards have no interest in trading All-Star forward Anthony
   Davis and are not listening to offers for him, a source told Andscape's Marc J.
   Spears.
-displayOrder: 3
+displayOrder: 25
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-01T05:45:23Z'

@@ -4,7 +4,7 @@ country: Algeria
 countryCode: DZ
 description: Algeria holds legislative elections amid debates over reform, turnout
   and political stability.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T01:45:42Z'

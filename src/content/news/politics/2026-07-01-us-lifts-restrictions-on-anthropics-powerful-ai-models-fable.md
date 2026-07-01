@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI firm says it will begin restoring access to Claude Fable 5 and Mythos
   5 after the removal of export controls.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-01T02:16:34Z'

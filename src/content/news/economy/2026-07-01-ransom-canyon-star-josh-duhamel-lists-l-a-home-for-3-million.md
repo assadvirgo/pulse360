@@ -5,7 +5,7 @@ countryCode: US
 description: Hollywood star Josh Duhamel may be parting ways with his life in Los
   Angeles and dedicating himself to living full-time at his off-grid Minnesota cabin
   after listing his longtime…
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-01T08:58:00Z'

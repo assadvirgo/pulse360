@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: The clothing retailer forged in Japan’s post-bubble economy is pinning
   its hopes on Europe and North America
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-01T04:00:05Z'

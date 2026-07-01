@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Mexican fans gathered outside Ecuador’s team hotel using loudspeakers,
   horns and motorcycles to disturb their rest.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-01T00:13:03Z'
