@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic
   opportunity.”
-displayOrder: 38
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-02T13:14:00Z'

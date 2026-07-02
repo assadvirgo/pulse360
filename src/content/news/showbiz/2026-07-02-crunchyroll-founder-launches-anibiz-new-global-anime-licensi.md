@@ -5,7 +5,7 @@ countryCode: US
 description: Crunchyroll founder and former CEO Kun Gao&#8217;s anime-focused media
   company Nakama launched new platform AniBiz.com Thursday. The offering is described
   as &#8220;the first…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-02T16:00:02Z'

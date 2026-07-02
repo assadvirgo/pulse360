@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATE July 2 throughout: Ivan “Vanya” Beerkus and Angela Nikolau, the
   subjects of Netflix’s 2024 documentary Skywalkers: A Love Story who climbed to the
   needle-top of the Empire…'
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 70.0
 pubDate: '2026-07-02T15:48:00Z'

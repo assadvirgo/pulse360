@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Nearly 150 UAV incursions into more than a dozen European countries were
   made over 19 months, IISS report says
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-02T08:30:08Z'

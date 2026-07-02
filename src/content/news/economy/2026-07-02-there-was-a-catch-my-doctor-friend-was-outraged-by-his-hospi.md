@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “This shocking program was exploiting doctors and the trust inherent
   in their relationships with patients.”
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-02T09:42:00Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Ruling coalition overcomes divisions to agree longer Sunday opening hours
   and tighter sick-leave rules
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-02T11:08:22Z'

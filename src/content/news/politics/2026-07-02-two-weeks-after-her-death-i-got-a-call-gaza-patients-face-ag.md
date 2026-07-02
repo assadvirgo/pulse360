@@ -2,7 +2,7 @@
 category: Politics
 description: An estimated 300 Palestinians referred for treatment abroad have died
   since the ceasefire began, according to Gaza's Hamas-run health ministry.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-02T04:59:55Z'

@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Late VAR penalty leads to fury as Senegal blows 2-0 lead, loses 3-2 to
   Belgium in dramatic World Cup Round of 32 exit.
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-02T12:07:11Z'

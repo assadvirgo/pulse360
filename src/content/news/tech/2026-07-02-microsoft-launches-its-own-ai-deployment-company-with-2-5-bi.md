@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment
   group.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-02T13:53:00Z'

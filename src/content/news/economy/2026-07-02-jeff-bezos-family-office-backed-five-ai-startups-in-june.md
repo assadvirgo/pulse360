@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bezos Expeditions is now the most active family office investor thus
   far this year, per data from Fintrx.
-displayOrder: 35
+displayOrder: 41
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-02T12:30:01Z'

@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: An 11-year-old boy crashed a pickup truck into a group of monks on a
   pilgrimage walk in northeastern Thailand on Thursday, killing eight, officials said.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-02T09:57:00Z'

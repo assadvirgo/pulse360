@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Police say 11-year-old boy who took his parents&#039; vehicle without
   permission is now in custody and will be questioned.
-displayOrder: 23
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-02T10:04:30Z'

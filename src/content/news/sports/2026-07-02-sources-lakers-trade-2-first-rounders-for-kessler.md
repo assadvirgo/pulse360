@@ -5,7 +5,7 @@ countryCode: US
 description: The Lakers are acquiring Walker Kessler from the Jazz for unprotected
   first-round picks in 2031 and 2033 and first-round swaps in 2028 and 2030 and signing
   Sandro Mamukelashvili,…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-02T00:59:12Z'

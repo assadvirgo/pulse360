@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: As Canadians celebrate their nation's birthday, independence movements
   in two provinces are eyeing the exit from the country.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-02T13:31:23Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: The ex-singer is currently serving jail time in his native U.K. relating
   to one count of attempted rape, one count of unlawful sexual intercourse with a
   girl under 13, and four…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-02T14:42:41Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Critics say it could hasten forced assimilation, lead to targeting of
   critics outside China. Beijing rejects charges.
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-02T12:52:20Z'

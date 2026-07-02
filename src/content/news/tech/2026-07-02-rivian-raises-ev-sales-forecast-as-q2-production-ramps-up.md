@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company now expects to ship a few thousand more vehicles by the end
   of 2026 than it previously expected, after launching its R2 SUV last month.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-02T12:30:00Z'

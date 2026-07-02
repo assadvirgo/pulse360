@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Under fire amid surge in far right, German chancellor unveils tax and
   pension reform package in bid to revive economy.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-02T10:46:35Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Hiring slows after 3-month streak of overperformance
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-02T13:12:46Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Spain, Portugal and Switzerland take centre stage as the knockout drama
   continues across North America.
-displayOrder: 21
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-02T10:39:10Z'
