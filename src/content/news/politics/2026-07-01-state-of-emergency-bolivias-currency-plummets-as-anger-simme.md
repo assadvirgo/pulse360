@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Bolivia’s President Paz declared a state of emergency after 50 days of
   protests against his policies.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-01T20:44:36Z'

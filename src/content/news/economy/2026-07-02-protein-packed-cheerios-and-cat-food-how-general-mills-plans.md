@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “Cat growth is on fire,” one executive said.
-displayOrder: 41
+displayOrder: 42
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-02T00:15:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Historians say Trump's $2.2bn income last year is unprecedented and blurs
   the line on conflicts of interest.
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 75.2
 pubDate: '2026-07-01T22:36:43Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Pragmatism, not ideology, should be the guide
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-02T04:00:13Z'

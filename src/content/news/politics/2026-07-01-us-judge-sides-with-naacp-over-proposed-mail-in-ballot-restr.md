@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump has sought to limit mail-in voting and has ordered his
   administration to impose limits on the practice.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-01T22:53:50Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The money in “Trump accounts” has to be invested in low-cost index funds
   — and now parents and investors are learning which funds they can actually use.
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-01T21:55:00Z'

@@ -5,7 +5,7 @@ countryCode: IE
 description: With just over a year until the World Cup, injury-hit Ireland look to
   begin the inaugural Nations Championship with victories over Australia, Japan and
   New Zealand.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-01T16:00:50Z'

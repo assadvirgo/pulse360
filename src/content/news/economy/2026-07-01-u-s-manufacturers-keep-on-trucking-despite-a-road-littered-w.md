@@ -5,7 +5,7 @@ countryCode: US
 description: High U.S. tariffs, war with Iran, a spike in oil prices, rising inflation
   — no matter. American manufacturers grew in June for the sixth month in a row to
   mark the longest streak…
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-01T16:22:00Z'

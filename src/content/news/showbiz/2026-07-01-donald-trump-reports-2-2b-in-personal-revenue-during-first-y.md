@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump personally collected $2.2 billion during the first year
   of his second presidential term, according to a disclosure form released Tuesday
   by the U.S. Office Of…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-01T23:26:12Z'

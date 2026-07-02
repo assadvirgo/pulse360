@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: The young migrants heading to Europe say they were stripped and had their
   hands tied in freezing temperatures.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-01T22:13:03Z'

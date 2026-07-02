@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Target of 117 proves insufficient as Warwickshire romp to victory with
   four overs to spare
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-01T19:08:44Z'

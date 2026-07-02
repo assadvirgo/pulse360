@@ -2,7 +2,7 @@
 category: Economy
 description: Companies and investors turn to M&amp;A as they adjust to economic shifts
   driven by the rise of AI
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-01T20:00:08Z'
