@@ -5,7 +5,7 @@ countryCode: CH
 description: '"We aimed to create a journey that is both surprising and accessible
   even to the youngest viewers, without shying away from the complexities of the contemporary
   world," says…'
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-02T09:00:00Z'

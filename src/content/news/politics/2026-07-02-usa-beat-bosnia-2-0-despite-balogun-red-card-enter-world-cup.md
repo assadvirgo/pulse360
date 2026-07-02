@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Balogun scored USA&#039;s first goal and was sent off for a foul, but
   the home team scored another to advance to next round.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-02T02:52:03Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bringing the government on board as an equity partner may serve to dilute
   some of the criticism of the AI industry that has developed momentum in recent months.
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-02T08:49:00Z'

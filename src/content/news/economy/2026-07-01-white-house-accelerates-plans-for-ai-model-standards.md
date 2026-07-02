@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Guidance to be announced as soon as next week after government intervention
   in Anthropic and OpenAI rollouts
-displayOrder: 39
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-01T22:51:47Z'

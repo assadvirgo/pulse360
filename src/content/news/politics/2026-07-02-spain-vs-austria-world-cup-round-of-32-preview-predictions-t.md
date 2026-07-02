@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain take on Austria in Los Angeles, with the winner facing either Portugal
   or Croatia in the last 16.
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-02T07:26:56Z'

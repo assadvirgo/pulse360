@@ -5,7 +5,7 @@ countryCode: IT
 description: World number one Jannik Sinner overcomes a stern test against Portugal's
   Nuno Borges on Centre Court, securing a 7-6 (7-4), 7-6 (7-2), 6-4 victory to advance
   to the third round.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-01T17:24:00Z'

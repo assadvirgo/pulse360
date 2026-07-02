@@ -5,7 +5,7 @@ countryCode: US
 description: As the Oscars ceremony prepares for its move to YouTube in 2029, chief
   Oscars officer Teni Melidonian is stepping down, AMPAS CEO Bill Kramer told staffers
   in an email, according…
-displayOrder: 4
+displayOrder: 22
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-02T03:39:46Z'

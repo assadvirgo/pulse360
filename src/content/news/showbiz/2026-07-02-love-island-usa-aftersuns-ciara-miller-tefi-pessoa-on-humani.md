@@ -5,7 +5,7 @@ countryCode: US
 description: Ciara Miller and Tefi Pessoa, the two new bombshells who entered the
   Love Island USA villa to revamp Aftersun. The weekly talk show features Miller and
   Pessoa giving a debrief of…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-02T01:00:25Z'

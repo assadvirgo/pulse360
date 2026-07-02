@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: FT analysis shows US president declared more than 22,000 share transactions
   last year
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-01T21:26:05Z'

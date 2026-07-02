@@ -2,7 +2,7 @@
 category: Politics
 description: The world’s oceans are under heat stress, with average sea surface temperatures
   hitting 21°C.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-02T01:57:32Z'

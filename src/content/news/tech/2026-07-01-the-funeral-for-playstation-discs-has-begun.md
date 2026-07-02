@@ -5,7 +5,7 @@ countryCode: US
 description: Cody Spencer, the co-owner of the small games retail chain Pink Gorilla
   Games, put it well when I asked about the impact of Sony's recent announcement that
   it will stop making…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-01T22:03:37Z'

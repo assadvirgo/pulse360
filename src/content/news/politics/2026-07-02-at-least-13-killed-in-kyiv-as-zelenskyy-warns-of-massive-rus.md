@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Dozens also injured as Ukraine&#039;s forces defend against ballistic
   missiles, drone barrage targeting capital.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-02T02:15:06Z'

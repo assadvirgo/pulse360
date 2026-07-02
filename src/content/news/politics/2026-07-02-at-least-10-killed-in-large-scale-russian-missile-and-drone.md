@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia launched its biggest strikes on the city in weeks with children
   among the "significant number" of casualties, Ukrainian officials say.
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-02T05:00:57Z'

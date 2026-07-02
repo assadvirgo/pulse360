@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president calls it a ‘gift’ to the nation. Critics say he is racing
   past checks to stamp his mark on the capital
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-02T04:00:04Z'

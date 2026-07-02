@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bruce Lee Day aims to honour the San Francisco-born martial arts legend
   as a cultural bridge and Asian-American icon.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-02T04:41:41Z'

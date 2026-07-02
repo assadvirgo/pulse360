@@ -2,7 +2,7 @@
 category: Politics
 description: European airlines and airports call for flexibility to suspend digital
   border system amid severe delays.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-02T03:14:42Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: The Court of Justice of the European Union ruled to uphold its fine against
   Google over alleged anti-competition practices
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-02T08:59:00Z'

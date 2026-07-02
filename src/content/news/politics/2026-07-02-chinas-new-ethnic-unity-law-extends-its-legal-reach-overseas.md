@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Rather than promote ethnic harmony, activists say the law could justify
   transnational repression.
-displayOrder: 11
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-02T06:30:21Z'

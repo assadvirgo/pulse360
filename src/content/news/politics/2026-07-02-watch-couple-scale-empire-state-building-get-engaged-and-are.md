@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The two were atop the 1,454 ft (443m) building for at least ten minutes
   and displayed a large banner before climbing down.
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-02T04:16:09Z'

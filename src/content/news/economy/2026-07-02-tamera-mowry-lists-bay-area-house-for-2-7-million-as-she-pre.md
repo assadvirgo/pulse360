@@ -5,7 +5,7 @@ countryCode: US
 description: “Sister, Sister” star Tamera Mowry-Housley has listed her longtime California
   house for $2.7 million—months after revealing that she and her husband are in the
   process of building…
-displayOrder: 33
+displayOrder: 43
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-02T09:01:00Z'

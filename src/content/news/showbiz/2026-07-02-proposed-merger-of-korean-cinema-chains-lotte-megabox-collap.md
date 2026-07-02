@@ -5,7 +5,7 @@ countryCode: KR
 description: South Korea’s second and third largest cinema chains, Lotte Cinema and
   Megabox, have called off their proposed merger. Lotte Shopping revealed in a corporate
   filing on Wednesday…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-07-02T07:26:07Z'
