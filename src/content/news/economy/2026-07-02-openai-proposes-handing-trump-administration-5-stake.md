@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sam Altman’s start-up in early talks for a public ownership deal as political
   pressure rises
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-02T04:00:23Z'

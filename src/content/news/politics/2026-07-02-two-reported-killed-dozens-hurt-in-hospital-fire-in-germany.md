@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: At least 34 injured after fire at the only hospital in the town of Ludwigslust;
   probe into the blaze is ongoing.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-02T08:36:50Z'

@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Venezuelan rescuers fight to save lives as survivors face hunger and
   chaos after devastating twin earthquakes.
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-02T07:48:43Z'

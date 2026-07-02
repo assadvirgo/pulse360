@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Attack of 74 missiles and nearly 500 drones follows Zelenskyy’s warning
   that Moscow is preparing ‘massive strike’
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-02T09:45:42Z'

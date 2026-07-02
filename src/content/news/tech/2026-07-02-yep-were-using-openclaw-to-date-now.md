@@ -3,7 +3,7 @@ category: Tech
 description: Ben Guez has "a bunch of potential international wives in [his] DMs,"
   thanks to an automated script he set up using OpenClaw, Claude code, and Instagram
   trials.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-02T12:00:00Z'

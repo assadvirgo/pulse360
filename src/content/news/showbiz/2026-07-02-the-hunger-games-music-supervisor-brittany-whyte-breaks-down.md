@@ -5,7 +5,7 @@ countryCode: TW
 description: Music supervision is far more than picking great songs. That was the
   central message from Brittany Whyte – whose credits span &#8220;The Handmaid&#8217;s
   Tale,&#8221;…
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 71.8
 pubDate: '2026-07-02T12:31:56Z'

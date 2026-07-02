@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As much as new Fed Chair Kevin Warsh tried to refrain from steering markets,
   it looks like he did.
-displayOrder: 30
+displayOrder: 45
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-02T09:08:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Folarin Balogun scores and is later sent off as the United States advance
   past a lacklustre Bosnia-Herzegovina in Santa Clara to reach the last 16 of the
   World Cup.
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-02T03:11:24Z'

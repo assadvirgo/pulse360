@@ -5,7 +5,7 @@ countryCode: GB
 description: Award-winning factual producer Proper Content is set to shutter amid
   tough market conditions. Founder David DeHaney, who set up the company in 2016,
   announced the decision to…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-02T10:07:21Z'

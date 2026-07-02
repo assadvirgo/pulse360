@@ -5,7 +5,7 @@ countryCode: GB
 description: Tottenham target West Ham's Crysencio Summerville, Juventus consider
   Sunderland striker Brian Brobbey, Everton look at Pape Gueye and Mandela Keita to
   replace Idrissa Gueye, plus…
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-02T08:59:22Z'

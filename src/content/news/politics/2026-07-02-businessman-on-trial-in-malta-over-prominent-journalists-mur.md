@@ -4,7 +4,7 @@ country: Malta
 countryCode: MT
 description: Yorgen Fenech is charged with orchestrating the assassination of journalist
   Daphne Caruana Galizia.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-02T06:18:10Z'

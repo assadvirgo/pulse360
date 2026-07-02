@@ -3,7 +3,7 @@ category: Politics
 country: Ukraine
 countryCode: UA
 description: Ukrainian man charged with war crimes over Nord Stream pipeline explosions
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-02T10:10:00Z'

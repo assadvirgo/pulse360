@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Kleiber Moran, 2, was rescued on Wednesday, six days after last week's
   deadly earthquakes.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 71.2
 pubDate: '2026-07-02T00:26:13Z'

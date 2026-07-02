@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump arrived in North Dakota aboard a train for
   the Roosevelt Presidential Library dedication.
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-02T08:19:11Z'
