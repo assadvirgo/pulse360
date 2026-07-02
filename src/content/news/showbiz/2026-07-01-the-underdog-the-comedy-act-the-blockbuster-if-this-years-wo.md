@@ -3,7 +3,7 @@ category: Showbiz
 description: Soccer and cinema have much more in common than just being billion-dollar
   industries with a superiority complex. So who's channeling their inner Marty Mauser,
   and who's the Curry…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-01T18:58:32Z'

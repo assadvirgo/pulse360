@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: He also teamed with Douglas S. Cramer on ‘Bridget Loves Bernie,’ ‘Nightmare
   in Badham County’ and ‘Who Is the Black Dahlia?’
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-01T22:06:40Z'

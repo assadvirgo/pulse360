@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: More than one million people took to the streets of Mexico's capital
   on Tuesday to mark the country's win over Ecuador.
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-01T20:15:59Z'

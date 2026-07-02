@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Should England have been awarded a penalty in their World Cup last-32
   tie against DR Congo?
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-01T17:48:24Z'

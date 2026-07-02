@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A Guggenheim analyst says that valuations for the two software stocks
   are too depressed, even though the AI threat is real.
-displayOrder: 27
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-01T21:54:00Z'

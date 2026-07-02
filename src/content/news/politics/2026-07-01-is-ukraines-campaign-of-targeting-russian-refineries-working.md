@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Fuel shortages in the country are unlikely to force Putin into concessions
   for peace.
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-01T15:29:46Z'

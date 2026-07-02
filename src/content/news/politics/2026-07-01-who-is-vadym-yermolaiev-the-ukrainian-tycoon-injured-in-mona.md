@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Police in Monaco and France are hunting for a suspect seen leaving an
   explosive device at a residential building.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-01T12:15:39Z'

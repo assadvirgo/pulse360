@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Displaced Lebanese face a void as war annihilates the physical and emotional
   anchors of their past and identity.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-01T17:36:09Z'

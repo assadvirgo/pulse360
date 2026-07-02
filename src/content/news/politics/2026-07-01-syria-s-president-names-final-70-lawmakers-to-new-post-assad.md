@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Fifteen women are appointed, after only six female candidates were selected
   by regional electoral colleges last October.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-01T16:44:58Z'

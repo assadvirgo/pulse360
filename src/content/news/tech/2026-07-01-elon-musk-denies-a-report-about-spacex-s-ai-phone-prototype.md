@@ -5,7 +5,7 @@ countryCode: US
 description: Elon Musk says a report about a SpaceX AI phone prototype is "utterly
   false." The report, published on Wednesday by The Wall Street Journal, says SpaceX
   showed off a "handset-like…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-01T20:10:21Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Izzy Englander and Steve Cohen’s firms post double-digit returns in first
   half of year
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T14:59:37Z'

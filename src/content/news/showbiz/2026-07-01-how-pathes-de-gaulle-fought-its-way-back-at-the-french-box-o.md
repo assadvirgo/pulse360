@@ -5,7 +5,7 @@ countryCode: FR
 description: 'Antonin Baudry’s “De Gaulle: Résistance,” Pathé’s ambitious two-part
   historical epic about the making of Charles de Gaulle as a resistance leader, has
   fought its way back into a…'
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-01T20:09:17Z'

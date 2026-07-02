@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: The new 210-member parliament takes shape, marking a historic shift after
   decades of Assad family rule.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T15:01:35Z'

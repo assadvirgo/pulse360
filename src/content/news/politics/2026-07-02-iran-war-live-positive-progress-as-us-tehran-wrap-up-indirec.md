@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tehran says a &#039;communication channel&#039; will be established with
   Washington to report and discuss breaches of the MoU.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-02T00:00:00Z'

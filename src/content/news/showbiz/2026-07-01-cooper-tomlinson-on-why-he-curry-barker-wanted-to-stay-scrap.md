@@ -5,7 +5,7 @@ countryCode: US
 description: Following his big breakout with Obsession, Curry Barker is keeping the
   indie spirit alive with his follow-up at Focus Features and Blumhouse Atomic Monster.
   Anything But…
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-01T21:33:38Z'

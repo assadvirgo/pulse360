@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli opposition criticise the means employed by Netanyahu, but cannot
   risk opposing his ends.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-01T20:14:30Z'

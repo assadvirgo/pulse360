@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Franco-German tank maker says it will wait for ‘more favourable’ market
   conditions
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-01T20:49:05Z'

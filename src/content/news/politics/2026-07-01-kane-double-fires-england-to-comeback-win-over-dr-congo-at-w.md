@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England survive huge scare against DR Congo to win 2-1 and set up last
   16 clash with cohosts Mexico.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-01T18:23:52Z'
