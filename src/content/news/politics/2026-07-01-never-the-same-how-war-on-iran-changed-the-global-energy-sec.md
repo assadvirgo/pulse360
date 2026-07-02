@@ -2,7 +2,7 @@
 category: Politics
 description: Conflict will accelerate shift to renewables and search for alternatives
   to Strait of Hormuz, energy analysts say.
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T14:45:04Z'

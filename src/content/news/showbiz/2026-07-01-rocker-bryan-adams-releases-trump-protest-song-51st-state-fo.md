@@ -5,7 +5,7 @@ countryCode: CA
 description: '"When you''re talkin'' ''bout my home/ You better show some respect,”
   the Canadian rocker said after the U.S. president talked openly about annexing Canada
   amid an ongoing tariffs…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 66.8
 pubDate: '2026-07-01T15:46:34Z'

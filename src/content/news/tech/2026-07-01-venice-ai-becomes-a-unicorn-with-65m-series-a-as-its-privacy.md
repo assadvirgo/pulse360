@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Venice AI is already profitable, with annualized run-rate revenues of
   over $70 million, CEO Erik Voorhees said.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-01T14:25:23Z'

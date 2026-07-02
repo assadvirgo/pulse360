@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: One week after Venezuela&#039;s twin earthquakes, more than 1,900 are
   confirmed dead while tens of thousands are missing.
-displayOrder: 13
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-01T18:35:39Z'

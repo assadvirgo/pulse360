@@ -5,7 +5,7 @@ countryCode: US
 description: Fresh off the success of &#8220;Backrooms,&#8221; Hollywood has found
   its next Gen Z phenomenon to bring to screens. Warner Bros. has won a bidding war
   for the rights to…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-01T18:08:40Z'

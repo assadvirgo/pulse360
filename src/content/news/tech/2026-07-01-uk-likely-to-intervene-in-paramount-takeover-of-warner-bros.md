@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The acquisition was approved without concessions by the Department of
   Justice in June.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-01T13:24:39Z'

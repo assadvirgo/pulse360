@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Health officials say three people died during massive celebrations in
   Mexico City after Mexico’s 2-0 World Cup win.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-01T17:45:52Z'

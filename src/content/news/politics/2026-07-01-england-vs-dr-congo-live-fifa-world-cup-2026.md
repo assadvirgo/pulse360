@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Follow updates from the round of 32 clash - including the build-up, analysis
   and live text commentary of the game.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-01T12:30:00Z'

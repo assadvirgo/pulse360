@@ -5,7 +5,7 @@ countryCode: US
 description: Smart speakers have spent the past few years searching for a compelling
   second act. Beyond music, timers, and controlling your lights, they've struggled
   to justify taking up space…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-01T12:00:00Z'

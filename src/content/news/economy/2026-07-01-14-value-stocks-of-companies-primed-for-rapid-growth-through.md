@@ -5,7 +5,7 @@ countryCode: US
 description: Value stocks tend to outperform growth stocks during periods of high
   inflation. These companies in the Russell 1000 Value Index have high revenue growth
   estimates for the next two…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-01T16:10:00Z'

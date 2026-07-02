@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New chair tells central bankers price stability will be focus regardless
   of potential pressure from White House
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-01T15:53:25Z'

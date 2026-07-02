@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The heatwave will likely see record high temperatures, ahead of Fourth
   of July celebrations and FIFA matches in the US.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-01T16:13:09Z'

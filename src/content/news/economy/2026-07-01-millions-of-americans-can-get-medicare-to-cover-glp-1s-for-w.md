@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Until this week, Medicare only covered GLP-1 drugs for conditions like
   Type 2 diabetes, sleep apnea, and stroke or heart-attack risk.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-01T16:00:00Z'

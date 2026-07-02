@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: '"You gods don''t speak in ways we understand."'
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-01T16:58:30Z'
