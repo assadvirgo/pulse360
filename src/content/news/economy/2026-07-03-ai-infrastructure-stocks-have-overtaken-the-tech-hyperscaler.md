@@ -3,7 +3,7 @@ category: Economy
 description: A research team at UBS sees value creation in the artificial intelligence
   infrastructure sector soaring 600% in the space of four years, compared with just
   100% for “hyperscalers.”
-displayOrder: 32
+displayOrder: 40
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-03T15:41:00Z'

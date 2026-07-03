@@ -3,7 +3,7 @@ category: Tech
 description: Midjourney has shown more of its futuristic medical scanner. It still
   hasn't shown much proof it works. The AI startup, best known for generating images,
   released a…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-03T11:49:10Z'

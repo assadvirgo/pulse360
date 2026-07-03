@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Under him the Supreme Court has defied Trump, while at the same time
   expanding the scope of presidential power
-displayOrder: 20
+displayOrder: 28
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-03T13:51:23Z'

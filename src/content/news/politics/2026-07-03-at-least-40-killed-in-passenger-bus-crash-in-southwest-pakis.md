@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Bus loses control and falls into rocky ravine near border of Balochistan
   and Khyber Pakhtunkhwa, officials say.
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-03T07:24:42Z'

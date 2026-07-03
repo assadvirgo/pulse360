@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nonalcoholic beer is catching on even with people who also buy alcohol,
   as Americans look to moderate their drinking.
-displayOrder: 31
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-03T11:00:00Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Forecasters are warning of further extreme temperatures on the continent
   in the next few days.
-displayOrder: 25
+displayOrder: 36
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-03T10:23:32Z'

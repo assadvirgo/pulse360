@@ -5,7 +5,7 @@ countryCode: VE
 description: Venezuela's US-backed acting president Delcy Rodriguez has issued a fiery
   defence of her government's response to last week's devastating earthquakes - which
   has claimed the lives…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-03T07:15:00Z'

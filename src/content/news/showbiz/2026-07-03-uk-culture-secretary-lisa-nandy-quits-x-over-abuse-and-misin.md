@@ -5,7 +5,7 @@ countryCode: GB
 description: It&#8217;s been a busy week for Lisa Nandy. First, the British politician
   was in the news this week for her intervention in Paramount&#8217;s takeover of
   Warner Bros. Discovery…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-03T11:53:21Z'

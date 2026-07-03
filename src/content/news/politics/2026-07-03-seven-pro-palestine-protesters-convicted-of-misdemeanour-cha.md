@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Activists found guilty of misdemeanour counts after blocking San Francisco&#039;s
   Golden Gate Bridge in a 2024 Gaza protest.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-03T08:01:10Z'

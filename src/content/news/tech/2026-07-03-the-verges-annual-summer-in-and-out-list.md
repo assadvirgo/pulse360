@@ -3,7 +3,7 @@ category: Tech
 description: In the AI slop-loaded, algorithm-powered modern reality, trends come
   and go - and the tech industry is no different. For the last few years, The Verge
   staff has compiled a…
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-03T13:00:00Z'

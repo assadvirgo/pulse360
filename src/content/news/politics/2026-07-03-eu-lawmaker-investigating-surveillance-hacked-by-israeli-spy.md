@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Greek former parliamentarian Stelios Kouloglou targeted with Pegasus
   software, Citizen Lab analysis finds.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-03T08:20:51Z'

@@ -5,7 +5,7 @@ countryCode: AU
 description: Kjell Nilsson, the Swedish born weightlifter and actor best known for
   playing the villainous masked marauder Lord Humungus in the classic 1981 Mad Max
   film The Road Warrior, died…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-03T15:13:35Z'

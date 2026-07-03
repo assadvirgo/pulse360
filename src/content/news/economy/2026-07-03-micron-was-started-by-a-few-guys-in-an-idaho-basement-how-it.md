@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Memory chips were once seen as an unglamorous business, but Micron is
   betting AI will change the game for good.
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-03T12:00:00Z'

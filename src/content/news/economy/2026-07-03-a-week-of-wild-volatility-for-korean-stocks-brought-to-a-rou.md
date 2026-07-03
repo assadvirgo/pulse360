@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: While it’s still delivered a 164% return so far in 2026, the Korean stock
   market has shown signs of fatigue in recent months
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-03T11:49:00Z'

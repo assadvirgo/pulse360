@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran begins seven-day state funeral for late ayatollah as some 100 foreign
   delegations arrive under a tense ceasefire
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-03T12:00:44Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The world has taken unprecedented interest in Taylor Swift and Travis
   Kelce&#8217;s wedding, which is underway at Madison Square Garden this weekend in
   New York City. Swift and…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 67.8
 pubDate: '2026-07-03T16:15:00Z'

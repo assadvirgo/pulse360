@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Veteran forward Cristiano Ronaldo gets another day on the World Cup stage
   after Croatia are denied a late equaliser by a huge VAR call.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-03T04:42:51Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: New tools and community-led care can save lives, but only if governments
   sustain the global HIV response.
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-03T11:28:29Z'
