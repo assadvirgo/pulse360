@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors and analysts say customers’ fear of Trump’s deportation campaign
   weakened the private equity-owned chain
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-02T17:16:52Z'

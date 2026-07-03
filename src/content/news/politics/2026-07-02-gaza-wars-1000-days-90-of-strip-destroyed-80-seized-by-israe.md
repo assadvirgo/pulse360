@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: In 1,000 days since October 7, 2023, Gaza lies in ruins, Board of Peace
   falters and Israel expands control of enclave.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-02T13:14:53Z'

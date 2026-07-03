@@ -2,7 +2,7 @@
 category: Politics
 description: A record number of African nations are at the 2026 World Cup, but the
   continent no longer backs them all.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-02T17:35:14Z'

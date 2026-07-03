@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The ground is fertile for a renewal of the commitment to free markets
   and free people
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-02T16:20:32Z'

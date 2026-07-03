@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mauricio Pochettino's USA side set up a World Cup last-16 meeting with
   Belgium, but how costly will forward Folarin Balogun's red card prove?
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-07-02T03:53:14Z'

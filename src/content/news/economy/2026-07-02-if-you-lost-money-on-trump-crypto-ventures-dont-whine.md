@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It should be no surprise the president made $1 billion on cryptocurrency
   deals that handed losses to so many who invested.
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-02T15:52:00Z'

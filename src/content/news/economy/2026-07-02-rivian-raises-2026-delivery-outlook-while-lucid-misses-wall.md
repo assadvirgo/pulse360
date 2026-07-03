@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rivian is increasing its delivery outlook to between 65,000 and 70,000
   EVs, up from 62,000 to 67,000 units.
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-02T15:20:57Z'

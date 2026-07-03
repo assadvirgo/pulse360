@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The new accounts ban bonds and international stocks, forcing parents
   to bet their children’s financial future entirely on U.S. equities.
-displayOrder: 22
+displayOrder: 31
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-02T20:21:00Z'

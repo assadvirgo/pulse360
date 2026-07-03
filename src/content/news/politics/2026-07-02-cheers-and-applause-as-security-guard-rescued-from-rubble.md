@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Emergency workers managed to free Hernán Gil more than 100 hours after
   they had first located him under 140 tonnes of rubble.
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-02T14:09:49Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: TV Time, the popular TV-tracking app, is shutting down on July 15 as
   parent company Whip Media pivots toward enterprise AI products.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-02T15:14:03Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: An outbreak of salmonella with more than 100 confirmed cases has been
   linked to flavoured noodles.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-02T10:32:00Z'

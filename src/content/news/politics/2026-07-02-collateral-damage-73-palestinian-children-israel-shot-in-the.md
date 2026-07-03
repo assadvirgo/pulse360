@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has rejected a UN Commission report that says its army deliberately
   targets Palestinian children.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-02T16:26:16Z'
