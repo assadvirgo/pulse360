@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The two telecom companies’ stocks are having a terrible week as the threat
   of Starlink looms.
-displayOrder: 32
+displayOrder: 48
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-02T20:05:00Z'

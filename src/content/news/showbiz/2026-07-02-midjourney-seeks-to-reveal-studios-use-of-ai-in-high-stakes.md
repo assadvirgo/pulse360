@@ -5,7 +5,7 @@ countryCode: US
 description: Midjourney is trying to force Disney, Universal and Warner Bros. to reveal
   how they use artificial intelligence as it defends itself from a potentially ruinous
   copyright lawsuit.…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-02T20:13:57Z'

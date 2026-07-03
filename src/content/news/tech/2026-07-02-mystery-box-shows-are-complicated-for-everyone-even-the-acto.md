@@ -3,7 +3,7 @@ category: Tech
 description: Silo is such a complicated show that even its showrunner gets confused
   sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham
   Yost remembers two…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-02T12:00:00Z'

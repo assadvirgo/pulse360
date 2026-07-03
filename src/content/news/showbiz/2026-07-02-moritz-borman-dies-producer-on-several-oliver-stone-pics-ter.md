@@ -5,7 +5,7 @@ countryCode: DE
 description: 'Moritz Borman, a veteran producer whose credits include several Oliver
   Stone movies along with Terminator 3: Rise of the Machines, Terminator Salvation,
   The Crow: Salvation and…'
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-02T22:35:57Z'

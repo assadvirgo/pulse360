@@ -5,7 +5,7 @@ countryCode: US
 description: 'Mozilla shut down the well-loved read-it-later Pocket app last year,
   and now Meta is launching an app called Pocket with an entirely different, AI-focused
   pitch: this new app lets…'
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-02T21:09:06Z'

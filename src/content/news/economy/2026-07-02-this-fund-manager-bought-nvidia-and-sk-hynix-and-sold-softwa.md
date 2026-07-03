@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Blue Whale Growth Fund manager exited software stocks before many others
   did.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-02T11:55:00Z'

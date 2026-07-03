@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Records has announced a strategic partnership with veteran executive
   Sickamore and his “creative institute,” Three Times Louder. The imprint will continue
   its partnership…
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 62.8
 pubDate: '2026-07-02T21:35:00Z'

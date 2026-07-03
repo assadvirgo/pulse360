@@ -5,7 +5,7 @@ countryCode: GB
 description: England's Heather Knight uses all her experience to hit a vital 53 off
   47 balls to help her side recover from 23-3 to 169-5 from their 20 overs against
   South Africa in their ICC…
-displayOrder: 26
+displayOrder: 43
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-02T19:44:27Z'

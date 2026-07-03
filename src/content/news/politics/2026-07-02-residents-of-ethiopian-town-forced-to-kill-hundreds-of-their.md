@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: Some residents reluctantly hung their dogs to avoid being arrested or
   fined, locals tell the BBC.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-02T15:13:29Z'

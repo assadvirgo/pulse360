@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The latest barrage deployed the largest number of weapons on the capital
   and hit locations over a wide area.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-02T20:18:14Z'

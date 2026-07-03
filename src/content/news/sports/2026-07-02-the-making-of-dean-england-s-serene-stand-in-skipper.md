@@ -5,7 +5,7 @@ countryCode: GB
 description: Charlie Dean could have been defined by one crushing dismissal at Lord's
   - here is how she has steered England to the World Cup semi-finals as stand-in captain
   instead.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-07-02T05:19:53Z'

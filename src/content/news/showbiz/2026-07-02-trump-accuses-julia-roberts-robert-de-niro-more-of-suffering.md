@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AI-generated video also depicts the president as a doctor who's sharing
   his "treatment plan" for the imaginary disease.
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-02T22:16:19Z'

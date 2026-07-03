@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Part of me would prefer to leave more to those for whom the money could
   make a meaningful difference.”
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-02T22:27:00Z'

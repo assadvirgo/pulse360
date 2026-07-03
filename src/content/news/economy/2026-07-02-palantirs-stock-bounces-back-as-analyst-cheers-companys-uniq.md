@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The software company’s shares have gotten off to a strong start this
   month following a weak run in June.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-02T15:15:00Z'

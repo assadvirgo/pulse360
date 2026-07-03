@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The government had initially said it would not relax licensing laws further
   for the World Cup.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-02T20:49:17Z'

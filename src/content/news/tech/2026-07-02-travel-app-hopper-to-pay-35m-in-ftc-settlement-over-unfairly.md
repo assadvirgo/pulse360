@@ -5,7 +5,7 @@ countryCode: US
 description: Hopper will pay $35 million to settle FTC allegations that it used deceptive
   “dark patterns” to hide fees and mislead travelers about the costs and benefits
   of services.
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-02T18:39:14Z'

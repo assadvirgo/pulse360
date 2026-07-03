@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities
   amid drone strikes and a stalled peace process.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-02T18:59:41Z'

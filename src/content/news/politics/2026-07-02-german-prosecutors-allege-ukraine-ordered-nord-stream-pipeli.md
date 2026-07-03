@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Former Ukrainian soldier accused of &#039;war crime&#039; and leading
   a team of divers to blow up Nord Stream pipelines.
-displayOrder: 19
+displayOrder: 39
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-02T16:46:37Z'
