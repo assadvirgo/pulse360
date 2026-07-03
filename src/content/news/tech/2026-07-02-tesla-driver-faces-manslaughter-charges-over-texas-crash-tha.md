@@ -5,7 +5,7 @@ countryCode: US
 description: The man whose Tesla struck and killed a woman inside her Texas home last
   month is now facing manslaughter charges, as reported earlier by The Wall Street
   Journal and local news…
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-02T22:09:33Z'

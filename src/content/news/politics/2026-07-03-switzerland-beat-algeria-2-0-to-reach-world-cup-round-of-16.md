@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Switzerland remain unbeaten at the 2026 World Cup and will face either
   Colombia or Ghana in the next game.
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-03T04:57:11Z'

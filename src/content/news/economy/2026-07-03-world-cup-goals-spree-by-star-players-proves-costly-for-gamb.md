@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Performance of top strikers and victories for popular teams have cost
   DraftKings as much as $50mn
-displayOrder: 31
+displayOrder: 40
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-03T04:00:24Z'

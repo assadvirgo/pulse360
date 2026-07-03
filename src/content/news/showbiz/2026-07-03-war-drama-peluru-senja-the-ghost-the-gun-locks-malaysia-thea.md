@@ -5,7 +5,7 @@ countryCode: MY
 description: 'The first trailer for &#8220;Peluru Senja: The Ghost &#38; the Gun&#8221;
   has arrived alongside confirmation of a nationwide Malaysian theatrical release
   on Aug. 28, timed to the…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-03T01:00:00Z'

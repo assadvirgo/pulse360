@@ -5,7 +5,7 @@ countryCode: DK
 description: My Fairytale Life, Nikolaj Arcel’s feature biopic of Hans Christian Andersen,
   is among seven titles that have received support in the inaugural round of funding
   from Denmark’s new…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-03T08:32:27Z'

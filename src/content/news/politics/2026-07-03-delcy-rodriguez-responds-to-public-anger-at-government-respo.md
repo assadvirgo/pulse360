@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Delcy Rodriguez says 80% of the buildings that collapsed in earthquakes
   were privately developed.
-displayOrder: 13
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-03T05:07:23Z'

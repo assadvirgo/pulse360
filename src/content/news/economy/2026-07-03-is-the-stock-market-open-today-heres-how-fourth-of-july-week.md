@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Since Independence Day falls on Saturday this year, here’s what to know
   about markets, mail delivery and more.
-displayOrder: 39
+displayOrder: 43
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-03T04:09:00Z'

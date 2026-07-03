@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: 34-year-old Ben Francis is seeking to cement his control over fitness
   brand after a rocky period for the business
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-03T04:00:24Z'

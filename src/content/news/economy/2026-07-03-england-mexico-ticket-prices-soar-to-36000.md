@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Football-obsessed Mexico fans have paid the highest prices throughout
   the tournament
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-03T04:00:37Z'

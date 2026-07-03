@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Lebanon&#039;s Health Ministry says at least 4,298 people have been killed
   and 12,196 injured in Israeli attacks since March.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-03T00:00:00Z'

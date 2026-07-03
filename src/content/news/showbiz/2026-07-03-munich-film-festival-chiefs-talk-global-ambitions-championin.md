@@ -5,7 +5,7 @@ countryCode: DE
 description: The Munich International Film Festival is well underway. The festival
   positions itself as the major platform for German film and filmmakers, but has also
   leaned heavily into…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-03T09:01:26Z'

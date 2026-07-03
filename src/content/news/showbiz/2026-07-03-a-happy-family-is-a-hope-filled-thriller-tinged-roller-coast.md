@@ -5,7 +5,7 @@ countryCode: CH
 description: Writer-director Jan-Eric Mack discusses why warmth, humor and complexity
   are key to inviting reflection and discussion with his feature debut, the first-ever
   Swiss main…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-03T09:00:00Z'

@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: There was no immediate claim for the bombing at a cafe close to the Palace
   of Justice, a major government building.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-03T06:42:14Z'

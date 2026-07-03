@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Millions of crypto investors around the world are sitting on losses as
   a painful bear market erases trillions of dollars in paper profits.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-02T22:12:00Z'

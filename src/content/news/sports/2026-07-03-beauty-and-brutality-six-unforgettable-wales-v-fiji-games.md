@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: As Wales take on Fiji in the Nations Championship in Cardiff on Saturday,
   BBC Sport looks back at six iconic moments in the two nations' rivalry.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-03T05:45:46Z'

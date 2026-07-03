@@ -2,7 +2,7 @@
 category: Politics
 description: A rebel group of Roman Catholics has ordained its own bishops in direct
   defiance of Pope Leo XIV and the Vatican order.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-03T02:36:54Z'
