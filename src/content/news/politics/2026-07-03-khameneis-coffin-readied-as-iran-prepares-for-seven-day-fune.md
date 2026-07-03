@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Former Supreme Leader Ali Khamenei&#039;s coffin has been readied as
   Iran prepares for seven-day funeral.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-03T04:25:48Z'

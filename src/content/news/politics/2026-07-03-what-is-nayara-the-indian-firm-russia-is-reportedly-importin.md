@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Ukrainian forces have repeatedly targeted Russian oil facilities causing
   long queues for fuel across the country.
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-03T10:53:12Z'

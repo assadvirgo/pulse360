@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Six-day ceremony for Ayatollah Ali Khamenei anticipated to be largest
   of its kind and provide clues of regime’s strength
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-03T04:00:23Z'

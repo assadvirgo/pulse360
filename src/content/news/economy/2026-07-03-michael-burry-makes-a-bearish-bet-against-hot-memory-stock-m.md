@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The ‘Big Short’ investor has intensified his gloom around the artificial
   intelligence trade with a reported fresh bearish bet on memory-chip maker Micron
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-03T11:16:00Z'

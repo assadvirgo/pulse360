@@ -5,7 +5,7 @@ countryCode: TW
 description: IMMERSIVE INVESTMENT Taiwan Creative Content Agency (TAICCA) and the
   Museum of the Moving Image (MoMI) have entered a three-year partnership expanding
   Taiwanese immersive work in…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-03T11:51:33Z'

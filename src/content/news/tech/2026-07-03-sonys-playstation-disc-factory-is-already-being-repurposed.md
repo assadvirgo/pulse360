@@ -5,7 +5,7 @@ countryCode: AT
 description: The video game disc is dead, and Sony's been planning to kill it for
   some time, according to a report out of Austria. The man who leads Sony's discmaking
   operations, Sony DADC…
-displayOrder: 36
+displayOrder: 49
 heroImage: ''
 importance: 54.2
 pubDate: '2026-07-03T01:05:13Z'

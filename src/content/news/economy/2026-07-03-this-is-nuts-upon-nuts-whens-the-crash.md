@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: An earnings/valuation double bubble of Pleistocene proportions
-displayOrder: 32
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-03T10:40:37Z'

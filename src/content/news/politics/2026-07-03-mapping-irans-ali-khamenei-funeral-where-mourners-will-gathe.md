@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Funeral processions for Iran&#039;s late supreme leader will take place
   between July 3-9 across Iran and Iraq.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-03T04:18:04Z'

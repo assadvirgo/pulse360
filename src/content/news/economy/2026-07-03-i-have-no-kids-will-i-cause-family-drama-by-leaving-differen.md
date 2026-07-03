@@ -2,7 +2,7 @@
 category: Economy
 description: “Part of me would prefer to leave more to those for whom the money could
   make a meaningful difference.”
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-03T12:01:00Z'

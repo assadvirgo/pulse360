@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A month after the passage of a tax on second homes in New York City,
   brokers and analysts said sales of luxury real estate remain strong.
-displayOrder: 33
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-03T12:00:01Z'

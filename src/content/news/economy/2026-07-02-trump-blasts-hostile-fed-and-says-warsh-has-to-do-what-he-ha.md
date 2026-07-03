@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump, in the interview, also said he continues to plan to remove Fed
   governor Lisa Cook from the central bank’s board.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-02T22:30:00Z'

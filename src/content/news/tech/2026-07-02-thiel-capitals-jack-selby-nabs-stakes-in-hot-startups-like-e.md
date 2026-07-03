@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Selby's VC firm, Copper Sky Capital, is currently raising a $300 million
   second fund, according to a regulatory filing.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-02T21:57:10Z'

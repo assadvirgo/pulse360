@@ -5,7 +5,7 @@ countryCode: GB
 description: Gary Lineker and Amelia Dimoldenberg are the two most high-profile speakers
   to be unveiled for the Edinburgh TV Festival so far. The former Match of the Day
   host, who is currently…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-03T09:48:46Z'

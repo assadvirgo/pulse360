@@ -5,7 +5,7 @@ countryCode: CZ
 description: Ivan Zachariáš has been making the KVIFF's beloved pre-show spots since
   2008 — coaxing Hollywood legends into black-and-white mischief, always for free,
   occasionally under…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-03T12:05:00Z'

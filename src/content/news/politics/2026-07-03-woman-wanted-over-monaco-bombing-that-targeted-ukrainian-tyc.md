@@ -4,7 +4,7 @@ country: Monaco
 countryCode: MC
 description: Interpol has named a woman who is wanted over a bombing in Monaco which
   reportedly targeted a Ukrainian tycoon with links to Russia.
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-03T07:38:00Z'

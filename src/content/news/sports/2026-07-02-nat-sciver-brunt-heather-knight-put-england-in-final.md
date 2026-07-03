@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: They defended 170 with ease against South Africa and will now face Australia
   in the final at Lord's on Sunday
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-02T21:12:51Z'
