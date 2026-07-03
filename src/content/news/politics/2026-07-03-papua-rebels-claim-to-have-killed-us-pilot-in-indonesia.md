@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: A US pilot has been killed in Indonesia’s Papua region after separatist
   rebels said they shot him.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-03T03:48:59Z'

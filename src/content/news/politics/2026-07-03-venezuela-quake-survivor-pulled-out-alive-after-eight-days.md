@@ -3,7 +3,7 @@ category: Politics
 country: Venezuela
 countryCode: VE
 description: Hernán Gil was trapped under a collapsed multi-storey car park.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-03T02:07:35Z'

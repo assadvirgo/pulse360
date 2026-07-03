@@ -5,7 +5,7 @@ countryCode: US
 description: The USMNT rallied a historic 24.4M U.S. viewers across Fox, FS1 and Tubi
   for its defeat of Bosnia and Herzegovina. The round of 32 victory is now the most-watched
   soccer telecast…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-02T21:23:36Z'

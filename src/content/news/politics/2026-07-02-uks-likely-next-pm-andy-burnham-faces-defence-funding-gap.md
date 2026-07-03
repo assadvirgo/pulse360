@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Defence Secretary Dan Jarvis is facing questions over the funding gap
   and whether Burnham was blindsided.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-02T18:59:33Z'

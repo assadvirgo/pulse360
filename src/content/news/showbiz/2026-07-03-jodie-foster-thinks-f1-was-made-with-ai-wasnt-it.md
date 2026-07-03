@@ -5,7 +5,7 @@ countryCode: US
 description: As Hollywood grapples with AI&#8217;s potential impact, Jodie Foster
   believes the tech is already very present in the industry. The 2x Oscar winner recently
   explained why she…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-07-03T01:57:11Z'

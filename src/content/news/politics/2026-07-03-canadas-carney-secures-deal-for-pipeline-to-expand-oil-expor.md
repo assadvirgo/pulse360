@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Ottawa says future pipeline will reduce economic dependence on the US
   amid Donald Trump&#039;s trade war.
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-03T04:17:37Z'

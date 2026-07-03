@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US authorities charged him with property destruction after renovations
   championed by President Donald Trump appeared to go awry.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-02T20:34:52Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England roar into Sunday's T20 World Cup final against Australia with
   a superb 40-run victory against South Africa at The Oval.
-displayOrder: 20
+displayOrder: 30
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-02T21:29:40Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: The airline calls on European governments to postpone the EES system
   until after the summer holiday period.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-02T17:17:36Z'

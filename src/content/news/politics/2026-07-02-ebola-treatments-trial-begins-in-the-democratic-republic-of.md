@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: According to WHO data, there have been 1,406 confirmed cases of the disease
   in DRC, with 301 suspected cases and 438 deaths.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-02T21:21:36Z'

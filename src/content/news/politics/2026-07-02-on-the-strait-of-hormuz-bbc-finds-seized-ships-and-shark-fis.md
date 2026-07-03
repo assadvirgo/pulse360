@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has
   affected everyday life in the port city.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-02T23:15:22Z'

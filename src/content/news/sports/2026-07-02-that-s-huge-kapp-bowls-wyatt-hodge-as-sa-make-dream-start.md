@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa's Marizanne Kapp bowls England's Danni Wyatt-Hodge for 12
   as England fall to 20-2 at the start of their ICC Women's T20 World Cup semi-final.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-02T18:07:59Z'

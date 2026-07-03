@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI has made it a lot harder for tech companies like Amazon and Google
   to deliver on their net-zero pledges.
-displayOrder: 26
+displayOrder: 38
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-02T19:14:46Z'
