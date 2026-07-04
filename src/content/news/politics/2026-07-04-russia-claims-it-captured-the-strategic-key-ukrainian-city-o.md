@@ -3,7 +3,7 @@ category: Politics
 country: Ukraine
 countryCode: UA
 description: Russia claims it captured the strategic key Ukrainian city of Kostiantynivka
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-04T10:04:35Z'

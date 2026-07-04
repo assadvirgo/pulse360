@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Mukesh Kapila, ex-UN Humanitarian Coordinator for Sudan warns that, &#039;El
   Obeid crisis could be worse than El Fasher&#039;.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-04T02:28:17Z'

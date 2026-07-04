@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Birthright citizenship survived, but the fight over who is fully recognised
   as American is far from over.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-04T07:07:30Z'

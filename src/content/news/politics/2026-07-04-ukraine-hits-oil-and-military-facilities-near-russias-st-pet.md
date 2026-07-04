@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv&#039;s drones disrupt St Petersburg internet and flights as Russian
   strikes halt a gas facility in central Ukraine.
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-04T10:29:19Z'

@@ -5,7 +5,7 @@ countryCode: CZ
 description: Future Frames is a next generation showcase comprised of prize-winning
   short works by students and recent graduates of European film schools, curated by
   the Karlovy Vary Film…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-04T11:18:36Z'

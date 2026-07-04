@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: A days-long funeral is under way in Tehran for Iran's former supreme
   leader Ayatollah Ali Khamenei.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-04T09:20:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'Artists, thinkers and leaders from the US and beyond pick the person
   they think deserves to be honoured: from Abraham Lincoln to Dorothy Parker'
-displayOrder: 32
+displayOrder: 37
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-04T04:00:34Z'

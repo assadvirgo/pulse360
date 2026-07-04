@@ -2,7 +2,7 @@
 category: Politics
 description: A thrilling Golden Boot race hots up, France in scintillating form, and
   Messi and Argentina squeak past Cape Verde.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-04T08:22:56Z'

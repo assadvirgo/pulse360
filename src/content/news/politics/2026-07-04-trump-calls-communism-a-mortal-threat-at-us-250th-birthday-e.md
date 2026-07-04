@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Trump calls communism a ‘mortal threat’ at US 250th birthday event.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-04T04:54:40Z'

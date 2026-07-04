@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A-list celebrities attend wedding at Madison Square Garden to see superstar
   couple tie the knot.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-04T07:46:55Z'

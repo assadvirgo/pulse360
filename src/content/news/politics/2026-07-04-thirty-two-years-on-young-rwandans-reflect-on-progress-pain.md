@@ -4,7 +4,7 @@ country: Rwanda
 countryCode: RW
 description: For many young Rwandans, Liberation Day is as much about the future as
   the past.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-04T04:12:20Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Dignitaries from more than 100 nations pay respects to slain supreme
   leader ahead of official funeral
-displayOrder: 43
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-03T20:06:32Z'

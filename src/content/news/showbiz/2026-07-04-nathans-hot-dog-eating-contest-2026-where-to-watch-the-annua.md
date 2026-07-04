@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Joey Chestnut runs it back for another year, seeking his 18th title,
   while Miki Sudo is after her 12th.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-07-04T12:00:00Z'

@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: Tiny island nation&#039;s colossal performance against reigning world
   champions leaves supporters feeling incredibly proud.
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-04T09:42:30Z'

@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: Biology could explain the find, but there are other potential explanations.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 44.0
 pubDate: '2026-07-04T11:00:41Z'

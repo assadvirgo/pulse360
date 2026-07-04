@@ -2,7 +2,7 @@
 category: Politics
 description: Full list of teams in the World Cup&#039;s last-16, who they play for
   a place in the quarterfinals and match start times.
-displayOrder: 8
+displayOrder: 26
 heroImage: ''
 importance: 71.5
 pubDate: '2026-07-04T04:14:29Z'
