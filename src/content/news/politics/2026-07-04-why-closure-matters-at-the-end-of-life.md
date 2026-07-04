@@ -2,7 +2,7 @@
 category: Politics
 description: A peaceful, supported end-of-life experience — focused on family and
   closure — can transform both dying and grieving.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-04T12:41:19Z'

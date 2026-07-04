@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From Washington to LA, how plans to mark the United States&#039; 250th
   anniversary could be disrupted by extreme heat.
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-04T11:00:47Z'

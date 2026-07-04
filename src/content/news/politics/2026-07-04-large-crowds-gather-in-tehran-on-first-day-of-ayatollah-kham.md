@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until
   Monday, before travelling across Iran and Iraq.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-04T09:45:55Z'

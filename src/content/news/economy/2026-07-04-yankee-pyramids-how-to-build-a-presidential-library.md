@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Every modern US president gets a physical totem of his tenure. What can
   they teach us about America’s struggle to remember itself?
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-04T04:00:21Z'

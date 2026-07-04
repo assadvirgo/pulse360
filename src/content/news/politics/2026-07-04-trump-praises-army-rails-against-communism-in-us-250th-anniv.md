@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At Mount Rushmore Trump warns of &#039;communist menace&#039;, ties rhetoric
   to immigration ahead of November midterms.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-04T07:19:57Z'

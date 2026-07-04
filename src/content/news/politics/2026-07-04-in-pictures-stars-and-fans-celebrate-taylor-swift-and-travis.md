@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Celebrities and sports stars were spotted as the A-list couple tied the
   knot in New York on Friday.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-04T08:24:17Z'

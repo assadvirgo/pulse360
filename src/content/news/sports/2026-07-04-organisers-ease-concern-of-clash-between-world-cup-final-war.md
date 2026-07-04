@@ -5,7 +5,7 @@ countryCode: GB
 description: England and Australia will be allowed to warm up on the Lord's outfield
   before Sunday's T20 World Cup final, having initially being told they could not
   until after a performance…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-04T16:00:07Z'

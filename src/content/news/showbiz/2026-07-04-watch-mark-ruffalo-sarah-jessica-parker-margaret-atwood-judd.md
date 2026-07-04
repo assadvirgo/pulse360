@@ -5,7 +5,7 @@ countryCode: US
 description: While President Trump has chosen to mark America’s 250th anniversary
   with gaudy displays honoring himself, a team of actors, activists, scholars, comedians
   and writers have…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-04T13:01:17Z'

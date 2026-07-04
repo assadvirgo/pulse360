@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Mercedes' Kimi Antonelli overtakes Lewis Hamilton to win an action-packed
   sprint race at the British Grand Prix.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-07-04T12:18:32Z'

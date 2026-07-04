@@ -3,7 +3,7 @@ category: Tech
 description: Over the past week, a new fanworks movement has kicked off, with the
   aim to root out authors using generative AI. But the detection methods being implemented
   are questionable, and…
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-04T12:00:00Z'

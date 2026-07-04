@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The pontiff pays tribute to migrants who lost their lives at sea at a
   cemetery on the Italian island of Lampedusa.
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-04T11:25:57Z'

@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: How can England overcome the psychological challenges of playing against
   Australia when they meet at the Women's T20 World Cup final?
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-07-04T08:31:55Z'

@@ -5,7 +5,7 @@ countryCode: PL
 description: The actor, writer and director was welcomed with a huge ovation and honored
   with the Karlovy Vary International Film Festival President’s Award before a screening
   of Richard…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-04T12:01:00Z'

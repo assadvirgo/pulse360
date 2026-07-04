@@ -3,7 +3,7 @@ category: Politics
 country: Ukraine
 countryCode: UA
 description: Russian attacks leave trail of destruction across Ukraine
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-04T15:46:35Z'

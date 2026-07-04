@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Threats escalate after Houthis block Saudi warplanes, allowing Iranian
   plane to land in Sanaa for first time in decade.
-displayOrder: 8
+displayOrder: 26
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-04T08:59:17Z'
