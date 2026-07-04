@@ -5,7 +5,7 @@ countryCode: SE
 description: 'Kjell Nilsson, the Swedish bodybuilder and actor who played the masked
   bruiser Lord Humungus in George Miller’s 1982 classic “Mad Max 2: The Road Warrior,”
   died on July 2 after…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-03T19:20:24Z'

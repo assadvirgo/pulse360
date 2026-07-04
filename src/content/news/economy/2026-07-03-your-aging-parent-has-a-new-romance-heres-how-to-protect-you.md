@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Before your single mom or dad remarries, talk with them about estate-planning
   issues.
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-03T19:32:00Z'

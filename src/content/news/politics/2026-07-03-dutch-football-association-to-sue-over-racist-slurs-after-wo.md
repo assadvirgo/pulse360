@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: The Netherlands&#039; penalty loss to Morocco prompted an outpouring
   of social media abuse directed notably at Black players.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-03T20:58:14Z'

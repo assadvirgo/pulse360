@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: An inquiry found that more than 500 mothers and babies either came to
   harm or died due to poor care.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-03T14:51:52Z'

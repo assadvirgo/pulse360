@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sriram Krishnan tells the FT the president is against a centralised regulator
   as AI backlash grows
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-03T14:32:49Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT:&#160;This post contains spoilers from the ninth episode
   of “Dutton Ranch,” “El Padrino,” which is now streaming on Paramount+. The season
   finale of “Dutton Ranch”…
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 55.8
 pubDate: '2026-07-04T00:00:00Z'

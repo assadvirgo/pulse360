@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Officials believe the suspect may not have acted alone and spent days
   casing out scene of the attack.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-03T15:20:57Z'

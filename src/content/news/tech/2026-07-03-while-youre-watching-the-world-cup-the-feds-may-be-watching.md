@@ -5,7 +5,7 @@ countryCode: US
 description: It's a big year for America. It's the semiquincentennial, otherwise known
   as America250, and the United States is cohosting the World Cup. But spectators
   at these events - and the…
-displayOrder: 21
+displayOrder: 34
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-03T15:00:00Z'

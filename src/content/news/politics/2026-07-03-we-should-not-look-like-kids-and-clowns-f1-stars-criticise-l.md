@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Formula One's decision to put drivers in Lego cars for Sunday's British
   Grand Prix parade lap has been criticised by top drivers.
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 46.0
 pubDate: '2026-07-03T19:30:00Z'

@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: As Cape Verde faces off against Lionel Messi and Argentina tonight, here’s
   a look at what could be next for the breakout World Cup star
-displayOrder: 43
+displayOrder: 47
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-03T16:24:00Z'

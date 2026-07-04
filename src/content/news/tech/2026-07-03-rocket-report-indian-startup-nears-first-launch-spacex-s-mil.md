@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: NASA awarded Rocket Lab deals for three dedicated launches using the
   company's Electron rocket.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-03T13:55:35Z'

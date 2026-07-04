@@ -5,7 +5,7 @@ countryCode: US
 description: Anybody who is anybody is making their way to New York’s Madison Square
   Garden dressed to the nines in an apparent march to get to Taylor Swift and Travis
   Kelce’s wedding.…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-03T23:30:43Z'

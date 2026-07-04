@@ -5,7 +5,7 @@ countryCode: US
 description: YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit
   made against him and another defendant over allegedly stealing iOS secrets. In his
   response, Prosser…
-displayOrder: 28
+displayOrder: 41
 heroImage: ''
 importance: 60.2
 pubDate: '2026-07-03T13:12:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The comedy actor, a friend of the couple's, stepped up to marry the pair
   at Madison Square Garden on Friday.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-04T00:01:59Z'

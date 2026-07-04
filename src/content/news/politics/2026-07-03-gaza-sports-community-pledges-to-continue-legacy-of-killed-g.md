@@ -2,7 +2,7 @@
 category: Politics
 description: Slain seeking cooking gas, Gaza goalkeeper Saleem al-Ashqar joins more
   than 1,000 Palestinian athletes killed in war.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-03T14:43:21Z'
