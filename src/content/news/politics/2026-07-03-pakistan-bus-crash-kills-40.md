@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: At least 40 people were killed and eight others injured after a passenger
   bus plunged into a ravine in Pakistan.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-03T17:44:02Z'

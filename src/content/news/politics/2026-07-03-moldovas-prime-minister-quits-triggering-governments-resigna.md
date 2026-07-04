@@ -4,7 +4,7 @@ country: Moldova
 countryCode: MD
 description: Alexandru Munteanu&#039;s resignation came as pressure has intensified
   over alleged corruption in a state-owned company.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-03T10:45:52Z'

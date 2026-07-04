@@ -5,7 +5,7 @@ countryCode: CZ
 description: The Swedish actor, who last year received the Czech fest’s highest honor,
   features in the expanded “micro-story” unspooling for KVIFF’s double anniversary
   edition.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-03T17:54:14Z'

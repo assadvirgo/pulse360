@@ -3,7 +3,7 @@ category: Politics
 country: Iran
 countryCode: IR
 description: World leaders pay tribute to Iran&#039;s late leader Khamenei in Tehran
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-03T17:35:22Z'

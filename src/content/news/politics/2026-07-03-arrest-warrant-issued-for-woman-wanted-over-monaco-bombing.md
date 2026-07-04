@@ -5,7 +5,7 @@ countryCode: MC
 description: An arrest warrant has been issued for a woman who is believed to have
   orchestrated a bombing in Monaco that injured three people, reportedly including
   a Ukrainian tycoon.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-03T07:38:00Z'

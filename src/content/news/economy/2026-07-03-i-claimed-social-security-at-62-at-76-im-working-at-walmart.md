@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “It seems like half of the workforce at our local Walmart is over 65.”
-displayOrder: 999
+displayOrder: 49
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-03T18:25:00Z'

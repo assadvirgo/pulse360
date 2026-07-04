@@ -5,7 +5,7 @@ countryCode: GB
 description: Gabriel Garland, the Love Island UK Islander who was removed from the
   villa after being named in court documents in a stabbing incident, has broken his
   silence. In a video shared…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-03T16:35:25Z'

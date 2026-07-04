@@ -5,7 +5,7 @@ countryCode: US
 description: For Fox&#8217;s Mike Mulvihill, the 2026 FIFA World Cup has put a final
   exclamation mark on the answer to the decades-old question of whether soccer can
   ever become mainstream in…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 71.0
 pubDate: '2026-07-03T15:29:54Z'

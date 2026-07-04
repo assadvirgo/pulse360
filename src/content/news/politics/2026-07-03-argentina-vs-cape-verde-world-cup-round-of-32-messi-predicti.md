@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Lionel Messi&#039;s Argentina, the reigning champions, face minnows Cape
   Verde in a last-32 clash in Miami.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-03T07:42:17Z'

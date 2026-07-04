@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli settlers attacked a foreign activist and another man as they
   blocked access to Palestinian farmland.
-displayOrder: 22
+displayOrder: 27
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-03T19:13:39Z'
