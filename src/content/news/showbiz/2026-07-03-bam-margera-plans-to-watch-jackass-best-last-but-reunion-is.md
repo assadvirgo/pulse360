@@ -5,7 +5,7 @@ countryCode: US
 description: Following his 2021 falling out with the Jackass guys, Bam Margera has
   no ill will toward the crew and their final onscreen outing. Although the pro skater
   said that a reunion is…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-03T22:57:01Z'

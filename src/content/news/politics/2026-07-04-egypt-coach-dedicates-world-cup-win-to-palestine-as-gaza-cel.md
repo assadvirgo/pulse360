@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Fans in Gaza celebrated Egypt&#039;s win at match screenings held against
   the backdrop of bombed buildings.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-04T00:20:08Z'

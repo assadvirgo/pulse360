@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Saudi Arabia’s Vice Foreign Minister Walid al-Khuraiji unexpectedly attended
   the former Supreme Leader&#039;s funeral
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-03T18:54:27Z'

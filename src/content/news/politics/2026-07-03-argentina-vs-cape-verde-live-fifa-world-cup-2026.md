@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Live coverage and text updates as Lionel Messi&#039;s goal gives Argentina
   lead against Cape Verde in last-32 knockout stage.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-03T18:47:05Z'

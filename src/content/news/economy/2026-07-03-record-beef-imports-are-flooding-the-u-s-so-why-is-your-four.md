@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beef prices are sizzling and Washington’s recipe for high costs — import
   more meat — only grills your wallet.
-displayOrder: 43
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-03T19:34:00Z'

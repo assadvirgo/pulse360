@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Aspen Acres Fire, one of about 40 wildfires burning across western
   US, has destroyed homes and forced evacuations.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-03T21:32:05Z'

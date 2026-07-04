@@ -3,7 +3,7 @@ category: Politics
 country: China
 countryCode: CN
 description: The government says the law will help forge a shared national identity.
-displayOrder: 12
+displayOrder: 19
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-03T19:59:27Z'

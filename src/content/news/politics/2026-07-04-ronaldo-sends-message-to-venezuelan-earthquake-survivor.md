@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Cristiano Ronaldo has sent a message to a young Venezuelan earthquake
   survivor, recovering in hospital.
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-04T01:32:28Z'

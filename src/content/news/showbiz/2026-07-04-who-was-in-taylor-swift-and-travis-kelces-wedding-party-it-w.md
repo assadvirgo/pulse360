@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: There’s been plenty of speculation as to which of the couple’s many famous
   friends would stand by their side on their big day.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-04T00:25:27Z'

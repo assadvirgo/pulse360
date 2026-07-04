@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Though its founding ideals are threatened, the US has the capacity for
   renewal
-displayOrder: 45
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-03T17:12:29Z'

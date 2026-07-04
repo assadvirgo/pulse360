@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: No decision was ever made to reschedule the kickoff time of 6pm local
   time in Mexico City, sources tell Al Jazeera.
-displayOrder: 28
+displayOrder: 31
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-04T00:07:04Z'

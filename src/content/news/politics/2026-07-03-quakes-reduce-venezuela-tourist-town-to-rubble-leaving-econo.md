@@ -3,7 +3,7 @@ category: Politics
 country: Venezuela
 countryCode: VE
 description: Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters.
-displayOrder: 23
+displayOrder: 27
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-03T23:57:24Z'
