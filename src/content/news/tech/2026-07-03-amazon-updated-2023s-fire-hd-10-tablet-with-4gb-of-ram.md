@@ -5,7 +5,7 @@ countryCode: US
 description: The Fire HD 8 that launched in 2024 was the last new addition to Amazon's
   budget-minded tablet lineup, but the company has quietly updated the Fire HD 10
   that debuted the year…
-displayOrder: 43
+displayOrder: 46
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-03T17:33:55Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: More than 165 million people are enduring dangerous heat and humidity,
   with temperatures expected to stay at 38C (100F) for several days.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-04T02:57:48Z'

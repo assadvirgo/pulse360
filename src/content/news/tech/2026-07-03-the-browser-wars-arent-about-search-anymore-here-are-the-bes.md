@@ -2,7 +2,7 @@
 category: Tech
 description: We’ve compiled an overview of some of the top alternative browsers available
   today aiming to challenge Chrome and Safari.
-displayOrder: 37
+displayOrder: 41
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-03T18:43:00Z'

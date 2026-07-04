@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Egypt beat Australia 4-2 on penalties after a 1-1 draw after extra time,
   and could now face Argentina in the last 16.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-03T21:05:06Z'

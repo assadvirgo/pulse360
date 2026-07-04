@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It was the bash of the century, with celebrities from singer Benson Boone
   and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-07-04T02:26:54Z'

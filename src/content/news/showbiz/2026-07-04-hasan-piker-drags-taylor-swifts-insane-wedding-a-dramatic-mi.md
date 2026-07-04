@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The left wing commentator hit out at taxpayers called on to pay for security
   around the power couple’s multi-day nuptials in New York City.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-04T02:12:36Z'

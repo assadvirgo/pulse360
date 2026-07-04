@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Venezuela&#039;s acting president Delcy Rodriguez dismissed criticism
   of the government&#039;s quake response.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-03T21:36:31Z'

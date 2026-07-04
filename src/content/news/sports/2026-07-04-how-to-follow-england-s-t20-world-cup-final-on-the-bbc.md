@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: All you need to know about how to follow the Women's T20 World Cup final
   between England and Australia on the BBC.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-04T08:05:27Z'

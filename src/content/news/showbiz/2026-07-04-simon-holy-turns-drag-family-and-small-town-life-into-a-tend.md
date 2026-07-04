@@ -5,7 +5,7 @@ countryCode: CZ
 description: A drag queen comes out to his small-town mother but all hell doesn’t
   break loose in Šimon Holý’s heartfelt and crowd-pleasing feature “Chica Checa.”
   The film screens on Saturday…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-07-04T05:43:51Z'

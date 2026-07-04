@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Huge crowds gather in Iran&#039;s Tehran for the funeral of the late
   Supreme leader Ali Khamenei.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-04T00:00:00Z'
