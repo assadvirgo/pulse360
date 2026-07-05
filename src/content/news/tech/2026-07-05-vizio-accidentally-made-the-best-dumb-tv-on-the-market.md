@@ -5,7 +5,7 @@ countryCode: US
 description: When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought
   the big story was that Vizio was back and that it had a quantum-dot TV for under
   $398 - the cheapest on…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-05T13:00:00Z'

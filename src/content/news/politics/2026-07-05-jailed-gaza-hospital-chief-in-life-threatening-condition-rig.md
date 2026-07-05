@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Elyas Abu Safia says his father Hussam can barely breathe or speak after
   more than 555 days in Israeli prison.
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-05T11:24:18Z'

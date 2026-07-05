@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Norway are one of only three countries Brazil have faced at a World Cup
   without registering at least one victory.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-05T06:22:26Z'

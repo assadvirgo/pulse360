@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Hampshire Hawks beat Lancashire Thunder to return to the top of the Vitality
   Women's Blast after Surrey lose to Essex.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-05T14:38:25Z'

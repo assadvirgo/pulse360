@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Despite US objections, ambassador insists new fees to be charged to vessels
   transiting Strait of Hormuz.
-displayOrder: 29
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-05T08:09:44Z'

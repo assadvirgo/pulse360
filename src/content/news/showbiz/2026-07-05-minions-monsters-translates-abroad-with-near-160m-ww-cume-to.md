@@ -3,7 +3,7 @@ category: Showbiz
 description: 'SUNDAY AM: Refresh for more&#8230;Illumination/Universal&#8217;s Minions
   &#38; Monsters saw their hides saved by foreign ticket sales with an $85M weekend
   (technically second wide…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-05T15:46:00Z'

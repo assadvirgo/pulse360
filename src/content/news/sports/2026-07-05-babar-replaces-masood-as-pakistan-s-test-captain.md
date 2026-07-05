@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Babar Azam is reinstated as Pakistan's Test captain before the upcoming
   tours of the West Indies and England.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-07-05T09:33:39Z'

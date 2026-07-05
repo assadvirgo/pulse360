@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Indonesian troops have recovered the body of American pilot Nicholas
   Goselin from the restive Papua region.
-displayOrder: 25
+displayOrder: 36
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-05T12:00:55Z'

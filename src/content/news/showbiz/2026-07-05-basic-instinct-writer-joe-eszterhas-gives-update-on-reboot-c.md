@@ -5,7 +5,7 @@ countryCode: US
 description: After nearly 35 years, Joe Eszterhas is back to basics with the follow-up
   to his 1992 erotic thriller. The Basic Instinct screenwriter, who was tapped to
   pen a reboot for Amazon…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-05T16:07:44Z'

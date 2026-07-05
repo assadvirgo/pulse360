@@ -5,7 +5,7 @@ countryCode: US
 description: Are the Minions losing their star power? Although &#8220;Minions &#38;
   Monsters,&#8221; a 1920s Hollywood-set prequel in the animated &#8220;Despicable
   Me&#8221; universe, led the…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-07-05T15:08:34Z'
