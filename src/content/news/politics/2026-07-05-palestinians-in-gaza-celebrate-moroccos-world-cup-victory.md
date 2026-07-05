@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Palestinians in Gaza celebrate Morocco&#039;s World Cup victory
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-05T08:25:00Z'

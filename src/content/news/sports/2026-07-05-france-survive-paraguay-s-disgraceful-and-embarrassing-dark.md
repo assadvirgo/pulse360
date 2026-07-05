@@ -5,7 +5,7 @@ countryCode: FR
 description: After dismantling all before them at this World Cup, France had to find
   a new way to win against a Paraguay side whose use of the dark arts angered many
   of those watching.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-05T01:53:01Z'

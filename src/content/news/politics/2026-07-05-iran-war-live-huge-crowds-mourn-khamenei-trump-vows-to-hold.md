@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran&#039;s late Supreme Leader Ali Khamenei and members of his family
   were killed in a US-Israeli air strike in February.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-05T00:00:00Z'

@@ -5,7 +5,7 @@ countryCode: CZ
 description: With Hollywood and European stars and directors from around the globe
   descending on the Czech festival every year, THR looks behind the scenes of the
   art of interpreting with a…
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-05T08:00:00Z'

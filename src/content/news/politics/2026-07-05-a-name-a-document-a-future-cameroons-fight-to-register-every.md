@@ -4,7 +4,7 @@ country: Cameroon
 countryCode: CM
 description: Efforts to expand birth registration in Cameroon are gaining ground,
   but millions of children remain undocumented.
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-05T03:55:54Z'

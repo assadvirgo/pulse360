@@ -5,7 +5,7 @@ countryCode: US
 description: The US Department of Energy reportedly deleted about 6,000 pages related
   to energy conservation as a historic heatwave tears across the country. The deletion
   was suspiciously…
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-04T16:19:06Z'

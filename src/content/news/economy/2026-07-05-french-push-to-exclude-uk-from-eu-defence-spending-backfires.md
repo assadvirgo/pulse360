@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Paris loses out on cheap loans due to strict eligibility criteria it
   had championed
-displayOrder: 38
+displayOrder: 40
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-05T04:00:11Z'

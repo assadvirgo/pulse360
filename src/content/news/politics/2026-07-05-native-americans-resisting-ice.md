@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A Native American lawyer confronts ICE as he channels generational resistance
   into a fight for justice in the US.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-05T06:02:12Z'

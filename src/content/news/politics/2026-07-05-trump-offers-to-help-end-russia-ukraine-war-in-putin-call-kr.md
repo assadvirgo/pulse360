@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Kremlin aide Yury Ushakov says Trump made the offer during a nearly 90-minute
   phone call with the Russian president.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 70.5
 pubDate: '2026-07-05T08:06:15Z'

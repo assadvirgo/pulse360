@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump has faced condemnation for failing to forcefully reject
   white nationalists during his presidency.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-04T23:57:52Z'

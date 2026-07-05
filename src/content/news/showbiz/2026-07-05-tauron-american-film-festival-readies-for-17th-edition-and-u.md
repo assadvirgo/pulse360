@@ -5,7 +5,7 @@ countryCode: PL
 description: Poland’s Tauron American Film Festival will celebrate its 17th&#160;edition
   from Nov. 17-22 – and its industry sidebar U.S. in Progress will, once again, connect
   European buyers…
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-05T08:03:46Z'
