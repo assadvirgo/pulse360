@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The week-long remembrance is intended to demonstrate public support for
   the regime
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-04T10:04:37Z'

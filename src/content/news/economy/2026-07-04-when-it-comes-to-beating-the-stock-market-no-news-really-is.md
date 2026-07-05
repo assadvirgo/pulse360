@@ -2,7 +2,7 @@
 category: Economy
 description: A new study has found a flaw in how people interpret the very headlines
   they are seeing.
-displayOrder: 41
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-04T13:10:00Z'

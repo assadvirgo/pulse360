@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The former Russian world chess champion had accused other players, including
   the late Daniel Naroditsky, of cheating.
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-04T15:45:15Z'

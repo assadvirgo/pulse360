@@ -5,7 +5,7 @@ countryCode: US
 description: 'Those who find extensive damage to their roofs might be stuck between
   two options: File an insurance claim, which could trigger a premium increase, or
   cough up the cash for the…'
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-04T18:19:00Z'

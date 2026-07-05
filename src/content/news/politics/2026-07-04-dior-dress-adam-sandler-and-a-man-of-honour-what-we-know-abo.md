@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The couple tied the knot in New York on Friday, after months of speculation
   about when, where and how it would happen.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-04T17:51:04Z'

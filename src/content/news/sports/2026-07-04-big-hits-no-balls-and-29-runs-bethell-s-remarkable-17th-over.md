@@ -5,7 +5,7 @@ countryCode: GB
 description: Watch all EIGHT deliveries as England score 29 runs from one over, with
   Jacob Bethell hitting three sixes within it, to all but guarantee victory for the
   home side in their chase…
-displayOrder: 14
+displayOrder: 23
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-04T18:42:18Z'

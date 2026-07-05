@@ -5,7 +5,7 @@ countryCode: GB
 description: Enjoy the best shots in this all-American tie as Madison Keys defeats
   last year's finalist Amanda Anisimova to progress to the fourth round of Wimbledon
   2026.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-04T18:07:15Z'

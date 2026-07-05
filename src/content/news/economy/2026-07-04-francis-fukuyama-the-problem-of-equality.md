@@ -2,7 +2,7 @@
 category: Economy
 description: We must understand our identity to be fundamentally rooted in a set of
   ideas, not the racial or ethnic identity of our ancestors
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 31.5
 pubDate: '2026-07-04T04:00:34Z'

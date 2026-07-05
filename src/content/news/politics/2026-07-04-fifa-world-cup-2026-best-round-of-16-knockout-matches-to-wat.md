@@ -2,7 +2,7 @@
 category: Politics
 description: As the tournament enters the second knockout phase, there are several
   blockbuster matchups led by Spain-Portugal.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-04T16:51:20Z'

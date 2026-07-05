@@ -5,7 +5,7 @@ countryCode: US
 description: Erick the Architect is a founding member of, and the primary producer
   for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel
   and Fallon, played Coachella,…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-04T15:00:00Z'

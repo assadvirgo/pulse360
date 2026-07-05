@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies
   spanning cities and ending in Mashhad burial.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-04T10:16:31Z'

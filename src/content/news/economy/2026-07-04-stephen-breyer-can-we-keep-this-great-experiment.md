@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: There are some who fear not, but I am optimistic. The students I meet
   are interested in defending their Constitution
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-04T04:00:21Z'

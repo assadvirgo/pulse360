@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian President Volodymyr Zelensky says the target is key infrastructure
   "that generates revenue for Russia's war".
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-04T18:41:25Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'SATURDAY AM: Following Supergirl&#8216;s plummet to Earth last weekend,
   and the pain that&#8217;s caused the James Gunn and Peter Safran&#8217;s DC, the
   general media might be…'
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-04T16:17:00Z'

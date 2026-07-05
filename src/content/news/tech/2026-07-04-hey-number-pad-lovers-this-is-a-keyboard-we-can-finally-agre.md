@@ -3,7 +3,7 @@ category: Tech
 description: I know a vocal group of people who swear by the number pad on their keyboard.
   And yet, for years I haven't cared about using one - until I put my hands on the
   Epomaker RT98. It's…
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-04T14:00:00Z'

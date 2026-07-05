@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In 1776, visions of liberty and justice were fraught with compromise,
   conflict and contradiction. Today, the founders’ words still shape national identity
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-04T04:00:21Z'
