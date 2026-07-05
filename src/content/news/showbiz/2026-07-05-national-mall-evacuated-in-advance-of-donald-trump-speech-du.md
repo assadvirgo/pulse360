@@ -5,7 +5,7 @@ countryCode: US
 description: Severe weather has postponed, for now, the Salute to America celebration
   on the National Mall that was to feature Donald Trump&#8217;s speech followed by
   fireworks. After a…
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-05T00:21:02Z'

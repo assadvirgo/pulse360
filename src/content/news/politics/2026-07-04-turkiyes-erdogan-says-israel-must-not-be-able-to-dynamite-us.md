@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: The Turkiye leader has repeatedly accused Israel of trying to undermine
   the US-Iran memorandum of understanding.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-04T18:09:20Z'

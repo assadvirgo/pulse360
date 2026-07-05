@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The price for the final 2026 World ⁠Cup match in Seattle hit nearly $4,000
   but dipped as low as $1,549 ⁠on Tuesday.
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-04T23:36:37Z'

@@ -5,7 +5,7 @@ countryCode: PH
 description: Alexandra Eala pays tribute to her grandfather and brother, who trained
   her as a child, after becoming the first player from the Philippines to reach the
   fourth round of a Grand…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-04T15:25:41Z'

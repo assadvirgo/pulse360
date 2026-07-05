@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Marc Lamont Hill speaks to scholar Kimberle Crenshaw on whether the US
   is sliding backwards on civil rights.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-04T19:30:00Z'

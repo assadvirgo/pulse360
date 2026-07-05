@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran has marked the second day of funeral processions for its late Supreme
   Leader Ali Khamenei.
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-04T21:08:18Z'

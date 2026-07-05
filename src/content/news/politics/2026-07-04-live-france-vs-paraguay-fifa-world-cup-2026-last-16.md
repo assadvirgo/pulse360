@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Live coverage and text commentary stream updates as Mbappe&#039;s France
   face Paraguay in the Round of 16 knockout game.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-04T17:51:21Z'

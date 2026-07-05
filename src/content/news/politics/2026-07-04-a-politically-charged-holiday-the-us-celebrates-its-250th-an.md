@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The semiquincentennial has been meet with controversy, as President Trump
   seeks to exert influence over the celebration.
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-04T19:43:18Z'

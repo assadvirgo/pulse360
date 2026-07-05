@@ -5,7 +5,7 @@ countryCode: CZ
 description: Actor-director Jesse Eisenberg, who is at the Karlovy Vary Film Festival
   as the recipient of this year’s President’s Award, spoke about not reprising his
   role as Mark Zuckerberg…
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 67.8
 pubDate: '2026-07-04T16:19:55Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'Two hundred and fifty years after the signing of the Declaration of
   Independence, a new commercial asks: What if the Founding Fathers had access to
   Google Workspace?'
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-04T20:55:25Z'

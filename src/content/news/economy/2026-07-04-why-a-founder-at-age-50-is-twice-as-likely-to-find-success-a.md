@@ -2,7 +2,7 @@
 category: Economy
 description: Older workers are fighting ageism by starting their own businesses —
   and they’re outperforming younger entrepreneurs
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-04T18:56:00Z'

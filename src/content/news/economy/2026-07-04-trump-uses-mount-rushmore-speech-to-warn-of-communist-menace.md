@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President kicked off 250th anniversary events with a preview of a likely
   line of attack against Democrats in coming elections
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 76.5
 pubDate: '2026-07-04T04:23:42Z'

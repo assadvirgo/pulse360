@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 'Daily Mail' reports that the ‘Too Much’ writer, one of Swift’s longtime
   close friends, uttered the quip during a pre-wedding gathering on Thursday night.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-04T19:54:12Z'
