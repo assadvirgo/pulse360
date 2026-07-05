@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Policymakers discuss reducing incentives for academics to submit papers
   to international journals over leak concerns
-displayOrder: 34
+displayOrder: 39
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-05T04:00:02Z'

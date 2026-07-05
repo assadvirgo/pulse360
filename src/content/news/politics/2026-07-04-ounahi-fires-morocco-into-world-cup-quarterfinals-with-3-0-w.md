@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: Azzedine Ounahi scored two of three second-half goals as Morocco ended
   cohosts run to reach last eight.
-displayOrder: 8
+displayOrder: 27
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-04T20:03:15Z'

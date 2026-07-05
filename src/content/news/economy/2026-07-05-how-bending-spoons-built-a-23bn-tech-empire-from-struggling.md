@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Nasdaq listing caps more than a decade of deals that transformed an Italian
   start-up into a global internet company
-displayOrder: 33
+displayOrder: 37
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-05T04:00:11Z'

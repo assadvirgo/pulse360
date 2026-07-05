@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Kylian Mbappe moves level with Lionel Messi on seven goals at World Cup
   2026 as France beat Paraguay 1-0 in last 16.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-04T23:25:33Z'

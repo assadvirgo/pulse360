@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATE: After the delayed start, Donald Trump spoke for about 40 minutes,
   presenting a bit of history, like the one of the earliest American flags, and introducing
   World War II…'
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-05T04:31:00Z'

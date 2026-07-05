@@ -5,7 +5,7 @@ countryCode: US
 description: The Swift Observatory was launched in 2004, but recent solar storms have
   pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as
   soon as this year. To…
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-04T19:06:27Z'
