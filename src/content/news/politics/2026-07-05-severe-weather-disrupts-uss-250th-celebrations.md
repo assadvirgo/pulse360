@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump describes milestone as &#039;one of the most joyous and
   glorious&#039; in US&#039;s history in campaign style speech.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-05T02:54:05Z'

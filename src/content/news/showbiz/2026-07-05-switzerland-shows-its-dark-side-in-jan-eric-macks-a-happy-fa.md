@@ -5,7 +5,7 @@ countryCode: CH
 description: Switzerland is still one of the richest countries in the world. But there
   are cracks in its foundation, argues director Jan-Eric Mack. “During the pandemic,
   we started seeing…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-05T09:13:56Z'

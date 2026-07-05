@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Far-right leader Marine Le Pen is appealing against a verdict which found
   her guilty of misusing EU funds.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-04T23:17:24Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President eulogises forebears and eviscerates enemies at Lincoln Memorial
   on 250th anniversary of independence
-displayOrder: 37
+displayOrder: 44
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-05T03:41:33Z'

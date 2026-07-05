@@ -5,7 +5,7 @@ countryCode: US
 description: Country singer Jelly Roll’s ex-wife, Bunnie Xo, has revealed that she
   will take full ownership of the former couple’s Tennessee compound as part of their
   divorce settlement.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-04T17:57:00Z'

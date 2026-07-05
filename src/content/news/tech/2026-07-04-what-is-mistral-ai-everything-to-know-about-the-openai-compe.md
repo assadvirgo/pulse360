@@ -3,7 +3,7 @@ category: Tech
 description: Mistral AI, which offers some open source AI models, has raised significant
   funding since its creation in 2023, with the ambition to “put frontier AI in the
   hands of everyone.”
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-04T15:51:32Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump to speak at Lincoln Memorial as extreme heat and thunderstorms
   disrupt 250th anniversary events
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-05T00:20:36Z'

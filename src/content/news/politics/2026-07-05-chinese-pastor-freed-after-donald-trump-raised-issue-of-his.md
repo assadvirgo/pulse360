@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: A Chinese pastor has been released from jail after Donald Trump intervened
   to get him freed, in what his family have described as a "miracle".
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-07-05T09:09:00Z'

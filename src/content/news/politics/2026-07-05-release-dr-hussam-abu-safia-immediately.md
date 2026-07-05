@@ -2,7 +2,7 @@
 category: Politics
 description: It’s been more than 1,000 days of genocide and 500 days of Abu Safia’s
   detention. We need urgent action to end both.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-05T10:56:46Z'

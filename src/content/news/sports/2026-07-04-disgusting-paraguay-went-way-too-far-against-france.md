@@ -4,7 +4,7 @@ country: Paraguay
 countryCode: PY
 description: BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss
   Paraguay's attempts to get under France's skin at the 2026 World Cup.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-04T23:50:06Z'

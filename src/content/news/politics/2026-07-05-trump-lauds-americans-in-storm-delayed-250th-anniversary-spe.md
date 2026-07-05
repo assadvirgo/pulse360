@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump has praised Americans as ‘a historic and heroic people’,
   in a speech on the nation&#039;s 250th anniversary.
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-05T05:18:14Z'

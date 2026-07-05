@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Washington Freedom slumped to 19 for 3 before Steven Smith and Mark Chapman
   revived the chase of 127
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-05T05:32:38Z'

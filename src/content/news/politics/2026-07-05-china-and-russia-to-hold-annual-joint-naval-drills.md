@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Exercises from Monday to July 13 off Qingdao to be followed by joint
   maritime patrols in the Pacific Ocean.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-05T11:03:51Z'

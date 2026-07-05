@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The new jobs report is worse than many people realize.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-07-04T18:37:00Z'
