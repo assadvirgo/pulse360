@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Haaland&#039;s brace takes him to seven goals for the tournament as Norway
   book a quarterfinal against Mexico or England.
-displayOrder: 9
+displayOrder: 27
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-05T22:26:49Z'

@@ -3,7 +3,7 @@ category: Tech
 description: 'There was a period in the early aughts when Definitive Jux (nee: Def
   Jux) seemed like it was going to be the future of hip hop. While the label featured
   plenty of experimental,…'
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-05T18:30:00Z'

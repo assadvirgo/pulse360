@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Mojtaba Khamenei does not join other top leaders and sons alongside coffin
   of slain supreme leader
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-05T12:04:28Z'

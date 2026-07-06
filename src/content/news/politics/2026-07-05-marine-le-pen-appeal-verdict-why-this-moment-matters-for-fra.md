@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The leader of France's National Rally leads the opinion polls ahead of
   the 2027 presidential election and will now find out if she can stand.
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-05T23:31:04Z'

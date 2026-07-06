@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Balogun was set to miss USA vs Belgium last 16 tie but will now be available
   as FIFA surprisingly ends his suspension.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-05T18:28:22Z'

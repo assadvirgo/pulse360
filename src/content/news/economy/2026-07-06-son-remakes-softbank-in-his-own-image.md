@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: The veteran investor has put himself at the centre of the global AI boom.
   Some think he now has too much control
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-06T04:00:13Z'

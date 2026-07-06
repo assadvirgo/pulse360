@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The costs of remaining at the frontier of AI are punishing, but the penalties
   for falling behind may be even worse
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-06T04:00:23Z'

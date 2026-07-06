@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT:&#160;This post contains spoilers from “New York,” the
   fifth episode of “The Vampire Lestat,” now streaming on AMC+. When costume designer
   Lex Wood started planning…
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-06T02:00:00Z'

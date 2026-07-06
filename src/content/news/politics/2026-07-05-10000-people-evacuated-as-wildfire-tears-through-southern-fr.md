@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A fast-moving wildfire has forced around 10,000 people to evacuate after
   burning more than 1,500 hectares in France.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-05T20:38:57Z'

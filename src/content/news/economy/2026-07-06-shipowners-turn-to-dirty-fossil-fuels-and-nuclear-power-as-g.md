@@ -2,7 +2,7 @@
 category: Economy
 description: Deeply divided industry fractures into several camps backing different
   technologies and fuels
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-06T04:00:13Z'

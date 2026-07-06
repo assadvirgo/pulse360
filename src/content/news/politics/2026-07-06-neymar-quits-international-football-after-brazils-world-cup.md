@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: The injury-plagued striker converted a penalty but failed to take his
   team into the last 16 of the FIFA World Cup.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-06T01:04:38Z'

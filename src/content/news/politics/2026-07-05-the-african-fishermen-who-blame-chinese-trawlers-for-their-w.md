@@ -4,7 +4,7 @@ country: Sierra Leone
 countryCode: SL
 description: Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering
   up stocks.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-05T23:30:40Z'

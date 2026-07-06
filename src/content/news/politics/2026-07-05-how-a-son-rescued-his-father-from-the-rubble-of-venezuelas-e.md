@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: After the June 24 earthquakes, ex-firefighter Jesus Garcia found himself
   working to save his dad and younger brothers.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-05T22:41:40Z'

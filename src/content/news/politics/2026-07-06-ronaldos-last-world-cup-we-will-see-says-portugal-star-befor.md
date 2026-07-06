@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: '&#039;I will finish when I choose,&#039; Ronaldo reveals amid speculation
   about his World Cup future ahead of the last-16 match.'
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-06T02:13:37Z'

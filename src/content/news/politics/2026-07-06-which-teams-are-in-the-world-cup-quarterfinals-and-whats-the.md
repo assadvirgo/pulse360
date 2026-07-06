@@ -2,7 +2,7 @@
 category: Politics
 description: The FIFA World Cup 2026 quarterfinals lineup as it builds, with match
   kickoff times and locations.
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-06T04:03:19Z'

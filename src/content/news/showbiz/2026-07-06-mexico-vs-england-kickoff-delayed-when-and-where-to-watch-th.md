@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: The Round of 16 matchup will be held at Mexico City Stadium on Sunday,
   July 5.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-06T00:33:40Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Premier’s cabinet raises fears of a constitutional crisis by formally
   rejecting ruling by Supreme Court
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-05T17:12:14Z'
