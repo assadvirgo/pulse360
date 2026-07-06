@@ -2,7 +2,7 @@
 category: Politics
 description: Round of 16 continues as Portugal-Spain rivalry renews before USA take
   on Belgium.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-06T09:08:14Z'

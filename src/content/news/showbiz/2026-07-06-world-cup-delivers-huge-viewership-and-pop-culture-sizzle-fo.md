@@ -5,7 +5,7 @@ countryCode: US
 description: The FIFA World Cup tournament barreled into North America this year amid
   a tide of nativism, political polarization in the U.S. and the usual uncertainty
   over how well the…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-07-06T15:39:12Z'

@@ -3,7 +3,7 @@ category: Tech
 country: United Kingdom
 countryCode: GB
 description: The new model will be officially unveiled in late September.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-06T11:30:38Z'

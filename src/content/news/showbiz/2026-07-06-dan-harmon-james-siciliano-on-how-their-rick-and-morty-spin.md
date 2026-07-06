@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: The Rick and Morty universe is about to expand with the launch
   of President Curtis on Adult Swim on July 26, and its creators have told Deadline
   how the two madcap…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-06T14:27:29Z'

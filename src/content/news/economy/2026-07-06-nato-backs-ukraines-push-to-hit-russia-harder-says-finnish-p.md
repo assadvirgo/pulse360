@@ -4,7 +4,7 @@ country: Finland
 countryCode: FI
 description: Alexander Stubb tells FT that long-range drone strikes have changed US
   views on the war and put Kyiv in ‘best’ position since 2022
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-06T13:34:22Z'

@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: UN warns of &#039;catastrophe&#039; in el-Obeid after RSF atrocities
   in el-Fasher last year.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-06T12:21:52Z'

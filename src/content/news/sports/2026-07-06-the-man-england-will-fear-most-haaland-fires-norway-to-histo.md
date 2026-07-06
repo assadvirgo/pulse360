@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Erling Haaland has scored seven goals in four World Cup games and he
   is the striker that nobody wants to face as he fires Norway into an historic quarter-final.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 60.2
 pubDate: '2026-07-06T03:20:59Z'

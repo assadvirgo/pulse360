@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “I get hungry for a meal at a good restaurant.”
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-06T16:15:00Z'

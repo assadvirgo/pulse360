@@ -2,7 +2,7 @@
 category: Economy
 description: After its dramatic plunge, silver may be experiencing a huge disconnect
   between its traded value and its importance as a critical material.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-06T16:08:00Z'

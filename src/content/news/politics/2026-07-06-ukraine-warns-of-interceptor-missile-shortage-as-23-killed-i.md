@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: President Zelensky says Sunday's "massive Russian attack" on Kyiv consisted
   of 68 missiles and 351 strike drones.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 83.2
 pubDate: '2026-07-06T15:09:57Z'

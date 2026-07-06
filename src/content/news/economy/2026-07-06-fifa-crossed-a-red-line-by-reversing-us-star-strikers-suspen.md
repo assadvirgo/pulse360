@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Governing body lifted a one-match ban given to US striker Folarin Balogun
   after a phone call from Donald Trump
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-06T11:11:55Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Bangladesh
 countryCode: BD
 description: Refugees killed in landslides at Rohingya camps in Bangladesh
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-06T13:07:55Z'

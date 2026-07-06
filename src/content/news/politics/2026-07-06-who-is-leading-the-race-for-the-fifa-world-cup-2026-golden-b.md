@@ -2,7 +2,7 @@
 category: Politics
 description: Haaland&#039;s double against Brazil takes him to seven goals, the same
   as Mbappe and Messi at the top of the chart.
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 71.5
 pubDate: '2026-07-06T09:30:23Z'

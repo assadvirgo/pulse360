@@ -5,7 +5,7 @@ countryCode: GB
 description: 'Styles paid tribute to his former One Direction bandmates while on stage
   at the historic London venue, telling 80,000+ fans: "I wouldn''t be here without
   [them]."'
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-07-06T11:56:25Z'

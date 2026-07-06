@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A 330 million pound NHS contract - and Palantir&#039;s wider role in
   UK government - hangs on Andy Burnham&#039;s next move.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-06T13:46:21Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: A Palestinian technocratic committee will take its place to manage the
   enclave&#039;s day-to-day governance.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-06T13:36:52Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president escalates feud with Italian leader who was previously his
   most devoted European ally
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-06T09:29:15Z'

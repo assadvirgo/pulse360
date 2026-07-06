@@ -3,7 +3,7 @@ category: Economy
 country: Ukraine
 countryCode: UA
 description: Ukrainian leader says Donald Trump has changed his mind about the conflict
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-06T16:37:47Z'
