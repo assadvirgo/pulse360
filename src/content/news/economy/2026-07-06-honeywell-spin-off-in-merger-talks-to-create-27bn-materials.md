@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Combination with Element Solutions would boost Solstice’s role as key
   supplier of chipmaking inputs
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-06T05:38:30Z'

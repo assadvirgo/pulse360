@@ -5,7 +5,7 @@ countryCode: US
 description: The once-hot semiconductor trade has seen a cooling in the last couple
   of weeks, which is not only likely to continue, but usher in a bumpy ride for the
   overall stock market.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-06T08:54:00Z'

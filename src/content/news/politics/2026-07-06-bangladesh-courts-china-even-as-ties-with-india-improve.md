@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: Relations between Dhaka and Delhi, that turned frosty under the interim
   government, are on the mend.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-06T00:02:29Z'

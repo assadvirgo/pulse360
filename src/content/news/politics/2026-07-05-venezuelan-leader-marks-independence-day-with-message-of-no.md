@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Interim President Delcy Rodriguez once again defends her government&#039;s
   handling of the deadly earthquakes on June 24.
-displayOrder: 13
+displayOrder: 37
 heroImage: ''
 importance: 77.5
 pubDate: '2026-07-05T22:48:13Z'

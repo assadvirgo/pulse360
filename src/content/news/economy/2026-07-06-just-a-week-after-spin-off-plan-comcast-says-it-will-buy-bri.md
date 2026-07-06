@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Just a week after Comcast announced a plan to spin off NBCUniversal,
   the Philadelphia media-and-broadband conglomerate said it’s buying a British broadcaster.
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-06T07:21:00Z'

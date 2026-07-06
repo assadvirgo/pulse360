@@ -5,7 +5,7 @@ countryCode: AU
 description: England showed plenty of positives during their run to the T20 World
   Cup final but the margin of defeat leaves coach Charlotte Edwards with questions
   to answer.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-05T21:55:04Z'

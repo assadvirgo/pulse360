@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Norway fans celebrate with viking rows from outside the stadium in New
   Jersey to Oslo as the team stuns Brazil.
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-06T05:35:46Z'

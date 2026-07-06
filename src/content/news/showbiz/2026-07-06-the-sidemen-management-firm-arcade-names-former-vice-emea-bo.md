@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: There&#8217;s change afoot at Arcade, the creator management
   company that represents The Sidemen. Former Vice Media EMEA boss Matt Elek has been
   named CEO, with…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-06T09:00:00Z'

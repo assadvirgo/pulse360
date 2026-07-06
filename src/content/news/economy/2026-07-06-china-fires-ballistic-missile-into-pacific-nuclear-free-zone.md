@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Submarine-launched projectile carrying dummy warhead draws condemnation
   from Japan, Australia and New Zealand
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 62.5
 pubDate: '2026-07-06T08:23:30Z'
