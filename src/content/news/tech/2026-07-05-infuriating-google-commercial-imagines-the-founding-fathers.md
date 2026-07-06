@@ -5,7 +5,7 @@ countryCode: US
 description: '"Group project, but make it 1776." That''s how a new commercial for
   Google Workspace opens. And things only get cringier from there. The clip imagines
   what it would be like if the…'
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-05T14:23:11Z'

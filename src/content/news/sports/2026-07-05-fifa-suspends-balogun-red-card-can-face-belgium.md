@@ -5,7 +5,7 @@ countryCode: US
 description: FIFA has suspended the red card U.S. striker Folarin Balogun received
   in the team's match against Bosnia-Herzegovina, making him available to face Belgium
   in the round of 16 at…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-05T20:57:38Z'

@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Nigeria's government said one of its nationals was reportedly killed
   by police officers "using gruesome interrogation techniques".
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-07-05T13:09:20Z'

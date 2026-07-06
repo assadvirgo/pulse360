@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “She thanked us for the $100 birthday gift and then announced that her
   mother-in-law had sent her $400.”
-displayOrder: 45
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-05T12:48:00Z'

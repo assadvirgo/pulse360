@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Mojtaba Khamenei has not been seen in public since the attack which killed
   his father at the outset of the US-Israel war with Iran.
-displayOrder: 10
+displayOrder: 29
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-05T17:58:01Z'

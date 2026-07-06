@@ -5,7 +5,7 @@ countryCode: IR
 description: The BBC's chief international correspondent reports from Tehran where
   funeral events are taking place in honour of Iran's former leader, Ayatollah Ali
   Khamenei.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-05T17:54:47Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Protest outside Al-Shifa Medical Complex demanding Israel lift travel
   restrictions on those leaving the Gaza Strip.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-05T18:40:43Z'

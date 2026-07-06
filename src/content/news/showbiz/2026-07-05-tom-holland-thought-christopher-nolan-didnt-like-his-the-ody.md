@@ -5,7 +5,7 @@ countryCode: US
 description: Tom Holland&#8217;s role in Christopher Nolan&#8217;s Imax-shot The Odyssey
   presented a learning curve for the young actor. With his role as Telemachus in the
   epic blockbuster,…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-05T19:20:38Z'

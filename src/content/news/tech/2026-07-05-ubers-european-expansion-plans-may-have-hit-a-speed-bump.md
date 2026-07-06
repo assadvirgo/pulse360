@@ -2,7 +2,7 @@
 category: Tech
 description: Back in February, Uber announced ambitious plans to launch in seven new
   European markets in 2026 — but now five of those launches are reportedly on hold.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-05T21:35:17Z'

@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: The June 5 Round of 16 matchup is historically significant as Brazil
   has never beaten Norway.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-05T19:15:03Z'

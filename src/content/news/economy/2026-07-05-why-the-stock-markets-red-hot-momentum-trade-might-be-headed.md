@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Momentum trades tend to struggle in July — but this year may be particularly
   volatile, says one strategist. The rumblings have already started.
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-05T13:00:00Z'

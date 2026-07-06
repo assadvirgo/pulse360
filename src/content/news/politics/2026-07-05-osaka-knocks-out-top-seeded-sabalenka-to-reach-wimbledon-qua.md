@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Naomi Osaka beat world number one Aryna Sabalenka in straight sets to
   book her maiden Wimbledon quarterfinal.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-05T18:45:55Z'
