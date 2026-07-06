@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranians mourn along procession route before burial in Mashhad during
   weeklong ceremonies.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-06T07:11:33Z'

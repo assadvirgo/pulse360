@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Zelenskyy pleads with allies to provide Patriot interceptors to defend
   Ukraine
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-06T10:23:44Z'

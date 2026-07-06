@@ -5,7 +5,7 @@ countryCode: GB
 description: Sky has finally sealed a £1.6 billion ($2.1 billion) deal to acquire
   ITV&#8217;s television network operations. ITV confirmed to shareholders on Monday
   morning that it will sell…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-07-06T06:08:43Z'

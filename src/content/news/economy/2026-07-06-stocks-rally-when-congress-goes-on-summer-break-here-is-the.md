@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stock prices face greater volatility when lawmakers are active, driven
   entirely by the regulatory uncertainty they create.
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-06T11:42:00Z'

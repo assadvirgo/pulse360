@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Institutional investors poured money into funds as retail money fled
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-06T04:00:22Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: Distributed backups, cyber resilience, and a half-million records are
   preserving Palestinian history beyond any single building or border.
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-06T09:00:00Z'

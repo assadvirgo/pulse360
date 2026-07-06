@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: FIFA&#039;s unprecedented decision sparked huge furore in football world.
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-06T11:49:53Z'

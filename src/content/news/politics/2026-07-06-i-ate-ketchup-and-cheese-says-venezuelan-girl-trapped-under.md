@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Fabiana was trapped in the rubble of a 10-storey residential building
   after two earthquakes rocked Venezuela in June.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-06T05:04:28Z'

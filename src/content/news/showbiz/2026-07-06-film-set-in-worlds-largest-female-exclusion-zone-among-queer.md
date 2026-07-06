@@ -5,7 +5,7 @@ countryCode: CZ
 description: Also pitched were a buzzy body horror movie set set amid the AIDS crisis,
   an exploration of a pre-colonial world and the story of a gay couple wanting their
   love to survive war…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-06T10:00:00Z'

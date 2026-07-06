@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK start-up Isembard is linking hundreds of small machine shops into
   a decentralised military manufacturing network
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-06T04:00:22Z'

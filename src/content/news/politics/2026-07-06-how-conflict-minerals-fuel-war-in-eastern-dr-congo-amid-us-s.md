@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The move underscores growing scrutiny of the conflict mineral trade fuelling
   violence in eastern DR Congo.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-06T02:10:37Z'

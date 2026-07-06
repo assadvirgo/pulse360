@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: China carried out a long-range ballistic missile test in the south Pacific
   on Monday, sparking criticism from New Zealand and Australia.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-06T06:39:00Z'

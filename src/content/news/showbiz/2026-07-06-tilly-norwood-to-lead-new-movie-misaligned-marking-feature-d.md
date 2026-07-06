@@ -3,7 +3,7 @@ category: Showbiz
 description: Tilly Norwood, the AI &#8220;actor&#8221; who sparked a frenzy of anger
   in Hollywood and across the wider industry in late 2025, is set to front her first
   feature film.…
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-06T13:05:08Z'
