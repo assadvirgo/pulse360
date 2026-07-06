@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv’s intensified drone campaign is spurring Russia’s worst fuel crisis
   in decades
-displayOrder: 31
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-05T11:23:46Z'

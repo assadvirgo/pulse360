@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The opening of the Obama presidential library set off a wave of nostalgia
   for an era that is not coming back
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-05T04:00:11Z'

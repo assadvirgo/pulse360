@@ -3,7 +3,7 @@ category: Tech
 description: Rockstar's long-awaited Grand Theft Auto VI is launching November 19th,
   2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available
   digitally at launch, with…
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-05T16:00:00Z'

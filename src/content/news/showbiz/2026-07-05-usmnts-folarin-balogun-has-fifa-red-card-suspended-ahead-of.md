@@ -5,7 +5,7 @@ countryCode: US
 description: Folarin Balogun is back in the game as FIFA suspends his red card ahead
   of Team USA&#8217;s Round of 16 match against Belgium. The USMNT striker is now
   eligible to compete in…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 55.0
 pubDate: '2026-07-05T17:44:05Z'

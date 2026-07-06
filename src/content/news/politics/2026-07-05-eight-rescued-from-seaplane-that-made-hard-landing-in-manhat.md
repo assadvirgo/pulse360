@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Eight people were removed from the Kodiak 100 seaplane by fire department
   units and two had minor injures.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-05T18:35:23Z'

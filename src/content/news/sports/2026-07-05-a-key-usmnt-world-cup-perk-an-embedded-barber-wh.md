@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The USMNT's unique hairstyles are turning heads at the World Cup, and
   it's thanks to their embedded barber who gives them fresh cuts in camp.
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-05T18:10:26Z'

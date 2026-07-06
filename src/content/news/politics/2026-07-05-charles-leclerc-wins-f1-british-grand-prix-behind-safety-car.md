@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Charles Leclerc collects his first victory of the 2026 F1 season after
   late safety car confusion in the final laps.
-displayOrder: 27
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-05T16:17:28Z'

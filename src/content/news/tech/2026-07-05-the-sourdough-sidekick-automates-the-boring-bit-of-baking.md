@@ -5,7 +5,7 @@ countryCode: US
 description: Baking sourdough bread is inherently old-fashioned, relying on natural
   fermentation and wild yeast instead of the simple, predictable commercial stuff.
   So it might sound anathema…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-05T14:00:00Z'

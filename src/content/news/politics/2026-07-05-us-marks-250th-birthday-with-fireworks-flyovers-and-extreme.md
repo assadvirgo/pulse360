@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump's speech included some of his political agenda
   but also honoured war veterans and American history.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-05T08:24:32Z'

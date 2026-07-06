@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: Tens of thousands of fans formed an ocean of blue outside the airport
   in capital city, Praia.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-05T14:59:10Z'

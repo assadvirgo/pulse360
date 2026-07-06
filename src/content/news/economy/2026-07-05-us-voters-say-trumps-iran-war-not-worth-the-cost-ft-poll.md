@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Survey shows conflict is dragging down president’s approval ratings ahead
   of November midterms
-displayOrder: 29
+displayOrder: 37
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-05T12:00:03Z'

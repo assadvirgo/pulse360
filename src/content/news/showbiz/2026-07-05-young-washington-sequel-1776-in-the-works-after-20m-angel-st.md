@@ -5,7 +5,7 @@ countryCode: US
 description: Angel Studios has done it again. After winning over the heartland with
   the 2023 trafficking thriller Sound of Freedom which posted a 3-day of $19.6M (and
   a six-day start of…
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-05T18:16:58Z'

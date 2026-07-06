@@ -5,7 +5,7 @@ countryCode: US
 description: The cosplay was typically intense and wildly creative among the tens
   of thousands of anime fans who turned out over the holiday weekend for the four-day
   Anime Expo in downtown Los…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-05T15:35:15Z'

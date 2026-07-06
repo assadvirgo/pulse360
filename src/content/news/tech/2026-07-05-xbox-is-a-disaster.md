@@ -5,7 +5,7 @@ countryCode: US
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on the bleak state of the video game industry,
   follow Andrew Webster. The…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-05T12:00:00Z'

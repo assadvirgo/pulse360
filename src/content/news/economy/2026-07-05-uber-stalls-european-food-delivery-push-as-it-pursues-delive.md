@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Ride-hailing company will no longer launch in five of its seven planned
   new markets this year
-displayOrder: 45
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-05T04:00:03Z'

@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Live coverage and text updates as Brazil play Norway in the round of
   16 knockout stage.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-05T16:40:00Z'

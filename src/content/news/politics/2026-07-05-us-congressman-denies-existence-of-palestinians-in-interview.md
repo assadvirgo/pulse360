@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Congressman Randy Fine claims “there is no such thing as Palestinian”,
   on interview show The Next Generation.
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-05T17:37:26Z'
