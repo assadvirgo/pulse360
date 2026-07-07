@@ -5,7 +5,7 @@ countryCode: US
 description: After the Jaylen Brown trade, hundreds of millions spent on centers and
   a shocking cap development, here's the latest NBA buzz as we enter Week 2 of free
   agency.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-07T01:42:13Z'

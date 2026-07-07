@@ -3,7 +3,7 @@ category: Tech
 description: An AI agent carried out the technical execution of a real-world ransomware
   attack for the first known time, but new details show a human still chose the victim,
   set up the…
-displayOrder: 15
+displayOrder: 39
 heroImage: ''
 importance: 71.0
 pubDate: '2026-07-06T23:56:14Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Raphael Claus is &#039;one of the world&#039;s leading professional referees&#039;,
   FIFA says, following Trump&#039;s comments.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-07T02:23:55Z'

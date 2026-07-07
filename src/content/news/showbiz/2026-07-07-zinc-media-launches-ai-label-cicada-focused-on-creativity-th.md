@@ -5,7 +5,7 @@ countryCode: GB
 description: Zinc Media Group has launched an AI-focused label called Cicada. Zinc
   is the factual-focused UK-based production and distribution group that owns Brook
   Lapping, Rex, Supercollider…
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-07T09:00:00Z'

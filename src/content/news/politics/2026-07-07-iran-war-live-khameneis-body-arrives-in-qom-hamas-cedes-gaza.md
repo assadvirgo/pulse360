@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Hamas dissolves its governing body in Gaza, paving the way for a technocratic
   committee to take over.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-07T00:00:00Z'

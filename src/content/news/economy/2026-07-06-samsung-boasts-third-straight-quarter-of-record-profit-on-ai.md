@@ -3,7 +3,7 @@ category: Economy
 country: South Korea
 countryCode: KR
 description: High memory chip prices fuel April to June earnings
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-06T23:34:14Z'

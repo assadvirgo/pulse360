@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Cristiano Ronaldo left the pitch for the last time at a World Cup, after
   Spain beat Portugal 1-0.
-displayOrder: 18
+displayOrder: 37
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-07T04:36:14Z'

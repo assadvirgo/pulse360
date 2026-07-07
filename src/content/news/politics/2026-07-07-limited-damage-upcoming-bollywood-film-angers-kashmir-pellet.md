@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Makers of Chauhaan accused of mocking more than 1,000 Kashmiris partially
   or completely blinded by pellet shotguns.
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T05:11:53Z'

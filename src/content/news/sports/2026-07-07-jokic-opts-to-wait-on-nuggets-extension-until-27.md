@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nikola Jokic reaffirmed his desire to say with the Nuggets long term
   but said he's opting to wait until next summer to sign an extension.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T05:54:47Z'

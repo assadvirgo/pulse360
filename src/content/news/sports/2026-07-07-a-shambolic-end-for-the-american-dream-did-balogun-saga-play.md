@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mauricio Pochettino says he feels "disappointed with too many people"
   who brought "politics and manipulation" into the game as the US exit World Cup.
-displayOrder: 11
+displayOrder: 31
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-07T05:00:10Z'

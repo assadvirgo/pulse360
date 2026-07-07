@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Carmaker will have to cultivate capacity to improvise as it navigates
   the profound uncertainty it faces
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-07T04:00:09Z'

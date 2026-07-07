@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: At least 18 people, including four police officers, were wounded in the
   blasts, Syria&#039;s Interior Ministry says.
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T07:32:04Z'

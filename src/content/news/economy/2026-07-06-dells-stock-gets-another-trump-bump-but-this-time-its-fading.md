@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president recommended that people buy Dell computers while speaking
   about the launch of “Trump accounts” on Monday.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-06T20:14:00Z'

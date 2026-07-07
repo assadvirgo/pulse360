@@ -5,7 +5,7 @@ countryCode: US
 description: A new report suggests Netflix viewers aren’t sticking around for Season
   2. The bigger issue may be that binge-watching itself is no longer the advantage
   it once was.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-07-07T00:47:33Z'

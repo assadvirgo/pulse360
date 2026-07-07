@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Charlie Kirk's widow was joined by the late US activist's family - all
   of whom attended court for the first time in the case.
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-07T08:25:54Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'Virtual production company Orbital Studios has a new brick-and-mortar
   home. The producer whose credits include Netflix&#8217;s Nemesis and FX&#8217;s
   upcoming The Drop: A Snowfall…'
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-07T02:30:00Z'

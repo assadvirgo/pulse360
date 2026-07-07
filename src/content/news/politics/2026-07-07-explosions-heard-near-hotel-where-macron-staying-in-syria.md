@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A series of explosions have been heard near the hotel where President
   Emmanuel Macron is due to stay in Syria.
-displayOrder: 13
+displayOrder: 33
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-07T07:29:00Z'

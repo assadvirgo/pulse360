@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The Ukrainian president will use the Nato meeting in Turkey to argue
   he needs more interceptor missiles.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-07T04:18:19Z'

@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: ‘Seniority-biased’ hiring patterns in South Korea carry a lesson for
   the rest of the world
-displayOrder: 39
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-07T04:00:22Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Hamas has announced the dissolution of its civilian governing body in
   Gaza after nearly 20 years of administration.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T03:25:11Z'

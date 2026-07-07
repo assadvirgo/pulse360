@@ -4,7 +4,7 @@ country: Oman
 countryCode: OM
 description: Iran&#039;s TV claims the tanker ignored warnings, but no direct responsibility
   for the attack has been declared.
-displayOrder: 14
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-07T04:06:03Z'
