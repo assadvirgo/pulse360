@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The update is part of Apple's broader effort to make Siri feel more natural
   and personal, as it rebuilds the assistant around generative AI.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-06T19:01:59Z'

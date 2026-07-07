@@ -2,7 +2,7 @@
 category: Politics
 description: NATO Secretary General Mark Rutte said members are now spending around
   4% of GDP on defence.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 71.5
 pubDate: '2026-07-06T19:21:28Z'

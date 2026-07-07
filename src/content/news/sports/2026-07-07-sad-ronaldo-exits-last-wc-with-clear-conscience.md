@@ -5,7 +5,7 @@ countryCode: PT
 description: An emotional Cristiano Ronaldo said he had a "clear conscience" as he
   exited his final World Cup as Portugal were eliminated 1-0 by Spain in the round
   of 16 in Arlington, Texas,…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-07T01:01:04Z'

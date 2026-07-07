@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The German-owned naval shipbuilder made the bid with NATO ally Norway,
   beating out South Korea&#039;s Hanwha Ocean.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-06T22:13:46Z'

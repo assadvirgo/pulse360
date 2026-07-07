@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Lionel Messi&#039;s Argentina go up against Mohamed Salah&#039;s Egypt
   in a spicy World Cup round of 16 encounter.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-06T16:40:02Z'

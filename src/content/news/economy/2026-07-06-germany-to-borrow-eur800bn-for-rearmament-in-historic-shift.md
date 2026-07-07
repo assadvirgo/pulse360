@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Chancellor Friedrich Merz’s debt-fuelled spending not seen since German
   reunification
-displayOrder: 39
+displayOrder: 50
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-06T17:15:51Z'

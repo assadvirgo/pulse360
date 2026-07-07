@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Cuba has suffered a nationwide blackout after the country's national
   electricity grid collapsed.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-06T22:38:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US warns of consequences for NATO members without clear spending plans,
   signalling high expectations from allies.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-06T19:35:56Z'

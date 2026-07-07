@@ -3,7 +3,7 @@ category: Showbiz
 description: Christoper Nolan&#8217;s &#8220;The Odyssey&#8221; has finally been unveiled
   to members of the film press, who are calling the Oscar winner&#8217;s adaptation
   of Homer&#8217;s…
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-06T21:43:24Z'

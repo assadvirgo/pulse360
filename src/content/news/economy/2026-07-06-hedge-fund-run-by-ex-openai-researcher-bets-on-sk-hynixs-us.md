@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Situational Awareness joins UK investor Baillie Gifford backing the South
   Korean memory maker’s American debut
-displayOrder: 29
+displayOrder: 45
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-06T18:08:25Z'

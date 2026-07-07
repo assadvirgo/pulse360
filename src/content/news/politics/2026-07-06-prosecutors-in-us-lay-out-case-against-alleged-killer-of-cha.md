@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Judge to decide whether there&#039;s enough evidence to bring Tyler Robinson
   to trial for conservative activist&#039;s killing.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-06T20:19:00Z'

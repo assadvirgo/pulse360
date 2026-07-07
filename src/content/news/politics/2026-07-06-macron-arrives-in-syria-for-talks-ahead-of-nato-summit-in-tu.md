@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The French president is the first leader from western Europe to visit
   Syria since the overthrow of Bashar al-Assad.
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-06T20:50:13Z'

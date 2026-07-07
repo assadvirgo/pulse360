@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: President Lula accuses Jair Bolsonaro&#039;s son, now a presidential
   hopeful, of helping trigger proposed US tariffs.
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 81.5
 pubDate: '2026-07-06T18:02:40Z'

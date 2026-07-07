@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The storm lashed the Mariana Islands, hitting Rota and prompting emergency
   warnings on Guam.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-06T16:44:54Z'
