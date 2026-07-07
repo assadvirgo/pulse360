@@ -2,7 +2,7 @@
 category: Economy
 description: As Nato meets, the continent is starting to think about how to defend
   itself without the US
-displayOrder: 40
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-07T04:00:10Z'

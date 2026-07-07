@@ -5,7 +5,7 @@ countryCode: BE
 description: The victorious Belgium team mainly let their skills do the talking at
   the World Cup after a day of red card suspension controversy, a failed appeal, and
   the unsurprising…
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 51.0
 pubDate: '2026-07-07T03:25:05Z'

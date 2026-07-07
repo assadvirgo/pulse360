@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Christopher Waller sides with central bank’s new chair in call for revamping
   communication to market
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-06T23:47:39Z'

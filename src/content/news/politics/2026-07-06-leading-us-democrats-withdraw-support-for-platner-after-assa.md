@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Monday&#039;s accusations are the latest in a long string of controversies
   surrounding the Maine Democratic Senate candidate.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-06T23:10:41Z'

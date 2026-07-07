@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While valuations still look extreme relative to history, the recent pace
   of corporate earnings growth has also meaningfully diverged from the long-term trend.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-06T21:11:00Z'

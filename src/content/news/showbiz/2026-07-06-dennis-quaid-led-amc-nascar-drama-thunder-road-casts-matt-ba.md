@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: AMC&#8217;s upcoming NASCAR drama series Thunder Road has
   cast Matt Barr (The Pirate King, Hatfields &#38; McCoys) in a series regular role.
   He joins the previously…'
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-06T21:30:00Z'

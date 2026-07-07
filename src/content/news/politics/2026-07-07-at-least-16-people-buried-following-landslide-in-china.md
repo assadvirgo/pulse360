@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The country has been hit by damaging thunderstorms, leaving at least
   275 people injured.
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T04:10:02Z'

@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Portugal captain admits his team&#039;s last-16 match against Spain was
   his final outing in the World Cup.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 58.5
 pubDate: '2026-07-06T23:41:50Z'

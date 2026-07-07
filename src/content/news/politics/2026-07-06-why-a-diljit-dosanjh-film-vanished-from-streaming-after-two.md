@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The film's troubled journey spans years of censorship disputes, court
   battles and an unexpected release on a streaming platform.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-06T22:06:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Comedian Trevor Noah joked that Trump’s intervention in Folarin Balogun’s
   red card saga was “government interference.&quot;
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T00:07:07Z'
