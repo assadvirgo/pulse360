@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: After Netanyahu&#039;s statements on Lebanese Christians were denounced
   in Lebanon, analysts call Israel&#039;s PM a liar.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-07T14:53:39Z'

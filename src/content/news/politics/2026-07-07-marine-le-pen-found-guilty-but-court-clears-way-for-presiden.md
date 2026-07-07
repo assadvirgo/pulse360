@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The National Rally leader now has to decide whether she will run with
   an electronic tag and will speak on TV later.
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-07T15:46:05Z'

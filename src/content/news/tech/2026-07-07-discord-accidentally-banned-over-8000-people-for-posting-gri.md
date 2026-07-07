@@ -3,7 +3,7 @@ category: Tech
 description: Discord says a bug affecting its safety system caused it to mistakenly
   ban more than 8,000 accounts since May. The platform's statement follows a wave
   of reports from users over…
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-07T15:02:30Z'

@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: What does Trump want from his NATO allies?
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-07T11:23:53Z'

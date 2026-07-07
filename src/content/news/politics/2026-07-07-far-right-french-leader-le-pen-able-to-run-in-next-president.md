@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A French appeals court has cleared the way for Marine Le Pen to run in
   the 2027 presidential election - but with an electronic tag.
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 74.0
 pubDate: '2026-07-07T10:57:00Z'

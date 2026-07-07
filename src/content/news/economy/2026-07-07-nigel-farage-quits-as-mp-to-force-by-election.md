@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Reform UK leader says ‘I have done nothing wrong’ in failing to declare
   donations
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-07T11:55:34Z'

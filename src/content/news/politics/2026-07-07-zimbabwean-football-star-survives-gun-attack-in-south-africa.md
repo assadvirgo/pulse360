@@ -4,7 +4,7 @@ country: Zimbabwe
 countryCode: ZW
 description: South African police say they are investigating a case of attempted murder
   but that no arrests have been made so far.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-07T11:12:00Z'

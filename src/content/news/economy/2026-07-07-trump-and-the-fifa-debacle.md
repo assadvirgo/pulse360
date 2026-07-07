@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president is the first leader since Benito Mussolini in 1934 to
   intervene publicly in his team’s favour
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-07T11:28:05Z'

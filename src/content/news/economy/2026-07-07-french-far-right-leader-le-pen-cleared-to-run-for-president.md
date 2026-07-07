@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Appeals court shortens sentence for embezzlement but electronic monitoring
   could hinder her ability to campaign
-displayOrder: 22
+displayOrder: 41
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-07T12:25:44Z'

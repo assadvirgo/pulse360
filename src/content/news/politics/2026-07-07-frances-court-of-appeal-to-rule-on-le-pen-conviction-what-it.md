@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The far-right leader could be prevented from running for president in
   2027 if embezzlement charges are upheld.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-07T06:15:40Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The sun-soaked lifestyle he was able to enjoy at the home wasn’t enough
   to keep Quaid tethered to California, with the actor revealing recently that he
   made the decision to quit…
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-07T09:02:00Z'

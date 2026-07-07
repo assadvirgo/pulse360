@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Blasts occurred near hotel French president was reportedly staying in
   shortly after he departed for presidential palace.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-07T10:32:51Z'

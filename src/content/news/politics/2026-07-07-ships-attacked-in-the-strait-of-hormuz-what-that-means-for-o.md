@@ -2,7 +2,7 @@
 category: Politics
 description: While marine traffic in Hormuz has steadily risen, vague provisions on
   the strait remain contentious in peace talks.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-07T12:19:42Z'

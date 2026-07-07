@@ -2,7 +2,7 @@
 category: Economy
 description: Goldman Sachs says the HALO trade has worked well this year, but a tougher
   phase relying on earnings performance lies ahead.
-displayOrder: 36
+displayOrder: 49
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-07T10:56:00Z'

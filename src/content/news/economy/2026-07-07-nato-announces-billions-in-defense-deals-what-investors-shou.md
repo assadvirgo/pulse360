@@ -2,7 +2,7 @@
 category: Economy
 description: A number of major defense companies, including Rheinmetall and Lockheed
   Martin have announced billions of dollars worth of backlogs
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-07T15:06:00Z'

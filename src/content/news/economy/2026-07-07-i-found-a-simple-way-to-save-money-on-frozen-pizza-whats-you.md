@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “I changed my approach to cooking.”
-displayOrder: 39
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-07T14:30:00Z'
