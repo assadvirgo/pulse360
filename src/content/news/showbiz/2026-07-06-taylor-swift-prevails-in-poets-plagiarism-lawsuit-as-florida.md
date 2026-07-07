@@ -5,7 +5,7 @@ countryCode: US
 description: The wedding presents just keep on coming. Three days after Taylor Swift&#8217;s
   marriage to Travis Kelce, a federal judge dismissed with prejudice a lawsuit filed
   14 months ago by…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-06T18:38:56Z'

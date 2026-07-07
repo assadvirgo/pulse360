@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: '"The reality is, when you''re optimizing for production, you start looking
   at a price/performance," Guillermo Rauch tells TechCrunch.'
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-06T19:49:10Z'

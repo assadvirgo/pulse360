@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Victory for the national team against Belgium on Monday could mean the
   sport takes further strides among American audiences.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-06T11:19:47Z'

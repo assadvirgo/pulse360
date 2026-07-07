@@ -5,7 +5,7 @@ countryCode: GB
 description: Glamorgan head coach Rachel Priest says it is "really special" to have
   guided her side to a second successive Women's T20 Blast Finals Day on Sunday, 12
   July.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-06T03:44:49Z'

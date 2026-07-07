@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Here’s who is eligible for $1,000 in free money — and how to sign up.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-06T17:59:00Z'

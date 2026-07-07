@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lobbying by President Trump and a last-minute U-turn by FIFA stir controversy
   before the knockout match.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-06T11:58:07Z'

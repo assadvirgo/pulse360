@@ -5,7 +5,7 @@ countryCode: US
 description: A year after cutting around 9,100 employees, Microsoft is making further
   layoffs today as it begins its new financial year. The software maker is laying
   off around 4,800 employees…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-06T13:30:00Z'

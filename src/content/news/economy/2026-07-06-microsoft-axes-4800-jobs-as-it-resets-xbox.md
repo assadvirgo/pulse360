@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gaming unit under pressure from weak margins and the industry’s sharp
   hardware downturn
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-06T14:50:08Z'

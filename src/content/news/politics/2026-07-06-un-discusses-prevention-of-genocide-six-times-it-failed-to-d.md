@@ -2,7 +2,7 @@
 category: Politics
 description: The UN General Assembly meets amid Israel&#039;s genocide on Gaza, Myanmar&#039;s
   genocide against the Rohingya, and other crises.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-06T15:38:35Z'

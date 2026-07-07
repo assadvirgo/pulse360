@@ -5,7 +5,7 @@ countryCode: GB
 description: Sky’s planned £1.6 billion ($2.1 billion) takeover of ITV is an unprecedented
   coming together in British media, establishing the UK’s biggest commercial broadcaster.
   The two…
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 71.0
 pubDate: '2026-07-06T17:17:27Z'

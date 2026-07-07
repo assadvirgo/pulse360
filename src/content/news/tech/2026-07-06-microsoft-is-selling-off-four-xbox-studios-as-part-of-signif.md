@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is laying off 4,800 employees today, and more than 30 percent
   of the job losses are in the company's Xbox division. The significant gaming cuts
   will affect nearly every…
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-06T13:31:24Z'

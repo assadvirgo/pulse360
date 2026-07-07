@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Parents must approve app downloads for minors as legal fight over Texas
   age verification law continues.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-06T20:06:22Z'

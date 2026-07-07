@@ -5,7 +5,7 @@ countryCode: FR
 description: We’ve got another special episode of Decoder today, recorded at the Cannes
   Lions advertising festival in the South of France. I’m talking with Ali Berman and
   Raina Penchansky, who…
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-06T14:30:00Z'
