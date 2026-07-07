@@ -5,7 +5,7 @@ countryCode: US
 description: It's another bad week for the video game industry. Microsoft outlined
   a series of layoffs on Monday that Xbox CEO Asha Sharma described as "the most significant
   restructure in…
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-07T12:00:00Z'

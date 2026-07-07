@@ -5,7 +5,7 @@ countryCode: BA
 description: CineLink, the industry strand of the Sarajevo Film Festival, has finalized
   its list of projects for its Co-Production Market and CineLink Drama sections and
   has also unveiled a…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-07T09:15:30Z'

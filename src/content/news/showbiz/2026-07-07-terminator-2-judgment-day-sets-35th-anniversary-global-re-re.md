@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: StudioCanal, Fathom Entertainment and Rialto Pictures have
   set a 35th anniversary re-release of James Cameron&#8217;s Oscar winning Terminator
   2: Judgment Day for Aug.…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-07T12:00:00Z'

@@ -5,7 +5,7 @@ countryCode: JP
 description: Anime is no longer a niche import. It is pop culture&#8217;s new center
   of gravity – and nobody is moving faster to press that advantage than the studio
   behind &#8220;Demon…
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-07T12:46:19Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president hasn’t always approved of Walmart’s moves, having criticized
   the chain’s response to tariffs last year.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T00:15:00Z'

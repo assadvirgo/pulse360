@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina continue their knockout journey against Egypt as Switzerland
   and Colombia also fight for progression.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-07T09:05:28Z'

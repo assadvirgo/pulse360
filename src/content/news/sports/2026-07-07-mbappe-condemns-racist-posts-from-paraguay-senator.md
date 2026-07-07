@@ -5,7 +5,7 @@ countryCode: FR
 description: France forward Kylian Mbappe condemns a Paraguayan senator as "despicable"
   and unworthy of her position after she made a number of racist remarks mocking his
   origin and education.
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 71.2
 pubDate: '2026-07-07T08:51:24Z'

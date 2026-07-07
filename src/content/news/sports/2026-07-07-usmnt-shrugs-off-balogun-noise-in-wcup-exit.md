@@ -5,7 +5,7 @@ countryCode: US
 description: The U.S. men's national team crashed out of the World Cup on Tuesday
   in a 4-1 loss to Belgium, but players denied that the whirlwind surrounding Folarin
   Balogun's reversed…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-07T05:54:47Z'

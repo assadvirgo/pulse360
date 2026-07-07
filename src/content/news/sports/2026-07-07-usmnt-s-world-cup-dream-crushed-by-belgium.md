@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Even with Folarin Balogun back up front, the United States men's national
   team crashed out of the World Cup in the round of 16 again.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-07T05:54:47Z'

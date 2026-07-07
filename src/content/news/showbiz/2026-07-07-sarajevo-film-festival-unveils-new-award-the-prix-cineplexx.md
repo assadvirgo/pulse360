@@ -4,7 +4,7 @@ country: Bosnia and Herzegovina
 countryCode: BA
 description: Voted for by the audience, the prize has a total value of 20,000 euros
   ($22,855) to support a marketing campaign for the winning film's theatrical distribution.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-07T09:33:01Z'

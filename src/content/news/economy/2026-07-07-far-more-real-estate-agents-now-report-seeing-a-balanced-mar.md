@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Agents who reported at least one price cut to active listings dropped
   dramatically from prior surveys.
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-07T12:15:55Z'

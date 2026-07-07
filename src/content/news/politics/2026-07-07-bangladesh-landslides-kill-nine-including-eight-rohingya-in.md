@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: Hillsides collapse at four locations at camps in Cox&#039;s Bazar in
   southeastern Bangladesh amid monsoon rains.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-07T10:41:27Z'

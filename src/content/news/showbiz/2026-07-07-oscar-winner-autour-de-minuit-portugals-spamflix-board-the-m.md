@@ -5,7 +5,7 @@ countryCode: PT
 description: France’s Autour de Minuit, behind Academy Award-winning animated short
   “Logorama,” and Spamflix, a burgeoning force in Portuguese animation production
   and distribution, have…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-07T12:24:36Z'

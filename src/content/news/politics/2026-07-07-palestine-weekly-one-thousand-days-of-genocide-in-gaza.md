@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072
   killed since October &#039;ceasefire&#039;.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-07T05:48:37Z'

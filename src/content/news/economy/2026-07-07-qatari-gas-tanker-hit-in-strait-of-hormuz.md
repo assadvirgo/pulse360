@@ -3,7 +3,7 @@ category: Economy
 country: Qatar
 countryCode: QA
 description: Al Rekayyat comes under fire close to coast of Oman
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-07T08:19:17Z'

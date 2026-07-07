@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: French president is first EU leader to travel to Syria since fall of
   Assad regime
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-07T10:47:58Z'

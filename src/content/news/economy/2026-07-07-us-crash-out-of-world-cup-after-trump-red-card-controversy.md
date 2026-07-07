@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Reinstated striker Balogun makes little impact as Belgium’s decisive
   4-1 win ends host country participation in tournament
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-07T02:36:58Z'

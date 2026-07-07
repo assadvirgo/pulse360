@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: Belgium defeated the USMNT 4-1 in the 2026 World Cup round-of-16 match
   Monday night -- and poked fun at the U.S. afterward.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-07T05:54:48Z'
