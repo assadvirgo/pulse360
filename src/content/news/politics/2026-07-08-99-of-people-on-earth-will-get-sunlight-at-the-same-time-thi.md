@@ -2,7 +2,7 @@
 category: Politics
 description: On July 8, at about 11:10 GMT, about 99 percent of the world experiences
   sunlight at the same time.
-displayOrder: 17
+displayOrder: 37
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-08T04:23:58Z'

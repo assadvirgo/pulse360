@@ -5,7 +5,7 @@ countryCode: MY
 description: Romantic comedy &#8220;Finding Mojo&#8221; opens nationwide in Malaysia
   on July 23, with a Singapore release following on July 31 and an Indonesian bow
   in the works. Astro Shaw is…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-08T08:20:50Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brent crude rises above $76 a barrel for the first time in two weeks
   amid renewed violence in Strait of Hormuz.
-displayOrder: 16
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-08T04:02:32Z'

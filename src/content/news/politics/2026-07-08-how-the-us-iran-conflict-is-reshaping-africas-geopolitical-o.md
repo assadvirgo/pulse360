@@ -2,7 +2,7 @@
 category: Politics
 description: The US-Israel war on Iran is forcing African governments to rethink their
   security and economic priorities.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-08T01:04:26Z'

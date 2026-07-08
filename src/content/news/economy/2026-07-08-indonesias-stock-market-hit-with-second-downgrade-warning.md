@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: S&amp;P Dow Jones follows MSCI in putting south-east Asian market on
   watchlist for reclassification to ‘frontier’
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-08T02:28:39Z'

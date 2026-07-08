@@ -5,7 +5,7 @@ countryCode: US
 description: Amid public backlash over its smart glasses, Meta announced that it will
   be updating its glasses with a new feature that will disable the camera when it
   detects that someone has…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-07T23:55:19Z'

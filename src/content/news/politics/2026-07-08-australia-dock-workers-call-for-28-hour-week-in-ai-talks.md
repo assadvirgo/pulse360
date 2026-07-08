@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: A union says workers are "in the crosshairs" of automation as AI is being
   tested across ports.
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-08T06:06:12Z'

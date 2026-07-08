@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oil price extends gains after US president says that negotiating with
   Tehran is a ‘waste of time’
-displayOrder: 15
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-08T06:01:46Z'

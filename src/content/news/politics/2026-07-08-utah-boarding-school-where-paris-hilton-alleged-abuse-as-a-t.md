@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hilton said the facility "failed the children", as regulators cited neglect
   and use of unnecessary restraints.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-08T01:51:09Z'

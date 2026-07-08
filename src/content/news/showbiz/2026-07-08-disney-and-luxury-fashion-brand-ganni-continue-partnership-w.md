@@ -5,7 +5,7 @@ countryCode: DK
 description: Disney and Ganni are taking Daisy Duck to Paris. The Copenhagen fashion
   label has unveiled the third chapter of its ongoing Ganni x Disney collaboration,
   this time centered on…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-08T04:00:00Z'

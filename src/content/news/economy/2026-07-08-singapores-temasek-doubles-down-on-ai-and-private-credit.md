@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: State investor focuses on accelerating returns after several lacklustre
   years
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-08T07:03:57Z'
