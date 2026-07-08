@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The attacks have triggered fires in two districts of Kyiv, according
   to the city&#039;s mayor.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-07T22:53:35Z'

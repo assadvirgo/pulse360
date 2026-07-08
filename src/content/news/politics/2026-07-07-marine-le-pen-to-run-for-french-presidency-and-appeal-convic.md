@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The hard-right National Rally leader has ended months of speculation,
   after a court ruled she could run but would have to wear a tag for a year.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-07T19:55:59Z'

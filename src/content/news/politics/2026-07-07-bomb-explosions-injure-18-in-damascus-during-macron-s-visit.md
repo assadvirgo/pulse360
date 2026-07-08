@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: As reports of the blasts came in, state television said the Syrian president
   had welcomed Macron at the presidential palace.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-07T18:03:56Z'

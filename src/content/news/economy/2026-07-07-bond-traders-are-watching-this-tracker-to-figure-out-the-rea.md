@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A Fed gauge of wage growth is due to be updated on Friday, followed by
   a June reading on consumer inflation next Tuesday.
-displayOrder: 36
+displayOrder: 44
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T17:53:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Musk-led company joined the index on Tuesday, less than a month after
   its stock market debut on June 12.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T18:26:55Z'

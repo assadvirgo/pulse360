@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks
   in Strait of Hormuz.
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-07T21:21:16Z'

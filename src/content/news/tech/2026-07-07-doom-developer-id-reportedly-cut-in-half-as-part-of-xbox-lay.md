@@ -5,7 +5,7 @@ countryCode: US
 description: As part of the mass layoffs hitting Xbox, Doom developer id Software
   has laid off around 50 percent of its staff, according to Game Developer. One source
   claimed to the…
-displayOrder: 14
+displayOrder: 33
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-07T16:09:48Z'

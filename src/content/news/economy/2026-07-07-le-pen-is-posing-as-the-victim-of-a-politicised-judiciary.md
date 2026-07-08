@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The strategy might play well with the far-right leader’s core voters,
   but the French as a whole don’t buy it
-displayOrder: 45
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-07T21:37:14Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Colombian forward Camilo Duran is poised to become Celtic's first summer
   signing, arriving for an undisclosed fee from Qarabag, manager Martin O'Neill confirms.
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-07T17:51:53Z'

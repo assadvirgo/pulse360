@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Severe rain and winds lash southern Guangxi and central Hubei provinces,
   with President Xi urging an &#039;all out&#039; response.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T17:56:09Z'

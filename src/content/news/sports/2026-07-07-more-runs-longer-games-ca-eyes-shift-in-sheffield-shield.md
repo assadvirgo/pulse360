@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The men's domestic fixture for 2026-27 has been announced with more Shield
   matches at major Test venues
-displayOrder: 23
+displayOrder: 32
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-07T23:14:12Z'

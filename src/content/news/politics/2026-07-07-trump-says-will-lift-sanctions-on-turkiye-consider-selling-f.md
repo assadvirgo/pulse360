@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Announcement during Ankara meeting suggests pivot in US policy, despite
   opposition from Israel.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-07T16:11:34Z'

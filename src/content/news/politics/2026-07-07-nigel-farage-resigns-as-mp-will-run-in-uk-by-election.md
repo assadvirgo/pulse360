@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Reform UK leader Nigel Farage says he will resign as an MP to trigger
   a by-election and stand again.
-displayOrder: 15
+displayOrder: 37
 heroImage: ''
 importance: 71.5
 pubDate: '2026-07-07T15:19:51Z'

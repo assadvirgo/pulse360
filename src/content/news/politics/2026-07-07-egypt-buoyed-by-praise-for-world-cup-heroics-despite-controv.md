@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: From fans in Gaza to world leaders and supporters on social media, Egypt
   won hearts, even if they lost to Argentina.
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-07T22:46:10Z'

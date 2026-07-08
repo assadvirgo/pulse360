@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump administration also revokes licence allowing Islamic republic’s
   oil sales, sending crude prices higher
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-08T00:08:05Z'
