@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tom Lee of Fundstrat says he’s buying the dip, and not scared off by
   Samsung’s losses
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-08T11:02:00Z'

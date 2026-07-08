@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian officials insist that Tehran will not give up control over the
   waterway as US attacks threaten fragile truce.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-08T13:09:22Z'

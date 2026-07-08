@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Mass surrenders may weaken armed groups, but reintegration without justice
   risks fuelling resentment.
-displayOrder: 5
+displayOrder: 26
 heroImage: ''
 importance: 77.5
 pubDate: '2026-07-08T09:57:19Z'

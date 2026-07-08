@@ -5,7 +5,7 @@ countryCode: US
 description: The Manheim Used Vehicle Value Index for EVs — which tracks prices of
   used vehicles sold at its U.S. wholesale auctions — increased 12% compared to June
   2025.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 62.5
 pubDate: '2026-07-08T16:11:15Z'

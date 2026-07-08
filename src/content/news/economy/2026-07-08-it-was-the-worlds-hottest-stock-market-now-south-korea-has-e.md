@@ -5,7 +5,7 @@ countryCode: KR
 description: The cumulative impact of several different narratives – competition,
   sustainability, excessive leverage, international outflows- has sapped the Korean
   market of its upward…
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-08T10:57:00Z'

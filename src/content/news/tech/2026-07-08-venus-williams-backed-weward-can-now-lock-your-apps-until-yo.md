@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: With funding from tennis star and angel investor Venus Williams, the
   French app WeWard says that it increases walking time by almost 25%.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-08T13:00:00Z'

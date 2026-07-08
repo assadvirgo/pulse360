@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A 22-year-old firefighter has died tackling a wildfire in France as the
   country deals with more scorching temperatures.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-08T10:15:00Z'

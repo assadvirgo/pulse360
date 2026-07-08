@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Gao Shanwen lauded by online commenters as ‘truth teller’ in country
   known for strict censorship
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-08T09:03:04Z'

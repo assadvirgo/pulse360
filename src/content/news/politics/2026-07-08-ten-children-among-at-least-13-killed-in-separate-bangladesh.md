@@ -5,7 +5,7 @@ countryCode: BD
 description: At least five children have died in a landslide caused by heavy monsoon
   rains in Bangladesh, two days after eight people, including five children, died
   in a separate landslide in…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-08T10:49:00Z'

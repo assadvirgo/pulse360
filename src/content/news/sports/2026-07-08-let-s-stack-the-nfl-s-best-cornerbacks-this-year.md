@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Decision-makers around the NFL ranked the top 10 cornerbacks. Who is
   the NFL's best -- Pat Surtain II or Derek Stingley Jr.?
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-08T02:00:10Z'

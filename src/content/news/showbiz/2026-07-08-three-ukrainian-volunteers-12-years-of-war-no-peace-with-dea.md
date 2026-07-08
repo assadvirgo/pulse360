@@ -5,7 +5,7 @@ countryCode: UA
 description: 'Yuliia Hontaruk says about her doc, which just premiered at Karlovy
   Vary: “This is not really a film about war. It is about what war leaves inside people,
   and what they do with…'
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-08T10:03:11Z'

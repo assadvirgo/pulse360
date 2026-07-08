@@ -2,7 +2,7 @@
 category: Tech
 description: A new book claims that Mystery, who teaches awkward men how to hit on
   women, had sex and smoked weed with an AI chatbot named Miss Shira Always.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-08T11:00:00Z'

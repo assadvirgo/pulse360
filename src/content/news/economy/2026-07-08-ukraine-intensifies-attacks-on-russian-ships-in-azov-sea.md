@@ -3,7 +3,7 @@ category: Economy
 country: Ukraine
 countryCode: UA
 description: Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-08T15:12:20Z'

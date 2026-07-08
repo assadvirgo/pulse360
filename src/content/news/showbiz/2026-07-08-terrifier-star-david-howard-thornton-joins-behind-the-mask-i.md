@@ -5,7 +5,7 @@ countryCode: US
 description: 'After breaking out in &#8220;Terrifier&#8221; as the horrifying harlequin
   Art the Clown, David Howard Thornton is joining the cast of &#8220;Behind the Mask
   II: The Return of…'
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-08T16:00:00Z'

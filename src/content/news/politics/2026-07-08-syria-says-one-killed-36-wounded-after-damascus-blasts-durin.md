@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Macron, who continued his visit after the blasts, said Syria must not
   be &#039;destabilised&#039; by the attacks.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-08T11:22:22Z'

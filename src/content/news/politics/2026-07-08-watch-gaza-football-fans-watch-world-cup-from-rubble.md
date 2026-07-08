@@ -2,7 +2,7 @@
 category: Politics
 description: Hundreds of people cheered for Egypt, which shares a border with Gaza,
   in the match against Argentina.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-08T07:26:49Z'

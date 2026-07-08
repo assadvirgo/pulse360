@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oil surges more than 8 per cent to exceed $80 a barrel after US president
   says negotiating with Tehran is a ‘waste of time’
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-08T06:01:46Z'

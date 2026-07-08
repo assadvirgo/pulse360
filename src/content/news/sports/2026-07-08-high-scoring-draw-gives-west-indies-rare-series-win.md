@@ -2,7 +2,7 @@
 category: Sports
 description: John Campbell and Brandon King never threatened to chase down the 302-run
   target Sri Lanka set them in a minimum of 61 overs
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-08T03:32:31Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'David Chase is currently in development on Project: MKUltra, a limited
   series at HBO that will chart the story of a secret mind control program operated
   by the CIA in the 1950s…'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-08T12:25:46Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Talking points as France, Morocco, Spain, Belgium, Norway, England, Argentina
   and Switzerland aim for World Cup glory.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-08T15:27:17Z'
