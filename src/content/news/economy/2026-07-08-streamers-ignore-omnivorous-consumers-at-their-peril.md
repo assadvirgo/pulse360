@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Sony’s plan to drop physical discs endangers the company and its customers
-displayOrder: 48
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-08T04:00:19Z'

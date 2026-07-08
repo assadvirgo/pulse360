@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spanish lender shifting focus of regional corporate and investment banking
   operations to south-east Asia
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-08T04:00:19Z'

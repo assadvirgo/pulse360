@@ -5,7 +5,7 @@ countryCode: US
 description: Television legend David Chase, the creator of the multi-award-winning
   HBO series “The Sopranos,” told Variety he is independently working on a film “that
   deals with LSD” while…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-07-07T16:37:25Z'

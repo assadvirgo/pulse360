@@ -3,7 +3,7 @@ category: Politics
 description: FIFA will formally discuss lifting the ban on all Russian teams after
   the International Olympic Committee urged all sports to end war-related sanctions,
   Sky News can reveal.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-08T01:13:00Z'

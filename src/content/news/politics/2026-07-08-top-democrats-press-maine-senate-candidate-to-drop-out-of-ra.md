@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Graham Platner denied the allegation, calling it "categorically false"
   but said he was "taking the time to reflect on the best path forward".
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-08T01:05:26Z'

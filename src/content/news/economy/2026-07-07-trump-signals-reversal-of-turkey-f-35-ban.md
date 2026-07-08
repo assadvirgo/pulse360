@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president strikes friendlier tone with Turkish counterpart than Nato
   allies
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-07T15:37:31Z'

@@ -5,7 +5,7 @@ countryCode: CZ
 description: KVIFF Promises, part of the industry program of Karlovy Vary Intl. Film
   Festival, has unveiled the winners of the Eurimages Co-production Development Award,
   as well as other…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-07-07T22:35:01Z'

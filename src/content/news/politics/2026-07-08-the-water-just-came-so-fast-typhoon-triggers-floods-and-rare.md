@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Villagers whose families have been stranded told the BBC they are struggling
   to get food and help.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-08T00:49:07Z'

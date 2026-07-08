@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pushback to the tech group’s politics may threaten the core of its $330bn
   business
-displayOrder: 42
+displayOrder: 43
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-08T04:00:09Z'

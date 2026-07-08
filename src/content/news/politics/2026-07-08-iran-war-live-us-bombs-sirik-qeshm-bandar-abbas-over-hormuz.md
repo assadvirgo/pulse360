@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Explosions in Iran&#039;s Sirik, Bandar Abbas and Qeshm as US launches
   attacks after revoking waivers on Iranian oil exports.
-displayOrder: 2
+displayOrder: 18
 heroImage: ''
 importance: 70.5
 pubDate: '2026-07-08T00:00:00Z'

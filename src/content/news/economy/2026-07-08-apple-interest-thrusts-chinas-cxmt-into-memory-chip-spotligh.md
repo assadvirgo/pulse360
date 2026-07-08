@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Sharp turnaround for state-backed company central to Beijing’s AI supply
   chain efforts
-displayOrder: 28
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-08T00:15:04Z'

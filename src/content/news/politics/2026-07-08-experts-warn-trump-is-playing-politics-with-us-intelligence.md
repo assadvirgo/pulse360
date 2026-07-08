@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former officials warn that Trump&#039;s intelligence overhaul risks politicising
   national security.
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-08T03:44:28Z'

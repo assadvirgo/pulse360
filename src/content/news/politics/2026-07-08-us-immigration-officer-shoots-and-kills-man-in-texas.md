@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Man, identified as Lorenzo Salgado Araujo, is latest to be killed by
   ICE officers since President Trump took power.
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-08T01:26:01Z'

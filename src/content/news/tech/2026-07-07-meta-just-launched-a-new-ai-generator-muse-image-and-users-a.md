@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The new image-generating model has numerous use cases, including advertising
   and decorating, and creator-based opportunities.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-07T22:18:10Z'

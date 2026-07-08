@@ -5,7 +5,7 @@ countryCode: CA
 description: 'EXCLUSIVE: Sullivan&#8217;s Crossing is undergoing a major behind-the-scenes
   change ahead of Season 5. Series creator Roma Roth has stepped down as head writer/showrunner;
   she is…'
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-07T22:39:49Z'
