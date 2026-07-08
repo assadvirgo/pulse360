@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Prime Minister Sir Keir Starmer will convene around a dozen leaders to
   discuss the programme in Ankara.
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 71.2
 pubDate: '2026-07-08T05:57:53Z'

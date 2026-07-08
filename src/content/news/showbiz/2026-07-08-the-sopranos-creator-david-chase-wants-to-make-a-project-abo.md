@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;The Sopranos&#8221; creator David Chase, speaking at the Karlovy
   Vary Film Festival on Wednesday, said he&#8217;s thinking of making a movie or TV
   show centered on Italian…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-08T11:44:05Z'

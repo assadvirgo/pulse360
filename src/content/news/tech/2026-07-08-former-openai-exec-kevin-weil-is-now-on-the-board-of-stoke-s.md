@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kevin Weil's new role at Stoke Space suggests reusable rockets are the
   next hot thing in Silicon Valley.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-07-08T12:00:00Z'

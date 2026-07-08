@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US has launched the strikes on Iran in response to attacks on three
   oil tankers in the Strait of Hormuz.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-08T05:42:37Z'

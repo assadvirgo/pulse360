@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Proud Egyptians celebrate their team&#039;s historic run at the World
   Cup but blame bias for a heartbreaking exit.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-08T04:03:54Z'

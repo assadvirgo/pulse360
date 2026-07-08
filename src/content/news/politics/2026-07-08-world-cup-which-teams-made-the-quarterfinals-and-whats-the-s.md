@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Complete FIFA World Cup 2026 quarterfinals lineup, with match start times
   and venue locations inside the United States.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-08T08:45:47Z'

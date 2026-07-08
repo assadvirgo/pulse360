@@ -5,7 +5,7 @@ countryCode: KR
 description: 'Samsung has announced that its next Galaxy Unpacked launch event will
   be held on July 22nd, with the tagline: "A new shape unfolds." It''s long been rumored
   that Samsung is about…'
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-08T08:13:52Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brent crude and West Texas Intermediate contracts climbed on President
   Donald Trump saying dealing with Tehran is “a waste of time”
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-08T09:21:00Z'

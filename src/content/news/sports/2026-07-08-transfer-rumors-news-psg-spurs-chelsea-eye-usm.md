@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Paris Saint-Germain, Tottenham Hotspur and Chelsea are vying for the
   signature of USMNT and Monaco striker Folarin Balogun. Transfer Talk has the latest.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-08T09:26:36Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: Despite having retired from soccer years ago, David Beckham has noticeably
   been one of the most visible faces of this World Cup, fronting numerous commercials.
   That&#8217;s not…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 59.8
 pubDate: '2026-07-08T11:45:00Z'

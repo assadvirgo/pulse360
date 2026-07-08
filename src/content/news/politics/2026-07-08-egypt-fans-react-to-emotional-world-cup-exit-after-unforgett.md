@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Al Jazeera spoke with Egypt fans gathered at Obour City to watch the
   FIFA World Cup Round of 16 match against Argentina.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-08T05:42:04Z'

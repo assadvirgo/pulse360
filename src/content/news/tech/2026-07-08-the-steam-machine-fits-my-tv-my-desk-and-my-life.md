@@ -3,7 +3,7 @@ category: Tech
 description: 'For the last couple weeks, I''ve been in an extremely lucky position:
   I''ve been spending a lot of time playing games on Valve''s Steam Machine. We gave
   the Steam Machine a 6, and I…'
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-08T12:00:00Z'

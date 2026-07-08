@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Politician sets up unprecedented election campaign next year after judges
   uphold her conviction for embezzlement
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-07-07T21:34:07Z'

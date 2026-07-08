@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina's unbelievable comeback win over Egypt on Tuesday was all down
   to Lionel Messi, who is seemingly dragging his team to another final.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-08T12:53:54Z'

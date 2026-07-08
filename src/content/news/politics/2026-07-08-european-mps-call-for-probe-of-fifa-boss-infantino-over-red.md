@@ -2,7 +2,7 @@
 category: Politics
 description: Lawmakers call FIFA decision to scrap Balogun suspension after Trump
   intervention &#039;a disgrace&#039;.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-08T09:24:41Z'

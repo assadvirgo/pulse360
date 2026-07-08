@@ -5,7 +5,7 @@ countryCode: GB
 description: Tony Rayns, the British writer, festival programmer and screenwriter
   who spent decades introducing Western audiences to East Asian cinema, has died at
   78. He was found deceased at…
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-08T12:05:07Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: While there is no shortage of talent in the England squad, a number of
   World Cup stars from other nations could have featured for the Three Lions if things
   had worked out…
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-08T09:49:22Z'
