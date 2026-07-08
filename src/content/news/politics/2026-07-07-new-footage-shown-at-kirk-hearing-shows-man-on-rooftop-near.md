@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The preliminary hearing will determine whether Tyler Robinson, accused
   of killing conservative activist Charlie Kirk, will stand trial.
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-07T20:00:57Z'

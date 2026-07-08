@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Abdullah Mason rallies for dramatic 12th-round TKO to retain his title
   -- and his spot at 135 pounds. Here are the latest ESPN divisional rankings.
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T16:43:50Z'

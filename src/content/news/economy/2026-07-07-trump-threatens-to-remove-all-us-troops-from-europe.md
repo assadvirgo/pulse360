@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: US president revives calls for his country to take over Greenland
-displayOrder: 32
+displayOrder: 43
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-07T17:17:21Z'

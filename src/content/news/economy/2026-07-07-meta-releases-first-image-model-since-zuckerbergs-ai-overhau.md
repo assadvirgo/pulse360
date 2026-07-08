@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Muse Spark Image will be integrated into tech giant’s AI chatbot and
   its Instagram photo app
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-07T18:26:04Z'

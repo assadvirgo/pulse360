@@ -2,7 +2,7 @@
 category: Politics
 description: The Christian Zionist narrative linking faith to support for Israel is
   deeply flawed. Evangelicals have begun to see it.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-07T16:06:09Z'

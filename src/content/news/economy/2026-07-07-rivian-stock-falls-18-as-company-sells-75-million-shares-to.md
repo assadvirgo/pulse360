@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The capital raise occurred during extended hours trading following Rivian
   shares increasing 8.1% on Monday after increasing 19.2% last week.
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-07T20:21:47Z'

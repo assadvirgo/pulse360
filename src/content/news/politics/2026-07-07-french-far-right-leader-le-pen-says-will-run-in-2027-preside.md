@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Her announcement followed a court ruling that reduced the length of time
   she was banned from holding public office.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 77.5
 pubDate: '2026-07-07T18:17:13Z'

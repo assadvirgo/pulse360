@@ -5,7 +5,7 @@ countryCode: DK
 description: A droll dramedy of bourgeois social awkwardness morphs into a deep-cut
   tragedy about the effects of a mother&#8217;s psychological frailty on her grown-up
   children, in Danish…
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-07T18:42:16Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: At least five people were killed after a massive landslide buried a tunnel
   construction site in Kerala
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-07T19:55:37Z'

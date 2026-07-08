@@ -5,7 +5,7 @@ countryCode: US
 description: Google is hosting its next Made by Google launch event for Pixel hardware
   on August 12th in New York City, according to an invitation sent by Google to The
   Verge. Unusually, the…
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-07T17:22:48Z'

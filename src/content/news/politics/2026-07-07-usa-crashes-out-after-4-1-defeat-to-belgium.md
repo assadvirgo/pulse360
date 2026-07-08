@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Belgium thrashed the USA 4–1 to knock the host nation out of the World
   Cup, leaving home fans stunned.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-07T09:45:14Z'

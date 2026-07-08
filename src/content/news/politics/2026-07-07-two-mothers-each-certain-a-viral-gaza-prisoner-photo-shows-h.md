@@ -2,7 +2,7 @@
 category: Politics
 description: Two Palestinian mothers believe a viral image of a bound Gaza detainee
   shows their missing son.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-07T13:16:26Z'

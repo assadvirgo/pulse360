@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president threatens to withdraw all troops from Europe as he says
   he wants to take over Danish-owned Arctic island
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-07T14:42:41Z'
