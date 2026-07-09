@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The conflict between the U.S. and Iran is driving mortgage rates up,
   adding hundreds of dollars a month in extra costs for prospective home buyers.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-09T16:30:00Z'

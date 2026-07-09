@@ -5,7 +5,7 @@ countryCode: US
 description: SpaceX is currently ahead of last year's record-setting pace for Starlink
   satellite deployments. SpaceX launched 1,589 Starlink satellites into low-Earth
   orbit in the first half…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-09T11:51:31Z'

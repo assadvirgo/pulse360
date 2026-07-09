@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While some retailers still accept checks, an attempt to pay with anything
   other than cash or card is likely to result in a blank stare from a Gen Z cashier.
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-09T16:04:00Z'

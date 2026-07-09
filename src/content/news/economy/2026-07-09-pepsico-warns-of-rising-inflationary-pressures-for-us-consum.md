@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Recovery in sales volumes runs out of steam in second quarter as squeeze
   on budgets hits snack and soda group
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-09T11:48:47Z'

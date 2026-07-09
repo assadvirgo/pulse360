@@ -5,7 +5,7 @@ countryCode: IN
 description: Google India and Sony Pictures Networks India are teaming up to bring
   Google Gemini into the new season of &#8220;Kaun Banega Crorepati?&#8221; turning
   the AI chatbot into an…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-09T16:47:20Z'

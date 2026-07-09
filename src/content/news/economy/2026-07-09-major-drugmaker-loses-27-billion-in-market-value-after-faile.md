@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Two companies announced on Thursday that the heart-disease drug they
   had been developing failed its Phase 3 trial.
-displayOrder: 34
+displayOrder: 45
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-09T12:28:00Z'

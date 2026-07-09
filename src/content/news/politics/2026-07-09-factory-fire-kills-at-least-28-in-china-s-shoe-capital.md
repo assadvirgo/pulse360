@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Footage shows huge flames rising from a building and thick, black smoke
   rising into the sky.
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-09T15:14:35Z'

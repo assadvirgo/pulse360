@@ -5,7 +5,7 @@ countryCode: US
 description: The Visual Effects Society has pulled back the curtain on it 2026 VES
   Honors recipients, who the group says have profoundly impacted the craft and technology
   of visual effects and…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-09T16:00:00Z'

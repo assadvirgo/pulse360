@@ -3,7 +3,7 @@ category: Economy
 country: Japan
 countryCode: JP
 description: Hot weather forces some stores to close temporarily
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-09T10:14:07Z'

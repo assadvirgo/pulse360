@@ -5,7 +5,7 @@ countryCode: US
 description: Character.AI's plan to become more than just an LLM-powered chatbot platform
   is going beyond interactive books, comics, and audio dramas. Today, the company
   announced the debut of…
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-09T13:11:53Z'

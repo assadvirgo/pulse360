@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former Greater Manchester Mayor Andy Burnham is the frontrunner. If no
   rival emerges, he could become PM this month.
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-09T11:38:54Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: PepsiCo’s North America business lagged in the latest quarter, and the
   stock was having its worst day in 15 months, even as strength in international business
   led to an earnings…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-09T14:58:00Z'

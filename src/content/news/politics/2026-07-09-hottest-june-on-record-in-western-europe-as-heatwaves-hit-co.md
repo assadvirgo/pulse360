@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Thousands of deaths across Europe, mostly in France, Spain and Belgium,
   have been linked to a June heatwave.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-09T09:00:46Z'

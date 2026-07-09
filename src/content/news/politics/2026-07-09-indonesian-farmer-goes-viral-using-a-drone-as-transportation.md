@@ -3,7 +3,7 @@ category: Politics
 country: Indonesia
 countryCode: ID
 description: Indonesian farmer goes viral using a drone as transportation
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-09T13:07:28Z'

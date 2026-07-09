@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: European Commission launches probe into alleged dumping of subsidised
   meat
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-09T13:06:19Z'

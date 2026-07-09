@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Nilekani remains Fundamentum's anchor investor as the firm expands its
   leadership team and targets AI and fintech startups in India.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-09T12:00:00Z'

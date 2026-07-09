@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: On the eve of the quarterfinal, Morocco&#039;s supporters take over downtown
   Boston, showing unwavering belief in their team.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 71.5
 pubDate: '2026-07-09T08:32:29Z'
