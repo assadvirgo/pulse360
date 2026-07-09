@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Supreme leader’s burial leaves his son Mojtaba — about whom Iranians
   know little — to confront enormous challenges facing the regime
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-09T04:00:25Z'

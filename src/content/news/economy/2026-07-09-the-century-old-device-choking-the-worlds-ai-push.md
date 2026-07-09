@@ -2,7 +2,7 @@
 category: Economy
 description: Surging data centre power demands are intensifying pressure on transformer
   supply chains
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-09T04:00:11Z'

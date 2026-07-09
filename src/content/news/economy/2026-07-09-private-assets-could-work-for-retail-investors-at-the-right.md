@@ -2,7 +2,7 @@
 category: Economy
 description: 'Complexity, opacity and liquidity issues are surmountable, but there
   is a more important barrier: fees'
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-09T04:00:26Z'

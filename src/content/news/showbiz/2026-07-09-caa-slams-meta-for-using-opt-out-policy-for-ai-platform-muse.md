@@ -5,7 +5,7 @@ countryCode: US
 description: CAA released a statement Wednesday night calling out the privacy risks
   of Meta&#8217;s new AI model Muse Image, which gives users the ability to create
   an AI photo of someone just…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-07-09T04:42:48Z'

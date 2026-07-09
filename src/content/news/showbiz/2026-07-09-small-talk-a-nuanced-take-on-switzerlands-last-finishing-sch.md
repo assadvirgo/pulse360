@@ -5,7 +5,7 @@ countryCode: CH
 description: Locarno-bound title “Small Talk,” a doc-fiction portrait of the power
   dynamics at play among the daughters of the world’s social elite, has been picked
   up for international sales…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-09T09:00:22Z'

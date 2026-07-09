@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Exit-entry system is forcing some passengers to wait on the tarmac in
   intense heat, Alexander Zinell says
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-09T04:00:12Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Along with creating tumult in a must-win race for Democrats, Graham Platner's
   exit is laying bare division between the party's left wing and moderates.
-displayOrder: 26
+displayOrder: 46
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-09T03:13:25Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jeans maker raises its full-year outlook for the second straight time,
   but shares fall after hours
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-08T23:10:00Z'

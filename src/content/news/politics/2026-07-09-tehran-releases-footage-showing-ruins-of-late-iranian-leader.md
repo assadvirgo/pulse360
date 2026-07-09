@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian state media has released what it calls the first footage showing
   damage to the late Khamenei’s compound.
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-09T00:15:49Z'

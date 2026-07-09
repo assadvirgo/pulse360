@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump has denounced communism more than 80 times
   in the past two weeks.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-09T03:22:27Z'

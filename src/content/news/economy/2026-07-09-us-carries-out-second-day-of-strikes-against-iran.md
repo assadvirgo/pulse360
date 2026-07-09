@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump claims Tehran ‘called’ to negotiate but casts doubt on prospects
   of deal
-displayOrder: 31
+displayOrder: 42
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-09T07:04:01Z'

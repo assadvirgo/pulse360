@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A string of high-profile Democrats have withdrawn support for Platner
   following sexual assault allegation.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-09T02:02:11Z'

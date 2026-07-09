@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US attacks kill at least one person in the city of Iranshahr and cause
   widespread power outages in Chabahar.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-09T00:00:06Z'
