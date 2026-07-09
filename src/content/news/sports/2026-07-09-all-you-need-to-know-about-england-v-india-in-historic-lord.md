@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England host India in a one-off Women's Test match at Lord's, starting
   on Friday - here's everything you need to know.
-displayOrder: 27
+displayOrder: 36
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-09T09:00:57Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Enjoy up to 10% off your entire order with today’s Newegg promo code
   and discount codes. Save with the latest deals for gaming PCs, laptops, and computer
   parts.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-09T05:00:00Z'

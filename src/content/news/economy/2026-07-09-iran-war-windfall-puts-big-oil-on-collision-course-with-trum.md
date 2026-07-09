@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fuel price surge triggered by conflict brings pain for consumers but
   profit gusher for US groups
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-09T04:00:32Z'

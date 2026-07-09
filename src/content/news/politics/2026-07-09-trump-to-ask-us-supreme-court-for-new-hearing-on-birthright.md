@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: In June, the Supreme Court ruled against Trump’s order to end birthright
   citizenship for individuals born in the US.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-09T00:54:32Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Neither side has officially called off the interim peace agreement, despite
   the escalation.
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-09T10:49:40Z'

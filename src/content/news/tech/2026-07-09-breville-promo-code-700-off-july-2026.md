@@ -2,7 +2,7 @@
 category: Tech
 description: Discover the top Breville coupons and discount codes for coffee machines,
   kitchen appliances, and fresh coffee beans, with deals up to $700 off.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-07-09T05:00:00Z'

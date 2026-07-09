@@ -3,7 +3,7 @@ category: Politics
 country: Australia
 countryCode: AU
 description: Australia to begin selling uranium to India for peaceful purposes
-displayOrder: 16
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-09T10:09:03Z'

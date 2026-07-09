@@ -5,7 +5,7 @@ countryCode: CH
 description: Swiss-Korean director Hae-Sup Sin has been selected as the recipient
   of the Allwyn Residency Fellowship at the Karlovy Vary Film Festival. The fellowship,
   which is awarded as part…
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-09T11:29:05Z'

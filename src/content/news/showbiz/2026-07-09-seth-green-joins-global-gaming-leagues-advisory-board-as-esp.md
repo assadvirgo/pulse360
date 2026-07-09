@@ -5,7 +5,7 @@ countryCode: US
 description: Actor and producer Seth Green has joined the advisory board for rising
   esports entertainment company, Global Gaming League (GGL). Green joins GGL as it
   launches its new gaming…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-09T12:00:00Z'

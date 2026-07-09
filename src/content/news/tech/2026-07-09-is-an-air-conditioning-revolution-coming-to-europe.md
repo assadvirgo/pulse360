@@ -2,7 +2,7 @@
 category: Tech
 description: As extreme heat becomes the norm on the continent, the AC culture wars
   may be solved by advances in environmentally friendly technology.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-09T08:44:57Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A stable job and a nice home have become less accessible to young Americans.
   Many are taking new paths to pursue their dreams.
-displayOrder: 28
+displayOrder: 37
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-09T12:00:00Z'

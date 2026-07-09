@@ -5,7 +5,7 @@ countryCode: CH
 description: Switzerland&#8217;s Locarno Film Festival has unveiled the lineup for
   its 79th edition with new films from Hong Sang-soo, Basil Da Cunh, Gurvinder Singh
   and Denis Côté in the main…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-09T08:46:41Z'

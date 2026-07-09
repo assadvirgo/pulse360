@@ -5,7 +5,7 @@ countryCode: CH
 description: Locarno has announced the full lineup for its 79th edition, featuring
   103 world premieres. Artistic Director Giona A. Nazzaro called it “an adventurous
   selection, full of…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-09T08:45:16Z'

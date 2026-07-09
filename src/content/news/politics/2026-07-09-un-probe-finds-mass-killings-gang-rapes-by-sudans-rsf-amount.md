@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: UN Fact-Finding Mission found that the paramilitary&#039;s systematic
   campaign of violence in Darfur amounted to genocide.
-displayOrder: 10
+displayOrder: 16
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-09T10:19:12Z'

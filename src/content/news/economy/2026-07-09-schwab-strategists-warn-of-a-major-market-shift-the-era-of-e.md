@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: More geopolitical instability, more frequent supply shocks and macro
   volatility are facing investors in an era that’s just starting, says Charles Schwab.
-displayOrder: 19
+displayOrder: 25
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-09T12:42:00Z'

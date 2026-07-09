@@ -3,7 +3,7 @@ category: Showbiz
 description: Cinetic Media has acquired North America sales rights to “Manhunt,” which
   will world premiere in main competition at Locarno, competing for its top Golden
   Leopard. &#160; In a…
-displayOrder: 8
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-09T08:51:49Z'
