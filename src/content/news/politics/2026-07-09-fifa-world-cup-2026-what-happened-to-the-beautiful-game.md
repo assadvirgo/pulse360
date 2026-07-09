@@ -2,7 +2,7 @@
 category: Politics
 description: How the World Cup has changed over the past 50 years and why there are
   only flashes of the beautiful game in 2026.
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-09T12:05:10Z'

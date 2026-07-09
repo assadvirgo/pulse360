@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Trump said he will remove Syria from the US state sponsor
   of terrorism list at the NATO summit.
-displayOrder: 2
+displayOrder: 16
 heroImage: ''
 importance: 90.5
 pubDate: '2026-07-09T04:28:44Z'

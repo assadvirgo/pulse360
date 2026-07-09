@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Islamabad urges both sides to honour their MoU as renewed attacks raise
   fears of a wider regional conflict.
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-09T11:47:46Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Ali Khamenei’s funeral leaves son Mojtaba — about whom Iranians know
   little — to confront enormous challenges facing the regime
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-07-09T04:00:25Z'

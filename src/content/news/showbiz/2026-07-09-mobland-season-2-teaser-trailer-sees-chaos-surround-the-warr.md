@@ -3,7 +3,7 @@ category: Showbiz
 description: MobLand Season 2 will launch globally on Paramount+ on Friday, September
   18 and you can see a teaser trailer for the Tom Hardy-starring crime drama above.
   We&#8217;ve also a batch…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-09T13:00:00Z'

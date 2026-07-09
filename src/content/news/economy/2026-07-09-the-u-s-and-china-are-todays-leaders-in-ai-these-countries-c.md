@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Economists at Bank of America spotlight South Korea and the United Arab
   Emirates as likely to gain from both the build-out and adoption of artificial intelligence.
-displayOrder: 17
+displayOrder: 24
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-09T13:00:00Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Salman Rushdie warned that free expression in the U.S. is under sustained
   pressure from the Trump administration as he accepted the Liberatum Cultural Honor
   at Camden Town Hall at…
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-09T13:00:00Z'

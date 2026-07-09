@@ -2,7 +2,7 @@
 category: Economy
 description: The next global financial crisis is already under way. Here is how it
   will unfold.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-09T11:37:00Z'
