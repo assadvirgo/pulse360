@@ -5,7 +5,7 @@ countryCode: US
 description: Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell
   covered in tubes in a hospital bed in a state of extreme distress. It turned out
   to be an AI-generated…
-displayOrder: 29
+displayOrder: 40
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-08T20:37:03Z'

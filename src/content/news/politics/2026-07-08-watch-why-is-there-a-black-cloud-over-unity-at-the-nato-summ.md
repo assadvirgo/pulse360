@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump has used the Nato summit to criticise the lack
   of support for his war on Iran, and revive his interest in taking over Greenland.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 91.2
 pubDate: '2026-07-08T16:05:37Z'

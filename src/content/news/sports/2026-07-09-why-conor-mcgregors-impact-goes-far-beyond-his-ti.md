@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Conor McGregor's UFC title runs were brief. These six charts show why
   his impact wasn't.
-displayOrder: 12
+displayOrder: 17
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-09T05:36:51Z'

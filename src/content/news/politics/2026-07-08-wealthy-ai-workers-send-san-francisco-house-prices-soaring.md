@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The median cost of a home in the city is now $1.7m, a record high, according
   to the latest figures.
-displayOrder: 32
+displayOrder: 41
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-08T23:11:35Z'

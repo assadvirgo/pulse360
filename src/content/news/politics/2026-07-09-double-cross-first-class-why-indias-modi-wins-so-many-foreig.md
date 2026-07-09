@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The prime minister was presented with an award during a visit to the
   Seychelles, adding to his large trophy collection.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-09T04:30:51Z'

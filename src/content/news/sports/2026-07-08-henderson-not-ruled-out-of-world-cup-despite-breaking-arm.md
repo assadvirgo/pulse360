@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Jordan Henderson has not been ruled out of playing for England again
   during the World Cup despite undergoing surgery on a broken arm.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-08T20:13:54Z'

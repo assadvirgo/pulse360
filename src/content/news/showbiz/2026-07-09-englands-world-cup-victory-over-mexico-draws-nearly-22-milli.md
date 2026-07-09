@@ -5,7 +5,7 @@ countryCode: US
 description: England&#8217;s upset victory over Mexico to advance to the World Cup
   quarterfinals delivered nearly 22 million viewers for Fox Sports on Sunday night.
   Viewership of the global…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-07-09T00:27:59Z'

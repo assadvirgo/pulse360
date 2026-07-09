@@ -5,7 +5,7 @@ countryCode: US
 description: Meta might be the next company to make an always-on AI wearable. The
   company is working on prototype "super sensing" always-aware smart glasses that
   could continuously record…
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-08T22:37:25Z'

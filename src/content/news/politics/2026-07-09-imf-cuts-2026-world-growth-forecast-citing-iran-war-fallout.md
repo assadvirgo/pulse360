@@ -2,7 +2,7 @@
 category: Politics
 description: Global economy to grow 3 percent in 2026, as AI demand partly offsets
   energy shock from Iran war, IMF says.
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-09T02:58:20Z'

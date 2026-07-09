@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Utah quarterback Devon Dampier led the praise during Big 12 media days
   Wednesday for the NCAA's new five-year, aged-based eligibility model.
-displayOrder: 15
+displayOrder: 21
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-09T03:18:42Z'

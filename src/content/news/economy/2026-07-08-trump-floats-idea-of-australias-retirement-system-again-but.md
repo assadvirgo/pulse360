@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president said his administration was working on a plan based on
   the Austrialian system, days after the launch of “Trump accounts” for children.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-08T18:53:00Z'

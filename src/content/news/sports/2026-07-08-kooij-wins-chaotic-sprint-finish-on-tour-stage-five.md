@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Dutch rider Olav Kooij won a bunch sprint finish after a crash in a chaotic
   conclusion to stage five of the Tour de France.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-08T17:01:42Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France has returned 23 Syrian antique artefacts it’s held since the outbreak
   of the 2011 civil war.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-08T17:55:38Z'

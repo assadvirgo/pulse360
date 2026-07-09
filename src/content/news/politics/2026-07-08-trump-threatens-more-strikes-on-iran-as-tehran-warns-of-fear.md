@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Speaking at a Nato summit, the president says the US will "probably"
   strike Iran again but added that "anything that happens will be over quickly".
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 93.2
 pubDate: '2026-07-08T18:05:31Z'

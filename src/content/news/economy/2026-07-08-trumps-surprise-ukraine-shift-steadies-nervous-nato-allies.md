@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A summit that threatened new acrimony among the allies ended with free
   guns and ‘love in the room’
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-08T21:09:56Z'
