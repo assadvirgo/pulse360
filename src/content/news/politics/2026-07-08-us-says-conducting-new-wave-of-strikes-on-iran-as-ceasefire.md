@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Second night of strikes comes after Trump says ceasefire &#039;over&#039;,
   suggests talks for lasting peace will continue.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-08T20:40:14Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Delta is launching basic business and other stripped-down premium classes
   that come with fewer perks.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-07-08T15:03:58Z'

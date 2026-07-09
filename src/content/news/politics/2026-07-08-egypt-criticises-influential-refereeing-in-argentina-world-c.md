@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: Egyptian football officials have reportedly lodged a complaint with FIFA
   against the referees in their last-16 match.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-08T16:41:58Z'

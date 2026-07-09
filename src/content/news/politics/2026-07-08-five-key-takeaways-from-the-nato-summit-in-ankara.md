@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges
   to expand defence budgets and Ukraine support
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-08T19:06:35Z'

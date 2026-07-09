@@ -5,7 +5,7 @@ countryCode: US
 description: This week, Microsoft took a huge ax to its Xbox business. The company
   announced that it would be laying off 1,600 workers now, 1,600 more over the next
   fiscal year, and that it…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-08T17:10:05Z'

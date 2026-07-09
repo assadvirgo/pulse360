@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Trump announces a move to delist Syria, citing efforts by Ahmed
   al-Sharaa to unify the country.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-08T21:36:02Z'

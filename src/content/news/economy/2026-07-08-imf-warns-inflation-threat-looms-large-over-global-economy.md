@@ -2,7 +2,7 @@
 category: Economy
 description: Fund raises its projections for price growth as Trump declares ceasefire
   with Iran is ‘over’
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-08T13:00:03Z'

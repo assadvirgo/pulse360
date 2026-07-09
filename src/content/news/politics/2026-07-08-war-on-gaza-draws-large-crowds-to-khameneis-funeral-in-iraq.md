@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: More than a million mourners packed streets in Najaf, Iraq for Iranian
   Supreme Leader Ali Khamenei’s funeral procession.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-08T18:51:32Z'

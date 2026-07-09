@@ -2,7 +2,7 @@
 category: Sports
 description: It's fast becoming a World Cup Golden Boot for the ages. But who will
   win it?
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-08T16:31:05Z'

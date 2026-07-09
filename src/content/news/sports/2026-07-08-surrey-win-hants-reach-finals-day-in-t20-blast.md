@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Surrey beat Warwickshire Bears and Hampshire Hawks overcome The Blaze
   in the Women's T20 Blast.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-08T19:38:45Z'

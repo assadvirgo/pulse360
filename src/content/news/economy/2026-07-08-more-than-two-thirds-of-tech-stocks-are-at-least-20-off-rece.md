@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Major semiconductor names have been falling hard as investors take profits
   following a blockbuster second quarter.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-07-08T19:13:00Z'

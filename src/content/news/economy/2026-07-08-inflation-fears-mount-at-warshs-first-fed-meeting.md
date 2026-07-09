@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Some Fed officials saw need for future rate rises to contain inflation
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-08T18:58:09Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: As part of Microsoft's big Xbox "reset," which includes layoffs affecting
   3,200 staffers, jettisoning studios, and shifting investments to focus on "higher
   priority projects,"…
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-08T18:50:27Z'
