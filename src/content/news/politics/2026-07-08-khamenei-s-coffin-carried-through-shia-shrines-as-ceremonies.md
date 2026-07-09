@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: The remains of Iran's late supreme leader are transported to Najaf and
   Karbala, as funeral ceremonies continue for a fifth day.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-08T14:56:24Z'

@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: US military drone losses in Iran war spur Pentagon call for cheap replacements.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-08T17:44:54Z'

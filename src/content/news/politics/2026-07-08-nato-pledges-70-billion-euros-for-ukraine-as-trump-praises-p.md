@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Trump says US will &#039;show&#039; Ukraine how to produce Patriot missile
   systems during a friendly appearance with Zelenskyy.
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-08T17:24:45Z'

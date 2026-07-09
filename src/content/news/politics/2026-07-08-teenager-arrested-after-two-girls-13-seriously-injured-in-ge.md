@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Police said a major operation was under way in the area of Welfen-Gymnasium
   secondary school in Schongau, Bavaria.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-08T15:09:08Z'

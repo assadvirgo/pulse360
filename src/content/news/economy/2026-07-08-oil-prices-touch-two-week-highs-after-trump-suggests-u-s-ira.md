@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oil prices touched their highest levels in more than two weeks on Wednesday
   after President Donald Trump said he believed the cease-fire with Iran was over.
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-08T15:36:00Z'

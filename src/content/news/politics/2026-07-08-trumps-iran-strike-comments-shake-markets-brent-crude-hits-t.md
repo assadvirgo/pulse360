@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Travel stocks plunged as fuel costs rise, United Airlines fell 3 percent,
   while energy stocks saw gains.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-08T15:53:23Z'

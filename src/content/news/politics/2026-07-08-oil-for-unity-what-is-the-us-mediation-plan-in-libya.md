@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: The plan, led by Trump relative Massad Boulos, promises oil investments
   if rival factions work together.
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-08T16:04:52Z'

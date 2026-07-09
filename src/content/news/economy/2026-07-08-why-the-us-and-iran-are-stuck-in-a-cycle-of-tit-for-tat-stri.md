@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump’s push to get ships moving through the Strait of Hormuz keeps colliding
   with Tehran’s resistance to cede control
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-08T14:51:39Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Before he exposed Israel&#039;s deliberate targeting of Gaza children,
   Srinivasan Muralidhar took on Indian authorities.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-08T12:06:42Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The round, led by Radical Ventures, values the two-year old startup at
   $1 billion.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-08T16:22:38Z'

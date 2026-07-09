@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president singles out Madrid for particular criticism calling it a
   &#039;terrible partner in NATO&#039;.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-08T07:05:00Z'

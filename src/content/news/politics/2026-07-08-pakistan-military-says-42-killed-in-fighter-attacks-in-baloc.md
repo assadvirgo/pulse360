@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Military spokesman warns fighters &#039;we will chase you, we will hurt
   you&#039; amid the spate of deadly ambushes.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-08T16:07:45Z'

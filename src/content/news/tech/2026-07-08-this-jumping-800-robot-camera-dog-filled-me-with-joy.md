@@ -3,7 +3,7 @@ category: Tech
 description: What if you had a drone that wasn't a buzzy, annoying fly people wanted
   to swat - but rather a cute dog that runs and jumps? What if it could do tricks
   on command, and film your…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-08T15:00:00Z'
