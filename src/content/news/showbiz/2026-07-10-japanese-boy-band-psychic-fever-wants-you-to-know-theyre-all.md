@@ -5,7 +5,7 @@ countryCode: JP
 description: 'Four years after its debut, Psychic Fever built its second full-length
   album around a simple idea: none of its seven members sound, look or think alike,
   and that&#8217;s exactly…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-10T12:00:00Z'

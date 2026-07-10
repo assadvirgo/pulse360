@@ -3,7 +3,7 @@ category: Politics
 country: United Kingdom
 countryCode: GB
 description: UK police confront Morocco fans over unrest after World Cup loss
-displayOrder: 11
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-10T09:47:19Z'

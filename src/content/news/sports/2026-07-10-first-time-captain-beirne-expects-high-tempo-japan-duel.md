@@ -5,7 +5,7 @@ countryCode: IE
 description: Tadhg Beirne says he is looking forward to a "special, special moment"
   when he captains Ireland for the first time in Saturday's Nations Championship game
   against Japan.
-displayOrder: 7
+displayOrder: 26
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-10T10:49:26Z'

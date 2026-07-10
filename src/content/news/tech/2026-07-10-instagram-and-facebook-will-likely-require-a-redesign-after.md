@@ -3,7 +3,7 @@ category: Tech
 description: Meta is in breach of the EU's Digital Services Act (DSA), a preliminary
   investigation has found, over the "addictive" design of Instagram and Facebook.
   It's likely to be forced to…
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-10T10:52:53Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: U.S. investors are about to get another straightforward way to play the
   red-hot market for memory chips.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-10T02:38:00Z'

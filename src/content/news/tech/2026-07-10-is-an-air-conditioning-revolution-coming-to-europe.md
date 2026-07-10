@@ -2,7 +2,7 @@
 category: Tech
 description: The AC culture wars may be solved by advances in environmentally friendly
   technology.
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-10T11:10:08Z'

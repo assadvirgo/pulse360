@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: English and Norwegian players will face off under extreme and dangerous
   levels of heat stress, scientists say, thanks to a Wet Bulb Index over over 90°F.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-10T09:33:45Z'

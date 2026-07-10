@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Low-cost airline says offer ‘delivers a superior outcome for easyJet
   shareholders’
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-10T07:43:58Z'

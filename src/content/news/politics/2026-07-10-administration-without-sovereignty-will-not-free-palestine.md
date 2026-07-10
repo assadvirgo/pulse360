@@ -2,7 +2,7 @@
 category: Politics
 description: The end of Hamas governance in Gaza may change who administers it, but
   not who holds power over Palestinian life.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-10T08:03:44Z'

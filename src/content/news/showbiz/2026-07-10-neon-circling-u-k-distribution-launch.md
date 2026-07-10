@@ -5,7 +5,7 @@ countryCode: GB
 description: Indie distribution darling Neon is said to be eyeing a launch in the
   U.K. According to sources, the U.S company — which also has an international sales
   operation — is considering…
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-10T12:15:47Z'

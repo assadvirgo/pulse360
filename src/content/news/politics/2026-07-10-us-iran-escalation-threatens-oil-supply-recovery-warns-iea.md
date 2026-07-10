@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sources suggest that the ceasefire can be revived amid a lull in fighting
   and backroom diplomacy.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-10T11:51:06Z'

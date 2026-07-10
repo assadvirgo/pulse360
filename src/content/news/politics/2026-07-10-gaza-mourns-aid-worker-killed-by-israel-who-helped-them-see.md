@@ -2,7 +2,7 @@
 category: Politics
 description: Israeli strike killed Mohammed al-Wahidi and three others on the eve
   of the Egypt vs Argentina match on Tuesday.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-10T01:42:27Z'

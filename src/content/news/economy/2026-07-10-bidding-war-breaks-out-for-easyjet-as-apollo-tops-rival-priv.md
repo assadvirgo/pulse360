@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A bidding war has broken out for EasyJet, the British low-cost airline,
   with the second American private-equity bid.
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-10T06:40:00Z'

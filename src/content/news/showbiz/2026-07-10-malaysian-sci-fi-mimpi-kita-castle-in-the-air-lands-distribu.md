@@ -5,7 +5,7 @@ countryCode: MY
 description: 'Malaysia&#8217;s Abnormal Studios has picked up theatrical distribution
   rights for Malaysia and Brunei to &#8220;Mimpi Kita: Castle in the Air,&#8221; the
   science-fiction fantasy…'
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-10T06:42:22Z'

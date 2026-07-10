@@ -3,7 +3,7 @@ category: Economy
 country: Spain
 countryCode: ES
 description: Alarm over summer of blazes as third wave of extreme heat hits region
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-10T10:09:59Z'
