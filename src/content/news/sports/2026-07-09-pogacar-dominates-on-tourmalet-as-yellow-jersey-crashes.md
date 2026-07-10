@@ -5,7 +5,7 @@ countryCode: FR
 description: Tadej Pogacar takes a big step towards winning the Tour de France for
   a record-equalling fifth time with a dominant victory on stage six, regaining the
   leader's yellow jersey.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-09T17:08:34Z'

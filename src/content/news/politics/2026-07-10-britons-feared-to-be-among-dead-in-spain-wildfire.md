@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Four people from Britain are feared to be among 11 who have been killed
   in Spain's worst wildfire for more than two decades, officials say.
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-10T03:30:00Z'

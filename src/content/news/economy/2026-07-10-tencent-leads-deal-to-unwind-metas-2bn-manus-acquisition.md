@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese tech giant set to become largest shareholder in AI agent start-up
   after Beijing ordered reversal of US takeover
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-10T03:03:19Z'

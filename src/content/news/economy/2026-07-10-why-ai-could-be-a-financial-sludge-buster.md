@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Regulators want to use the technology in their bid to cut red tape
-displayOrder: 38
+displayOrder: 45
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-10T04:00:16Z'

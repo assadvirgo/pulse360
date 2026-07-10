@@ -3,7 +3,7 @@ category: Politics
 country: Spain
 countryCode: ES
 description: Bodies found in cars as deadly Spain wildfire kills at least 12
-displayOrder: 2
+displayOrder: 16
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-10T08:07:49Z'

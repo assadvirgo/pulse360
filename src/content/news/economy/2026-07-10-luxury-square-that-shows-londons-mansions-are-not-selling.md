@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: In Knightsbridge’s Montpelier Square, property prices have tumbled from
   a decade ago as foreign buyers look elsewhere
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-10T04:00:04Z'

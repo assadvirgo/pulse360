@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATE 7/9: The final viewership numbers for the U.S.-Belgium match
   are in, and they are the biggest for any telecast since the Super Bowl. The Round
   of 16 game was watched by…'
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-10T01:03:00Z'

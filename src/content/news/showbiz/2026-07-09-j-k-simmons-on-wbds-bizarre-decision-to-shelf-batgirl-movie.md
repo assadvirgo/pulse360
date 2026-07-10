@@ -5,7 +5,7 @@ countryCode: US
 description: Four years after Batgirl was pulled from the HBO Max release schedule,
   J.K. Simmons wants to see the DCEU entry released. The Oscar winner, who starred
   as Commissioner James…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-09T23:09:38Z'

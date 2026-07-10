@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The attorney-general nominee’s journey from a white-collar New York law
   firm to the centre of the administration
-displayOrder: 35
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-10T04:00:04Z'

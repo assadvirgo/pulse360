@@ -4,7 +4,7 @@ country: Cabo Verde
 countryCode: CV
 description: A British woman said she was forced to bury her husband in an unmarked
   grave after he fell ill and died in Cape Verde.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-09T23:01:00Z'

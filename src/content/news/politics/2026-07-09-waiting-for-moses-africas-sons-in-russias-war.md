@@ -2,7 +2,7 @@
 category: Politics
 description: Russia&#039;s war in Ukraine is leaving African families to count the
   cost.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-09T22:59:45Z'

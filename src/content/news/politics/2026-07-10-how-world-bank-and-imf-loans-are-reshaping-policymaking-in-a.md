@@ -2,7 +2,7 @@
 category: Politics
 description: As debt pressures grow, African governments are reassessing the trade-offs
   of concessional financing.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-10T00:56:19Z'

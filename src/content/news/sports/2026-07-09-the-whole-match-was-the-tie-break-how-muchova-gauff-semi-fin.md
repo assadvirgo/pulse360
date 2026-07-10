@@ -2,7 +2,7 @@
 category: Sports
 description: Twenty-two points, 18 minutes, one winner - how Karolina Muchova and
   Coco Gauff's "rollercoaster" semi-final was decided by an astonishing tie-break.
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-09T19:38:31Z'

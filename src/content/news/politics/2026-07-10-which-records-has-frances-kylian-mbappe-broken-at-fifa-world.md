@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: From individual milestones to national numbers, several records have
   tumbled in Mbappe&#039;s historic World Cup run.
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 74.5
 pubDate: '2026-07-10T04:27:01Z'

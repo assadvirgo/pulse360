@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain, aiming to reach the semifinals for the first time since 2010,
   face Belgium in Friday&#039;s contest in Los Angeles.
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-10T06:12:59Z'

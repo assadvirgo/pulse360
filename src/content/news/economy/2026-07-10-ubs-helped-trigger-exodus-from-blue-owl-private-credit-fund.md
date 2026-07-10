@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bank advised some clients to cut exposure, hitting a fund it had been
   instrumental in setting up
-displayOrder: 34
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-10T04:00:19Z'

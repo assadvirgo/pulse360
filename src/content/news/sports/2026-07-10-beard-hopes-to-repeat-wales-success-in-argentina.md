@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wales lock Adam Beard is a man who has been to Argentina before and won
   as Stve Tandy's side aim to tame the Pumas.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-10T04:27:15Z'

@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Perhaps it will be some comfort to those with longer time horizons that
   market anomalies don’t last for ever
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-10T04:00:19Z'
