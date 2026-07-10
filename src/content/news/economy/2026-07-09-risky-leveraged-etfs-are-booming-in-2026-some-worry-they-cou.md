@@ -2,7 +2,7 @@
 category: Economy
 description: Some say traders who gravitate toward these products see big swings in
   the underlying stocks as a feature, not a bug.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-09T17:52:00Z'

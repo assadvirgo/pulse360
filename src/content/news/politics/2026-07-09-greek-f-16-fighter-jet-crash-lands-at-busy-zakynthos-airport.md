@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: The runway is closed after the jet reportedly landed without deploying
   its landing gear before bursting into flames.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-09T16:15:10Z'

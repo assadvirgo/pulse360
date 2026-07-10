@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The joke candidate with a bin-shaped helmet is so far Farage&#039;s only
   challenger in the English constituency of Clacton.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-09T14:15:45Z'

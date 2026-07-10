@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Carney and Saudi Crown Prince Bin Salman strengthen partnerships after
   years of strained relations under Trudeau.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-09T20:06:25Z'

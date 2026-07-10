@@ -5,7 +5,7 @@ countryCode: US
 description: Today on Decoder, I’m talking with Peter Kafka, who is chief correspondent
   at Business Insider and host of Channels, a podcast about the media industry. And
   it’s a big week for…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-09T14:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft may once again be struggling to keep up with its own climate
   goals, according to its 2026 sustainability report. As reported by GeekWire, the
   report states that…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-10T00:04:13Z'

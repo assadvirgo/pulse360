@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France beat Morocco 2-0 in quarterfinals at FIFA World Cup 2026 and will
   meet Spain or Belgium next.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-09T22:48:15Z'

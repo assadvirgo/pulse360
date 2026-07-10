@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The news firms allege ChatGPT maker is hiding evidence important to what
   could be landmark copyright infringement trial.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-09T21:17:54Z'

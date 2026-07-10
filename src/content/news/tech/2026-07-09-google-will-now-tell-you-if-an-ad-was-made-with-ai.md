@@ -5,7 +5,7 @@ countryCode: US
 description: You can see if ads on Google Search, Google Discover, and YouTube were
   made or edited using AI from a new section in Google's "My Ad Center," as reported
   earlier by TechCrunch.…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-09T20:11:38Z'

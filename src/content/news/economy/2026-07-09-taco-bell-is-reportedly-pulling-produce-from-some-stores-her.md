@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: An outbreak of a parasite-caused illness has sickened more than 1,000
   people in Michigan.
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-09T22:30:00Z'

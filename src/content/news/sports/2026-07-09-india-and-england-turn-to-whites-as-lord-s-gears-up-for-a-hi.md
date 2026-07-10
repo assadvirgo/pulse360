@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: It will be a quick turnaround for both sides after the T20 World Cup
   but with more than 30,000 tickets already sold, the occasion promises to be a landmark
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-09T17:05:59Z'

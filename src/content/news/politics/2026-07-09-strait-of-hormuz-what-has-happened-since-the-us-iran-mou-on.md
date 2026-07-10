@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: More than 500 ships have passed through the strait since June 17, but
   many remain stuck.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-09T15:34:54Z'

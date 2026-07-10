@@ -5,7 +5,7 @@ countryCode: US
 description: James Beard Award-winning chef, restauranteur and author Kwame Onwuachi
   has signed with CAA. CAA has secured partnerships for Onwuachi as a member of American
   Express and Resy’s…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-09T20:00:00Z'
