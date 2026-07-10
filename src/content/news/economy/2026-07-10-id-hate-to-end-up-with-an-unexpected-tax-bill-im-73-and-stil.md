@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “I’m actually earning more each week than I ever have before.”
-displayOrder: 40
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-10T12:00:00Z'

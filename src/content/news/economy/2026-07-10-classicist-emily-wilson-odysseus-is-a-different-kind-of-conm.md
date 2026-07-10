@@ -5,7 +5,7 @@ countryCode: US
 description: The acclaimed translator who helped to inspire Christopher Nolan’s new
   film on the resonance of Homer’s epics — and which Greek hero Donald Trump most
   resembles
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-10T11:30:05Z'

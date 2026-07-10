@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Likely incoming UK PM hints at policy shifts towards Israel&#039;s genocidal
   war on Gaza. But analysts are wary.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-10T13:38:16Z'

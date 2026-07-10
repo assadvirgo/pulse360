@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US was the first to slash billions in foreign assistance in 2025,
   but other major donors have followed suit.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-10T10:14:21Z'

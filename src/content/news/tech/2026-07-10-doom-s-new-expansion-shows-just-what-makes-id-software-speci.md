@@ -5,7 +5,7 @@ countryCode: US
 description: 'This week should have been a celebration for Doom developer id Software.
   The studio just launched Revelations, a meaty expansion for Doom: The Dark Ages
   that adds a powerful new…'
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-10T12:00:00Z'

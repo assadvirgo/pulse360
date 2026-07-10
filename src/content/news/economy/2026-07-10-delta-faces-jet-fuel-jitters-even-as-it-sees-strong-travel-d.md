@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Delta’s profit dropped as the air carrier absorbed the highest quarterly
   fuel expense in its history.
-displayOrder: 39
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-10T16:18:00Z'

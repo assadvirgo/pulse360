@@ -5,7 +5,7 @@ countryCode: CZ
 description: Debbie McWilliams, who cast the last 14 James Bond films, has stuck to
   her guns when it comes to her view that 007 should be white and male. Speaking at
   the Karlovy Vary Film…
-displayOrder: 12
+displayOrder: 27
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-10T14:48:39Z'

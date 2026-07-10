@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: First Palestinian legislative elections in 20 years announced
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-10T12:28:19Z'

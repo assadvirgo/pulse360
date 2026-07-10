@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Morocco came to the quarterfinal with high hopes and revenge on their
   minds, only to be met with the in-form team.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-10T07:15:06Z'

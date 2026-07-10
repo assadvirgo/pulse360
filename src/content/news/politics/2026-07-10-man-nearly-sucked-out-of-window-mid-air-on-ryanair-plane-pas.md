@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: The man's wife held onto his legs for around five minutes to stop him
   from being sucked out, officials say.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-10T12:31:08Z'

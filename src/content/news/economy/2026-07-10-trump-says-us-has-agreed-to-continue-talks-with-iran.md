@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: President declares that ceasefire is ‘over’ despite ongoing negotiations
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-10T16:01:37Z'

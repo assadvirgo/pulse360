@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: There has been a new twist in the case of a Ukrainian woman who was found
   dead after allegedly carrying out a bombing in Monaco just days earlier.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-10T11:05:00Z'

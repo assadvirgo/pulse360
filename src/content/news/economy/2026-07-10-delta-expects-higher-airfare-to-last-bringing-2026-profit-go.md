@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Delta is the first of the U.S. airlines to report second-quarter results.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-10T11:59:16Z'

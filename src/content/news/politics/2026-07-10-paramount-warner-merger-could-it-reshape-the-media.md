@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK is considering intervening in the Paramount-Warner merger over
   concerns about media plurality.
-displayOrder: 2
+displayOrder: 16
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-10T12:45:10Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: As foreign ministers meet on Gaza and the West Bank, national governments
   cannot hide behind EU paralysis.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-10T09:28:32Z'
