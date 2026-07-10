@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The memory-chip giant is reversing its recent slide after increasing
   its investment in the U.S. semiconductor supply chain.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-09T16:13:00Z'

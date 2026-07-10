@@ -3,7 +3,7 @@ category: Politics
 country: Turkey
 countryCode: TR
 description: Iran war overshadows defence alliance&#039;s summit in Turkiye.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 77.5
 pubDate: '2026-07-09T16:52:48Z'

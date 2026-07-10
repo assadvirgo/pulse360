@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinian President Mahmoud Abbas announces first legislative elections
   in 20 years.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-09T17:32:09Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Jofta Archer shows off his football ability to run out Axar Patel for
   one, as India finish on 158-7 in the fourth T20 against England in Bristol.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-09T18:35:45Z'

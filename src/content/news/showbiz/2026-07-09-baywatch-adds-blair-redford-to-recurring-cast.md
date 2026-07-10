@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Blair Redford (Three Women, The Gifted) has been tapped for
   a heavily recurring role in Baywatch, Fox&#8217;s upcoming reboot of the famous
   lifeguard action drama.…'
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-09T18:20:55Z'

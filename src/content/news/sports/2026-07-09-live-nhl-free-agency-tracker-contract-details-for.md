@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Get up to speed on all the latest veteran additions teams are making
   beginning on June 30.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-09T16:43:01Z'

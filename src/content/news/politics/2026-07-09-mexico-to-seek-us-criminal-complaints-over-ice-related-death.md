@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Claudia Sheinbaum announces Mexico’s strongest response yet to deaths
   in ICE custody and during immigration enforcement.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-09T17:46:30Z'

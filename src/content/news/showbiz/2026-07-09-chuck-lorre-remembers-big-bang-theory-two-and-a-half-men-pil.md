@@ -5,7 +5,7 @@ countryCode: US
 description: 'Over the span of nine months, Chuck Lorre lost two of the most important
   people in his career: his long-time agent and mentor Bob Broder, who died in September,
   and his go-to…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-09T19:56:45Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Quansah will miss England&#039;s quarterfinal against Norway after being
   sent off for a sliding studs-up tackle.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-09T18:12:38Z'

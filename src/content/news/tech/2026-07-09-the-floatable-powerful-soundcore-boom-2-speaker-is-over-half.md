@@ -5,7 +5,7 @@ countryCode: US
 description: Bluetooth speakers with big sound and great features are hard to find
   for under $100, with most offerings being some variation of the same basic (and
   often small) design.…
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-09T20:32:18Z'
