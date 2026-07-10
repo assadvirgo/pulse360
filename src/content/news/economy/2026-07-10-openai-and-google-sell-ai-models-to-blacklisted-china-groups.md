@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US groups have been supplying AI services to Singapore-based subsidiaries
   of Alibaba, Baidu and Tencent
-displayOrder: 42
+displayOrder: 44
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-10T04:00:19Z'

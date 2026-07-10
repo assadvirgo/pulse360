@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “Some of the best ideas can come from anywhere in the organization.”
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-09T21:29:00Z'

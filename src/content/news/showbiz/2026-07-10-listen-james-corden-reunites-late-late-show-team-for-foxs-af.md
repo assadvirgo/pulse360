@@ -5,7 +5,7 @@ countryCode: US
 description: Three years after he signed off CBS’ “The Late Late Show,” James Corden
   is having the time of his life hosting the World Cup after show for Fox, “After
   Hours With James Corden.”…
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 52.8
 pubDate: '2026-07-10T01:41:06Z'

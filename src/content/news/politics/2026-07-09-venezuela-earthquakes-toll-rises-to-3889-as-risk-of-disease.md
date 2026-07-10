@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: The United Nations launched an appeal for roughly $300 million to assist
   survivors of Venezuela&#039;s earthquakes
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-09T23:25:50Z'

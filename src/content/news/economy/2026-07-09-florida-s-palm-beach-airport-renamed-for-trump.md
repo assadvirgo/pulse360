@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Palm Beach International Airport is now called President Donald J. Trump
   International Airport, the FAA said Thursday.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-09T20:55:37Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The new exchanged-traded funds exclude companies that are founded, controlled,
   or led by Elon Musk. That means no SpaceX or Tesla.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-10T00:13:00Z'

@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Locals at an anti-migrant protest wielded sticks in an attempt to evict
   suspected undocumented residents of Alexandra.
-displayOrder: 5
+displayOrder: 8
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-10T04:51:45Z'

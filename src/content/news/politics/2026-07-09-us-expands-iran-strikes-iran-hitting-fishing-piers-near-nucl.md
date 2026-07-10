@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iranian officials say US strikes across Bushehr province damaged civilian
   infrastructure
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-09T18:17:55Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Harry Brook hit an unbeaten 79 to guide England to a nine-wicket win
   against India in Bristol, to go 3-0 in the five match series and secure their first
   T20 series win against the…
-displayOrder: 39
+displayOrder: 42
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-09T21:32:14Z'

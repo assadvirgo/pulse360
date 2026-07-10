@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hunger meets savings. Discover verified Uber Eats promo codes, new user
   offers, and Uber One discounts to slash your delivery fees and meal costs.
-displayOrder: 10
+displayOrder: 16
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-10T05:00:00Z'

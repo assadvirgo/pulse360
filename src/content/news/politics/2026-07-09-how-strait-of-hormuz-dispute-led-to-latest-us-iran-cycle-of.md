@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Clashing interpretations of vague memorandum of understanding language
   on Hormuz at heart of escalation, analysts say.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-09T21:38:48Z'
