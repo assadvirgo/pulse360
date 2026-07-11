@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Potential breakthrough comes days after Donald Trump signalled shift
   towards more support for Kyiv
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-10T18:30:33Z'

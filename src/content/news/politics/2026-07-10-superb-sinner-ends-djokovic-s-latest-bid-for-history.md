@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Jannik Sinner produces a devastating display to end Novak Djokovic's
   latest bid for history and set up a Wimbledon final against Alexander Zverev.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 53.2
 pubDate: '2026-07-10T18:36:13Z'

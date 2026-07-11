@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors are bullish on Meta’s new low-cost AI pricing and infrastructure
   plans.
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-10T22:24:00Z'

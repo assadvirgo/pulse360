@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Schneider, who formerly served as the CEO of Automattic and is a partner
   at True Ventures, says he is "all in" on the unconventional social media platform.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-10T21:51:55Z'

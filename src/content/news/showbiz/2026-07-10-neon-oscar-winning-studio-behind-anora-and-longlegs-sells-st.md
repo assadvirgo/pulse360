@@ -5,7 +5,7 @@ countryCode: US
 description: Department M has closed a transaction to acquire a significant stake
   in Neon, the Oscar-winning indie studio behind &#8220;Parasite&#8221; and &#8220;Anora.&#8221;
   Financial terms…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-10T18:30:00Z'

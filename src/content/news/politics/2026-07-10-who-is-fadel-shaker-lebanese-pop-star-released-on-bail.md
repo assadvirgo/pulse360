@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: In 2012, singing star Shaker quit his music career, before being accused
   of joining an armed group in Lebanon.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-10T16:27:03Z'

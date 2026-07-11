@@ -5,7 +5,7 @@ countryCode: US
 description: With Netflix’s reimagining of Little House on the Prairie now streaming,
   there may be a spike in the overall discourse about “trad wives,” a social media
   trend and way of life…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-10T19:29:17Z'

@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Campaz was threatened after failing to score in the last-16 match against
   Switzerland, which Colombia lost on penalties.
-displayOrder: 15
+displayOrder: 23
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-10T22:39:17Z'

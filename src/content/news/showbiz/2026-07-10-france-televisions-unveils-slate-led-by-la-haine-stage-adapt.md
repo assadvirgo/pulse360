@@ -5,7 +5,7 @@ countryCode: FR
 description: Mathieu Kassovitz’s landmark 1995 film “La Haine” is heading to television
   in a new form, with French broadcaster France Télévisions set to air the stage adaptation
   &#8220;La…
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-10T19:27:09Z'

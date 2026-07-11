@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: A Chinese company demonstrated controlled recovery of a rocket’s bottom
   portion, which is critical in helping to drive down launch costs.
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-10T15:15:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinian Health Ministry denounces attack as part of Israel&#039;s
   &#039;systematic targeting of health facilities&#039;.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-10T18:01:25Z'

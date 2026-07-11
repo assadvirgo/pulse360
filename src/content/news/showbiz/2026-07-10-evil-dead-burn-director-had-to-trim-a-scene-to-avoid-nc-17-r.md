@@ -5,7 +5,7 @@ countryCode: US
 description: As fans of the franchise will be pleased to hear, Evil Dead Burn did
   not hold back on the gore until absolutely necessary. Co-writer and director Sébastien
   Vaniček recently…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-10T21:34:25Z'
