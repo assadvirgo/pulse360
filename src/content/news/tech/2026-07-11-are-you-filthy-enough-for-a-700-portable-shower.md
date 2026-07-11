@@ -3,7 +3,7 @@ category: Tech
 description: Hot showers, like electricity, are a luxury that's easy to take for granted.
   That all changes after a few nights camping at a music festival, a week toiling
   at a backcountry job…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-07-11T07:00:00Z'

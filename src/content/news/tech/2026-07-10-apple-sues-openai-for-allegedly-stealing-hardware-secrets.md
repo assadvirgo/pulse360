@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has sued OpenAI, alleging that engineers stole Apple secrets to
   advance the AI startup's hardware plans. In its complaint, Apple says it uncovered
   "a pattern of theft of…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 76.2
 pubDate: '2026-07-10T21:36:51Z'

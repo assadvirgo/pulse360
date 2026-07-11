@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Why protracted bear markets may be a thing of the past.
-displayOrder: 33
+displayOrder: 43
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-11T11:30:00Z'

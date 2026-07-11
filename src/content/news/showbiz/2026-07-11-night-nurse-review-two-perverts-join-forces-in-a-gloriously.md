@@ -3,7 +3,7 @@ category: Showbiz
 description: From the moment we meet luxury nursing-home patient Douglas (Bruce McKenzie),
   we feel something is up. The knowing sparkle in his baby-blue eyes; his slender
   gold chain and tufts…
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-11T09:39:45Z'

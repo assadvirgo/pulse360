@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: At least four Britons are believed to be among the victims of the blaze,
   which left another 23 people missing.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-11T07:46:09Z'

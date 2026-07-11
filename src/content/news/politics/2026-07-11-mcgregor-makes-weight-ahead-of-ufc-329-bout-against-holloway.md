@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Conor McGregor, former two-division champion and still one of UFC&#039;s
   most famous fighters, has not fought since 2021.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-11T04:34:33Z'

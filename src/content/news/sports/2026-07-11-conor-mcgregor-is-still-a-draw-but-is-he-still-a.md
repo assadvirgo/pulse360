@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: This fight week is different than any in Conor McGregor's career, because
   UFC 329 will reveal who McGregor really is.
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-11T12:27:06Z'

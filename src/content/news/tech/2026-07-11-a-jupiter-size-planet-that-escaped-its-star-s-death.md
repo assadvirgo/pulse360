@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: It's unclear how the planet avoided its star's bloated red giant stage.
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-11T12:00:58Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Social media and GLP-1s are spurring increased interest in hydration
   products, and companies are responding with things like electrolyte mixes and “hydrating
   hot chocolate.”
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-11T12:00:00Z'

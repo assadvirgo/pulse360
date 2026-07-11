@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Claudia Sheinbaum is trying to govern on her own terms — while dealing
   with Trump, cartels and AMLO&#039;s shadow.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-11T11:38:06Z'

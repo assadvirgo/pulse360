@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: In the latest salvo in one of the war&#039;s deadliest months, Russia
   hits Kyiv with ballistic missiles and 121 drones.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-11T08:53:23Z'

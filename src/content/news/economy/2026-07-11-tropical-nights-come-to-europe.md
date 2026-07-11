@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: The biggest rise in extreme temperatures is not in the daytime
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-11T04:00:09Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'Peter Van Norden, the actor who appeared in Police Academy 2: Their
   First Assignment and The Naked Gun 2½: The Smell of Fear, has died. He was 75. The
   actor&#8217;s wife Wendy was…'
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-11T01:43:53Z'

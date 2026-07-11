@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: A runner was gored in the face during a chaotic bull run at Spain's San
   Fermin festival on Saturday.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-11T07:38:00Z'

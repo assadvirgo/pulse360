@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Lionel Messi&#039;s Argentina faces Breel Embolo&#039;s Switzerland for
   a place in the semifinals of the FIFA World Cup 2026.
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-11T06:59:15Z'
