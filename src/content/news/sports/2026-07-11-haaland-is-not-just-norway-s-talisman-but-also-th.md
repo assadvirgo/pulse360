@@ -5,7 +5,7 @@ countryCode: 'NO'
 description: In a different timeline, Haaland could have played for England, but the
   man has become the avatar for Norway and, in many ways, the World Cup as a whole.
   Can he launch them past…
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-11T12:43:37Z'

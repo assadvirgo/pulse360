@@ -5,7 +5,7 @@ countryCode: CH
 description: Granit Xhaka has battled back from being booed by his own fans at Arsenal
   to being one of the most influential players for club and country as he looks to
   help Switzerland make…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-11T11:58:58Z'

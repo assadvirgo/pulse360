@@ -5,7 +5,7 @@ countryCode: CZ
 description: The film from Serbian writer-director Miroslav Terzić, exploring peer
   violence, "urges us to truly hear young people, be there for them and not look away,"
   the jury said.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-11T13:30:00Z'

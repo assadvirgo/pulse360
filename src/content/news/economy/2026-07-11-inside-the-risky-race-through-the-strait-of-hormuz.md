@@ -4,7 +4,7 @@ country: Oman
 countryCode: OM
 description: Vessels that dare to use route close to Oman’s coast face increased risk
   of Iranian missiles
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-11T04:00:41Z'

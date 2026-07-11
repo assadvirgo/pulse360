@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Vivani Medical is developing an implant of semaglutide, the active ingredient
   in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-11T12:00:01Z'

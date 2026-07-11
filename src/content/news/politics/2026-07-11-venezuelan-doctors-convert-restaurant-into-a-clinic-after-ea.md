@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Volunteers in La Guaira have transformed a fast-food restaurant into
   an emergency clinic.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-11T05:38:39Z'

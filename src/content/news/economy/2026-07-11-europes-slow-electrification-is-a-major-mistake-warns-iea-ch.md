@@ -2,7 +2,7 @@
 category: Economy
 description: Fatih Birol says EU should have moved faster to achieve energy independence
   after 2022 gas crisis
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-11T04:00:41Z'

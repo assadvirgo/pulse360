@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought
   to have lived about 150 million years ago.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-11T08:23:45Z'

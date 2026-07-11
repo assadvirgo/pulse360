@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: These 22 U.S. stocks are backed by company buybacks and insider cash.
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-11T16:00:00Z'
