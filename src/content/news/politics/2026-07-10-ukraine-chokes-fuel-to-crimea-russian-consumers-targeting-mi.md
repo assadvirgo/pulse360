@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine’s unmanned systems have cut overland routes and begun to target
   Russian shadow tankers.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-10T14:38:44Z'

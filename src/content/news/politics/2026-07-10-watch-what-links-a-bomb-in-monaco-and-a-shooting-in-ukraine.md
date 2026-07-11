@@ -5,7 +5,7 @@ countryCode: UA
 description: A Ukrainian intelligence agent who confessed to killing the woman suspected
   of trying to assassinate a multimillionaire in Monaco, has now claimed he did not
   pull the trigger.
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-10T18:04:39Z'

@@ -3,7 +3,7 @@ category: Tech
 description: A recent study tracked hundreds of soccer fans until their favorite team
   reached the final of a tournament. Their stress levels skyrocketed, and their heart
   rates jumped too.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-10T15:41:31Z'

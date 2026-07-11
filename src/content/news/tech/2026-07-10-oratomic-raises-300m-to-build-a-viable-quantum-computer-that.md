@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The massive round was co-led by ARCH Venture Partners, Spark Capital,
   and Khosla Ventures.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-10T15:00:09Z'

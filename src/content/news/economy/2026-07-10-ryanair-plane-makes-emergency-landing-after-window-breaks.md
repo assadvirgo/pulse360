@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Passenger sitting next to window was nearly sucked out of Boeing 737
   aircraft, according to reports
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-10T16:47:29Z'

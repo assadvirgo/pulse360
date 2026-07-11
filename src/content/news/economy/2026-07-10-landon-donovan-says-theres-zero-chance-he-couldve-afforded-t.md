@@ -5,7 +5,7 @@ countryCode: US
 description: The U.S. men’s soccer team once again didn’t make it past the Round of
   16 in the World Cup — and some say the high cost to play youth soccer in America
   could be a key reason.
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-10T12:41:00Z'

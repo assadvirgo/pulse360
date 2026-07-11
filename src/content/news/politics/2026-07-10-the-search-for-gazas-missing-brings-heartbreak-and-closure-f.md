@@ -2,7 +2,7 @@
 category: Politics
 description: Thousands of bodies remain trapped under the rubble of their homes in
   Gaza, with retrieval a long and difficult task.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-10T15:00:26Z'

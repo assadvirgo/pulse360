@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: Morocco were eliminated from the 2026 World Cup by a 2-0 defeat by France
   in the quarterfinals, but host next edition.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-10T18:43:43Z'

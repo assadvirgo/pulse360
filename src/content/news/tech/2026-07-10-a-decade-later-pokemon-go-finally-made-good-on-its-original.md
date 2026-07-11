@@ -5,7 +5,7 @@ countryCode: US
 description: When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was
   hard to grasp how a bunch of players could work together to catch a pok&#233;mon
   like Mewtwo. But this week…
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-10T19:51:10Z'

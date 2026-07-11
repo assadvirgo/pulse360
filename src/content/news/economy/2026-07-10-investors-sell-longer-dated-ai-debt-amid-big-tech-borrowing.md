@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Waning demand highlights scepticism over sector’s long-term profitability
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-10T16:29:50Z'

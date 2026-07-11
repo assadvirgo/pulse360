@@ -5,7 +5,7 @@ countryCode: KR
 description: As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest
   suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker
   opened at $170…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-10T17:31:35Z'

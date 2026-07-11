@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The AI chip boom just produced its biggest Wall Street moment yet. Now
   SK Hynix and Samsung are being asked to build U.S. factories.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-10T17:17:12Z'

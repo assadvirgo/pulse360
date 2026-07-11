@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Live coverage and text updates as Lamine Yamal&#039;s Spain face Belgium
   for the right to meet France in the semifinals.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-10T15:34:18Z'

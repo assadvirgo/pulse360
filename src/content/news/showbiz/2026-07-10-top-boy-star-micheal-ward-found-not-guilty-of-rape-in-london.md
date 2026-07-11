@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ward, who also appeared in Ari Aster's 'Eddington' and won the BAFTA
   rising star award, reportedly sobbed as he was cleared of all charges.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-10T15:21:19Z'

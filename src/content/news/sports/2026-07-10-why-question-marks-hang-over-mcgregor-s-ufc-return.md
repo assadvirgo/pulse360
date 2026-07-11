@@ -5,7 +5,7 @@ countryCode: US
 description: Conor McGregor ends a five-year absence when he returns against Max Holloway
   at UFC 329 on Sunday, but there are many who believe the controversial fighter doesn't
   deserve the…
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-10T13:38:17Z'
