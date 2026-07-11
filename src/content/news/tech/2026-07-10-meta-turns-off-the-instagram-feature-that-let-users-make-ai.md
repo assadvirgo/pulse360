@@ -5,7 +5,7 @@ countryCode: US
 description: Following significant backlash, Meta is turning off the feature it announced
   this week that let users generate AI images based on content from public Instagram
   accounts just by…
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-10T23:49:50Z'

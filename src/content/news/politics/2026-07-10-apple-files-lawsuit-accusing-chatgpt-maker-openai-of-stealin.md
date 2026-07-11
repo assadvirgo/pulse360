@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The complaint alleges a coordinated effort by two former Apple employees
   and OpenAI to steal confidential information.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-10T23:00:11Z'

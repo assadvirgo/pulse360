@@ -5,7 +5,7 @@ countryCode: GB
 description: '"I''ve never seen a more rapid wholesale dismissal of a supposedly foundational
   jump in technology in my lifetime," the Oscar winner said in a recent interview
   with The Telegraph.'
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 62.8
 pubDate: '2026-07-11T01:56:58Z'

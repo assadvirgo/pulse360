@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Canadian unity takes centre stage at the Calgary Stampede as fears of
   a Brexit-style upset looms over the October vote on Alberta's future.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-11T00:00:42Z'

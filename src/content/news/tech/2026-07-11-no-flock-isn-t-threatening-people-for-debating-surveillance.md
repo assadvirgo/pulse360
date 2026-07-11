@@ -5,7 +5,7 @@ countryCode: US
 description: On Thursday, the Instagram account for a lecture series in Newport Beach,
   CA posted a photo of what appeared to be a cease and desist letter from the surveillance
   technology…
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-11T00:10:38Z'

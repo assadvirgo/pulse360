@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England are favourites to reach the semi-finals of the World Cup, Norway
   boss Stale Solbakken has told BBC Sport.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-10T20:10:44Z'

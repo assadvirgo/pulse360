@@ -2,7 +2,7 @@
 category: Politics
 description: Bitcoin is falling, yet cryptocurrency is spreading beyond investing
   into politics, sanctions and global finance.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-10T19:30:00Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Thirty-year-old Jordan Bardella had been groomed for success as France's
   next hard-right leader. He will now have to wait longer.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-10T23:02:59Z'

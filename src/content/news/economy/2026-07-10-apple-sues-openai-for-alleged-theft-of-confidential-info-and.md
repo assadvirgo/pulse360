@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The iPhone maker claims “misconduct is normalized and exemplified by
   leadership” at OpenAI.
-displayOrder: 43
+displayOrder: 40
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-10T23:06:00Z'

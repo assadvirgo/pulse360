@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The dismissals leave the federal election body vacant as Trump presses
   for broader changes to US voting rules.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-10T20:12:22Z'

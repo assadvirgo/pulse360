@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple said in a Friday lawsuit that OpenAI’s nascent hardware business
   is “rotten to its core.”
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-10T22:54:16Z'

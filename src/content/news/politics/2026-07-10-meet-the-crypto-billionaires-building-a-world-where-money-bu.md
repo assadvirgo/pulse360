@@ -2,7 +2,7 @@
 category: Politics
 description: They think democracy has run its course - so they're setting up their
   own nations instead.
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-10T23:03:11Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israeli air strikes on southern Lebanon have caused catastrophic destruction
   and damaged historic landmarks.
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-10T20:33:08Z'

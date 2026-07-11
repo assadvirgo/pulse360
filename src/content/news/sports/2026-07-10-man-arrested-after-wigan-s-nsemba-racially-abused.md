@@ -5,7 +5,7 @@ countryCode: GB
 description: A man is arrested after Wigan Warriors forward Junior Nsemba is subjected
   to racist abuse following his side's 16-14 victory over St Helens at Super League's
   Magic Weekend.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-07-10T16:43:43Z'
