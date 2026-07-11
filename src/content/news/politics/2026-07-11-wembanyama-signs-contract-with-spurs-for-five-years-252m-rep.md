@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Victor Wemnanyama, the NBA&#039;s tallest player, inked the third-largest
   rookie extension in history.
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-11T07:51:49Z'

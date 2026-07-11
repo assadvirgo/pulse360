@@ -5,7 +5,7 @@ countryCode: US
 description: 'UPDATED, with comment from AG: Oregon&#8217;s attorney general has dropped
   a civil investigative demand for Paramount to turn over records related to its efforts
   to secure federal…'
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-11T02:40:12Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanese president calls for ‘pressure’ on Israel to start pulling back
   forces
-displayOrder: 38
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-10T19:25:03Z'

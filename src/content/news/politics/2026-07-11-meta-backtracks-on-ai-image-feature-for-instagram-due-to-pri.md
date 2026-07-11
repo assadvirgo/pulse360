@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta has rolled back its ‘Muse Image’ AI feature after widespread backlash
   over privacy and consent.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-11T05:34:53Z'

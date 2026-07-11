@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The government says it was set up with a forged letter of appointment
   but others say there is more to it.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-11T00:46:15Z'

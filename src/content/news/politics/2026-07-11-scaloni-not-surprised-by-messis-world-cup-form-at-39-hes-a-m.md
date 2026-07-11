@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: A muscle strain threatened to derail Messi&#039;s tournament, but his
   coach says he&#039;s still world&#039;s best player.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-11T05:30:30Z'

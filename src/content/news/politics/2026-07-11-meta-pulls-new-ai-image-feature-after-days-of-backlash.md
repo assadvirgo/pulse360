@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta's release this week of an AI feature that let people alter Instagram
   content drew swift blowback.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-11T01:45:59Z'

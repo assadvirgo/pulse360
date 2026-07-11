@@ -5,7 +5,7 @@ countryCode: US
 description: Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and
   her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,”
   which helped the product…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-11T00:29:25Z'

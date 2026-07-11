@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: US President Donald Trump has placed the Caribbean island under a de
   facto oil blockade, straining its power grid.
-displayOrder: 18
+displayOrder: 36
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-10T23:18:08Z'
