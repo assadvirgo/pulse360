@@ -5,7 +5,7 @@ countryCode: US
 description: “Love Island USA” Season 8 contestant Corbin admits his elimination felt
   “humiliating.” But unlike other recently dumped couples like Jen and Gal, Corbin
   left feeling hopeful for…
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-12T01:30:00Z'

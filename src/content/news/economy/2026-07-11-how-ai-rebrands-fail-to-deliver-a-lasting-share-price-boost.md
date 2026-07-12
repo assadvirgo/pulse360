@@ -2,7 +2,7 @@
 category: Economy
 description: Most of the groups that pivoted have not sustained their valuation gains,
   an FT analysis has found
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-11T15:41:24Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council
   established by the White House, the Pentagon, the Office of the Director of National
   Intelligence, the…
-displayOrder: 43
+displayOrder: 46
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-11T14:18:33Z'

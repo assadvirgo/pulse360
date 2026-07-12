@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Islamabad cites national security concerns, returns thousands of undocumented
   migrants.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-11T20:11:55Z'

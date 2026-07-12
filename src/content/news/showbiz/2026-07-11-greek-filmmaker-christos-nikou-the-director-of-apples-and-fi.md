@@ -5,7 +5,7 @@ countryCode: GR
 description: At Karlovy Vary Film Festival this week, the 10 participants of Future
   Frames &#8211; the program for young European directors &#8211; were joined by Greek
   director Christos Nikou…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-11T20:17:09Z'

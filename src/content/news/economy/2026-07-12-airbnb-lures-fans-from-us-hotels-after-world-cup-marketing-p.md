@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hotel bookings fall short of expectations as price-conscious fans opt
   to stay in American homes
-displayOrder: 27
+displayOrder: 31
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-12T04:00:06Z'

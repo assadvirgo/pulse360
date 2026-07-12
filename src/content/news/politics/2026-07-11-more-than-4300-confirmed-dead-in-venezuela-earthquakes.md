@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: The number of people confirmed dead after the devastating back-to-back
   earthquakes that hit Venezuela last month has risen to more than 4,300.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-07-11T17:51:00Z'

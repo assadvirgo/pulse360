@@ -2,7 +2,7 @@
 category: Politics
 description: Pieces from the turf used at the stadium will go on sale as memorabilia
   and will be priced from $450 to $1,200.
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-11T22:58:10Z'

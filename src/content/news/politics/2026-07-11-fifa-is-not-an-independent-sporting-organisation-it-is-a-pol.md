@@ -2,7 +2,7 @@
 category: Politics
 description: Football fans around the world are only now finding out what Palestinians
   have long known.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-11T17:08:42Z'
