@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Real Madrid star outshines Harry Kane and Erling Haaland as Thomas Tuchel’s
   side claim 2-1 extra-time win
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-12T02:21:40Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Side agreements and special purpose funds could bypass the usual trench
   warfare
-displayOrder: 44
+displayOrder: 50
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-12T04:00:06Z'

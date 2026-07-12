@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: You have to hand it to him — the man knows how to troll with the best
   of them
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-12T12:00:07Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Moana&#8221; failed to make a splash at the box office, earning
   $43 million from 3,827 North American theaters in its opening weekend. Those ticket
   sales, though enough for…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-12T15:02:06Z'

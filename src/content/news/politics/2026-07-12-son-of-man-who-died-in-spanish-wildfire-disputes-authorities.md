@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The son of a Belgian man who died in a wildfire in Spain has disputed
   authorities' claims about the warnings issued.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-12T09:13:00Z'

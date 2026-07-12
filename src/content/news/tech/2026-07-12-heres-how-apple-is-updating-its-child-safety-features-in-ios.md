@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple has announced several new Child Safety features coming soon to
   iPhones and other devices. Here’s what’s changing.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-12T10:30:00Z'

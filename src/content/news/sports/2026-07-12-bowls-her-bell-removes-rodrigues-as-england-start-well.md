@@ -5,7 +5,7 @@ countryCode: GB
 description: Lauren Bell bowls Jemimah Rodrigues with a brilliant delivery to give
   England a small glimmer of hope on the morning of day three against India, with
   the tourists falling to…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-07-12T11:17:06Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Qatar
 countryCode: QA
 description: Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-12T12:10:42Z'

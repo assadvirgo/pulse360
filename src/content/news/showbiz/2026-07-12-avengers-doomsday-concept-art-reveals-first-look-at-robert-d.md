@@ -3,7 +3,7 @@ category: Showbiz
 description: The first clear look at Robert Downey Jr.&#8217;s Doctor Doom mask has
   arrived, courtesy of some concept art posted by a Marvel Cinematic Universe icon.
   Former Marvel Visual…
-displayOrder: 4
+displayOrder: 20
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-12T16:09:51Z'

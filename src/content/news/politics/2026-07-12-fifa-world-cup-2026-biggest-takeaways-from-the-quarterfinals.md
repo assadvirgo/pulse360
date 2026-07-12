@@ -2,7 +2,7 @@
 category: Politics
 description: The quarterfinals are now behind us, with plenty of key moments and incidents
   as the tournament enters the final four.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-12T12:20:52Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Qatar
 countryCode: QA
 description: Sheikh Hamad bin Khalifa Al Thani made Qatar safe by making it relevant.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-12T14:42:27Z'

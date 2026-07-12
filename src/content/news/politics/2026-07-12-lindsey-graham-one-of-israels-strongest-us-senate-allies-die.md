@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US Republican senator died of a sudden illness, his office said.
   He was 71.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-12T06:27:06Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Why staying in your longtime home requires more planning than you think.
-displayOrder: 28
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-12T13:30:00Z'

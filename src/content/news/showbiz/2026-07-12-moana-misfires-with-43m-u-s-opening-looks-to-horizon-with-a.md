@@ -5,7 +5,7 @@ countryCode: US
 description: 'SUNDAY WRITETHRU: Disney&#8217;s live-action Moana didn&#8217;t catch
   a wave Saturday when most families come out, crashing to the shore this weekend
   with a $43M U.S. opening and…'
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-12T15:01:00Z'

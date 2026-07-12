@@ -5,7 +5,7 @@ countryCode: US
 description: Lionsgate and Universal&#8217;s Michael has finally crossed $1 billion
   after 12 weekends in release, not only is that the second movie to do so in 2026
   after…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-12T15:36:17Z'
