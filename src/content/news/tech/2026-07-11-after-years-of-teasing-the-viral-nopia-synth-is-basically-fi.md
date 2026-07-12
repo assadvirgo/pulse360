@@ -3,7 +3,7 @@ category: Tech
 description: After setting the music gear corner of the internet on fire back in 2023
   with the first glimpse at the Nopia, creators Martin Grieco and Roc&#237;o Gal are
   almost ready to bring…
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-11T20:57:42Z'

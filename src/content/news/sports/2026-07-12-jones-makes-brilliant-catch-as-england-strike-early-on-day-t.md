@@ -5,7 +5,7 @@ countryCode: GB
 description: Amy Jones takes a brilliant diving catch to remove Smriti Mandhana, as
   India's opening batter misses out on making a century at Lord's as she departs for
   70, with the tourists…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-07-12T10:40:20Z'

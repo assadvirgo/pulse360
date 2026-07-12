@@ -5,7 +5,7 @@ countryCode: GB
 description: Home favourite Bob MacIntyre brings the thunder after fog disruption
   at the Genesis Scottish Open to seize a share of the lead alongside Matt Fitzpatrick
   and Min Woo Lee heading…
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-12T09:34:22Z'

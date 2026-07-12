@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wolves star João Gomes looked set for Atlético Madrid but could now head
   to Manchester United or Liverpool. Transfer talk has the latest.
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-12T09:36:34Z'

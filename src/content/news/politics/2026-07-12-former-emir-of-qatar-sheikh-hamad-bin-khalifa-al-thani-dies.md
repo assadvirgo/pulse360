@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: After Sheikh Hamad&#039;s death, global leaders offer condolences, praise
   his legacy and Qatar’s growth.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-12T09:40:23Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The strikes follow an attack on a Cyrpus-flagged vessel travelling through
   the critical waterway.
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-12T04:39:18Z'

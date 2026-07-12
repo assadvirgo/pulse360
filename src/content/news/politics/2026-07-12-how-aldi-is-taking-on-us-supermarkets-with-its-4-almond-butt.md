@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The German supermarket's $9bn US push targets urban hubs like Manhattan.
   Can its discount model match Walmart?
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-12T05:00:15Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Qatar
 countryCode: QA
 description: The Father Emir oversaw the meteoric rise of the small gas-rich nation.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-12T06:01:07Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Regulators pressure agencies to limit triple-A designations for higher-interest
   borrowers
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-12T04:00:06Z'

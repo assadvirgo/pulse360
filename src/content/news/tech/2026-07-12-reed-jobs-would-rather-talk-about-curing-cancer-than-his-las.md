@@ -5,7 +5,7 @@ countryCode: US
 description: When we last sat down with Jobs at TechCrunch Disrupt nearly three years
   ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic
   crash. Now, the…
-displayOrder: 21
+displayOrder: 41
 heroImage: ''
 importance: 70.0
 pubDate: '2026-07-12T00:16:06Z'

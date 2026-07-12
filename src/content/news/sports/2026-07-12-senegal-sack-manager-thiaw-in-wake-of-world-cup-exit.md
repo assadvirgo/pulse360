@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Senegal sack manager Pape Thiaw in the aftermath of the country's exit
   at the last-32 stage of the 2026 World Cup.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-12T07:25:09Z'

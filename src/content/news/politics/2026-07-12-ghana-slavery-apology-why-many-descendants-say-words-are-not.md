@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Descendants of enslaved Africans say symbolic apologies cannot repair
   generations of loss and injustice.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-12T06:08:46Z'

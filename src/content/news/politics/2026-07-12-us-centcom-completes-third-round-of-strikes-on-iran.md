@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: US CENTCOM completes third round of strikes on Iran
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-12T07:58:48Z'

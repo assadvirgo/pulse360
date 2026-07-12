@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: European football titans France and Spain meet in a blockbuster FIFA
   World Cup 2026 final four matchup in Dallas.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-12T07:19:25Z'
