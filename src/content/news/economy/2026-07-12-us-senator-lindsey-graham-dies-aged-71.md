@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: South Carolina politician was one of the most influential and hawkish
   Republicans
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-12T07:44:11Z'

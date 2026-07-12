@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran says it launched missile attacks on US military sites in Bahrain,
   Kuwait, Jordan and Qatar.
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-12T04:59:27Z'

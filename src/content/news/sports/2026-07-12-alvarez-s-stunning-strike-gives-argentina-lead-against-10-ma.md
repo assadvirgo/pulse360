@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina retake the lead in their quarter-final against Switzerland
   through a stunning strike from Julian Alvarez during extra-time in Kansas City.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-12T04:00:45Z'

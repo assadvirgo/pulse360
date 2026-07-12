@@ -5,7 +5,7 @@ countryCode: CO
 description: Thousands of people in Colombia have been “forcibly disappeared”, as
   the euphemistic expression goes, since conflicts began in the mid-1960s between
   the Colombian government and…
-displayOrder: 11
+displayOrder: 25
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-12T06:12:18Z'

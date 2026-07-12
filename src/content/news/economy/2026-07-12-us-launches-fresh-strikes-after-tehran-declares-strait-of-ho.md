@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran hits commercial ship transiting the waterway and targets in Kuwait,
   Bahrain and Qatar
-displayOrder: 21
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-12T04:17:53Z'

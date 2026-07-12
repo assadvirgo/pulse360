@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lindsey Graham, the US senator and prominent ally of Donald Trump, has
   died.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-07-11T23:01:00Z'

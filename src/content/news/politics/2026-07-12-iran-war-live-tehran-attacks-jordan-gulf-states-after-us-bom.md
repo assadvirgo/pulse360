@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran targets Jordan and Gulf states after US bombs Iranian cities including
   Bandar Abbas, Sirik and Chabahar
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-12T00:00:00Z'

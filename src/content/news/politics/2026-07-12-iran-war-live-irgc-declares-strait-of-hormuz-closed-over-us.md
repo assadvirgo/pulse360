@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Move comes as Israel continues attacks on Gaza and Lebanon, killing and
   wounding several civilians.
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 70.5
 pubDate: '2026-07-12T00:00:00Z'

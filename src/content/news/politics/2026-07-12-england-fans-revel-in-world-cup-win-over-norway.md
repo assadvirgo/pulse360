@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Fans celebrated at a London watch party after England&#039;s 2-1 extra-time
   win over Norway in the World Cup quarter-finals.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-12T03:34:23Z'

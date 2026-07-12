@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Eric Karabell looks into the crystal ball to tell fantasy baseball managers
   what might come to pass in the not-too-distant future.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-12T05:03:04Z'

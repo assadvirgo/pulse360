@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Police say there was an exchange of gunfire between two individuals at
   the festival, and two firearms had been recovered from the scene.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-12T03:56:02Z'

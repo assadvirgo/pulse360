@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The case is the latest instance of the Trump administration seeking to
   unravel prosecutions against January 6 rioters.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-11T21:53:40Z'

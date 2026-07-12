@@ -2,7 +2,7 @@
 category: Economy
 description: The ‘fault tolerant’ computer — one that is acceptably error-free — is
   still some time away
-displayOrder: 27
+displayOrder: 37
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-12T04:00:14Z'

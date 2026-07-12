@@ -2,7 +2,7 @@
 category: Economy
 description: Justice commissioner Michael McGrath says Brussels seeks to strengthen
   social media safeguards
-displayOrder: 30
+displayOrder: 38
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-12T04:00:06Z'
