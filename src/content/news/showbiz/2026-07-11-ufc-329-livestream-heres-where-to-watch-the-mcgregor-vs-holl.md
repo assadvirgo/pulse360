@@ -5,7 +5,7 @@ countryCode: US
 description: After Justin Gaethje defeated Ilia Topuria in a TKO to win the UFC Lightweight
   Championship belt during UFC Freedom 250 in June, the promotion company travels
   from Washington,…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-07-11T18:00:00Z'

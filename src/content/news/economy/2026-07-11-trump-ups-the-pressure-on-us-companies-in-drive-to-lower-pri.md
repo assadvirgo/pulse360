@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Critics fear shift to ‘hyper-populist playbook’ as inflation lingers
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-11T11:00:08Z'

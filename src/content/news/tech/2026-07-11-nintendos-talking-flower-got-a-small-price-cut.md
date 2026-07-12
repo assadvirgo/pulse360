@@ -3,7 +3,7 @@ category: Tech
 description: If you’re the type of person who could always use a little extra positive
   affirmation, or you have a weakness for weird gadgets, the Talking Flower might
   be of interest. I’m only…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-11T15:00:00Z'

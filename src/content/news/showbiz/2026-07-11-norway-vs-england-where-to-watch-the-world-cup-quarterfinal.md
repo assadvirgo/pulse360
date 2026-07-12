@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: The knockout round matchup will be held at Miami Stadium on Saturday,
   July 11.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-07-11T17:30:00Z'

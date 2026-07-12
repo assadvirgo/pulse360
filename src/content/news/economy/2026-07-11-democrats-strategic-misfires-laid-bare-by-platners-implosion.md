@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The party faces a void in its bid to reclaim the Senate after missing
   warning signs about a flawed candidate
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-11T12:00:09Z'

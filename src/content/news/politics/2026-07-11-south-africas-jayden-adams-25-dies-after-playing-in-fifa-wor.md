@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa and Mamelodi Sundowns midfielder died after featuring in
   his nation&#039;s run to the World Cup round of 32.
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-11T18:38:50Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A US politician said he was detained by armed Israeli settlers during
   a visit to the West Bank.
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 44.0
 pubDate: '2026-07-11T16:49:00Z'

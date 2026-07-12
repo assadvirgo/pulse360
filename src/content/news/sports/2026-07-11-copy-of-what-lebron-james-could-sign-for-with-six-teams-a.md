@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As the free agent race to land LeBron continues, here's what six teams
   can actually offer him, from the exact dollar amount to the intangibles.
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-11T20:39:06Z'

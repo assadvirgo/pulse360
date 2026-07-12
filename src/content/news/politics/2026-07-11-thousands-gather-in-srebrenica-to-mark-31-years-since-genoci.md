@@ -4,7 +4,7 @@ country: Bosnia and Herzegovina
 countryCode: BA
 description: Ten newly identified victims were buried as the more than 8,000 Bosnian
   Muslim men and boys killed were remembered.
-displayOrder: 18
+displayOrder: 25
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-11T19:25:59Z'

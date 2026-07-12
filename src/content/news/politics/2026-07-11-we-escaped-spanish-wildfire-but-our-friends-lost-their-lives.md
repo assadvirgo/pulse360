@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Hundreds of firefighters in Spain have been battling a deadly wildfire
   in the south of the country.
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-11T11:45:55Z'

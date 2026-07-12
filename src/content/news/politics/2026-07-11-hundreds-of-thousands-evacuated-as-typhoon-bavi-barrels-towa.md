@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists
   say.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-11T09:32:57Z'

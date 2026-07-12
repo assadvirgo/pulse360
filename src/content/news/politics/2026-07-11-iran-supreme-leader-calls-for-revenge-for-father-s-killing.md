@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Mojtaba Khamenei says vengeance is "inevitable" for the killing, which
   happened on the first day of the US-Israeli war on Iran.
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-11T19:30:36Z'

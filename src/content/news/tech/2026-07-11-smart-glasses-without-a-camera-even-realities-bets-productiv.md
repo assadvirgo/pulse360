@@ -2,7 +2,7 @@
 category: Tech
 description: The glasses are targeted at people who might be constantly in meetings,
   giving presentations, and traveling to countries where different languages are spoken.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-11T17:30:00Z'

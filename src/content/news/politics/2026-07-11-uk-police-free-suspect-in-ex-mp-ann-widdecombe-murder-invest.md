@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The former government minister is believed to have been attacked a full
   day before her body was discovered.
-displayOrder: 28
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-11T14:25:14Z'

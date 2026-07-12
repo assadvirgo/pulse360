@@ -5,7 +5,7 @@ countryCode: IN
 description: Kranti Gaud takes five wickets and makes history, before Smriti Mandhana
   frustrates England with an unbeaten 69 as India close on 154-1, giving them a lead
   of 269, with the…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-11T18:08:08Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: White Sox outfielder Tristan Peters, who hit for the cycle Friday, was
   named to the American League All-Star team as an injury replacement Saturday.
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-11T20:24:23Z'

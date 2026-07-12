@@ -5,7 +5,7 @@ countryCode: ZA
 description: Jayden Adams, who recently represented South Africa at the 2026 FIFA
   World Cup, has died. He was 25. The Mamelodi Sundowns midfielder&#8217;s body was
   found on Saturday morning in…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-11T16:14:25Z'

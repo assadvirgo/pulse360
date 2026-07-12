@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: China and North Korea are celebrating the 65th anniversary of a friendship
   treaty this week.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-11T08:21:20Z'
