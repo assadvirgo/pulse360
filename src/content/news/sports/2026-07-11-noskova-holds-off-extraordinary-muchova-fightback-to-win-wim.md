@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Czech youngster Linda Noskova recovers from missing five championship
   points to beat Karolina Muchova in an extraordinary Wimbledon final.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-11T19:37:02Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump's Homeland Security regime has been at the center of two
   critical stories in the past two weeks. In the first, federal agents shot and killed
   a man and quickly got to…
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-11T13:00:00Z'

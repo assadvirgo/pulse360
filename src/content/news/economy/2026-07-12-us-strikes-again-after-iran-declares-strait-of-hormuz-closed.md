@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: IRGC hits commercial ship transiting through waterway, with Centcom saying
   a crew member was missing from vessel
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-12T00:00:34Z'

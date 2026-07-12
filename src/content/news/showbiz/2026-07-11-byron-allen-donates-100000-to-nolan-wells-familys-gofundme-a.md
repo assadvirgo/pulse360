@@ -5,7 +5,7 @@ countryCode: US
 description: Media mogul and late night host Byron Allen has donated $100,000 to the
   GoFundMe set up by the family of Nolan Xavier Wells, the 18-year-old who was found
   dead following his…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-07-11T20:28:44Z'

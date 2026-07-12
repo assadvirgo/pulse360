@@ -4,7 +4,7 @@ country: Algeria
 countryCode: DZ
 description: Relations begin to thaw as both countries reinstate ambassadors, reopen
   airspace closed to each other since April 2025.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-11T15:29:32Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Matt Fitzpatrick holds a share of the lead and out-of-sorts Rory McIlroy
   struggles in an unfinished third round at the Genesis Scottish Open where fog caused
   havoc.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-11T20:32:35Z'

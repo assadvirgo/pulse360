@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “By claiming earlier, I could preserve more of my portfolio and allow
   those assets to continue compounding.”
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-11T16:44:00Z'

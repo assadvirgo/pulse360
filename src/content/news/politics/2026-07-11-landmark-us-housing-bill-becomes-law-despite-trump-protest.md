@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president had wanted voter ID legislation passed before the housing
   law, which aims to reduce costs and increase supply.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-11T13:35:09Z'

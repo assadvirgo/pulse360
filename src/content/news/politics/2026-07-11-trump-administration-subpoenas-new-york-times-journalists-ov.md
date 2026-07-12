@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The reporters received the legal summons after they reported on alleged
   security issues with the president's new plane, which was gifted by Qatar.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-11T16:11:33Z'

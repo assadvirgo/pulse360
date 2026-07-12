@@ -2,7 +2,7 @@
 category: Economy
 description: Your share of the AI wealth is a right — not a handout. Here is how we
   claw back our money.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-11T16:01:00Z'

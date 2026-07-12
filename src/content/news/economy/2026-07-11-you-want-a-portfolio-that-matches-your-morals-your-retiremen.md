@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: More investors want their money to reflect their values. It feels righteous
   — but the reality is a lot messier.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-11T16:00:00Z'
