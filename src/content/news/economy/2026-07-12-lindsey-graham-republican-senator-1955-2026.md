@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Veteran proponent of US power was a Trump critic who became one of the
   president’s most influential advocates
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-12T16:09:47Z'

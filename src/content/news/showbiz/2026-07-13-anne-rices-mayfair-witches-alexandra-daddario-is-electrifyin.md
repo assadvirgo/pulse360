@@ -3,7 +3,7 @@ category: Showbiz
 description: '&#8220;Power will be tested.&#8221; That is the theme of the first teaser
   for Season 3 of Anne Rice&#8217;s Mayfair Witches. The clip was revealed during
   tonight’s penultimate…'
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-07-13T02:15:00Z'

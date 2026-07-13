@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on the data center buildout, follow Emma Roth.
   The Stepback arrives in…
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-12T12:00:00Z'

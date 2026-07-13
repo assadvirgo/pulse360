@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Michael Steranka, vice president at the mobile game's owner Scopely,
   says it has always been about bringing people together.
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-13T00:07:00Z'

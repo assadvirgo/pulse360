@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Military manufacturing may be growing, but defence sovereignty depends
   on far more than production.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-13T00:54:53Z'

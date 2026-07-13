@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa is cracking down on undocumented migrants following widespread
   anti-immigration protests.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-12T18:57:17Z'

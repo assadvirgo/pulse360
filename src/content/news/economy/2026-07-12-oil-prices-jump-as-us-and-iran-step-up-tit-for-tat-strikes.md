@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Traders fear escalating hostilities could further restrict the flow of
   crude through the Strait of Hormuz
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-07-12T22:41:05Z'

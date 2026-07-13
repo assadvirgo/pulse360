@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US military has significantly increased the scale of attacks on Iran
   in recent days as the Strait of Hormuz standoff boils over.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-12T17:50:27Z'

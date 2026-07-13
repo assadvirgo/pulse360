@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Yulia Svyrydenko to exit as president announces sweeping government changes
   less than a year since last reshuffle
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-12T14:14:04Z'

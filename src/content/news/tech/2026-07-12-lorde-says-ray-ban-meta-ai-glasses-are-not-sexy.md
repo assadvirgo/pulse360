@@ -5,7 +5,7 @@ countryCode: ES
 description: Lorde was performing at the Real Cool Festival in Madrid on Thursday
   and took some time during her set to speak out against AI glasses. While she didn't
   specify any brands in…
-displayOrder: 44
+displayOrder: 47
 heroImage: ''
 importance: 38.2
 pubDate: '2026-07-12T20:10:19Z'

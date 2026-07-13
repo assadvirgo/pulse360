@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iranian forces earlier said the Strait was closed and launched wide-ranging
   attacks at US allies and bases in the region.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-12T16:46:24Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The senator's career was marked by a willingness to adapt to America's
   dramatically changing political climate, writes the BBC's North America correspondent.
-displayOrder: 14
+displayOrder: 34
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-12T19:42:26Z'

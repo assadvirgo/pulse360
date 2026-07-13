@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: David Ellison's confidants are said to be urging him to relocate his
   corporate headquarters out of the state.
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-13T00:26:19Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Oil prices rose and U.S. stock-index futures slipped on Sunday, after
   the U.S. and Iran continued their tit-for-tat attacks around the Strait of Hormuz
   over the weekend.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-13T03:03:00Z'

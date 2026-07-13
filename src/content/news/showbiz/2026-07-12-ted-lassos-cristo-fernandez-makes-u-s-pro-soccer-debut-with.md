@@ -5,7 +5,7 @@ countryCode: US
 description: From London to the Lone Star State, Cristó Fernández is experiencing
   a bit of life imitating art with his professional soccer debut. The Ted Lasso star,
   who signed with El Paso…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-12T22:07:20Z'

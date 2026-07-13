@@ -5,7 +5,7 @@ countryCode: ES
 description: A British woman who was taken to hospital after a wildfire swept through
   southern Spain has become the 13th person to die in the tragedy, officials in the
   Andalusia region have…
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-12T22:52:00Z'
