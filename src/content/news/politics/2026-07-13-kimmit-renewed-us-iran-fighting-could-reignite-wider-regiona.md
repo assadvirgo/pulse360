@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Retired US General Mark Kimmitt warns renewed attacks in the Strait of
   Hormuz could push the US and Iran
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-13T07:41:59Z'

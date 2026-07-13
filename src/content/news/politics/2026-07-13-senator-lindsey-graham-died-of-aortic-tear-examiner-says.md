@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Graham, a close Republican ally of Donald Trump, died at the age of 71
   on Saturday evening.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-13T10:14:01Z'

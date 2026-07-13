@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The US president has a genius for alienating existing and potential allies
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-13T11:30:55Z'

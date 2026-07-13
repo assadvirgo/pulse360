@@ -5,7 +5,7 @@ countryCode: US
 description: In addition to the Buffalo Bills, the Pegula family—which is worth an
   estimated $9.3 billion—also owns two other teams and an impressive collection of
   real estate.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-13T09:00:00Z'

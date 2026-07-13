@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv intensifies deep-strike campaign against Russia after attacks on
   refineries sparked fuel crisis
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-13T10:29:38Z'

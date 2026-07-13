@@ -5,7 +5,7 @@ countryCode: US
 description: Apple's self-driving car program never really got off the ground, but
   it may have been what made the company's chips the powerful AI performers they are.
   Early in the development…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-12T16:27:06Z'

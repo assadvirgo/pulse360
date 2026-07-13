@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The Israeli Army has released footage of what it says are hidden tunnels
   under Lebanon’s historic Beaufort Castle.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-13T02:10:10Z'

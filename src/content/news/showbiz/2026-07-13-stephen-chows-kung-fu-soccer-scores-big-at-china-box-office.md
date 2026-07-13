@@ -5,7 +5,7 @@ countryCode: CN
 description: Stephen Chow’s first film in seven years, Kung Fu Soccer, scored a mighty
   opening at the China box office this past weekend grossing $73.6M (RMB500.3M) in
   just two days (July…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-13T09:18:04Z'

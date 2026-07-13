@@ -5,7 +5,7 @@ countryCode: NZ
 description: The famed Kiwi actor, who also starred in classic films like 'Event Horizon,'
   'Hunt for the Wilderpeople,' 'Possession,' 'Dead Calm' and 'The Piano,' died July
   13 at age 78.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-13T09:16:27Z'

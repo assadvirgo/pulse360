@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stars who have thrived -- and failed -- under the hometown Derby spotlight
   share their stories and advice for Bryce Harper and Kyle Schwarber.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-13T00:33:07Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: The internet-breaking meet-up comes as the historian finds himself at
   the center of a culture-war clash with Elon Musk, who has launched an anti-"woke"
   campaign against Nolan's…
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-13T09:55:18Z'

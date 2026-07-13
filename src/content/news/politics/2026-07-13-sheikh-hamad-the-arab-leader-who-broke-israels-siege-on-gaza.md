@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: A look at Sheikh Hamad bin Khalifa Al Thani&#039;s enduring legacy of
   solidarity and support for the Palestinian people.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T05:39:53Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK has experienced two record heatwaves this year, with temperatures
   reaching 35.1C in May and 37.7C in June.
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T08:01:19Z'

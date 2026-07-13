@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India's new brainstem atlas offers scientists an unprecedented map of
   one of the brain's least known regions.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-13T00:08:11Z'

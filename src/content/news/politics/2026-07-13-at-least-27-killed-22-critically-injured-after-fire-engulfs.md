@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Firefighters arrived at the scene in the Chatuchak district to find patrons
   running through flames to escape.
-displayOrder: 26
+displayOrder: 44
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-13T06:07:17Z'

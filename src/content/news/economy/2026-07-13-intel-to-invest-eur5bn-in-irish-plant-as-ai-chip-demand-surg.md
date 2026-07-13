@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Move strengthens Dublin’s role in Europe’s bid to secure advanced semiconductor
   manufacturing
-displayOrder: 40
+displayOrder: 50
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-13T12:00:04Z'

@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: The Dutch semiconductor-equipment manufacturer is reporting its second-quarter
   results on Wednesday, with analysts expecting a 15% rise in earnings per share year-over-year.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-13T11:55:00Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Test case will determine whether lenders can recover hundreds of millions
   of euros seized by courts
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-13T04:00:20Z'

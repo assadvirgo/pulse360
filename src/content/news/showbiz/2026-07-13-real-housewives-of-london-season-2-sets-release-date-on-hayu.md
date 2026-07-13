@@ -5,7 +5,7 @@ countryCode: GB
 description: '&#8220;The Real Housewives of London&#8221; is coming back for a second
   round this fall. Season 2 of the reality series will premiere Sept. 7 on U.K. streamer
   Hayu, with new…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-13T12:20:06Z'
