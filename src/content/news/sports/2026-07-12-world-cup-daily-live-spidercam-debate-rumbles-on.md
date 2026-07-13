@@ -2,7 +2,7 @@
 category: Sports
 description: Enjoy all the features, news, video analysis and color from around the
   competition as we now know our four World Cup semifinalists.
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-12T19:13:07Z'

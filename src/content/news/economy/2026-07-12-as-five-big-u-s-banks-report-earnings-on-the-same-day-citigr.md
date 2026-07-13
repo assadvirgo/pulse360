@@ -5,7 +5,7 @@ countryCode: US
 description: Among the largest U.S. banks, Citigroup is expected to show the greatest
   improvement by one important measure. But it still has a long way to go to reach
   its own performance…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-12T15:30:00Z'

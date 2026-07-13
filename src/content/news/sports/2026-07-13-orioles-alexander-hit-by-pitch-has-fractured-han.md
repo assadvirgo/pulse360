@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Orioles third baseman Blaze Alexander suffered a non-displaced fracture
   in his left hand after being hit by a pitch Sunday, manager Craig Albernaz said.
-displayOrder: 8
+displayOrder: 12
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T01:07:15Z'

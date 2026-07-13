@@ -2,7 +2,7 @@
 category: Economy
 description: Relying on a high salary or a hot stock is a dangerous trap. Why the
   most secure people plan for sudden crisis.
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-12T19:27:00Z'

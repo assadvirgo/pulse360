@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump claims waterway is open while Tehran says it will remain closed
   until ‘further notice’
-displayOrder: 39
+displayOrder: 46
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-12T14:21:49Z'

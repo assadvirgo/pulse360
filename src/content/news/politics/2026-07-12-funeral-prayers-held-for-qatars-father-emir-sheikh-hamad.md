@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Funeral prayers have been held for the Father Emir, Sheikh Hamad bin
   Khalifa Al Thani, at Qatar’s national mosque.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-12T16:43:24Z'

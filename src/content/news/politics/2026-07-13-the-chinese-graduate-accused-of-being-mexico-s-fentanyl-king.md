@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Cartel members and ex-colleagues describe how Zhang Zhidong allegedly
   linked Chinese chemicals to Mexican drug labs.
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-13T00:05:46Z'
