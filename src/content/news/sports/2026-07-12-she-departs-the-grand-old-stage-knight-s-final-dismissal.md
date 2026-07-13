@@ -5,7 +5,7 @@ countryCode: GB
 description: In her final England appearance, Heather Knight makes 13 before she's
   caught by Richa Ghosh as England fall to 34-4, chasing 457 to win the one-off Test
   against India at Lord's.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-12T16:02:46Z'

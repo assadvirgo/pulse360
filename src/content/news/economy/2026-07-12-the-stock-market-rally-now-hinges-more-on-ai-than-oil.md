@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: As earnings season kicks off, AI investment remains front and center.
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-12T13:00:00Z'

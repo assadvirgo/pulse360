@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 29-year-old Vermont native made history on his Great Divide Tour
   as the only artist to sell out four nights at the historic ballpark.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-12T16:45:08Z'

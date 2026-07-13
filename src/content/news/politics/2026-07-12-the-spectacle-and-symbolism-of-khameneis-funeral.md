@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: How coverage of the supreme leader&#039;s funeral exposed the limits
   of familiar narratives about Iran.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-12T09:53:49Z'

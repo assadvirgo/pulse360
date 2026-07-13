@@ -2,7 +2,7 @@
 category: Politics
 description: FIFA President Gianni Infantino considering a proposal to add a further
   16 nations ahead of the World Cup in four years.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-12T14:47:15Z'

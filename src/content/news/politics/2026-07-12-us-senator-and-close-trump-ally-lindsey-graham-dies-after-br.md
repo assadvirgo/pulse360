@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump pays tribute to the 71-year-old South Carolina senator,
   calling him a "true American patriot" who will be "greatly missed".
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-12T17:40:34Z'

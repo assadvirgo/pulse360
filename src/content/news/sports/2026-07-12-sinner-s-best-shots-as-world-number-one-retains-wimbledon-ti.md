@@ -5,7 +5,7 @@ countryCode: GB
 description: Enjoy the best of Jannik Sinner's title-retaining performance, as the
   world number one defeats Alexander Zverev in four sets in the men's singles final
   at Wimbledon 2026.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-12T19:24:19Z'

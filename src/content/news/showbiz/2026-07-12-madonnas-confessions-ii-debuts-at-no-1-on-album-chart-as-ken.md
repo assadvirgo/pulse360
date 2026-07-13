@@ -5,7 +5,7 @@ countryCode: US
 description: Madonna&#8217;s &#8220;Confessions II,&#8221; her first new album in
   seven years, found an appreciative audience awaiting her return. The album bowed
   with 134,000 equivalent album…
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 55.8
 pubDate: '2026-07-12T19:46:49Z'

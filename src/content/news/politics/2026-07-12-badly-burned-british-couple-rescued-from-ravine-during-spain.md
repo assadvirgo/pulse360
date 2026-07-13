@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The unnamed pair were found semi-conscious with 40% burns after being
   trapped by the blazes raging through Almeria province, according to local media
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 72.2
 pubDate: '2026-07-12T11:23:09Z'

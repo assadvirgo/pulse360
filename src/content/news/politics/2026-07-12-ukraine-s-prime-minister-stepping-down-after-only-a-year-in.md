@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian prime minister Yulia Svyrydenko has stepped down as President
   Volodymyr Zelenskyy begins a reshuffle of Ukraine's government.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-12T14:43:00Z'

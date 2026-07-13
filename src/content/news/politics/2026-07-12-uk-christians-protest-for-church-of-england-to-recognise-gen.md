@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK Christians are urging the Church of England General Synod to pass
   a motion to engage with Kairos Palelestine II
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-12T16:54:49Z'

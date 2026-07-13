@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The BBC's Nick Beake sees homes razed to the ground and "a sea of black"
   in Bédar.
-displayOrder: 7
+displayOrder: 25
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-12T15:33:27Z'

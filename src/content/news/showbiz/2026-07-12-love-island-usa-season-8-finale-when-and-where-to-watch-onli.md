@@ -3,7 +3,7 @@ category: Showbiz
 country: United States
 countryCode: US
 description: Four couples remain in the Fiji villa going into the July 12 final episode.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-07-12T17:56:45Z'

@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Former ruler was known for modernising gas-rich Gulf state and pursuing
   regional dialogue rather than confrontation
-displayOrder: 44
+displayOrder: 46
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-12T15:37:49Z'

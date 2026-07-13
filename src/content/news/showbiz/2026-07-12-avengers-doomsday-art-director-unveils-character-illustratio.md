@@ -5,7 +5,7 @@ countryCode: US
 description: 'With Avengers: Doomsday approaching, MCU fans were treated to new character
   art this weekend, ahead of its Dec. 18 premiere. Andy Park, who was Marvel Studios&#8217;
   director of…'
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-12T18:06:47Z'
