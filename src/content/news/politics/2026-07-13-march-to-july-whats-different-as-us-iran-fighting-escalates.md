@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With ceasefire in shambles and both sides exchanging tit-for-tat attacks,
   is the region again plunging into all-out war?
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 80.5
 pubDate: '2026-07-13T12:12:46Z'

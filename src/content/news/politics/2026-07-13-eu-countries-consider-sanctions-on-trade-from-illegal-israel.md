@@ -2,7 +2,7 @@
 category: Politics
 description: Pressure from EU member states to impose sanctions has increased in recent
   months amid escalating settler violence.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-13T10:32:25Z'

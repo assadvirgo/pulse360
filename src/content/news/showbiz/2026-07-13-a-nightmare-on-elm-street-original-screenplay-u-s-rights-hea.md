@@ -5,7 +5,7 @@ countryCode: US
 description: Before Paramount has even swallowed up Warner Bros., the Melrose lot
   along with the former Boulderlight duo, J.D. Lifshitz and Raphael Margules under
   their new genre label,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-13T16:37:08Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A 28-year-old man has been re-arrested on suspicion of the commission,
   preparation or instigation of acts of terrorism.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-13T16:02:39Z'

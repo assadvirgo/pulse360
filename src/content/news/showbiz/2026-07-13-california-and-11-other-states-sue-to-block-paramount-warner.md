@@ -5,7 +5,7 @@ countryCode: US
 description: A group of a dozen state attorneys general filed suit to block Paramount&#8217;s
   $110 billion acquisition of Warner Bros. Discovery, long-anticipated litigation
   to stave off a…
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-13T15:59:12Z'

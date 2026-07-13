@@ -3,7 +3,7 @@ category: Tech
 description: The European Union is weighing sweeping new restrictions on children's
   and teenagers' access to social media, including age limits, an outright ban, and
   phased access. Social…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-13T09:22:52Z'

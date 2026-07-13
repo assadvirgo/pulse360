@@ -5,7 +5,7 @@ countryCode: US
 description: Nearly three years ago, I showed you an awesome $8 cable tester that
   quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Sadly,
   that gadget got…
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-13T10:00:00Z'

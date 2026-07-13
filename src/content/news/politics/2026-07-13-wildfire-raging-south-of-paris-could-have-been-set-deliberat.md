@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: It was the first time firefighting planes had been sent up from the normally
   drier and hotter south of the country to tackle fires in the Paris region.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-13T10:29:17Z'

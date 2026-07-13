@@ -5,7 +5,7 @@ countryCode: US
 description: A coalition of 12 states filed an antitrust lawsuit on Monday to block
   the merger of Paramount Skydance and Warner Bros., defying the Department of Justice,
   which approved the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-13T15:55:39Z'

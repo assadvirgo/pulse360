@@ -5,7 +5,7 @@ countryCode: US
 description: Today, I’m talking with Xinzhou Wu, who is the head of automotive at
   Nvidia.&#160; Nvidia is obviously in the news constantly because of the AI boom
   — it’s one of the most…
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-13T15:00:00Z'

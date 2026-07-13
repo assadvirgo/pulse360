@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Sneh Rana takes the wicket of Sophie Ecclestone to complete India's 270-run
   victory over England in the historic first women's Test at Lord's.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-13T12:00:36Z'
