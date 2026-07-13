@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran launches attacks on Gulf states, targeting US military assets in
   Bahrain, Kuwait, and Jordan.
-displayOrder: 10
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-13T05:15:54Z'

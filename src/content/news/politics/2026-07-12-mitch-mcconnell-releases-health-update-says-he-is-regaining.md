@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US Republican senator has been absent from Congress during a weeks-long
   hospitalisation, spurring party concern.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-12T23:29:33Z'

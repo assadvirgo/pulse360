@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A month on from the firm's stock market debut, the reality of how SpaceX
   currently makes money has seemed to come into clearer focus.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-13T07:19:57Z'

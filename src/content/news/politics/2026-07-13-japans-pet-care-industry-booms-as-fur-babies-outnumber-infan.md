@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japanese baby product manufacturers turn their attention to the pet market
   amid collapsing birthrate.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-13T01:20:33Z'

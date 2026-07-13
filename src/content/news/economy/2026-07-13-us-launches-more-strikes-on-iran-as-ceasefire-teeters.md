@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fighting escalates as Trump insists Strait of Hormuz remains open while
   Tehran says it is closed
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-13T04:28:25Z'

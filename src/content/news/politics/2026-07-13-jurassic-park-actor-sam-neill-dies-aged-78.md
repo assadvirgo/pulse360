@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: Death of New Zealand actor in Sydney was &#039;sudden and unexpected&#039;,
   according to a family statement.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T06:27:42Z'

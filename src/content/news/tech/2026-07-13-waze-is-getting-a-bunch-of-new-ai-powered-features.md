@@ -5,7 +5,7 @@ countryCode: US
 description: Waze is getting an AI makeover. Google is integrating its flagship AI
   assistant, Gemini, into the driving app with the goal of letting users personalize
   their trips a little more.…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-13T09:00:00Z'

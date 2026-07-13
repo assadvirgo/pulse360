@@ -2,7 +2,7 @@
 category: Economy
 description: TSMC, SK Hynix and Samsung Electronics together account for 29% of MSCI
   Emerging Markets index
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-13T04:00:17Z'

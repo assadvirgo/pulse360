@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Within hours of fresh US attacks, Iran said it had struck US military
   bases in Kuwait, Jordan and Bahrain.
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-13T05:00:46Z'

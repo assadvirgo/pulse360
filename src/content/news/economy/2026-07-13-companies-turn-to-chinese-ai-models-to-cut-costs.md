@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: DoorDash, Siemens and Airbnb are among those seeking to curb ballooning
   bills and reduce reliance on US technology
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-13T04:00:17Z'

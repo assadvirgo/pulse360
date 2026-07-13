@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Taiwan Semiconductor Manufacturing Corp. said net revenue increased by
   67% in June to $13.2 billion
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-13T09:01:00Z'

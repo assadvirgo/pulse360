@@ -2,7 +2,7 @@
 category: Tech
 description: Welcome back to TechCrunch Mobility, your hub for the future of transportation
   and now, more than ever, how AI is playing a part.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-12T16:07:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian state media report explosions in port cities of Bandar Abbas,
   Sirik and Jask, as well as Qeshm Island.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T00:00:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine is particularly vulnerable to Russian ballistic missiles due
   to critical shortage of Patriot munitions.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-12T19:53:03Z'
