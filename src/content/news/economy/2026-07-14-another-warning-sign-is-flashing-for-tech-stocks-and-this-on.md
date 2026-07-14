@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: What the link between the Japanese yen and U.S. stocks means for your
   portfolio.
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-14T11:40:00Z'

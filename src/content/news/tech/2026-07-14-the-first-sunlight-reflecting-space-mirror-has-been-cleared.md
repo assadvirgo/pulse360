@@ -5,7 +5,7 @@ countryCode: US
 description: Reflect Orbital has been given the green light to launch its first space
   mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications
   Commission…
-displayOrder: 10
+displayOrder: 29
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-14T11:10:39Z'

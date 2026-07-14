@@ -2,7 +2,7 @@
 category: Politics
 description: Al Jazeera put nine leading AI models to the test to predict the 2026
   FIFA Men&#039;s World Cup champion.
-displayOrder: 5
+displayOrder: 25
 heroImage: ''
 importance: 68.5
 pubDate: '2026-07-14T07:59:07Z'

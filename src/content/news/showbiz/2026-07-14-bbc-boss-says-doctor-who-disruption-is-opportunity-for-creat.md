@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC director general Matt Brittin has made a bullish case for the future
   of Doctor Who after the sci-fi show&#8217;s Christmas special was canceled amid
   production changes.…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-14T11:10:08Z'

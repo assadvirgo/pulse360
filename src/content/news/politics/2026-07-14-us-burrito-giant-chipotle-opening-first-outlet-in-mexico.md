@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Other US fast-food brands have struggled to succeed in the countries
   their dishes originated in.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-14T02:42:51Z'

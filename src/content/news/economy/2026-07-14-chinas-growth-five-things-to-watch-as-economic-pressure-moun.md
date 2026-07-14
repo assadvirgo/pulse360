@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Monthly indicators show weakness in retail sales and investment ahead
   of second-quarter figure
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-14T04:31:07Z'

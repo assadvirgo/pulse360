@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: France face Spain for a place in the World Cup final on Tuesday, meaning
   a showdown between Kylian Mbappe and Lamine Yamal. Who comes out on top?
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-07-14T05:13:23Z'

@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Yemen&#039;s Houthis say they struck Saudi Arabia&#039;s Abha airport
   in retaliation for a strike on Sanaa’s international airport
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-14T04:10:13Z'

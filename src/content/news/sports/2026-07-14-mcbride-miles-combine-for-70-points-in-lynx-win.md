@@ -5,7 +5,7 @@ countryCode: US
 description: Minnesota rookie Olivia Miles scored a career-high 33, becoming the first
   WNBA player to reach 400 points, 100 rebounds and 100 assists in only 22 career
   games, and the Lynx…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-14T07:58:18Z'

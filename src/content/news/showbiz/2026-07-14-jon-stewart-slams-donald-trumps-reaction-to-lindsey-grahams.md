@@ -5,7 +5,7 @@ countryCode: US
 description: On Monday night’s episode of “The Daily Show,” Jon Stewart slammed President
   Donald Trump for the reaction he gave to the press following the death of Republican
   Sen. Lindsey…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-14T04:05:45Z'

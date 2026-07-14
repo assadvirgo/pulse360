@@ -5,7 +5,7 @@ countryCode: US
 description: Demis Hassabis thinks the world needs an AI watchdog with the power to
   hit the brakes if frontier models become too dangerous. Writing in a blog post,
   the Google DeepMind CEO and…
-displayOrder: 8
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-14T11:43:29Z'

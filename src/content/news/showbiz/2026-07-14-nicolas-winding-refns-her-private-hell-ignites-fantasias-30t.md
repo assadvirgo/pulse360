@@ -5,7 +5,7 @@ countryCode: CA
 description: They’re back! The annual rampage of genre filmmakers, industry, and fans
   through the cinemas and social hubs of Montreal has begun, as the Fantasia International
   Film Festival…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-14T12:14:57Z'
