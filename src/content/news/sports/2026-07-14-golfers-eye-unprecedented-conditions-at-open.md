@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Golfers raved about the firm, fast conditions Tuesday at Royal Birkdale,
   two days before the start of the Open Championship.
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-14T17:16:09Z'

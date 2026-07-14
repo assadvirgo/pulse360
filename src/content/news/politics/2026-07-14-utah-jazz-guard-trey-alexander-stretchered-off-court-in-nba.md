@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Alexander, who signed a two-way deal with the Jazz last week. was injured
   in game against Chicago Bulls.
-displayOrder: 30
+displayOrder: 45
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-14T10:13:25Z'

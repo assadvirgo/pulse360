@@ -2,7 +2,7 @@
 category: Sports
 description: The ICC is considering changes to the structure of World Cups, semi-finals
   in the World Test Championship and a World Club T20 competition.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-07-14T10:39:17Z'

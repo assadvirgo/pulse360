@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Live coverage and text updates as France play Spain in a semifinal clash
   between the two tournament favourites.
-displayOrder: 14
+displayOrder: 18
 heroImage: ''
 importance: 58.5
 pubDate: '2026-07-14T15:30:58Z'

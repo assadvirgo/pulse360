@@ -5,7 +5,7 @@ countryCode: US
 description: 'With ''Spider-Man: Brand New Day'' and ''Avengers: Doomsday'' coming
   out this year, the Marvel head will be celebrated at the annual Pioneer dinner on
   Sept. 30.'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-14T16:26:51Z'

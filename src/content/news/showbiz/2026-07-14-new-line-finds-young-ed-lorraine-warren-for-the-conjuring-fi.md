@@ -5,7 +5,7 @@ countryCode: US
 description: 'The Conjuring is certainly not over, as New Line has found their new
   Ed and Lorraine Warren in Garrett Wareing and Amanda Fix for the prequel The Conjuring:
   First Communion.…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-14T16:17:16Z'

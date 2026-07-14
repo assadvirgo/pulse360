@@ -5,7 +5,7 @@ countryCode: US
 description: Los Angeles Lakers guard Austin Reaves, fresh off signing the most lucrative
   contract in NBA history for an undrafted player, spoke Monday about his new-look
   franchise, and how it…
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-14T07:58:18Z'

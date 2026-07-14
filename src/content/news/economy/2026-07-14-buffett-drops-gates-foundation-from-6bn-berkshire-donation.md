@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Billionaire chair of conglomerate shifts charity plans after revelations
   about Microsoft founder’s Epstein ties
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-14T12:49:31Z'

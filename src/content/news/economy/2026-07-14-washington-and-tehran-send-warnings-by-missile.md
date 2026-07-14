@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The foes are in their most dangerous period of fighting since a fragile
   April truce. Many of their strikes are designed to send signals
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-14T12:24:20Z'

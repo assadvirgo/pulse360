@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Sonam Wangchuk has been​ fasting in New Delhi since June 28 in solidarity
   with Gen Z-led Cockroach Janta Party.
-displayOrder: 20
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-14T13:44:56Z'
