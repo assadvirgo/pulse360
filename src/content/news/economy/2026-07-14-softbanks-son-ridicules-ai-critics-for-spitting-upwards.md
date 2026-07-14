@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Business leaders unwilling to embrace technology ‘should play the role
   of spouse’, says controversial investor
-displayOrder: 11
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-14T05:09:52Z'

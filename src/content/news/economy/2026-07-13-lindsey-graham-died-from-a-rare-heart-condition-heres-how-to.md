@@ -5,7 +5,7 @@ countryCode: US
 description: Aortic dissections are extremely rare; however, people with a family
   history or who have been diagnosed with certain genetic syndromes have an elevated
   risk
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-13T20:48:00Z'

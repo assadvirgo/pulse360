@@ -2,7 +2,7 @@
 category: Tech
 description: The company is raising at least $75 million, led by Robot Ventures, with
   significant participation from USV and other prominent investors.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-13T23:31:18Z'

@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Fast casual chain Chipotle announced Monday that it is opening its first
   location in Mexico in the Monterrey area.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-13T20:10:01Z'

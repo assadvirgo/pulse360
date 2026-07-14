@@ -5,7 +5,7 @@ countryCode: US
 description: Noise-canceling earbuds are great for flights and focusing, but they're
   not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear
   design lets you enjoy…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-13T20:57:44Z'

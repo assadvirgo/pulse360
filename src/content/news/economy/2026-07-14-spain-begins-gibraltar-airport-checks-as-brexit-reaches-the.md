@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Troubled EU entry system will be turned on from Wednesday, with UK territory
   in effect becoming part of Schengen zone
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-14T04:00:20Z'

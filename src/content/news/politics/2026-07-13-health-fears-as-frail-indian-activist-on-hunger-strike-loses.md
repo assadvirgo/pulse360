@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The environmental activist has been on a hunger strike for 16 days and
   is getting visibly weaker.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-13T22:03:16Z'

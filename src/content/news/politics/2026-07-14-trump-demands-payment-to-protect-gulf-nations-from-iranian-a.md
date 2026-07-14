@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump says the US should be paid by ‘rich’ oil-producing
   Gulf nations to secure the Strait of Hormuz
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-14T01:37:48Z'

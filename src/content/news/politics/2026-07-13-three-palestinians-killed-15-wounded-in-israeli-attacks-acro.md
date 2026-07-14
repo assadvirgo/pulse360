@@ -2,7 +2,7 @@
 category: Politics
 description: Israel shows no sign of letting up its attacks on the devastated Palestinian
   territory, despite a &#039;ceasefire&#039; in place.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-13T23:41:32Z'

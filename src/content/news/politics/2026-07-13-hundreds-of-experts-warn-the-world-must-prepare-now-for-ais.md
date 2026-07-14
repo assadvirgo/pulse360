@@ -2,7 +2,7 @@
 category: Politics
 description: More than 200 economists and AI researchers call on leaders to immediately
   prepare for sweeping economic disruption.
-displayOrder: 23
+displayOrder: 46
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-13T23:54:32Z'

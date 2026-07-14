@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France boss Didier Deschamps is predicting a "spectacular" semi-final
   when his exciting side take on Spain in a heavyweight World Cup showdown in Dallas.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-14T00:10:04Z'

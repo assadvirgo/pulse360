@@ -2,7 +2,7 @@
 category: Economy
 description: The evolution of the technology offers fresh opportunities for hoodwinkers
   and charlatans
-displayOrder: 25
+displayOrder: 44
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-14T04:00:27Z'

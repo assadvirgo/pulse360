@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Roaming systems and ad tech were used to try to locate American personnel
   as Tehran attacked forces in the region
-displayOrder: 26
+displayOrder: 45
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-14T04:00:08Z'

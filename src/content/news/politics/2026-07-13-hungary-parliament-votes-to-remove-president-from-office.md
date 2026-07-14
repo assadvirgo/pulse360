@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor
   Orbán, who lost power in April after 16 years.
-displayOrder: 16
+displayOrder: 43
 heroImage: ''
 importance: 85.2
 pubDate: '2026-07-13T20:39:14Z'
