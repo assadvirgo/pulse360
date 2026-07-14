@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK signs a new services deal with Switzerland it says will increase
   exports by £5.2bn annually "in the long run".
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-13T16:05:13Z'

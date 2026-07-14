@@ -2,7 +2,7 @@
 category: Politics
 description: EU announces sanctions on nine individuals and four entities over alleged
   years-long cyber-espionage campaign.
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-13T13:59:54Z'

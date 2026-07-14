@@ -2,7 +2,7 @@
 category: Politics
 description: Foreign ministers&#039; meeting comes months after the EU imposed sanctions
   on Israel over West Bank settlement construction.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T14:33:14Z'

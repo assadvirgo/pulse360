@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Malcolm Timbrell's wife and their friends are thought to have died when
   a devastating wildfire tore through their village in Spain.
-displayOrder: 14
+displayOrder: 23
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-13T17:31:54Z'

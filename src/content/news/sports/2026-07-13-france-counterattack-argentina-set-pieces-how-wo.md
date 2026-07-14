@@ -5,7 +5,7 @@ countryCode: FR
 description: We're down to the final four of the World Cup, with the four top-ranked
   teams set to square off. Yet all of them use very different attacking styles in
   order to score goals; let's…
-displayOrder: 20
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-13T16:56:11Z'

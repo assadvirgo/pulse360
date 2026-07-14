@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount hit back at an antitrust lawsuit filed Monday by 12 states
   seeking to block the company&#8217;s pending $110 billion acquisition of Warner
   Bros. Discovery. The suit…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-13T17:34:58Z'

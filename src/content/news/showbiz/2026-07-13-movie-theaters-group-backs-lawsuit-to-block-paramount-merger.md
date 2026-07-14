@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The legal challenge to the $111 billion deal argues that the theatrical
   market would be harmed by a reduction in owners of wide-release, high-grossing films.
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-13T20:21:20Z'

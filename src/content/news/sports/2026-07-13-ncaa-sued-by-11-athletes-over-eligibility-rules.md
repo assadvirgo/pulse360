@@ -5,7 +5,7 @@ countryCode: US
 description: Eleven Division I athletes -- all who depleted their eligibility in the
   2025-26 season, have filed a federal class action lawsuit alleging that the NCAA's
   new eligibility rules…
-displayOrder: 21
+displayOrder: 25
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-13T20:45:58Z'

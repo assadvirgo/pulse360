@@ -2,7 +2,7 @@
 category: Politics
 description: FIFA president says during the first World Cup to feature 48 teams that
   it&#039;s under consideration.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-13T11:29:20Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The week is kicking off with fresh spikes for oil prices after President
   Donald Trump reimposed the naval blockage on the Strait of Hormuz.
-displayOrder: 29
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-13T19:43:00Z'

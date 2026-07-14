@@ -5,7 +5,7 @@ countryCode: US
 description: 'Paramount Skydance CEO David Ellison may think the promise of the Paramount
   Warner Bros. Discovery mega-merger is an offer we can’t refuse, but I’m here to
   say: He’s wrong. I am…'
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 62.8
 pubDate: '2026-07-13T18:15:00Z'

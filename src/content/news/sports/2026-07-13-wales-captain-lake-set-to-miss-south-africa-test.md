@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Dewi Lake is set to miss his first game under Steve Tandy when Wales
   face the world champions in the Nations Championship on Saturday.
-displayOrder: 23
+displayOrder: 32
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-13T16:00:17Z'

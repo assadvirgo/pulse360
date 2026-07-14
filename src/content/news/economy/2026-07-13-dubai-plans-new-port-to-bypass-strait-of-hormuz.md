@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Project to build capacity on UAE’s east coast represents a major shift
   after US-Iran war
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-13T13:38:23Z'

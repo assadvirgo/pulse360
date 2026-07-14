@@ -5,7 +5,7 @@ countryCode: GB
 description: A new vaccine to combat a strain of Ebola spreading across the Democratic
   Republic of Congo (DRC) will soon be tested on adults in the UK, under plans announced
   today.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-13T09:10:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A surge in U.S. inflation to a three-year high has begun to recede, but
   life isn’t going to get more affordable for Americans anytime soon.
-displayOrder: 28
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-13T18:13:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The University of Michigan regents are expected to discuss an investigation
   into the culture of its athletic department on Thursday, sources told ESPN, and
   as part of the review,…
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-13T13:41:24Z'
