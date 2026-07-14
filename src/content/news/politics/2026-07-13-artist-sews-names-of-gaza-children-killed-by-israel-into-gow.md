@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Welsh artist Diana Williams stitched the names of 300 babies killed by
   Israel’s genocidal war on Gaza into a gown.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T20:35:50Z'

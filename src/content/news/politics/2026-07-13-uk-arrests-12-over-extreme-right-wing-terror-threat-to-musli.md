@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Arrests come against a backdrop of rising racial tensions and hate crimes
   across Britain.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-13T19:53:02Z'

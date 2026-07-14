@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: A former Spanish prime minister has come under fire for saying France's
   World Cup team had "no French players".
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-13T14:56:00Z'

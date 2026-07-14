@@ -2,7 +2,7 @@
 category: Tech
 description: The biggest smartphone makers keep on trucking in the face of component
   shortages and economic uncertainty.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-13T17:18:25Z'

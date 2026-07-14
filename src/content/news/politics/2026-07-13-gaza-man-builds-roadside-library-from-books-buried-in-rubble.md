@@ -2,7 +2,7 @@
 category: Politics
 description: Bookseller Mohammad Saad lost his son, his home, and his bookstore in
   the aftermath of Israel’s war on Gaza.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T20:26:38Z'

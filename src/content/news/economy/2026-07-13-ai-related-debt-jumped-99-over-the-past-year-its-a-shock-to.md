@@ -2,7 +2,7 @@
 category: Economy
 description: A deluge of hyperscaler debt creates risk that investors will run up
   against concentration limits in their portfolios from a single company or industry.
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-13T19:30:00Z'

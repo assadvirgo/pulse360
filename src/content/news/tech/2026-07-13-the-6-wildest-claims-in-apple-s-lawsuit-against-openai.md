@@ -5,7 +5,7 @@ countryCode: US
 description: 'When Apple employees interviewed for jobs at OpenAI, the AI startup''s
   hardware head allegedly asked them to show up with something unusual: components
   they were working on and…'
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-13T17:00:00Z'

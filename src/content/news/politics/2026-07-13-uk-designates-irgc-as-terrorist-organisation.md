@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK government has designated Iran’s Revolutionary Guard Corps (IRGC)
   as a terrorist organisation under new powers.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T18:57:57Z'

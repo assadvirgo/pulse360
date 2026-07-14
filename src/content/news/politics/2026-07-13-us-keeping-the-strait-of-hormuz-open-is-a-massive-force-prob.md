@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former NATO analyst says Trump&#039;s push for a naval blockade in the
   Strait of Hormuz would mean a huge military operation.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T20:23:27Z'

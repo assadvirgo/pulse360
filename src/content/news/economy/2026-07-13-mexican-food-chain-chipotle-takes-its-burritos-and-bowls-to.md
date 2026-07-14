@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Company expands in international push as domestic sales growth slows
   amid high inflation
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-13T20:10:03Z'

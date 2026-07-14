@@ -5,7 +5,7 @@ countryCode: FR
 description: “Heated Rivalry” star Hudson Williams told off a group of autograph hounds
   who followed him to a private residence in Paris for his signature. The confrontation
   was captured in a…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-13T22:19:29Z'

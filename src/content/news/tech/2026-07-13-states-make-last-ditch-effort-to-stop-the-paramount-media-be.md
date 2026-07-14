@@ -5,7 +5,7 @@ countryCode: US
 description: A dozen state attorneys general are trying to block the $110 billion
   merger of Paramount and Warner Bros Discovery they warn would raise movie prices
   and crush cable TV…
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-13T18:35:48Z'

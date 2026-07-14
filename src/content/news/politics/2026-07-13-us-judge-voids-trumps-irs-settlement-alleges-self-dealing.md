@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Judge rules that US president, Department of Justice misused courts in
   settlement that led to &#039;anti-weaponization&#039; fund.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-13T19:09:46Z'

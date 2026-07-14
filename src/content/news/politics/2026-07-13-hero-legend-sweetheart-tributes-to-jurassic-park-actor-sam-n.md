@@ -2,7 +2,7 @@
 category: Politics
 description: Friends, politicians and fellow film stars remember Neill following his
   "sudden and unexpected" death.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-13T11:52:55Z'
