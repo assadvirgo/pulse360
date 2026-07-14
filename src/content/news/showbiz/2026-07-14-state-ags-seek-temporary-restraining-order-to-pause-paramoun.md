@@ -5,7 +5,7 @@ countryCode: US
 description: State attorneys general are now seeking a temporary restraining order
   and preliminary injunction to pause Paramount&#8217;s proposed merger with Warner
   Bros. Discovery, warning…
-displayOrder: 3
+displayOrder: 13
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-14T03:08:13Z'

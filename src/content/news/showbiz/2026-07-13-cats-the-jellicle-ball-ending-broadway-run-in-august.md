@@ -5,7 +5,7 @@ countryCode: US
 description: 'Rave reviews, decent ticket sales and some Tony Awards love aren&#8217;t
   enough to keep &#8220;Cats: The Jellicle Ball&#8221; from ending its Broadway run
   early. The musical…'
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-13T22:34:59Z'

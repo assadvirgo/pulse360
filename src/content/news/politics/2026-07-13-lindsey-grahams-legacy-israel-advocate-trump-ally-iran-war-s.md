@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Late US senator backed invasion of Iraq, war on Iran and approach of
   &#039;more for Israel&#039; as he became a Trump confidant.
-displayOrder: 9
+displayOrder: 27
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-13T21:04:56Z'

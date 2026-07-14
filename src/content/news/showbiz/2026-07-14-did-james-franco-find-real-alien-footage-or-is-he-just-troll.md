@@ -5,7 +5,7 @@ countryCode: US
 description: 'The actor has been posting cryptic videos on TikTok since the beginning
   of June, teasing footage he claimed to have of an extraterrestrial encounter: "I
   need to get this out for…'
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-14T04:07:50Z'

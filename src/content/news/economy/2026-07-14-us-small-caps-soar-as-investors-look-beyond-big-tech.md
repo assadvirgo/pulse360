@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Russell 2000 on course for best year since 2003, helped by AI spending,
   tax changes and low valuations
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-14T04:00:20Z'

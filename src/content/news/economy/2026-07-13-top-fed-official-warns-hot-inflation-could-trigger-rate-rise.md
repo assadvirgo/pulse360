@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Christopher Waller says a further elevated reading may prompt central
   bank to tighten policy
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T17:23:38Z'

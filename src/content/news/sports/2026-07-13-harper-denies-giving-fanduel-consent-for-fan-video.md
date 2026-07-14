@@ -5,7 +5,7 @@ countryCode: US
 description: Phillies star Bryce Harper said Monday that he did not know how FanDuel
   would use a personalized video he made for a customer, who has since accused the
   sportsbook in a lawsuit of…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-13T20:45:58Z'

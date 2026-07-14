@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: It comes less than a week after an undocumented migrant was fatally shot
   in Houston by an immigration agent.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-14T01:50:48Z'

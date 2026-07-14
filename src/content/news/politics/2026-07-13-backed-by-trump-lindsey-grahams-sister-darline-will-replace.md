@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: South Carolina governor chooses Darline Graham Nordone to serve the rest
   of the late US senator&#039;s term until early 2027.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-13T22:33:08Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Siri has been on the Apple Watch since day one, though I'm usually hard-pressed
   to find people who actually make good use of it. It's kind of just… been there -
   mostly as a way to…
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-13T20:44:20Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Tougher vetting in Singapore, Malaysia and Japan reflects Washington’s
   push to close export-control loopholes
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-14T03:25:04Z'
