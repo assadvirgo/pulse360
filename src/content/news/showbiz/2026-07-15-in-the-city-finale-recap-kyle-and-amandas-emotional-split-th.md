@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Hollywood Reporter breaks down the biggest moments from the season
   one ending of Bravo's 'Summer House' spinoff.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-15T02:34:28Z'

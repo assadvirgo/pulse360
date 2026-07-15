@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The World Cup has ignited debate in the UK over wearing or displaying
   the England flag.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-14T21:08:42Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: If you’ve been waiting to try Apple’s revamped Siri without installing
   a developer beta, you now can. The company on Tuesday released the iOS 27 public
   beta, giving iPhone owners…
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-14T19:42:27Z'

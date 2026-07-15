@@ -2,7 +2,7 @@
 category: Politics
 description: Israel&#039;s grip on the occupied West Bank tightens through outposts,
   demolitions, and army-backed settler raids.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-14T21:05:39Z'

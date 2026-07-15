@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Control of the waterway has become a key point of contention between
   the US and Iran, as a ceasefire deal falters.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-14T19:13:49Z'

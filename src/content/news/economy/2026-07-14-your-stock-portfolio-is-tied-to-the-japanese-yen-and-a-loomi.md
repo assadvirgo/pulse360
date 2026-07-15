@@ -3,7 +3,7 @@ category: Economy
 country: Japan
 countryCode: JP
 description: What the link between the yen and U.S. stocks means for your portfolio.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-14T20:56:00Z'

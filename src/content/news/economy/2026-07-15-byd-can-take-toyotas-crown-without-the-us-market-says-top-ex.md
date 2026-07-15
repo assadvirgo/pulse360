@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: International operations chief at Chinese auto group signals European
   expansion will intensify
-displayOrder: 39
+displayOrder: 46
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-15T04:00:11Z'

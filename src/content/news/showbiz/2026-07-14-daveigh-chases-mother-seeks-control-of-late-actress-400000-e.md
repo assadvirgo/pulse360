@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The actress, who voiced Lilo in the Disney hit 'Lilo &#38; Stitch,' died
   in June of AIDS-related complications after years of homelessness and addiction.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-14T22:17:44Z'

@@ -5,7 +5,7 @@ countryCode: NZ
 description: Sam Neill had been steadily working in the movies for nearly two decades
   before he became, at the age of 45, a star in the industry’s eyes. A sturdy, reliable
   everyman who…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-14T23:58:18Z'

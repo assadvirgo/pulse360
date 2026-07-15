@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Mobilisation of fighters and attacks signal the collapse of Yemen&#039;s
   fragile peace, with regional implications looming.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-14T20:17:56Z'
