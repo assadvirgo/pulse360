@@ -5,7 +5,7 @@ countryCode: US
 description: X's head of product, Nikita Bier, admitted in a post on Monday that X's
   algorithm was "missing" data about surfacing posts from people who you've followed
   back. Now, he says a…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-14T15:20:21Z'

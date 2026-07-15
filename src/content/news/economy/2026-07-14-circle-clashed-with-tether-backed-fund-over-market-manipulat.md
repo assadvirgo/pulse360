@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New filings detail long-running legal battle between Heka Funds and the
   $73bn stablecoin group
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-14T23:36:54Z'

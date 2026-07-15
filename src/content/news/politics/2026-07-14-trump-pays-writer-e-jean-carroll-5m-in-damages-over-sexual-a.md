@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president had sought to delay the payment as he tried to persuade
   the Supreme Court to overturn the judgement.
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-14T17:07:42Z'

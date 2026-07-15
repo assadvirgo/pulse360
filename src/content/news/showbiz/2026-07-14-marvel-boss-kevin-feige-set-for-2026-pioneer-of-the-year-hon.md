@@ -5,7 +5,7 @@ countryCode: US
 description: Score one for Marvel&#8217;s real superhero. The Will Rogers Motion Picture
   Pioneers Foundation said Tuesday that longtime Marvel Studios President and Chief
   Creative Officer…
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-14T22:59:48Z'

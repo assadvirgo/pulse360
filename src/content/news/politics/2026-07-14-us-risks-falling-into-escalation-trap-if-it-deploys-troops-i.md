@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Analyst Alex Alfirraz Scheers says the US risks falling into an escalation
   trap if it launches a ground assault in Iran.
-displayOrder: 33
+displayOrder: 45
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-14T18:32:40Z'

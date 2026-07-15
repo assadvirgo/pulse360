@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI's first device is set to be a smart speaker that lets you talk
   with ChatGPT, according to a report from Bloomberg. The device apparently won't
   have a screen, but will use a…
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-14T21:26:32Z'

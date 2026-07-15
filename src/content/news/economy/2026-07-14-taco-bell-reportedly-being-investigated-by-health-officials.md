@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Shares of Taco Bell parent Yum Brands were down nearly 4% on Tuesday.
-displayOrder: 45
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-14T21:09:00Z'

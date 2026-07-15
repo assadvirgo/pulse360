@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The report said Lucid was considering options that could include going
   private or filing for bankruptcy protection.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-14T20:04:23Z'

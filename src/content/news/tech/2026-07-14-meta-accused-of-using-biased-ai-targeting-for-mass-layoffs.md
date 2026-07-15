@@ -5,7 +5,7 @@ countryCode: US
 description: A group of 26 former Meta employees is suing the company over claims
   that it used AI tools to unfairly target workers on leave with layoffs, as reported
   earlier by Reuters. In the…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-14T17:18:11Z'

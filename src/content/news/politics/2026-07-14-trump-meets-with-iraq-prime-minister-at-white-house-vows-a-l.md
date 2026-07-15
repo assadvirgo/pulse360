@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iraqi prime minister says relations with US shifting from militaristic
   to economic, vows disarmament of factions.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-14T17:31:25Z'

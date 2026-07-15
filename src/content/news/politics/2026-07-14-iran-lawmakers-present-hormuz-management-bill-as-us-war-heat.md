@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Hardline MPs table plan that aims to formalise control over the strait
   and undermine any negotiations.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-14T13:30:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Agency seeks to repurpose foreign aid funds to help organisations that
   support Trump administration policies
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-14T19:47:42Z'

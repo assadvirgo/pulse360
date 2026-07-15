@@ -5,7 +5,7 @@ countryCode: US
 description: The Writers Guild of America West and Writers Guild of America East filed
   a lawsuit seeking to block Paramount Skydance&#8217;s proposed $111 billion takeover
   of Warner Bros.…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-14T19:48:24Z'

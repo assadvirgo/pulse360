@@ -2,7 +2,7 @@
 category: Sports
 description: Fifa announce American referee Ismail Elfath will take charge of England's
   World Cup semi-final against Argentina.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-14T15:32:11Z'

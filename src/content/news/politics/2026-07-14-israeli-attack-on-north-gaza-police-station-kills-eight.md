@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Gaza&#039;s interior ministry denounces &#039;horrific massacre&#039;
   that killed station chief, other police personnel and a civilian.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-14T16:02:54Z'

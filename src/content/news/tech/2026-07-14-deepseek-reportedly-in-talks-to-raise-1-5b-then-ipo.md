@@ -5,7 +5,7 @@ countryCode: CN
 description: DeepSeek, the Chinese large language model developer, is said to be preparing
   for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds
   at a $71 billion…
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-14T16:45:23Z'

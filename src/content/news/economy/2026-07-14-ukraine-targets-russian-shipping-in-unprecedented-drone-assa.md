@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Over the past week, Kyiv has struck vessels in the Sea of Azov at a faster
   pace than during the 1980s Iran-Iraq tanker wars
-displayOrder: 24
+displayOrder: 47
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-14T14:43:45Z'

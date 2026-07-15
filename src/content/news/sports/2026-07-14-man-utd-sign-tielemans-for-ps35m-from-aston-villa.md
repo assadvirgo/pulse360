@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United complete the signing of Youri Tielemans from Aston
   Villa on a five-year deal.
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-14T18:45:08Z'
