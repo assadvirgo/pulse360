@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Cofounded by senior entrepreneur Shai Morag, Israeli identity management
   startup Oak is emerging out of stealth with $60 million in seed funding.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-15T11:00:00Z'

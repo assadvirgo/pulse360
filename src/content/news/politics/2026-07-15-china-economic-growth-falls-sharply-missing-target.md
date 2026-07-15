@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Weak demand domestically and the impact of the Iran war on oil prices
   overshadowed the country's strong exports.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-15T05:12:55Z'

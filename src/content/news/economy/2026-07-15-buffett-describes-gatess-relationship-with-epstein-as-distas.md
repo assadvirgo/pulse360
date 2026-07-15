@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Billionaire Berkshire chair says he could ‘picture’ himself making a
   similar mistake in choosing associates
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-15T11:33:10Z'

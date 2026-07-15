@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The outbreak of cyclosporiasis, which causes diarrhea, has sickened about
   6,700 people since May.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-15T12:07:00Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The crash killed 260 people, including 241 on board, with only one passenger
   surviving.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-15T09:45:21Z'

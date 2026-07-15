@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Health workers in Democratic Republic of the Congo&#039;s Ituri province
   strike over unpaid wages as death toll rises to 754.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-15T12:07:43Z'

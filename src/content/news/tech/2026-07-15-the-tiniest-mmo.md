@@ -3,7 +3,7 @@ category: Tech
 description: At its peak, around 12 million people subscribed to World of Warcraft
   so that they could explore the realm of Azeroth together. The audience for PointlessQuest
   is quite a bit…
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-15T13:00:00Z'

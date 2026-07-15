@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI is finally releasing some hardware. No, it isn't the mysterious
   AI-powered device the company is developing with former Apple designer Jony Ive,
   a project already tangled…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-15T16:00:00Z'

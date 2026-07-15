@@ -5,7 +5,7 @@ countryCode: US
 description: Jurnee Smollett (Lovecraft Country, Smoke) will join the company of The
   Whoopi Monologues, the Off Broadway reimagining of Whoopi Goldberg’s groundbreaking
   solo show, beginning…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-15T15:02:31Z'

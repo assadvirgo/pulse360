@@ -5,7 +5,7 @@ countryCode: IN
 description: Indian actor-turned-politician Vijay&#8217;s long-delayed cinematic swan
   song &#8220;Jana Nayagan&#8221; will open in theaters worldwide on July 23, KVN
   Productions has revealed.…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-07-15T12:11:10Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s relentless Gaza attacks aim to sabotage the &#039;ceasefire&#039;
   and ensure perpetual chaos, analysts warn.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-15T11:36:32Z'

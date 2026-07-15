@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: The court acknowledged the need for a broader national debate on cannabis
   policy in Kenya.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-15T10:50:09Z'

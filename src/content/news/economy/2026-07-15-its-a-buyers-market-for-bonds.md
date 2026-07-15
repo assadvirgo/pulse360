@@ -2,7 +2,7 @@
 category: Economy
 description: Bonds are out of fashion with big investors — which makes them an interesting
   investment opportunity for the rest of us.
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-15T16:16:00Z'

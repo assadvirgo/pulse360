@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wage growth in June outpaced inflation, after falling behind during April
   and May.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-15T14:29:00Z'

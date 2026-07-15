@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: The world is getting older. Here’s how that’s going to change things.
-displayOrder: 34
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-15T15:57:00Z'

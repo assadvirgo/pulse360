@@ -5,7 +5,7 @@ countryCode: US
 description: Building on the success of last year's award-winning, pored-over plastic
   surgery edition, the A-List Aesthetics online-only issue includes THR's list of
   the top cosmetic surgeons…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-15T16:26:17Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Under proposed reforms, political appointees will review grants to ensure
   they “advance the President’s priorities”
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-15T04:00:30Z'

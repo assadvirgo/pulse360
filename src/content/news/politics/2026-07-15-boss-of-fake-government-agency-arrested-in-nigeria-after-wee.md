@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The case has gripped Nigeria since President Bola Tinubu ordered a corruption
   investigation last week.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-15T09:42:09Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran attacked Kuwait, Bahrain, and Jordan on Tuesday night, claiming
   to destroy the US Fifth Fleet’s command centre.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-15T09:15:56Z'

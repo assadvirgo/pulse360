@@ -2,7 +2,7 @@
 category: Politics
 description: Spain and Gibraltar are celebrating the removal of a border checkpoint
   following a historic treaty between the EU and the UK.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-15T09:53:00Z'

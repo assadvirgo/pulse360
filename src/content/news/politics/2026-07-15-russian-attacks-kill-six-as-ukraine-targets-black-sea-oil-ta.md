@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Overnight Russia attacked sites in Odesa and Sumy, while Ukraine attacked
   20 Russian vessels in the Black Sea.
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-15T12:19:30Z'
