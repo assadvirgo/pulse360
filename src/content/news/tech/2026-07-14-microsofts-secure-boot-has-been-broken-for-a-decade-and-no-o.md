@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Old and forgotten "shims" Microsoft failed to revoke have made Secure
   Boot bypasses simple.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-14T22:20:48Z'

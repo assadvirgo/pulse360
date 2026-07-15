@@ -5,7 +5,7 @@ countryCode: GB
 description: Plans have been unveiled for a first-of-its-kind overnight social media
   curfew for older teens in the UK. The news follows the full ban for under 16s that
   was announced last…
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-15T07:55:42Z'

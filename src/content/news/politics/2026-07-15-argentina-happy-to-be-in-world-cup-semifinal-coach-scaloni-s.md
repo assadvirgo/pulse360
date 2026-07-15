@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina are &#039;in good shape&#039; and have no concerns over fatigue
   as the world champions look to book another final.
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-15T02:45:05Z'

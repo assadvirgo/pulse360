@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Gamble on resuming hostilities raises prospect that conflict will overshadow
   president’s second term
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-15T02:32:01Z'

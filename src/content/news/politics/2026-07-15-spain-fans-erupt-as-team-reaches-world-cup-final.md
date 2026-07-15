@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Fans erupted in celebration after Spain beat France 2-0 in the semifinals,
   securing their place in the 2026 Finals
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-15T00:14:35Z'

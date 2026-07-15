@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Takeover bid 10 years ago sped up efforts to expand civilian oversight,
   experts say, reducing chances of another coup.
-displayOrder: 11
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-15T06:29:20Z'

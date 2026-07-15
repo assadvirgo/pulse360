@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: Chinese group capitalises on boom in demand for AI memory chips
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-15T04:55:25Z'

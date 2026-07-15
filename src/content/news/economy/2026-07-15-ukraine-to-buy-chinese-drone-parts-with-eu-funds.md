@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Brussels allows Kyiv to use part of €6bn tranche for items in short supply
   in Europe
-displayOrder: 24
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-15T04:00:10Z'

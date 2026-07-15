@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Second-quarter figure falls below annual target range as monthly indicators
   highlight economic pressures
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-15T04:08:23Z'

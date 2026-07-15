@@ -5,7 +5,7 @@ countryCode: TH
 description: SCRIPT SUPPORT The Motion Picture Association and the Asia Pacific Screen
   Awards (APSA) have opened the 2026 MPA APSA Academy Film Fund, offering five $10,000
   script development…
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-15T07:50:04Z'

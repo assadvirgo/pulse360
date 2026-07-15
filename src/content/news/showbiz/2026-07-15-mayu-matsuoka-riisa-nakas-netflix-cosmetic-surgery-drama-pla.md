@@ -5,7 +5,7 @@ countryCode: JP
 description: '&#8220;Plastic Beauty,&#8221; Netflix&#8217;s upcoming Japanese drama
   set inside the country&#8217;s fast-growing cosmetic surgery industry, will premiere
   Sept. 17, the streamer…'
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-15T02:30:00Z'

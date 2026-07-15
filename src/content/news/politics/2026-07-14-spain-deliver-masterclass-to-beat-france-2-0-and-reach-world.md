@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: European champions Spain beat France with controlled display to book
   final against Argentina or England.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-14T21:39:16Z'

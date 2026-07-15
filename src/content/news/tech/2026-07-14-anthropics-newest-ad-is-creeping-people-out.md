@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic has consistently attempted to depict itself as the ethical
   foil to other AI companies. This latest marketing stunt — which leans into criticism
   of AI as a way to make…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-14T19:41:27Z'

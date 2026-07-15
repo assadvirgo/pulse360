@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Larry Ellison’s group proposes ‘air-gapped’ network as US pressures Tokyo
   to tighten security of sensitive data
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-15T04:00:30Z'

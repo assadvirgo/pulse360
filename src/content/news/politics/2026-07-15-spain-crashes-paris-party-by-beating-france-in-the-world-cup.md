@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Dreams of reaching the World Cup final for a third time running were
   dashed when France were beaten 2-0 by Spain.
-displayOrder: 9
+displayOrder: 27
 heroImage: ''
 importance: 71.5
 pubDate: '2026-07-15T02:00:03Z'

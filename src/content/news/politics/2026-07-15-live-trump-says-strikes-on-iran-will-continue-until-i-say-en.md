@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran&#039;s bridges, power plants possible targets, Trump said as IRGC
   says it attacked US forces in Kuwait, Bahrain, Jordan.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-15T00:00:15Z'

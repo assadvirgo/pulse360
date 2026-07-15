@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Juventus are considering a move for AS Monaco and USMNT striker Folarin
   Balogun. Transfer Talk has the latest.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-15T09:10:25Z'
