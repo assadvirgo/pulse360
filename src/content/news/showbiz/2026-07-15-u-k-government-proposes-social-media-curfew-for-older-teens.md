@@ -5,7 +5,7 @@ countryCode: GB
 description: The U.K. government has proposed a social media curfew for older teenagers
   alongside its pending ban for those under 16. According to the BBC, 16 and 17-year-olds
   could face apps…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-15T09:00:45Z'

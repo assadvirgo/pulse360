@@ -5,7 +5,7 @@ countryCode: US
 description: PayPal, the struggling payments processor, rallied in premarket trade
   on Wednesday on a report that rival Stripe is teaming up with private-equity group
   Advent International on a…
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-15T08:34:00Z'

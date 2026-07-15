@@ -5,7 +5,7 @@ countryCode: KR
 description: Samsung has unveiled a new flexible display technology for foldable phones
   that's designed to be slimmer, more durable, and less prone to creasing. The Flex
   Titanium tech is the…
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-15T10:19:36Z'

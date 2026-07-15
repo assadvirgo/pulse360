@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After surging in May, the space sector has tumbled as investors are feeling
   an “investment coma” in the wake of the record-breaking SpaceX IPO.
-displayOrder: 33
+displayOrder: 43
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-15T11:58:00Z'

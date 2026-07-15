@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Guillem Balague examines how the Argentina squad is built around Lionel
   Messi as they prepare to play against England in the World Cup semi-finals.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-15T05:02:40Z'

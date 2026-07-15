@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The late senator&#039;s sister, the politically inexperienced Darline
   Graham Nordone, has inherited his office and powers.
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-15T11:39:48Z'

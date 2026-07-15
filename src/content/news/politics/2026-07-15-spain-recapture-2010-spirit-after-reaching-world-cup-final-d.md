@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: After a masterclass against France in the semifinals, Spain are just
   one win from winning their second World Cup.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-15T07:01:10Z'

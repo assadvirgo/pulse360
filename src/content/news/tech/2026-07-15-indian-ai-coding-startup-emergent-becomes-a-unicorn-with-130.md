@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The startup has reached a $120 million annualized revenue run rate and
   more than 200,000 paying customers.
-displayOrder: 3
+displayOrder: 20
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-15T12:00:00Z'

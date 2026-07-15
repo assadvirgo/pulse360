@@ -5,7 +5,7 @@ countryCode: AU
 description: The upcoming third season of beloved Australian comedy Colin From Accounts
   will be last, the show&#8217;s stars have confirmed. Harriet Dyer and Patrick Brammall,
   who play a…
-displayOrder: 1
+displayOrder: 18
 heroImage: ''
 importance: 70.0
 pubDate: '2026-07-15T08:09:43Z'

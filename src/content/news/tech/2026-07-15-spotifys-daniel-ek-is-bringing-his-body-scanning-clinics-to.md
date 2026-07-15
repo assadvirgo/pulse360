@@ -5,7 +5,7 @@ countryCode: US
 description: Spotify founder Daniel Ek's body-scanning startup, Neko Health, is setting
   its sights on the United States after raising $700 million from a star-studded group
   of celebrities,…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-15T10:13:47Z'

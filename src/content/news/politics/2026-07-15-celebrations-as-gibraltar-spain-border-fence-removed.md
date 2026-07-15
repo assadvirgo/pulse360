@@ -2,7 +2,7 @@
 category: Politics
 description: The symbolic midnight ceremony was followed by large crowds crossing
   between Gibraltar and Spain without border checks.
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-15T10:19:34Z'

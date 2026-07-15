@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Less than a month after signing an MoU as a step towards peace, the US
   reinstates a naval blockade on Iranian ports.
-displayOrder: 6
+displayOrder: 26
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-15T08:44:38Z'

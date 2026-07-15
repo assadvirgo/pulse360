@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Second-quarter GDP figure falls below annual target range as economic
   pressure mounts
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-15T05:53:35Z'
