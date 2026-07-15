@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Reflection AI has signed a $1 billion deal to access Nebius' compute.
   Reflection was founded in 2024 and is developing open source AI technology.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-14T14:37:48Z'

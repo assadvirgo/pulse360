@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President says he will ‘replace’ plan with investment from Gulf states
   into the US
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-14T16:20:34Z'

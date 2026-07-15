@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Paramount is still planning for its acquisition of Warner Bros. Discovery
   to close by late September despite lawsuit challenge from state attorneys general.
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-14T15:36:24Z'

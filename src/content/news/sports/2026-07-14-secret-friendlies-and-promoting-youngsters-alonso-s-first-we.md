@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Chelsea's entire pre-season is already mapped out by new boss Xabi Alonso,
   keen to make an early impact on his players before the season begins.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-14T17:44:27Z'

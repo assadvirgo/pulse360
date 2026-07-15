@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Renewed conflict and tensions in the Strait of Hormuz have slowed fertiliser
   shipments, worsening hunger in Sudan.
-displayOrder: 8
+displayOrder: 12
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-14T17:22:58Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The labor union representing film and television writers alleges that
   the deal breaks antitrust law and would harm wages and working conditions for writers.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-14T19:50:31Z'

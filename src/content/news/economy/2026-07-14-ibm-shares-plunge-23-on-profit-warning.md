@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Company blames sluggish customer spending on AI infrastructure as tech
   group signals it will miss market expectations
-displayOrder: 35
+displayOrder: 50
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-14T11:57:30Z'

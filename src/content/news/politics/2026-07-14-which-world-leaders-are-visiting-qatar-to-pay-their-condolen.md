@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Sheikh Hamad, who ruled the country from 1995 to 2013 and revolutionised
   modern-day Qatar, died on Thursday aged 74.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-14T13:32:14Z'

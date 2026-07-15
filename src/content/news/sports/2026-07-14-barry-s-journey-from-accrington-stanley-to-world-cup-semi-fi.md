@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: His playing career peaked at Accrington Stanley - now Anthony Barry is
   Thomas Tuchel's right-hand man in England's bid for World Cup glory.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-14T11:35:08Z'

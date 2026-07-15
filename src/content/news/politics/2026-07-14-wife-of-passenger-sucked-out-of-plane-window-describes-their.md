@@ -5,7 +5,7 @@ countryCode: IE
 description: A woman whose husband was partially sucked out of the window during a
   Ryanair flight has described how half of his body was left sticking out of the plane
   for "up to two minutes".
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-14T12:34:00Z'

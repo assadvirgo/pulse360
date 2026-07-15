@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tesla and SpaceX may be winners in the next evolution of value investing,
   says the president and chief investment officer of Tsai Capital, Christopher Tsai.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-14T11:52:00Z'

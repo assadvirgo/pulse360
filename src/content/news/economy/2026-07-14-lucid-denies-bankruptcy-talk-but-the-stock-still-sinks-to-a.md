@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: EV maker’s stock down more than 50% intraday, then pares the bulk of
   those losses after Lucid says ‘the rumors are completely false’
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-14T20:21:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A group of 12 Democratic state attorneys general is suing to block Paramount
   Skydance&#8217;s merger with Warner Bros. Discovery &#8212; arguing the transaction
   violates antitrust…
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-14T20:23:00Z'

@@ -5,7 +5,7 @@ countryCode: BG
 description: Ivan Savov and Tanya Shahova play a couple who get fleeced out of gains
   they accrued by soliciting bribes in Kristina Grozeva and Petar Valchanov's Karlovy
   Vary entry.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-14T18:39:09Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump welcomed Iraqi Prime Minister Ali al-Zaidi
   to the White House.
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 70.5
 pubDate: '2026-07-14T19:43:26Z'

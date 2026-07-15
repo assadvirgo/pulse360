@@ -2,7 +2,7 @@
 category: Economy
 description: Stocks and bonds hit by higher oil price as fears rise over renewed inflation
   shock
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-14T11:54:34Z'
