@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Neill died in Sydney on Monday, with his family saying his death was
   'sudden and unexpected'.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-16T04:28:22Z'

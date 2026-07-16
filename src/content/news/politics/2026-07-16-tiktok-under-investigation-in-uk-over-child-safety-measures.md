@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ofcom has launched an investigation into whether TikTok is failing to
   protect children from harmful content.
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-16T05:41:00Z'

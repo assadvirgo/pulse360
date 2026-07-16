@@ -5,7 +5,7 @@ countryCode: US
 description: Team Ellison could choose to fan political divisions (a risky move),
   it could cut a deal with the state AGs or even renegotiate the terms of its $111
   billion acquisition.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-16T12:05:00Z'

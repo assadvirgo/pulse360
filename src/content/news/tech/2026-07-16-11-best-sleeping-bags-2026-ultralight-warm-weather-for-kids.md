@@ -2,7 +2,7 @@
 category: Tech
 description: Whether you’re climbing peaks or taking the family to the local park,
   we’ve found the best sleeping bags for every temperature, budget, and camping expedition.
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-16T12:06:00Z'

@@ -3,7 +3,7 @@ category: Tech
 description: Google must give rival AI assistants and search engines greater access
   to key parts of Android and Google Search after the European Union ordered the company
   to comply with the…
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-16T12:06:51Z'

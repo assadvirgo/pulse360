@@ -2,7 +2,7 @@
 category: Politics
 description: Developed nations are cutting climate funding, but developing countries
   still need billions to adapt.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-16T10:39:45Z'

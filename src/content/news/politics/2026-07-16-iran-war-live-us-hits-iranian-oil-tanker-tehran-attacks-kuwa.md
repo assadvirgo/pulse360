@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar,
   as Bahrain and Kuwait sound air raid sirens.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-16T00:00:48Z'

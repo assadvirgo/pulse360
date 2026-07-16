@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: It's feared more than 500 people have died after reports that two boats
   carrying persecuted Rohingya refugees capsized in the Bay of Bengal.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-16T08:25:00Z'

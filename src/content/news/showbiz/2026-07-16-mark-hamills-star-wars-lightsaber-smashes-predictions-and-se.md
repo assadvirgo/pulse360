@@ -5,7 +5,7 @@ countryCode: US
 description: Heritage Auctions confirmed that the original screen-used Luke Skywalker
   lightsaber sold for a whopping $3.75 million, setting a new world auction record
   for a screen-used ‘Star…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-16T09:09:10Z'

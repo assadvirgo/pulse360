@@ -3,7 +3,7 @@ category: Economy
 country: Ukraine
 countryCode: UA
 description: Deputy air force commander resigns as president faces backlash over decision
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-16T07:58:52Z'
