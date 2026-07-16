@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: The Falkland Islands have been at the heart of a long-running dispute
   between the United Kingdom and Argentina.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-16T13:17:48Z'

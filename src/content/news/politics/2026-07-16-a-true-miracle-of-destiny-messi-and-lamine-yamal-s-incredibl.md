@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: BBC Sport explores a bond between two world-class footballers from different
   generations who appear bound by destiny
-displayOrder: 5
+displayOrder: 27
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-16T12:52:08Z'

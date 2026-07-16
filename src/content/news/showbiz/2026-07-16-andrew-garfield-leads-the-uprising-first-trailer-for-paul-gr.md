@@ -5,7 +5,7 @@ countryCode: GB
 description: Focus Features has unveiled the first trailer for&#160;The Uprising,
   its new drama on the English Peasants&#8217; Revolt of 1381, directed by Paul Greengrass
   and starring Andrew…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-16T15:28:12Z'

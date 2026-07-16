@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Both sides face pressure points that could make a protracted war painful.
-displayOrder: 2
+displayOrder: 15
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-16T14:13:10Z'

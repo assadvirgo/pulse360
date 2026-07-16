@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: A slowing economy and rising prices are making it harder for young Chinese
   to thrive in the city.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-16T08:10:20Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: From Viking memes and influencer superstars to FIFA fiascos and America's
   spectacular own goal, here's who really came out on top, and who was left licking
   their wounds.
-displayOrder: 7
+displayOrder: 25
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-16T15:00:00Z'

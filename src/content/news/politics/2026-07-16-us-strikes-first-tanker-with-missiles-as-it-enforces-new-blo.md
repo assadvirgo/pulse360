@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US military targeted an unladen oil tanker which it said was heading
   for the key Iranian oil terminal on Kharg island.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-16T12:09:26Z'

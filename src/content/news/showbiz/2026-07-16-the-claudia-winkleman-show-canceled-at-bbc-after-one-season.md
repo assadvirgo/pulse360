@@ -5,7 +5,7 @@ countryCode: GB
 description: “The Claudia Winkleman Show” is officially being canceled after one season.
   Variety understands it was host Claudia Winkleman&#8217;s decision not to return.
   &#8220;I&#8217;m…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-16T12:25:23Z'

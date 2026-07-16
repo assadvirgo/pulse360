@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Kimi K3 expected to exceed performance of Claude Opus 4.8 in sign of
   narrowing gap between US and China on frontier AI
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-16T09:51:11Z'

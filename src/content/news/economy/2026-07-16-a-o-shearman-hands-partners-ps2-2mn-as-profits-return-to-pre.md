@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Pay rise following 2024 tie-up indicates law firm has found its feet
   after senior lawyers axed during tumultuous period
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-16T12:00:08Z'

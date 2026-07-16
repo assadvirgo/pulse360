@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: GE Aerospace’s stock falls after earnings, again, with recently rapid
   order-book growth slowing.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-16T12:07:00Z'

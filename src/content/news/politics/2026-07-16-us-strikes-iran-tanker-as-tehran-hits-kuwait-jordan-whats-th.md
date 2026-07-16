@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Strikes have hit closer to Tehran for the first time since the latest
   wave of attacks started.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-16T08:23:40Z'

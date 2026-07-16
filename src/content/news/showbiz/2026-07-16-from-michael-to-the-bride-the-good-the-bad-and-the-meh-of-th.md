@@ -3,7 +3,7 @@ category: Showbiz
 description: The box office finally feels like its old self again. Years after the
   pandemic brought the film industry to its knees, moviegoing is back thanks to sleeper
   hits like “Obsession”…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-07-16T15:45:00Z'

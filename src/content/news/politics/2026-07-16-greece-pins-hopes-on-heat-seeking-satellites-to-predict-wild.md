@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: The country, which suffers each summer, builds an arsenal of high-tech
   surveillance to help pre-position firefighters.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-16T08:21:40Z'
