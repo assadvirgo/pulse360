@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: President Masoud Pezeshkian vowed Iran will defend every inch of its
   territory, saying attempts to tear the country apar
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-15T20:34:39Z'

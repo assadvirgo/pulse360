@@ -5,7 +5,7 @@ countryCode: GB
 description: UK regulator Ofcom is investigating TikTok after raising &#8220;serious
   doubts&#8221; about the effectiveness of its ability to identify when a person is
   under 18. On the same day…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-16T08:00:11Z'

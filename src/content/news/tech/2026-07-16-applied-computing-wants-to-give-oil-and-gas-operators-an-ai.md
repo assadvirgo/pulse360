@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Applied Computing has raised a $20M Series A to build a foundation AI
   model for the oil, gas and petrochemical industry.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-16T04:00:00Z'

@@ -5,7 +5,7 @@ countryCode: IE
 description: The busy Irish actor was at the Karlovy Vary International Film Festival
   and made time to discuss his recent and upcoming work in film and TV, as well as
   Ireland's production boom.
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-16T07:30:00Z'

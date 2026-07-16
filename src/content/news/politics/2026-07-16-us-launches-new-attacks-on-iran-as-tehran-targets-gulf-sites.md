@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran&#039;s Health Ministry has said at least 35 people have been killed
   and more than 300 injured since fighting resumed.
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-16T08:18:23Z'

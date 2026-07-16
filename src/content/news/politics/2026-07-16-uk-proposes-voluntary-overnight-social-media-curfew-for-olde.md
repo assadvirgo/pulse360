@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Latest government measure aimed at curbing digital harm comes after under-16
   social media ban announced last month.
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-16T04:57:34Z'

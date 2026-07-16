@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Military clashes over control of Strait of Hormuz threaten global oil
   supplies
-displayOrder: 36
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-16T01:10:14Z'

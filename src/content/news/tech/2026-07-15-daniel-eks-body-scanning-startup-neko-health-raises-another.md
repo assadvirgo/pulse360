@@ -4,7 +4,7 @@ country: Sweden
 countryCode: SE
 description: Neko Health has developed proprietary body-scanning technology, which
   it couples with bloodwork, to assess a person's health.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-15T19:46:54Z'

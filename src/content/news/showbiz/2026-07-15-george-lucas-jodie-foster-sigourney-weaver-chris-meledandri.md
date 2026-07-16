@@ -5,7 +5,7 @@ countryCode: FR
 description: Cue the &#8220;Victory March&#8221; theme from Star Wars. Earlier today,
   George Lucas, Jodie Foster, Sigourney Weaver, Illumination founder and CEO Chris
   Meledandri and French…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 59.0
 pubDate: '2026-07-15T23:41:47Z'

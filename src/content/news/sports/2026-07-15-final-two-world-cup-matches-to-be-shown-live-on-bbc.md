@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Saturday's World Cup third-place play-off between England and France
   and Sunday's World Cup final will both be live on BBC TV.
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-15T21:16:12Z'

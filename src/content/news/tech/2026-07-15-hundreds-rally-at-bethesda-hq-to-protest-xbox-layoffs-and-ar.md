@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Union wants to halt a "perpetual cycle" of layoffs, get back to contract
   bargaining.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 62.0
 pubDate: '2026-07-15T22:36:28Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: '"We owe our warriors the absolute best medical care in the world, and
   this program delivers on that obligation," Hegseth said in a video.'
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-15T22:46:02Z'

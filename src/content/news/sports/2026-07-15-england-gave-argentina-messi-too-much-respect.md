@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC Sport World Cup pundits Wayne Rooney, Joe Hart and Micah Richards
   believe England showed too much respect to Argentine and Lionel Messi which lead
   in their World Cup…
-displayOrder: 32
+displayOrder: 43
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-15T23:32:39Z'

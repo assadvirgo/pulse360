@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Micah Richards pays tribute to his father Lincoln, who died shortly before
   the BBC pundit went on air for England's World Cup semi-final defeat by Argentina.
-displayOrder: 10
+displayOrder: 28
 heroImage: ''
 importance: 73.2
 pubDate: '2026-07-15T23:41:05Z'
