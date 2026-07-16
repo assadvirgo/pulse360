@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: By keeping the number of investments to about 25 per fund, Greylock aims
   to remain what it calls "the most important partner" to its founders.
-displayOrder: 14
+displayOrder: 22
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-16T00:20:42Z'

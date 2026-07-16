@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A US official said the two sides made progress on a plan for Israel to
   withdraw from &#039;pilot zones&#039; in southern Lebanon.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-15T18:34:34Z'

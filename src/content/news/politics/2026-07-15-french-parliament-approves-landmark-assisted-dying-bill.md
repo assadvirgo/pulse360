@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Parliament adopted the text by 291 votes to 241, though it still needs
   approval from the Constitutional Council.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-15T19:58:53Z'

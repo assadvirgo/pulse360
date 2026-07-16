@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “The actual date of death ultimately affects only the surviving beneficiaries.”
-displayOrder: 39
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-15T23:00:00Z'

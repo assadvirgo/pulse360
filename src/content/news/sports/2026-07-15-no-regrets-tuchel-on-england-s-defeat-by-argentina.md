@@ -5,7 +5,7 @@ countryCode: GB
 description: England manager Thomas Tuchel believes his team "got too passive" after
   scoring first in the World Cup semi-final against Argentina, which they lost 2-1
   at Atlanta Stadium.
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-15T22:40:05Z'

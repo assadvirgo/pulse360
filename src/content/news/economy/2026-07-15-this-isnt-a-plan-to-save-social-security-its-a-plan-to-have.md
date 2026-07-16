@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A bipartisan group of senators, most of whom are retiring, is trying
   to move the ball forward just a little.
-displayOrder: 28
+displayOrder: 40
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-15T19:11:00Z'

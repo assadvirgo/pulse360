@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Soren Waerenskjold catches the big guns by surprise with a long-range
   sprint to win the fastest-ever stage of the Tour de France.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-15T16:23:40Z'

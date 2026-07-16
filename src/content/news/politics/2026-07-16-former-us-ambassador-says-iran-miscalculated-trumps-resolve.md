@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nightly strikes between the US and Iran have been the heaviest since
   the Memorandum of Understanding (MOU) agreement.
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-16T04:18:22Z'

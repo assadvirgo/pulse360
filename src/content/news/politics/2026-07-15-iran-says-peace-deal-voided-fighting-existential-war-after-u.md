@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The US announced a new wave of attacks Wednesday night, amid reported
   explosions in Bandar Abbas, Chabahar and Ahvaz.
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 69.5
 pubDate: '2026-07-15T21:46:57Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: The final major championship of the 2026 golf season is here as the world’s
   best players head to Royal Birkdale in Southport, England, for the 154th playing
   of The Open…
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-15T23:50:48Z'

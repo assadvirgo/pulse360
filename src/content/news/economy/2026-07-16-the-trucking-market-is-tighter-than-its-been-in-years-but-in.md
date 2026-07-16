@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of the trucking giant jump 8% after hours, as fuel charges and
   demand for its railroad-connection business lift results
-displayOrder: 42
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-16T00:22:00Z'

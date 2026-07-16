@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: A former Canadian government nuclear bomb shelter in rural Nova Scotia
   may soon be home to the country’s first large-scale luxury survival shelter.
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 71.2
 pubDate: '2026-07-15T23:35:39Z'

@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: South Korea&#039;s government has acknowledged wrongs, but advocates
   say accountability is still lacking.
-displayOrder: 8
+displayOrder: 14
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-16T03:41:50Z'
