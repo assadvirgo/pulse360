@@ -2,7 +2,7 @@
 category: Sports
 description: The first round will have five groups of four teams instead of four groups
   of five teams
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-15T12:16:58Z'

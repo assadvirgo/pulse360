@@ -2,7 +2,7 @@
 category: Economy
 description: Stockpiles that acted as shock absorbers early in Iran war are running
   low as key waterway closes once more
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-15T13:02:43Z'

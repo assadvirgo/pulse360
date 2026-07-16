@@ -5,7 +5,7 @@ countryCode: US
 description: Skullcandy announced a new version of its Crusher wireless headphones
   today featuring a few of Bose's audio technologies including its QuietControl ANC
   and head-tracking spatial…
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-16T00:00:00Z'

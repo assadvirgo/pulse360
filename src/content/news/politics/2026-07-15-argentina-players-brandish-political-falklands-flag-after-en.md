@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: The banner, held up by Lisandro Martinez and Giovani Lo Celso, goes against
   FIFA’s Stadium Code of Conduct.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-15T23:36:16Z'

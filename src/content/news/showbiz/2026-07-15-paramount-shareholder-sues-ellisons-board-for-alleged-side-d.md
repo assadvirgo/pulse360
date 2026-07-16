@@ -5,7 +5,7 @@ countryCode: US
 description: A Paramount Skydance shareholder has filed a derivative lawsuit against
   officers and directors of the company alleging breach of fiduciary duty in its pursuit
   of Warner Bros.…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-15T22:34:04Z'

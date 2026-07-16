@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Investors are still enthusiastic about the memory boom, and are looking
   for new ways to cash in.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-15T18:02:00Z'

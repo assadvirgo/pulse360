@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US President Donald Trump vowed to strike Iran's bridges and power plants
   next week if the country does not return to talks.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-15T12:26:38Z'

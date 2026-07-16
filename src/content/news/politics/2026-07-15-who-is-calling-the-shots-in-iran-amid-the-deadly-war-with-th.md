@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The IRGC has taken the lead in Iran, particularly over Hormuz - and the
   government says it&#039;s on the same page.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-15T15:35:57Z'

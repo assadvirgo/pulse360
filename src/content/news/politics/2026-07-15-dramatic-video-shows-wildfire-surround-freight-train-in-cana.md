@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: CN Rail told the BBC that operations were temporarily suspended in the
   affected area in the province of Ontario.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-15T15:11:00Z'

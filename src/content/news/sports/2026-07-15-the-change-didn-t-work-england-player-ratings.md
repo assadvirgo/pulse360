@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport's England reporter Alex Howell rates the players after the
   Three Lions lost to Argentina in the World Cup semi-final.
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-15T21:08:21Z'

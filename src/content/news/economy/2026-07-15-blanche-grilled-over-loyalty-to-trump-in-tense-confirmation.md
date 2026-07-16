@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Acting attorney-general vows to resign if asked to act illegally but
   insists he serves at pleasure of the president
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-15T20:23:08Z'

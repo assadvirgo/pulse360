@@ -5,7 +5,7 @@ countryCode: US
 description: 'For one week, &#8220;Avatar Aang: The Last Airbender&#8221; will screen
   in select movie theaters in Los Angeles and New York, Variety has learned exclusively.
   While the film is…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-15T20:33:52Z'
