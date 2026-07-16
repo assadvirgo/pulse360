@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Thousands of Argentina fans held a banderazo in the streets of Atlanta
   ahead of their World Cup semi-final.
-displayOrder: 18
+displayOrder: 27
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-15T19:08:24Z'

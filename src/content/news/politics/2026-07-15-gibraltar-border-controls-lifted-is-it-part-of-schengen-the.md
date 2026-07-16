@@ -2,7 +2,7 @@
 category: Politics
 description: A new treaty signed by Britain and the EU includes the removal of border
   checks between Spain and Gibraltar.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-15T10:45:04Z'

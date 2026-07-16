@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Independent Lens is going on something of an acquisition
   binge – welcome news for the documentary field. The award-winning PBS series announced
   it has picked up four…'
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-15T19:46:59Z'

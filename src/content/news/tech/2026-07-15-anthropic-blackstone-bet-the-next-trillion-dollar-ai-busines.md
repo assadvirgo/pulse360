@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed
   engineers inside enterprises is the key to accelerating enterprise AI adoption.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-15T13:10:47Z'

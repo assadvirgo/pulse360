@@ -2,7 +2,7 @@
 category: Sports
 description: Jersey look set to be forced to go through an extra round of qualifying
   if they are to make the 2028 T20 World Cup.
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-15T13:16:51Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Copper prices have climbed 12.5% since the start of the year, with Nvidia
   and Broadcom up around the same amount in that time.
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-15T15:32:00Z'

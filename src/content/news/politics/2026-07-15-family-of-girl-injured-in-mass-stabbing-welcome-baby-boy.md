@@ -5,7 +5,7 @@ countryCode: IE
 description: The parents of a seven-year-old girl who was severely injured in the
   2023 Parnell Square attack in Dublin have spoken of their joy after welcoming a
   baby into their family.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-07-15T15:28:00Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: 'The first look at &#8220;Kill Block,&#8221; the new &#8220;Call of Duty:
   Modern Warfare 4&#8221; game was released at Fanatics Fest. The multiplayer battleground
   game launches…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-15T18:54:30Z'

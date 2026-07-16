@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-15T18:57:43Z'

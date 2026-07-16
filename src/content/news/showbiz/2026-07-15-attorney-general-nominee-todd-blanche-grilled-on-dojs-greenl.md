@@ -5,7 +5,7 @@ countryCode: US
 description: Todd Blanche, Donald Trump&#8217;s former personal lawyer and his nominee
   to serve as attorney general, was grilled over his role in the Justice Department&#8217;s
   sign-off of…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-15T17:46:02Z'

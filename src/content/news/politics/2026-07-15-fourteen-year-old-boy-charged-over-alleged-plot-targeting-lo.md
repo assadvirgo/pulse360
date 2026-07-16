@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Suspect is charged with &#039;preparation of terrorist acts - linked
   to extreme right-wing terrorism&#039;, say British police.
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-15T19:09:32Z'

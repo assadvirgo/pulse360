@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “For really everyone other than AI providers, the process is broken.”
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-15T20:03:00Z'

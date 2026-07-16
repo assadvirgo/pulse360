@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares in the fund manager rise as company says its will boost quarterly
   buybacks to $550 million
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-15T12:19:00Z'
