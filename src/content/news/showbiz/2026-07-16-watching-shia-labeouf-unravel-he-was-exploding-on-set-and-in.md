@@ -3,7 +3,7 @@ category: Showbiz
 description: In November 2025, writer-director Josh Penn Soskin began production on
   his debut feature, &#8220;The Rooster Prince,”&#160;based on his relationship with
   his late brother, David,…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-07-16T20:30:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Existing-home prices just hit a new record high — but there are plenty
   of newly built homes selling at a discount, as desperate builders cut prices.
-displayOrder: 35
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-17T00:10:00Z'

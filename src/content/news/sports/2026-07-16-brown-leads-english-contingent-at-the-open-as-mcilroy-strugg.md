@@ -5,7 +5,7 @@ countryCode: GB
 description: When England's World Cup hopes were extinguished, it paved the way for
   the home golfers to take centre stage at the Birkdale Open - led by the colourful
   Dan Brown.
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 38.2
 pubDate: '2026-07-16T20:24:40Z'

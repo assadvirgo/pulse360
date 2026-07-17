@@ -2,7 +2,7 @@
 category: Politics
 description: Previously little-known in Europe, the Midea PortaSplit has become a
   household name this summer.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-07-16T22:01:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Veteran venture capitalist weighs in on the AI bubble and four huge opportunities
   he missed.
-displayOrder: 39
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-16T21:45:00Z'

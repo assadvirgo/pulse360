@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge has denied a group of consumers a preliminary injunction
   to at least temporarily block Paramount&#8217;s proposed merger with Warner Bros.
   Discovery. The judge,…
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-16T21:54:58Z'

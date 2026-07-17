@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Family company hopes large trading firms will pay for market-moving social
   media posts milliseconds early
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-16T20:56:38Z'

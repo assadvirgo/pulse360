@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The megarocket’s success is SpaceX’s “single most important watch item,”
   one analyst says.
-displayOrder: 40
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-16T23:36:00Z'

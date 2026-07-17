@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Reported attacks on bridges, rail and communications infrastructure come
   as both sides harden their positions.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-16T21:02:11Z'

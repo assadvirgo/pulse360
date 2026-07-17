@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Hyundai aims to deploy 25,000 Atlas robots starting with US factories
   in 2028.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-16T20:09:48Z'

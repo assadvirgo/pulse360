@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: These are the updates for Thursday, July 16, 2026 as Donald Trump delivers
   remarks alleging election malfeasance.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-16T20:59:18Z'

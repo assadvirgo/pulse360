@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: PM Keir Starmer&#039;s final honours list also includes campaigners,
   military leaders and senior civil servants.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-16T23:05:37Z'

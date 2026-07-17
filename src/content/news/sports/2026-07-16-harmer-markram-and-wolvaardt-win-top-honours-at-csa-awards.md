@@ -5,7 +5,7 @@ countryCode: ZA
 description: De Kock and Ngidi also went home with multiple awards, while Breetzke's
   breakthrough campaign earned him the Men's ODI International Player of the Year
   award
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-16T20:01:59Z'
