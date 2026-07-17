@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The pioneering scholar, who died on July 15, challenged Orientalist orthodoxies
   and reshaped the study of Islam.
-displayOrder: 1
+displayOrder: 14
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-17T06:27:17Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: Composer Ludwig Göransson has reunited with Christopher Nolan to score
   &#8220;The Odyssey,&#8221; marking their third collaboration after &#8220;Tenet&#8221;
   and…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-17T04:11:41Z'

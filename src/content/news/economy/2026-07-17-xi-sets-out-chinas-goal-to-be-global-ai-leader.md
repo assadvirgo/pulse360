@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: President calls for ‘positive’ use of technology as Beijing seeks to
   strengthen influence over standards
-displayOrder: 28
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-17T03:59:30Z'

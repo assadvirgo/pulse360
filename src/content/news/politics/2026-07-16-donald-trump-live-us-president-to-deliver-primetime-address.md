@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Critics fear Trump may use his podium to spread spread doubt about election
   integrity before the 2026 midterms.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-16T20:59:18Z'

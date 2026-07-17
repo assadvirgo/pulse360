@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Clashes erupted after Israeli settlers attacked the outskirts of the
   occupied West Bank town of Sinjil.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-17T04:39:08Z'

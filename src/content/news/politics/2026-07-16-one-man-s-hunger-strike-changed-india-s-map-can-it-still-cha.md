@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Why hunger strikes still shape Indian politics, from Gandhi to Sonam
   Wangchuk.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-16T22:21:03Z'

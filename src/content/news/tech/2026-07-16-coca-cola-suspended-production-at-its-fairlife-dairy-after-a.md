@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Coca Cola said dairy production at its Fairlife unit will "remain suspended"
   in the United States following a hack.
-displayOrder: 32
+displayOrder: 46
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-16T21:22:31Z'

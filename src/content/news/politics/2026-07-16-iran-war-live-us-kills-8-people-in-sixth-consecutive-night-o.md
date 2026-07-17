@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Officials report power outages, attack on train station in Bandar, as
   Iran says Hormuz won&#039;t return to pre-war status.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-16T23:58:15Z'

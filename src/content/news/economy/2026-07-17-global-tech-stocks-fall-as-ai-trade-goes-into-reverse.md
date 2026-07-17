@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Index of US semiconductor stocks on track for its worst week since last
   year’s ‘liberation day’ rout
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 41.5
 pubDate: '2026-07-17T07:38:43Z'

@@ -5,7 +5,7 @@ countryCode: IN
 description: Bollywood superstar Aamir Khan denied that his character in &#8220;3
   Idiots&#8221; was based on educator and climate activist Sonam Wangchuk, addressing
   the long-running rumor…
-displayOrder: 5
+displayOrder: 23
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-17T07:07:34Z'

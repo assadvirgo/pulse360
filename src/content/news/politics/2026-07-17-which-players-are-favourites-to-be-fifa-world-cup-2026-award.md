@@ -2,7 +2,7 @@
 category: Politics
 description: Lionel Messi and Kylian Mbappe are among the biggest stars expected to
   walk away with at least one individual award.
-displayOrder: 11
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-17T03:38:28Z'

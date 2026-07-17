@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Report found no wrongdoing after probing allegations of impropriety in
   Accor’s dealings with associates of Bazin
-displayOrder: 37
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-17T04:00:23Z'

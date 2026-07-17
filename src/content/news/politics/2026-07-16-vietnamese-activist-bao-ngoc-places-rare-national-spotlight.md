@@ -4,7 +4,7 @@ country: Vietnam
 countryCode: VN
 description: Activist Bao Ngoc draws attention to plight of Palestinians in country
   where protest is tightly controlled.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-16T23:39:36Z'

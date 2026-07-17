@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: Kimi K3 shows narrowing gap between US and China on frontier AI
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-17T00:58:59Z'

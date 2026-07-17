@@ -5,7 +5,7 @@ countryCode: IN
 description: Bollywood star Jacqueline Fernandez is launching an AI-powered digital
   avatar that gives audiences access to her personal book recommendations, late-night
   reflections, and stories…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-07-17T06:00:00Z'

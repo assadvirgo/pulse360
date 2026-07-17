@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK government said taking the firm into public hands would safeguard
   "a vital national capability".
-displayOrder: 4
+displayOrder: 22
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-17T08:25:55Z'
