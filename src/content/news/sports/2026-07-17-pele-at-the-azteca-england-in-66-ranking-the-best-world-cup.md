@@ -2,7 +2,7 @@
 category: Sports
 description: Pele and Brazil at the Azteca in 1970? Lionel Messi's first World Cup?
   England winning it on home soil in 1966? BBC Sport attempts to rank the best finals.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-17T11:54:14Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I met with a financial representative who was not aware that AT&amp;T
   was the shortened form of American Telephone and Telegraph.”
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-17T10:30:00Z'

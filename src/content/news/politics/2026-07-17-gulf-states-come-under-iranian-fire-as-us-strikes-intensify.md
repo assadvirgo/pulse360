@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tehran targets multiple countries across the region as the wave of US
   strikes on Iran steps up.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-17T08:18:13Z'

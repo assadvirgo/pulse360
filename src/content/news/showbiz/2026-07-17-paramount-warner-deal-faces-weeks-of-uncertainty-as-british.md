@@ -5,7 +5,7 @@ countryCode: GB
 description: Paramount&#8217;s $110 billion takeover of Warner Bros. Discovery (WBD)
   faces more than a month of regulatory uncertainty in Britain, where Parliament has
   closed its doors for the…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-17T08:58:58Z'

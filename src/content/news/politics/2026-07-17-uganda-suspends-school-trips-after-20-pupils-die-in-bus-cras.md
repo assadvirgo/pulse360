@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: Thousands die on Uganda's roads each year but this is one of its deadliest
   incidents involving children.
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-17T12:25:15Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Retail investors had a pretty strong two-month stretch when they were
   outperforming the broader market by as much as 10 percentage points.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-17T10:00:00Z'

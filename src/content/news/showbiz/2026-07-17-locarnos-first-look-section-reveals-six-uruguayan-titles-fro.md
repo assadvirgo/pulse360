@@ -5,7 +5,7 @@ countryCode: UY
 description: Locarno Pro’s work-in-progress section First Look – set to celebrate
   its 15th&#160;edition this year – has unveiled six new titles. This year’s spotlight
   falls on Uruguay, and is…
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-17T10:50:40Z'

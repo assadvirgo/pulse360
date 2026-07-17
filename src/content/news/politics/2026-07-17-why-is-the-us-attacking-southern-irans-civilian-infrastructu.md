@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Analysts say the goals range from targeting Iran&#039;s supply lines
   to curbing its influence in the Strait of Hormuz.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-17T11:26:39Z'

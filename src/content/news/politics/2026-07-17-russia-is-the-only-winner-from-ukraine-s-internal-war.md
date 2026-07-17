@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: An extraordinary rupture at the heart of Ukraine's top war-fighting team
   is a dangerous moment for the country that can only benefit Russia.
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-17T08:45:00Z'

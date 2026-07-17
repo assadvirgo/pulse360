@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: The latest outbreak linked to a Karachi hospital is the newest in a series
   that experts say reflects systemic failures.
-displayOrder: 19
+displayOrder: 39
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-17T07:33:16Z'

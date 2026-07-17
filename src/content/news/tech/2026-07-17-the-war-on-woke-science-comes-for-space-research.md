@@ -5,7 +5,7 @@ countryCode: US
 description: The Trump administration is waging a culture war on science, and the
   latest salvo is in the form of a dry, bureaucratic proposal from the Office of Management
   and Budget (OMB)…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-17T11:00:00Z'

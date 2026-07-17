@@ -5,7 +5,7 @@ countryCode: GB
 description: The BBC has unveiled its new documentary boss. Former Sky docs chief
   Poppy Dixon will take the reins of the biggest job in British TV documentaries,
   replacing Clare Sillery, who…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-17T11:18:10Z'

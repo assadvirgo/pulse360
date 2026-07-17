@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India joins a handful of countries that have successfully deployed the
   zero-emission technology in their rail networks.
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-17T10:25:08Z'

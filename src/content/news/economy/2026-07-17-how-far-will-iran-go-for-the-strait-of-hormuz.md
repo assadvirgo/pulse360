@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: After years of stand-off over Tehran’s nuclear programme, the waterway
   is now at the heart of the regime’s confrontation with the US
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-17T04:00:23Z'

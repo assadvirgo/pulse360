@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Knesset dissolves after first full term since 1988, with Israel heading
   towards crucial elections on October 27, 2026.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-17T10:10:25Z'

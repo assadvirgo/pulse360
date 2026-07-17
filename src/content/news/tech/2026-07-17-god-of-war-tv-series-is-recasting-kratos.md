@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon's upcoming God Of War show has hit a major snag - it's now on
   the hunt for a new Kratos, after an on-set injury put its current lead actor out
   of commission. Sons of…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-17T10:14:04Z'

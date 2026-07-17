@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: While the &#039;export engine is running very hot&#039;, jobs are lagging,
   squeezing spending in China.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-17T10:06:25Z'
