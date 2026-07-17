@@ -5,7 +5,7 @@ countryCode: CH
 description: 'Today on Decoder, we’ve got the first of a two-part series on the systems
   that run the world: I’m talking with Bart Butler, the CTO of Proton, the company
   that makes private and…'
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 76.2
 pubDate: '2026-07-16T14:00:00Z'

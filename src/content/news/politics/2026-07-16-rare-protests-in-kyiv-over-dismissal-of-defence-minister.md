@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Rare protests erupted in central Kyiv over Ukrainian President Zelenskyy’s
   dismissal of defence minister.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-16T17:15:03Z'

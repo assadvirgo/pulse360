@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: FIFA says its disciplinary committee will assess match reports and consider
   relevant circumstances before taking any action.
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-16T21:23:05Z'

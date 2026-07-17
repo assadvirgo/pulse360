@@ -5,7 +5,7 @@ countryCode: US
 description: Get ready for more AI characters in Fortnite. Developer Epic Games is
   going to let Fortnite creators publish experiences featuring characters with AI-powered
   voices starting on…
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-16T21:30:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: TIPS are offering a rare gift — and it is time to lock in a generous
   payout.
-displayOrder: 36
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-16T21:17:00Z'

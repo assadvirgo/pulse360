@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Both nominees flailed in their own unique ways as senators sought answers.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 74.0
 pubDate: '2026-07-16T22:33:24Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Skydance began to lay out its legal argument Thursday against
   an antitrust lawsuit brought by a dozen states, calling it &#8220;one of the weakest
   merger challenges in…
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-16T19:44:57Z'

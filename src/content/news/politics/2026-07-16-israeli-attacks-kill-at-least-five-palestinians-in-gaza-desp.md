@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Attacks continue in violation of the October agreement with more than
   1,100 Palestinians killed since then.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-16T15:53:42Z'

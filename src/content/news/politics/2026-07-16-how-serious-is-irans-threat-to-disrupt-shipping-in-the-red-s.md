@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: After the Strait of Hormuz, Iran&#039;s IRGC warns it could next target
   Bab al-Mandeb.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-16T19:44:16Z'

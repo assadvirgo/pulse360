@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Cardiff let promising fly-half Harri Wilde move to Welsh rivals Ospreys
   for the 2025-26 United Rugby Championship season.
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-16T14:00:09Z'

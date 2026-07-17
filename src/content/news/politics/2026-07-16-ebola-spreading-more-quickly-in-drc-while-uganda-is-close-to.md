@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Uganda ⁠⁠discharges last-remaining patient, as WHO says Ebola has &#039;expanded
   faster than any previous outbreak&#039; in DRC.
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-16T19:05:09Z'

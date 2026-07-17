@@ -5,7 +5,7 @@ countryCode: US
 description: Amanda Serrano will look to defend her unified title and break the record
   for the most knockouts in women's boxing history when she meets Lucrecia Manzur
   next month.
-displayOrder: 28
+displayOrder: 37
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-16T18:42:27Z'

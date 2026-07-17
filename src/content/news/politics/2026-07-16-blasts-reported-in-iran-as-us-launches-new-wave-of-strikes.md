@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran says US strikes hit bridges in the country in an apparent escalation,
   while the US boards a ship in the Strait of Hormuz.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-16T23:57:26Z'
