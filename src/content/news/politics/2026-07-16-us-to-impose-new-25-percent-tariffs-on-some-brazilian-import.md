@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beef, coffee and rare-earth materials escaped US tariffs amid trade tensions
   with Brazil over alleged unfair practices.
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-16T16:27:44Z'

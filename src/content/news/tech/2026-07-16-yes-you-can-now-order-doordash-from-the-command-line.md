@@ -5,7 +5,7 @@ countryCode: US
 description: DoorDash is opening a limited beta of dd-cli, a command-line tool that
   lets developers and AI agents search stores, build carts, and place orders from
   the terminal, marking…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-16T15:38:55Z'

@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Despite Lionel Messi&#039;s presence, Argentina enter the 2026 final
   as underdogs to Spain and their starlet Lamine Yamal.
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-16T16:25:08Z'

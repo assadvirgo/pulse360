@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mortgage rates are high, home prices at record levels, and consumers
   stressed — all contributing to a drop in existing home sales and builder sentiment.
-displayOrder: 41
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-16T20:06:13Z'

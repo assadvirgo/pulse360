@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US Vice-President writes in his new book that a visit to north Wales
   in 2013 changed his perspective.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-16T16:08:28Z'

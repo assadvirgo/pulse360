@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund
   YouTube series "Mafia," has joined the firm as a partner.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-16T20:07:14Z'

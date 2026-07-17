@@ -5,7 +5,7 @@ countryCode: US
 description: 'Ahead of the upcoming &#8220;Power Book III: Raising Kanan&#8221; series
   finale, &#8220;Power: Origins&#8221; has released first look images with the actors
   portraying young Ghost…'
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-07-16T16:15:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian president forced into concession after ousting of popular minister
   prompts public and political backlash
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-16T15:57:54Z'

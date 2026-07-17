@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beehiiv is launching an AI Copilot to help publishers with user growth
   and analytics.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-16T17:00:00Z'

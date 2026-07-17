@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Family Guy&#8221; star Seth Green is a big &#8220;Dungeon Crawler
   Carl&#8221; fan who wants it to be known he&#8217;d love to join the cast of the
   live-action TV series…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-16T18:17:11Z'

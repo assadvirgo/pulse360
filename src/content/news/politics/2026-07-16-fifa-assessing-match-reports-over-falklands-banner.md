@@ -5,7 +5,7 @@ countryCode: AR
 description: Fifa is "assessing the match reports" before deciding whether to punish
   Argentina after players held a banner in support of their country's claims to the
   Falkland Islands.
-displayOrder: 10
+displayOrder: 14
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-16T18:44:43Z'

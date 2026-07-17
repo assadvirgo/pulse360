@@ -5,7 +5,7 @@ countryCode: US
 description: 'Focus Features has released the trailer for “The Uprising,” a new historical
   drama starring Andrew Garfield. The film’s official logline reads: “Andrew Garfield
   stars as the…'
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-16T15:03:22Z'

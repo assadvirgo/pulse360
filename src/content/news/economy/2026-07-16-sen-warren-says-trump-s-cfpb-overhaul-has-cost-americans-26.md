@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sen. Elizabeth Warren says the Trump administration's rollback of CFPB
   rules and enforcement has cost Americans up to $26.5 billion so far.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-16T14:14:20Z'

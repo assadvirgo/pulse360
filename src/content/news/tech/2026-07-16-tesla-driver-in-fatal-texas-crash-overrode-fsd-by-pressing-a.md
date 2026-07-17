@@ -5,7 +5,7 @@ countryCode: US
 description: The Tesla driver who fatally struck a woman after crashing into her home
   "manually overrode" the vehicle's Full Self-Driving (FSD) technology by pressing
   the gas pedal to 100…
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-16T15:41:09Z'
