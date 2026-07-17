@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The CEO of Foundation Future Industries, which counts the president’s
   son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-07-17T09:00:00Z'

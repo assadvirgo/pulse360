@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump used a primetime White House address to revive
   claims about the 2020 election.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-17T10:40:11Z'

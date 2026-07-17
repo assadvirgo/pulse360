@@ -5,7 +5,7 @@ countryCode: US
 description: Are we living through a small car renaissance? There's the Slate Truck,
   Amble's dune buggy, and the Fiat Topolino, as well as a whole galaxy of kei cars
   and trucks from Japan that…
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-17T15:48:39Z'

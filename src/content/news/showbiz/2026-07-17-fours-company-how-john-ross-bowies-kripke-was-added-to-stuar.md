@@ -5,7 +5,7 @@ countryCode: US
 description: The first major development on HBO Max&#8217;s long-gestating Big Bang
   Theory spinoff came in October 2024 when three alums from the original series, Kevin
   Sussman, Brian Posehn…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-17T15:15:13Z'

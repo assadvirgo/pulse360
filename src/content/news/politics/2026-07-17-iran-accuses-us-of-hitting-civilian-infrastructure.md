@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The US military says its attacks were intended to "further degrade Iranian
   military capabilities".
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-17T14:32:07Z'

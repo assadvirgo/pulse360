@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: By agreeing to hear Palestinian Christians, the Synod has begun to confront
   its history and responsibilities.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-17T11:34:02Z'

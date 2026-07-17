@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: West Ham United captain Jarrod Bowen will stay at the club for the forthcoming
   season in the Championship.
-displayOrder: 30
+displayOrder: 47
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-17T10:51:02Z'

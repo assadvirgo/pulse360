@@ -5,7 +5,7 @@ countryCode: GB
 description: Good afternoon Insiders from a boiling hot London, we&#8217;ve got your
   newsletter primed and ready after a busy week. Max Goldbart with the words. Sign
   up here. Weeks Of…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-17T12:00:00Z'

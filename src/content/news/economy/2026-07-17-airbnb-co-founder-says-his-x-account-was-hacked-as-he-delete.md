@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Airbnb founder and CEO has deleted comments about tokenization that were
   posted to his account.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-17T11:53:00Z'

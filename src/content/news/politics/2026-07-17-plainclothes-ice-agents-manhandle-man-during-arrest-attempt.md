@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Plainclothes ICE agents manhandle man during arrest attempt at the Las
   Vegas airport on July 13, 2026.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-17T15:21:34Z'

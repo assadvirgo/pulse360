@@ -2,7 +2,7 @@
 category: Sports
 description: Donald Trump will present the trophy to the World Cup final winners on
   Sunday, and rings will be presented to the victorious side.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-17T08:40:55Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: An illegal Israeli outpost set up next to Umm al-Khair in West Bank,
   immediately separating villagers from their land.
-displayOrder: 14
+displayOrder: 23
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-17T15:40:10Z'

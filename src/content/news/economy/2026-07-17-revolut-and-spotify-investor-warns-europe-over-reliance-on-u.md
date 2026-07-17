@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Founder of VC firm Lakestar has raised a $300mn ‘resilience’ fund to
   back European dual-use and defence tech start-ups
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-17T04:00:23Z'
