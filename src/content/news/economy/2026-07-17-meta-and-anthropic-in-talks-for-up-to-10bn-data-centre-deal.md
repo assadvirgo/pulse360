@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Social media giant is considering launching a cloud business as it spends
   $145bn on infrastructure
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-17T18:32:45Z'

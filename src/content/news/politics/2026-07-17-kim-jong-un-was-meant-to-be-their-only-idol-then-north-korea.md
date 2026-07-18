@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: Defectors tell the BBC that despite restrictions, K-pop has cut through
   in the stifling dictatorship.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-17T22:14:12Z'

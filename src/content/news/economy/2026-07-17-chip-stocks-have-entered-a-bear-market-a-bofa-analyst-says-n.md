@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The semiconductor sector is undergoing a reset and has a tendency to
   underperform in the third quarter.
-displayOrder: 44
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-17T20:49:00Z'

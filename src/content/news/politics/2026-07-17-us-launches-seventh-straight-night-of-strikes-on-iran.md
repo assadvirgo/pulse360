@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US military says it&#039;s degrading Iran&#039;s military but has
   been accused by Tehran of targeting civilian infrastructure.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-17T22:11:12Z'

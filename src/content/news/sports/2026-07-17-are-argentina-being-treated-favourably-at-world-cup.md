@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Egypt have alleged bias in favour of Argentina and favouritism towards
   their star player, Lionel Messi. Is this fair?
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-17T16:26:43Z'

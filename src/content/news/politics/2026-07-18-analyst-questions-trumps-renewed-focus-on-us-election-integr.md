@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Eric Ham argues President Donald Trump’s renewed focus on election security
   is attempt to expand federal authority.
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-18T00:49:51Z'

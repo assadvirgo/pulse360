@@ -2,7 +2,7 @@
 category: Politics
 description: Researchers have found that people with Laron syndrome have a lower incidence
   of cancer than the wider population.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-17T23:24:37Z'
