@@ -5,7 +5,7 @@ countryCode: US
 description: Food producer Taylor Farms released a statement on the Cyclospora outbreak
   Friday, confirming that it's "voluntarily removing all iceberg lettuce sourced from
   central Mexico from…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-17T22:09:47Z'

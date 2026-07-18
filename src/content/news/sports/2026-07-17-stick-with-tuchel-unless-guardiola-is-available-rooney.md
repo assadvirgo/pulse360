@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wayne Rooney thinks the Football Association should stick with Thomas
   Tuchel as England head coach unless a move for Pep Guardiola is possible.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-17T20:16:26Z'

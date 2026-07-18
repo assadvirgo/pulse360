@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: At least 14 people have been killed and five injured after a minibus
   in the Peruvian Andes lost control on a curve.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-18T03:49:08Z'

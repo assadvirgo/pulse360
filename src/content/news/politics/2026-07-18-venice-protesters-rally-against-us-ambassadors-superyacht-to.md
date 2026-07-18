@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Protesters clashed with police in Venice outside US Ambassador Tilman
   Fertitta’s superyacht.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-18T03:37:54Z'

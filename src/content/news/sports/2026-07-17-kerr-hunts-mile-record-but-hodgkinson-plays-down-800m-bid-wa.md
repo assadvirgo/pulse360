@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: How to follow as British stars Keely Hodgkinson and Josh Kerr headline
   the Diamond League meeting in London on Saturday.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-17T19:57:32Z'

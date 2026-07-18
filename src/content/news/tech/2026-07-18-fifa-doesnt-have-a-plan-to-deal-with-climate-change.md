@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: This year’s World Cup has faced sweltering heat and humidity. Now it
   may need to deal with wildfire smoke.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-18T10:00:00Z'

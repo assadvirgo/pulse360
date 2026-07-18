@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: A new military barrier in the West Bank&#039;s Jordan Valley is cutting
   off Palestinian communities from their land.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-18T05:15:11Z'

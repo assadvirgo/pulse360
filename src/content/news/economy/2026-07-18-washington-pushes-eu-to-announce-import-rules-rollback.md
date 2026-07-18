@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US keeps up pressure on Brussels a year after deal to reduce Donald Trump’s
   tariffs
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-18T04:00:23Z'

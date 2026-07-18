@@ -2,7 +2,7 @@
 category: Economy
 description: Stock markets are not only ignoring the obvious threats, but seem imbued
   with extreme optimism
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-18T04:00:11Z'

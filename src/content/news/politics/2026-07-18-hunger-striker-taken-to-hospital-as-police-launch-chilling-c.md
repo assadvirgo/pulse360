@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Police have forcibly removed hunger striker Sonam Wangchuk from a student
   protest site in India.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-18T09:24:00Z'

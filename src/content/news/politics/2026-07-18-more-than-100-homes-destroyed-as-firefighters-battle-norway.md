@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: More than 100 homes have been ‌destroyed in a major fire in southern
   Norway, forcing the evacuation of hundreds of people, rescue officials ​have said.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-18T02:57:00Z'

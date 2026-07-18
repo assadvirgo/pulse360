@@ -2,7 +2,7 @@
 category: Politics
 description: France and England battle for third place before Argentina and Spain
   meet in the World Cup final.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-18T07:23:04Z'
