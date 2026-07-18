@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investments in semiconductors fuel growth in regional revenues for US
   banks
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-18T04:00:41Z'

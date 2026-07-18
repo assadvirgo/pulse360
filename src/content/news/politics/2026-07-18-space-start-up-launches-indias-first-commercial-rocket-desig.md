@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India's first space-tech unicorn Skyroot Aerospace successfully launched
   Vikram-1 on Saturday.
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-18T07:05:19Z'

@@ -5,7 +5,7 @@ countryCode: AU
 description: The window is almost shut. On August 19, eight startups will take the
   stage at Stripe Tour Sydney in front of investors, global press, and the Australian
   tech community. One…
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-17T23:08:00Z'

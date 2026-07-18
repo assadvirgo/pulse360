@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Moonshot AI’s new open model is catching up to Anthropic and OpenAI,
   raising questions about the future of the AI race.
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-18T01:17:00Z'

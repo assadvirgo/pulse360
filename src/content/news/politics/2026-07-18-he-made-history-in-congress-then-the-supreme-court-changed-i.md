@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Residents say they're afraid that if Shomari Figures loses his seat,
   their federal-funding could disappear with him.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-18T01:35:33Z'

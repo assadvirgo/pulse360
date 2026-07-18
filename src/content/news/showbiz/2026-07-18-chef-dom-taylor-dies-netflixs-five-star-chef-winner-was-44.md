@@ -5,7 +5,7 @@ countryCode: GB
 description: Dom Taylor, the chef who won Netflix&#8217;s Five Star Chef, has died.
   He was 44. It was Taylor&#8217;s restaurant, The Good Front Room, that confirmed
   the &#8220;sudden…
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-18T01:32:47Z'

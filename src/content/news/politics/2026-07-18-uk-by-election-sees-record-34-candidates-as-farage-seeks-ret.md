@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The Reform UK leader seeks to regain his seat after resigning amid gifts
   controversy.
-displayOrder: 12
+displayOrder: 31
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-18T00:23:40Z'

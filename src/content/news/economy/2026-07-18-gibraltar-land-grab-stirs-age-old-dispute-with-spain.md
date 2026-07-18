@@ -2,7 +2,7 @@
 category: Economy
 description: British overseas territory is expanding into the sea to relieve cramped
   living conditions
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-18T04:00:34Z'

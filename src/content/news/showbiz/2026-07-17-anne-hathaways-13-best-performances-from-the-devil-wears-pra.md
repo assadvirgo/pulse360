@@ -5,7 +5,7 @@ countryCode: US
 description: From mega-hit franchises to a destructive drug addict to a cowgirl whose
   husband is hiding a secret love affair, Anne Hathaway has been one of Hollywood&#8217;s
   most versatile…
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-17T23:25:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran has retaliated against US allies in the region, with Kuwait reporting
   that a power and water plant had been hit.
-displayOrder: 6
+displayOrder: 13
 heroImage: ''
 importance: 53.2
 pubDate: '2026-07-18T07:33:40Z'

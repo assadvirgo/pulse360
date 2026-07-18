@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: While Boris Nadezhdin is barred from running for parliament, blogger
   Ilya Remeslo is remanded in custody.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-17T20:00:54Z'
