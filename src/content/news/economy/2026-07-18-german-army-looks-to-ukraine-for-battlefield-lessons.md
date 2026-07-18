@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Land forces chief says Kyiv’s military expertise is proving invaluable
   as Bundeswehr rebuilds and US support wanes
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-18T09:00:24Z'

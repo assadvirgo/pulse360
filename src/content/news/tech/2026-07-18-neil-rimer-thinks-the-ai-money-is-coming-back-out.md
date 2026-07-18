@@ -5,7 +5,7 @@ countryCode: US
 description: Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts
   the historic wealth AI is generating in Silicon Valley will have to be redistributed,
   voluntarily or…
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 77.0
 pubDate: '2026-07-18T04:47:25Z'

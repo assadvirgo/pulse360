@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The second quarter was a six-year best for U.S. stocks — here are the
   three sectors poised to lead the next leg higher.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-18T13:58:00Z'

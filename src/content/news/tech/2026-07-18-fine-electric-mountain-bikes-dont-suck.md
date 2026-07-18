@@ -3,7 +3,7 @@ category: Tech
 description: Cheater, I'd grumble between huffs as yet another e-bike rider casually
   skittered past me on a steep ascent. It's this purist attitude that, for years,
   has left me blind to one…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-18T07:00:00Z'

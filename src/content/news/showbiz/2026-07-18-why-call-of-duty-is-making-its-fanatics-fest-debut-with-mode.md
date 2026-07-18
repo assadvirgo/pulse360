@@ -5,7 +5,7 @@ countryCode: US
 description: 'Activision wants “Call of Duty: Modern Warfare 4” to be your new obsession.
   Its first big step in that plan involves a sports fan convention and “Obsession”
   star Inde Navarrette.…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-18T14:00:00Z'

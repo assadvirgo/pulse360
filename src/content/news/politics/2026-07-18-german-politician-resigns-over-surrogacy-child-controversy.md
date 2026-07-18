@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Jens Spahn faced criticism over his use of a surrogate, a ban on which
   he previously backed.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-18T15:23:31Z'

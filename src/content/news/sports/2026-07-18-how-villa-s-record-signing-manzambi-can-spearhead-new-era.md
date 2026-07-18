@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: It is a new era for Aston Villa - and Johan Manzambi, who has just joined
   in a club record deal worth more than £50m - will be one of the poster boys.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-18T09:39:08Z'

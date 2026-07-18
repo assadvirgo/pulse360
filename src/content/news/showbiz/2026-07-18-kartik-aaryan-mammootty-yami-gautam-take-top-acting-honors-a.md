@@ -5,7 +5,7 @@ countryCode: IN
 description: Yami Gautam-starrer &#8220;Article 370&#8221; won best feature film at
   India&#8217;s 72nd National Film Awards, announced Saturday in New Delhi by the
   country&#8217;s Ministry of…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-18T14:17:39Z'

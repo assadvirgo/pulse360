@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: CDU rightwinger Jens Spahn steps down after revealing he used a surrogate
   mother in the US to become a father
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-18T15:29:29Z'

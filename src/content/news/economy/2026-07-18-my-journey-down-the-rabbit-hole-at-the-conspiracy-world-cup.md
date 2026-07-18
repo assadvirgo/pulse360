@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Accusations of foul play have swirled around this year’s tournament —
   but England fan Gideon Rachman still can’t get enough
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-18T04:00:34Z'

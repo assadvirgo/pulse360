@@ -2,7 +2,7 @@
 category: Politics
 description: 'What to know about both teams: Form, strengths, weaknesses, key players
   and what the coaches and players had to say.'
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-18T08:10:20Z'

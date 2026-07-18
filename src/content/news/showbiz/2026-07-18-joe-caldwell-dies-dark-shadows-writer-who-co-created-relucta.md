@@ -5,7 +5,7 @@ countryCode: US
 description: Joe Caldwell, a writer on the original 1960s gothic cult-hit daytime
   TV series Dark Shadows who co-created the show&#8217;s signature vampire character
   Barnabas Collins, died…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-18T14:23:19Z'
