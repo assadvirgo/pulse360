@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Family company has quoted the six-figure sum for high-speed access to
   Truth Social platform
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-17T16:23:42Z'

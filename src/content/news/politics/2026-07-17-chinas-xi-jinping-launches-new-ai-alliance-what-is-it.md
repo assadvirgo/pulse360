@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing is likely to use the WAICO alliance to influence global AI regulations,
   analysts say.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-17T13:47:38Z'

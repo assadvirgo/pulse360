@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Andy Burnham set to become UK prime minister but faces challenges including
   the cost of living crisis and two wars.
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-17T13:51:18Z'

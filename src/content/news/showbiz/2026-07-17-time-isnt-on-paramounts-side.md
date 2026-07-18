@@ -5,7 +5,7 @@ countryCode: US
 description: A court on Friday considered whether to issue a temporary restraining
   order that would freeze the Warner Bros. deal for a short period. Paramount still
   intends to close by the end…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-17T19:22:07Z'

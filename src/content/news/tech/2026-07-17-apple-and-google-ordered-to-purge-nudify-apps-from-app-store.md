@@ -5,7 +5,7 @@ countryCode: US
 description: In letters sent to Apple and Google, San Francisco City Attorney David
   Chiu said that both companies have long been aware that they are hosting apps in
   violation of state law.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-17T19:49:53Z'

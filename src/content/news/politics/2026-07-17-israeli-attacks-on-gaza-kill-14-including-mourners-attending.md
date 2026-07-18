@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Eight killed and 20 injured in strike on funeral procession for Palestinian
   killed by Israel earlier in the day.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-17T16:21:49Z'

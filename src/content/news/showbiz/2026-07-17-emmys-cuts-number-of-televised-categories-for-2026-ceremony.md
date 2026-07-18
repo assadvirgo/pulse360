@@ -5,7 +5,7 @@ countryCode: US
 description: Viewers who tune in to watch the Emmys in September on NBC will see significantly
   fewer awards handed out. The Television Academy has voted to move five categories
   from the…
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 66.0
 pubDate: '2026-07-17T20:11:08Z'

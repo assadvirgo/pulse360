@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The California-based company is one of the largest producers of salad
   greens in the U.S.
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-17T15:47:00Z'

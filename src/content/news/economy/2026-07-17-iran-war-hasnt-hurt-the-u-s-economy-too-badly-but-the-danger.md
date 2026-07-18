@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The two main pillars of the economy — consumer spending and business
   investment — appear to have shrugged off early angst arising from Iran tensions.
-displayOrder: 36
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-17T15:55:00Z'

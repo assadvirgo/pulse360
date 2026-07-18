@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The families of two Australian women who died after drinking cocktails
   at a Laos hostel have said the expected charges in the case are "unacceptable".
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-17T12:09:00Z'

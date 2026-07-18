@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “He is now no longer able to think clearly or communicate his wishes.”
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-17T15:16:00Z'

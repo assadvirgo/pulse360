@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal
   - and now soldiers are also criticising the move.
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 53.2
 pubDate: '2026-07-17T19:04:09Z'

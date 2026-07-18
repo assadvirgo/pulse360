@@ -2,7 +2,7 @@
 category: Politics
 description: The winners of Sunday's World Cup final between Argentina and Spain will
   receive a championship ring for the first time, FIFA said.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 62.0
 pubDate: '2026-07-17T10:42:00Z'
