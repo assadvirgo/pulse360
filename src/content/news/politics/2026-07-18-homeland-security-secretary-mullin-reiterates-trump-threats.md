@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mullin pledged to make Trump&#039;s election security demands &#039;mandatory&#039;
   and implement a &#039;maximum pressure&#039; campaign.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-18T00:07:38Z'

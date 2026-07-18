@@ -5,7 +5,7 @@ countryCode: US
 description: A judge on Friday heard arguments on a state coalition&#8217;s bid for
   a restraining order to pause the Paramount-Warner Bros. Discovery merger and said
   she would issue a ruling…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 66.8
 pubDate: '2026-07-17T18:30:03Z'

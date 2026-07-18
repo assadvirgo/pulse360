@@ -3,7 +3,7 @@ category: Sports
 description: Sir Garfield Sobers, who has died aged 89, was rightly chosen as one
   of the leading five cricketers of the 20th century - and will be remembered as arguably
   the best all-rounder…
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-17T17:03:08Z'

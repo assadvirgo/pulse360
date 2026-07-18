@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The incoming prime minister promises to boost growth across the country
   but faces several obstacles
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-17T13:12:07Z'

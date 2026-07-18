@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Germany, stripped of Russian pipeline gas, received Algeria&#039;s president
   with military honours and talked about LNG.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-17T18:28:34Z'

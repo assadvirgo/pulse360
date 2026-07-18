@@ -5,7 +5,7 @@ countryCode: US
 description: Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last
   Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern
   of misconduct reaching…
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 72.0
 pubDate: '2026-07-17T17:45:46Z'

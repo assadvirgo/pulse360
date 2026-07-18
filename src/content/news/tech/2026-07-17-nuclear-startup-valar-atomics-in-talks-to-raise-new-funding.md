@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The potential deal highlights a growing trend of complex, multi-stage
   funding rounds that mask true entry prices.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-17T19:22:00Z'

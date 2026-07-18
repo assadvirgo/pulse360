@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Maricopa County in Arizona has some of the hottest temperatures, but
   it has reduced the number of heat-related deaths.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-17T23:56:08Z'

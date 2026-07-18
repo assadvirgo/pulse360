@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President to call PM Mark Carney over ‘filthy, polluted’ air wafting
   over US cities
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-17T20:56:10Z'

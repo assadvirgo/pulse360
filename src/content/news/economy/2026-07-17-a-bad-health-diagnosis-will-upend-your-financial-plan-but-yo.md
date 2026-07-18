@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: What it’s like to get end-of-life financial advice from a CFP who’s also
   a death doula
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-17T17:27:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump has blamed Canada for the impact of wildfire
   smoke that could impact the World Cup final.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-17T13:00:00Z'

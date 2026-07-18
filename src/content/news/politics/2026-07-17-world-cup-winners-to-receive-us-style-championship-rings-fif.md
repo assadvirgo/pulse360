@@ -2,7 +2,7 @@
 category: Politics
 description: Players&#039; rings will be limited edition of 2,026 individually numbered
   pieces, with the rest available for public sale.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-17T21:02:35Z'

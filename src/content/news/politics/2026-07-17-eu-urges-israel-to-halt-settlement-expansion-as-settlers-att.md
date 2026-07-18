@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Pressure is growing within the EU to sanction Israel for its illegal
   settlements and violence against Palestinians.
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-17T22:54:04Z'
