@@ -5,7 +5,7 @@ countryCode: US
 description: On July 19th, dozens of teams of high school students will begin a five-day,
   630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your
   typical contest.…
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-19T11:00:00Z'

@@ -3,7 +3,7 @@ category: Tech
 description: Organizers want the show to be the most-viewed halftime show in history.
   Having Shakira, Justin Bieber, Coldplay, and BTS will surely help—but do soccer
   fans want it?
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-07-19T09:00:00Z'

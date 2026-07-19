@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israel demolishes Palestinian home in Masafer Yatta
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-19T07:30:54Z'

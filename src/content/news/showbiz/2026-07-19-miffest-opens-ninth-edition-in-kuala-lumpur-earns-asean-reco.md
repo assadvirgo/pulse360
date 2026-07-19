@@ -5,7 +5,7 @@ countryCode: MY
 description: The ninth Malaysia International Film Festival (MIFFest) opened on July
   18 at MyTown Shopping Centre, kicking off an eight-day showcase of international
   cinema and marking the…
-displayOrder: 12
+displayOrder: 32
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-19T06:04:05Z'

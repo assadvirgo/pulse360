@@ -5,7 +5,7 @@ countryCode: US
 description: Last year, Sam Altman invited author Dave Eggers to give a talk to around
   200 OpenAI staffers. The man has written countless novels, screenplays, pieces of
   journalism, started…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-18T20:54:42Z'

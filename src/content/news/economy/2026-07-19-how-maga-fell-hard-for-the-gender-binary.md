@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pete Hegseth’s championing of testosterone for troops is the latest manifestation
   of the rightwing movement’s aesthetic
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-19T04:00:20Z'

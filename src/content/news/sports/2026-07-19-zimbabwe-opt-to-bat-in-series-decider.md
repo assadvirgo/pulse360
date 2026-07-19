@@ -3,7 +3,7 @@ category: Sports
 country: Zimbabwe
 countryCode: ZW
 description: Bangladesh were without Nahid Rana, who suffered a side strain on Friday
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-19T11:08:52Z'

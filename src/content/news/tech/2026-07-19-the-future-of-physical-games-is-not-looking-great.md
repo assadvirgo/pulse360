@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on video games and physical media, follow Jay
   Peters. The Stepback…
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-19T12:00:00Z'

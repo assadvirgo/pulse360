@@ -5,7 +5,7 @@ countryCode: US
 description: James Gunn is a fan of Big Brother, and his friend Rick Devens joined
   the cast of Season 28 of the CBS competition. On Thursday&#8217;s eviction episode,
   Devens gave Gunn a…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.0
 pubDate: '2026-07-19T04:03:42Z'

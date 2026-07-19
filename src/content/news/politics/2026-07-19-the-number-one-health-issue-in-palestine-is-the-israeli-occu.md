@@ -2,7 +2,7 @@
 category: Politics
 description: In both Gaza and the West Bank, Israeli policies are devastating Palestinian
   health with deadly consequences.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-19T07:15:19Z'

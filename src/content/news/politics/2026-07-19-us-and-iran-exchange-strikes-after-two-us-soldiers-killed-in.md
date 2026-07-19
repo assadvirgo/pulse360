@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US forces target Iranian sites for the eighth night in a row, while Iran
   says it fired drones at the US military in Kuwait.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-07-19T05:10:57Z'

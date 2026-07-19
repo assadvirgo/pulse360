@@ -3,7 +3,7 @@ category: Economy
 country: Singapore
 countryCode: SG
 description: City-state frets over portfolio managers relocating to Chinese territory
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-19T04:00:12Z'

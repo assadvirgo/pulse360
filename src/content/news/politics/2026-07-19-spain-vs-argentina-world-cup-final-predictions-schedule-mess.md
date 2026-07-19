@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain face Argentina in the World Cup final as Lionel Messi, Lamine Yamal
   and history dominate the build-up.
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 58.5
 pubDate: '2026-07-19T08:24:19Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Manosphere influencers Andrew and Tristan Tate were arrested by federal
   officers Saturday afternoon in Miami, according to AP. The charges against the brothers
   were not…
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-18T23:58:26Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Battle for control of Strait of Hormuz escalates after Tehran launches
   attack on Gulf states
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-19T04:39:42Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sirik and Hajiabad areas in Iran&#039;s Hormozgan province targeted as
   US says revenge for killing of two soldiers.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-19T04:16:08Z'

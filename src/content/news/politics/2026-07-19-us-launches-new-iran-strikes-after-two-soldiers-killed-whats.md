@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US strikes target Iran&#039;s IRGC after two of its soldiers were killed
   in Jordan, as Tehran attacks Kuwait and Bahrain.
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-19T08:49:56Z'
