@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As investors fret about gasoline, diesel prices have been rising and
   are threatening to cause even more economic destruction.
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-18T12:00:00Z'

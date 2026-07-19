@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's
   leader called them "major logistics facilities" supplying "sanctioned components".
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-18T13:06:25Z'

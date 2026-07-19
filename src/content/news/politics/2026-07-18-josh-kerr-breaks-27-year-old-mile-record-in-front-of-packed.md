@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: British runner Josh Kerr has broken the 27-year-old world record for
   the mile in front of a sell-out crowd in London.
-displayOrder: 17
+displayOrder: 28
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-18T14:41:00Z'

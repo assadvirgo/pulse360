@@ -5,7 +5,7 @@ countryCode: US
 description: The 'Landman' and 'Yellowstone' creator is co-writing the screenplay
   with director Peter Berg. The live-action adaptation is slated to hit theaters on
   June 30, 2028.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-18T19:54:08Z'

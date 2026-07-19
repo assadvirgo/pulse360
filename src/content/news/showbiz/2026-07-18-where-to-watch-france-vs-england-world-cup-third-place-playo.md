@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The July 18 match will determine who takes home the bronze ahead of Sunday's
   final.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-18T16:00:00Z'

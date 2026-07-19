@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi
   Arabia for the first time in months
-displayOrder: 29
+displayOrder: 39
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-18T18:10:45Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Paramount Pictures&#8217; upcoming &#8220;Call of Duty&#8221; movie from
   writer Taylor Sheridan will be based on the Xbox-owned first-person shooter franchise&#8217;s…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-18T18:27:13Z'

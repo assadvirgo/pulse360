@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Close to half of major IPOs sink below their offering price — and stay
   there for several years. Here’s why SpaceX is no different.
-displayOrder: 38
+displayOrder: 43
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-18T15:41:00Z'

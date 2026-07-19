@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: The deals include rebuilding the long-defunct Iraq-Syria crude oil pipeline,
   which could bypass the Strait of Hormuz.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-18T14:23:33Z'

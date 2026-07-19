@@ -5,7 +5,7 @@ countryCode: JP
 description: 'The Sony Bravia 9 II is the most anticipated new TV in years. It''s
   an amazing RGB LED TV. I watched Dungeons &#38; Dragons: Honor Among Thieves on
   the new Bravia with my son, who…'
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-18T12:30:00Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Deschamps, who led France to the 2018 World Cup title, bids farewell
   after Saturday&#039;s third-place playoff with England.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-18T06:01:26Z'

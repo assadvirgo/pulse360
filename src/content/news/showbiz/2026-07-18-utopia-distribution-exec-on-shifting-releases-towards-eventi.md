@@ -5,7 +5,7 @@ countryCode: US
 description: The years that directly succeeded the COVID pandemic were marked by a
   dire, almost apocalyptic view on the future of cinemagoing. Audiences who were already
   thinning out before…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 81.8
 pubDate: '2026-07-18T08:34:16Z'

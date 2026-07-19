@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “My son was recently diagnosed with lymphoma, which may be related to
   burn-pit exposure during his military service in Afghanistan.”
-displayOrder: 44
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-18T18:30:00Z'

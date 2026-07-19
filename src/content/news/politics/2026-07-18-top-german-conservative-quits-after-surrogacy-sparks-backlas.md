@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Jens Spahn steps down after party criticism over surrogacy, highlighting
   tensions in Germany&#039;s conservative coalition.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-18T13:54:21Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Tadej Pogacar extends his overall lead in the Tour de France after another
   dominant victory on the mountainous stage 14.
-displayOrder: 15
+displayOrder: 23
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-18T16:54:42Z'

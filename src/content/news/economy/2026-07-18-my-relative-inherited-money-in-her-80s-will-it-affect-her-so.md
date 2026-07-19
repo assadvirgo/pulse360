@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “She lives a modest lifestyle.”
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-18T18:14:00Z'

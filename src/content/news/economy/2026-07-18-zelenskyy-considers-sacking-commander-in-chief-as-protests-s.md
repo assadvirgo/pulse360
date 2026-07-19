@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Crisis engulfs military after Ukrainian president dismissed his popular
   defence minister
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-18T10:10:18Z'

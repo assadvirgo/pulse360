@@ -4,7 +4,7 @@ country: Laos
 countryCode: LA
 description: Officials say they have no evidence of poisoning over the 2024 deaths
   because autopsies were not conducted.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-18T11:10:20Z'

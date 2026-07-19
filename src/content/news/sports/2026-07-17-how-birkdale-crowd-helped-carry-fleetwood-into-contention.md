@@ -5,7 +5,7 @@ countryCode: GB
 description: Home favourite Tommy Fleetwood praises the support of the fans at Royal
   Birkdale as Scotland's Robert MacIntyre quietly fires himself into contention in
   round two of the 154th…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-17T22:47:16Z'

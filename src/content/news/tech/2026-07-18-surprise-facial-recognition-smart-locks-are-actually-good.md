@@ -3,7 +3,7 @@ category: Tech
 description: Hands-free unlocking is the future of smart locks. The best smart home
   tech removes friction, and having your door unlock for you as you walk up is as
   frictionless as it gets - no…
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-18T14:00:00Z'

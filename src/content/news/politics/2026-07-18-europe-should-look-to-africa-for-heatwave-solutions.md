@@ -2,7 +2,7 @@
 category: Politics
 description: African communities have spent decades developing practical, tested ways
   to live with extreme heat.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-18T12:19:35Z'

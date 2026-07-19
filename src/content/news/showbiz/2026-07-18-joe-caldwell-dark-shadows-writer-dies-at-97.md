@@ -5,7 +5,7 @@ countryCode: US
 description: Joe Caldwell, a writer known for his work on the original &#8220;Dark
   Shadows&#8221; TV series, died Monday following a stroke. He was 97. The news was
   confirmed by Bob Issel, who…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-18T16:52:26Z'
