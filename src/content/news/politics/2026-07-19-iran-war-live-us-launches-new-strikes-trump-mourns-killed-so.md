@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says death of soldiers in Jordan a &#039;sad thing&#039;
   as US forces attack Iran for the eighth consecutive night.
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 80.5
 pubDate: '2026-07-19T00:00:00Z'

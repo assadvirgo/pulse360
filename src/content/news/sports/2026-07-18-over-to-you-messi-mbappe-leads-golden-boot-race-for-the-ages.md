@@ -2,7 +2,7 @@
 category: Sports
 description: Kylian Mbappe leads the Golden Boot race by two goals but Lionel Messi
   could yet overtake him in the World Cup final.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-18T23:48:40Z'

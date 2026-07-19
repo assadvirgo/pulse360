@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Mojtaba Khamenei says Trump&#039;s signature is &#039;worthless&#039;
   and that &#039;bullying&#039; is a core element of US foreign policy.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-18T18:55:05Z'

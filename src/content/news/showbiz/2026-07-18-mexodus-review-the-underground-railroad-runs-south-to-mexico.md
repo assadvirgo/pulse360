@@ -5,7 +5,7 @@ countryCode: US
 description: 'To paraphrase Aaliyah: Cast size ain&#8217;t nothing but a number. In
   the realm of the theater, no one exactly equates the number of headshots on a Playbill
   page with the ultimate…'
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-18T23:52:06Z'

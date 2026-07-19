@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: A thunderstorm rolled through the region causing disruption, and a haze
   raised air quality concerns in New York City.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-18T19:42:27Z'

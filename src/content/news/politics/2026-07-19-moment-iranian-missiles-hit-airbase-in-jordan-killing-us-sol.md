@@ -4,7 +4,7 @@ country: Jordan
 countryCode: JO
 description: A video captures the moment an Iranian missile struck Jordan’s Muwaffaq
   Salti Airbase, killing two US service members.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-19T04:36:47Z'
