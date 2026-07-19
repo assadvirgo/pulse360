@@ -3,7 +3,7 @@ category: Politics
 country: Spain
 countryCode: ES
 description: ‘King [Messi] abdicates, but the prince [Lamine Yamal] takes the throne!’
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-19T08:41:18Z'

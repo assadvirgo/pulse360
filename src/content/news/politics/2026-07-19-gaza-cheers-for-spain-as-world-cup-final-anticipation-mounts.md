@@ -2,7 +2,7 @@
 category: Politics
 description: Football fans in Gaza express support for Spain in showdown with Argentina,
   citing Spanish solidarity with Palestinians.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-19T10:09:25Z'

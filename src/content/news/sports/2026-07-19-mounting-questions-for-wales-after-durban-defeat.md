@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wales complete Steve Tandy's first season in charge with three wins and
   nine defeats in 12 internationals.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-19T09:43:00Z'

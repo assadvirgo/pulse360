@@ -5,7 +5,7 @@ countryCode: US
 description: The manosphere influencers Andrew and Tristan Tate were arrested Saturday
   in Miami by US Marshals in relation to new rape and sex trafficking charges in England.
   According to the…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-19T14:20:48Z'

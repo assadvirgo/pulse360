@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple, Amazon, Nvidia and peers are quietly coming back to life, and
   that could easily jolt this sleepy stock market back into gear.
-displayOrder: 43
+displayOrder: 44
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-19T12:00:00Z'

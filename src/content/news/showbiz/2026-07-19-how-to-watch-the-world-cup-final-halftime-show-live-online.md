@@ -3,7 +3,7 @@ category: Showbiz
 description: The FIFA World Cup is getting its own Super Bowl-style halftime show
   for the first time. Madonna, Shakira, Justin Bieber and BTS will co-headline the
   inaugural FIFA World Cup…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 60.8
 pubDate: '2026-07-19T13:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: After a month of gameplay, the 2026 FIFA World Cup Final starts on Sunday,
   July 19. For the 23rd edition of the international soccer tournament final, the
   match takes place at New…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 59.8
 pubDate: '2026-07-19T15:30:00Z'

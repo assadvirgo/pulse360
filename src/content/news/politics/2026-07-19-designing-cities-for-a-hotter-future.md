@@ -2,7 +2,7 @@
 category: Politics
 description: Climate advocate Mina Hasman’s vision of designing cities that behave
   like forests and buildings that act like trees.
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-19T15:25:01Z'

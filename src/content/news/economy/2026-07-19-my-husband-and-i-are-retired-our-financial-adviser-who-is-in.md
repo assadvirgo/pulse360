@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I’m wondering whether I should ask to work with someone closer to our
   generation.”
-displayOrder: 29
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-19T09:20:00Z'

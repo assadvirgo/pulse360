@@ -5,7 +5,7 @@ countryCode: US
 description: What&#8217;s more thrilling than watching dinosaurs try to eat people
   alive on the big screen? Watching dinosaurs try to eat people alive on the big screen
   in 4DX, as unveiled in…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-07-19T15:30:00Z'

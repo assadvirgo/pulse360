@@ -3,7 +3,7 @@ category: Tech
 description: A recent update made video playback the default for songs and podcasts
   with a visual component. If you just want to listen to music—and save your data
   and battery—follow these…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-19T11:00:00Z'

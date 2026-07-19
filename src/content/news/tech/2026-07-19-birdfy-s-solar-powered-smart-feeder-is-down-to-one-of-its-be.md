@@ -3,7 +3,7 @@ category: Tech
 description: Birdfy has kicked off a midyear sale, taking up to 40 percent off a range
   of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered
   Smart Bird…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-19T15:00:00Z'

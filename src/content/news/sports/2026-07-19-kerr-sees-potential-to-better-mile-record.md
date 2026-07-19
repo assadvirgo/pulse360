@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Josh Kerr says breaking the men's mile world record is an "an awesome
   achievement" but hints he could attempt to set a new mark.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-07-19T08:57:34Z'

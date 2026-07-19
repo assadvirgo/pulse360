@@ -2,7 +2,7 @@
 category: Politics
 description: In an exclusive interview, Tobin Heath shares her insights before World
   Cup final and discusses best players and teams.
-displayOrder: 20
+displayOrder: 31
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-19T11:21:52Z'

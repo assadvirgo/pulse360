@@ -2,7 +2,7 @@
 category: Economy
 description: Ban particularly sensitive for industry that keeps products desirable
   by maintaining their scarcity
-displayOrder: 46
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-19T04:00:12Z'
