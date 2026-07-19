@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: This year's honorees were announced at a ceremony in Los Angeles on Friday
   night.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-18T20:59:42Z'

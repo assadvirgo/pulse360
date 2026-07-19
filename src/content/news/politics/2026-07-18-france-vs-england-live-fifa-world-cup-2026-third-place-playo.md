@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Live coverage and text updates from our commentary stream of the Bronze
   Final as Mbappe&#039;s France play Kane&#039;s England.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-18T17:46:20Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US and Iran have stepped up attacks in the last week, prompting alarm
   about return to full-scale war across the region.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-18T18:04:47Z'

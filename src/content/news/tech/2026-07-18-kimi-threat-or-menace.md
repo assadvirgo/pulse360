@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese company Moonshot AI released a new version of its Kimi model
   this week, prompting concern about "full AI communism."
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-18T18:51:07Z'

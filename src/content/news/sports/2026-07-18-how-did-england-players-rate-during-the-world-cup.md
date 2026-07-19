@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport England reporter Alex Howell assess how the Three Lions' players
   fared in North America.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-18T23:31:46Z'

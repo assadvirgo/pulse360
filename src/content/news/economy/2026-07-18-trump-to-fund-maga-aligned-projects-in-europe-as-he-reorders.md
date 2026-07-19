@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Objectives include countering ‘censorship’ from EU regulations and supporting
   ‘national sovereignty’
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-18T17:22:03Z'

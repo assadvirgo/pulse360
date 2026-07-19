@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Protest by India&#039;s Cockroach Janta Party has intensified after activist
   Sonam Wangchuk was forcibly hospitalised.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-18T21:03:34Z'

@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to
   agree to end his term.
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-18T19:34:16Z'

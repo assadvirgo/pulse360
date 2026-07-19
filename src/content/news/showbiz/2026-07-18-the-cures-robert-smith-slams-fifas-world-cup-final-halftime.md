@@ -3,7 +3,7 @@ category: Showbiz
 description: On the eve of the FIFA World Cup final featuring the first halftime show
   in its history, the Cure&#8217;s Robert Smith took to social media to slam the historic
   performance.…
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-18T20:17:10Z'

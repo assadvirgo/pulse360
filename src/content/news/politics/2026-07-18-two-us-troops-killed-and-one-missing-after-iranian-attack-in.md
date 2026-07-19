@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran and the US have traded strikes as hostilities re-escalated this
   week, with Tehran targeting US military facilities across the Gulf region.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-18T19:38:07Z'

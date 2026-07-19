@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Netflix is still a Wall Street favorite — and a target for government
   regulators
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-18T18:49:00Z'

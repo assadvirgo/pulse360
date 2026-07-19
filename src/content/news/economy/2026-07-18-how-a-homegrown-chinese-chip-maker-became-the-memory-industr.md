@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: As ChangXin Memory Technologies gears up for a breakout public listing,
   the chip maker is eyeing the turf held by Micron, SK Hynix and Samsung.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-18T12:00:00Z'

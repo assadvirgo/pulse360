@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: All the updates from our live text commentary stream coverage of the
   Bronze Final, which saw Saka score a hat-trick.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-18T17:46:20Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russian officials say strikes on retailer&#039;s warehouses caused civilian
   casualties; Kyiv says sites used to make drones.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 71.5
 pubDate: '2026-07-18T11:10:09Z'
