@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Mali says counterattack under way as rebels claim they inflicted &#039;human
   losses&#039; and &#039;material damage&#039; on troops.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-18T16:24:29Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Ryanair has also warned passengers travelling to Europe this summer to
   prepare for extended waits.
-displayOrder: 6
+displayOrder: 10
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-19T01:47:59Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The see-sawing match went down to the final over, bowled by Shadley van
   Schalkwyk, and then to the last ball, before a run out gave Los Angeles Knight Riders
   a one-run win
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-19T04:19:50Z'

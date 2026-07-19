@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Brondello suspended for a game after calling Reese a &#039;protected
   species&#039; in Toronto Tempo&#039;s game against Atlanta Dream.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-19T01:57:39Z'

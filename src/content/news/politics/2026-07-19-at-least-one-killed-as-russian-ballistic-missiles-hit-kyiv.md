@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russian missiles struck Kyiv and the surrounding region early on Sunday,
   killing at least one person and injuring nine.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-19T04:32:28Z'

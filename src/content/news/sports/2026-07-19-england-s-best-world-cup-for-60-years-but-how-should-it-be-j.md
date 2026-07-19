@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England have secured their best men's World Cup finish since winning
   the tournament 60 years ago. Is their performance at the 2026 edition being under-appreciated?
-displayOrder: 20
+displayOrder: 25
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-19T00:23:05Z'

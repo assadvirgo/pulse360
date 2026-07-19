@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: When words like fascist and Nazi are thrown around, being merely conservative
   seems mild by comparison
-displayOrder: 16
+displayOrder: 22
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-19T04:00:12Z'

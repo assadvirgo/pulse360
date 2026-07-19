@@ -5,7 +5,7 @@ countryCode: CA
 description: Canadian leader Mark Carney says both the US and Canada have an equal
   responsibility to fight climate change, which experts say are worsening wildfire
   conditions.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-18T17:29:50Z'

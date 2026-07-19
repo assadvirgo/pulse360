@@ -3,7 +3,7 @@ category: Tech
 description: Carter Sherman has been covering sex, gender, and the complex personal
   and national politics that accompany them for years. She was a senior reporter for
   Vice and has written for…
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-18T14:30:00Z'
