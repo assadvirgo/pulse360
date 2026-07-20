@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Extra-time winner from Ferran Torres is decisive moment in tight but
   completely one-sided final
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 44.5
 pubDate: '2026-07-19T23:35:31Z'

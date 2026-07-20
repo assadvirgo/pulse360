@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain edge Messi’s Argentina 1-0 in extra time to claim their second
   World Cup title.
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-20T08:08:51Z'

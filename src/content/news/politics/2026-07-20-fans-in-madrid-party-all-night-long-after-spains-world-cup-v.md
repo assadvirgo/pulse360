@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spanish fans spent the night partying in Madrid after their team defeated
   Argentina 1-0 in the final of the World Cup.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-20T03:59:18Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US defence group says new weapon will be less than half the cost of current
   flagship interceptor
-displayOrder: 21
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-20T07:54:34Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Disgraced music mogul Sean “Diddy” Combs has finally sold the Miami mansion
   he once put up as collateral in his failed bid for bail in his sex-trafficking case.
   It was sold for…
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-20T09:02:00Z'

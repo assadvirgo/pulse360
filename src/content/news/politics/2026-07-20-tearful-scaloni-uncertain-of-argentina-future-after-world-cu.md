@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Manager says it would be difficult to assemble another squad capable
   of reaching two consecutive World Cup finals.
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-20T04:31:13Z'

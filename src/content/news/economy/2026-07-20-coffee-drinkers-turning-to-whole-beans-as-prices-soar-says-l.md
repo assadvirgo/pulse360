@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Chair of Italian family-owned group says consumers are opting for ‘less
   but better’
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-20T04:00:19Z'

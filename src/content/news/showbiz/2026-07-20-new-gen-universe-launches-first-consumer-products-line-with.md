@@ -5,7 +5,7 @@ countryCode: US
 description: New-Gen Universe, Inc. is launching its first consumer products initiative
   at San Diego Comic-Con, debuting an exclusive collector&#8217;s trading card set
   made with Cryptozoic…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-20T07:05:50Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hundreds of demonstrators in Texas city demand justice in fatal shooting
   of 52-year-old Mexican man.
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-20T05:01:07Z'

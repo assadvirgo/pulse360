@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: State-owned funds announce stock purchases after sharp AI tech sell-off
   last week
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-20T08:43:01Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US carries out fresh wave of attacks as the number of American casualties
   rises
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-20T07:11:41Z'

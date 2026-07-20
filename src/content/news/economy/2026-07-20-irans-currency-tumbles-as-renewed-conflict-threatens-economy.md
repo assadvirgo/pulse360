@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US blockades ports and targets infrastructure as Donald Trump tries to
   force Tehran’s hand over Strait of Hormuz
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-20T04:00:28Z'

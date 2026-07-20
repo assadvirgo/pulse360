@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Tournament’s best team wins one-sided final 1-0 and claims clutch of
   individual prizes
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-20T02:10:13Z'

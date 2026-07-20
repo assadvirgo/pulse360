@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Andy Burnham will become UK prime minister. Here&#039;s how the transition
   of power will unfold.
-displayOrder: 8
+displayOrder: 28
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-20T03:20:48Z'

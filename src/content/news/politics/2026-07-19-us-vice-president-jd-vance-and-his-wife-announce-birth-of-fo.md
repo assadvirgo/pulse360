@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: JD and Usha Vance welcome a baby boy, the first child born to a sitting
   vice president in more than 150 years.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-19T23:35:06Z'

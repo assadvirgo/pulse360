@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: Holly Willoughby is setting up shop on YouTube. The top British
   presenter is launching Holly Willoughby Together, a lifestyle series for YouTube
   and social that counts…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-20T07:00:00Z'
