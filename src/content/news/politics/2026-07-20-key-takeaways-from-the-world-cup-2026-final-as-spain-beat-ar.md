@@ -2,7 +2,7 @@
 category: Politics
 description: Midfield dominance, stifling Lionel Messi and gifted wingers - Spain
   outclassed Argentina to lift the World Cup.
-displayOrder: 22
+displayOrder: 41
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-20T08:15:31Z'

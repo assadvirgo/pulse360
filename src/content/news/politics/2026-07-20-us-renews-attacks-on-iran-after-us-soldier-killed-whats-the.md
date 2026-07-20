@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran&#039;s IRGC claims an attack on Jordan while the US embassy issues
   a warning to Americans in Bahrain.
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-20T07:47:42Z'

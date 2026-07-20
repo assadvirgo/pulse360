@@ -5,7 +5,7 @@ countryCode: GB
 description: Andy Burnham became Prime Minister of the United Kingdom on Monday, taking
   over from Keir Starmer in a handover choreographed around a visit to Buckingham
   Palace, where Starmer…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-20T11:24:43Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Ferran Torres breaks the deadlock, scoring in extra time for Spain in
   the World Cup final against Argentina at the New York New Jersey Stadium.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-07-19T22:03:04Z'

@@ -5,7 +5,7 @@ countryCode: CH
 description: The Locarno Film Festival will honor James Gray with a lifetime career
   award at this year&#8217;s edition, where the U.S. auteur&#8217;s most recent work,
   &#8220;Paper…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-20T09:00:00Z'

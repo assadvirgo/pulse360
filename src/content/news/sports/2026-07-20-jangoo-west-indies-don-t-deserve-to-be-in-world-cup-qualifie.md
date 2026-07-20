@@ -2,7 +2,7 @@
 category: Sports
 description: A one-wicket defeat in Barbados was West Indies' third loss in a row
   and a "difficult pill to swallow", as Amir Jangoo put it
-displayOrder: 43
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-20T04:18:57Z'

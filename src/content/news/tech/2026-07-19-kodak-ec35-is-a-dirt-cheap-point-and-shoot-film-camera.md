@@ -5,7 +5,7 @@ countryCode: US
 description: Following the success of its $99 Kodak-branded Snapic A1, Reto Project
   is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99.
   The EC35 certainly…
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-19T19:26:06Z'

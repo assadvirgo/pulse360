@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US military carried out its ninth consecutive night of strikes on
   Iran.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-20T04:38:16Z'

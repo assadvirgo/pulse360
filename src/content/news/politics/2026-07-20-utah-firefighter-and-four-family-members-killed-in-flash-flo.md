@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A husband, wife and their three sons died - meaning that only a daughter
   who did not join the outing is still alive.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-20T12:13:58Z'

@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The Ebola outbreak in the Democratic Republic of Congo (DRC) has now
   claimed 930 lives, the country's health ministry has said.
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-20T07:31:00Z'

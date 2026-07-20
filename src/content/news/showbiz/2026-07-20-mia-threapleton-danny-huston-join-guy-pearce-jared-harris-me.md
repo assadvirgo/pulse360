@@ -5,7 +5,7 @@ countryCode: GB
 description: Anthony McCarten’s post-World War Two political thriller The Price of
   Peace &#8211; starring Guy Pearce, Jared Harris and Merab Ninidze as Harry S. Truman,
   Winston Churchill and…
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-20T09:32:35Z'
