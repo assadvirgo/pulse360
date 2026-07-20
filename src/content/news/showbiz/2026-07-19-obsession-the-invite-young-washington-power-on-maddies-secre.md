@@ -5,7 +5,7 @@ countryCode: US
 description: Indies The Invite (A24, $15 million cume), Young Washington (Angel Studios,
   $41 million cume) and Obsession (Focus Features, $258 million cume) are sitting
   in the top ten in,…
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-19T23:44:20Z'

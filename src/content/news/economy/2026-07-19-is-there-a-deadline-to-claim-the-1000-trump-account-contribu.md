@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some children who don’t qualify for the government contribution may be
   eligible for an initial $250.
-displayOrder: 21
+displayOrder: 42
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-19T15:43:00Z'

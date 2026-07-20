@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US
   backing to end Israel-Hezbollah fighting.
-displayOrder: 11
+displayOrder: 25
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-19T18:24:33Z'

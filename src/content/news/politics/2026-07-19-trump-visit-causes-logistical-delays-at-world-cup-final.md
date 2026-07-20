@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Al Jazeera reporters faced lengthy queues to enter the stadium due to
   tighter security checks.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-19T19:05:41Z'

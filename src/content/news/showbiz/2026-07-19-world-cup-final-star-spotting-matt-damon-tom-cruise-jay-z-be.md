@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New York-New Jersey Stadium was packed with celebrities on Sunday as
   A-listers from film, TV, music and more turned up to see Argentina vs. Spain.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-07-19T20:59:37Z'

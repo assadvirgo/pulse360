@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump administration has opened American markets to highly leveraged
   perpetual futures
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-19T10:10:53Z'

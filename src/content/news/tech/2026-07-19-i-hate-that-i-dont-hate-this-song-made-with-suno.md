@@ -3,7 +3,7 @@ category: Tech
 description: I would never go so far as to say there's no place for AI in music (I'm
   a fan of Holly Herndon, after all). But I generally find music made with generative
   AI to be offensively…
-displayOrder: 20
+displayOrder: 40
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-19T17:35:54Z'

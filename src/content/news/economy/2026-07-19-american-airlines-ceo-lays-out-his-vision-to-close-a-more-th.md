@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The carrier is working on improving reliability, investing in more premium
   seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-19T12:00:01Z'

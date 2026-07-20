@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the
   mountainous Junin region east of Lima.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-19T20:11:51Z'

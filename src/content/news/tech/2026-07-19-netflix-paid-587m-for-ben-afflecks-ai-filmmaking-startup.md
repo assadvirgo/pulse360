@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Netflix revealed that it paid $587 million in cash for InterPositive,
   a startup co-founded by Ben Affleck.
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-19T21:45:00Z'

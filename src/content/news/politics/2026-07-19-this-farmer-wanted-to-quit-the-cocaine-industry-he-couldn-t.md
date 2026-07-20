@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Colombians who grow cocaine's raw material bemoan a lack of support to
   help them switch crops.
-displayOrder: 4
+displayOrder: 7
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-19T23:18:03Z'

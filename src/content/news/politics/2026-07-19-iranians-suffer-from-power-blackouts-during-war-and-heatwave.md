@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Collapsing grid, battered by military strikes and chronic underinvestment,
   leaves Iranians sweltering in the dark.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-19T11:16:20Z'

@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: More frequent hot summers will harm productivity and claim lives
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-19T13:58:44Z'

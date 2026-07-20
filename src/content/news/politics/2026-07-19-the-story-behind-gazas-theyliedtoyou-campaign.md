@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: 'The story behind Gaza’s #TheyLiedToYou campaign'
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-19T18:54:54Z'

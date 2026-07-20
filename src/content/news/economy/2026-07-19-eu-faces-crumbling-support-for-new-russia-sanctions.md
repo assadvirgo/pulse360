@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: National capitals refuse to support measures that could hurt big companies
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-19T14:00:02Z'

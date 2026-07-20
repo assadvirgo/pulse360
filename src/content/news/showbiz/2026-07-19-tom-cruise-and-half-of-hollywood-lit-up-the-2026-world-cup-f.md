@@ -5,7 +5,7 @@ countryCode: US
 description: The 2026 FIFA World Cup has smashed ratings records in the U.S. and around
   the world, owing to its unique mix of star power — Lionel Messi, Cristiano Ronaldo
   and Neymar performing…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 59.8
 pubDate: '2026-07-19T20:16:42Z'

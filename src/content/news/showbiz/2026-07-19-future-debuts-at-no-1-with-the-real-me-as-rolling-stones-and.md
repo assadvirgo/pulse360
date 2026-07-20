@@ -5,7 +5,7 @@ countryCode: US
 description: We have seen the future of who&#8217;s moving up in the list of artists
   contending to have the most No. 1 albums ever, and its name is Future. The rapper
   debuted on top of the…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-19T22:33:02Z'

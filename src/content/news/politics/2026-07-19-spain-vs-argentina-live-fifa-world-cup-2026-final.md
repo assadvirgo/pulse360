@@ -2,7 +2,7 @@
 category: Politics
 description: Live coverage and text updates as Spain play Argentina in the final of
   the 2026 World Cup.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-19T15:00:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: The 2030 tournament will span six countries and three continents as FIFA
   celebrates the World Cup&#039;s centenary.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-19T22:51:01Z'

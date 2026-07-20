@@ -2,7 +2,7 @@
 category: Economy
 description: With Fifa a bit short on credibility, the FT columnist has stepped in
   to create his own prizes
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-19T04:00:20Z'
