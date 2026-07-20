@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th
   anniversary of the attack.
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-20T01:11:08Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US forces attack Iran for ninth consecutive night as one US soldier killed
   in northern Iraq.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-20T00:00:00Z'

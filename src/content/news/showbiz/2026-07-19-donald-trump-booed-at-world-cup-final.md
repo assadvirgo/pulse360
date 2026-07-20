@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As the president walked out onto the field for the presentation of the
   awards with FIFA chief Gianni Infantino, boos could be heard coming from the crowd.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-19T23:55:54Z'

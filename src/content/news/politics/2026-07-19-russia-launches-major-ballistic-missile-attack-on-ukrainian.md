@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Eight people die and dozens are injured as several cities are hit by
   missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-19T18:25:40Z'

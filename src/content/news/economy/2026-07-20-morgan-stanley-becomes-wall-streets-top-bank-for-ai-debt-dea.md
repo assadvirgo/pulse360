@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Big Tech-backed financing has cut borrowing costs but deepened industry’s
   AI exposure
-displayOrder: 30
+displayOrder: 36
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-20T04:00:10Z'

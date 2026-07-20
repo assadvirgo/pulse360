@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Ferran Torres scores the only goal of the game as Spain win their second
   World Cup.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-19T22:32:30Z'

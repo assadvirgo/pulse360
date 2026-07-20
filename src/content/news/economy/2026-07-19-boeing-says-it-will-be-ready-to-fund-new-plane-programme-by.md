@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US group expects to have firepower to start work on 737 Max successor
   but warns that demand may be more of a constraint
-displayOrder: 37
+displayOrder: 48
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-19T17:22:26Z'

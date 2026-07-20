@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Andy Burnham will become Britain&#039;s next prime minister on Monday,
   with huge challenges and opportunities.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-19T20:12:26Z'

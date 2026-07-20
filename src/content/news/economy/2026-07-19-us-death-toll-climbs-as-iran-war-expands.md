@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A service member died in a ‘controlled detonation’ of a drone after two
   troops were killed in Jordan with another missing
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-19T22:31:19Z'

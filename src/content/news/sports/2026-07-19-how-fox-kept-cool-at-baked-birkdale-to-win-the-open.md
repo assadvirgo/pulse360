@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ryan Fox wins the Open Championship - his first major title - with his
   final putt on a record-breaking weekend at Royal Birkdale.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-19T18:19:48Z'

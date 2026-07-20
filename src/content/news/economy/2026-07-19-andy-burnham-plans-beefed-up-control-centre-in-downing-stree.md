@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Incoming prime minister wants to be less reliant on ‘imperial’ Treasury
   as he bids to restore confidence in government
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-19T20:00:04Z'

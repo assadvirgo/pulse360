@@ -5,7 +5,7 @@ countryCode: US
 description: Jennifer Finch, the powerhouse bassist of L7 during the band&#8217;s
   creative peak in the 1990s, has died. That, according to her Instagram account.
   She was 59. A social media…
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-20T02:48:30Z'

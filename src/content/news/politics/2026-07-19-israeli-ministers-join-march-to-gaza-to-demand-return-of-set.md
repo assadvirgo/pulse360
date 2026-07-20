@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hundreds gather near the border as far-right figures push to rebuild
   settlements removed in 2005
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-19T20:55:11Z'

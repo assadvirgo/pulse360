@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: While Ferran Torres orchestrated Spain&#039;s winning the ultimate prize,
   his teammates walk away with awards of their own.
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-20T02:09:53Z'

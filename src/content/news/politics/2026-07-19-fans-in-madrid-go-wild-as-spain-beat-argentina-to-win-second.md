@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Fans in Madrid erupted in celebration after Spain beat Argentina 1-0
   in the World Cup final.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-19T23:05:40Z'

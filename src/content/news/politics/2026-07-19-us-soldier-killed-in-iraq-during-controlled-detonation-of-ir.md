@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The death brings the number of US soldiers killed since the start of
   the US-Israel war on Iran to 17.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-19T23:49:30Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode
   5 of “House of the Dragon,” now streaming on HBO Max. In tonight&#8217;s &#8220;House
   of the Dragon&#8221;…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-20T02:00:00Z'
