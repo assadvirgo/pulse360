@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: An AI-assisted video essay from Colombia, a Tunisian sci-fi dystopia,
   and an Italian coming-of-age musical are among this year's Critics' Week selections.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-20T10:54:38Z'

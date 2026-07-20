@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: After 106 minutes, 20 shots and more than 800 passes, Spain's Ferran
   Torres finally opened the scoring in the World Cup final.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 52.0
 pubDate: '2026-07-20T12:46:00Z'

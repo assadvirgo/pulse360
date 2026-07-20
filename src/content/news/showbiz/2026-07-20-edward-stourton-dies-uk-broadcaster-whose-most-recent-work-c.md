@@ -5,7 +5,7 @@ countryCode: GB
 description: UK broadcaster Edward Stourton, whose 45-year career included first-hand
   coverage of the Ronald Reagan era, the first Gulf War, the Siege of Sarajevo and
   the aftermath of the 9/11…
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-20T14:44:16Z'

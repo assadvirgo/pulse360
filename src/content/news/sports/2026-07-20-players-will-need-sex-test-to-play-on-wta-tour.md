@@ -2,7 +2,7 @@
 category: Sports
 description: The Women's Tennis Association is to ask all players to undergo genetic
   sex testing in order to compete on the WTA Tour.
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-20T09:09:38Z'

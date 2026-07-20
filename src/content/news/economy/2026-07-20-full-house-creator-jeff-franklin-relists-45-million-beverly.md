@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Full House” creator Jeff Franklin is once again on the hunt for a buyer
   for his Beverly Hills mansion which has sinister ties to the Charles Manson murders.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-20T08:59:00Z'

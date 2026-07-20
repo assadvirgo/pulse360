@@ -2,7 +2,7 @@
 category: Politics
 description: Al-Hayya was previously one of the five-member leadership council after
   previous Hamas chief Yahya Sinwar was killed.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-20T11:27:04Z'

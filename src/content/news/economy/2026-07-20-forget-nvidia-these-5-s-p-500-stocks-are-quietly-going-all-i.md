@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The “Mag Seven” has become the “Bag Seven.” Sharp tech investors are
   looking elsewhere.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-20T13:46:00Z'

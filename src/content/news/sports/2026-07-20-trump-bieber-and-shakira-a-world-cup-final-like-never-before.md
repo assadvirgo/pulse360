@@ -3,7 +3,7 @@ category: Sports
 description: The 2026 World Cup final may not linger long in the memory for what happened
   on the pitch but it will for all that surrounded it, with an appearance by President
   Trump, the…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-20T00:44:03Z'

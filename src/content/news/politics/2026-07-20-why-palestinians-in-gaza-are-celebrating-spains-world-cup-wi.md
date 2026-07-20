@@ -2,7 +2,7 @@
 category: Politics
 description: Thousands gathered across Gaza to watch the World Cup final, with many
   backing Spain over its support for Palestinians.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-20T13:21:51Z'

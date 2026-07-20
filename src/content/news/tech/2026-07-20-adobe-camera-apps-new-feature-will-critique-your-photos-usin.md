@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Adobe's Project Indigo can now remove all kinds of backgrounds from photos
   you snap using the app
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-20T15:45:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Resurgent costs drive frustration with President Donald Trump ahead of
   midterm elections
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-20T15:22:10Z'

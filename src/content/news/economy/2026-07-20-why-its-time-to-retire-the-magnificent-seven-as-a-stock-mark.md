@@ -5,7 +5,7 @@ countryCode: US
 description: Magnificent Seven as a group is underperforming the broader market this
   year, but strategists at Citi argue it’s no longer a grouping that even makes sense
   to think about it.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-20T10:02:00Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Fans in Spanish city on Mediterranean cheer on both sides as Spain defeat
   Argentina 1-0 in extra time.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-20T11:15:15Z'

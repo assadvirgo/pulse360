@@ -5,7 +5,7 @@ countryCode: US
 description: For the first time since 2024, StrictlyVC is coming back to New York
   City — and we're bringing the kind of access you’d expect from an under-wraps event
   to the whole startup, VC,…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-20T12:30:00Z'

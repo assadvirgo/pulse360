@@ -5,7 +5,7 @@ countryCode: US
 description: R&#38;B singer and session musician Jim Gilstrap, who can be heard on
   the theme song for 1970s sitcom Good Times and Stevie Wonder&#8217;s &#8220;You
   Are The Sunshine Of My…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-20T14:20:03Z'

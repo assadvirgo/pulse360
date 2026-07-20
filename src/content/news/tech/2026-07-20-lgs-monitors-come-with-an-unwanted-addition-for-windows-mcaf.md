@@ -5,7 +5,7 @@ countryCode: US
 description: A video from Gamers Nexus explains how, after connecting a new LG UltraGear
   monitor to a PC running Windows 11 for the first time, Windows Update is silently
   installing LG driver…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-20T16:14:58Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine launches hundreds of drones towards Moscow a day after Russia
   unleashed a massive barrage of ballistic missiles.
-displayOrder: 2
+displayOrder: 15
 heroImage: ''
 importance: 71.5
 pubDate: '2026-07-20T12:50:04Z'

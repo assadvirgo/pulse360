@@ -5,7 +5,7 @@ countryCode: UA
 description: The latest National Police Service report recorded more than 600 assaults
   on recruitment officers to date and warned that the aggression has become “increasingly
   threatening”.
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-20T08:21:09Z'

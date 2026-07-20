@@ -5,7 +5,7 @@ countryCode: AF
 description: Only a few years ago, Nazila Azizi was dodging bullets fired by the Taliban
   and trying to climb aboard one of the last evacuation flights out of Kabul. Today,
   the Afghan native is…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 66.0
 pubDate: '2026-07-20T16:00:00Z'
