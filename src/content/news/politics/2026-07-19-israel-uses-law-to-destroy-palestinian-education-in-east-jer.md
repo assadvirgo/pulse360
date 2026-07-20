@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Legislation recently passed by the Knesset is meant to dismantle the
   Palestinian education system in East Jerusalem.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-19T15:46:23Z'

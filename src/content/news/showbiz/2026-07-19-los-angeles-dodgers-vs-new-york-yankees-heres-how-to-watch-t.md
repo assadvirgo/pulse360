@@ -5,7 +5,7 @@ countryCode: US
 description: After the MLB All-Star Week, the two of the biggest markets go head-to-head
   to compete for bragging right of the best city in the league. We&#8217;d also see
   which is the better…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-07-19T20:00:00Z'

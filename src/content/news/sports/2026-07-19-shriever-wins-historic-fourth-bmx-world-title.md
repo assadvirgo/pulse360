@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Beth Shriever becomes the first BMX racer to win four elite world titles
   as extreme weather curtails the UCI BMX Racing World Championships in Brisbane.
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-19T14:22:54Z'

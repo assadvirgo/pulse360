@@ -3,7 +3,7 @@ category: Tech
 description: In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's
   one of my favorite music gear purchases. Electric chord organs let you play full
   chords with just a press…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-19T15:15:00Z'

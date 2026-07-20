@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: Enjoy the best moments from Ryan Fox's final round at the 2026 Open Championship
   as the New Zealander wins his first major of his career at Royal Birkdale Golf Club.
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-19T18:13:45Z'

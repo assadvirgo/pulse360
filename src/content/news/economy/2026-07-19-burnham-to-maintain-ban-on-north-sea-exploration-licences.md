@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Decision criticised by oil and gas industry as well as trade union
-displayOrder: 27
+displayOrder: 38
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-19T15:37:26Z'

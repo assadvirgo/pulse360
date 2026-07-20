@@ -3,7 +3,7 @@ category: Showbiz
 description: Tom Cruise made a guest appearance during the pre-show for the 2026 FIFA
   World Cup final. Ahead of the matchup between Spain and Argentina to find out who
   becomes the soccer…
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 72.0
 pubDate: '2026-07-19T19:22:15Z'

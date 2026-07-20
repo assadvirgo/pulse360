@@ -2,7 +2,7 @@
 category: Politics
 description: Organisers say 23 runners from seven countries took part in races at
   the Arctic's geographic North Pole.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-19T14:06:08Z'

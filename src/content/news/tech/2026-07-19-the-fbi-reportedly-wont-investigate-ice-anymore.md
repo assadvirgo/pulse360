@@ -5,7 +5,7 @@ countryCode: US
 description: According to the New York Times, federal agents have been told that the
   FBI will no longer be investigating confrontations involving ICE agents. The DHS
   and DOJ denied the change…
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-19T16:42:10Z'

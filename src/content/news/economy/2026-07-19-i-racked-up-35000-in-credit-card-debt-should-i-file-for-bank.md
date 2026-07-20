@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I’m also considering working with a credit-counseling agency or enrolling
   in a hardship program.”
-displayOrder: 41
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-19T12:30:00Z'

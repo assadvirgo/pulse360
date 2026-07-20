@@ -2,7 +2,7 @@
 category: Politics
 description: For Palestinians fighting Israeli occupation, football has never been
   just a game.
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-19T14:27:02Z'

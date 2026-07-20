@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The wife of 59-year-old Sonam Wangchuk says his enforced hospitalisation
   is &#039;illegal detention&#039;.
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-19T12:38:24Z'
