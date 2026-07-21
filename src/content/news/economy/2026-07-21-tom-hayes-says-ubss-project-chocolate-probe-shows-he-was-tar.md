@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Trader nicknamed ‘Tommy Chocolate’ argues bank’s rate-fixing investigation
   was stacked against him
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-21T04:00:30Z'

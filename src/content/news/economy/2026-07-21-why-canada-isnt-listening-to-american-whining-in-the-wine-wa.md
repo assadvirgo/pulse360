@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Donald Trump’s tariffs have taught us an important lesson in the value
   of retaliation
-displayOrder: 28
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-21T04:00:10Z'

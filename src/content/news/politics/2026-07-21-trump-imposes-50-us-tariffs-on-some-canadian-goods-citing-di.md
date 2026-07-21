@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tariffs apply to Canadian wine, hockey sticks, cement, and other products,
   sparking fears of escalating trade tensions.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-21T00:08:50Z'

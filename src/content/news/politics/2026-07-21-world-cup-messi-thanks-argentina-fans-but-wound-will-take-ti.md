@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina were beaten 1-0 in the final by Spain in what has been rumoured
   to be Lionel Messi&#039;s final World Cup game.
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-21T06:52:38Z'

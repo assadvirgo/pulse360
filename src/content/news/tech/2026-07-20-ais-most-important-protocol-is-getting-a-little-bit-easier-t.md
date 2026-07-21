@@ -3,7 +3,7 @@ category: Tech
 description: Under the new system, the protocol will take a looser, "stateless" approach
   to session IDs on the server side, similar to how most ordinary websites already
   work.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-20T20:50:40Z'

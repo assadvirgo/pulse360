@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Shams Mulani to be the team's vice-captain, while Prithvi Shaw and Musheer
   Khan have both been included in the squad
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-21T06:33:38Z'

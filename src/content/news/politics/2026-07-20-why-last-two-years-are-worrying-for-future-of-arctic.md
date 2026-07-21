@@ -2,7 +2,7 @@
 category: Politics
 description: Arctic winter sea ice is back in rapid decline after a slowdown in melting
   at the start of the decade, scientists have found.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-20T22:03:00Z'

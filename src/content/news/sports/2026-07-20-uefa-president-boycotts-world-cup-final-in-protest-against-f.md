@@ -2,7 +2,7 @@
 category: Sports
 description: Uefa president Aleksander Ceferin did not attend the World Cup final
   between Argentina and Spain in protest against Fifa.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-07-20T16:44:02Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The US is on the verge of losing its status as the world’s leading exporter
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-21T04:00:20Z'

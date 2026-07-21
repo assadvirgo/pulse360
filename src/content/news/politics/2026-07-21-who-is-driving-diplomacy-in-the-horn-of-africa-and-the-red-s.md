@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: A series of diplomatic consultations in Cairo underscores the Horn of
   Africa&#039;s growing strategic importance.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-21T02:52:44Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Increased power costs add to challenges facing tech giant’s AI ambition
   amid high spending and mounting debt
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-20T23:33:46Z'

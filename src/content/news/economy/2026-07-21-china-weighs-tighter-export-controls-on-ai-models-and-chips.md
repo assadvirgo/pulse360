@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing consults companies on ways to stop west acquiring its advanced
   technologies and star start-ups
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-21T04:00:20Z'

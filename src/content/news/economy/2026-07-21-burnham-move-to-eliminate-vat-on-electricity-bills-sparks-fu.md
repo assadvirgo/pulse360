@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Government claim that measure would be funded by scrapping digital ID
   scheme disputed by former minister
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-21T05:43:32Z'
