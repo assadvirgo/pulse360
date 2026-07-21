@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Monsoon rains devastate communities, with rescue and relief operations
   intensifying and the death toll rising.
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-20T16:17:12Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian president under pressure to replace commander-in-chief who
   clashed with Mykhailo Fedorov
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-20T12:37:37Z'

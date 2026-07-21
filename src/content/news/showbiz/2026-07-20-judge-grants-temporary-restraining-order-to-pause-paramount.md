@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge has granted a temporary restraining order that will pause
   Paramount&#8217;s merger with Warner Bros Discovery for 14 days. The order, issued
   Monday, is in response…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-20T17:06:51Z'

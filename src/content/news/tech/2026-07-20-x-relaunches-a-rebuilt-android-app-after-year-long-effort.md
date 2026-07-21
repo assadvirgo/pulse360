@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: X says the rebuilt version of its Android app is now available globally.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-20T19:37:39Z'

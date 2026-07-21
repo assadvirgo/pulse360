@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Federal court grants request for temporary halt to merger while examining
   impact on competition in Hollywood
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-20T17:37:41Z'

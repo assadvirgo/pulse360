@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Stuart Fails to Save the Universe&#8221; takes place in a comic
   book shop, so it&#8217;s only natural that the new HBO Max series would get its
   own, actual comic book. As…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-20T18:00:00Z'

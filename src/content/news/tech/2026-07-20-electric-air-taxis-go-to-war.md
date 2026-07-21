@@ -5,7 +5,7 @@ countryCode: US
 description: Electric aviation is still in its infancy, but manufacturers are already
   looking beyond mere air taxi trips across cities. Today, one of the leading air
   taxi startups, San…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-20T13:52:21Z'

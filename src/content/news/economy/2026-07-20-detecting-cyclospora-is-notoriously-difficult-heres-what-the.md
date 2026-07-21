@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The FDA and CDC are investigating iceberg lettuce sold by Taylor Farms
   to confirm the source of the cyclospora outbreak
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-20T16:17:00Z'

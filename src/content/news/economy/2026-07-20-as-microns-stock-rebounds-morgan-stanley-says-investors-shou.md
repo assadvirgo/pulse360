@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Memory chips remain a bottleneck to AI development and demand looks durable,
   Morgan Stanley analyst says.
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-20T17:14:00Z'

@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Yemeni group says the announcement is based on the principle of &#039;an
   eye for an eye&#039;.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-20T15:39:37Z'

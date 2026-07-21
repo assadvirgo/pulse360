@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Tragedy struck in the Salamanca province when the 13-year-old died during
   celebrations for the win against Argentina.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-20T10:07:16Z'

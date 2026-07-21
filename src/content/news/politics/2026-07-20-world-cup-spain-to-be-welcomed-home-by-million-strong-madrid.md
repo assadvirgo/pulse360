@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain beat Argentina 1-0 in Sunday&#039;s final in the US, and are expected
   to parade the trophy in Madrid on Monday.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-20T11:09:16Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Al-Hayya wins Hamas leadership with a single-vote margin, signalling
   a focus on Gaza amidst continued Israeli aggression
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-20T19:43:02Z'

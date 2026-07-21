@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-20T11:28:30Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The &#8220;Scrubs&#8221; revival at ABC is undergoing some cast changes
   ahead of its second season (and the show&#8217;s 11th season overall). Ava Bunn,
   who starred as Dr. Sam…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-20T20:00:00Z'

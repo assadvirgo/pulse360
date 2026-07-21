@@ -5,7 +5,7 @@ countryCode: US
 description: Edinburgh-based tech firm Craneware said customer data was stolen during
   a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies,
   and clinics rely…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-20T15:01:20Z'
