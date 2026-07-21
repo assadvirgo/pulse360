@@ -4,7 +4,7 @@ country: Nicaragua
 countryCode: NI
 description: The Central American state&#039;s longtime leader intends to block the
   opposition from challenging his rule.
-displayOrder: 32
+displayOrder: 45
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-20T20:49:08Z'

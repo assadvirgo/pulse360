@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The NGO is &#039;outraged&#039; by Israel&#039;s treatment of the health
   professionals and warns that &#039;silence has become complicity&#039;.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-20T23:41:28Z'

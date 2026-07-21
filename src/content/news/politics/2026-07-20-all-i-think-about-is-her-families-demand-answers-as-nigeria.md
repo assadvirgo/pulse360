@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Hundreds of lives are lost each year in Nigeria as a result of boat accidents
   yet nothing seems to change.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-20T17:16:20Z'

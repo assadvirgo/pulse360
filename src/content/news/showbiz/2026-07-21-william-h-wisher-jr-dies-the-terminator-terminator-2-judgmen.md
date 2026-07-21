@@ -5,7 +5,7 @@ countryCode: US
 description: 'William H. Wisher Jr., a producer and screenwriter who co-wrote The
   Terminator and Terminator 2: Judgment Day, has died. He was 71. The Wisher family
   confirmed news of the…'
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-21T02:38:47Z'

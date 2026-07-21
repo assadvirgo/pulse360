@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Under a US-brokered plan, Israel is to hand over control of some areas
   it occupies in Lebanon to Lebanese government.
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-21T03:29:37Z'

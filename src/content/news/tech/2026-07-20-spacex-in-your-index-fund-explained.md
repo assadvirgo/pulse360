@@ -5,7 +5,7 @@ countryCode: US
 description: Index funds are touted as one of the safest ways to invest. Rather than
   picking and choosing individual stocks, index funds let you bet on the market as
   a whole. So what happens…
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-20T21:00:00Z'

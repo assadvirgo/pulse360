@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Argentina will face an investigation into the ugly scenes at the end
   of the World Cup final, Fifa has confirmed.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-20T19:32:37Z'

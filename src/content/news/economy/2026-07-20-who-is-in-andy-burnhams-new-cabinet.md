@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK prime minister announces top team, with some experienced faces returning
   to government
-displayOrder: 25
+displayOrder: 40
 heroImage: ''
 importance: 62.5
 pubDate: '2026-07-20T19:40:55Z'

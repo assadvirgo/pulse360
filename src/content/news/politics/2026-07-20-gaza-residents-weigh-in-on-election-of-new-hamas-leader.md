@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: Gaza residents weigh in on election of new Hamas leader
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-20T20:53:29Z'

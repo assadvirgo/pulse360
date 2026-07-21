@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Kieran McGeeney is ratified to continue as Armagh manager for a 13th
   season after the Orchard County ended their long wait for an Ulster title in 2026.
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-20T21:24:26Z'

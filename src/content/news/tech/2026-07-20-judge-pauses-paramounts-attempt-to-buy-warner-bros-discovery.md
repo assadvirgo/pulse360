@@ -5,7 +5,7 @@ countryCode: US
 description: A judge partially granted the request from a dozen state attorneys general
   to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery
   on hold, as…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-20T17:37:53Z'

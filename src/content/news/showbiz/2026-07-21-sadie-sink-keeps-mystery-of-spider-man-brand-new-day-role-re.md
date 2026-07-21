@@ -5,7 +5,7 @@ countryCode: US
 description: 'Sadie Sink&#8217;s role in Spider-Man: Brand New Day remains a mystery
   ahead of the film&#8217;s premiere. A new video teased Sink revealing three things
   about her character in…'
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-21T03:59:45Z'

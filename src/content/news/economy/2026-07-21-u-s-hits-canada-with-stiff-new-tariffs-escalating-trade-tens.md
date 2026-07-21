@@ -5,7 +5,7 @@ countryCode: US
 description: The Trump administration on Monday said it would slap 50% tariffs on
   some goods imported from Canada, in an effort to end what it sees as discriminatory
   trade practices by Ottawa…
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-21T00:13:00Z'
