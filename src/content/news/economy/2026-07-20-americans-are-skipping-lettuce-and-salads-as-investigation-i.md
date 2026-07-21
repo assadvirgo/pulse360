@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Shares of salad chains like Cava, Chipotle and Sweetgreen closed lower
   on Monday.
-displayOrder: 22
+displayOrder: 31
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-20T21:44:00Z'

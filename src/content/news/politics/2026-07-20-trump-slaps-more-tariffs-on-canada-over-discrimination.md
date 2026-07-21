@@ -5,7 +5,7 @@ countryCode: US
 description: The Trump administration has introduced 50% tariffs on more goods from
   Canada, with an official claiming the measures are in response to the country's
   "continued discrimination".
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-20T21:32:00Z'

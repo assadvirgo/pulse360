@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The former mayor of Greater Manchester succeeds Keir Starmer with vow
   to tackle the cost of living
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-20T17:21:36Z'

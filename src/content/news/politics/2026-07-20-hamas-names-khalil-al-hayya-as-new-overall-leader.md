@@ -2,7 +2,7 @@
 category: Politics
 description: The Palestinian armed group's Qatar-based chief negotiator replaces Yahya
   Sinwar, who was killed by Israeli forces in Gaza in 2024.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-20T14:02:31Z'

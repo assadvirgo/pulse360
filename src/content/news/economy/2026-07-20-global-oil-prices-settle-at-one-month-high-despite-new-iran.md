@@ -3,7 +3,7 @@ category: Economy
 description: Oil prices settled at one-month highs in volatile trading on Monday as
   traders weighed escalating geopolitical tensions following a fresh barrage of strikes
   across the Middle East…
-displayOrder: 26
+displayOrder: 36
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-20T21:11:00Z'

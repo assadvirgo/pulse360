@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Yemen’s Iran-backed Houthi rebels have announced a maritime blockade
   on Saudi Arabia after the two sides traded fire
-displayOrder: 28
+displayOrder: 38
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-20T18:32:05Z'

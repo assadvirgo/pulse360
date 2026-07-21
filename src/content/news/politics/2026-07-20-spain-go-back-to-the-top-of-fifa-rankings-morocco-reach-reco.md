@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Norway saw the biggest jump in their rankings, climbing 12 spots to 19th
   after reaching the World Cup quarterfinals.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-20T16:11:22Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: UK prime minister’s choice of former defence minister surprises allies
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-20T22:50:38Z'

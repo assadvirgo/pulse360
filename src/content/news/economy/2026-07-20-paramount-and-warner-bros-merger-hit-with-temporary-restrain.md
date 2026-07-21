@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A California judge granted a temporary restraining order as part of the
   lawsuit brought by state attorneys general due to antitrust concerns.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-20T19:20:38Z'

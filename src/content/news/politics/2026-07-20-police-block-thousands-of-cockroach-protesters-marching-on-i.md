@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Some protesters demanding education reforms said they were injured in
   clashes with police who banned the march.
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-20T16:26:40Z'

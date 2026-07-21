@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The agency stressed that the July 17 voluntary recall from Taylor Farms
   still stands. The supplier has been linked to the ongoing cyclospora outbreak.
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-20T20:57:39Z'

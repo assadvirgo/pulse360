@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: South Korean stocks weren’t a big deal in emerging-markets funds. Artificial
   intelligence changed that.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-20T17:15:00Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Tens of thousands of fans greet La Roja as they travel down Madrid&#039;s
   historic avenues to Cibeles Square.
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-20T21:52:02Z'
