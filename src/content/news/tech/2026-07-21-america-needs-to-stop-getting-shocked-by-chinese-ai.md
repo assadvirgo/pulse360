@@ -5,7 +5,7 @@ countryCode: US
 description: Last week, two Chinese AI companies unveiled models they say can credibly
   compete with the best systems from OpenAI and Anthropic. The response was swift
   and predictable. Markets…
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-21T11:08:56Z'

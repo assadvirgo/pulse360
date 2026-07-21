@@ -1,7 +1,7 @@
 ---
 category: Sports
 description: Identify today's player in as few attempts as possible.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 54.2
 pubDate: '2026-07-21T08:17:22Z'

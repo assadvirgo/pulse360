@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A Russian warship has carried out a live-fire military exercise around
   40 nautical miles (46 miles) off the British coast.
-displayOrder: 20
+displayOrder: 38
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-21T05:10:00Z'

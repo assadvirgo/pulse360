@@ -3,7 +3,7 @@ category: Tech
 description: How does AI make you feel? Are you excited to “vibe-code” your smart
   home? Or anxious about all the added pollution and billions of gallons of water
   used by data centers? Dig a…
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-21T10:00:01Z'

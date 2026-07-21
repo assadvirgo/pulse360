@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Prospect of patents expiring on lucrative drugs prompts drugmakers to
   hunt for next blockbuster medicines
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-21T04:00:10Z'

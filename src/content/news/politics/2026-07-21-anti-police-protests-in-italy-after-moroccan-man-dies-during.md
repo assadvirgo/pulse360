@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Protesters have clashed with police in Italy after the death of a Moroccan
   man after officers restrained him on the ground.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-21T07:00:00Z'

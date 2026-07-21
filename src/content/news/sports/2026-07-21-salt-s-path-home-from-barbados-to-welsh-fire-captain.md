@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England star Phil Salt has had a circuitous route to captaining Welsh
   Fire in The Hundred, which starts this week.
-displayOrder: 30
+displayOrder: 47
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-21T06:42:41Z'

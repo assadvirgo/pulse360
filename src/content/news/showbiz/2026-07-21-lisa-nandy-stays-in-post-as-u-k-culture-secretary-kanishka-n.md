@@ -5,7 +5,7 @@ countryCode: GB
 description: Despite new Prime Minister Andy Burnham undergoing an extensive cabinet
   reshuffle, incumbent culture minister Lisa Nandy is set to remain in post. Nandy,
   who has been a member of…
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-21T10:03:35Z'

@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: Novo asked the court to permanently stop Lilly from running the "deceptive"
   ads and require the drugmaker to issue corrective advertising.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-21T11:35:46Z'

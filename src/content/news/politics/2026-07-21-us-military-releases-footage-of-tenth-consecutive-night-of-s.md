@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Central Command (CENTCOM) released footage of its forces launching
   the latest round of strikes against Iran.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-21T03:15:23Z'

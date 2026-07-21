@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Tottenham have signed France international Alice Sombath for a club record
   fee from Lyon.
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-21T08:00:28Z'

@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Dispute erupts in South China Sea after incident near Second Thomas Shoal
   involving Chinese and Philippine vessels.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-21T03:49:57Z'

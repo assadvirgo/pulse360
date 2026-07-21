@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The Lebanese president is seeking Washington&#039;s support for his agenda,
   including diplomacy with Israel.
-displayOrder: 2
+displayOrder: 15
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-21T10:27:31Z'

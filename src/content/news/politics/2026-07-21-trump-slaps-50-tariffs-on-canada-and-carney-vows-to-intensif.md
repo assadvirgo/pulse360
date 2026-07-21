@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The duties mark a major escalation in trade tensions between the North
   American neighbours.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-21T07:56:13Z'

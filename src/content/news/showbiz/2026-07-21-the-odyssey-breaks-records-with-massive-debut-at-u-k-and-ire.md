@@ -5,7 +5,7 @@ countryCode: GB
 description: The U.K. and Ireland box office experienced a massive tentpole shift
   as Universal&#8217;s &#8220;The Odyssey&#8221; captured the top spot, storming the
   market with a spectacular…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-21T07:10:24Z'

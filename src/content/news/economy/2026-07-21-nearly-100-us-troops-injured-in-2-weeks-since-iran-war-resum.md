@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pentagon says most soldiers suffered ‘minor concussions’ and have returned
   to duty
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-21T05:33:49Z'

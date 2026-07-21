@@ -5,7 +5,7 @@ countryCode: GB
 description: Andy Burnham, the UK&#8217;s new prime minister, has decided to stick
   rather than twist with his choice of culture secretary. 10 Downing Street has announced
   that Lisa Nandy will…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-21T08:09:35Z'

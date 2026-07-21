@@ -5,7 +5,7 @@ countryCode: US
 description: Last month, more than a hundred Stanford students left their own graduation
   to protest Google’s military contracts and deals with ICE. Two organizers, Amanda
   Campos and Eva Jones,…
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-21T10:30:00Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: On Monday night’s episode of “The Daily Show,” Jon Stewart gave his post-game
   thoughts about Sunday’s World Cup final match, which saw Spain win out over Argentina
   1-0. “Of…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 69.8
 pubDate: '2026-07-21T04:30:54Z'

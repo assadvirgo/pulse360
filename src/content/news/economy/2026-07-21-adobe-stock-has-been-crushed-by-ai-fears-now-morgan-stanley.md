@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Morgan Stanley cut its price target for Adobe by more than a third, citing
   multiple transitions and the potential for increased competition from artificial-intelligence…
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-21T10:58:00Z'

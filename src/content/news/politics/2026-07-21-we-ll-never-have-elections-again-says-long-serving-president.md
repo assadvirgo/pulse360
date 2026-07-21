@@ -4,7 +4,7 @@ country: Nicaragua
 countryCode: NI
 description: The long-serving president of Nicaragua has declared the country will
   no longer hold elections.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-07-21T00:45:00Z'
