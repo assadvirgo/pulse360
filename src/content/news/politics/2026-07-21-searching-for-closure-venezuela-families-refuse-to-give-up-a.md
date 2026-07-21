@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Weeks after earthquakes, relatives are still searching for bodies of
   loved ones who disappeared beneath the rubble.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-21T14:08:59Z'

@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Ireland's deputy prime minister has urged parents to stop buying electric
   scooters as "toys" for their children ahead of new age limits coming into force.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-21T09:51:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Europe needs to avoid relying on an unpredictable Washington for strategic
   capabilities, says Henna Virkkunen
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-21T04:00:10Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Deal would value English Premier League side at more than $6bn
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-21T15:36:00Z'

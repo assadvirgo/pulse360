@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Software stocks and loans have started to find their footing in July,
   suggesting it may be time for investors to forgive and forget.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-21T16:10:00Z'

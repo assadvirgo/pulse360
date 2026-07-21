@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England all-rounder Jacob Bethell, who was due to captain Birmingham
   Phoenix, is ruled out of The Hundred with a knee injury.
-displayOrder: 10
+displayOrder: 28
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-21T12:50:40Z'

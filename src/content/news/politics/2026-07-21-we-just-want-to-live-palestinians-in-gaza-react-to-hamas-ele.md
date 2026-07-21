@@ -2,7 +2,7 @@
 category: Politics
 description: There are mixed reactions in Gaza after Khalil al-Hayya is elected Hamas
   leader.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-21T06:18:42Z'

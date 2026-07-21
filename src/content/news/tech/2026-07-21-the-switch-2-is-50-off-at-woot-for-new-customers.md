@@ -5,7 +5,7 @@ countryCode: US
 description: Woot is celebrating its 22nd anniversary by rolling out a full week of
   sales, and one of them stands out for gamers looking to get a deal on Nintendo’s
   latest console. Normally…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-21T13:27:32Z'

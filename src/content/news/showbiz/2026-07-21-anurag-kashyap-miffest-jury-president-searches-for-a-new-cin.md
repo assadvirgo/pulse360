@@ -5,7 +5,7 @@ countryCode: MY
 description: Indian auteur Anurag Kashyap, whose latest directorial feature &#8220;Bandar&#8221;
   marks his return behind the camera, is at this year&#8217;s Malaysia International
   Film…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-21T09:34:29Z'

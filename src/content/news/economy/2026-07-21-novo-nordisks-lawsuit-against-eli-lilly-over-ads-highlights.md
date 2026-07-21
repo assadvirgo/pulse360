@@ -4,7 +4,7 @@ country: Denmark
 countryCode: DK
 description: The Danish company Novo Nordisk says U.S.-based Lilly isn’t including
   the most up-to-date clinical information about its drugs.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-21T15:02:00Z'

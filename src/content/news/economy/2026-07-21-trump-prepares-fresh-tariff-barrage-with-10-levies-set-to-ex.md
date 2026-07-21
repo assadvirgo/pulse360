@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president to renew trade war after Supreme Court threw out reciprocal
   duties
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-21T10:00:12Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: New defence secretary Wes Streeting has criticised a live-fire military
   exercise carried out by a Russian warship around 40 nautical miles (46 miles) off
   the British coast,…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-21T05:10:00Z'

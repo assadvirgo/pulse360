@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Move by Özgür Özel could threaten longtime Turkish leader at next election
   scheduled for 2028
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-21T15:56:35Z'
