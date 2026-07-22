@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: In a remote district surrounded by forests and hills, teams from tribal
   villages compete for football glory - and goats.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-22T05:19:05Z'

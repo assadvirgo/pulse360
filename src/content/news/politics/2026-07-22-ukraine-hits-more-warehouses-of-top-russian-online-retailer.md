@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian drones have hit two more warehouses belonging to Russia’s biggest
   online retailer Wildberries.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-22T10:22:06Z'

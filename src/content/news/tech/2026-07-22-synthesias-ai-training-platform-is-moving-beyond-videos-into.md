@@ -3,7 +3,7 @@ category: Tech
 description: Synthesia launched AI Roleplay Sessions, an interactive enterprise training
   platform where employees practice workplace conversations with AI avatars that provide
   feedback,…
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-22T08:00:00Z'

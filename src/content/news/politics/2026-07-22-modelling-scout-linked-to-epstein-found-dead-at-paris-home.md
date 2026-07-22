@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A modelling scout linked to Jeffrey Epstein has been found dead at his
   home in Paris.
-displayOrder: 16
+displayOrder: 29
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-22T10:57:00Z'

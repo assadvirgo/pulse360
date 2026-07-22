@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI says an autonomous agent bypassed controls and hacked Hugging
   Face servers during a cybersecurity test.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-22T02:36:55Z'

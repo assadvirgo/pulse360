@@ -5,7 +5,7 @@ countryCode: US
 description: In the face of backlash to concerns the AI boom will increase consumer
   electricity bills, the largest utility companies and data center developers in the
   US are now promising to…
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-22T10:12:13Z'

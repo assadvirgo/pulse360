@@ -5,7 +5,7 @@ countryCode: GB
 description: 'TLC in the U.K. has ordered a Top Trumps-themed panel show set to be
   hosted by comedian Katherine Ryan. Based on the card game and tentatively titled
   “Top Trumps: The Comedy…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-22T09:40:36Z'

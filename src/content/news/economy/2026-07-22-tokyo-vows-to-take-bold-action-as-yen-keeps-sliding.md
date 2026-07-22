@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japanese currency falls under ¥163 to the dollar for first time in almost
   40 years
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-22T04:04:59Z'

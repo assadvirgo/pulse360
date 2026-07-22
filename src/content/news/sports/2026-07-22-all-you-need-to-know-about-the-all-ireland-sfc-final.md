@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: As we build towards Sunday's All-Ireland SFC final, BBC Sport NI takes
   a look at some of the talking points.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-22T07:06:20Z'

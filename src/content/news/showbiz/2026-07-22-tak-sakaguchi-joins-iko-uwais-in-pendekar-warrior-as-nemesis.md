@@ -5,7 +5,7 @@ countryCode: JP
 description: 'Japanese cult action star Tak Sakaguchi has signed on to play the nemesis
   of Iko Uwais in &#8220;Pendekar: Warrior,&#8221; an upcoming martial-arts feature
   marking…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-22T10:58:32Z'

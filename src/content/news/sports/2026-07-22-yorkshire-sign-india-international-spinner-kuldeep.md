@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Yorkshire sign India international spin bowler Kuldeep Yadav for part
   of this year's One-Day Cup and County Championship.
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-22T09:11:09Z'

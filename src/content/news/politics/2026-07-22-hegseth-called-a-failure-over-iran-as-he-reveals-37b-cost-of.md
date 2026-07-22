@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Defense Secretary Pete Hegseth gets into a heated exchange after being
   called a failed leader by Michigan Senator.
-displayOrder: 12
+displayOrder: 32
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-22T05:02:51Z'

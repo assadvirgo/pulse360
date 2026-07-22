@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: The BBC has said it is open-minded about closing off iPlayer
   to British viewers who decline to pay the licence fee. In an all-staff call on Monday,
   the BBC&#8217;s…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-22T08:36:49Z'

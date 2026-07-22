@@ -5,7 +5,7 @@ countryCode: IT
 description: Venice parallel section Giornate degli Autori (GdA) has unveiled a female
   focused lineup for its 2026 edition. Hungarian director Lili Horvát’s first English-language
   film My…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-22T10:05:07Z'

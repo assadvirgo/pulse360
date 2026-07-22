@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The hearing was disrupted by protests and a shouting match as Hegseth
   testified at a pivotal time in the war.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-22T02:15:05Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol
   regions were struck overnight.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-22T10:00:04Z'

@@ -3,7 +3,7 @@ category: Tech
 description: 'On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled
   his latest project: a 13-minute sci-fi short titled Nightborne that''s loosely based
   on Peter Watts'' 2014…'
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 72.2
 pubDate: '2026-07-21T22:06:43Z'

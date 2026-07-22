@@ -4,7 +4,7 @@ country: Algeria
 countryCode: DZ
 description: The French army’s illegal use of chemical weapons in Algeria’s war of
   independence, as revealed by testimony and documents.
-displayOrder: 24
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-22T07:23:42Z'

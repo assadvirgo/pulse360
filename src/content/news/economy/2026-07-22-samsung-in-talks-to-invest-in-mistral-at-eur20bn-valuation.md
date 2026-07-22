@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: South Korean giant could invest as much as €1bn in French AI group seeking
   to be a leading alternative to US tech
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-22T04:00:17Z'

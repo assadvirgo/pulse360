@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Rescue operation is ongoing but hazardous conditions have hampered efforts
   to reach those still inside.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-22T05:38:22Z'
