@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nintendo says Switch buyers got what they paid for, urges court to dismiss
   lawsuit.
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-21T19:09:19Z'

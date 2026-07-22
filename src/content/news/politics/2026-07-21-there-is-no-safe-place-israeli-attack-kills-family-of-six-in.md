@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces launch regular attacks on Gaza despite a US-backed &#039;ceasefire&#039;
   agreed in October.
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-21T13:26:40Z'

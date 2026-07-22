@@ -3,7 +3,7 @@ category: Tech
 description: 'The familiar story with Xteink’s tiny e-readers plays out once again
   with its new X4 Pro: upgraded hardware held back by frustrating software. The company’s
   latest tiny e-reader…'
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-21T14:00:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: President chooses 43-year-old Mykhailo Drapatyi to replace Oleksandr
   Syrsky in generational shift in Kyiv’s military leadership
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-21T19:42:20Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Cyclist Matt Richardson says he has "moved on" from a storm over his
   nationality switch as he aims to defend his Commonwealth Games titles.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-21T11:35:13Z'

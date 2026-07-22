@@ -5,7 +5,7 @@ countryCode: US
 description: Sphere Entertainment has hired Karen Laureano-Rikardsen as global head
   of corporate marketing and communications. She will serve as the lead spokesperson
   and oversee promotional…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-21T15:00:00Z'

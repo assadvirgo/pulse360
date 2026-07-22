@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge has signed off on Anthropic's $1.5 billion class action
   settlement with authors who accused the company of training its AI models on copyrighted
   books, as reported…
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-21T16:53:37Z'

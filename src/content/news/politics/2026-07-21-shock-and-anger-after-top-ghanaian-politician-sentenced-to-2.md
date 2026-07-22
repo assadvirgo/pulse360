@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Bernard Antwi Boasiako, known as "Chairman Wontumi", was also fined more
   than $10,000 (£7,450).
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-21T12:02:47Z'

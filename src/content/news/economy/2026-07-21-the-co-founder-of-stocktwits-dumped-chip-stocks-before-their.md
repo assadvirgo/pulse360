@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stocktwits’ Howard Lindzon talks to MarketWatch about sidestepping a
   chip selloff, where he sees opportunity and the “degenerate economy.”
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-21T11:47:00Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A US-brokered agreement should see Israeli troops pulling out of a small
   part of Lebanon occupied during their conflict with Hezbollah.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-21T18:07:34Z'

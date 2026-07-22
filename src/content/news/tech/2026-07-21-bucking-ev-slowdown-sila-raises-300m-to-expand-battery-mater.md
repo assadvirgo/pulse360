@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sila's fresh $300 million round will help it make enough of its silicon-carbon
   anode material to power more than 100,000 EVs.
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-21T19:36:35Z'

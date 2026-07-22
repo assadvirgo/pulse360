@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wall Street is misjudging Microsoft’s AI strategy, according to Morgan
   Stanley.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-21T16:25:00Z'

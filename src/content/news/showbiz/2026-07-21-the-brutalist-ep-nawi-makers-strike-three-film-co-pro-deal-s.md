@@ -5,7 +5,7 @@ countryCode: KE
 description: Ugandan filmmaker and journalist Moses Bwayo will direct the first film
   under the partnership between Thomas Pierce's Pierce Capital Entertainment and Kevin
   and Toby Schmutzler's…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 59.8
 pubDate: '2026-07-21T16:05:00Z'

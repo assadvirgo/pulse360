@@ -2,7 +2,7 @@
 category: Politics
 description: Mohamed Salah&#039;s future tops the latest news, contract, salary rumours,
   and transfer agenda ahead of the new football season.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-21T17:23:04Z'

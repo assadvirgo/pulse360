@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Detained while picketing PM&#039;s residence, Gandhi demands Modi&#039;s
   resignation for &#039;destroying the future of India&#039;s youth&#039;.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-21T16:54:09Z'

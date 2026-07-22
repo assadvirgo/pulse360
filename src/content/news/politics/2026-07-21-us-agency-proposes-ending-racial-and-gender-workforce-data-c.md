@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican-led EEOC proposal to end workforce diversity reporting heads
   to public commentary amid sharp criticism.
-displayOrder: 25
+displayOrder: 36
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-21T19:34:06Z'

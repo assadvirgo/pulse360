@@ -5,7 +5,7 @@ countryCode: US
 description: On today’s episode of &#8220;Daily Variety&#8221; podcast, “Scary Movie”
   director Michael Tiddes explains how he came to be trusted with the revival of Shawn
   and Marlon Wayans’…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-21T16:56:51Z'

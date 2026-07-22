@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Cricinfo has learned that she did not dislocate the shoulder but Sunrisers
   are waiting to learn the extent of the injury in the next 24 hours
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-21T17:27:51Z'
