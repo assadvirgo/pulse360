@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Oleksandr Syrskyi is dismissed after backlash over the removal of popular
   Defence Minister Mykhailo Fedorov.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 53.2
 pubDate: '2026-07-22T05:37:43Z'

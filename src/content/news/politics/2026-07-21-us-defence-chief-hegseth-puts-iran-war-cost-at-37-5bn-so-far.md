@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5
   trillion budget, including $70bn for Iran war.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-21T21:17:06Z'

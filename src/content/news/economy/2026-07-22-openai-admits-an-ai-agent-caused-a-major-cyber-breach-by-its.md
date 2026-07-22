@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-22T00:11:33Z'

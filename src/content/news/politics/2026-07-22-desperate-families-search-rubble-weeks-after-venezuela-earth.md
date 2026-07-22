@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Families in Venezuela search through the rubble of their homes, weeks
   after the 7.2 and 7.5 magnitude earthquakes hit.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-22T01:45:35Z'

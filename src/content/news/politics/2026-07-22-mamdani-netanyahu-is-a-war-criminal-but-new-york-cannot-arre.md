@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: NYC Mayor Zohran Mamdani releases a video statement calling for Israeli
   PM Netanyahu to face trial for war crimes.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-22T04:07:58Z'

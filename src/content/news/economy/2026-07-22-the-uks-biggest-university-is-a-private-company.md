@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Supporters say franchised providers widen access to further education,
   but others doubt the real value of their ‘no frills’ courses
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-22T04:00:08Z'

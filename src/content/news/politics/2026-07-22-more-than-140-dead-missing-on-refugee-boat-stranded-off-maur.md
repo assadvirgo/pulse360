@@ -4,7 +4,7 @@ country: Mauritania
 countryCode: MR
 description: Boat carrying migrants and refugees from Africa ran out of fuel, leading
   to a tragedy with 143 dead and 38 rescued.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-22T03:45:36Z'

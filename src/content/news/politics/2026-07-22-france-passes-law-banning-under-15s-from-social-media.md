@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The law will require social media platforms in France to verify all users
   age from January.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-22T03:50:55Z'

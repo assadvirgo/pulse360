@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump administration offering exemptions to companies that invest in
   American smelters
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-22T01:44:41Z'

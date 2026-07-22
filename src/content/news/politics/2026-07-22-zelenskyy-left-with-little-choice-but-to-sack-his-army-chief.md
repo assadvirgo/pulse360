@@ -5,7 +5,7 @@ countryCode: UA
 description: In a significant move in the middle of a war, Ukraine's president has
   sacked his military chief and is seeking to woo a former defence minister back into
   the fold – just days…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-22T00:16:00Z'
