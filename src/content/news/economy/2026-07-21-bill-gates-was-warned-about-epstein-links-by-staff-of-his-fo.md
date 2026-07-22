@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Independent review finds talks with late sex offender continued for more
   than three years despite concerns
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-21T17:15:30Z'

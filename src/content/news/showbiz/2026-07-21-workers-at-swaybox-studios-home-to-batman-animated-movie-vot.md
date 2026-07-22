@@ -5,7 +5,7 @@ countryCode: US
 description: After an election with the National Labor Relations Board, workers on
   the Warner Bros. Pictures Animation and DC Studios project 'Dynamic Duo' are set
   to join crew union IATSE.
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-21T22:03:12Z'

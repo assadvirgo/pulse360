@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: US President Trump said he is open to direct talks with Hezbollah.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-21T19:16:08Z'

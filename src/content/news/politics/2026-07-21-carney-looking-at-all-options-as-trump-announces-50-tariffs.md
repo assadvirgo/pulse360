@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The duties mark a major escalation in trade tensions between the North
   American neighbours.
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-21T17:33:22Z'

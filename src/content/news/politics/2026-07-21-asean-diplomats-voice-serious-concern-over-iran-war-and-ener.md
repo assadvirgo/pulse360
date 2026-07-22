@@ -2,7 +2,7 @@
 category: Politics
 description: Southeast Asian countries are highly affected by oil supply shortages
   caused by Iran war and Strait of Hormuz closure.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-21T13:43:48Z'

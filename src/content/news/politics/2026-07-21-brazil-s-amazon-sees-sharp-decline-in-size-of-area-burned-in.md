@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: The amount of land burned in the world's largest rainforest was the smallest
   since MapBiomas records began in 1985.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-21T15:57:29Z'

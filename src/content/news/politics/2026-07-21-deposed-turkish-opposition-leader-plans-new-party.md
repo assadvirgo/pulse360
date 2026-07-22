@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Ozgur Ozel hopes to launch new main opposition after court removed him
   as leader of the CHP.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-21T20:23:45Z'

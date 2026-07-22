@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Goldman Sachs is launching a new alternative investments platform aimed
   at giving wealthy clients and family offices direct stakes in private companies.
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-21T19:41:54Z'

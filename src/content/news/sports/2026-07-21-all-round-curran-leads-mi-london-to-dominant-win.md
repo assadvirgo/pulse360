@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sam Curran takes two wickets and hits an unbeaten half-century as MI
   London beat Sunrisers Leeds in the men's Hundred opener.
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-21T20:34:16Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: He also worked for the animation studio UPA, CBS and United Artists Television,
   and his clients included Bob Hope, Jackie Gleason and The Jackson 5.
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-21T23:35:30Z'

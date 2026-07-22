@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Kuwaitis are rationing electricity after Iranian strikes on power infrastructure
   are raising fears of outages
-displayOrder: 29
+displayOrder: 41
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-21T20:06:57Z'
