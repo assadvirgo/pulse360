@@ -5,7 +5,7 @@ countryCode: US
 description: Dixon Q. Dern, the longtime entertainment attorney who worked at CBS,
   Desilu and United Artists TV; who represented clients such as Desi Arnaz and the
   Television Academy; who…
-displayOrder: 9
+displayOrder: 17
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-22T02:22:11Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Jennifer Garner recently told the “Shut Up Evan” podcast that paparazzi
   would go to dangerous lengths to get photos of her and her children. “If I went
   through a yellow light, 15…
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-22T02:30:39Z'

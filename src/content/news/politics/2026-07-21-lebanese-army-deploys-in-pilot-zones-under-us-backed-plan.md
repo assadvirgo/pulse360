@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The Lebanese army has begun deploying in three southern towns as part
   of a US-backed framework agreement with Israel.
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-21T22:56:12Z'

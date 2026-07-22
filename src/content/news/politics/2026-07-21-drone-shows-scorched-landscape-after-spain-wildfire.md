@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: A drone has revealed what remains of this forest after a wildfire burned
   through over 30,000 hectares of it.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-21T21:21:12Z'

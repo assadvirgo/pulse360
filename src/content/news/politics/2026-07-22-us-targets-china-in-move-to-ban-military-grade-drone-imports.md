@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Proposed rules would have US regulator block the entry of swarm-capable
   drones, mainly from China.
-displayOrder: 8
+displayOrder: 15
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-22T02:21:57Z'

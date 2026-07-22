@@ -4,7 +4,7 @@ country: Guyana
 countryCode: GY
 description: Search continues for dozens more people unaccounted for after the MV
   Barima capsized on Saturday night.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-21T20:54:41Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The new leasing program is a big change for the hardware company, and
   comes as it looks to raise prices on many of its products.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-21T18:18:43Z'

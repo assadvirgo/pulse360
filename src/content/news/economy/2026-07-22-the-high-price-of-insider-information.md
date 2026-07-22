@@ -2,7 +2,7 @@
 category: Economy
 description: Without tough enforcement, prediction platforms provide fertile ground
   for manipulation
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-22T04:00:17Z'

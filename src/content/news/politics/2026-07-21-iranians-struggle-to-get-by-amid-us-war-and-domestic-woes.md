@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: People are facing mounting pressures, including rising living costs,
   electricity cuts and bombarded infrastructure.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-21T17:49:33Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: President Emmanuel Macron, who has championed the initiative, wants the
   ban in effect before the upcoming school year.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 77.5
 pubDate: '2026-07-21T20:44:48Z'

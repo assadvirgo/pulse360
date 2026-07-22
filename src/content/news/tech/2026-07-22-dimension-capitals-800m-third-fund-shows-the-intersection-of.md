@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The four-year-old firm's latest fund is 60% larger than its second vehicle
   announced 18 months ago.
-displayOrder: 19
+displayOrder: 30
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-22T01:27:58Z'

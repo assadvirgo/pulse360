@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: At least 10 people have died and 17 remain trapped after a suspected
   gas explosion caused a tunnel to collapse.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-21T19:41:38Z'
