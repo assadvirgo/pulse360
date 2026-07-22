@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Analysts and locals say the move mirrors what happened after the 1967
   war with Israel&#039;s occupation of the West Bank.
-displayOrder: 26
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-22T11:52:29Z'

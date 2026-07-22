@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: China’s high degree of self-sufficiency also reduces its vulnerability
   to coercion by others
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-22T04:00:26Z'

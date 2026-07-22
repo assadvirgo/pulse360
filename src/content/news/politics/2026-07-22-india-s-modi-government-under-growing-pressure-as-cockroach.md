@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The CJP got a boost on Tuesday when the opposition Congress party demonstrated
   outside the PM's house.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-22T08:02:04Z'

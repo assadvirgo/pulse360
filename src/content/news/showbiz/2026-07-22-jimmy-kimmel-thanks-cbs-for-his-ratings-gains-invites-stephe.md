@@ -5,7 +5,7 @@ countryCode: US
 description: There&#8217;s no certain proof, but it appears that the cancellation
   of CBS&#8217; &#8220;The Late Show With Stephen Colbert&#8221; has given an early
   boost to ABC&#8217;s…
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-22T16:30:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The 23-year-old Rogers, one of the Premier League&#039;s top attacking
   talents, has signed a contract until 2033.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-22T08:08:08Z'

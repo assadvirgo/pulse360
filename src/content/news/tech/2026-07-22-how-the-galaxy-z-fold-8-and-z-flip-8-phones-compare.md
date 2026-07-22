@@ -5,7 +5,7 @@ countryCode: KR
 description: Samsung's latest round of folding Galaxy Z phones and updated smartwatches
   were announced at its July 2026 Unpacked event and set to launch on August 7th.
   The Galaxy Z Flip 8,…
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 75.2
 pubDate: '2026-07-22T15:47:10Z'

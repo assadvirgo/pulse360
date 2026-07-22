@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president’s warning marks latest attempts to assert American control
   over Strait of Hormuz
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-22T14:23:13Z'

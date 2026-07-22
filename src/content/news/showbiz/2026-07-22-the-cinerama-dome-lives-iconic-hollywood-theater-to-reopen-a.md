@@ -5,7 +5,7 @@ countryCode: US
 description: Viva la Cinerama Dome! Sony is officially reviving one of Hollywood&#8217;s
   most beloved and iconic movie theaters, which has been shuttered since 2020. Sony
   Pictures…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-22T16:00:00Z'

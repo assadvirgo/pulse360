@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Figures reveal that viewership remained strong even after the USA were
   eliminated from tournament.
-displayOrder: 23
+displayOrder: 41
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-22T07:56:15Z'

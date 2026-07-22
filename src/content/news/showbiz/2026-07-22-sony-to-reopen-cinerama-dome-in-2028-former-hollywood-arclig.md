@@ -5,7 +5,7 @@ countryCode: US
 description: 'Sony Pictures Entertainment made official this morning what we first
   told you about Tuesday: The Culver City lot is reopening Los Angeles Historical
   Cultural Monument the Cinerama…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-22T16:00:45Z'

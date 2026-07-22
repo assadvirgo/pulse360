@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The telecommunications company beat expectations on subscriber growth,
   free cash flow and profit.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-22T10:42:00Z'
