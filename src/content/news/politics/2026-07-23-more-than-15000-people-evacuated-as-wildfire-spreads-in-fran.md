@@ -5,7 +5,7 @@ countryCode: FR
 description: Around 20,000 people were evacuated from towns and holiday resorts in
   southwestern France as a wildfire raged near the popular tourist coastal town of
   Lege Cap-Ferret.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-23T10:36:00Z'

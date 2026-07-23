@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Brent crude rose to over $98 a barrel following the news that the rebel
   group attacked the vessels in the Red Sea.
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-23T11:07:00Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: For 12 years, Modi and his party have dominated Indian social media.
   Now, youth use the same platforms against him.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-23T09:20:04Z'

@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Yemeni rebels say they used missiles and drones to target the vessels
   Encelia and Layla
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-23T07:50:55Z'

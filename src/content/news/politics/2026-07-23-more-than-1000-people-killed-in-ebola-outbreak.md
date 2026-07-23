@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: More than 1,000 people have died in the Ebola outbreak in the Democratic
   Republic of Congo (DRC), health officials said.
-displayOrder: 22
+displayOrder: 38
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-23T08:27:00Z'

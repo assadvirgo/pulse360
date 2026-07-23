@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England set India 388 in this series decider, and then refused to blink
   with the ball to secure a 2-1 series win - their first against India since 2018
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T08:45:21Z'

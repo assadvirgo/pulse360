@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Renewed fighting between the US and Iran has overshadowed the ASEAN gathering
   in Manila.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-23T05:44:13Z'

@@ -5,7 +5,7 @@ countryCode: RS
 description: Heretic has acquired world rights to Jelena Maksimović’s fiction feature
   debut “Until the Day Ends,” set against the backdrop of Serbia’s student protests.
   The film will celebrate…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-07-23T11:26:30Z'

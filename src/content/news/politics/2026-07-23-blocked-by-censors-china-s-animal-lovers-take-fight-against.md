@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The killing of a dog and her puppies in Guangdong has sparked outrage
   inside and outside the country.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-23T05:46:09Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The changing inflation landscape could spell trouble for corporate America.
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-23T09:48:00Z'

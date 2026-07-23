@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: A prominent British children’s acting agency, which has helped
   young performers clinch roles in Harry Potter and Hunger Games, could have broken
   UK agency law by…'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-23T12:09:26Z'

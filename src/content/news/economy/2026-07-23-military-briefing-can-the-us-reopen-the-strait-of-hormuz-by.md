@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Renewed air campaign has yet to reassure shipowners the waterway can
   be made safe from Iranian attacks
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-23T04:00:21Z'

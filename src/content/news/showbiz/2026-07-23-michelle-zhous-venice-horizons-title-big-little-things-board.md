@@ -3,7 +3,7 @@ category: Showbiz
 description: Hong Kong-based Moebius Entertainment has boarded international sales
   for Michelle Zhou’s Big Little Things, which has been selected to premiere in the
   Horizons section of this…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-23T10:56:58Z'

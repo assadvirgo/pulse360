@@ -5,7 +5,7 @@ countryCode: IT
 description: The Venice Film Festival is about to reveal its 2026 lineup, promising
   a plethora of buzzy titles from international directors. Like Cannes this year,
   Venice is expected to have a…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-23T08:50:00Z'

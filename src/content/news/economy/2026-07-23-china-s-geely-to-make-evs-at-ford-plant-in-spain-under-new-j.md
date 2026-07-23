@@ -5,7 +5,7 @@ countryCode: ES
 description: Ford and Geely plan for the joint venture will begin operations in the
   first half of 2027, with the first new vehicles scheduled to roll off the line in
   2028.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-23T11:49:29Z'

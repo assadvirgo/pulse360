@@ -5,7 +5,7 @@ countryCode: IT
 description: Fandango Sales has boarded international sales on “The Girl With the
   Leica,” directed by Alina Marazzi, just announced by the Venice Film Festival as
   the opening film of its…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 71.8
 pubDate: '2026-07-23T12:11:03Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: On a gray, humid Saturday morning in central Florida, a little under
   a dozen people gathered outside the Spring Hill Branch Library to protest the construction
   of a hyperscale…
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-23T12:00:00Z'

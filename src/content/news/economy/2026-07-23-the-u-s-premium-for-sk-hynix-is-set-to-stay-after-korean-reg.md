@@ -5,7 +5,7 @@ countryCode: US
 description: The huge premium commanded by SK Hynix ‘s American depository receipts
   over its domestically-listed ordinary shares is likely to remain, after restrictions
   were put in place on…
-displayOrder: 35
+displayOrder: 49
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-23T11:04:00Z'
