@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk and the online right convinced themselves that Christopher
   Nolan’s “woke” epic would go down in flames. Now they’re crashing out.
-displayOrder: 33
+displayOrder: 48
 heroImage: ''
 importance: 64.2
 pubDate: '2026-07-22T19:26:13Z'

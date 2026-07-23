@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: The police force on Law &#38; Order is undergoing some major
   staff turnover. Reid Scott, who has played Senior Detective Vincent Riley for the
   past three seasons, is…'
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-23T03:07:47Z'

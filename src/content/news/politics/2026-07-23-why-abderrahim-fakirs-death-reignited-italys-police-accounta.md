@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: A Moroccan-born man’s death in Bologna has prompted anger and renewed
   scrutiny of Italy’s policing and legal reforms.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-23T01:44:30Z'

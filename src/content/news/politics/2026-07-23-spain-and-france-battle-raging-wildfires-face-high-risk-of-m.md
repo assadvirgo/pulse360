@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: A wildfire in Spain&#039;s Guadalajara region has burned 32,000 hectares,
   in one of the country&#039;s largest recorded blazes.
-displayOrder: 13
+displayOrder: 32
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-23T01:23:57Z'

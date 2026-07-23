@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bill to fund war on Iran and a handful of Trump priorities passes largely
   along party lines, faces Senate uncertainty.
-displayOrder: 17
+displayOrder: 37
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-23T00:29:52Z'

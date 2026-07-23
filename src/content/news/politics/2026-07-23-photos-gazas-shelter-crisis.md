@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza faces a deepening housing crisis as more than 92 percent of homes
   have been damaged or destroyed by Israel.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-23T08:12:46Z'

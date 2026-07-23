@@ -5,7 +5,7 @@ countryCode: GB
 description: Captain Phil Salt led from the front as he finished unbeaten on 47 to
   guide Welsh Fire to a six-wicket victory against Southern Brave in a low-scoring
   match in Southampton.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-22T21:04:27Z'

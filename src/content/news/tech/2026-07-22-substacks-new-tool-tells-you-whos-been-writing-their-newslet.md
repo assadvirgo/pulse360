@@ -5,7 +5,7 @@ countryCode: US
 description: Substack is giving readers a way to estimate how much of a newsletter
   was written by AI, signaling a broader shift toward transparency around AI-assisted
   content.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 77.0
 pubDate: '2026-07-22T16:23:09Z'

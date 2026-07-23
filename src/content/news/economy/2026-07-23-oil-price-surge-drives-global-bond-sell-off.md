@@ -2,7 +2,7 @@
 category: Economy
 description: Brent crude’s rise towards $100 is threatening a prolonged surge in inflation
   and resetting interest rate expectations
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-23T08:22:50Z'

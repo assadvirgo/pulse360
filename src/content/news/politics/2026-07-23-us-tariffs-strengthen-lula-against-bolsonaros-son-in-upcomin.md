@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: With Lula polling ahead and tariffs squeezing Brazil&#039;s economy,
   the Bolsonaro family&#039;s Washington strategy is faltering.
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-23T01:20:37Z'

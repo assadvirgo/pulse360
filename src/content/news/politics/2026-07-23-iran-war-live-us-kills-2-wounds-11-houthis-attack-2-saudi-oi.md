@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US and Iran trade attacks as more explosions are reported in Iranian
   cities, including Sirik, Ahvaz and Bushehr.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-23T00:00:00Z'

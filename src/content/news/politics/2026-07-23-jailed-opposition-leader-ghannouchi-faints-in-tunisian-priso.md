@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: The incident was witnessed by the daughter of Ahmed Nejib Chebbi, another
   prominent political prisoner.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T03:53:36Z'

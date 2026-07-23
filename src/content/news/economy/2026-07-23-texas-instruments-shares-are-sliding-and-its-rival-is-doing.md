@@ -5,7 +5,7 @@ countryCode: US
 description: Texas Instruments shares were falling while STMicroelectronics stock
   was diving on Thursday, after both makers of analog semiconductors struggled to
   meet heightened expectations…
-displayOrder: 32
+displayOrder: 41
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-23T08:36:00Z'

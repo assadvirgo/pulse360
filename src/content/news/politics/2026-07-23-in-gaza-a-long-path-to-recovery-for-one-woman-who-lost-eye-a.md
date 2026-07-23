@@ -2,7 +2,7 @@
 category: Politics
 description: Psychological wounds compound Najwa&#039;s physical injuries after losing
   her daughter in an Israeli air strike.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-23T03:07:01Z'

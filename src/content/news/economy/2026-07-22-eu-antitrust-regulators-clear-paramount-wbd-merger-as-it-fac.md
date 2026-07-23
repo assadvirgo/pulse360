@@ -2,7 +2,7 @@
 category: Economy
 description: European regulators signed off on Paramount's proposed acquisition of
   Warner Bros. Discovery.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-22T19:19:42Z'
