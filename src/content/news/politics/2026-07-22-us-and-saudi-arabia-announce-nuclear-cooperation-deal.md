@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump administration says &#039;historic&#039; agreement will &#039;reinforce
   global nonproliferation standards&#039; and create jobs in US.
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 73.5
 pubDate: '2026-07-22T21:30:25Z'

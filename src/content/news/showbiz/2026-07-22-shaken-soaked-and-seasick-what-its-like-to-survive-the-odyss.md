@@ -3,7 +3,7 @@ category: Showbiz
 description: There’s no question that seeing Christopher Nolan’s epic “The Odyssey”
   in 70mm and Imax – or both – is an expansive and breathtaking experience. But for
   cinephiles who have…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-07-22T22:30:00Z'

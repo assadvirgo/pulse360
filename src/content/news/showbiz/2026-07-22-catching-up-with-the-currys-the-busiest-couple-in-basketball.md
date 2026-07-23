@@ -5,7 +5,7 @@ countryCode: US
 description: 'Between the two of them, the couple has four NBA championships, a business
   empire, flourishing entertainment careers, an Oakland charity and four young children:
   “The…'
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-22T20:00:00Z'

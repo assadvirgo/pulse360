@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Daniel Siad, whose name appears in the Epstein files thousands of times,
   denied knowledge of the threat Jeffrey Epstein posed.
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-22T18:21:55Z'

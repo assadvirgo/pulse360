@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After IBM's stock crashed last week on warnings of poor mainframe sales,
   the CEO explained that AI wrecked corporate hardware budget, temporarily.
-displayOrder: 5
+displayOrder: 2
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-22T23:47:54Z'

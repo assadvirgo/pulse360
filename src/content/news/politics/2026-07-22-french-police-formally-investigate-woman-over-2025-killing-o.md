@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Karen Carter was found with stab wounds in the Dordogne village she had
   lived in for over a decade.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-22T15:59:03Z'

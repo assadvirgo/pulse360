@@ -5,7 +5,7 @@ countryCode: GB
 description: Despite initially fumbling the ball, Jemimah Rodrigues reacts quickly
   to run out Freya Kemp with a direct hit, a wicket which gives the Southern Brave
   a chance of victory against…
-displayOrder: 38
+displayOrder: 45
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-22T16:27:03Z'

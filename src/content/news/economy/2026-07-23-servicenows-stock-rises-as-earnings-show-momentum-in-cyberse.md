@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Against a gloomy backdrop for software sentiment, ServiceNow just topped
   revenue expectations.
-displayOrder: 22
+displayOrder: 27
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-23T00:18:00Z'

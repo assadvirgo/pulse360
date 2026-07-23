@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Claimed attacks come days after Houthis announced naval embargo on Saudi
   vessels
-displayOrder: 11
+displayOrder: 17
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-22T22:26:14Z'

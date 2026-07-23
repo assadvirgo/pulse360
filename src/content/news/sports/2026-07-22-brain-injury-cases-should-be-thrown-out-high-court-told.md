@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lawyers for rugby's governing bodies argue the absence of medical documents
   should lead to hundreds of brain injury cases being dismissed.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-22T15:37:56Z'

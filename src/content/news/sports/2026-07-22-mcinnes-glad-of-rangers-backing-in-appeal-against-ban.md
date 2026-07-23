@@ -5,7 +5,7 @@ countryCode: GB
 description: Derek McInnes insists Rangers are right to contest the four-match touchline
   ban he received for describing as "disgusting" the decision to award Celtic a late
   penalty at…
-displayOrder: 16
+displayOrder: 23
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-22T23:04:45Z'

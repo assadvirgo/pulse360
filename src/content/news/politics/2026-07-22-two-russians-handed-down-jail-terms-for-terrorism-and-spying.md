@@ -4,7 +4,7 @@ country: Angola
 countryCode: AO
 description: The two, a political consultant and a translator, denied allegations
   of fomenting protests last year.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-22T16:34:35Z'

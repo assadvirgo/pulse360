@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Indian police deployed water cannons in Raipur at student protests demanding
   the resignation of the education minister.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-22T18:57:06Z'

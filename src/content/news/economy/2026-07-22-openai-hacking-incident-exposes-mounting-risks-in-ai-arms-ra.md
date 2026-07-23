@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Increasing use of aggressive training techniques sharpens threat of bad
   behaviour by leading models
-displayOrder: 26
+displayOrder: 36
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-22T22:15:35Z'

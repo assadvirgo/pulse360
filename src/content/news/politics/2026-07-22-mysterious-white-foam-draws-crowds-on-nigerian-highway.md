@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The environmental agency has warned people to avoid going near the substance
   as it could pose a health risk.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-22T14:47:32Z'
