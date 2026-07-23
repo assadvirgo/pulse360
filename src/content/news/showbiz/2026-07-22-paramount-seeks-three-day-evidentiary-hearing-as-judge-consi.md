@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount is proposing that a federal judge hold a three-day evidentiary
   hearing later in August as she weighs whether to issue a preliminary injunction
   that would halt its…
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 68.0
 pubDate: '2026-07-22T23:48:30Z'

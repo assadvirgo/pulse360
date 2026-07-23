@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The New York City mayor instead called on US authorities to act on International
   Criminal Court's arrest warrant against the Israeli prime minister.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-22T17:54:57Z'

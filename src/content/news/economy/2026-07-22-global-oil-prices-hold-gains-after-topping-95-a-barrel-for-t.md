@@ -5,7 +5,7 @@ countryCode: US
 description: Oil prices were holding on to their gains after climbing to a six-week
   high on Wednesday morning after the U.S. struck Iran for the 11th night in a row
   and President Donald Trump…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-22T16:28:00Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Why 1 per cent interest rates could shake everything up after a generation
   of deflation
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-23T04:00:21Z'

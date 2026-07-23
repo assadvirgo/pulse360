@@ -5,7 +5,7 @@ countryCode: ES
 description: French animation and visual effects company STIM – whose credits include
   “The Wild Robot,” “The Garfield Movie” and “Coyote vs. Acme” – is opening a production
   center in Spain’s…
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-23T04:00:00Z'

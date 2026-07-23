@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Critics warn agreement lacks safeguards to prevent future uranium enrichment
   and reprocessing
-displayOrder: 31
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-22T22:37:55Z'

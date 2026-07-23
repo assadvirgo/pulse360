@@ -5,7 +5,7 @@ countryCode: US
 description: A Morgan Stanley survey shows that U.S. vet practices are growing sales
   by raising prices as they contend with fewer visits —a formula that analysts say
   is unsustainable.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-22T19:56:00Z'

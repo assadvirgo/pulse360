@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: This week marks one year since a military jet struck a school in Dhaka,
   killing 36, most of them children.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-22T22:04:07Z'

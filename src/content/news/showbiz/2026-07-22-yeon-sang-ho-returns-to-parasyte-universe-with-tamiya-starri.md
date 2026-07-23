@@ -5,7 +5,7 @@ countryCode: KR
 description: 'Yeon Sang-ho is returning to the &#8220;Parasyte&#8221; universe with
   &#8220;Parasyte: Tamiya,&#8221; a new live-action series starring Shioli Kutsuna
   for Netflix, set to stream…'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-22T23:00:00Z'

@@ -3,7 +3,7 @@ category: Economy
 country: Australia
 countryCode: AU
 description: Greg Ward appointed to lead Australian investing giant
-displayOrder: 38
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-23T00:11:44Z'

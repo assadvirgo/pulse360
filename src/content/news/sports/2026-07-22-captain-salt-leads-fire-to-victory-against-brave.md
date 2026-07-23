@@ -5,7 +5,7 @@ countryCode: GB
 description: Welsh Fire captain Phil Salt leads from the front as his unbeaten 47
   helps them begin the 2026 Hundred season with a six-wicket win against Southern
   Brave in Southampton.
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-22T20:49:45Z'

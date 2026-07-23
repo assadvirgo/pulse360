@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The episode has also intensified a broader debate in Washington over
   the influx of Chinese open models.
-displayOrder: 32
+displayOrder: 37
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-22T20:49:03Z'

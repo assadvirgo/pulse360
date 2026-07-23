@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The former mayoral candidate and reality TV villain accuses California's
   governor and attorney general of "crippling" Hollywood over politics.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-23T01:24:39Z'

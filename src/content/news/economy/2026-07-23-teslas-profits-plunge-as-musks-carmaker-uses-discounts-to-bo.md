@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Capital expenditures more than doubled as company accelerates pivot to
   AI and robots
-displayOrder: 39
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-23T00:16:11Z'

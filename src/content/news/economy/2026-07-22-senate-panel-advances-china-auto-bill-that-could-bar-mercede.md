@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mercedes-Benz’s largest individual shareholder is Chinese state-owned
   BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-22T21:16:56Z'

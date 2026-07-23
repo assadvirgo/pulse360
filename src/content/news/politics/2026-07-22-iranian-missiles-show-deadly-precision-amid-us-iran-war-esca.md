@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Killing of three US soldiers at Jordan base shows Iran maintains the
   ability to exact deadly toll in grinding conflict.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-22T22:03:13Z'
