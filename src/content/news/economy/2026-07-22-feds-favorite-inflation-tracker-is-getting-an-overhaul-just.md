@@ -5,7 +5,7 @@ countryCode: US
 description: The inflation tracker that exerts the biggest influence on the actions
   of the Federal Reserve is getting a makeover just as a divided central bank weighs
   whether to raise U.S.…
-displayOrder: 35
+displayOrder: 48
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-22T15:44:00Z'

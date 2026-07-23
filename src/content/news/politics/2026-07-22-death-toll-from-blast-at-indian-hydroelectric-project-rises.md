@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Rescuers say flooding and toxic gas in the collapsed tunnel make it unlikely
   any remaining trapped workers survived.
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-22T18:40:49Z'

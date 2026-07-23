@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Thousands of mostly young people tried to march on India's parliament
   to demand changes to how the education system is run.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-22T11:30:59Z'

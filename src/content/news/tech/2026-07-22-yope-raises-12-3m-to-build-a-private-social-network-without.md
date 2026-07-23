@@ -5,7 +5,7 @@ countryCode: US
 description: Yope, a fast-growing social app focused on private groups of friends
   and family, has raised $12.3 million in seed funding. Instead of chasing creators
   and algorithmic feeds, the…
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-22T18:13:58Z'

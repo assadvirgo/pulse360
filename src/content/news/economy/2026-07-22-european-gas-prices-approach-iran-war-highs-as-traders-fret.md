@@ -2,7 +2,7 @@
 category: Economy
 description: Heatwaves and bidding war with Asian buyers leave market vulnerable to
   Strait of Hormuz disruption
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-22T11:41:40Z'

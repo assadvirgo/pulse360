@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Miliband, Trump critic who once opposed strikes on Syria, joins Streeting,
   defence novice with shifting Israel views.
-displayOrder: 15
+displayOrder: 36
 heroImage: ''
 importance: 65.5
 pubDate: '2026-07-22T13:41:33Z'

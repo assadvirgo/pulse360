@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Chronometer Partners’ Matthew Smith says investors and markets are not
   prepared for a natural-gas shortage.
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 62.5
 pubDate: '2026-07-22T12:05:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Thousands have been sickened in an outbreak centred in the Midwest and
   believed to be tied to a parasite found on lettuce
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-07-22T10:00:10Z'

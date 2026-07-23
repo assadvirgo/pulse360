@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: Belgium's Jasper Philipsen wins stage 17 of the Tour de France following
   a bunch sprint.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-22T17:34:08Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Michael Darda says the yield on the 10-year Treasury will fall, so he
   likes beleaguered home builders.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-22T11:26:00Z'

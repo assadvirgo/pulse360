@@ -5,7 +5,7 @@ countryCode: KR
 description: Samsung has given us our first chance to check out its upcoming smart
   glasses in person, revealing two new designs and the first specs in the process,
   including an impressive…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-22T16:35:34Z'

@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Shipping group Dynacom ‘trying to verify’ whereabouts of vessel hit in
   Strait of Hormuz
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-22T17:38:16Z'

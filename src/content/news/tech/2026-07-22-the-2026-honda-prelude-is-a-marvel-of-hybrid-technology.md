@@ -5,7 +5,7 @@ countryCode: US
 description: When it comes to enthusiast-geared Honda hardware, the Civic Si, Civic
   Type R, and Acura NSX often come to mind first for their revvy VTEC (Honda's form
   of variable valve timing)…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-22T11:00:00Z'

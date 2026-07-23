@@ -3,7 +3,7 @@ category: Showbiz
 description: Paramount&#8217;s $111 billion deal to acquire Warner Bros. Discovery
   (WBD) has taken a major step forward after securing approval from the European Union&#8217;s
   antitrust…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-22T18:47:22Z'

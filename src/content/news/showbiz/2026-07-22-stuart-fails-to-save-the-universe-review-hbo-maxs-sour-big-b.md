@@ -5,7 +5,7 @@ countryCode: US
 description: Kevin Sussman reprises his role as the awkward comic book store owner,
   who comes into possession of a dimension-hopping device that could destroy all of
   reality as he knows it.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 71.8
 pubDate: '2026-07-22T16:00:00Z'

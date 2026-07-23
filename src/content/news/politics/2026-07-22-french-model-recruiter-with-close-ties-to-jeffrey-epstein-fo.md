@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Under investigation in France, Daniel Siad was accused of helping Epstein
   to traffic and abuse women.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-22T15:12:32Z'

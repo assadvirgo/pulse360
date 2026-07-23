@@ -3,7 +3,7 @@ category: Showbiz
 description: The European Commission approved the merger of Paramount Skydance and
   Warner Bros. Discovery on Wednesday, removing one of the few remaining obstacles
   to closing the $111 billion…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-07-22T18:20:56Z'

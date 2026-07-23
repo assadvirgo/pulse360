@@ -2,7 +2,7 @@
 category: Politics
 description: Billionaires are on the rise as the rest struggle with inequality, poverty
   and cost of living crisis.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-22T15:38:26Z'

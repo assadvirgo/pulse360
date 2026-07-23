@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The agreement would fulfil a long-held Saudi ambition but could attract
   concern in Israel and from some US lawmakers.
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-22T20:05:31Z'

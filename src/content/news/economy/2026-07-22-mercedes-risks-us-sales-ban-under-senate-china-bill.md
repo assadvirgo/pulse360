@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Commerce panel to vote on legislation barring companies with significant
   Chinese ownership from US market
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-22T14:00:30Z'

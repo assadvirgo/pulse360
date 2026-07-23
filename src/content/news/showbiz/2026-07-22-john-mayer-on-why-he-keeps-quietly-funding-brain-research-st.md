@@ -5,7 +5,7 @@ countryCode: US
 description: After visiting a military base where he was moved talking to wounded
   warriors, the rock star has spent 15 years and millions out of his own pocket backing
   research on PTSD and…
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-22T20:00:00Z'
