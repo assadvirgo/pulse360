@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The woman, who had wanted to end her pregnancy at 36 weeks, gave birth
   to a baby who doctors later killed.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-23T10:04:56Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Last week, Trump Media &#38; Technology Group &#8212; which operates
   Truth Social, the U.S. president&#8217;s preferred platform for digital communications
   &#8212; said it will…
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-23T15:56:35Z'

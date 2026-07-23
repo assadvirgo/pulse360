@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Strategists conclude the IPO wave doesn’t necessarily portend a dangerous
   market bubble — yet.
-displayOrder: 37
+displayOrder: 48
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-23T15:37:00Z'

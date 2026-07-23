@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Palantir tops a screen of defense companies for growth through 2028,
   but most of the expected best growers are small-cap stocks.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-23T16:27:00Z'

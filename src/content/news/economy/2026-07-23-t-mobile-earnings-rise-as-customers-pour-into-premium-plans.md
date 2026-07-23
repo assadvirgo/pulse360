@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The wireless carrier has focused on amassing “higher quality accounts”
   after introducing new plans last year.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-23T10:39:00Z'

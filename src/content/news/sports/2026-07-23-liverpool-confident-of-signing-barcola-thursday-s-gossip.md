@@ -5,7 +5,7 @@ countryCode: GB
 description: Alex Scott favours a move to Arsenal, Bruno Fernandes is ready to commit
   his future to Manchester United, Liverpool are confident they will sign Bradley
   Barcola, plus more.
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-23T10:25:33Z'

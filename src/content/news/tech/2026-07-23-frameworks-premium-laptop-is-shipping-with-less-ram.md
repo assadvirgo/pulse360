@@ -5,7 +5,7 @@ countryCode: US
 description: RAMageddon has claimed yet another victim, with Framework now announcing
   a "major and unfortunate" pricing update for its upcoming premium laptop - which
   also impacts folks who…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-23T09:28:30Z'

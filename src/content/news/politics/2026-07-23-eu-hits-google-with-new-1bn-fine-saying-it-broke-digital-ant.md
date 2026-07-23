@@ -2,7 +2,7 @@
 category: Politics
 description: The fine is part of a major crackdown on Big Tech by Brussels which says
   it is seeking to ensure fair competition.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-23T12:11:24Z'

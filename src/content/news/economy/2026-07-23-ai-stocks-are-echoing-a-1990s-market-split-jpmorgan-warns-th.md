@@ -5,7 +5,7 @@ countryCode: US
 description: The different price action between artificial-intelligence hyperscalers
   and chip and infrastructure stocks is a throwback to a setup in the late 1990s,
   argues JPMorgan.
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-23T11:59:00Z'

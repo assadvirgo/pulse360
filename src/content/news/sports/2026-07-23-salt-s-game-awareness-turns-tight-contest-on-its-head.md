@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Captain seizes chance for match-turning boundary as costly fielding error
   sinks Brave
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-23T13:24:21Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Derived from basketball and developed by teenagers in late-Victorian
   England, netball is sport's great misunderstood "girly game". It could be heading
   to the Olympics in 2032.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-23T06:20:17Z'
