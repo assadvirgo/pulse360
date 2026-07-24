@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: White House hails pledge that seeks to shield consumers from the cost
   of energy for data centres as &#039;historic&#039;.
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 70.5
 pubDate: '2026-07-23T23:55:58Z'

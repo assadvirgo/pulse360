@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ted Lieu challenges UN Ambassador Mike Waltz after playing Al Jazeera
   footage of Iranian strikes in Jordan.
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-24T01:24:41Z'

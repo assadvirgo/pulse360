@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: With existing 10 percent levies set to expire, Trump issues new tariffs
   on 60 countries under forced labour provision.
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-24T01:08:08Z'

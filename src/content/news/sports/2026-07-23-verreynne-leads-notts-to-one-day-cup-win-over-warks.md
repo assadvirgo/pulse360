@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Kyle Verreynne hits an unbeaten 68 as Notts Outlaws beat Warwickshire
   by three wickets in the One-Day Cup.
-displayOrder: 43
+displayOrder: 49
 heroImage: ''
 importance: 54.2
 pubDate: '2026-07-23T17:49:40Z'

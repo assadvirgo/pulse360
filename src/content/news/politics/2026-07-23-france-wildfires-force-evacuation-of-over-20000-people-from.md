@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: About 800 firefighters and hundreds of gendarmes and soldiers deployed
   to battle the flames west of Bordeaux.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T21:07:31Z'

@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: TechCrunch Startup Battlefield is coming to Australia — and we're partnering
   with Stripe to find the country's most exciting early-stage startups.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-24T00:05:00Z'

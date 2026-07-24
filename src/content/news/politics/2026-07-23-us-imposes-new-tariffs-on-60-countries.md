@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Trump administration has imposed new tariffs of at least 10% on imports
   from 60 countries over claims they failed to prevent forced labour.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-23T23:44:00Z'

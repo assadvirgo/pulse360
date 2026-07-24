@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Sonam Wangchuk, a supporter of youth-led protesters demanding education
   reforms, says he wants to avert "possible violence".
-displayOrder: 12
+displayOrder: 23
 heroImage: ''
 importance: 67.2
 pubDate: '2026-07-23T21:27:04Z'
