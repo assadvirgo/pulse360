@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: A major fire broke out at a Wildberries e-commerce warehouse in St Petersburg
   after a Ukrainian drone attack.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-24T08:42:07Z'

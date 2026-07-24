@@ -5,7 +5,7 @@ countryCode: US
 description: Most Chromebooks ship with only 8GB of RAM, which is enough for some
   people, but certainly not enough for me. Multitaskers who want more memory in their
   next Chromebook should…
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-24T15:11:03Z'

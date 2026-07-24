@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Imposed citing forced labour concerns, the levies replace a temporary
   global duty brought in after the US Supreme Court struck down tariffs in February.
-displayOrder: 13
+displayOrder: 32
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-24T12:40:44Z'

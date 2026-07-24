@@ -5,7 +5,7 @@ countryCode: US
 description: In Pasadena, California, there's a cute red brick courtyard where one
   storefront isn't like the rest. The glass doors open onto a sparse industrial hallway,
   which leads to a…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-24T12:00:00Z'

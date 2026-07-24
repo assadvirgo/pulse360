@@ -3,7 +3,7 @@ category: Tech
 description: TikTok has attracted the ire of the European Union over its protection
   of children who use the video sharing platform. The European Commission announced
   preliminary findings today…
-displayOrder: 2
+displayOrder: 15
 heroImage: ''
 importance: 81.2
 pubDate: '2026-07-24T11:40:03Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Out-of-form Super League champions Hull KR put a stop to their losing
   run as they battle back to beat city rivals Hull FC in a feisty derby.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-23T22:02:08Z'

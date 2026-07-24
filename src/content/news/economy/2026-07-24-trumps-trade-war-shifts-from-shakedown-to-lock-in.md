@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The administration wants to ensure the US ‘gets paid’ for the superpower
   services it provides to the world
-displayOrder: 25
+displayOrder: 45
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-24T12:53:56Z'

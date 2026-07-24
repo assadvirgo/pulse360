@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Tens of thousands ordered to safety in France and Spain as fires rage
   in summer of extreme heat
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-24T09:39:09Z'

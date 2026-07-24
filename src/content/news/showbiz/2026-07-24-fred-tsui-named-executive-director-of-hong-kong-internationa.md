@@ -3,7 +3,7 @@ category: Showbiz
 description: The Hong Kong International Film Festival Society has appointed Fred
   Tsui, founder and CEO of Moebius Entertainment, as its new executive director, the
   organization said Friday.…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-24T10:43:36Z'

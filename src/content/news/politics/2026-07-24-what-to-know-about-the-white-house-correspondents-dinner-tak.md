@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Perennially controversial dinner is back, with Trump set to attend, after
   a gunman derailed the proceedings in April.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-24T13:48:54Z'

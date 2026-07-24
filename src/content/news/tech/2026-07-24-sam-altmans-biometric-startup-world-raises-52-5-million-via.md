@@ -5,7 +5,7 @@ countryCode: US
 description: Sam Altman's side project — which seeks to scan the world's eyeballs
   and turn them into unique digital identifiers — has raised some fresh cash through
   a crypto sale.
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-24T16:11:56Z'

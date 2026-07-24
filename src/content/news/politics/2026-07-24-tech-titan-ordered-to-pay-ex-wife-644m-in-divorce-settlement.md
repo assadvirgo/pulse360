@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The divorce, involving the chairman of one of South Korea's biggest companies,
   has gripped the nation.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-24T08:30:58Z'

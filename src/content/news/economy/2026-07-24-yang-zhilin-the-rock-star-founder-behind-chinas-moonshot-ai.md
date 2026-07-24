@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Known as ‘Yang the genius’ by classmates, his new K3 model has closed
   the gap with leading US rivals
-displayOrder: 26
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-24T15:00:02Z'
