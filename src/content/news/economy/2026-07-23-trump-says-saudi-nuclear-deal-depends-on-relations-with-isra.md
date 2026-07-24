@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Crown prince has insisted any rapprochement with Israel will depend on
   steps towards establishing Palestinian state
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-23T16:18:59Z'

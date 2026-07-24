@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: The Norwegian Football Federation is considering filing a formal complaint
   to Fifa's ethics committee.
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-23T12:43:30Z'

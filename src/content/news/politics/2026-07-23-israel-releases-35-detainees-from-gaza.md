@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israel releases 35 detainees from Gaza
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-23T11:36:28Z'

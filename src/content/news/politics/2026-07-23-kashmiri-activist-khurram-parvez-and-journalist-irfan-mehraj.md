@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Indian authorities release the two men after years in prison although
   both remain under tight court-imposed restrictions
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-23T13:18:13Z'

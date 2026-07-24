@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Talking to The Economist, Musk said he doesn't care if people hate him
   and said he was not a racist.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-23T11:39:11Z'

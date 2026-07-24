@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Bob Elliott sparks buzz highlighting the bargain level of TIPS.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-23T19:51:00Z'

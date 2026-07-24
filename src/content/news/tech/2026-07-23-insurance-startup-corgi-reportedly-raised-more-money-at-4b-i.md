@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Corgi had announced a B1 round of $106 million at a $2.6 billion valuation
   at the end of May.
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-23T20:13:24Z'

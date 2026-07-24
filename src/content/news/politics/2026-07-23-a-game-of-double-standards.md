@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: 'Qatar 2022: a World Cup that exposed football’s politics, power struggles,
   and double standards.'
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-23T17:02:21Z'

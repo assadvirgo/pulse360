@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: In the first development on FX&#8217;s Shōgun in months,
   we can tell you that Rick Kumazawa (Grey&#8217;s Anatomy, You) is set for a recurring
   role in the Emmy-winning…'
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-23T16:30:00Z'

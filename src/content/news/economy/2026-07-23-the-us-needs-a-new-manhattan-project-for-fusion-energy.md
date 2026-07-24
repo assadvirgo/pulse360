@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: If we are to outpace China and own the future of this technology, we
   must fund it properly
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-23T17:13:04Z'

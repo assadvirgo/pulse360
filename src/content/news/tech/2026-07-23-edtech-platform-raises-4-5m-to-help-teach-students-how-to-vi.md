@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Imagi announced a $4.5 million seed round, with investors including Brighteye
   Ventures, Day One Capital, and artist Will.i.am.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-23T15:00:00Z'

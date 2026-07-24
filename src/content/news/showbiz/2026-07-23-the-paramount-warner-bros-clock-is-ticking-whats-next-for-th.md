@@ -5,7 +5,7 @@ countryCode: US
 description: David Ellison may have believed Paramount Skydance could have closed
   the $111 billion takeover of Warner Bros. Discovery by this point. The deal was
   blessed by the Justice…
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 71.8
 pubDate: '2026-07-23T20:13:27Z'

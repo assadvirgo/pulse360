@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Senate fails to pass latest War Powers resolution, in largely symbolic
   move attempting to reign in Trump.
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-23T16:12:43Z'

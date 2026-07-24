@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: You don’t have to be a millionaire to open one of these franchises. Some
   require only a $50,000 investment.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-23T16:04:00Z'

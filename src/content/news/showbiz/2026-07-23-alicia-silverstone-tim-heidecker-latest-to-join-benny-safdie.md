@@ -5,7 +5,7 @@ countryCode: US
 description: EXCLUSIVE:&#160;Alicia Silverstone and Tim Heidecker are the latest to
   join&#160;Lizard Music, Benny Safdie&#8217;s live-action/CGI hybrid adaptation of
   the novel by Daniel…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-23T20:10:38Z'

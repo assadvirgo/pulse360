@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday,
   allowing more people to connect their medical records and health-tracking information
   to the chatbot.…
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-23T17:00:00Z'

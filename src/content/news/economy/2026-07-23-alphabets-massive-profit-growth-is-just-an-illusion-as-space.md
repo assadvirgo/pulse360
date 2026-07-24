@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Earnings quadrupled on paper, but an analyst calls that an “illusory”
   performance propped up by unrealized gains from equity investments.
-displayOrder: 31
+displayOrder: 49
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T14:28:00Z'

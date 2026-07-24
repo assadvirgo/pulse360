@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The bodies of the remaining 13 workers trapped inside a collapsed hydropower
   tunnel in India have been found - as the death toll rises to 25.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-23T13:16:00Z'
