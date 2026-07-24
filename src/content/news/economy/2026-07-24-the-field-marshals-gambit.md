@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Asim Munir is trying to refashion Pakistan’s place in the world — and
   bolster his power at home
-displayOrder: 39
+displayOrder: 43
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-24T04:00:04Z'

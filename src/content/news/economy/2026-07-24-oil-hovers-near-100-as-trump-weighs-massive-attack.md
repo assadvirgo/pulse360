@@ -2,7 +2,7 @@
 category: Economy
 description: Middle East tensions have risen after Red Sea attacks by Houthi militants
   threatened to squeeze global supplies further
-displayOrder: 42
+displayOrder: 45
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-24T07:26:44Z'

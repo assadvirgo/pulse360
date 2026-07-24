@@ -2,7 +2,7 @@
 category: Politics
 description: Israeli settlers&#039; storming of Islam&#039;s holy site fuels &#039;hatred&#039;
   and obstructs lasting peace, joint statement says.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-23T22:51:20Z'

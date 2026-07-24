@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sir Salman Rushdie has testified at the terrorism trial of the man convicted
   of trying to kill him.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-24T02:09:00Z'

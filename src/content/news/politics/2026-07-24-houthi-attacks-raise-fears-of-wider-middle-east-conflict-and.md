@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: The Iran-backed group in Yemen has threatened to target Saudi vessels
   in a vital shipping route.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-24T01:59:49Z'

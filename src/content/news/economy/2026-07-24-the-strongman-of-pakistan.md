@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Field Marshal Asim Munir is trying to refashion his country’s place in
   the world — and his power at home
-displayOrder: 31
+displayOrder: 39
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-24T04:00:04Z'

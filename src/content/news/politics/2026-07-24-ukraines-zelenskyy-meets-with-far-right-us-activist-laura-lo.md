@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Pro-Israel Trump ally sits down with Ukrainian president as she says
   Russia is helping Iran kill US soldiers.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-24T01:49:27Z'
