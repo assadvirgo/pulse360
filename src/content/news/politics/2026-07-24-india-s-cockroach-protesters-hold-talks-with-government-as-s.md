@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The meeting came hours after activist Sonam Wangchuk announced he was
   ending his 26-day hunger strike.
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-24T10:31:10Z'

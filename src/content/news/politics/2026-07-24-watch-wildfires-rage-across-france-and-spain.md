@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French authorities order evacuations in tourist hot spot, as Spain's
   government declares national emergency.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-24T10:02:51Z'

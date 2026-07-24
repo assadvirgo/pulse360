@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli attacks come amid ongoing talks with Lebanese officials to implement
   framework for peace between two countries.
-displayOrder: 7
+displayOrder: 34
 heroImage: ''
 importance: 69.5
 pubDate: '2026-07-24T04:39:50Z'

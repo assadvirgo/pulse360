@@ -5,7 +5,7 @@ countryCode: US
 description: Facebook is planning some big changes to try and keep its users from
   jumping to rival social platforms like TikTok - changes that sound dubiously similar
   to becoming a TikTok…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-24T11:00:00Z'

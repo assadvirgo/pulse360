@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The fire has raged in the region for several days with officials now
   ordering the evacuation of the entire Cap Ferret peninsula.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-24T11:50:17Z'

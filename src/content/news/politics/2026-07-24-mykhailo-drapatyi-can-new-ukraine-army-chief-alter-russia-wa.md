@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol.
   Can he lead his military to victory?
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-24T05:56:31Z'

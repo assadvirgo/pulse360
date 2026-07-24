@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Strikes on Wildberries have killed nine people and left small sellers
   facing millions of roubles in losses
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-24T06:48:37Z'

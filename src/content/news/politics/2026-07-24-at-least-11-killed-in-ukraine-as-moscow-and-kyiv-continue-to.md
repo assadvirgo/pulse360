@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries
   warehouses hit again.
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-24T11:45:04Z'

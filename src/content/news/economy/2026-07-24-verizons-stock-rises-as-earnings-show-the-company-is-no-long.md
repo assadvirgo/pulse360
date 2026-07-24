@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The wireless company beat subscriber expectations while pulling back
   on costly promotions.
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-24T11:08:00Z'

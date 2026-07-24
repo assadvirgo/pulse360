@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Companies make biggest US investment push in years to build up tech capabilities
   and avoid Donald Trump’s tariffs
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 41.5
 pubDate: '2026-07-24T03:06:35Z'

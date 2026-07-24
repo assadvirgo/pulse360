@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wise Group shares fell as much as 11% on Friday as the U.K.-headquartered,
   U.S.-listed fintech had its application for a national bank charter denied.
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-24T08:06:00Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: '"Cockroach" activist Sonam Wangchuk has ended his 26-day hunger strike,
   but the youth movement that rallied around him has vowed to continue its protests.'
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-24T06:31:00Z'

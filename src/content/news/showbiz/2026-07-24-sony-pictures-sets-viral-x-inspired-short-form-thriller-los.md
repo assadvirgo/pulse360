@@ -5,7 +5,7 @@ countryCode: ES
 description: Sony Pictures International Productions’ Spanish operation is moving
   into short-form fiction with “Los Hilos del Miedo,” an eight-part psychological
   suspense series set to launch…
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-24T10:01:31Z'

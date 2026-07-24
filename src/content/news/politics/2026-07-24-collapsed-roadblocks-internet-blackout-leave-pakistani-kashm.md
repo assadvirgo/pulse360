@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Residents describe mounting hardship, as internet restrictions and road
   closures stretch into second month before polls.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-24T06:01:39Z'

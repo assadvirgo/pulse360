@@ -5,7 +5,7 @@ countryCode: US
 description: We spoke with several cybersecurity researchers, who look for unknown
   vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s
   guardrails affect their…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-24T01:00:00Z'
