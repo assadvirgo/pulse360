@@ -2,7 +2,7 @@
 category: Politics
 description: Children were rushed to hospital after an Israeli strike hit a tent sheltering
   displaced people in Khan Younis.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T18:55:53Z'

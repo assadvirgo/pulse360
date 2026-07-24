@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As inflation continues to squeeze household budgets, parents and students
   are on a mission to find back-to-school bargains.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-23T18:51:00Z'

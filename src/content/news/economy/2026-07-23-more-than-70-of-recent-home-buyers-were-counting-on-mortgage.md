@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Refinancing to a lower rate isn’t an option for many homeowners, who
   now face “financially unsustainable” mortgage payments.
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T19:08:00Z'

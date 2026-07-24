@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A rally attendee seated directly behind Trump drew attention by mimicking
   the president.
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T21:08:32Z'

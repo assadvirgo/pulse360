@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The hottest tech trades of 2026 just got slammed — smart investors are
   buying anyway.
-displayOrder: 39
+displayOrder: 45
 heroImage: ''
 importance: 41.5
 pubDate: '2026-07-23T22:02:00Z'

@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: The Iran-backed group, which previously announced a "maritime embargo"
   against Saudi Arabia, also claims to have hit another vessel.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-23T16:50:59Z'

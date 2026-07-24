@@ -5,7 +5,7 @@ countryCode: US
 description: As the chairman of the Federal Communications Commission, Brendan Carr
   has authority over the nation’s TV, radio, and internet. But since Donald Trump
   was elected to his second…
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 75.2
 pubDate: '2026-07-23T19:46:11Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President Donald Trump and U.S. Trade Representative Jamieson Greer are
   making a fresh move with tariffs on Thursday.
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-23T21:50:00Z'

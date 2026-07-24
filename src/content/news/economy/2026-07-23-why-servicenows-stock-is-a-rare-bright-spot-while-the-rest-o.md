@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ServiceNow shares gained ground as an earnings beat and a booming AI
   pipeline offered welcome relief to software investors.
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-23T15:34:00Z'

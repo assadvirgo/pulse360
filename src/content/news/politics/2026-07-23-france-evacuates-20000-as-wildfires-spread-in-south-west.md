@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Most of those evacuated were tourists from campsites around Arcachon
   Bay in France's Gironde region.
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-23T19:17:42Z'

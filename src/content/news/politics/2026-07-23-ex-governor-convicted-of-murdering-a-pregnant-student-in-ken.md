@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: Okoth Obado was found guilty of killing Sharon Otieno with whom he had
   had an affair.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-23T16:07:24Z'

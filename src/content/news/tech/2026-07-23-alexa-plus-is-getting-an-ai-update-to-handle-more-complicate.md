@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon is launching an update to its Alexa Plus assistant that will allow
   it to connect to smart home devices in new ways. With the update, which is currently
   in preview, Alexa…
-displayOrder: 13
+displayOrder: 24
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-23T21:15:06Z'

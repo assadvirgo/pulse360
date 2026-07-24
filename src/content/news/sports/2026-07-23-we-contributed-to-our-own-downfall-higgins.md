@@ -5,7 +5,7 @@ countryCode: GB
 description: Coleraine manager Ruaidhrí Higgins says his side "contributed" to their
   own downfall in Thursday's 5-0 away defeat by HJK in the first leg of their Uefa
   Conference League second…
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-23T21:43:24Z'

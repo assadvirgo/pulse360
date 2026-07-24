@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli far-right Minister Ben-Gvir joins provocative incursion at Al-Aqsa,
   escalating tensions ahead of elections.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T17:25:05Z'

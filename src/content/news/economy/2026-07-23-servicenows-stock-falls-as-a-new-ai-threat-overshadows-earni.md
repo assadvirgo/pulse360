@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While ServiceNow’s earnings beat proved that its AI momentum is picking
   up, the launch of OpenAI Presence reignited fears of enterprise software disruption
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-23T21:41:00Z'

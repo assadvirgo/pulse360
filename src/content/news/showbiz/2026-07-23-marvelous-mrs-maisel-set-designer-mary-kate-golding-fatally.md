@@ -5,7 +5,7 @@ countryCode: US
 description: 'Mary Kate Golding, a 34-year-old New York City set decorator whose credits
   include The Marvelous Mrs. Maisel, Goosebumps and the 2025 Netflix docuseries Gone
   Girls: The Long…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-23T22:44:44Z'

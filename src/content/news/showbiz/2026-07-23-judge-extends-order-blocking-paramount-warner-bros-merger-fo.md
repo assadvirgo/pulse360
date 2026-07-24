@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge on Thursday extended the order blocking the Paramount-Warner
   Bros. merger for an additional 14 days, meaning the deal cannot close before Aug.
   18. Judge Araceli…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-23T21:28:12Z'

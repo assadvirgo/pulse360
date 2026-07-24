@@ -2,7 +2,7 @@
 category: Politics
 description: Two Palestinians were killed and several others injured in a new wave
   of Israeli airstrikes on Gaza City.
-displayOrder: 10
+displayOrder: 18
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-23T23:53:13Z'

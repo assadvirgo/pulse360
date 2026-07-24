@@ -5,7 +5,7 @@ countryCode: US
 description: Comic-Con got a double dose of three-time Oscar nominee Johnny Depp,
   who after showing up as Scrooge character on the streets of the Gaslamp district
   Thursday crashed…
-displayOrder: 7
+displayOrder: 10
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-23T23:49:46Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;The Big Bang Theory&#8217;s&#8221; Stuart Bloom may not have
   saved the universe, but he certainly saved San Diego Comic-Con. HBO Max&#8217;s
   upcoming spinoff &#8220;Stuart…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-23T22:32:04Z'

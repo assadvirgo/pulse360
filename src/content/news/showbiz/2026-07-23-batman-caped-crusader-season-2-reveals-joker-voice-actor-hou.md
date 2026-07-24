@@ -3,7 +3,7 @@ category: Showbiz
 description: '&#8220;Batman: Caped Crusader&#8221; has unmasked its Joker. &#8220;House
   of the Dragon&#8221; star Matthew Needham will voice the villain in Season 2 of
   the animated noir series…'
-displayOrder: 6
+displayOrder: 9
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-23T23:30:00Z'

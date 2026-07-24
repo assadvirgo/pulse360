@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester Super Giants chase a target of 81 inside 59 balls as they
   thrash London Spirit by seven wickets in The Hundred.
-displayOrder: 48
+displayOrder: 49
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-23T16:25:08Z'

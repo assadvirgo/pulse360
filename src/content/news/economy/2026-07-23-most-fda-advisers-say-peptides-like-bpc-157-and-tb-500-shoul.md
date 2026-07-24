@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The FDA is deciding whether seven peptides can be legally compounded,
   potentially opening the door to broader use in Americans.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-23T23:43:00Z'

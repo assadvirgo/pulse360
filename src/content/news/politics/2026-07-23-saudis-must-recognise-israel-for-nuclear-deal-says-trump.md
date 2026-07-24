@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: The US president says the landmark agreement to help Saudis develop nuclear
   energy is dependent on it joining the Abraham Accords.
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-23T16:17:44Z'
