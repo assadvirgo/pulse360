@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SLB has looked beyond the Middle East, capitalizing on revenue opportunities
   in other regions and in the AI market.
-displayOrder: 28
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-24T18:39:00Z'

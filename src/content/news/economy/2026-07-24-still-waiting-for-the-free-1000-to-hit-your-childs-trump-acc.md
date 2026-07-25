@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Around $1.5 billion has been deposited into the accounts since their
   launch earlier this month, the Treasury Department said.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-24T16:21:00Z'

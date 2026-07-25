@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Skydance has reached an agreement with a coalition of state
   attorneys general to postpone the Warner Bros. Discovery merger until after an antitrust
   trial. The company…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-24T19:40:12Z'

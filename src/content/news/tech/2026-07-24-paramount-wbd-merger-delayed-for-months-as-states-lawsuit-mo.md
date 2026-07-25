@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Halting this merger while our case proceeds is a critical victory,"
   NY AG said.
-displayOrder: 4
+displayOrder: 6
 heroImage: ''
 importance: 68.0
 pubDate: '2026-07-24T21:56:02Z'

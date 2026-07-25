@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: My emergency fund is running out — I thought I did everything right
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-24T20:11:00Z'

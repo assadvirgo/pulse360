@@ -2,7 +2,7 @@
 category: Politics
 description: Al Jazeera&#039;s guide to filling the football void with the Champions
   League, Premier League, La Liga, UEFA Super Cup and more.
-displayOrder: 17
+displayOrder: 24
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-24T23:25:15Z'

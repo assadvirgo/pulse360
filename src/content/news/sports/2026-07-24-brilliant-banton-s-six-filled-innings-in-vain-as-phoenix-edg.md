@@ -5,7 +5,7 @@ countryCode: GB
 description: Tom Banton delivers a fantastic innings for Trent Rockets in which he
   scores 67 from 32 balls, but it isn't enough for his side to complete their daunting
   chase as they lose by 10…
-displayOrder: 26
+displayOrder: 32
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-24T21:10:25Z'

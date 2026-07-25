@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The group discuss disastrous gigs, putting political action into music
   and the meaning of "queer pop".
-displayOrder: 13
+displayOrder: 20
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-24T23:01:10Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The delay, filed in court on Friday, can cost Paramount $1.7bn in fees
   if the deal is not closed by next June.
-displayOrder: 8
+displayOrder: 15
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-24T21:27:45Z'

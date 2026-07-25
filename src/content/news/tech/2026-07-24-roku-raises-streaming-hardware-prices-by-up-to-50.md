@@ -5,7 +5,7 @@ countryCode: US
 description: Roku has increased prices across its streaming hardware, with the cheapest
   HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by
   The Desk. The price hike…
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-24T18:07:19Z'

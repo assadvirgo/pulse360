@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Fresh from winning two titles at the British National Road Championships,
   Zoe Backstedt has been selected to ride in her first Tour de France Femmes.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-07-24T14:56:54Z'

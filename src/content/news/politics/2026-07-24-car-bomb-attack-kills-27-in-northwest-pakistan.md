@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: The Pakistani Taliban said four suicide bombers carried out the assault
   in the country&#039;s northwest.
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-24T19:16:18Z'

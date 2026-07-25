@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel has arrested wounded Palestinians in a hospital as it shuts off
   Nablus following Friday’s deadly settler attack
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-24T17:59:43Z'

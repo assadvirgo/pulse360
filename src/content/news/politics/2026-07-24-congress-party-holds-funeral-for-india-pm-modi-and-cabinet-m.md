@@ -3,7 +3,7 @@ category: Politics
 country: India
 countryCode: IN
 description: Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-24T16:04:38Z'

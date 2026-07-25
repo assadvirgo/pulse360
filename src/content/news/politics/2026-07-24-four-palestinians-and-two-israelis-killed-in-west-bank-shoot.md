@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinians say villagers came under attack by settlers, while the Israeli
   military says a Palestinian stole a weapon and opened fire on hikers.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-24T15:36:18Z'

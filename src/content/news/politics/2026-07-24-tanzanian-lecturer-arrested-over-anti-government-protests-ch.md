@@ -4,7 +4,7 @@ country: Tanzania
 countryCode: TZ
 description: He is among more than 130 people detained over planned protests calling
   for democratic reforms.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-24T12:55:58Z'
