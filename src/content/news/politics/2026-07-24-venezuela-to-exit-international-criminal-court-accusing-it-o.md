@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Announcement comes as Venezuela has hewed close to Trump administration,
   who has pledged to&#039;disable&#039; international court.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-24T20:32:12Z'

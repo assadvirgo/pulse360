@@ -5,7 +5,7 @@ countryCode: US
 description: The event was moved to the Waldorf Astoria and had about a quarter of
   the attendees of the event in April, which was interrupted when a gunman attempted
   to enter the ballroom and…
-displayOrder: 8
+displayOrder: 13
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-25T02:25:03Z'

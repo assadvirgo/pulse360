@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Reflections on an under-scrutinised prime minister
-displayOrder: 10
+displayOrder: 14
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-25T04:00:27Z'

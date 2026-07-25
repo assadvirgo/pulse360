@@ -2,7 +2,7 @@
 category: Economy
 description: Bots can build a portfolio in seconds — but wait until you see where
   their financial advice fails.
-displayOrder: 41
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-24T21:30:00Z'

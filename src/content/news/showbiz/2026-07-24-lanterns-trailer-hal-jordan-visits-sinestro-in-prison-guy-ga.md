@@ -5,7 +5,7 @@ countryCode: US
 description: HBO&#8217;s upcoming DC Studios drama &#8220;Lanterns&#8221; got a new
   trailer for the Green Lantern-inspired mystery at San Diego Comic Con. The eight-episode
   series premieres on…
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-24T20:52:19Z'

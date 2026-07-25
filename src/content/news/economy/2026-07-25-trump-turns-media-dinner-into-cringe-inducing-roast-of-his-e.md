@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Many of the president’s jokes were met with stony silence at a rescheduled
   White House Correspondents’ Dinner
-displayOrder: 28
+displayOrder: 32
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-25T03:54:28Z'

@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: US military says it disabled a tanker that was attempting to evade the
   American blockade on Iranian ports.
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-25T04:48:40Z'

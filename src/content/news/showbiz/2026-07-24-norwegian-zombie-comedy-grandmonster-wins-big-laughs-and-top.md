@@ -5,7 +5,7 @@ countryCode: 'NO'
 description: Norwegian director Vegard Dahle’s zombie comedy “Grandmonster” has won
   the top Outpost Award, and a prize of post-production services, at the Fantasia
   Festival’s prestigious…
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 78.8
 pubDate: '2026-07-24T23:00:00Z'

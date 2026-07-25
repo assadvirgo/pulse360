@@ -5,7 +5,7 @@ countryCode: US
 description: A group of experts, some of whom work in the peptide industry, said the
   Food and Drug Administration should allow six peptides to be compounded, in a move
   that could widen access…
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-24T20:26:00Z'

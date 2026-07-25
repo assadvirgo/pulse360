@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lorenzo Salgado Araujo&#039;s sons tell lawmakers their father worked
   hard &#039;to protect and provide&#039; for his family.
-displayOrder: 12
+displayOrder: 17
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-25T01:30:20Z'

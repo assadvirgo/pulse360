@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Canada cancelled planned cross-border ribbon-cutting ceremony and the
   milestone opening was only among Canadians.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-24T20:22:04Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president says fines against Google, as well as Apple, Meta and
   Amazon, should be "entirely reversed."
-displayOrder: 16
+displayOrder: 25
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-24T20:23:58Z'

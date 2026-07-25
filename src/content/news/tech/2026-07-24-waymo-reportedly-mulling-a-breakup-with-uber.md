@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: The contract between the two companies ends in May 2028, Uber told TechCrunch.
-displayOrder: 29
+displayOrder: 35
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-24T20:43:35Z'
