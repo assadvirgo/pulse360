@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: A record 19th medal took South Africa&#039;s Chad le Clos past shooters
   Phil Adams of Australia and Mick Gault of England.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-25T05:48:52Z'

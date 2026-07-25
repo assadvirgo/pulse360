@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump says Washington remains ‘locked and loaded’
   while pursuing diplomatic talks with Tehran.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 70.5
 pubDate: '2026-07-25T00:00:00Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Many of the president’s jokes met stony silence at rescheduled event
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 45.5
 pubDate: '2026-07-25T03:54:28Z'

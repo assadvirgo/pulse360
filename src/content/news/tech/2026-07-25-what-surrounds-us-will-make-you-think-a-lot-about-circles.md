@@ -3,7 +3,7 @@ category: Tech
 description: What Surrounds Us takes its title literally. You play as a circle surrounding
   a hole in its middle - it looks like a donut with frosting. You work together with
   other sentient…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-25T12:00:00Z'

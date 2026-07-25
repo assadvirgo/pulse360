@@ -5,7 +5,7 @@ countryCode: GB
 description: Birmingham Phoenix set a record-breaking innings at Edgbaston with a
   whopping 214 - the highest score Edgbaston has ever seen in The Hundred. Despite
   a valiant chase and a mighty…
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-24T21:28:56Z'

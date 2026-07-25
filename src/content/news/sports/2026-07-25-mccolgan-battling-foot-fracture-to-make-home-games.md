@@ -5,7 +5,7 @@ countryCode: GB
 description: Scotland's Eilish McColgan is giving herself "every opportunity" to defend
   her Commonwealth Games 10,000m title in her home country on Monday as she recovers
   from a foot fracture,…
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-25T10:54:00Z'

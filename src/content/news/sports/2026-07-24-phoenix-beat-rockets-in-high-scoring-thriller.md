@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Joe Clarke and Will Smeed hit fifties as Birmingham Phoenix post the
   second-highest total in Hundred history to beat Trent Rockets.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-24T20:48:03Z'

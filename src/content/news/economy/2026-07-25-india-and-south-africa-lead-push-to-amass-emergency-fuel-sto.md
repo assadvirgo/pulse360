@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Developing countries forced into rationing during Middle East conflict
   plan to build or expand official buffers
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-07-25T04:00:27Z'
