@@ -2,7 +2,7 @@
 category: Tech
 description: New delay on Copernicus satellite pics comes as US ramps up war with
   Iran again.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-24T17:45:05Z'

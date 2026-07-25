@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Colt Gray pleads guilty to killing two students and two teachers in 2024
   attack, which upped scrutiny of parental role.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-24T18:31:22Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Birmingham Phoenix score just 64 in their innings in a batting performance
   they'll want to forget, allowing Trent Rockets to capitalise and complete a simple
   chase in The Hundred…
-displayOrder: 34
+displayOrder: 43
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-24T16:33:00Z'

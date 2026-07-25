@@ -5,7 +5,7 @@ countryCode: US
 description: Watchmen writer Alan Moore’s 1989 graphic novel From Hell used the 1888-1891
   crimes of London’s Jack the Ripper as a bloody overture to the coming violence of
   the 20th century,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-24T17:00:00Z'

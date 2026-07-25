@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount has agreed not to close its proposed merger with Warner Bros.
   Discovery until June 1, 2027, or until shortly after the merits of lawsuits brought
   by state attorneys…
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-24T19:35:15Z'

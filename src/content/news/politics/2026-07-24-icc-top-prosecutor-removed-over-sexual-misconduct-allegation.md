@@ -2,7 +2,7 @@
 category: Politics
 description: Karim Khan denies allegations of engaging in an improper sexual relationship
   with a junior ICC staff member and seeking to stop her pursuing her complaint.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-24T19:57:04Z'

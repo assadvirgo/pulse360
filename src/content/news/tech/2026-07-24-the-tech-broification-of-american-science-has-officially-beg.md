@@ -5,7 +5,7 @@ countryCode: US
 description: The Trump administration unveiled the first "Genesis Mission" grants
   on Thursday, directing $5 billion toward hundreds of AI-driven science projects
   in an effort the White House…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-24T14:43:55Z'

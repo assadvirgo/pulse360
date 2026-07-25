@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Boxer Jai Opetaia starts legal action in the United States to try to
   force the IBF to hand back the cruiserweight world title.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-24T11:55:12Z'

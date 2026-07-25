@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The studio and coalition of states looking to block the deal reached
   a truce on when Paramount can close the deal, if at all.
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-24T20:06:47Z'

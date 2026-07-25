@@ -5,7 +5,7 @@ countryCode: US
 description: Chuck Russell, who helped launch several notable careers as the director
   of genre films including 1994&#8217;s &#8220;The Mask&#8221; as well as &#8220;A
   Nightmare on Elm Street…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-24T19:27:02Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The trend of low scores in The Hundred continues as Birmingham Phoenix
   suffer a nine-wicket defeat by Trent Rockets at Edgbaston.
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-24T16:16:03Z'

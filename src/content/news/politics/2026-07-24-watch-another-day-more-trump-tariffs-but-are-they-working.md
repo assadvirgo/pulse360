@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The BBC's Samira Hussain explains how President Trump's tariffs affect
   US economy, who pays the price, and whether they're working.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-24T10:21:31Z'
