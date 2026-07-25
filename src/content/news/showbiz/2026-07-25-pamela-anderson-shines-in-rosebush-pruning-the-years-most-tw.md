@@ -5,7 +5,7 @@ countryCode: CA
 description: Last week, Pamela Anderson went viral — for her lush, enchanting garden.
   She’d never felt comfortable with the whole “sex symbol” thing after all, referring
   to that…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-25T15:00:00Z'

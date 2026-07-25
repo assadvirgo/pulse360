@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Dharmendra Pradhan’s departure was a key demand of the burgeoning student
   movement
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-25T14:08:23Z'

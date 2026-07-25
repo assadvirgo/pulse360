@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: 101 East meets the doctors using drones to fight tuberculosis and save
   lives in remote communities in the Philippines.
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-25T11:30:00Z'

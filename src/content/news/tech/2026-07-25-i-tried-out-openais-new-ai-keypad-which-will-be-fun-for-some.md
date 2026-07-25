@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI's fancy new AI keypad will be a lot of fun for some, while many
   others are probably not going to touch it.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-25T00:23:11Z'

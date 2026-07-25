@@ -2,7 +2,7 @@
 category: Politics
 description: Gabriel Langton suffers concussion after headfirst crash off horizontal
   bar in the ⁠final rotation of the competition.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-25T06:36:22Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Military crackdown follows a shooting that killed four Palestinians and
   two Israeli soldiers.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-25T09:10:01Z'

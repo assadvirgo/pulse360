@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: Belgian officials say operations have not been compromised after a Canadian
   national of Chinese origin is detained
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-25T09:22:40Z'

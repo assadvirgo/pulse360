@@ -5,7 +5,7 @@ countryCode: MY
 description: Wu Jing says the fingerprints of Hong Kong action cinema are still on
   every wuxia film made today, including his own. Speaking with Variety at the Malaysia
   International Film…
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-25T16:16:48Z'

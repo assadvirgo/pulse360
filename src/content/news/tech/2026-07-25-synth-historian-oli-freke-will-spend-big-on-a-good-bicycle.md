@@ -3,7 +3,7 @@ category: Tech
 description: Oli Freke is a musician and journalist whose works have appeared in Sound
   on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic
   potential of the…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-25T15:15:00Z'

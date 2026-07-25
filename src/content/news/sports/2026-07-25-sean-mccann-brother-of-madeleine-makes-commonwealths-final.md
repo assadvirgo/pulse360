@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sean McCann, the younger brother of Madeleine McCann, reaches the 400m
   freestyle final at Commonwealth Games.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-25T12:27:09Z'

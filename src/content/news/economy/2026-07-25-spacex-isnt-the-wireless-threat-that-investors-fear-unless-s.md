@@ -5,7 +5,7 @@ countryCode: US
 description: It would likely be too expensive and time-consuming for SpaceX to build
   a mobile network on its own. But the major wireless carriers have to hope one of
   their rivals doesn’t sell…
-displayOrder: 29
+displayOrder: 45
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-25T12:00:00Z'

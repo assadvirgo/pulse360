@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Killings by ICE agents undermine support of voters but White House doubles
   down on deportation policy
-displayOrder: 35
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-25T10:00:09Z'

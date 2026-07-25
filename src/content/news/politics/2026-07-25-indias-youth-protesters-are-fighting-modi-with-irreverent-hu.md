@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Modi built his political brand through social media. Now protesters are
   using same platforms to mock his administration.
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-25T11:09:05Z'

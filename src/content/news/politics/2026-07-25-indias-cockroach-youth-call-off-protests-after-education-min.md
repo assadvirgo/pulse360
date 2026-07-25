@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Youth protesters agree to end agitation after Dharmendra Pradhan resigns
   over a series of exam paper leaks.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-25T08:54:20Z'
