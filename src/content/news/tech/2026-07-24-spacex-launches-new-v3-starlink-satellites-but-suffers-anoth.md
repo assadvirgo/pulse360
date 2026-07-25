@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company ticked off a few more boxes on the second Starship V3 flight,
   but appears to have had another issue relighting the booster's rocket engines.
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-24T23:25:47Z'

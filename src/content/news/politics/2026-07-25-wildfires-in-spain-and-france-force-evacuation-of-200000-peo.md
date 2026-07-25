@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: France has appealed for international help, while Spain has declared
   a national emergency.
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-25T07:41:43Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The AI industry is courting the humanities — but it is asking the wrong
   questions
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-25T04:00:27Z'

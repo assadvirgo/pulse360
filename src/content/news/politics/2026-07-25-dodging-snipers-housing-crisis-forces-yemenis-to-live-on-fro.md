@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Living near Taiz&#039;s front line forces families to make difficult
   choices amid sniper threats and economic hardships.
-displayOrder: 6
+displayOrder: 10
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-25T08:09:47Z'

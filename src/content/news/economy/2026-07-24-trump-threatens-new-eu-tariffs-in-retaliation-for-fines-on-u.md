@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President says Washington will launch new probe into the bloc that could
   sharpen trade tensions
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-24T18:21:26Z'

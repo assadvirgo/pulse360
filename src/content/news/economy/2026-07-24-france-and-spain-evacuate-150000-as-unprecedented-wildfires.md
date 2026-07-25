@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Extreme heat and high winds fuel fast-moving blazes as authorities in
   both countries battle to contain them
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-24T21:05:23Z'

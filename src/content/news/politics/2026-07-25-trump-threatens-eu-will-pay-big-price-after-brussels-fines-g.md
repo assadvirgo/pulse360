@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: EU accuses US tech giant of favouring its own services in search results,
   as Trump lashes out against bloc.
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-25T01:09:01Z'

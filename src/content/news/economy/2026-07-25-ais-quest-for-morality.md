@@ -2,7 +2,7 @@
 category: Economy
 description: The industry is courting theologians and philosophers. But it is asking
   them the wrong questions
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-25T04:00:27Z'

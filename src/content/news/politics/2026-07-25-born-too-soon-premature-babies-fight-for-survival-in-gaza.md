@@ -2,7 +2,7 @@
 category: Politics
 description: Israel&#039;s genocidal war on Gaza is causing a surge in premature births
   and endangering mothers&#039; health.
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-25T07:25:35Z'
