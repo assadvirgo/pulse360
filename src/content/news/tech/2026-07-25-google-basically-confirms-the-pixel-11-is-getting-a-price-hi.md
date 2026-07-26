@@ -5,7 +5,7 @@ countryCode: US
 description: Google's Vice President of Devices and Services, Shakil Barkat, all but
   confirmed in an interview with 9to5 Google that its next Pixel phone would cost
   more than the Pixel 10.…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-25T18:13:36Z'

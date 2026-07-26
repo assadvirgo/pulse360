@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk's tunneling startup is reportedly in talks for a major new
   funding round.
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-25T19:23:32Z'

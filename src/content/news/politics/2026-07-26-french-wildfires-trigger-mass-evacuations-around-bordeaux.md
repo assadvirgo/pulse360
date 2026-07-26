@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Around 200,000 people have been evacuated around Bordeaux as wildfires
   tear through southwestern France.
-displayOrder: 16
+displayOrder: 31
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-26T03:03:17Z'

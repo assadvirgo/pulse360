@@ -5,7 +5,7 @@ countryCode: US
 description: PBS SoCal again collected the most trophies at the 78th Los Angeles Emmy
   Awards, held Saturday night at the Skirball Cultural Center in Los Angeles, matching
   its 2025 haul with 8.…
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 47.0
 pubDate: '2026-07-26T05:40:44Z'

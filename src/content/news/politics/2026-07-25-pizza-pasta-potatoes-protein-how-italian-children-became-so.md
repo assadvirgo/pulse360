@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The Mediterranean diet was a blueprint for healthy living, yet Italian
   children are among the most overweight in Europe according to WHO.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-25T23:30:07Z'

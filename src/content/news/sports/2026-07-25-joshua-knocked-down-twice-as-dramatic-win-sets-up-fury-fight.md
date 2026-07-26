@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Anthony Joshua suffers two knockdowns before recovering to dramatically
   stop Kristian Prenga in the second round.
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-25T23:06:47Z'

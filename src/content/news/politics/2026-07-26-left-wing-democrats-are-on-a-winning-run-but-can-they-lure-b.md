@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: They have seen a flurry of recent wins, but Michigan will test their
   ability to win back working-class voters in crucial states.
-displayOrder: 7
+displayOrder: 23
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-26T03:58:51Z'

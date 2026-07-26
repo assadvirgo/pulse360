@@ -2,7 +2,7 @@
 category: Politics
 description: Four other Palestinians were also killed by Israeli air strikes, and
   a policeman died from wounds sustained last week.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-07-25T20:00:43Z'

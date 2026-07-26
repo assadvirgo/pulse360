@@ -3,7 +3,7 @@ category: Sports
 country: United Kingdom
 countryCode: GB
 description: Fire bounce back from defeat to Southern Brave with a comprehensive win
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-25T17:12:13Z'

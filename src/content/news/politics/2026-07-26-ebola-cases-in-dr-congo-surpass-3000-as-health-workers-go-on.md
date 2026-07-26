@@ -5,7 +5,7 @@ countryCode: CD
 description: The Democratic Republic of Congo (DRC) has recorded more than 3,000 confirmed
   cases of Ebola, as it continues to battle the fastest-growing outbreak of the disease
   in history.
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-26T03:36:00Z'

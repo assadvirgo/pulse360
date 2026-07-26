@@ -4,7 +4,7 @@ country: Zimbabwe
 countryCode: ZW
 description: Zimbabwe wants to process more minerals at home, but smaller miners fear
   being left behind.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-26T03:21:28Z'
