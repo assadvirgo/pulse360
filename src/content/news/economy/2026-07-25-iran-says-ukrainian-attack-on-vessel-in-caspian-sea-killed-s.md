@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Foreign ministry urges EU to intervene to prevent Middle East conflict
   spreading beyond the region
-displayOrder: 42
+displayOrder: 45
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-25T21:52:02Z'

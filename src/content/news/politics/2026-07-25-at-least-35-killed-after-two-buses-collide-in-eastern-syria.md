@@ -3,7 +3,7 @@ category: Politics
 country: Syria
 countryCode: SY
 description: At least 35 killed after two buses collide in eastern Syria
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-25T19:22:30Z'

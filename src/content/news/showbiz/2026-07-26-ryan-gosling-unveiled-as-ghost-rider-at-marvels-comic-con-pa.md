@@ -3,7 +3,7 @@ category: Showbiz
 description: What was rumored has become reality. Three-time Oscar nominee Ryan Gosling
   has been named Marvel&#8217;s next Ghost Rider. The Gosling movie will come out
   in 2028, and he&#8217;s…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-26T01:11:44Z'

@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Outbreak is spreading at the fastest rate ever recorded as confirmed
   cases in DRC surpass 3,000.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-25T18:28:09Z'

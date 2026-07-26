@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Protest group says at least 200 demonstrated in Israeli capital a day
   after major escalation of West Bank violence.
-displayOrder: 12
+displayOrder: 19
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-26T01:52:56Z'

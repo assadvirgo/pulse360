@@ -5,7 +5,7 @@ countryCode: US
 description: Today at San Diego Comic-Con, director Ryan Coogler took the stage to
   announce that not only is Black Panther 3 hitting theaters on December 15, 2028,
   but David Jonsson will play…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-07-26T01:41:47Z'

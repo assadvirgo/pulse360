@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Right-wing candidate Flavio Bolsonaro attracts foreign support, but struggles
   in polls ahead of matchup with Lula.
-displayOrder: 17
+displayOrder: 23
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-26T00:08:16Z'

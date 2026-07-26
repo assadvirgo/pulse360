@@ -3,7 +3,7 @@ category: Tech
 description: An awe-inspiring hacktivist who hacked two controversial government spyware
   makers may be the most prolific hacker to have never gotten caught. What do we know
   about Phineas…
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-25T20:24:14Z'

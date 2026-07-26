@@ -2,7 +2,7 @@
 category: Showbiz
 description: Jessica Biel also stars in Sam Hargrave's feature that debuted its first
   footage at Comic-Con ahead of its fall launch.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-26T00:39:07Z'
