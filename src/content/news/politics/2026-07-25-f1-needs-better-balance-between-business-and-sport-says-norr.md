@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling
   new regulations have cramped their speed.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-25T13:03:52Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: What happened when thousands of Israelis stormed the Al-Aqsa Mosque compound
   under Israeli police protection?
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-25T15:49:53Z'

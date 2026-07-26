@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump has ordered the installation of warning signs
   at the Smithsonian’s National Museum of American History to alert visitors about
   what he thinks are inaccurate…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-25T18:18:00Z'

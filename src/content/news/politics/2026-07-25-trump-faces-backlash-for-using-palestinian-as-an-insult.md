@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump is facing backlash after using ‘Palestinian’
   as an insult while mocking a Democratic Senator.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-25T12:11:33Z'

@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Syrian Foreign Minister Asaad al-Shaibani called for Israel to withdraw
   immediately and unconditionally from Syria
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-25T15:52:19Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona offer condolences to family of a 54-year-old man who died during
   Camp Nou redevelopment after blow to head.
-displayOrder: 22
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-25T16:36:48Z'

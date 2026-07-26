@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has unveiled the teaser for &#8220;Neuromancer,&#8221; a sci-fi
   drama led by Callum Turner, based on the landmark 1984 novel by William Gibson.
   The Apple TV series is…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-25T22:14:18Z'

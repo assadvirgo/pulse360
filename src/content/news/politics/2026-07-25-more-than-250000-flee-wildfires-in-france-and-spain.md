@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Spain's PM warns of "complex hours" ahead as authorities in France say
   they are far from bringing blazes burning near Bordeaux under control.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-25T17:13:40Z'

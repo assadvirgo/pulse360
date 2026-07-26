@@ -5,7 +5,7 @@ countryCode: US
 description: The gods themselves get mostly shoved out of the picture in &#8220;The
   Odyssey,&#8221; as has been noted by some filmgoers who wished Zeus or Poseidon
   got in on the action instead…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-25T23:38:43Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Family Guy&#8216;s Halloween and holiday specials are returning exclusively
   to Hulu for a third straight year in 2026. Series executive producer and showrunner
   Rich Appel made the…
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-25T23:38:16Z'

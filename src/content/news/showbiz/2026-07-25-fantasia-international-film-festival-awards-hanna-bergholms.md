@@ -5,7 +5,7 @@ countryCode: CA
 description: Hanna Bergholm’s “Nightborn” has won the top honor at this year’s Fantasia
   International Film Festival juried awards. “Nightborn” was awarded the prestigious
   Cheval Noir trophy…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-25T23:32:13Z'

@@ -4,7 +4,7 @@ country: Cameroon
 countryCode: CM
 description: New Bell's inmates have become mini stars, recording songs and music
   videos from the confines of the jail.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-26T00:24:30Z'

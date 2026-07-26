@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The CJP protest has been the most visible expression of public anger
   against PM Narendra Modi's government in recent years.
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-25T17:44:46Z'

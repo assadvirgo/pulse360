@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Anthony Joshua has won his comeback bout against Kristian Prenga with
   a second-round knockout.
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-25T22:34:00Z'
