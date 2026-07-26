@@ -5,7 +5,7 @@ countryCode: GB
 description: Welsh Fire put on a dominant display in Cardiff to make light work of
   MI London, as captain Sophie Devine's excellent all-round performance leads her
   side to a 60-run victory. The…
-displayOrder: 13
+displayOrder: 17
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-25T17:36:52Z'

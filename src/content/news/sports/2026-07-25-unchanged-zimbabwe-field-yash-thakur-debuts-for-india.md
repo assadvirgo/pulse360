@@ -3,7 +3,7 @@ category: Sports
 country: Zimbabwe
 countryCode: ZW
 description: Thakur replaced Ashok Sharma, who made his debut in the previous game
-displayOrder: 33
+displayOrder: 46
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-25T11:17:04Z'

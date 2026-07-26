@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The CJP protest began with exam paper leaks. It became India's biggest
   student movement in years - why?
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-25T13:26:04Z'

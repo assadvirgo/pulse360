@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The 30-year fixed-rate mortgage edged up to its highest level of 2026.
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-25T14:08:00Z'

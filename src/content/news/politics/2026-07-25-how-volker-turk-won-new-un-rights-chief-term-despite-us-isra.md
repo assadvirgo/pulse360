@@ -2,7 +2,7 @@
 category: Politics
 description: UN General Assembly votes 144-10 to grant Turk a new four-year term,
   despite objections from the US, Israel and Russia.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-25T09:54:44Z'

@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Rescuers have found 11 European tourists and a local crew member alive
   after a speedboat went missing before sinking in Indonesia.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-25T09:20:00Z'

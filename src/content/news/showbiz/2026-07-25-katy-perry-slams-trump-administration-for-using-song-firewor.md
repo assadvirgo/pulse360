@@ -5,7 +5,7 @@ countryCode: US
 description: Katy Perry has blasted the White House for using her 2010 hit song &#8220;Firework&#8221;
   in a TikTok post depicting footage of military strikes. The video, posted to the
   official…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-25T16:13:48Z'

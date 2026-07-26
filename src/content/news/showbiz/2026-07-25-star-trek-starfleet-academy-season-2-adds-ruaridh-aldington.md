@@ -5,7 +5,7 @@ countryCode: US
 description: 'A new cadet is joining the ranks of Star Trek: Starfleet Academy. Ruaridh
   Aldington is joining Season 2 as a series regular, his new co-star Karim Diané revealed
   during the Star…'
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-25T20:12:00Z'

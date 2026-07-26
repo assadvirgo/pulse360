@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: About three-fourths of Americans lack the wealth needed to prosper in
   today’s economy, according to a new benchmark developed by the Aspen Institute.
-displayOrder: 48
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-25T18:15:00Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain
   to consecutive Champions League titles.
-displayOrder: 21
+displayOrder: 30
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-25T14:20:21Z'

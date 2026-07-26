@@ -5,7 +5,7 @@ countryCode: IT
 description: As a design house, Brunello Cucinelli is a name synonymous with luxury
   and quality. As a production company, it’s hard to know how to feel about it preceding
   a biographical film…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-25T17:30:00Z'

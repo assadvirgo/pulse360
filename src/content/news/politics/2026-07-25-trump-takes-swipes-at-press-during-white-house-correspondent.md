@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The event celebrated press freedom after the first dinner was cancelled
   by a shooting in April.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-25T13:51:07Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At libraries around the country, "Avoiding AI" workshops have elicited
   unprecedented demand.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 74.0
 pubDate: '2026-07-25T16:00:00Z'
