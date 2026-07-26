@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Noul hit southern Guangdong province and neighbouring Hong Kong, bringing
   strong winds and heavy rain to the region.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-26T05:29:14Z'

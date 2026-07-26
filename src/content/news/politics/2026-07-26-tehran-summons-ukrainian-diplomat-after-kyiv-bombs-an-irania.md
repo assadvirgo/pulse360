@@ -3,7 +3,7 @@ category: Politics
 country: Iran
 countryCode: IR
 description: Iran has condemned a Ukrainian attack on one of its commercial vessels.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-26T03:49:29Z'

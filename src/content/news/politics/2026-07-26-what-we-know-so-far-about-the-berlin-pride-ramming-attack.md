@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: A police manhunt is underway after a suspect rammed a car into a crowd
   at a Pride event in the German capital on Saturday night.
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-26T11:41:04Z'

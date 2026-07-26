@@ -2,7 +2,7 @@
 category: Economy
 description: Many white-collar professionals worry about the tech inhibiting creativity
   and making errors
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-26T04:00:08Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A running look — in reverse chronological order — at the bigger tech
   companies that have announced significant layoffs this year with AI as a stated
   factor.
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-26T01:30:00Z'

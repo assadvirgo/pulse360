@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Perpetual futures let investors circumvent restrictions on foreign access
   to China’s equity market
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-26T04:00:15Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: PBS SoCal (KOCE and KCET) was the big winner Saturday night at the L.A.
   Area Emmy Awards, landing eight — including for live events-programming, entertainment,
   crime/social issues…
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-26T07:39:20Z'

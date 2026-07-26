@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The lawsuit will likely renew debates about whether term employment agreements
   are enforceable under California. law
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 52.0
 pubDate: '2026-07-25T20:55:11Z'

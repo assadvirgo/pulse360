@@ -5,7 +5,7 @@ countryCode: GB
 description: Head contact affects women differently yet rugby's concussion guidelines
   are still largely based on the men's game, something Cardiff University is looking
   to change.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-26T09:18:24Z'
