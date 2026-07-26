@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rising Treasury yields show how “enormously worried” the market is about
   inflation — and whether the Fed will back up its tough talk with action
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-26T12:30:00Z'

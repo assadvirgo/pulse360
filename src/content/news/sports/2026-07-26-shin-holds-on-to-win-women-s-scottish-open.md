@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Jenny Shin survives a tricky final round to see off fellow South Korean
   A-Lim Kim and win the Women's Scottish Open.
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-26T15:38:34Z'

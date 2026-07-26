@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Settlers torch two mosques in the Palestinian territory as Israeli PM
   Benjamin Netanyahu threatens &#039;more broad action&#039;.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-26T13:31:04Z'

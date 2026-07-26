@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: A workshop in Buenos Aires is offering fans free prints of ‘The Malvinas
   are Argentine’, recreating the divisive banner
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-26T14:05:03Z'

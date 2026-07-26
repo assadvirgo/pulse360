@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: Thousands rally in Tunis calling for &#039;fall of the regime&#039; five
   years since President Kais Saied suspended parliament.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-26T04:14:23Z'

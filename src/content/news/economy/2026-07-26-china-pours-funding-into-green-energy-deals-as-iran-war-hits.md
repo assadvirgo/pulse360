@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Beijing’s Belt and Road Initiative takes advantage of rise in appetite
   for renewables as Middle East conflict drags on
-displayOrder: 43
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-26T04:00:07Z'

@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more on all things vertical video, follow David Pierce.
   The Stepback arrives…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-26T12:00:00Z'

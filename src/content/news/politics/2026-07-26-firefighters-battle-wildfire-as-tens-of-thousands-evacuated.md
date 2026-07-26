@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: More than 330,000 people have now been evacuated from wildfires across
   France and Spain.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-26T11:29:07Z'

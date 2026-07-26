@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: A 21-year-old suspect has been identified by police, but he has not been
   found.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-26T08:14:55Z'

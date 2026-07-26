@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As drones and autonomous systems transform the battlefield, traditional
   defence companies start to act more like venture capitalists
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-26T04:00:15Z'

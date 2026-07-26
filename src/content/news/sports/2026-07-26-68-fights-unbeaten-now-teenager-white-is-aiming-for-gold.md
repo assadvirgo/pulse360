@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Teenage boxer Ruby White hopes her unbeaten run of 68 fights will take
   her to Commonwealth Games gold on her debut.
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-26T11:29:02Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: Tired of eye strain? These tips will help optimize your smartphone for
   marathon reading sessions.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-07-26T11:00:00Z'

@@ -5,7 +5,7 @@ countryCode: KR
 description: “Train to Busan” proved that humans can’t outrun the infected. “Colony”
   proves they can’t outsmart them. Director Yeon Sang-ho returns to the zombie genre
   with his third…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-26T15:00:00Z'

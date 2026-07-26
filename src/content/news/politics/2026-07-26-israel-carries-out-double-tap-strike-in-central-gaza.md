@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israel carries out double tap strike in central Gaza
-displayOrder: 19
+displayOrder: 34
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-26T14:47:02Z'

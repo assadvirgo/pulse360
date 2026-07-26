@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Defending champion Norris wins his first race of the year as Verstappen
   finishes second, and leader Antonelli third.
-displayOrder: 3
+displayOrder: 17
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-26T15:04:12Z'

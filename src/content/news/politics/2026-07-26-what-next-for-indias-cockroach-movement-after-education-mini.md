@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The weeks-long Gen Z-led protests forced a key Modi minister to resign.
   Where does the movement go from here?
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-26T13:15:01Z'

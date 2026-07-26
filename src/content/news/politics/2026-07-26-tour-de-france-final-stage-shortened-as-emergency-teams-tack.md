@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Sunday’s traditional stage in Paris has been shortened to reduce pressure
   on emergency services tackling wildfires.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-26T07:55:22Z'
