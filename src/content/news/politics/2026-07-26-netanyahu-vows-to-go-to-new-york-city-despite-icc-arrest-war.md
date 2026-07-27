@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli prime minister slams New York Mayor Zohran Mamdani, accusing
   him of &#039;fomenting hate&#039; with criticism of Israel.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-26T19:13:02Z'

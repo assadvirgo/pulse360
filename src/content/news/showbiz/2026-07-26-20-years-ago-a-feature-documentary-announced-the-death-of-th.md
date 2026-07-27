@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Long before the Tesla revolution, Sony Pictures Classics' ‘Who Killed
   the Electric Car?’ investigated why GM discontinued the beloved EV1.
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-26T18:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Courtney Shah, the seven time Jeopardy! winner who went on to compete
   in the show&#8217;s Tournament of Champions, died at home on Tuesday after a battle
   with brain cancer. That,…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-26T20:13:45Z'

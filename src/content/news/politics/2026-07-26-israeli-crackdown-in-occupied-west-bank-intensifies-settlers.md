@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The surge in violence comes after four Palestinians and two soldiers
   were killed in a gunfight on Friday.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-26T12:52:29Z'

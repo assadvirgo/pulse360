@@ -4,7 +4,7 @@ country: Kazakhstan
 countryCode: KZ
 description: Kazakh oil exports halted after drone attacks disrupt supplies, posing
   risks to the economy and energy markets.
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-26T17:13:55Z'

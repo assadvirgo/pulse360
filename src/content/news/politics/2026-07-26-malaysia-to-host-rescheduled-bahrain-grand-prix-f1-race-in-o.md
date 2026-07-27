@@ -4,7 +4,7 @@ country: Malaysia
 countryCode: MY
 description: The race in Bahrain was rescheduled in April amid the US-Israel war on
   Iran and will now be held in Malaysia.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-26T11:28:24Z'

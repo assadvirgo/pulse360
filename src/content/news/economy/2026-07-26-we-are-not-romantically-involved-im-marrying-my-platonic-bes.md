@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “I own my home outright, have no children or other dependents.”
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-26T13:00:00Z'

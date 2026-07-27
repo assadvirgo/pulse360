@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran says it has stopped retaliatory operations in the Gulf, but warns
   the war could expand if US strikes continue.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-26T11:56:50Z'

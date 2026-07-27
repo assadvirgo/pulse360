@@ -3,7 +3,7 @@ category: Economy
 country: France
 countryCode: FR
 description: About 335,000 evacuated in worsening blazes
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-26T11:41:31Z'

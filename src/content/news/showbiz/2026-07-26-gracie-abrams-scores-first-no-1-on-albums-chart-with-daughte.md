@@ -5,7 +5,7 @@ countryCode: US
 description: Gracie Abrams has earned her first No 1 on the Billboard 200 with her
   third album &#8220;Daughter From Hell,&#8221; bowing atop the chart with 124,000
   equivalent album units. The…
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 47.8
 pubDate: '2026-07-26T19:27:49Z'

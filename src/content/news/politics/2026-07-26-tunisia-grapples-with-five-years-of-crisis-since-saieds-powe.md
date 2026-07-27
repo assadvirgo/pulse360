@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: Tunisians protest five years of President Kais Saied&#039;s rule amid
   economic crisis and political arrests.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-26T14:39:30Z'

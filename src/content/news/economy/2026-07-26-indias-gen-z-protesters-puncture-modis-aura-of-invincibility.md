@@ -3,7 +3,7 @@ category: Economy
 country: India
 countryCode: IN
 description: Long-serving premier the target of demonstrators’ anger
-displayOrder: 39
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-26T10:43:58Z'

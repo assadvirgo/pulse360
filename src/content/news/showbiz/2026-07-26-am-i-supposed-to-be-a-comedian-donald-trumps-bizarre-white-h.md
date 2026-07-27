@@ -5,7 +5,7 @@ countryCode: US
 description: Even by the standards to which we’ve all, by now, become accustomed,
   President Donald Trump’s performance at Friday night’s White House Correspondents’
   Dinner was bizarre. And the…
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-26T16:22:32Z'
