@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Police say Abdul Ballout was shot and killed after he rushed at officers
   with a knife in a western borough of Berlin.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-26T19:21:26Z'

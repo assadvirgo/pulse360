@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Al-Sharaa praises Trump&#039;s decision to remove Syria from terrorism
   list.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-26T18:08:48Z'

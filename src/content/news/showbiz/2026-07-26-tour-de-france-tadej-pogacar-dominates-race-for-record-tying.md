@@ -5,7 +5,7 @@ countryCode: FR
 description: 'Tadej Pogacar is in rare company after winning a record-tying fifth
   Tour de France. Only four others are credited with the achievement: Belgian Eddy
   Merckx, Spaniard Miguel…'
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 41.0
 pubDate: '2026-07-26T22:27:44Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Mamdani walked back his threat last week, acknowledging he lacked the
   legal power to arrest Netanyahu on a warrant issued by the International Criminal
   Court.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-27T00:27:58Z'

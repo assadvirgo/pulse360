@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Somerset captain strikes 103 before 19-year old seamer keeps Warwickshire
   at bay
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-26T21:34:57Z'

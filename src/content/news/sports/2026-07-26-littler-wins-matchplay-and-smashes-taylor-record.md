@@ -5,7 +5,7 @@ countryCode: GB
 description: Luke Littler sets a new record for the tournament average and final average
   in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price
   18-9.
-displayOrder: 22
+displayOrder: 36
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-26T21:03:39Z'

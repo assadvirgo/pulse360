@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Jos Buttler produces a masterful 90 from 50 balls as Manchester Super
   Giants defeat Birmingham Phoenix to maintain their perfect start to The Hundred.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-26T16:58:21Z'

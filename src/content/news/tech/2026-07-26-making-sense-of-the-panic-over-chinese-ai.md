@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On the latest episode of Equity, we discussed why Moonshot AI's Kimi
   seemed to panic Silicon Valley and Wall Street.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-07-26T19:40:57Z'

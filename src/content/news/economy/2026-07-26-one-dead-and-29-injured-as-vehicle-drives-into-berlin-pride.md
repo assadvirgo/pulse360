@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Police seek suspect as city’s mayor condemns ‘attack on our free and
   open society’
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-26T14:35:12Z'

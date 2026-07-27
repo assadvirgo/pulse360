@@ -4,7 +4,7 @@ country: Honduras
 countryCode: HN
 description: Trump called Hernandez&#039;s drug-trafficking trial a set-up by the
   Biden administration.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-26T20:35:38Z'

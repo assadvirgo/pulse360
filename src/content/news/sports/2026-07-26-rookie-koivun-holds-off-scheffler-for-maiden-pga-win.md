@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: American rookie Jackson Koivun holds his nerve to beat Scottie Scheffler
   by three strokes and claim his first PGA Tour win at the 3M Open.
-displayOrder: 7
+displayOrder: 16
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-26T23:13:07Z'

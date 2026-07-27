@@ -3,7 +3,7 @@ category: Tech
 description: There's something about a movie like The Room, Troll 2, or Fateful Findings
   that I find irresistible. These sorts of "so bad they're good" films are marvelous
   curiosities where…
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-26T21:24:07Z'

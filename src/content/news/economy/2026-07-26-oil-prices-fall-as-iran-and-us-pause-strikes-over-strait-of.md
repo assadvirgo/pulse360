@@ -2,7 +2,7 @@
 category: Economy
 description: Brent opens lower after two weeks of escalating violence pushed crude
   to more than $100 a barrel
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-26T23:37:11Z'

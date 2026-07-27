@@ -5,7 +5,7 @@ countryCode: US
 description: According to Mark Gurman, Apple is planning to reveal its first smart
   glasses at WWDC next June, with an expectation that they'll launch by the end of
   2027. Part of the hold-up…
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-26T19:36:38Z'

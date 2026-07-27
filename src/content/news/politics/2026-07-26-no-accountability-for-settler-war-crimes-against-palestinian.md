@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: ‘No accountability for settler war crimes against Palestinians’
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 70.5
 pubDate: '2026-07-26T11:31:17Z'

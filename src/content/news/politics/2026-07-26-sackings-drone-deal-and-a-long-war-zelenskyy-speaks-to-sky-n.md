@@ -5,7 +5,7 @@ countryCode: UA
 description: In the ornate baroque surroundings of the Mariinskii Palace in central
   Kyiv, Volodymyr Zelenskyy handed out honours to military medics and civilian health
   workers to mark their…
-displayOrder: 11
+displayOrder: 29
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-26T19:41:00Z'

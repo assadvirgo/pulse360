@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: Extreme heat is fuelling wildfires across North Africa, with major fires
   burning in Tunisia, Algeria and Morocco.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-26T16:39:06Z'

@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security
   deal with Israel, and warns of chaos in Lebanon.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-26T12:34:13Z'
