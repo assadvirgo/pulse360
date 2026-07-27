@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Blazes are about 15km from Bordeaux, but the city's mayor says there
   are no plans to evacuate.
-displayOrder: 19
+displayOrder: 28
 heroImage: ''
 importance: 45.2
 pubDate: '2026-07-27T02:04:10Z'

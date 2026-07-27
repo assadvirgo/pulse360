@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT:&#160;This article contains spoilers for Season 3, Episode
   3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin
   Evan Ainsworth) is…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-27T02:00:00Z'

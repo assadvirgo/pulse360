@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Syrian President Ahmed al-Sharaa said Damascus is working towards a security
   agreement with Israel.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-26T19:27:57Z'

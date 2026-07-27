@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: The UN&#039;s Guterres condemned violations of Syria&#039;s sovereignty
   as he visited and called for sanctions to be lifted.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-26T17:40:15Z'

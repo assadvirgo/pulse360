@@ -2,7 +2,7 @@
 category: Economy
 description: Tokenised securities are mirror images of the real thing but pose new
   risks
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-27T04:00:14Z'

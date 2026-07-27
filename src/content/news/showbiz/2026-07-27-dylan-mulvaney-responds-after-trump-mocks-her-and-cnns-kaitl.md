@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: '"To the president, thank you for reminding me that I am more powerful
   than I even knew," she said in a video posted to social media.'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-27T03:59:54Z'

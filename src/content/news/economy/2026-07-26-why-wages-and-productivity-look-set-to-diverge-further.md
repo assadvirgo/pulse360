@@ -2,7 +2,7 @@
 category: Economy
 description: AI and a falling labour share of GDP risk accelerating decoupling trends
   across the rich world
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-26T11:00:07Z'

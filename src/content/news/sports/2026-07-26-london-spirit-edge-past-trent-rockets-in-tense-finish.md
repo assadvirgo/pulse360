@@ -5,7 +5,7 @@ countryCode: GB
 description: Nadine de Klerk hits an unbeaten 41 to guide London Spirit to a thrilling
   five-wicket victory over Trent Rockets with three balls to spare. The win at Trent
   Bridge secures…
-displayOrder: 42
+displayOrder: 48
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-26T17:17:51Z'

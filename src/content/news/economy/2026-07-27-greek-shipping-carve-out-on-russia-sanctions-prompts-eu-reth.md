@@ -3,7 +3,7 @@ category: Economy
 country: Greece
 countryCode: GR
 description: European officials seek ways to curb veto tactics in negotiations
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-27T04:00:14Z'
