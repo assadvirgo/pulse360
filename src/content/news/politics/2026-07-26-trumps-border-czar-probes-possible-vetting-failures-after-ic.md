@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ICE officer under review for alleged mental health struggles, violent
   behavior amid deadly shooting case in Maine.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-26T21:59:53Z'

@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Some publishers think AI could not only help authors but replace them
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-27T04:00:06Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Distorted by partisan passion and rising inequality, they are a reflection
   of popular frustrations — not overall growth
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-27T04:00:06Z'

@@ -5,7 +5,7 @@ countryCode: IN
 description: Prime Video will globally premiere Season 2 of &#8220;The Traitors,&#8221;
   its Indian adaptation of the hit international reality format in August, with new
   episodes streaming…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-27T06:27:00Z'

@@ -5,7 +5,7 @@ countryCode: CN
 description: Pearl Studio’s animated fantasy feature &#8220;All Wishes Come True!&#8221;
   took over the top position at the mainland China box office during the July 24–26
   weekend, generating…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-27T06:26:38Z'

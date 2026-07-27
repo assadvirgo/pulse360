@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Assailant in terror incident had been identified as Abdul Ballout, a
   German citizen with a Lebanese background
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-26T18:39:24Z'

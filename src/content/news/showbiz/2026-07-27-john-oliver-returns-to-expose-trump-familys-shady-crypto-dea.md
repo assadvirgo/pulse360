@@ -5,7 +5,7 @@ countryCode: US
 description: On Sunday night, John Oliver returned to the desk of “Last Week Tonight”
   from his summer hiatus, and there was, naturally, plenty to discuss. The HBO host,
   whose contract is up at…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-07-27T04:09:36Z'

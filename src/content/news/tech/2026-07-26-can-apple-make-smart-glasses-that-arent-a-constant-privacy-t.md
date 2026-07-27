@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As Apple prepares to launch its first smart glasses, the company may
   also be wrestling with how to address consumer privacy concerns.
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 46.0
 pubDate: '2026-07-26T21:06:44Z'

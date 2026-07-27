@@ -5,7 +5,7 @@ countryCode: KR
 description: Science-fiction thriller &#8220;Hope&#8221; maintained its powerful grip
   on the top spot at the South Korean box office during the weekend of Jul. 24–26.
   According to data from…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-27T07:19:57Z'

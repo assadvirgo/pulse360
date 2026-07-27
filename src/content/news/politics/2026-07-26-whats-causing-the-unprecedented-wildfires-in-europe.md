@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France and Spain have deployed thousands of firefighters, and neighbouring
   countries have sent help.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-26T21:17:57Z'

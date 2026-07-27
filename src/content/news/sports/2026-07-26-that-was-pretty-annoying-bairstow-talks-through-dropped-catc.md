@@ -5,7 +5,7 @@ countryCode: GB
 description: A mic'd up Jonny Bairstow reacts to spilling a catch from a Sam Billings
   scoop shot attempt, and talks through where he went wrong with the BBC Sport commentary
   box in the Men's…
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-26T20:31:47Z'

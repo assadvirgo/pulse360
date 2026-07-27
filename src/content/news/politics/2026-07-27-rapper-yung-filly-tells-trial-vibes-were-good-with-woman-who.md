@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The rapper takes the witness stand at his trial in Australia where he
   denies raping a fan in a hotel room.
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-27T07:37:11Z'

@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Cases have surged by 1,000 in just 10 days as outbreak continues to spread
   across five provinces.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-27T01:59:02Z'

@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Sudan&#039;s army says it has regained full control of Al Sadarat highway
   linking Khartoum to El Obeid
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-27T04:00:09Z'

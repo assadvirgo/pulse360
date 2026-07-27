@@ -2,7 +2,7 @@
 category: Economy
 description: Just five Asia-based funds closed in first half as investors favour large
   US managers
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-27T01:23:40Z'

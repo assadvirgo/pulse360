@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Billions of dollars are flowing into a handful of companies now leading
   the AI transformation of militaries.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-27T08:09:54Z'

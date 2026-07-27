@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: A separatist–al-Qaeda alliance has shifted the balance of power in northern
   Mali and complicated efforts to end the war.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-27T02:49:45Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Debate over British role shows strained relations during UK-EU ‘reset’
   negotiations
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-27T04:00:14Z'
