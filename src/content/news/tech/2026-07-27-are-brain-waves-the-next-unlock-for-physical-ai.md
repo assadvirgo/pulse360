@@ -2,7 +2,7 @@
 category: Tech
 description: Forget YouTube videos—frontier physical AI models need multiple camera
   angles, dense annotation, and soon, brain wave readings.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-27T00:19:14Z'

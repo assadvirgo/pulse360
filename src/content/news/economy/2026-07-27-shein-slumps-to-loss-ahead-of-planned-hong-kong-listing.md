@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: US and EU trade tensions hit fast-fashion retailer’s profits
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-27T05:26:10Z'

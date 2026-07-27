@@ -5,7 +5,7 @@ countryCode: US
 description: “Ransom Canyon” star Josh Duhamel has officially closed on the sale of
   his Los Angeles home, selling the picturesque property for more than his asking
   price.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-27T09:02:00Z'

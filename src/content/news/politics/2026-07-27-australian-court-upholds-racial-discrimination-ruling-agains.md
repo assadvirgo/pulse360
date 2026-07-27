@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: One Nation leader loses bid to overturn ruling that she racially discriminated
   against Senator Mehreen Faruqi.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-27T06:14:06Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The family of the anatomist vowed to carry out his wish for his body
   to be preserved using the plastination technique he developed himself.
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 72.2
 pubDate: '2026-07-27T12:28:07Z'

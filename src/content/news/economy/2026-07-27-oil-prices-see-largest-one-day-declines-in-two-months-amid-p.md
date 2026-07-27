@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: West Texas Intermediate and Brent crude’s front-month contracts fell
   on Monday after the U.S. paused launching attacks at Iran.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-27T10:06:00Z'

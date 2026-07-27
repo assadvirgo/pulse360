@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Climate activist Greta Thunberg joined a London rally in support of India’s
   Cockroach Janta Party-led student movement.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-27T08:43:47Z'

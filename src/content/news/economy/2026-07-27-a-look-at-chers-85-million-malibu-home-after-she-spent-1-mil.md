@@ -5,7 +5,7 @@ countryCode: US
 description: Singing sensation Cher will be forced to pay the $1 million in legal
   fees that she incurred during a bitter legal battle against the widow of her ex-husband
   Sonny Bono.
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-27T09:03:00Z'

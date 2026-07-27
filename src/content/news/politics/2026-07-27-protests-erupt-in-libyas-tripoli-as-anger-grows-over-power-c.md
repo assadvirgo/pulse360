@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: Protesters shut roads and the foreign ministry in Tripoli as a civil
   disobedience campaign over power cuts spreads.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-27T04:49:22Z'

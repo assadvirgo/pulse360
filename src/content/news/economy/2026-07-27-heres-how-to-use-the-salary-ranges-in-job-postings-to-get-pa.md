@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Virginia and Maine are the latest states pushing for salary transparency.
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-27T12:01:00Z'

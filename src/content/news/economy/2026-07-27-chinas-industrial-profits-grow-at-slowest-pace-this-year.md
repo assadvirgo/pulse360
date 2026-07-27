@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: Official data highlights uneven earnings rebound among manufacturers
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-27T04:28:38Z'

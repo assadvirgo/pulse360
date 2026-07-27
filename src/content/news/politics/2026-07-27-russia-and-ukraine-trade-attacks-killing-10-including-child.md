@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv says Russian strikes killed six, including a child at a supermarket,
   as Moscow says Ukrainian strikes killed four.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.5
 pubDate: '2026-07-27T03:34:06Z'

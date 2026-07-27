@@ -2,7 +2,7 @@
 category: Politics
 description: Musk has backed a film called Citizen Vigilante featuring an American
   vigilante tearing across an unnamed European country.
-displayOrder: 18
+displayOrder: 32
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-27T09:52:21Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Certain types of severe wildfire can create pyrocumulonimbus - something
   that Nasa calls the "fire-breathing dragon of clouds".
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-27T11:11:07Z'

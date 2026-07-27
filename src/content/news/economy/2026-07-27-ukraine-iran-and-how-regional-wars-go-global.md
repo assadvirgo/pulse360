@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Conflicts in Europe and Asia are overlapping and two rival blocs may
   be forming
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-27T11:14:33Z'

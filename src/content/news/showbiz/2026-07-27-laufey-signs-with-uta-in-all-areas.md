@@ -5,7 +5,7 @@ countryCode: US
 description: Fast-rising Grammy-winning singer-songwriter Laufey has signed with United
   Talent Agency for global representation in all areas, the company announced early
   Monday. UTA will work…
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-27T12:59:00Z'

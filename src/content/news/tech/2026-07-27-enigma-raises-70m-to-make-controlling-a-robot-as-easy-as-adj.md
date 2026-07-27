@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The massive seed round was led by Index Ventures and Ribbit Capital,
   with participation from Sarah Guo's Conviction Partners.
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-27T13:00:00Z'

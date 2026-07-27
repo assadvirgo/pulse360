@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A vendor livestreaming from the Bite of Seattle festival captured the
   moment shots rang out near the Space Needle.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-27T04:07:57Z'
