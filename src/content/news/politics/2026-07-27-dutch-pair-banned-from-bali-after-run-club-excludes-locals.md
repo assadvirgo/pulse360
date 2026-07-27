@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Two Dutch men have been banned from re-entering Indonesia over alleged
   violations and discrimination.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-27T12:56:14Z'

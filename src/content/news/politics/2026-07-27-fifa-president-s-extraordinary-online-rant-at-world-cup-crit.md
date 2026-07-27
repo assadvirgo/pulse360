@@ -3,7 +3,7 @@ category: Politics
 description: FIFA president Gianni Infantino has said critics of the World Cup were
   "consumed by hate", accusing them of spreading "false rumours" and obsessing over
   "strange disciplinary…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 62.0
 pubDate: '2026-07-27T09:45:00Z'

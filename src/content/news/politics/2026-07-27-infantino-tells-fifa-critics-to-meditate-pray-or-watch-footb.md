@@ -3,7 +3,7 @@ category: Politics
 description: Fifa president Gianni Infantino tells critics to "meditate, pray or watch
   a football match" instead of "spreading hate and false rumours" about him and the
   World Cup.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-27T08:07:28Z'

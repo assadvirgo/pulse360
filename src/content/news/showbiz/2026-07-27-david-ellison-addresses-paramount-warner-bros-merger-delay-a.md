@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount CEO David Ellison, in a companywide memo, sought to project
   confidence that his $111 billion takeover of Warner Bros. Discovery will &#8212;
   eventually &#8212; cross the…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-27T15:07:36Z'

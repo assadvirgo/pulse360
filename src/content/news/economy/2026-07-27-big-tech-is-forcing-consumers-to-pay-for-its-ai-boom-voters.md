@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: State regulators are making Big Tech pay for its own grid build-out —
   leaving traditional utility stocks exposed to a political reckoning.
-displayOrder: 33
+displayOrder: 42
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-27T16:18:00Z'

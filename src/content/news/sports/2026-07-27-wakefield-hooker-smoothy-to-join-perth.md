@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Wakefield Trinity boss Daryl Powell said the club would like to keep
   Smoothy but he's been released on compassionate grounds.
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-27T09:07:28Z'

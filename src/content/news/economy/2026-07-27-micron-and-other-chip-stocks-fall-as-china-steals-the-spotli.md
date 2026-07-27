@@ -5,7 +5,7 @@ countryCode: CN
 description: CXMT had a strong public debut in Shanghai, and now investors are weighing
   the prospect of a manufacturing breakthrough that could make China’s chip industry
   more competitive.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-27T16:17:00Z'

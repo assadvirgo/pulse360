@@ -2,7 +2,7 @@
 category: Politics
 description: The university is looking to continue educating Palestinians amid Israel&#039;s
   genocidal war on Gaza.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-27T12:26:05Z'

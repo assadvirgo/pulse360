@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Luxury giant’s crucial fashion and leather goods division back in growth
   for first time in almost two years
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-27T15:50:11Z'

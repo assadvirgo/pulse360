@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Blazes ‘far from being under control’ as another heatwave approaches,
   says France’s civil security agency
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-27T11:08:15Z'

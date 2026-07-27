@@ -5,7 +5,7 @@ countryCode: US
 description: San Diego Comic-Con took place over the weekend, and as per usual it
   was full of tidbits of news across film, TV, and gaming. Marvel revealed the next
   Ghost Rider (Ryan Gosling)…
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-27T14:38:43Z'

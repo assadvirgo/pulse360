@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces raided a United Nations Relief and Works Agency for Palestine
   Refugees training centre.
-displayOrder: 5
+displayOrder: 7
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-27T15:39:58Z'
