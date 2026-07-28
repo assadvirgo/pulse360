@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: ‘F*** you Bibi.’ ‘War criminal!’
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-28T08:06:35Z'

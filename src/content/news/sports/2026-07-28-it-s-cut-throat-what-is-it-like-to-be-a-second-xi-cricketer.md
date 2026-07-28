@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sheridon Gumbs, who has just signed a deal with Leicestershire after
   18 months on trial, reveals what life can be like as a second XI cricketer.
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-28T08:33:42Z'

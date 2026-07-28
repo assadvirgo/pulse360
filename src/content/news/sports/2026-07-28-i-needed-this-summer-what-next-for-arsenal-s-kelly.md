@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Chloe Kelly found 2025-26 hard, but is optimistic about hers and Arsenal's
   prospects this season.
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-28T08:01:34Z'

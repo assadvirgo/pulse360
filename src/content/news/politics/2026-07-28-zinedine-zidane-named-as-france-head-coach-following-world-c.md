@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Ex-superstar player succeeds Didier Deschamps as France manager after
   the national team’s bitter semifinal exit.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-28T09:39:06Z'

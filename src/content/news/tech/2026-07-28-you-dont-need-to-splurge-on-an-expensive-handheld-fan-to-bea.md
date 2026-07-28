@@ -3,7 +3,7 @@ category: Tech
 description: Despite what influencers may say, you don’t need to spend $99.99 on Dyson’s
   HushJet Mini Cool or $149.99 for the Shark ChillPill to survive the summer whenever
   you leave the…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-28T13:00:00Z'

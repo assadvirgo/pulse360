@@ -4,7 +4,7 @@ country: Sri Lanka
 countryCode: LK
 description: Vimukthi struck thrice in the second over of the game, before Athapaththu
   and Dilhari also got three wickets each
-displayOrder: 28
+displayOrder: 39
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-28T12:33:21Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Global semiconductor rout continues ahead of crucial Big Tech earnings
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-28T15:56:09Z'

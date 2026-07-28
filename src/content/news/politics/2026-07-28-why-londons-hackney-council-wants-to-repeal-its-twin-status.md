@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Green Party, which took over control of the council from the Labour Party,
   is opposed to Israel&#039;s genocidal war on Gaza.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-28T11:14:27Z'

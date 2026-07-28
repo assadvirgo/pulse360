@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Meta Golding (The Pitt, Ransom Canyon) has been cast as a
   series regular opposite Patrick Dempsey in Season 2 of Fox&#8217;s Memory of a Killer.
   Inspired by the book…'
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-28T16:23:16Z'

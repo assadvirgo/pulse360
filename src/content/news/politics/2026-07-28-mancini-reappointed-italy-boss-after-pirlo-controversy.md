@@ -5,7 +5,7 @@ countryCode: IT
 description: Roberto Mancini is appointed Italy manager for a second time - just a
   day after Andrea Pirlo rules himself out of the running for the job and technical
   director Paolo Maldini…
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-28T13:54:00Z'

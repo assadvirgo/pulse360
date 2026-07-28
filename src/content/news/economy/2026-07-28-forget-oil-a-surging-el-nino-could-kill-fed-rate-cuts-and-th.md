@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Climate disruption could prolong inflation. Look to refiners, tanker
   operators and agricultural stocks.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-28T12:15:00Z'

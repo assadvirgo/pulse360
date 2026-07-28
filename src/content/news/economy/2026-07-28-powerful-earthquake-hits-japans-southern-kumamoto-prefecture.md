@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Reports of multiple deaths from blast at shopping centre and widespread
   damage to buildings and infrastructure
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-28T10:53:00Z'

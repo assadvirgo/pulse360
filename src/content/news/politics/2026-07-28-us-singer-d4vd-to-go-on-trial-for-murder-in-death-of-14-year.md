@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The star is accused of killing Celeste Rivas Hernandez, whose remains
   were found in a Tesla registered to his address.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-28T12:31:45Z'

@@ -3,7 +3,7 @@ category: Tech
 description: The first modern GPU with 4GB of VRAM has appeared, as RAM prices and
   component shortages push tech prices higher. As Digital Foundry reports, a listing
   for an AMD Radeon RX 9050…
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-28T15:52:04Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Recent fighting has provided conditions for Tehran’s forces to launch
   more precision strikes across Gulf and Jordan
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-28T04:00:15Z'

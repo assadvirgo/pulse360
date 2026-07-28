@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India failed to qualify for next year&#039;s Asian Cup, making a FIFA
   World Cup 2030 or 2034 appearance unlikely.
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-28T14:45:14Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: PayPal is showing progress on some metrics as a standalone company, but
   Wall Street is preoccupied with its deal prospects following recent news.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-28T11:41:00Z'
