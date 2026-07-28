@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The deal means content will be integrated into the YouTube experience,
   allowing viewers to discover and watch Peacock content without leaving the platform.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-27T20:40:00Z'

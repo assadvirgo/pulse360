@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: A new study found cognitive improvements for shorter durations of eating
-displayOrder: 39
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-27T21:37:00Z'

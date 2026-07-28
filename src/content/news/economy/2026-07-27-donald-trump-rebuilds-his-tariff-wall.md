@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The US president is moving his signature trade policy into a new phase
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-27T16:57:19Z'

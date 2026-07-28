@@ -4,7 +4,7 @@ country: Chile
 countryCode: CL
 description: Nelson Haase was one of those convicted over the kidnap and murder of
   folk singer Victor Jara after Chile's military coup in 1973.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-27T15:49:45Z'

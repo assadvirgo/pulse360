@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A lower court blocked the mail-in ballot restrictions, ruling Trump lacked
   authority to change state election rules.
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-27T21:24:31Z'

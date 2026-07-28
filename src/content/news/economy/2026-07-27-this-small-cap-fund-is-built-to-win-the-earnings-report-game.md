@@ -5,7 +5,7 @@ countryCode: US
 description: Brandon Nelson of Calamos Investments considers the earnings-season beat-and-raise
   pattern in identifying companies primed for sustainable growth and improving profit
   margins.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-27T16:48:00Z'

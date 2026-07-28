@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Amazon MGM Studios has an animated Mad Hatter movie in the
   works from Clerks producer and actor Scott Mosier, who is set to adapt. Plot details
   are under wraps. The Mad…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-27T19:36:57Z'

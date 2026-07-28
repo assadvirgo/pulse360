@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The Ukrainian president became the new prime minister's first international
   visitor since taking office.
-displayOrder: 10
+displayOrder: 31
 heroImage: ''
 importance: 72.2
 pubDate: '2026-07-27T15:58:27Z'

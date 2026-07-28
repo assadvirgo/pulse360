@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple’s stock is on track to see its best monthly performance in more
   than two decades relative to the Nasdaq-100.
-displayOrder: 34
+displayOrder: 40
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-27T20:12:00Z'

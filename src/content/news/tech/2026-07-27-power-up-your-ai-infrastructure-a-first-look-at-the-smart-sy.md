@@ -3,7 +3,7 @@ category: Tech
 description: At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy,
   infrastructure, and technology collide, covering everything from fusion breakthroughs
   to the grid strain…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 68.0
 pubDate: '2026-07-27T15:30:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Two months after Byron Allen closed his purchase of BuzzFeed, the online
   publisher said it plans to cut a hefty 35% of staff and dedicated contractors across
   its brands. “The…
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-27T21:26:51Z'

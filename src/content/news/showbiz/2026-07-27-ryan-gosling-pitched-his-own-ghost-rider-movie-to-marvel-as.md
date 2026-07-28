@@ -5,7 +5,7 @@ countryCode: US
 description: 'Marvel&#8217;s buzzy Comic-Con presentation put two huge comic book
   movie tentpoles on the studio&#8217;s 2028 release calendar: &#8220;Black Panther
   3,&#8221; featuring the debut…'
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-27T20:45:34Z'

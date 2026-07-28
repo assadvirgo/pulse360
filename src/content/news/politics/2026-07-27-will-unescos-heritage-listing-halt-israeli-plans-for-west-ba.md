@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Sebastia, a 3,000-year-old site, faces threats as Israel intensifies
   plans for land seizures and settlement expansions.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-27T17:36:12Z'

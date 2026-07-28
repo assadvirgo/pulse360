@@ -5,7 +5,7 @@ countryCode: FR
 description: Canal+ has reached a five-year deal with French cinema organizations
   which will see the pay-TV powerhouse invest nearly €1 billion ($1.1 billion) in
   French and European films…
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-27T20:45:45Z'

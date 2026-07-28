@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Iran has reacted with fury to the assault on the vessel, with Tehran's
   foreign minister saying it "cannot go unanswered".
-displayOrder: 5
+displayOrder: 20
 heroImage: ''
 importance: 76.2
 pubDate: '2026-07-27T16:33:05Z'

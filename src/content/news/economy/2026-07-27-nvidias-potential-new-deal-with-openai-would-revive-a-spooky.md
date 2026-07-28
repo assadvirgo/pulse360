@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors are fretting over a report that Nvidia could backstop an OpenAI
   data-center lease, in what would be the largest such arrangement yet.
-displayOrder: 26
+displayOrder: 34
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-27T21:46:00Z'

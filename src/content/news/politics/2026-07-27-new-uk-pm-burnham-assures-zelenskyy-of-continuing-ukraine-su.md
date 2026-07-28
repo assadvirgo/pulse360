@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Burnham is the fifth British prime minister to deal with President Zelenskyy
   since the war on Ukraine started in 2022.
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 77.5
 pubDate: '2026-07-27T17:41:46Z'

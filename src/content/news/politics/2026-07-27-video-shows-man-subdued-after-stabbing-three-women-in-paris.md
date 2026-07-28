@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Three women were wounded, two of them seriously, in a knife attack near
   Porte de Clichy in Paris.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-27T21:27:08Z'
