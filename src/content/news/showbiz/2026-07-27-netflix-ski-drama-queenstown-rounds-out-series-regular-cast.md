@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Netflix&#8217;s Queenstown is rounding out its series regular
   cast with Anna Baryshnikov (Cape Fear, Idiotka), Jamie Ward (The Gentlemen, His
   Dark Materials), BeBe…'
-displayOrder: 2
+displayOrder: 1
 heroImage: ''
 importance: 70.0
 pubDate: '2026-07-27T20:00:00Z'

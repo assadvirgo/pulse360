@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Vasant Dhar built one of the first AI-driven hedge funds. Here’s what
   he wants investors to know about the technology.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-27T11:50:00Z'

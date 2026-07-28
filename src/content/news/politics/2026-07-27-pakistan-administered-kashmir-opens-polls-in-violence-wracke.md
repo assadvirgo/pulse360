@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: First of three rounds of voting held after weeks of protests during which
   dozens of people were killed.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-27T18:53:10Z'

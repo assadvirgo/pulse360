@@ -5,7 +5,7 @@ countryCode: US
 description: Apple is facing a lawsuit from three users who say they collectively
   lost more than $1.8 million after downloading a fraudulent crypto wallet from the
   App Store, challenging the…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-27T18:28:15Z'

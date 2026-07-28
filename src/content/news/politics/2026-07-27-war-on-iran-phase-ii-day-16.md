@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US-Iran war has slowed, with both sides giving diplomacy a chance
   through regional mediators.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-27T17:57:43Z'

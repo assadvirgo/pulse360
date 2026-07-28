@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lyle Robertson receives a first senior Scotland call-up for August's
   ICC Men's Cricket World Cup League 2 series against Canada and the United Arab Emirates.
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-27T12:39:55Z'

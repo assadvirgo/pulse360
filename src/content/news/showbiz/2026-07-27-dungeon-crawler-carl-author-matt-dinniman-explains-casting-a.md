@@ -5,7 +5,7 @@ countryCode: US
 description: Marvel and DC should watch out because &#8220;Dungeon Crawler Carl&#8221;
   may be the next huge fandom. Author Matt Dinniman&#8217;s &#8220;Dungeon Crawler
   Carl&#8221; series began…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-27T17:15:00Z'

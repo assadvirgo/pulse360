@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Javier Milei spoke at a campaign rally for right-wing presidential candidate
   Flávio Bolsonaro, who is running against Lula.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-07-27T10:19:34Z'

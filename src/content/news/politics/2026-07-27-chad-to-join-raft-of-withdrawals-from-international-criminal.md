@@ -4,7 +4,7 @@ country: Chad
 countryCode: TD
 description: Chad becomes the fifth country to withdraw from the ICC recently, amid
   rising US pressure and accusations of bias.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-27T17:20:26Z'

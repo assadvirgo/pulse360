@@ -5,7 +5,7 @@ countryCode: US
 description: Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana,
   a company that develops software tools to manage big, messy supply chain networks
   around the world. We last…
-displayOrder: 4
+displayOrder: 6
 heroImage: ''
 importance: 80.2
 pubDate: '2026-07-27T15:00:00Z'

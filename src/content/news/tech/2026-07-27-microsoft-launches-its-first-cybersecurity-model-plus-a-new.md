@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microsoft bolstered its AI cybersecurity offerings this week with the
   launch of its first AI security model and a new security platform.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-27T18:32:11Z'

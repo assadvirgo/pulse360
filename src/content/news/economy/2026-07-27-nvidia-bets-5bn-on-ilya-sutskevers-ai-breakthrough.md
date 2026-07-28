@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Safe Superintelligence will use Vera Rubin chips to rapidly expand computing
   capacity for its secretive research
-displayOrder: 36
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-27T17:20:13Z'

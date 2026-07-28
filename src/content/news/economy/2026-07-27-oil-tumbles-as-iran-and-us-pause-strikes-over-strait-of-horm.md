@@ -2,7 +2,7 @@
 category: Economy
 description: Brent nearly 7% lower after two weeks of escalating violence had pushed
   crude to more than $100 a barrel
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-27T14:20:38Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tech giant files to launch more than 5,000 satellites to provide global
   consumer service
-displayOrder: 34
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-27T15:57:14Z'

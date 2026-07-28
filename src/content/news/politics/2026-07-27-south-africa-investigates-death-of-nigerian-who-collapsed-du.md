@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Initial reports from a post-mortem said he had "abrasions on his back
   and chest", investigators say.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-27T14:26:50Z'
