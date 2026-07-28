@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Johnson &amp; Johnson agrees to pay $5.5bn to settle nearly 70,000 US
   lawsuits over talc-based baby powder cancer claims.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-28T01:07:09Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: Upgrade your gaming setup or PC build for less with these verified Corsair
   coupon codes, student discounts, and refurbished deals.
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-28T05:00:00Z'

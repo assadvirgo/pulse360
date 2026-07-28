@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Colombia’s far-right president-elect says he&#039;ll close or suspend
   embassies in these countries
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 66.5
 pubDate: '2026-07-28T08:19:12Z'

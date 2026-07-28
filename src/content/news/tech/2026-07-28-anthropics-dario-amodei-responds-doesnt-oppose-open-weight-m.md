@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anthropic founder and CEO Dario Amodei made his views clear about open-weight
   models and China's growing AI capabilities.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-28T00:13:33Z'

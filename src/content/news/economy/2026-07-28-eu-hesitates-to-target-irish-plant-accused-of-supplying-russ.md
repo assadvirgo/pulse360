@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Officials fear that measures restricting alumina exports to Russia would
   threaten bloc’s aluminium supply chain
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-28T04:00:23Z'

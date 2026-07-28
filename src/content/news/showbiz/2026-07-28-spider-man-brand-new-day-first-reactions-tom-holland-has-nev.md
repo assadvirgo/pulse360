@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Spider-Man: Brand New Day&#8221; has finally been unveiled to
   members of the film press, who are calling Tom Holland&#8217;s fourth standalone
   movie &#8220;a grounded…'
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-28T05:35:59Z'

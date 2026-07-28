@@ -5,7 +5,7 @@ countryCode: GB
 description: Lauren Bell restricts MI London to six runs in the final over to give
   Southern Brave a nervy one-run victory in the 2026 Women's Hundred at the Utilita
   Bowl in Southampton.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-27T18:02:28Z'

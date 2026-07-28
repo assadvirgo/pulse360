@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The proposed settlement aims to close a years-long legal battle over
   claims its talcs products cause cancer.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-28T01:53:58Z'

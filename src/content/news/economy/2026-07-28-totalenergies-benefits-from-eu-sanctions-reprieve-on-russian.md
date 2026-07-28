@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: French energy major can continue selling LNG from its Yamal project in
   Siberia to Asian customers
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-28T04:00:23Z'

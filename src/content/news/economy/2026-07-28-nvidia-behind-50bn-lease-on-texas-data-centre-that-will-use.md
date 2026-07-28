@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CEO Jensen Huang deploys balance sheet to backstop growth of AI computing
   market
-displayOrder: 40
+displayOrder: 47
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-28T04:00:15Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: The $2B acquisition of Africa&#8217;s MultiChoice has helped Canal+ post
   higher half-year revenues and earnings. Unaudited total group revenues saw revenues
   grow 40% to €4.29…
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 51.0
 pubDate: '2026-07-28T07:29:02Z'

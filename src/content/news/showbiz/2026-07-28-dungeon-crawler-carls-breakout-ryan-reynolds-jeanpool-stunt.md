@@ -5,7 +5,7 @@ countryCode: US
 description: 'A new fandom took over San Diego Comic-Con this year: “Dungeon Crawler
   Carl.” While there were plenty of Marvel and DC superheroes walking around the convention
   center and the…'
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-28T01:12:58Z'
