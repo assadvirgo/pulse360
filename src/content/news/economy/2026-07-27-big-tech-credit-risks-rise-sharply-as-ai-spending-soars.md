@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors are increasingly concerned over rush of borrowing to fund huge
   investments in data centres
-displayOrder: 38
+displayOrder: 42
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-27T20:55:03Z'

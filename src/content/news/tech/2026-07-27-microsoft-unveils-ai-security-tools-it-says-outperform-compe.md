@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microsoft says tools cost less than competing ones and outperform them,
   too.
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-27T21:56:14Z'

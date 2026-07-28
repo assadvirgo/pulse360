@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: This matters for Beijing’s sake and for the rest of the world economy
-displayOrder: 44
+displayOrder: 45
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-28T04:00:15Z'

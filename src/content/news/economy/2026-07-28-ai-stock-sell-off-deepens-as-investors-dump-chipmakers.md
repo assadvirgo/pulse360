@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: SK Hynix and Samsung shares slide and trading halt triggered on South
   Korea’s Kospi
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-28T02:21:14Z'

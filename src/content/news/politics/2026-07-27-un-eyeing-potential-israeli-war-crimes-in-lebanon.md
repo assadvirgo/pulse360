@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: High Commissioner Turk discusses displacement and trauma in Lebanon,
   asserting Israel is violating international law.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-27T19:32:53Z'

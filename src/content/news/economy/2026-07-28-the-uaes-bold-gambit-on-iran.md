@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: It has quietly rebuilt economic and diplomatic ties while also deepening
   defence links to Israel and the US
-displayOrder: 45
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-28T04:00:15Z'

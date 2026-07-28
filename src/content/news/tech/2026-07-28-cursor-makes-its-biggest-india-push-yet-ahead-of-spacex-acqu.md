@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Cursor says India is now its third-largest market globally and plans
   to expand local hiring and enterprise sales.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 47.0
 pubDate: '2026-07-28T04:30:00Z'

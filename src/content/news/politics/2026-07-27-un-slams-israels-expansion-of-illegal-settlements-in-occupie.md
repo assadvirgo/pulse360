@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: UN chief Guterres says settlements a &#039;flagrant violation&#039; of
   international law, amid escalating violence.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-27T21:17:15Z'

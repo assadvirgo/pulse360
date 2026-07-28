@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lauren Bell holds her nerve as Southern Brave win a last-ball thriller
   against MI London to maintain their 100% start to this year's edition of The Hundred.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-27T17:24:17Z'

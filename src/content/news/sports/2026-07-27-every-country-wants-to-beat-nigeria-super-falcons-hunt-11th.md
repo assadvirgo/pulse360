@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Nigeria face Malawi, Zambia and Egypt at the 2026 Women's Africa Cup
   of Nations, looking to defend their crown and claim an 11th title.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-27T16:47:12Z'

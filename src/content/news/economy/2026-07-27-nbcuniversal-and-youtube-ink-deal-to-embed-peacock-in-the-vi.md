@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Beginning in early 2027, YouTube Premium subscribers will receive the
   entirety of Peacock content, including sports and movies.
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-27T20:10:03Z'

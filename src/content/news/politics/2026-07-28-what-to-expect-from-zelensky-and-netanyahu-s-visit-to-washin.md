@@ -5,7 +5,7 @@ countryCode: US
 description: Republican Senator Lindsay Graham's funeral is bringing the two world
   leaders to town, where they'll separately visit the White House to discuss their
   region's wars.
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 71.2
 pubDate: '2026-07-28T00:30:11Z'

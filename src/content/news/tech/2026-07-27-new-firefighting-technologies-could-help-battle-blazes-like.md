@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Climate change is upping the odds of major wildfires, creating a need
   for new tools to combat them.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-27T21:06:54Z'
