@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Asian stocks sold off sharply on Tuesday amid reports that China is now
   capable of manufacturing DUV lithography machines.
-displayOrder: 16
+displayOrder: 32
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-28T11:40:00Z'

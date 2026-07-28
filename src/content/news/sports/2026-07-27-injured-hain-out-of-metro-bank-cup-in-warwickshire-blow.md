@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bears 50-over captain picked up knee injury in opening game; Notts bring
   in Munsey after injuries to Haynes and Slater
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-27T21:03:50Z'

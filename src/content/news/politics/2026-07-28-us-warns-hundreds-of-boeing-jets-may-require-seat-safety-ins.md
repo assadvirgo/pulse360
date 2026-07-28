@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US regulator warns of Boeing 737 MAX seat safety concerns, calls for
   inspection of 453 US-registered jets.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-28T02:54:18Z'

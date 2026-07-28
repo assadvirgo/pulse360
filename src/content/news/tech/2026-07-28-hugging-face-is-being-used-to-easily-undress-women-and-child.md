@@ -3,7 +3,7 @@ category: Tech
 description: Hugging Face is being used to make nonconsensual deepfakes, and the popular
   open-source AI model repository is doing very little to prevent it. That's according
   to a new report…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-28T09:07:14Z'

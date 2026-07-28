@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Just 21 Madeiran land snails were found clinging to a rock on Portugal's
   Bugio Island, say conservationists.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-28T08:50:20Z'

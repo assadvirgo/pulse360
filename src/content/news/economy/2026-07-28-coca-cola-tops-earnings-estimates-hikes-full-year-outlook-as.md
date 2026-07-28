@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Coca-Cola stock has risen 19% this year, outstripping the gains of the
   S&amp;P 500.
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-28T11:54:11Z'

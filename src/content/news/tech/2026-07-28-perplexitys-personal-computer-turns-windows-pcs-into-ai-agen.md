@@ -5,7 +5,7 @@ countryCode: US
 description: Perplexity has expanded its agentic Personal Computer tool to Windows,
   allowing computers running the world's most popular OS to be used as a locally run
   AI system. Like the Mac…
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-28T12:30:00Z'

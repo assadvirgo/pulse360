@@ -2,7 +2,7 @@
 category: Politics
 description: Deadly settler attack outside Nablus sets off days of raids, arson, closures
   and mass arrests.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-28T05:58:22Z'

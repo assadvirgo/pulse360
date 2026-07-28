@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: A major 6.8-magnitude earthquake has hit Japan injuring at least 50 people,
   trapping shoppers inside a shopping centre and leaving 40,000 homes without power.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-28T08:57:00Z'

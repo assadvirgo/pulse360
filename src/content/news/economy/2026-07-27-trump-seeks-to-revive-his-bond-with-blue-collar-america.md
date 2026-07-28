@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President aims to court voters in industrial heartland as his support
   flags ahead of November midterms
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-27T23:57:37Z'

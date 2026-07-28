@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Made up of mostly locals and some foreign visitors, a large group of
   volunteers step in to fix war damage.
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-28T07:34:38Z'

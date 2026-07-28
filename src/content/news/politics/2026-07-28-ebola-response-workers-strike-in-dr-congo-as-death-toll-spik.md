@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Healthcare workers at an Ebola treatment centre in Bunia, Democratic
   Republic of Congo, have gone on strike.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-28T02:33:05Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The row sparked after the US joined North Korea and Russia in voting
   against extending the term of the UN high commissioner for human rights.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-28T08:41:45Z'

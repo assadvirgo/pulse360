@@ -5,7 +5,7 @@ countryCode: US
 description: CNN&#8217;s Kaitlan Collins was &#8220;not surprised&#8221; that U.S.
   President Donald Trump insulted her during his speech at Friday night&#8217;s White
   House…
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-28T09:26:59Z'

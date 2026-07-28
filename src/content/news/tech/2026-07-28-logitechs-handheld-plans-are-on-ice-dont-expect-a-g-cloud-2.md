@@ -5,7 +5,7 @@ countryCode: US
 description: Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea
   of gaming handhelds. "It's such a charming value proposition," he says, as we sip
   iced vanilla lattes at my…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-28T12:31:51Z'

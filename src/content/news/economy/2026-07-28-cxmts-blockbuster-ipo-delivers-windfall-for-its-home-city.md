@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Funds run by local government in Hefei make gains of 5,000% from chipmaker’s
   blockbuster listing
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-28T05:35:45Z'
