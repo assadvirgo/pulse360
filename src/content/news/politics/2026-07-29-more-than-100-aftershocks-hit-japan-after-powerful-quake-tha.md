@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: People are being urged to stay alert, with earthquake aftershocks potentially
   reaching magnitude 7, officials say
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-29T11:47:05Z'

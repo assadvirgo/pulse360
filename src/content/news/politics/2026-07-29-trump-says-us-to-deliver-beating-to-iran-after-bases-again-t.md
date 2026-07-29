@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president promises major escalation a day after new Iran attacks and
   his White House meeting with Netanyahu.
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-29T15:43:05Z'

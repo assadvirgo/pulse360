@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: From "delulu" to "FOMO", Gen Z slang has made an unlikely journey from
   Instagram to parliament.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-29T09:02:48Z'

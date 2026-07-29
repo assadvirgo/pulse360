@@ -2,7 +2,7 @@
 category: Politics
 description: A women’s safe spaces initiative in Gaza offers psychological support
   and awareness sessions.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-29T09:51:52Z'

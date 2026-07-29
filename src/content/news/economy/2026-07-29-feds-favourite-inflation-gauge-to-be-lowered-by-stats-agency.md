@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Adjustments by Bureau of Economic Analysis to ease pressure on central
   bank to raise rates
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-29T10:00:06Z'

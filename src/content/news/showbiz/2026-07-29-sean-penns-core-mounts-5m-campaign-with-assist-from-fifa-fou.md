@@ -5,7 +5,7 @@ countryCode: VE
 description: 'The campaign comes after twin shocks devastated the country: "Earthquake
   response and recovery have been part of CORE''s DNA since our founding in response
   to the devastating 2010…'
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-29T16:00:00Z'

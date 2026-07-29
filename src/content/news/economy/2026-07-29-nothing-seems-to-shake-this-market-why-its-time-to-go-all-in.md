@@ -5,7 +5,7 @@ countryCode: US
 description: Strategists at the bank, led by Max Kettner, are betting on equities
   as they have remained resilient despite geopolitical volatility and pullbacks in
   the technology sector.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-29T11:17:00Z'

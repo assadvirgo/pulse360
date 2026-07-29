@@ -5,7 +5,7 @@ countryCode: US
 description: AI home management startup Hint, co-founded by Martha Stewart, wants
   to become an “AI for your home,” combining property records, maintenance schedules,
   home documents, and an AI…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 71.0
 pubDate: '2026-07-29T15:35:09Z'

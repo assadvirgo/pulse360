@@ -5,7 +5,7 @@ countryCode: US
 description: The Center at West Park, a New York City nonprofit community, arts and
   culture hub, will return to East Hampton to present a one-night-only staged reading
   of the &#8220;The Big…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-29T15:59:00Z'

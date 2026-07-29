@@ -5,7 +5,7 @@ countryCode: KR
 description: Is this the future of foldable phones? Samsung clearly thinks so. The
   company has given its new wide foldable the "Z Fold 8" name, positioning the phone
   not as a widescreen…
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 64.2
 pubDate: '2026-07-29T12:22:03Z'

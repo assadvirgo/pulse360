@@ -5,7 +5,7 @@ countryCode: US
 description: The Sundance Film Festival's leading man opens up on what to expect as
   the iconic showcase for independent film makes the move from Utah to Colorado for
   2027 and beyond.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-29T16:00:00Z'

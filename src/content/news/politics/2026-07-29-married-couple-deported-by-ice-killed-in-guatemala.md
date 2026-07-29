@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nixon Giovanni Paz, deported by ICE last year was bound and shot dead
   alongside his wife in Guatemala.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-29T10:55:38Z'

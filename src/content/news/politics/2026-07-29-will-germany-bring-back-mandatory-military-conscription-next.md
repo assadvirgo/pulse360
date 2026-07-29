@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: A voluntary recruitment drive has only drawn 500 people so far this year,
   with many more eager to opt out.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-29T08:07:19Z'
