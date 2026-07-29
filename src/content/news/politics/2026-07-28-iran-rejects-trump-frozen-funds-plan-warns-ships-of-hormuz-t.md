@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would
   be compensated from frozen Iranian funds.
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-28T15:28:33Z'

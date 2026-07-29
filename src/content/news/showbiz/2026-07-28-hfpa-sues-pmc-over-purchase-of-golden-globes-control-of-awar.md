@@ -5,7 +5,7 @@ countryCode: US
 description: The Hollywood Foreign Press Association sued Penske Media Group on Tuesday,
   alleging that the company engaged in a scheme to fraudulently acquire the Golden
   Globe Awards and gain…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-28T21:40:19Z'

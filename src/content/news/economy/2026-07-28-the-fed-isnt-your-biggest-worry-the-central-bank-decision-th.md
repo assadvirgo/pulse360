@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japan is edging toward the exit on buying America’s debt. Here is why
   this matters to your retirement plans.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-28T20:54:00Z'

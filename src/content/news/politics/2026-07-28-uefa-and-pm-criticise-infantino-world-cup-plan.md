@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to
   seek private investment in its competitions, including the World Cup.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-28T15:36:29Z'

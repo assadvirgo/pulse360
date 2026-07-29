@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinians face hours-long waits at Israeli military checkpoints, forcing
   women to give birth outside hospitals.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-28T18:24:26Z'

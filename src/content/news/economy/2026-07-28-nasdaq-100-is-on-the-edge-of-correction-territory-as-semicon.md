@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Just weeks after driving major indexes such as the S&amp;P 500 and Nasdaq
   Composite to record highs, semiconductor stocks are taking a beating once again.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-28T20:46:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Delaware Life reclassifies loans as level 1 related-party investments
   after labelling them unaffiliated for years
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-28T14:47:18Z'

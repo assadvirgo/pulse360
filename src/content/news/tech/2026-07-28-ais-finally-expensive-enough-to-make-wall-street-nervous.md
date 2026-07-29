@@ -5,7 +5,7 @@ countryCode: US
 description: 'It''s earnings season, and investors got an unpleasant surprise from
   Google: an increase on its spending estimate, to as much as $205 billion - from
   the last quarter''s projection…'
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-07-28T19:33:03Z'

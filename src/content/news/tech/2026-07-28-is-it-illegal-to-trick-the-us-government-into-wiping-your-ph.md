@@ -5,7 +5,7 @@ countryCode: US
 description: A Georgia man was charged with a felony for allegedly wiping his phone
   while being questioned by Customs and Border Protection. Samuel Tunick had something
   in common with others…
-displayOrder: 9
+displayOrder: 18
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-28T19:35:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Celtic break their transfer record to sign Denmark striker Kasper Hogh
   from Bodo/Glimt on a four-year contract.
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 46.2
 pubDate: '2026-07-28T14:43:18Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK prime minister joins chorus of criticism as football’s governing body
   holds talks with Trump-linked investment vehicle
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-28T20:52:07Z'

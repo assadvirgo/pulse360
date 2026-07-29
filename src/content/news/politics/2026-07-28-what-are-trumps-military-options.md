@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: The US president has at least three military options - none are good.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-28T16:46:38Z'

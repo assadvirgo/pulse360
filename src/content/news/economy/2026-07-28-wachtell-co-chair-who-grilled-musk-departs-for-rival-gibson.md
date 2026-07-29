@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bill Savitt leaves the corporate law powerhouse alongside five other
   partners
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-28T19:21:15Z'

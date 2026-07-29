@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: PM Sanae Takaichi urges people &#039;to remain vigilant for the possibility
   of another earthquake of similar magnitude&#039;.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 87.5
 pubDate: '2026-07-28T11:02:03Z'
