@@ -2,7 +2,7 @@
 category: Economy
 description: Bloc joins wave of indignation at Fifa’s plan to raise billions from
   outside investors
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-29T11:04:25Z'

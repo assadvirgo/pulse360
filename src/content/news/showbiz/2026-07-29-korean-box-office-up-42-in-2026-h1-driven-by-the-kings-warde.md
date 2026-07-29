@@ -5,7 +5,7 @@ countryCode: KR
 description: South Korea clocked a 41.9% increase in box office revenue in the first
   half of 2026, according to figures released today by the Korean Film Council (KOFIC),
   driven by local hits…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-29T10:01:35Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: At least 13 people have been killed after the earthquake struck the island
   of Kyushu on Tuesday.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-29T06:10:19Z'

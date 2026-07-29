@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump has held talks at the White House with Israeli
   Prime Minister Benjamin Netanyahu.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-29T01:19:55Z'

@@ -5,7 +5,7 @@ countryCode: IE
 description: Glen Hansard, the Irish musician who starred in the 2007 film &#8220;Once&#8221;
   and won the best original song Oscar for &#8220;Falling Slowly,&#8221; died on Wednesday
   in a…
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-29T11:22:51Z'

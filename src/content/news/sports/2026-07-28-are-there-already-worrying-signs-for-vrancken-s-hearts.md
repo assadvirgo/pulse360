@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former Hearts forward Ryan Stevenson delivers a scathing verdict as Wouter
   Vrancken's reign begins with a chastening Champions League elimination.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-28T22:56:30Z'

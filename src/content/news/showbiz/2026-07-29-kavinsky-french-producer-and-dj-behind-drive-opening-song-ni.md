@@ -5,7 +5,7 @@ countryCode: FR
 description: Kavinsky, the French electro music producer and DJ whose hypnotic anthem
   &#8220;Nightcall&#8221; became a cult classic after opening Nicolas Winding Refn’s
   2011 film…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-29T09:52:27Z'

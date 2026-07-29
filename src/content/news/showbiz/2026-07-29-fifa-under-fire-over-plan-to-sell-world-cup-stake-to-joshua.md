@@ -3,7 +3,7 @@ category: Showbiz
 description: Controversial plans to sell stakes in the FIFA World Cup to private investors
   have sparked a furious response from football authorities and politicians. UEFA,
   the body that…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-29T09:18:33Z'

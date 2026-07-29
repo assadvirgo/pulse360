@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Expect bumps with X Money rollout as major US financial markets are excluded.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-29T10:00:51Z'

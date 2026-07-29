@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Activists protested at a hotel where Israeli Prime Minister Benjamin
   Netanyahu was having dinner in Washington, DC.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-29T05:07:33Z'

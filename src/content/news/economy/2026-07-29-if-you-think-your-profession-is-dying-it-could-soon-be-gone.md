@@ -2,7 +2,7 @@
 category: Economy
 description: Younger workers once foresaw the demise of horse-drawn carriages — but
   anticipating obsolescence can be self-fulfilling
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-29T04:00:14Z'

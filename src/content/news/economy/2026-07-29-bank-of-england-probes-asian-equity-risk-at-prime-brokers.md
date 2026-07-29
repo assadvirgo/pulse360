@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Regulator to review exposure to AI sector at hedge funds and other clients
   of investment banks operating in UK
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-29T04:00:23Z'
