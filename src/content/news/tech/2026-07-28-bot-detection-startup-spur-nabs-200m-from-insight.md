@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Spur Intelligence has raised a $200 million round from Insight Partners
   for its tech that can identify legit human traffic from bots.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-28T21:29:34Z'

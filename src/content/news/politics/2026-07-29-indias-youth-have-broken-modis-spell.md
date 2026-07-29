@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: At Jantar Mantar, satire and defiance punctured the prime minister’s
   aura of invulnerability.
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-29T07:15:14Z'

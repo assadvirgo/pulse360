@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: West Africa is becoming increasingly attractive to those who want to
   make and export illicit drugs.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-28T23:25:53Z'

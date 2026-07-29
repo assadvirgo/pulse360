@@ -5,7 +5,7 @@ countryCode: FR
 description: Banijay Entertainment&#8217;s first financials since its merger with
   All3Media showed half-year revenues down slightly at €1.37 billion ($1.56 billion),
   as production volume fell.…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-07-29T06:19:32Z'

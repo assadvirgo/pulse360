@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US-Israel defence cooperation spans decades, including a $33bn, 10-year
   memorandum of understanding signed in 2016.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-28T20:11:04Z'

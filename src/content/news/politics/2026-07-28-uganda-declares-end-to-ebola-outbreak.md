@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: Health minister urges people in the country &#039;to remain alert&#039;
   and continue observing public health measures.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-28T18:02:03Z'

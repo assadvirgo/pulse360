@@ -5,7 +5,7 @@ countryCode: GB
 description: Jared Leto has been accused of criminal sexual conduct by four women,
   who claim the offenses occurred when they were teenagers. In a new BBC documentary
   &#8220;Jared Leto:…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-29T08:39:43Z'

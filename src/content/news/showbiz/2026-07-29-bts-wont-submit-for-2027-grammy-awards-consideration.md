@@ -5,7 +5,7 @@ countryCode: KR
 description: BTS will not submit its music for consideration at the 69th Grammy Awards,
   scheduled for Feb. 7, 2027, the group announced on Wednesday. All seven members
   – RM, Jin, Suga, J-Hope,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-29T07:03:52Z'

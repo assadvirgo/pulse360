@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fuel-cell maker also raises its 2026 guidance for the second straight
   time
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-29T00:17:00Z'

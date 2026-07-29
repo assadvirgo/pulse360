@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The two leaders sound encouraged after holding back-to-back bilaterals
   at the White House.
-displayOrder: 9
+displayOrder: 29
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-29T02:24:03Z'

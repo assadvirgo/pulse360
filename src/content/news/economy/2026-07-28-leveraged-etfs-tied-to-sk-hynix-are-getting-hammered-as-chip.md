@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Volatility around the AI trade has been rough this week for bullish bets
   on stocks via leveraged ETFs
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-28T21:08:00Z'

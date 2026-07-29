@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The latest hack comes after an autonomous agent escaped a controlled
   test and accessed AI firm Hugging Face’s servers.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-29T02:05:41Z'

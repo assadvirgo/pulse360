@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: US Central Command says proxy groups launched attacks against US bases
   and Saudi energy infrastructure.
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-29T08:43:46Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any
   action&#039; to maintain its control of Hormuz Strait.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-29T00:00:00Z'

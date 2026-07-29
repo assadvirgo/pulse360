@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta chief warns against ‘regulatory capture’ of American rules on the
   technology
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-29T02:15:21Z'

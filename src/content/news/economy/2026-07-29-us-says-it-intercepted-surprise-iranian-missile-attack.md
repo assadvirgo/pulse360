@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Incident ends a days-long pause in direct air strikes
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-29T03:13:30Z'

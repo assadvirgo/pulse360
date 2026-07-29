@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv is shifting its long-range drone campaign to keep plants offline
   for longer
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-29T04:00:14Z'
