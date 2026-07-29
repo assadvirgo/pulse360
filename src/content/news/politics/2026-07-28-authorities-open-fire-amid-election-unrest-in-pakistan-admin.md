@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Deadly clashes have erupted in Pakistan-administered Kashmir after weeks
   of protests and road blockades.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-28T11:29:18Z'

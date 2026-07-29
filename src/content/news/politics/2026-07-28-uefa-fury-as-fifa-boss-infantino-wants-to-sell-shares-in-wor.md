@@ -3,7 +3,7 @@ category: Politics
 description: FIFA president Gianni Infantino wants to sell shares in a new World Cup
   spin-off venture in plans already opening up ruptures in world football, with fury
   at UEFA.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-28T15:12:00Z'

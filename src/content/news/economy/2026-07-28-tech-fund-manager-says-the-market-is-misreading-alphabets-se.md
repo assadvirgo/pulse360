@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors should focus more on earnings growth and less on capital expenditures,
   says Catalyst Funds’ chief investment officer.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-28T14:59:00Z'

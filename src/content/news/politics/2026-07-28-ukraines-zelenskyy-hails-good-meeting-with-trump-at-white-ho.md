@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Discussions included joint production of Patriot missiles in Ukraine
   to bolster defence against Russian aerial attacks.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-28T17:12:56Z'

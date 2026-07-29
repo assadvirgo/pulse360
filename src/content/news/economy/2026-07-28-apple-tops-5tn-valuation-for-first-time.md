@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tech giant gains due to its lack of huge spending on AI and as investors
   seek havens from sell-off in chip sector
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-28T14:54:16Z'

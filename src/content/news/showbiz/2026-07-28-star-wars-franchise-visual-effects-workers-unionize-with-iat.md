@@ -5,7 +5,7 @@ countryCode: US
 description: A group of U.S.-based visual effects workers across the Star Wars franchise
   productions have organized with IATSE. The new bargaining unit, announced Tuesday,
   includes U.S.…
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 67.0
 pubDate: '2026-07-28T18:06:15Z'

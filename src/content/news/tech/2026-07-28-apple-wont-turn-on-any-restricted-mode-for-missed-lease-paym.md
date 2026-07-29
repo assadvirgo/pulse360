@@ -5,7 +5,7 @@ countryCode: US
 description: Apple says it won't limit the capabilities of devices leased through
   its new Upgrade program if you miss a payment. In an emailed statement to The Verge,
   Apple spokesperson Brian…
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-28T18:43:57Z'

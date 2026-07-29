@@ -3,7 +3,7 @@ category: Politics
 country: Sudan
 countryCode: SD
 description: The army says it&#039;s retaken a key highway linking Khartoum to El-Obeid.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-28T19:36:55Z'
