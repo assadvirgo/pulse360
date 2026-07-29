@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Torrential rain causes chaos at the athletics in the Commonwealth Games,
   but England's Amy Hunt produces one of a number of impressive performances.
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-28T23:08:14Z'

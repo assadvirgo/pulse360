@@ -3,7 +3,7 @@ category: Tech
 description: While most gaming headsets have moved towards low-latency wireless connections,
   there’s something to be said for a budget-friendly, capable wired headset. The EPOS
   H3 Hybrid is on…
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 72.2
 pubDate: '2026-07-28T19:18:15Z'

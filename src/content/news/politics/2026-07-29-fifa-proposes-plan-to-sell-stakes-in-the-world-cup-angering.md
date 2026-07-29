@@ -2,7 +2,7 @@
 category: Politics
 description: Football&#039;s world governing body announces plans to sell stakes of
   up to 20 percent in the World Cup and other events.
-displayOrder: 16
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-29T00:25:29Z'

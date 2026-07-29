@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread
   damage, injuries and fears of deaths.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-28T20:36:48Z'

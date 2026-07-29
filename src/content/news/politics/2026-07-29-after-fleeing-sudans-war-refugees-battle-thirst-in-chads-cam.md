@@ -4,7 +4,7 @@ country: Chad
 countryCode: TD
 description: After escaping war and atrocities, families now battle water shortages
   and fading hopes of returning home.
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-29T01:30:14Z'

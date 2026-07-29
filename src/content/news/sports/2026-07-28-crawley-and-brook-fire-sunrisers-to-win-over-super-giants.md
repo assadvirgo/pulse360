@@ -5,7 +5,7 @@ countryCode: GB
 description: Zak Crawley and Harry Brook hit nine sixes between them to wrap up an
   explosive eight-wicket win for Sunrisers Leeds over Manchester Super Giants in The
   Hundred.
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-28T21:08:40Z'

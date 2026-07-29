@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hundreds of officials gathered in the Capitol Rotunda to honour late
   Republican Senator Lindsey Graham.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-28T17:24:04Z'

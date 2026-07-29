@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Staffers on ‘Ahsoka’ and ‘Starfighter’ are joining IATSE after demonstrating
   "overwhelming” support for the union.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-29T01:13:40Z'

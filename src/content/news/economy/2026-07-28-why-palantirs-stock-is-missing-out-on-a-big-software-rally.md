@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Geopolitical and valuation concerns are weighing down Palantir shares,
   while other software stocks ride a wave of rotation out of semiconductors.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-28T19:46:00Z'

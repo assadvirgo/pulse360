@@ -5,7 +5,7 @@ countryCode: US
 description: Ari Emanuel is throwing his weight behind Paramount&#8217;s pending $110
   billion acquisition of Warner Bros. Discovery, blasting the antitrust lawsuit against
   it as…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-07-28T23:16:41Z'

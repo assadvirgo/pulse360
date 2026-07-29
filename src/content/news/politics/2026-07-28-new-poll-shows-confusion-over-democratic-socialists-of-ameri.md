@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Democratic socialists face mixed understanding, with 49% of Americans
   saying they grasp their policies, poll shows.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-28T19:56:07Z'

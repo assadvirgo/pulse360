@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A group of demonstrators gathered near the White House to protest Benjamin
   Netanyahu’s visit to Washington.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-28T20:22:07Z'

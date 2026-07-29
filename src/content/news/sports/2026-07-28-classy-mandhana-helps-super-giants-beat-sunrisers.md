@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Smriti Mandhana's masterful unbeaten 88 off 50 balls guides Manchester
   Super Giants to a four-wicket win over Sunrisers Leeds in The Hundred.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-28T17:01:12Z'

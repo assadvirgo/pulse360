@@ -2,7 +2,7 @@
 category: Politics
 description: At al-Awda Hospital, doctors say about 70% of pregnancy losses they see
   are linked to Israel&#039;s genocide and blockade.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-28T18:46:57Z'

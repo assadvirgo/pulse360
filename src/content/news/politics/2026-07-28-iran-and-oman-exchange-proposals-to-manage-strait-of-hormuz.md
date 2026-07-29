@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Omani proposal is based on the Strait of Malacca model, where ships that
   use the strait provide voluntary fees.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-28T21:01:19Z'

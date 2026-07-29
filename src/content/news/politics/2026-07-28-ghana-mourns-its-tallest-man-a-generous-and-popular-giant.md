@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: Sulemana Abdul Samed, who was diagnosed with gigantism several years
   ago, has died at the age of 33.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-28T18:19:57Z'

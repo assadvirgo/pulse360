@@ -5,7 +5,7 @@ countryCode: US
 description: Casey Wasserman is one step closer to selling his agency. Providence
   Equity Partners today announced an additional investment in The Team (formerly Wasserman)
   to help the agency…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-29T04:08:21Z'

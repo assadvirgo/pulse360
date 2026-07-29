@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Loadings at a Mediterranean port have picked up as Saudi Arabia races
   to offer its oil to buyers through a lengthier — and more expensive — backdoor.
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-29T01:28:00Z'

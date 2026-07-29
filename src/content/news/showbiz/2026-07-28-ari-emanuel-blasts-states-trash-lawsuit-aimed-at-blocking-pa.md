@@ -5,7 +5,7 @@ countryCode: US
 description: Hollywood powerbroker Ari Emanuel rallied to the defense of his friend
   and business associate David Ellison, claiming that the state attorneys general
   trying to block Paramount’s…
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 72.8
 pubDate: '2026-07-28T23:19:09Z'

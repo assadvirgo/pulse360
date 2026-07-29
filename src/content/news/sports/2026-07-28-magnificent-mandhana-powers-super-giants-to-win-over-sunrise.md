@@ -5,7 +5,7 @@ countryCode: GB
 description: Smriti Mandhana's 88-run innings off 50 balls, including four sixes,
   gives Manchester Super Giants a four-wicket win over Sunrisers Leeds in The Hundred
   at Headingley.
-displayOrder: 47
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-28T17:50:56Z'

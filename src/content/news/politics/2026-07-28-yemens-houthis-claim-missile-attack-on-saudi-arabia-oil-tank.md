@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: The Houthis recently declared a naval blockade on Saudi Arabia in the
   Red Sea, targeting several tankers.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-28T23:16:44Z'

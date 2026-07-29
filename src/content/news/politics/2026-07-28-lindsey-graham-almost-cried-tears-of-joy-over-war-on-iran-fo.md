@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Excerpts from a planned documentary show the hawkish senator claiming
   credit for persuading Donald Trump to attack Iran.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-28T18:01:03Z'

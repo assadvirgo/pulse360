@@ -5,7 +5,7 @@ countryCode: US
 description: A group of U.S. visual effects workers engaged directly by &#8220;Star
   Wars&#8221; franchise productions has joined the International Alliance of Theatrical
   Stage Employees for…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-28T23:20:51Z'
