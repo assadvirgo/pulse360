@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Weng previously served as the VP of AI Safety Research at OpenAI.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-29T21:07:48Z'

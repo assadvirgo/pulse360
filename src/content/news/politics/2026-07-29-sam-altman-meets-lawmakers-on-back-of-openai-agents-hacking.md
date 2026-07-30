@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump says he is considering &#039;AI controls&#039;
   following OpenAI&#039;s disclosure.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-29T22:27:35Z'

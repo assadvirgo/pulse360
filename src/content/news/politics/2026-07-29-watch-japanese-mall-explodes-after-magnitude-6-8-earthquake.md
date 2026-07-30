@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Search teams are still looking for survivors in the collapsed Aeon shopping
   centre.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-29T23:29:53Z'

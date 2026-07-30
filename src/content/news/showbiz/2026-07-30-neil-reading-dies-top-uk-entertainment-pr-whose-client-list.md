@@ -5,7 +5,7 @@ countryCode: GB
 description: Neil Reading, UK publicist to the likes of John Cleese and Dawn French,
   has died aged 56. According to The Sun, which carried a number of tributes, the
   PR guru died following a…
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-30T08:39:40Z'

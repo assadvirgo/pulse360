@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Less so than some of its G7 partners but not entirely immune
-displayOrder: 23
+displayOrder: 38
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-30T04:00:20Z'

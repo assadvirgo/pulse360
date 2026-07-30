@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Homer's dad, Richard Gere, and Kaia's mom, Cindy Crawford, were married
   from 1991 to 1995.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-30T03:56:38Z'

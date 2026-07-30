@@ -5,7 +5,7 @@ countryCode: US
 description: When Microsoft reported killer fourth-quarter earnings for its fiscal
   2026 year (which ended June 30), it tucked in an interesting little tidbit about
   how its investments in the…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-29T22:46:03Z'

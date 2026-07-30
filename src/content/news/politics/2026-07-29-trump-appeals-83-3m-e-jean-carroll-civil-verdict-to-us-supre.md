@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Department of Justice has issued separate filings in support of Trump&#039;s
   case to toss the defamation award.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-29T23:25:37Z'

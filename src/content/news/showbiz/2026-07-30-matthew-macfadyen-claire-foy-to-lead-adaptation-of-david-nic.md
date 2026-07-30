@@ -5,7 +5,7 @@ countryCode: GB
 description: The eight-part BBC and Starz series, following the undeniable attraction
   between characters Michael and Marnie, is based on Nicholls' best-selling novel
   of the same name.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-30T08:32:15Z'

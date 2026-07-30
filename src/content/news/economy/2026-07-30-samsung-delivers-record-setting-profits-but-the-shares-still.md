@@ -5,7 +5,7 @@ countryCode: KR
 description: Although supply constraints are still severe and demand for its memory
   chips relentless, there is still skepticism among investors about the longevity
   of the AI capex boom and the…
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-30T08:39:00Z'

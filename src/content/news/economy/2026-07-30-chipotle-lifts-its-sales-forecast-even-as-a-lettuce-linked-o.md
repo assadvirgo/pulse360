@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mexican fast-casual chain acknowledged ‘softening’ traffic in the second
   half of July, but it’s taking a rosier view of its full-year prospects.
-displayOrder: 34
+displayOrder: 42
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-30T00:16:00Z'

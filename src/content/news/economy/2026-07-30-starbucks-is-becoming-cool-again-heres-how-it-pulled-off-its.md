@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trendier products, faster service and more food options boost Starbucks’
   earnings.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-30T00:19:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Eli Lilly, AbbVie and Danaher Corporation are among the bank’s top picks
   for stocks in the sector.
-displayOrder: 41
+displayOrder: 44
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-30T07:57:00Z'
