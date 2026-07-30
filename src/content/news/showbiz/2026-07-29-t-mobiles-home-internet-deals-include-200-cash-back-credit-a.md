@@ -5,7 +5,7 @@ countryCode: US
 description: T-Mobile is making it more affordable to cut ties with traditional internet
   providers. For a limited time, new customers who sign up for any T-Mobile 5G Home
   Internet plan can…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-29T17:27:37Z'

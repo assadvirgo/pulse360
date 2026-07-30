@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Construction projects in Yemen are paused as rising fuel prices trigger
   a domino effect on building material costs.
-displayOrder: 19
+displayOrder: 33
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-29T17:16:39Z'

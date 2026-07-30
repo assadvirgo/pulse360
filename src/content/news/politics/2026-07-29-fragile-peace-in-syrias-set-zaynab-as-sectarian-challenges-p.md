@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Locals in southern Damascus town await safer times as fears rooted in
   a decade of war still loom over daily life.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-29T13:58:28Z'

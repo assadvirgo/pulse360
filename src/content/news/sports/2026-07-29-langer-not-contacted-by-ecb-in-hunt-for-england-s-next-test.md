@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester Super Giants coach says "it's all rumours" but doesn't rule
   out considering role
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-29T11:02:33Z'

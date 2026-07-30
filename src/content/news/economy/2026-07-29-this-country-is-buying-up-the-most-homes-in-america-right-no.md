@@ -5,7 +5,7 @@ countryCode: US
 description: International buyers only bought about 67,000 homes in the U.S. over
   the last 12 months ending in March, a near-record low, according to the National
   Association of Realtors.
-displayOrder: 41
+displayOrder: 50
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-29T14:20:00Z'

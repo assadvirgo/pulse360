@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Pavel Durov, the founder and chief executive of the encrypted messaging
   app Telegram, has been charged with aiding terrorism by Russia's security agency.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-29T10:32:00Z'

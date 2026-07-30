@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: He had a hit with Nightfall, which featured on the Drive soundtrack and
   at the Paris 2024 Olympics.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-29T10:35:13Z'

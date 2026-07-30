@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Decline could erode ability to supply Asian and European markets dependent
   on supplies from the Middle East
-displayOrder: 38
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-29T17:03:16Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Lynette Howell Taylor has been reelected president of the Academy of
   Motion Picture Arts and Sciences, beginning a second consecutive term as the organization
   moves toward its…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-29T19:00:00Z'

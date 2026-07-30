@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: New round of strikes raises fears of further escalation as Iran rejects
   Omani proposal for joint Hormuz oversight.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-29T17:45:27Z'

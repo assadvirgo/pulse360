@@ -5,7 +5,7 @@ countryCode: US
 description: Lynette Howell Taylor has been re-elected to a second term as president
   of the Academy of Motion Picture Arts and Sciences, the organization behind the
   Oscars. The news Wednesday…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-29T19:41:06Z'

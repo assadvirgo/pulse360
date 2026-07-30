@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The 47-year-old, who hails from Liverpool, England, is the 37th person
   to hold the office.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-29T19:00:00Z'

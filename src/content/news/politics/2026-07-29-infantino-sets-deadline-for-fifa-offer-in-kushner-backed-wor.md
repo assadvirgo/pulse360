@@ -2,7 +2,7 @@
 category: Politics
 description: FIFA&#039;s president lobbies for latest, and heavily criticised, proposal
   for investment in football&#039;s governing body.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-29T13:15:22Z'

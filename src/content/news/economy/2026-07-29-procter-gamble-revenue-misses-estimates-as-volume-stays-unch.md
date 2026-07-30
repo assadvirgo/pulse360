@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Procter & Gamble reported quarterly earnings per share that topped Wall
   Street's estimates, but its revenue fell short of expectations.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-29T14:53:03Z'

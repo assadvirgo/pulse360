@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A turnaround story could be in the works at Ford, which gets less love
   than GM on Wall Street.
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-29T18:32:00Z'

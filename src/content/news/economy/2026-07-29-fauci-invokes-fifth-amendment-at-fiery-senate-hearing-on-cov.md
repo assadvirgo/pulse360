@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican lawmakers threaten to hold scientist in contempt for failing
   to answer questions
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-29T17:59:11Z'

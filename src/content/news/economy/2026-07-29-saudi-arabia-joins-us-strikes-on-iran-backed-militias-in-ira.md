@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Iran also fired ballistic missiles at US forces in Jordan, ending a days-long
   pause in direct air strikes
-displayOrder: 39
+displayOrder: 49
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-29T16:03:43Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: In an interview with our friend Joanna Stern on her YouTube channel,
   OpenAI president Greg Brockman said the company is working on a "family of devices"
   for interacting with its…
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-29T18:15:02Z'

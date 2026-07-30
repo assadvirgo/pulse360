@@ -2,7 +2,7 @@
 category: Politics
 description: Hansard, who was 56, won the best song Oscar for the 2007 low-budget
   musical film Once.
-displayOrder: 17
+displayOrder: 36
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-29T12:30:13Z'

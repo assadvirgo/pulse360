@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Trent Rockets register their second win in The Hundred women's competition
   by cruising to an eight-wicket victory against Welsh Fire in Cardiff.
-displayOrder: 31
+displayOrder: 46
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-29T13:50:03Z'
