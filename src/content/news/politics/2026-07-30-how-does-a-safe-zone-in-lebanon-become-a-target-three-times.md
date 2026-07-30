@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Three times in three decades, Qana&#039;s shelters were bombed. AJLabs
   tracks a village the Israeli military keeps hitting.
-displayOrder: 13
+displayOrder: 33
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-30T11:34:57Z'

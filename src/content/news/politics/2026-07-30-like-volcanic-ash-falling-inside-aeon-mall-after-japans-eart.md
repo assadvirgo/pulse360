@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japanese PM Takaichi says &#039;race against time&#039; to rescue those
   trapped in the mall and others affected by the quake.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-30T04:00:30Z'

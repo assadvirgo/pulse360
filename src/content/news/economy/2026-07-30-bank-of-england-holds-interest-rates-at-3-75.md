@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: MPC signals it could still lift borrowing costs if Middle East war hostilities
   lead to more persistent inflation
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-30T09:06:01Z'

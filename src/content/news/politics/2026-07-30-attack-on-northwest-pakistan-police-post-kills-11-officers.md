@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Fifteen attackers were also killed during the hours-long raid in Pakistan&#039;s
   northwestern Hangu district.
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-30T10:21:02Z'

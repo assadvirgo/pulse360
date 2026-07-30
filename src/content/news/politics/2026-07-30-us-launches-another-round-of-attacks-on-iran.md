@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Targets across southern Iran hit, including on strategic Qeshm Island.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-30T03:56:07Z'

@@ -4,7 +4,7 @@ country: Bolivia
 countryCode: BO
 description: Bolivia&#039;s former president is being investigated &#039;for armed
   uprising&#039; against the state, among other things.
-displayOrder: 17
+displayOrder: 42
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-30T04:27:22Z'

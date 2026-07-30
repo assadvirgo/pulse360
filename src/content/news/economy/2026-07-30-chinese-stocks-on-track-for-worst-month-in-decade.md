@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: Investors pull out of ‘picks and shovels’ suppliers to AI boom
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-07-30T08:32:25Z'

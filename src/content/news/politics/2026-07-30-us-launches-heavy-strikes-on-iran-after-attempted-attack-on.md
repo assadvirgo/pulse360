@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US military said the strikes were in response to Iran firing missiles
   at US forces in the Middle East on Tuesday.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-07-30T03:33:01Z'

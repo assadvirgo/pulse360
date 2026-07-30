@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Families like the Tasabehjis aim to rebuild Syria, fostering community
   and hope despite economic and social challenges.
-displayOrder: 4
+displayOrder: 21
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-30T09:43:50Z'

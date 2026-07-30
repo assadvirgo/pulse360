@@ -2,7 +2,7 @@
 category: Politics
 description: Gaza’s collapsing health system leaves dialysis patients, amputees and
   trauma survivors without vital care.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-30T05:21:15Z'

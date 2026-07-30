@@ -3,7 +3,7 @@ category: Politics
 country: Singapore
 countryCode: SG
 description: The 19-year-old was "truly sorry" for causing trouble, his lawyers said.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-30T02:54:54Z'

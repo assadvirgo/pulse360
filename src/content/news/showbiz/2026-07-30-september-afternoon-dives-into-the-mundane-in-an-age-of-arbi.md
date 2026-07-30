@@ -5,7 +5,7 @@ countryCode: DE
 description: In German writer-director-editor Nicolaas Schmidt's first feature-length
   film, debuting at Locarno, "a couple refuses to accept that summer is over" before,
   well, "a contemporary…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-30T07:30:00Z'
