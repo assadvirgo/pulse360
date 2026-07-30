@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Canada says that illegal settlements in occupied Palestinian territory
   undermine &#039;peace, security and stability&#039;.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-29T23:29:24Z'

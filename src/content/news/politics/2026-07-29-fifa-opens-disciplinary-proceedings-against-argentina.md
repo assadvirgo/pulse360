@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Fifa opens disciplinary proceedings against Argentina over their behaviour
   after their World Cup final loss to Spain and throughout the tournament.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 57.2
 pubDate: '2026-07-29T17:21:57Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Southern Lebanon’s Mansouri village is divided by Israel&#039;s Yellow
   Line, a military boundary separating area it occupies.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-30T02:45:25Z'

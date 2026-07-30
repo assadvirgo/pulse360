@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: Nine activists face prison terms of up to 37 years for protesting the
   military-backed December elections.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-29T21:29:33Z'

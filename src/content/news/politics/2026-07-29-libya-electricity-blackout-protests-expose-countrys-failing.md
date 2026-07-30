@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: Libyans protest severe power cuts, demanding an end to corruption and
   grid decay.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-07-29T18:07:19Z'

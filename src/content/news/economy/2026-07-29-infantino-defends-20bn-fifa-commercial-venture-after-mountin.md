@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: President of world football’s governing body says plan to sell stake
   to investors ‘is an opportunity and not an obligation’
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-29T21:25:30Z'

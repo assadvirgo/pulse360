@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It marks a change of tone for his administration, which has taken a more
   hands-off approach to the technology.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 49.2
 pubDate: '2026-07-30T00:41:28Z'
