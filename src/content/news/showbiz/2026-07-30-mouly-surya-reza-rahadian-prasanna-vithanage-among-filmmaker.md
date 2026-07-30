@@ -5,7 +5,7 @@ countryCode: KR
 description: Asian Project Market, the investment and co-production platform of Busan
   International Film Festival (BIFF), has selected 30 projects from 20 countries for
   this year’s…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-30T09:53:11Z'

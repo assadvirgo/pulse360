@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Radioactive ores have become a proliferation risk in the land that supplied
   material for second world war atomic bombs
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-07-30T09:00:01Z'

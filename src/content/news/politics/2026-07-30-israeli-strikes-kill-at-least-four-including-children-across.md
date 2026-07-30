@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Bombings take place as Hamas officials meet with Qatari, Egyptian and
   Turkish mediators in Cairo to discuss truce.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-30T11:32:30Z'

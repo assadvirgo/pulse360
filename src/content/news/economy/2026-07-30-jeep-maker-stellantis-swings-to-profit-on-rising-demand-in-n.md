@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Auto giant Stellantis on Thursday swung to profit in the second quarter,
   boosted by rising demand in North America.
-displayOrder: 34
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-07-30T15:02:17Z'

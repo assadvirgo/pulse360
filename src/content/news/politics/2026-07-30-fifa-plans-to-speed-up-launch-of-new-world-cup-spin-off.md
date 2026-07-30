@@ -3,7 +3,7 @@ category: Politics
 description: FIFA already has plans to receive the first financing in less than 100
   days from private investors in an accelerated launch of a new World Cup spinoff
   venture, Sky News can reveal.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-30T08:05:00Z'

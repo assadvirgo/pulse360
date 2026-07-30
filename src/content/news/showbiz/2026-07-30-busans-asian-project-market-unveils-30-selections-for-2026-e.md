@@ -5,7 +5,7 @@ countryCode: KR
 description: Busan&#8217;s Asian Project Market (APM) has unveiled the 30 feature
   projects selected for its 2026 edition. APM set a new all-time submissions record
   for the third consecutive…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-30T07:29:28Z'

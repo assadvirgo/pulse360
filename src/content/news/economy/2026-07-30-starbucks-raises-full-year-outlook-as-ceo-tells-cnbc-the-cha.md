@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starbucks posted its fourth straight quarter of same-store sales growth,
   as it continues a turnaround under CEO Brian Niccol.
-displayOrder: 32
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-30T13:29:38Z'

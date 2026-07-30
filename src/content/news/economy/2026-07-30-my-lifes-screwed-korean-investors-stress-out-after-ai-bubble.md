@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock
   tumbles
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-30T09:08:04Z'

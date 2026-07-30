@@ -5,7 +5,7 @@ countryCode: US
 description: Disney&#8217;s ABC urged the FCC to toss out petitions calling for the
   agency to deny the renewal of broadcast licenses for ABC&#8217;s eight owned-and-operated
   TV stations, and…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-30T15:17:52Z'

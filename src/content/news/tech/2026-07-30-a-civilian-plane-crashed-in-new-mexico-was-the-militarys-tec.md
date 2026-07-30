@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Drone warfare is making the skies more dangerous, even for airplanes
   far from the battlefield.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-30T10:00:00Z'

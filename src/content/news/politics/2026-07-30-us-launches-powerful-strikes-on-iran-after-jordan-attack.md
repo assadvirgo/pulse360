@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US has bombed multiple cities across southern Iran in what Central
   Command described as a ‘heavy wave of strikes’.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-30T04:55:36Z'

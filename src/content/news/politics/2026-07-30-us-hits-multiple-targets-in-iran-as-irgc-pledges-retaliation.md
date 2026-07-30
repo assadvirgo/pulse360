@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jordan said it intercepted missiles shortly after the US struck Iranian
   sites including Qeshm and Bushehr.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-30T09:49:29Z'

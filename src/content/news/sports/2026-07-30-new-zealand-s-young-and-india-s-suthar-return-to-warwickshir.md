@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: Warwickshire re-sign New Zealand batter Will Young and India spinner
   Manav Suthar for the final stages of the County Championship season.
-displayOrder: 2
+displayOrder: 16
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-30T14:59:42Z'

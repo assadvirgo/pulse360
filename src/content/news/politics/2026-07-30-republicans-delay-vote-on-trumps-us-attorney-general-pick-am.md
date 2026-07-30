@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Senate committee postpones vote as key Republican says he has not received
   information on &#039;anti-weaponisation&#039; fund.
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-30T15:36:35Z'

@@ -4,7 +4,7 @@ country: Poland
 countryCode: PL
 description: Poland says a Russian missile landed inside Polish territory, breaching
   NATO airspace during a Russian attack on Ukraine
-displayOrder: 20
+displayOrder: 42
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-30T10:13:52Z'
