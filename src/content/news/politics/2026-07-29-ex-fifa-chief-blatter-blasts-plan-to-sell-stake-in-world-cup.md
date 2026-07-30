@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal
   that moves &#039;people&#039;s game&#039; further from fans.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-29T15:46:20Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: In war-torn Gaza, a group of Palestinian students opened Flora, an ice
   cream shop and cafe, to pay university fees.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-29T19:46:57Z'

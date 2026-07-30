@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
-displayOrder: 31
+displayOrder: 43
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-30T00:05:09Z'

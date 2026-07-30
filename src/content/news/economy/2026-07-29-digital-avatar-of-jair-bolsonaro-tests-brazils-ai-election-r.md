@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Lawyers for former president insist he did not authorise the projection
   following legal challenge from leftwing groups
-displayOrder: 10
+displayOrder: 17
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-29T23:26:19Z'

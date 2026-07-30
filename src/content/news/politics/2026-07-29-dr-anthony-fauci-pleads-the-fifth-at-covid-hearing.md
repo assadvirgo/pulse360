@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Dr Anthony Fauci declined to answer questions at a Senate hearing on
   the origins of the Covid-19 pandemic.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-29T18:34:09Z'

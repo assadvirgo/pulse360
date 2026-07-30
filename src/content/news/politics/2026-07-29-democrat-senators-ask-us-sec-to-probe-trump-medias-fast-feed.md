@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump Media has discussed charging as much as $100,000 a month for the
   Truth API product for buyers to get first access.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-29T17:40:14Z'

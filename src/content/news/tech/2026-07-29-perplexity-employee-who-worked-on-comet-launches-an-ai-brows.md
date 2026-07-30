@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Polar has come out with an AI-first browser aimed at knowledge workers,
   and it has now raised a $5.7 million seed round led by Madrona.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-29T15:00:00Z'
