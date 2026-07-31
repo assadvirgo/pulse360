@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Dungeons &#38; Dragons&#8221; maker Wizards of the Coast announced
   the upcoming launch of Star Wars and &#8220;World of Warcraft&#8221;-themed game
   offerings during Gen Con…'
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-30T23:40:00Z'

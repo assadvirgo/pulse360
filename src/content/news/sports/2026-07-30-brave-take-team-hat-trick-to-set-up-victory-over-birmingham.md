@@ -5,7 +5,7 @@ countryCode: GB
 description: Luke Wood removes Ben Dwarshuis and Scott Currie while Adil Rashid runs
   out Saqib Mahmood as Southern Brave take a team hat-trick in the final over, setting
   up victory over…
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-30T22:10:38Z'

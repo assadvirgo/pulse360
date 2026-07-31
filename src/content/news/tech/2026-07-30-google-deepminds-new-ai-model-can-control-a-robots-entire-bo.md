@@ -5,7 +5,7 @@ countryCode: US
 description: Google DeepMind says the latest version of its Gemini Robotics AI model
   can "control entire humanoid robots." While the previous model focused on controlling
   a humanoid robot's…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-30T17:18:45Z'

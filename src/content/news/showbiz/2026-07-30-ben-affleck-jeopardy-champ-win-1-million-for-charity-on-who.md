@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The funds will go to the actor-writer-director's longtime philanthropic
   endeavor, the Eastern Congo Initiative.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-30T22:04:20Z'

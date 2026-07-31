@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: There&#039;s still no vaccine for the Bundibugyo strain of the virus
   as the country struggles for control in infected areas.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-30T19:02:57Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The complexity of the cyclospora outbreak raises questions about whether
   it could last longer than previous outbreaks, which usually end in August.
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-30T17:16:00Z'

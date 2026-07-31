@@ -4,7 +4,7 @@ country: Uganda
 countryCode: UG
 description: Pervasive climate of fear condemned amid human rights violations and
   crackdowns on opposition.
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-30T18:52:34Z'

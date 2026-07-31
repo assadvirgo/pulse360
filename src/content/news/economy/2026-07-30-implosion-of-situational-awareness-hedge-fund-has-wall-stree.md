@@ -5,7 +5,7 @@ countryCode: US
 description: 'One of the wildest months in recent memory for the U.S. stock market
   is ending on yet another remarkable note: A highflying hedge fund run by an AI wunderkind
   in his mid-20s has…'
-displayOrder: 13
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-30T22:09:00Z'

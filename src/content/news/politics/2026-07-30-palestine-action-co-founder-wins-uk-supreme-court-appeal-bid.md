@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Huda Ammori has won permission to challenge Palestine Action&#039;s ban
   at the UK Supreme Court.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-30T20:11:07Z'

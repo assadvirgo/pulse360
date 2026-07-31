@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Southern Brave make it four wins from four in the women's Hundred as
   they beat Birmingham Phoenix by 24-runs at the Utilita Bowl.
-displayOrder: 33
+displayOrder: 45
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-30T18:14:56Z'

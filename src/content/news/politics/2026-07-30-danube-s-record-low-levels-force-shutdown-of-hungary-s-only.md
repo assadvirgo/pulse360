@@ -4,7 +4,7 @@ country: Hungary
 countryCode: HU
 description: Romania, Bulgaria and Serbia are also grappling with the effects of a
   series of prolonged heatwaves and low rainfall.
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 69.2
 pubDate: '2026-07-30T17:55:24Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Consumer spending rose again in June to cap off a strong second quarter,
   but households had to dig deep into their savings to pay for their purchases after
   a recent surge in…
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-30T14:40:00Z'

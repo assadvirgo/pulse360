@@ -3,7 +3,7 @@ category: Tech
 description: 'I am not by any means an expert at finance but I think I do now have
   some advice for people who are: Do not name your hedge fund anything that will be
   hilarious if it blows up.…'
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 68.2
 pubDate: '2026-07-30T20:46:25Z'
