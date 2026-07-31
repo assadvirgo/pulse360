@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Google, Amazon, Microsoft and Meta have vastly increased their investments
   since the AI boom began in 2023
-displayOrder: 39
+displayOrder: 40
 heroImage: ''
 importance: 37.5
 pubDate: '2026-07-31T01:52:48Z'

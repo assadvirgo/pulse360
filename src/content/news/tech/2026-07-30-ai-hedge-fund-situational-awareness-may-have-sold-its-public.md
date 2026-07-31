@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The former OpenAI researcher’s fund was forced to unwind public equities
   after leveraged public bets plummeted. But he still has cards to play.
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-30T23:25:58Z'

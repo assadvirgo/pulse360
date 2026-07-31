@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Zoox will launch its commercial robotaxi service in Las Vegas after receiving
   federal clearance.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-30T22:14:12Z'

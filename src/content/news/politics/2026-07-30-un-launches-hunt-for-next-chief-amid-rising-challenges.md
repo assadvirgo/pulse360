@@ -2,7 +2,7 @@
 category: Politics
 description: Antonio Guterres’s successor will be tasked with revitalising an organisation
   in crisis and facing pressure to reform.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-30T20:54:48Z'

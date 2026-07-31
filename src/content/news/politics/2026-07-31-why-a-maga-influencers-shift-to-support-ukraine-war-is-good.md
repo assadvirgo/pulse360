@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: One of the most prominent pro-Trump influencers, Laura Loomer, just made
   a major shift in her stance on Ukraine.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-31T03:08:59Z'

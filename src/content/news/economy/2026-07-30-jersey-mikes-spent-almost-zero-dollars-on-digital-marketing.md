@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The CEO of the newly public sandwich chain says the company needs to
   be more proactive about reaching younger customers.
-displayOrder: 40
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-30T22:24:00Z'

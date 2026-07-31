@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain and France's record-breaking wildfires were made more likely due
   to human-caused climate change, a group of scientists have found.
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-30T22:06:00Z'

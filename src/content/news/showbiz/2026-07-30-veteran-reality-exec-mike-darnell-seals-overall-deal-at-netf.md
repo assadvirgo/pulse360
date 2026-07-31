@@ -5,7 +5,7 @@ countryCode: US
 description: The dark prince of reality TV has re-emerged. Mike Darnell has inked
   an exclusive, multi-year overall deal with Netflix, where he will also consult on
   the platform&#8217;s…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-07-30T21:35:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Steven Pressley says signing a new contract with Dundee was the "right
   decision", despite "a lot of pain ahead" for the club.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-30T14:45:43Z'

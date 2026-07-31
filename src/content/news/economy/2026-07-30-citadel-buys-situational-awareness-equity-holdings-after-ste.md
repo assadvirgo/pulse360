@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Deal comes after Leopold Aschenbrenner’s investment firm held overnight
   crunch talks with investors
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-30T15:58:56Z'

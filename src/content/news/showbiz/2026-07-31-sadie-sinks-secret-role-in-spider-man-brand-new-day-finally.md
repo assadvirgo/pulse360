@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The 'Stranger Things' star joined Tom Holland, Zendaya and Jacob Batalon
   for the fourth installment in the Marvel Cinematic Universe.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 51.8
 pubDate: '2026-07-31T05:00:00Z'

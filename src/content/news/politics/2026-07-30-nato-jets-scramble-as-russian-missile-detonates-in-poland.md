@@ -4,7 +4,7 @@ country: Poland
 countryCode: PL
 description: The growing series of NATO airspace violations is raising concern that
   Russia&#039;s war on Ukraine could escalate.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-30T16:28:51Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The health tech data giant, which handles vast amounts of patients' medical
   data, said hackers struck one of its protected health data stores.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-07-30T20:13:12Z'
