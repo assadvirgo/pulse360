@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah
   tunnel network in southern Lebanon.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-31T04:09:08Z'

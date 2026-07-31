@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The YouTuber has been found guilty for two counts of assault over the
   2024 incident in Perth.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-31T05:21:18Z'

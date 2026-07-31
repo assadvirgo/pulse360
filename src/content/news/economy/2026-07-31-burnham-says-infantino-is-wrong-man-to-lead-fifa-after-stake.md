@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK prime minister’s intervention raises pressure on Fifa president after
   resignation of a top adviser
-displayOrder: 6
+displayOrder: 18
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-31T12:08:31Z'

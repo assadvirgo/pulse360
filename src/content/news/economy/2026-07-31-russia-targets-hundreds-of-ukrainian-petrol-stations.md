@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Missile and drone attacks on highly flammable fuel stops seen as retaliation
   for Kyiv’s strikes on refineries
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-31T04:00:07Z'

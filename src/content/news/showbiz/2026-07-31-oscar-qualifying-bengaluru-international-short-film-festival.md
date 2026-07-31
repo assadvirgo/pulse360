@@ -5,7 +5,7 @@ countryCode: IN
 description: India&#8217;s Oscar-qualifying Bengaluru International Short Film Festival
   (BISFF) has expanded its competition to 10 arenas of cinema for its 16th edition,
   adding new categories…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-07-31T08:56:53Z'

@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony has received a lot of backlash from PlayStation fans since announcing
   that it's killing physical game disc production, but that hasn't swayed its decision.
   During Sony's…
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-31T10:40:54Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Football's governing body Fifa plans to continue the consultation process
   after Uefa threatens to boycott World Cups.
-displayOrder: 25
+displayOrder: 39
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-31T08:21:37Z'

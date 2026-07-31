@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Residents gathered in the northwestern Iranian for the funeral of IRGC
   members killed in what Iran says was a US strike.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-31T04:34:04Z'

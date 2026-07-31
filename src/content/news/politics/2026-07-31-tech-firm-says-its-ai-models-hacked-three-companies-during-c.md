@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic has claimed its artificial intelligence models hacked into
   three other companies during testing, just days after rival OpenAI disclosed its
   rogue models hacked another…
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 48.0
 pubDate: '2026-07-31T09:17:00Z'

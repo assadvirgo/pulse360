@@ -4,7 +4,7 @@ country: Kuwait
 countryCode: KW
 description: Iran says it struck Kuwait in retaliation for US strikes on multiple
   locations in Iran, including Qeshm island.
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-31T09:09:54Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Redecorate your home for less with our expert tips on applying SelectBlinds
   coupons, maximizing holiday sales, and locking in new customer discounts.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-07-31T05:00:00Z'

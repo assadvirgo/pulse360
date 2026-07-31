@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Prime Minister Andy Burnham says Gianni Infantino is "the wrong man"
   to lead Fifa as criticism grows of the controversial investment plan.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-31T12:14:43Z'

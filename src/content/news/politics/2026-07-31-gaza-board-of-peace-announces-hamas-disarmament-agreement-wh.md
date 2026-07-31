@@ -2,7 +2,7 @@
 category: Politics
 description: Under the agreement, Israel would have to withdraw from Gaza. But experts
   remain sceptical.
-displayOrder: 1
+displayOrder: 9
 heroImage: ''
 importance: 67.5
 pubDate: '2026-07-31T11:23:09Z'

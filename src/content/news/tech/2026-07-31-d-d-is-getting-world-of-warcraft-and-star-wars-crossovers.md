@@ -5,7 +5,7 @@ countryCode: US
 description: Dungeons &#38; Dragons is no stranger to franchise crossovers, and now
   it's kicking off its biggest multiverse initiative to date, starting with a World
   of Warcraft expansion.…
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 61.2
 pubDate: '2026-07-31T12:31:00Z'

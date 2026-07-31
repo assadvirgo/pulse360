@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president had earlier said he would allow the country to produce the
   weapon vital for its defence against Russia
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-30T23:30:37Z'

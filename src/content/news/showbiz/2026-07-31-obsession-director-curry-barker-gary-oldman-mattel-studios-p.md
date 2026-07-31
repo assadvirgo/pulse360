@@ -5,7 +5,7 @@ countryCode: CA
 description: Obsession director Curry Barker, Gary Oldman and Mattel Studios President
   and Barbie producer Robbie Brenner have joined the Visionaries and Dialogues talks
   program of Toronto’s…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-07-31T11:47:25Z'

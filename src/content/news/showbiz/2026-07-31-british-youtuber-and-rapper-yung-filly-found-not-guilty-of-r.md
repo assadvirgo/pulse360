@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The 30-year-old, whose real name is Andres Felipe Valencia Barrientos,
   was, however, found guilty on two counts of assault occasioning bodily harm.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-07-31T07:11:54Z'

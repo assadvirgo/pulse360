@@ -5,7 +5,7 @@ countryCode: GB
 description: Southern Brave secure their first win in the men's Hundred by successfully
   defending a total of 128 to defeat Birmingham Phoenix by 12 runs at the Utilita
   Bowl.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-30T22:28:43Z'

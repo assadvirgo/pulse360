@@ -2,7 +2,7 @@
 category: Economy
 description: Passive wealth gains increasingly matter more than earnings for one’s
   standing in society
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-07-31T04:00:18Z'

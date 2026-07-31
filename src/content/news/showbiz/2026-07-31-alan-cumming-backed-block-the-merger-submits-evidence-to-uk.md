@@ -5,7 +5,7 @@ countryCode: GB
 description: The Alan Cumming-backed Block the Merger coalition has submitted evidence
   to the UK Culture Secretary over why the Paramount-Warner mega-merger should be
   blocked. Four of the…
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 61.0
 pubDate: '2026-07-31T10:16:36Z'

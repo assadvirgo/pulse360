@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The $20bn hedge fund manager’s wild ride ended with a call to Ken Griffin
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-31T00:57:59Z'
