@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president says Israel will withdraw from Gaza once the Palestinian
   group disarms.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-07-30T22:34:19Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel claims army blew up Hezbollah tunnels in southern Lebanon, amid
   reports of blasts near UNESCO-listed fortress.
-displayOrder: 1
+displayOrder: 14
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-31T08:03:29Z'

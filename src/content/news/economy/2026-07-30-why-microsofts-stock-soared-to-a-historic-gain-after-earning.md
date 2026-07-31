@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company’s cloud business is sporting impressive growth, and Microsoft
   expects to avoid heading into cash-burn mode as it spends up on AI.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-30T20:21:00Z'

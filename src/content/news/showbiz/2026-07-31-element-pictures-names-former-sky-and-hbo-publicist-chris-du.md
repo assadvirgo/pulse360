@@ -5,7 +5,7 @@ countryCode: IE
 description: Element Pictures, the powerhouse Irish film and TV production company
   and awards season regular, has appointed its first in-house head of communications
   and marketing. Seasoned…
-displayOrder: 2
+displayOrder: 17
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-31T08:30:00Z'

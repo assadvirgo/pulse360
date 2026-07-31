@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony Pictures Entertainment posted a sales decline for the June 2026
   quarter, offset by growth at Crunchyroll, while Sony&#8217;s music segment saw revenue
   increase 21%. The…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-07-31T03:58:51Z'

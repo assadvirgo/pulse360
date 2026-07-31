@@ -2,7 +2,7 @@
 category: Politics
 description: European football&#039;s governing body has voted to boycott FIFA if
   World Cup plans pursued, but global body undeterred.
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-31T07:25:44Z'

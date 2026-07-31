@@ -5,7 +5,7 @@ countryCode: GB
 description: ITV has unveiled “solid” if underwhelming results for the first half
   of 2026, with a 2% uplift across its major profit centers. Total group revenue stayed
   steady at £1.9 billion…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-07-31T07:06:59Z'

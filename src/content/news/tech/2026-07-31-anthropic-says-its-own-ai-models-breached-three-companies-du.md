@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After OpenAI's models broke into Hugging Face, Anthropic checked its
   own history and found three similar incidents
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-31T01:06:54Z'

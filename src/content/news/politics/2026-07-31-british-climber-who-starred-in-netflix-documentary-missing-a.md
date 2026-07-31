@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A renowned climber who served in the British military for 16 years is
   among 10 people missing after an avalanche struck one of the world's highest mountains.
-displayOrder: 13
+displayOrder: 36
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-31T01:48:00Z'

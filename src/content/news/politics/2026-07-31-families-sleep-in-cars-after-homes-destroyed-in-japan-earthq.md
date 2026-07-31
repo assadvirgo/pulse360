@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Residents in southwestern Japan have had to resort to sleeping in their
   cars for shelter, after a recent 6.8 magnitude.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-31T04:59:39Z'

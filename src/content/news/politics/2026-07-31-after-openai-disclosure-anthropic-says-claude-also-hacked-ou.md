@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The incidents have heightened concerns about AI agents, software products
   designed to perform tasks autonomously.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T04:02:03Z'

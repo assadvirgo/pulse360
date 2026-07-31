@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A renowned climber who served in the British special forces is missing
   after an avalanche on one of the world's highest mountains.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-31T01:48:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: A senior Hamas official has told the BBC they have agreed to the Board
   of Peace's plan. Israel has not commented.
-displayOrder: 6
+displayOrder: 28
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-31T03:24:14Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: The magnitude 7.1 quake has killed 34 people and left six more seriously
   injured.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T04:03:10Z'

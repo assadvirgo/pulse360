@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Kospi soars as SK Hynix and Samsung regain ground after days of heavy
   selling
-displayOrder: 33
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-31T02:53:41Z'

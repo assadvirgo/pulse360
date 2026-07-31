@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: US president claims Board of Peace reached breakthrough in Gaza talks
-displayOrder: 15
+displayOrder: 38
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-31T01:13:40Z'

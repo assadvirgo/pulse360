@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: At least 18 people drown as migrants try to swim to Spanish territory
   amid scenes of chaos at the border.
-displayOrder: 9
+displayOrder: 27
 heroImage: ''
 importance: 52.2
 pubDate: '2026-07-31T08:09:17Z'
