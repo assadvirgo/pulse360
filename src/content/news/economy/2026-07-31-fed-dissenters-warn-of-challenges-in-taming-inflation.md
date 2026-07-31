@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Three rate-setters rebelled against US central bank’s majority decision
   to hold rates steady this week
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 56.5
 pubDate: '2026-07-31T12:25:14Z'

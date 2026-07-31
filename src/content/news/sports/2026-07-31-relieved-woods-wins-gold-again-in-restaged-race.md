@@ -5,7 +5,7 @@ countryCode: GB
 description: Scotland's Melanie Woods wins the Commonwealth Games women's 1500m T54
   for the second time in under 40 hours after streaking to victory in the restaged
   final.
-displayOrder: 27
+displayOrder: 42
 heroImage: ''
 importance: 56.2
 pubDate: '2026-07-31T09:35:35Z'

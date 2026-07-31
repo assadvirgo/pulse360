@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: SpaceX is building a new power plant for xAI's Colossus data centers,
   but it won't remove existing, unpermitted turbines for many more months.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-31T15:16:17Z'

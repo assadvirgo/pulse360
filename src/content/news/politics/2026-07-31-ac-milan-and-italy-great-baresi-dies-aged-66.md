@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: AC Milan and Italy great Franco Baresi has died at the age of 66, the
   Italian club announces.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-31T09:44:48Z'

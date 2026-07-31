@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: AWS “finally saw the long-awaited growth inflection,” an analyst noted.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-31T14:26:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinians in Gaza are sceptical of the latest peace plan, questioning
   whether it will bring lasting change.
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T10:47:57Z'

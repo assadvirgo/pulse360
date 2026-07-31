@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: The number of people killed in Japan's earthquake has risen to 34 - as
   9,000 remain in temporary shelters in searing heat.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-31T09:58:00Z'

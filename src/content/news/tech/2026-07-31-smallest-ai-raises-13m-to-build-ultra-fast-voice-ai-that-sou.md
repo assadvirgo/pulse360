@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The startup is building voice models designed to make AI phone calls
   pass the Turing test.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-31T14:47:11Z'

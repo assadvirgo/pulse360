@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Videogame publisher EA is set to be taken private, opening the door for
   a new company to join the benchmark index.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-07-31T14:51:00Z'

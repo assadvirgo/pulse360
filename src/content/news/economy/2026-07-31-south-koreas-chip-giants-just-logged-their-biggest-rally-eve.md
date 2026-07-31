@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The Kospi saw its best-ever day on Friday, as the index came roaring
   back thanks to historical jumps in its big tech names.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-31T11:59:00Z'

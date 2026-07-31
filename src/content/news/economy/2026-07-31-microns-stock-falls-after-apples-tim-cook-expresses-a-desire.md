@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Apple and Amazon are both being hurt by higher memory prices.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-07-31T15:59:00Z'

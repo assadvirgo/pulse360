@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Follow live text updates and commentary stream coverage as India&#039;s
   Neeraj Chopra and Pakistan&#039;s Arshad Nadeem face-off.
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-31T16:18:42Z'

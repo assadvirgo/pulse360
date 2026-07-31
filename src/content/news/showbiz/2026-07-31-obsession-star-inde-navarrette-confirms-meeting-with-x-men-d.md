@@ -5,7 +5,7 @@ countryCode: US
 description: After “Obsession” became an unprecedented box office success and earned
   over $400 million from a small budget, all eyes are on breakout star Inde Navarrette.
   “I’ve been taking a…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 61.8
 pubDate: '2026-07-31T16:00:00Z'

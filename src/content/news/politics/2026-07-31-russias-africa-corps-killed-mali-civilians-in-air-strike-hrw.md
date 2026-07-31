@@ -4,7 +4,7 @@ country: Mali
 countryCode: ML
 description: Russian paramilitaries fight alongside Malian soldiers battling multiple
   armed groups linked to al-Qaeda and ISIL.
-displayOrder: 23
+displayOrder: 38
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-31T11:41:32Z'
