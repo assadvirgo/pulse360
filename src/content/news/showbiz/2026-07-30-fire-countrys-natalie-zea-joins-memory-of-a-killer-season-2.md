@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Fox&#8217;s Memory of a Killer has added Natalie Zea (Fire
   Country, Chicago Med) to its Season 2 cast in a heavily recurring role. The new
   season is set to premiere…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-07-30T18:00:00Z'

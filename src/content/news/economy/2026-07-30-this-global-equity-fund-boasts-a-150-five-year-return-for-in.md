@@ -2,7 +2,7 @@
 category: Economy
 description: The CIO of Ranmore Funds isn’t too keen on U.S. valuations at present,
   but the beaten-down software sector is luring him back in.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-07-30T12:15:00Z'

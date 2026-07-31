@@ -5,7 +5,7 @@ countryCode: GB
 description: MOTD pundit and Newcastle United legend Alan Shearer explains why he
   is worried about what will happen next at his old club after the departure of manager
   Eddie Howe.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-30T15:10:54Z'

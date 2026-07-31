@@ -5,7 +5,7 @@ countryCode: US
 description: As the original queen bee of “Vanderpump Rules,” Stassi Schroeder struck
   fear in the hearts of her fellow SURvers while spouting off one quotable insult
   after another. With her…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-07-30T15:00:00Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran may believe it can control its conflict carefully enough to keep
   pressure on the US while avoiding an all-out war.
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 65.2
 pubDate: '2026-07-30T17:26:01Z'

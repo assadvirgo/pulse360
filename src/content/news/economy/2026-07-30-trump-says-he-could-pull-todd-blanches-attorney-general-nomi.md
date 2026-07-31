@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President’s suggestion comes as two Republican senators threaten to torpedo
   top lawyer’s confirmation process
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-07-30T16:21:42Z'

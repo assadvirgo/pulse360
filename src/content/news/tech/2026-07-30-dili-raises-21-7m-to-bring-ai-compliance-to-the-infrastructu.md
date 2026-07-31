@@ -5,7 +5,7 @@ countryCode: US
 description: The Series A was led by Khosla Ventures, with participation from Allianz,
   Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry
   Tan.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-07-30T13:00:00Z'

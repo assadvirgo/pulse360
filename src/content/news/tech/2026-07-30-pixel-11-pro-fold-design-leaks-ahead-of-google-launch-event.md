@@ -5,7 +5,7 @@ countryCode: US
 description: Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass
   has shared what appear to be marketing renders of the unannounced Google Pixel 11
   Pro Fold in a post on his…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-30T16:57:39Z'

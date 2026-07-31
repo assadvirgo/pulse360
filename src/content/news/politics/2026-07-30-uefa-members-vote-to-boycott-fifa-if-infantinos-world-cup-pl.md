@@ -2,7 +2,7 @@
 category: Politics
 description: European nations agree in virtual meeting to boycott FIFA competitions
   in protest at the private equity plan for World Cup.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-07-30T15:30:40Z'

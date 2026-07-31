@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Pakistan is facing accusations that its forces have killed unarmed protesters
   in Pakistan-administered Kashmir
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-30T15:08:58Z'

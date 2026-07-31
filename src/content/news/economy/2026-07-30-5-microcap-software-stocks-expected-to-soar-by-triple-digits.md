@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: These companies are all expected to show very rapid revenue growth through
   2028.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-07-30T15:47:00Z'

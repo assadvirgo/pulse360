@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Allrounder set to leave Kent after four-year association; Warwickshire
   bring in Championship reinforcements
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-30T14:46:05Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England confirm Joe Root to return as Test captain, while Stephen Fleming
   replaces Brendon McCullum as coach.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-07-30T11:51:07Z'

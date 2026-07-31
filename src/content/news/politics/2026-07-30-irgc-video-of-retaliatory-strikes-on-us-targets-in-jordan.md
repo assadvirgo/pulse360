@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The IRGC released a video of what they say were missiles launched by
   their naval forces targeting US aircraft in Jordan.
-displayOrder: 19
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-30T16:06:08Z'

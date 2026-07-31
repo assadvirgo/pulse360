@@ -3,7 +3,7 @@ category: Showbiz
 description: 'UPDATED: All 55 UEFA member associations have voted to boycott FIFA
   soccer competitions &#8211; including the men&#8217;s and women&#8217;s World Cups
   and the Club World Cup…'
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-30T15:27:27Z'

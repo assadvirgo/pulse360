@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: As the Trump administration tightens US sanctions, Cuba&#039;s healthcare
   sector struggles with fuel and supply shortages.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 63.5
 pubDate: '2026-07-30T16:34:12Z'

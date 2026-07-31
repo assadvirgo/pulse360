@@ -5,7 +5,7 @@ countryCode: US
 description: The email came through last week. The follow-up call may as well have
   been an email. “There wasn&#8217;t a lot of insight into their full thinking process,”
   Stacy Spikes, the…
-displayOrder: 1
+displayOrder: 8
 heroImage: ''
 importance: 65.8
 pubDate: '2026-07-30T20:17:22Z'

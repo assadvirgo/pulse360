@@ -4,7 +4,7 @@ country: Nicaragua
 countryCode: NI
 description: It is not the first time the constitution has been amended to allow Daniel
   Ortega, 80, to stay in power for longer.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-30T10:34:07Z'

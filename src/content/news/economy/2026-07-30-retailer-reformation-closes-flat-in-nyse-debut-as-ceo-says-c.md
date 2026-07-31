@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Retailer Reformation made its IPO on the New York Stock Exchange on Thursday
   under the ticker symbol "REF."
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 54.5
 pubDate: '2026-07-30T20:08:13Z'
