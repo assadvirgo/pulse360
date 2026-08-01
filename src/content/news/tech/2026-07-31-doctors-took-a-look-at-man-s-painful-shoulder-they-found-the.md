@@ -2,7 +2,7 @@
 category: Tech
 description: The term "Milwaukee Shoulder Syndrome" was coined in 1981, based on cases
   in four women.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-07-31T21:51:52Z'

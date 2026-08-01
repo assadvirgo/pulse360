@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: South Korea's Haeran Ryu bounces back from a poor start to end the second
   round as leader of the AIG Women's Open at Royal Lytham & St Annes.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-31T18:42:52Z'

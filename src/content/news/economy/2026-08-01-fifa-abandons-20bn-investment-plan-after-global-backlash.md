@@ -2,7 +2,7 @@
 category: Economy
 description: Gianni Infantino said it was ‘clear’ that stake sale project had created
   divisions and he hoped to reunite ‘interested parties’
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-01T01:57:13Z'

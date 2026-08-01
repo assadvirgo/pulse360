@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI has reportedly found evidence of additional agent misbehavior
   as it looks into the incident that occurred with Hugging Face.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-31T22:47:26Z'

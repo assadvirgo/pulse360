@@ -5,7 +5,7 @@ countryCode: GB
 description: Jos Buttler hits four sixes on his way to another half-century knock
   in the 2026 Men's Hundred, to help Manchester Super Giants post a score of 137 against
   Trent Rockets at Old…
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-31T19:12:46Z'

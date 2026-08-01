@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Humala and his wife were sentenced to 15 years last year after being
   convicted of money laundering.
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-01T03:52:25Z'

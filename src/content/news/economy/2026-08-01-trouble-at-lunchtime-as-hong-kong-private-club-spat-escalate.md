@@ -2,7 +2,7 @@
 category: Economy
 description: Golf and Tennis Academy members unhappy that Carlyle & Co members can
   now use their exclusive Town Club
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-08-01T02:10:36Z'

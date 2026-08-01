@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hearing underscores years-long partisan divide on lightning-rod issue
   fuelled by misleading White House claims.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T22:10:10Z'

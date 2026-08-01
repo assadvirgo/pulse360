@@ -3,7 +3,7 @@ category: Politics
 description: Gianni Infantino announced to Sky News that FIFA was scrapping plans
   to sell shares in the World Cup to private investors, in a climbdown following a
   global backlash that has…
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-07-31T23:01:00Z'

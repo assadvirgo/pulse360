@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: The bodies of two other climbers have already been recovered from the
   mountain, while others are still missing.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-31T20:22:46Z'

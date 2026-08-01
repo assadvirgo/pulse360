@@ -2,7 +2,7 @@
 category: Politics
 description: FIFA and its president Infantino faced fierce backlash across football
   world over plans to sell stake in World Cup.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T23:47:35Z'

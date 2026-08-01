@@ -2,7 +2,7 @@
 category: Economy
 description: New regulations require companies to label chatbots, deepfakes and AI-generated
   marketing material
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-01T04:00:05Z'

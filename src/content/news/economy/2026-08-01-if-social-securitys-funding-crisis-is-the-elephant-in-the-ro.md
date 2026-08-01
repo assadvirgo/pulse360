@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Delaying Social Security until 70 results in an increased monthly payment
   — and that comes with proportionally higher cost-of-living adjustments.”
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 52.5
 pubDate: '2026-08-01T00:25:00Z'

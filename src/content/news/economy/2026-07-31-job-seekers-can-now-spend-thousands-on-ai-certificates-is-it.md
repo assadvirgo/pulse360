@@ -2,7 +2,7 @@
 category: Economy
 description: Job hunters are pursuing AI certifications, badges and other credentials
   in hopes of standing out — and maybe getting paid more
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-07-31T20:20:00Z'
