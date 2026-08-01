@@ -5,7 +5,7 @@ countryCode: US
 description: Although any hopes of an onscreen reunion might be pointless, the cast
   of Home Improvement appears to be keeping close in real life. Patricia Richardson,
   who starred as matriarch…
-displayOrder: 7
+displayOrder: 14
 heroImage: ''
 importance: 53.0
 pubDate: '2026-08-01T03:06:43Z'

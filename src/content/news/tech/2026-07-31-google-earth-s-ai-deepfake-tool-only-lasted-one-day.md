@@ -5,7 +5,7 @@ countryCode: US
 description: Google has shut down Google Earth feature it launched Thursday that allowed
   users to edit satellite images with text prompts using AI. The tool essentially
   let users create AI…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-07-31T19:13:29Z'

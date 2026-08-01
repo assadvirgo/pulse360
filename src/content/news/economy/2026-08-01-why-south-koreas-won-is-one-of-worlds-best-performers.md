@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Currency strengthened nearly 8% against dollar last month despite tech
   stock sell-off
-displayOrder: 29
+displayOrder: 38
 heroImage: ''
 importance: 37.5
 pubDate: '2026-08-01T02:10:27Z'

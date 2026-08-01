@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Police detained several protesters in Lahore, Pakistan as they rallied
   in solidarity with Pakistan-administered Kashmir.
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 54.5
 pubDate: '2026-08-01T04:39:22Z'

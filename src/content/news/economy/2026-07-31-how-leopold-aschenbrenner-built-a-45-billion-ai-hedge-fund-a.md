@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager,
   saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
-displayOrder: 30
+displayOrder: 42
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-31T20:19:03Z'

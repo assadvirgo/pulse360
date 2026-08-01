@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The studio has until December to make a deal with the principal talent
   and Gerwig, according to the New York Times.
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-01T03:03:04Z'

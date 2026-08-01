@@ -4,7 +4,7 @@ country: Algeria
 countryCode: DZ
 description: At least 25 people have been killed and dozens others injured in a bus
   crash in Algeria.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-31T20:12:32Z'

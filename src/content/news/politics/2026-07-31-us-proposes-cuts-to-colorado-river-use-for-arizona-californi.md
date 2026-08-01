@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The proposal comes as the river faces a historic water shortage, with
   reservoirs reaching levels not seen since 1957.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T23:26:26Z'

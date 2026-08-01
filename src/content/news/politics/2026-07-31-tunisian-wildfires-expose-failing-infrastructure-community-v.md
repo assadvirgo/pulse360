@@ -4,7 +4,7 @@ country: Tunisia
 countryCode: TN
 description: For families in Tunisia&#039;s north, the wildfires have meant lost homes,
   livestock and harvests.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-07-31T16:06:05Z'
