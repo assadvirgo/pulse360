@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microsoft earnings provided optimism for the AI trade, as did the trading
   activity surrounding a hedge fund’s fire sale.
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 47.5
 pubDate: '2026-07-31T18:29:00Z'

@@ -5,7 +5,7 @@ countryCode: TR
 description: The "heartbroken" family of a man who died following an alleged assault
   in Turkey have described him as a "devoted" father whose "kindness and loyalty touched
   countless lives".
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-31T15:06:00Z'

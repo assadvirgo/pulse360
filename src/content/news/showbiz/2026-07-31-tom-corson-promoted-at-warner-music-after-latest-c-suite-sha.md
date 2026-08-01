@@ -5,7 +5,7 @@ countryCode: US
 description: The respected Warner Records exec will step in for Armin Zerza, who leaves
   a year after joining. Meanwhile, Louis Dickler will serve as interim CFO as the
   label search for a…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-31T22:03:25Z'

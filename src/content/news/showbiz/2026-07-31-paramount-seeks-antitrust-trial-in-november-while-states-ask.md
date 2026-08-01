@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount Skydance asked a judge on Friday to schedule its upcoming antitrust
   trial in November, while a coalition of states and the Writers Guild of America
   asked for a date in…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-07-31T20:10:34Z'

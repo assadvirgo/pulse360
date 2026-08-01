@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New York is one of many states with cases against Kalshi and others in
   dispute with Trump gov&#039;t on who gets to regulate.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T17:52:23Z'

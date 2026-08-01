@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Hamas says it has accepted a disarmament plan for Gaza which will see
   it lay down its arms and Israeli troops withdraw from the territory.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-31T16:00:56Z'

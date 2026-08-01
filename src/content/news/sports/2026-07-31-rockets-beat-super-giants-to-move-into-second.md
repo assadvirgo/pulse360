@@ -5,7 +5,7 @@ countryCode: GB
 description: Half-centuries from Sophia Dunkley and Sophie Luff help Trent Rockets
   beat Manchester Super Giants by 31 runs and move above their opponents into second
   in the Hundred table.
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 44.2
 pubDate: '2026-07-31T17:00:46Z'

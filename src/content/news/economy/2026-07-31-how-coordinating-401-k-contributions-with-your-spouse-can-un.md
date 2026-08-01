@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: There are financial challenges that come with being in a couple, but
   one of the greatest may be simply talking about money.
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-31T18:04:00Z'

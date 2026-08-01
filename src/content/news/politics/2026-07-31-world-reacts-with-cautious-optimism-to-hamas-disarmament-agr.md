@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Deal for Hamas to disarm in stages in return for Israeli withdrawal has
   been announced, but implementation will be key.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T18:51:50Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: As the Owens women reunite for Practical Magic 2, the two newest members
   of the onscreen family hope to do fans proud. Joey King and Maisie Williams, who
   play Sally Owens&#8217;…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-07-31T21:24:16Z'

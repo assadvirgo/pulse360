@@ -5,7 +5,7 @@ countryCode: US
 description: Tom Corson has been promoted to Chief Operating Officer at Warner Music
   Group, upping his role from Co-Chairman and Chief Operating Officer of Warner Records.
   Corson, who joined…
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 62.8
 pubDate: '2026-07-31T20:57:47Z'
