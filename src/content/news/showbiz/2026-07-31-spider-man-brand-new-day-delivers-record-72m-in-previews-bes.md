@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tom Holland, Zendaya and Jon Bernthal lead Sony's superhero feature that
   is spinning toward a stunning opening.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-31T14:57:16Z'

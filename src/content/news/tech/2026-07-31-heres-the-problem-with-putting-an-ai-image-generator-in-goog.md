@@ -5,7 +5,7 @@ countryCode: US
 description: A text prompt was all it took to generate reality-warping images using
   Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature,
   like these images…
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 62.2
 pubDate: '2026-07-31T17:05:46Z'

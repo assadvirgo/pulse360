@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Under a US-backed proposal, Hamas and Israel would have 14 days to finalise
   Gaza&#039;s political transition
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-07-31T16:35:17Z'

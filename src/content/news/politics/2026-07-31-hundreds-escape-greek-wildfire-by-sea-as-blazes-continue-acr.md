@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Around 500 people, mostly tourists, are evacuated by boat from Agios
   Vasileios after becoming trapped.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-07-31T14:26:07Z'

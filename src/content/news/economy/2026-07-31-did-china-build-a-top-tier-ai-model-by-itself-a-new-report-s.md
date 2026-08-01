@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Alibaba has an agreement for Moonshot to use its Nvidia H200s, according
   to Bloomberg — but the Chinese tech giant pushed back against the report.
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 40.5
 pubDate: '2026-07-31T20:23:00Z'

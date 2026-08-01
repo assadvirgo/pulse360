@@ -5,7 +5,7 @@ countryCode: US
 description: Several record labels, including the big three - Universal Music Group,
   Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility
   for AI songs. In…
-displayOrder: 3
+displayOrder: 14
 heroImage: ''
 importance: 66.2
 pubDate: '2026-07-31T16:36:48Z'

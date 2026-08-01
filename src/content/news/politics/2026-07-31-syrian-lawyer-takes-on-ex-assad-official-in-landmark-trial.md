@@ -3,7 +3,7 @@ category: Politics
 country: Syria
 countryCode: SY
 description: Syrian lawyer takes on ex-Assad official in landmark trial
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-31T18:11:15Z'

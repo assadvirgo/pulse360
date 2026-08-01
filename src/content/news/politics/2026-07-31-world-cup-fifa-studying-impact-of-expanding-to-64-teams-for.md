@@ -2,7 +2,7 @@
 category: Politics
 description: FIFA&#039;s World Cup 2026 expansion was their first since 1998, but
   the 2030 edition could rise to 64 teams.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-31T15:05:55Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Prime minister has not yet commented on US president’s claim that Hamas
   has agreed to disarm
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-31T11:38:41Z'

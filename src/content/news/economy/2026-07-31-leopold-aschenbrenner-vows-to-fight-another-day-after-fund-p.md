@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Manager of AI hedge fund Situational Awareness tells investors he will
   learn from ‘very expensive scars’
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-07-31T18:00:23Z'

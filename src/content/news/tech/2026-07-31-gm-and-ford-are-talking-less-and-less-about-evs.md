@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The leading U.S. automakers are mentioning EVs on their investor calls
   at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-07-31T15:47:46Z'

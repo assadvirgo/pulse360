@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Mass arrival at enclave of Ceuta is ‘violation of . . . territorial integrity’,
   says Pedro Sánchez
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-07-31T17:14:42Z'

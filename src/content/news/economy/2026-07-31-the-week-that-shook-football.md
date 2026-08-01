@@ -2,7 +2,7 @@
 category: Economy
 description: How Fifa’s proposal to open up the global game to investors unfolded
   — and invited a backlash that could yet topple its controversial president
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-07-31T16:30:00Z'

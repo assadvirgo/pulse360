@@ -5,7 +5,7 @@ countryCode: FR
 description: French President Emmanuel Macron will bring together some of the world’s
   most powerful entertainment executives in the medieval hilltop village of Saint-Paul-de-Vence
   on Sept. 7…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-07-31T17:39:10Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: The realities of politics, war, zero trust, the deaths of thousands and
   the destruction of Gaza will make any agreement very complicated.
-displayOrder: 22
+displayOrder: 37
 heroImage: ''
 importance: 55.2
 pubDate: '2026-07-31T15:18:31Z'
