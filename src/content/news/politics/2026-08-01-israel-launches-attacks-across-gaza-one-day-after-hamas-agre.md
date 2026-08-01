@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli attacks across Gaza have killed at least two Palestinians, hours
   after Hamas agreed to a draft peace deal.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-08-01T00:48:37Z'

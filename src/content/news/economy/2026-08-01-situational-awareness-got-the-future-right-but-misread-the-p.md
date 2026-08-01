@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Leopold Aschenbrenner thought AI-related stocks would go one way; they
   went the other. The mistake was funding the trades with debt
-displayOrder: 25
+displayOrder: 46
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-01T04:00:32Z'

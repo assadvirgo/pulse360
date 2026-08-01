@@ -2,7 +2,7 @@
 category: Politics
 description: The BBC's Shaimaa Khalil explains why Gianni Infantino has backed down
   on his controversial investment proposal.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-08-01T02:44:09Z'

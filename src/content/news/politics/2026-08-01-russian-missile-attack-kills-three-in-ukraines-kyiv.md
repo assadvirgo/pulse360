@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Residents trapped as partially collapsed building catches fire after
   deadly strike on Ukrainian capital.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-08-01T02:06:00Z'

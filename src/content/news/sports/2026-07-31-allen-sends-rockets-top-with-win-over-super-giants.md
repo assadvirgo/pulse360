@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Finn Allen strikes an unbeaten 72 as Trent Rockets beat Manchester Super
   Giants by six wickets to leapfrog their opponents and move top of the Hundred table.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-07-31T20:35:05Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The attack comes as Moscow escalates deadly ballistic missile attacks
   on the Ukrainian capital.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-08-01T08:24:09Z'

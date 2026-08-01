@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Iranian Kurdish groups based in Iraq have been heavily attacked in the
   war, but most deny US assistance.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-01T09:47:39Z'

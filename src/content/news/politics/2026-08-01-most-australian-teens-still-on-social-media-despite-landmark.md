@@ -5,7 +5,7 @@ countryCode: AU
 description: Australia has defended its world-first ban on ‌social media for under-16s
   after a study found there had been little drop in use months after the ban took
   effect.
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 46.0
 pubDate: '2026-08-01T07:48:00Z'

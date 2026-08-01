@@ -2,7 +2,7 @@
 category: Politics
 description: How FIFA President Gianni Infantino was forced abandon his World Cup
   equity plan after seismic backlash across football.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-01T01:10:58Z'

@@ -5,7 +5,7 @@ countryCode: CH
 description: Gianni Infantino, the embattled president of soccer’s governing body
   FIFA, has abandoned his controversial plan to create a $20 billion company, FIFA
   Forward Enterprise, that…
-displayOrder: 6
+displayOrder: 23
 heroImage: ''
 importance: 62.8
 pubDate: '2026-08-01T06:41:10Z'
