@@ -5,7 +5,7 @@ countryCode: US
 description: Yesterday the Metropolitan Museum of Art and Vogue magazine announced
   that designer John Galliano, who has sometimes been as personally controversial
   as he is professionally…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-08-01T13:49:03Z'

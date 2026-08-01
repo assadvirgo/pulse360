@@ -5,7 +5,7 @@ countryCode: US
 description: '“Spider-Man: Brand New Day” came out swinging at the domestic box office.
   “Brand New Day” grossed an astounding $168 million from 4,487 North American theaters
   on Friday, securing…'
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 51.8
 pubDate: '2026-08-01T15:55:21Z'

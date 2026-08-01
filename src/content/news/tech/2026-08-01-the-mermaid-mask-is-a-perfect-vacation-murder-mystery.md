@@ -3,7 +3,7 @@ category: Tech
 description: The Mermaid Mask, the next point-and-click game from Tangle Tower developer
   SFB Games, has everything you could ask for in a great murder mystery. It starts
   with a compelling…
-displayOrder: 15
+displayOrder: 26
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-01T13:00:00Z'

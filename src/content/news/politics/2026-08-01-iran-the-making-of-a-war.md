@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: From coup to conflict - how decades of rivalries and miscalculations
   have shaped one of today’s most dangerous wars.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-01T10:30:00Z'

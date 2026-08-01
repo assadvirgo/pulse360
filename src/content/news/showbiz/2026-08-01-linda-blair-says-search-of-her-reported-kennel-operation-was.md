@@ -5,7 +5,7 @@ countryCode: US
 description: Linda Blair, the Exorcist star-turned-animal rescue activist, says she&#8217;s
   doing fine after her Southern California property was searched by the Los Angeles
   County Department…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-01T16:04:35Z'

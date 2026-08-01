@@ -5,7 +5,7 @@ countryCode: US
 description: Tom Holland is back with a vengeance as the Marvel web-slinger in Sony's
   superhero feature that lands the best Friday sum of all time and is topping the
   impressive debut for…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-08-01T15:27:56Z'

@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Poor weather has been hampering the search for seven still missing after
   Thursday's avalanche on Broad Peak.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-08-01T07:22:30Z'

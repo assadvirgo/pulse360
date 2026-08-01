@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Ballistic experts say the dozens of tiny round punctures are tell-tale
   signs of pellet gun injuries.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-01T15:00:07Z'

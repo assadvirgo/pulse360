@@ -4,7 +4,7 @@ country: Sri Lanka
 countryCode: LK
 description: Former officials will appeal sentences handed down for neglecting intelligence
   warnings before the deadly attacks.
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 56.5
 pubDate: '2026-08-01T15:34:15Z'

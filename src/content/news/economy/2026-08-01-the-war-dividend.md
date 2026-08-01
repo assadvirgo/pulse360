@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: External threats should make western societies less polarised in future
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-01T04:00:24Z'

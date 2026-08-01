@@ -5,7 +5,7 @@ countryCode: GB
 description: '&#8220;The Inbetweeners&#8221; — the hit Brit teen comedy series from
   the late 2000s that spawned two successful spin-off films — is officially back.
   A reunion movie is now in the…'
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-08-01T09:17:30Z'

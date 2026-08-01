@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Ollanta Humala had been convicted of money laundering offences alongside
   his wife in 2025.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-08-01T02:21:29Z'

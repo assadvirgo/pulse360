@@ -2,7 +2,7 @@
 category: Economy
 description: The fertilizer trade as it relates to the Iran war and the Strait of
   Hormuz is really three trades pointed in different directions.
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-01T11:30:00Z'

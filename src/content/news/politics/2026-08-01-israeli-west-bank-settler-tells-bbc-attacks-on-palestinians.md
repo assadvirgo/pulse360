@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Settler violence against Palestinians is on the rise in the West Bank,
   as settlements and outposts expand.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-08-01T05:01:56Z'

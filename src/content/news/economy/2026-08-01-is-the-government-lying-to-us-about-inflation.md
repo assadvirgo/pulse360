@@ -5,7 +5,7 @@ countryCode: US
 description: The concern is understandable, since the consumer-price index affects
   everything from Social Security’s annual cost-of-living adjustment to the interest
   rate earned by investors…
-displayOrder: 24
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-01T11:00:00Z'

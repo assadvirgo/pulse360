@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some homeowners spend big bucks to upgrade their house, only to end up
   having second thoughts.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-01T14:00:00Z'
