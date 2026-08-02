@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: Singapore barred two members of British band Massive Attack from re-entering
   the country.
-displayOrder: 4
+displayOrder: 6
 heroImage: ''
 importance: 56.5
 pubDate: '2026-08-01T23:57:30Z'

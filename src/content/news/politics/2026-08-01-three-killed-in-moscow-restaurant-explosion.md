@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The deadly blast took place in a venue near the centre of the city, but
   the cause is currently unclear.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-01T19:34:09Z'

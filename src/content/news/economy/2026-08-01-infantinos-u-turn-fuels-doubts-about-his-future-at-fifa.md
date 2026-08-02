@@ -2,7 +2,7 @@
 category: Economy
 description: The president of football’s governing body was expected to stand for
   re-election unopposed, but now criticism is mounting
-displayOrder: 23
+displayOrder: 32
 heroImage: ''
 importance: 55.5
 pubDate: '2026-08-01T15:32:29Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Hundreds of thousands of people have taken part in Pride events in the
   UK and mainland Europe, a week after a deadly extremist attack on a Pride festival
   in Berlin.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-01T18:51:00Z'

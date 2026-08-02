@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Brentford confirmed the signing of Mali midfielder Mamadou Sangare from
   Lens for a club record fee.
-displayOrder: 35
+displayOrder: 40
 heroImage: ''
 importance: 42.2
 pubDate: '2026-08-01T16:48:26Z'

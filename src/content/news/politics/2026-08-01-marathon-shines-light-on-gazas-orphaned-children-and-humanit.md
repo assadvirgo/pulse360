@@ -2,7 +2,7 @@
 category: Politics
 description: More than 58,000 children have lost one or both parents by Israel&#039;s
   war, highlighting urgent humanitarian challenges.
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-01T17:57:18Z'

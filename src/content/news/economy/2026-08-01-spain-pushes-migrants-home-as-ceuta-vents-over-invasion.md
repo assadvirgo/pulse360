@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Soldiers round up Moroccans hoping to remain in the enclave in the face
   of local opposition
-displayOrder: 9
+displayOrder: 13
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-01T22:43:08Z'

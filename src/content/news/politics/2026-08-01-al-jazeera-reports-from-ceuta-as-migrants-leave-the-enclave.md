@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain says “virtually all” of the estimated 60,000 migrants who stormed
   its North African enclave of Ceuta have left.
-displayOrder: 8
+displayOrder: 14
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-01T21:15:50Z'

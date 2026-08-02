@@ -2,7 +2,7 @@
 category: Politics
 description: Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa
   Martyrs Hospital, staff say.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-01T14:07:36Z'
