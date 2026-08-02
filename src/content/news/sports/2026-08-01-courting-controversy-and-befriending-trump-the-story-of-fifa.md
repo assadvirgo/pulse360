@@ -2,7 +2,7 @@
 category: Sports
 description: Gianni Infantino has clashed with unions and European football, but after
   10 years as Fifa president he remains in a powerful position.
-displayOrder: 21
+displayOrder: 39
 heroImage: ''
 importance: 62.2
 pubDate: '2026-08-01T10:18:23Z'

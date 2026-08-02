@@ -4,7 +4,7 @@ country: Tuvalu
 countryCode: TV
 description: A boxer from the tiny Pacific island of Tuvalu has won her country's
   first Commonwealth Games medal without winning a fight.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-08-01T15:15:00Z'

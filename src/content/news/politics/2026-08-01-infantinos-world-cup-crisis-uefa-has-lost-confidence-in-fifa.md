@@ -2,7 +2,7 @@
 category: Politics
 description: UEFA, who were the strongest opponents of FIFA&#039;s plan, slam the
   Gianni Infantino-led governing body despite standdown.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-01T10:05:45Z'

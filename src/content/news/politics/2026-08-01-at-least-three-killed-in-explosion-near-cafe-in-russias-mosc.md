@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: ⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities
   say.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-01T18:22:35Z'

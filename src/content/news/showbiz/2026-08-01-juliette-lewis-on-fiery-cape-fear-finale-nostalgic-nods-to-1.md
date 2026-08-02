@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This post contains spoilers for “The Executioners,” the
   finale of “Cape Fear,” now streaming on Apple TV. Nothing good ever happens on a
   houseboat in a “Cape Fear”…'
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 52.8
 pubDate: '2026-08-01T18:00:00Z'

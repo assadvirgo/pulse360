@@ -5,7 +5,7 @@ countryCode: PK
 description: 'Nirmal Purja, the British-Nepali mountaineer whose renowned career was
   featured in the 2021 Netflix documentary 14 Peaks: Nothing Is Impossible, died in
   an avalanche on Broad Peak…'
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-01T18:09:26Z'

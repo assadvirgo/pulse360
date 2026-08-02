@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: The outspoken artist was detained in mid-July for ‘insulting a constitutional
   institution&#039;.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-01T16:15:24Z'

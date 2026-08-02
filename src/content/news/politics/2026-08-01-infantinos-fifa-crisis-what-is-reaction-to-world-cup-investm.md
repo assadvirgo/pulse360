@@ -2,7 +2,7 @@
 category: Politics
 description: Backlash to FIFA&#039;s private investment plan for World Cups and events
   was huge; now football reacts to U-turn&#039;s fallout.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-01T13:59:19Z'

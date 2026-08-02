@@ -5,7 +5,7 @@ countryCode: US
 description: After a thrilling and dazzling Night of Champions, WWE travels to Minnesota
   for an epic WWE SummerSlam &#8212; a premium live event starting on Saturday, Aug.
   1. The two-night…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-08-01T19:00:00Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: If you’re looking to cut back on screen time and get a little more active,
   here’s a roundup of the apps that might help.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-01T14:00:00Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The airline is ‘getting on with the times,’ one fund manager says
-displayOrder: 41
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-01T12:00:00Z'

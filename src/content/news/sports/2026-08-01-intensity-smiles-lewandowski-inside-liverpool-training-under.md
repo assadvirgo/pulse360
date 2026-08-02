@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Liverpool's pre-season under Andoni Iraola is ramping up - and here is
   what we learned from the first open training session under their new boss.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-01T07:42:28Z'

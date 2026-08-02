@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously
   raised the issue of the enclave
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-01T13:50:36Z'

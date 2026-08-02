@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Most migrants who reached Spain's North African territory of Ceuta from
   Morocco have returned, officials said.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-01T12:04:46Z'
