@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli ceasefire violations mount as strikes target critical Gaza infrastructure
   and residential buildings
-displayOrder: 10
+displayOrder: 30
 heroImage: ''
 importance: 73.5
 pubDate: '2026-08-02T02:58:51Z'

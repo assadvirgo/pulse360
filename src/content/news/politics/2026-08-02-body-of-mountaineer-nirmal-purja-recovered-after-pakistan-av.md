@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: The renowned climber was known for scaling the world's 14 highest peaks
   in just over six months in 2019.
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-02T10:11:26Z'

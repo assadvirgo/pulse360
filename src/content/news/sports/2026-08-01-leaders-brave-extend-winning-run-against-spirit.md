@@ -5,7 +5,7 @@ countryCode: GB
 description: Leaders Southern Brave extend their unbeaten run to five matches against
   London Spirit while Birmingham Phoenix pick up their first win with a nail-biting
   seven-wicket victory…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-08-01T16:53:18Z'

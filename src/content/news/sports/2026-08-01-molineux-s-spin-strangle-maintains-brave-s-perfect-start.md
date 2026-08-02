@@ -1,7 +1,7 @@
 ---
 category: Sports
 description: Bouchier leads run chase as Spirit fall to third defeat in four
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-01T17:04:57Z'
