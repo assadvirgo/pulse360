@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Tehran’s military raised the stakes with Washington by further expanding
   the battle across the Middle East
-displayOrder: 13
+displayOrder: 27
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-02T05:37:40Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament
   and Israeli withdrawal.
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-02T02:58:51Z'

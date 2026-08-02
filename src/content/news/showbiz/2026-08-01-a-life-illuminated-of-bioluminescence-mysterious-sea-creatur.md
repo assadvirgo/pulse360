@@ -5,7 +5,7 @@ countryCode: US
 description: Director Tasha Van Zandt went to great lengths to make her documentary
   A Life Illuminated – and to enormous depths. More than 3,000 feet, in fact. Van
   Zandt descended over half a…
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 56.0
 pubDate: '2026-08-01T23:33:11Z'

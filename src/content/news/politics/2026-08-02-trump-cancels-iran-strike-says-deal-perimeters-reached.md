@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president announced that he has cancelled a planned military strike
   on Iran, claiming progress in talks.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 67.5
 pubDate: '2026-08-02T03:36:43Z'

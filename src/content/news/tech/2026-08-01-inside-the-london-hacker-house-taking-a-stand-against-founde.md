@@ -3,7 +3,7 @@ category: Tech
 country: United Kingdom
 countryCode: GB
 description: How one founder house is betting work-life balance can beat burnout .
-displayOrder: 33
+displayOrder: 40
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-01T21:14:48Z'

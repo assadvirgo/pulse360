@@ -5,7 +5,7 @@ countryCode: CA
 description: He played an unhinged ex-boyfriend in ‘Daddy’s Gone a-Hunting’ and lots
   of other bad guys before landing on the cop show that aired on Canada’s CTV and
   CBS.
-displayOrder: 32
+displayOrder: 39
 heroImage: ''
 importance: 44.8
 pubDate: '2026-08-01T23:24:47Z'

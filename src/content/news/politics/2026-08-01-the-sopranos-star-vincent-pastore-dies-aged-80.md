@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pastore, who played Salvatore "Big Pussy" Bonpensiero in the hit US show,
   was found at his home in New York City, US media report.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 65.2
 pubDate: '2026-08-01T22:57:55Z'

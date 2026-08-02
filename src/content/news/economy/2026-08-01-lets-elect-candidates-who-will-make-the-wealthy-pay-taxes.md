@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: We can use some of those revenues to make Social Security contributions
   more equitable.
-displayOrder: 41
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-01T18:30:00Z'

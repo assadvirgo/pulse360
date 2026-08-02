@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: For Kieran Dodds, photographing people with red hair has become something
   of an obsession over the past decade or more.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-01T22:06:18Z'

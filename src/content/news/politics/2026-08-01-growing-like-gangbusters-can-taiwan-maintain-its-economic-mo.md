@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts
   warn that problems could arise with Trump, China.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-01T23:15:40Z'

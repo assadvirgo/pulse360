@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Senate race in Michigan comes to embody Democratic rift over Israel,
   as AIPAC spends heavily against progressive doctor.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-01T22:31:52Z'

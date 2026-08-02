@@ -2,7 +2,7 @@
 category: Politics
 description: A growing number of what the internet has dubbed "loneliness influencers"
   are spotlighting solo living without children or friends - and it's spurring debate.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-01T23:56:19Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Pressure is building on Gianni Infantino. Can he survive as Fifa president
   after the implosion of the controversial World Cup investment plan?
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 65.2
 pubDate: '2026-08-01T22:23:20Z'

@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The current strain has so far killed 1,587 people, and there is currently
   no approved vaccine or treatment.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 82.2
 pubDate: '2026-08-01T16:16:16Z'

@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Footage shows firefighters dousing the wreckage of a crashed tourist
   aircraft in southern Peru.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-02T01:46:22Z'
