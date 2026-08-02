@@ -3,7 +3,7 @@ category: Showbiz
 description: 'Looking to watch the biggest movies of the year? You&#8217;ll have to
   go to the theater this August to catch &#8220;The Odyssey&#8221; and &#8220;Spider-Man:
   Brand New Day,&#8221;…'
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-02T15:59:02Z'

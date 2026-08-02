@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Fourteen Israeli soldiers have been sentenced to military prison after
   leading an unauthorised walkout from Sde Teiman.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-02T10:31:32Z'

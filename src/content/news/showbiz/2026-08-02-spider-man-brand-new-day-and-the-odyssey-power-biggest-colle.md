@@ -5,7 +5,7 @@ countryCode: US
 description: 'A powerful one-two punch from &#8220;Spider-Man: Brand New Day&#8221;
   and &#8220;The Odyssey&#8221; have fueled the biggest collective weekend in box
   office history, with roughly…'
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-02T16:09:06Z'

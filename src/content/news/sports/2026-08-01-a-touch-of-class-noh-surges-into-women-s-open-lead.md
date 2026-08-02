@@ -5,7 +5,7 @@ countryCode: GB
 description: Watch the best of Yealimi Noh's third round at the AIG Women's Open,
   including a strong back nine that pushed her into the lead going into the final
   day.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-01T18:12:20Z'

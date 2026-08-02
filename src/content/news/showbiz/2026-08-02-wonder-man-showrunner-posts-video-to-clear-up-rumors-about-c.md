@@ -5,7 +5,7 @@ countryCode: US
 description: As Wonder Man fans are left reeling in confusion over the show&#8217;s
   shock cancellation, Andrew Guest has some answers. On Saturday night, the co-creator
   and showrunner shared a…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-08-02T15:53:39Z'

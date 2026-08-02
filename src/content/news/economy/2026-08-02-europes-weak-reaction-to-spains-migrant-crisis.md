@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Pedro Sánchez is being unfairly singled out for a liberal immigration
   policy
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-02T15:53:06Z'

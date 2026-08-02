@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Hundreds of residents in Spain&#039;s North African enclave of Ceuta
   gathered to oppose a planned far-right rally.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-02T09:55:06Z'

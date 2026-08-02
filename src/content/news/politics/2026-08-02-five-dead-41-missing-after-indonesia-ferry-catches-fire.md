@@ -3,7 +3,7 @@ category: Politics
 country: Indonesia
 countryCode: ID
 description: The vessel with at least 250 people on board caught fire off Madura island.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-02T11:49:40Z'

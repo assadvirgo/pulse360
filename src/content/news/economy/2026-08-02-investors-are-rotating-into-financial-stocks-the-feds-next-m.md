@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Financial stocks have been among the market’s best performers this month.
   The Fed’s next move, however, may determine how much further the rotation can run.
-displayOrder: 33
+displayOrder: 39
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-02T12:00:00Z'

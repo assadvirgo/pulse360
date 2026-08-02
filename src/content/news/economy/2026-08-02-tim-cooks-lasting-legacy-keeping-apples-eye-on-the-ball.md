@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple has been phenomenally profitable because its CEO resisted demands
   to change the business’s focus.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-02T11:00:00Z'

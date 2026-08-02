@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Despite a lawsuit from xAI, a Minnesota ban on apps that allow users
   to “nudify” images can move forward.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-08-01T20:26:04Z'

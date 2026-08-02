@@ -3,7 +3,7 @@ category: Tech
 description: Illustrators have spent years sounding the alarm about generative artificial
   intelligence startups training their models on artists' work without permission.
   They've pointed out…
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 56.2
 pubDate: '2026-08-02T13:00:00Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: 'Spider-Man: Brand New Day with a $927M global opening at 90,000 screens
   worldwide was the second best ever for the motion picture industry, behind Avengers:
   Endgame&#8216;s…'
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-02T15:53:33Z'

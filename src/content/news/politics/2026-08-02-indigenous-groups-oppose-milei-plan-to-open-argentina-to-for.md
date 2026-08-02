@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Indigenous people protested in Buenos Aires against a bill opening foreign
   ownership of rural land in Argentina.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-08-02T11:09:25Z'
