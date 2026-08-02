@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: iPhone maker has limited the number of vulnerabilities researchers can
   submit to manage wave of reports
-displayOrder: 11
+displayOrder: 18
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-02T04:00:06Z'

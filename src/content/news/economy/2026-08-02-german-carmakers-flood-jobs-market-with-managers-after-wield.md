@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Volkswagen approaches headhunter to find positions for hundreds of departing
   managers
-displayOrder: 20
+displayOrder: 26
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-02T04:00:06Z'

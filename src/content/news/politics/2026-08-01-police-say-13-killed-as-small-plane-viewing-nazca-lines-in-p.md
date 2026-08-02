@@ -4,7 +4,7 @@ country: Peru
 countryCode: PE
 description: Those killed included 11 passengers and two pilots flying over the famous
   archeological site, recognised by UNESCO.
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-01T20:57:04Z'

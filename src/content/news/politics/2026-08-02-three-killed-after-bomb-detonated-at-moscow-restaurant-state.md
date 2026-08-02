@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Security officials said a woman tried to enter the restaurant with explosives
   but was stopped by a security guard.
-displayOrder: 24
+displayOrder: 31
 heroImage: ''
 importance: 45.2
 pubDate: '2026-08-02T00:02:18Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Despite Manchester City's penalty-shootout defeat by Inter Milan, teenager
   Ryan McAidoo grabs the opportunity to show manager Enzo Maresca what he can do.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-01T15:27:44Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president said he would push ahead with the controversial fund
   if his attorney general pick is not approved.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-08-01T17:48:41Z'

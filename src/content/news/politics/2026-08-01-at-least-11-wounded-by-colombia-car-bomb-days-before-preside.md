@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: President-elect Abelardo de la Espriella pledges to pursue harsh crackdown
   on rebel groups and criminal organisations.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-08-01T15:48:39Z'

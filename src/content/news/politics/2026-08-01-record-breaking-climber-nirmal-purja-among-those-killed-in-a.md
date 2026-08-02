@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: 14 Peaks star Nirmal Purja has died in an avalanche while leading 10
   climbers up Broad Peak mountain in Pakistan.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-01T20:10:01Z'

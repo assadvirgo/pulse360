@@ -5,7 +5,7 @@ countryCode: US
 description: In a Friday report, sources told The Wall Street Journal that California's
   governor has said if the merger is blocked due to the lawsuit, state employment
   will suffer, and that…
-displayOrder: 3
+displayOrder: 7
 heroImage: ''
 importance: 65.8
 pubDate: '2026-08-01T23:46:57Z'

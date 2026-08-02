@@ -5,7 +5,7 @@ countryCode: US
 description: In a title bout for the championship, American Lamont Roach, Jr. takes
   on Mexican boxer William Zepeda in a 12-round match. What&#8217;s on the line? The
   vacant WBC Lightweight…
-displayOrder: 27
+displayOrder: 34
 heroImage: ''
 importance: 48.8
 pubDate: '2026-08-01T21:00:00Z'
