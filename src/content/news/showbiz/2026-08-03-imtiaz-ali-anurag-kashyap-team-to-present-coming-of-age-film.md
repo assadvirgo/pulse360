@@ -5,7 +5,7 @@ countryCode: IN
 description: Indian auteurs Imtiaz Ali and Anurag Kashyap have come together to present
   &#8220;Bobby Beauty Parlour,&#8221; a coming-of-age short film premiering during
   Friendship Week.…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-03T04:30:00Z'

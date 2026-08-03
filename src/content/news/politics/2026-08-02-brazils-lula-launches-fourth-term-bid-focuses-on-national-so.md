@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Lula seeks to use Bolsonaro family ties with Trump to cast election as
   fight against submission to foreign interests.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 70.5
 pubDate: '2026-08-02T23:37:16Z'

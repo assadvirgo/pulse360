@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: The UK band says they are "surprised and disappointed" by their treatment
   over shouting "free Palestine" at a concert there.
-displayOrder: 18
+displayOrder: 28
 heroImage: ''
 importance: 45.2
 pubDate: '2026-08-03T01:31:05Z'

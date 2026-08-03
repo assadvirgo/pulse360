@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oil falls on signs of de-escalation as Tehran says a deal with Oman to
   reopen Strait of Hormuz to shipping was close
-displayOrder: 34
+displayOrder: 39
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-03T01:24:32Z'

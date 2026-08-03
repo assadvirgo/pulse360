@@ -5,7 +5,7 @@ countryCode: GB
 description: Tottenham make an approach for Victor Osimhen, Atletico Madrid consider
   a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has
   positive talks with…
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-08-02T20:51:23Z'

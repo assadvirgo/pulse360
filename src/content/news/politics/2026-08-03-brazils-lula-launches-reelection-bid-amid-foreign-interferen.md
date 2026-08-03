@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Brazil&#039;s President Luiz Inácio Lula da Silva has officially launched
   his reelection campaign.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 77.5
 pubDate: '2026-08-03T02:54:25Z'

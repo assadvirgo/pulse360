@@ -2,7 +2,7 @@
 category: Economy
 description: Governments have stopped correcting budget deficits but — so far — bond
   markets have let them
-displayOrder: 36
+displayOrder: 38
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-03T04:00:13Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Rashid Khan takes 5-17 as MI London defeat Manchester Super Giants by
   45 runs in The Hundred, while Ben Duckett strikes a half-century as Trent Rockets
   beat Sunrisers Leeds by…
-displayOrder: 31
+displayOrder: 37
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-02T20:10:40Z'

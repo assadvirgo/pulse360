@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Tens of thousands of people have been killed in the ongoing war between
   army chief al-Burhan and RSF commander Dagalo.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-02T22:51:09Z'

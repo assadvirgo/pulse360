@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy
   warns of critical Patriot interceptor shortages
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-02T18:37:23Z'

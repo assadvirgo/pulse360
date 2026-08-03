@@ -4,7 +4,7 @@ country: Cuba
 countryCode: CU
 description: Cuba’s ageing power grid collapsed on Sunday after a weekend of outages
   and amid US-imposed fuel shortages.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 60.5
 pubDate: '2026-08-03T04:35:39Z'

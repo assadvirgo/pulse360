@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Five more bodies have been found along Ceuta&#039;s coastline as enclave
   recovers from unprecedented border influx.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-08-02T17:15:56Z'

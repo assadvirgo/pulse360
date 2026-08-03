@@ -2,7 +2,7 @@
 category: Economy
 description: Amid geopolitical barriers that risk slowing progress and trade, Europe
   can become a trusted connector
-displayOrder: 23
+displayOrder: 31
 heroImage: ''
 importance: 37.5
 pubDate: '2026-08-03T04:00:13Z'

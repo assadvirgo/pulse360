@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Financial companies hope to modernise markets with the technology but
   systemic risks remain
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 37.5
 pubDate: '2026-08-03T04:00:04Z'

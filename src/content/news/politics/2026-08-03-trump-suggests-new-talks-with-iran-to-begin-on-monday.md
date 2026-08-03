@@ -5,7 +5,7 @@ countryCode: US
 description: Tehran has not responded to the suggestion that new talks are imminent.
   Trump has previously said a negotiated end to the war is close, only for strikes
   to resume.
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-03T00:11:18Z'

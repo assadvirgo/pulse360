@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amazon is the latest Big Tech company to report abnormally large earnings
   growth, thanks to paper gains on Anthropic investments.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-08-02T14:00:00Z'

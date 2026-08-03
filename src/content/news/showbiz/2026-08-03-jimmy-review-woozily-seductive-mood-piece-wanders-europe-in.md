@@ -3,7 +3,7 @@ category: Showbiz
 description: '&#8220;If not me, who?&#8221; said actor Billy Porter in a 2024 Guardian
   interview, explaining the rationale for his plan to direct and star in a biopic
   of Black queer author and…'
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-08-03T00:13:33Z'
