@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Swiss bank failed to implement adequate curbs despite previous sanction
   by US regulators
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-03T15:53:15Z'

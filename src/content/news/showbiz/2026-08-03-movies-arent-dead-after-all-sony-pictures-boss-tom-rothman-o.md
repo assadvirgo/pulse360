@@ -5,7 +5,7 @@ countryCode: US
 description: '“So I guess movies aren&#8217;t dead after all?” That’s the understated
   reaction from Tom Rothman, chairman of Sony Pictures, after “Spider-Man: Brand New
   Day” obliterated box…'
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 61.8
 pubDate: '2026-08-03T16:15:00Z'

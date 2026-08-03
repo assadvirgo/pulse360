@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Rashid Khan takes a five-wicket haul as MI London defeat the Manchester
   Super Giants by 45 runs to move up to second in the Men's Hundred table.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-02T20:56:05Z'

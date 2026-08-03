@@ -2,7 +2,7 @@
 category: Politics
 description: FIFA boss Gianni Infantino turned to Donald Trump to save his job amid
   revolt against World Cup privatisation plan.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 51.5
 pubDate: '2026-08-03T14:18:48Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Strategists at the bank see non-U.S. shares performing well in the second
   half of the year and prefer semiconductor stocks to hyperscalers.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-03T15:03:00Z'

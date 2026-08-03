@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Thousands of migrants remain in Ceuta after a mass rush from Morocco
   into the Spanish enclave last week, the enclave's president has said.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-03T12:44:00Z'

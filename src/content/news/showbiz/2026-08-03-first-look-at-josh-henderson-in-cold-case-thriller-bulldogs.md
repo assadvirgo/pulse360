@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Cole Mueller&#8217;s cold case crime thriller Bulldogs has
   unveiled first images as filming gets underway in L.A. with Josh Henderson leading
   the cast and serving as…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-08-03T16:30:00Z'

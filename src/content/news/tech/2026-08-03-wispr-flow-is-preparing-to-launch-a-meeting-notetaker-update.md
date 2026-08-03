@@ -2,7 +2,7 @@
 category: Tech
 description: Wispr Flow's new terms of service indicate it will introduce a notetaker
   that generates meeting summaries and action items.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 53.0
 pubDate: '2026-08-03T16:29:30Z'

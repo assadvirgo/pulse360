@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: Aung San Suu Kyi has met a Red Cross representative in her first confirmed
   contact with a foreign official since 2021.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-03T12:56:43Z'

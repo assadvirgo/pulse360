@@ -3,7 +3,7 @@ category: Tech
 description: The communication-free form of breaking up has become ubiquitous. “I
   no longer had to bear her energy,” a man who ghosted his partner of four years tells
   WIRED.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-08-03T11:00:00Z'

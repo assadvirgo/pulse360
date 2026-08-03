@@ -5,7 +5,7 @@ countryCode: US
 description: A &#8220;Warhammer 40,000&#8221; animated event series is in development
   from Amazon MGM Studios, Blur Studios, and Games Workshop, Variety has learned exclusively.
   In addition,…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-03T13:00:00Z'

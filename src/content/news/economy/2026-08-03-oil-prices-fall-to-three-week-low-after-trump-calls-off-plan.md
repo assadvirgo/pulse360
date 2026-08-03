@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oil prices declined sharply on Monday as hopes rose among investors of
   a potential de-escalation in the war between the U.S. and Iran.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-03T10:26:00Z'

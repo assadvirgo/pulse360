@@ -5,7 +5,7 @@ countryCode: US
 description: Today, I’m talking with Toni Schneider, who is the brand new CEO of the
   social platform Bluesky — he formally took over after a short stint as interim CEO.
   This is one of my…
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-03T15:00:00Z'

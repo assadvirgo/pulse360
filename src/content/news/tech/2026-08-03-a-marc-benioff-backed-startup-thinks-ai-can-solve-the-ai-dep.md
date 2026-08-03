@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: June emerged from stealth today with a $20 million pre-seed round to
   make AI adoption simpler.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-08-03T10:00:00Z'

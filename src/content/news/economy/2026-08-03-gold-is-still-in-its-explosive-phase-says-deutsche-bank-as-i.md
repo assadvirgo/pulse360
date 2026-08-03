@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Going back as far as 1957 and a few periods notwithstanding, gold tends
   to outperform CPI and in the last couple of yars this has been especially pronounced.
-displayOrder: 23
+displayOrder: 37
 heroImage: ''
 importance: 52.5
 pubDate: '2026-08-03T12:36:00Z'

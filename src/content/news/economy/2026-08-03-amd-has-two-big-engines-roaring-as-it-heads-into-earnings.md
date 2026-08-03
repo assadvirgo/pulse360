@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AMD has been boosted by robust server demand. Now analysts are looking
   ahead to the ramp of its new rack-scale offering.
-displayOrder: 40
+displayOrder: 47
 heroImage: ''
 importance: 32.5
 pubDate: '2026-08-03T16:31:00Z'
