@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Europe struggles with record-breaking summer heat as wildfires ravage
   Greece, France and Spain causing mass evacuations.
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 51.5
 pubDate: '2026-08-02T14:15:34Z'

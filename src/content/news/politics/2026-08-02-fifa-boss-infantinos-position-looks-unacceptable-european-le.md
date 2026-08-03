@@ -2,7 +2,7 @@
 category: Politics
 description: Claudius Schafer says there can be &#039;only one consequence&#039; to
   Infantino&#039;s actions over his World Cup privatisation plan.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-02T10:31:25Z'

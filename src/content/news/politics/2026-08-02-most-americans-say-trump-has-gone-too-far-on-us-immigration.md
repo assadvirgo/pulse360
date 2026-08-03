@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Half of Americans say Trump has gone too far on deportations, though
   most Republicans still support his approach.
-displayOrder: 16
+displayOrder: 23
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-02T19:26:05Z'

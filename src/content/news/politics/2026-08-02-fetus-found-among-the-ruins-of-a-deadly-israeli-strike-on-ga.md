@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Residents searching through the rubble of an Israeli strike in western
   Gaza City recovered the body of an unborn baby.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-02T17:57:01Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The breakout to record highs by bank stocks, plus their strong earnings
   and favorable valuations, suggest more good times ahead for the financial sector.
-displayOrder: 35
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-02T12:00:00Z'

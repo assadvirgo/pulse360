@@ -4,7 +4,7 @@ country: Guyana
 countryCode: GY
 description: Never before has such a low first-innings total - Guyana Amazon Warriors
   put up 85 after opting to bat - been defended in a T20 tournament final
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-02T04:58:30Z'

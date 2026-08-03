@@ -5,7 +5,7 @@ countryCode: US
 description: A new report from The Wall Street Journal accuses the Pima County Sheriff's
   Department of investigation delays, failing to protect crime-scene evidence and
   more.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-08-02T18:20:13Z'

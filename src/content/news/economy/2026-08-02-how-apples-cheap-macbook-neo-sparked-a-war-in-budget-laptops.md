@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple’s gamble on the budget MacBook Neo is paying off and forcing rivals
   to rethink their offerings.
-displayOrder: 40
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-02T13:00:00Z'

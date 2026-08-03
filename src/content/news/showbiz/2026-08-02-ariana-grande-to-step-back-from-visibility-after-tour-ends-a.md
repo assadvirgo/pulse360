@@ -5,7 +5,7 @@ countryCode: US
 description: The singer-actress, who has also dropped out of the West End revival
   of Stephen Sondheim’s 'Sunday in the Park with George,' has been at the center of
   online commentary…
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-02T20:12:59Z'

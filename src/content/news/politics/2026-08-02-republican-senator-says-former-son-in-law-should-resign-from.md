@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Senator Bernie Moreno has broken silence around domestic abuse allegations
   involving Representative Max Miller.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-02T18:27:41Z'

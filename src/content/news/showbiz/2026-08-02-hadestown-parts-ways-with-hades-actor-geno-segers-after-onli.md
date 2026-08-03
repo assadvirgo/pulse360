@@ -5,7 +5,7 @@ countryCode: US
 description: Geno Segers, who was announced this week to join Broadway’s “Hadestown,”
   will no longer be part of the Broadway production. “Hadestown” announced a new principal
   cast earlier this…
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-02T18:51:25Z'

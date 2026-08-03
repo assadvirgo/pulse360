@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel says it was targeting military operatives in the strikes on Gaza
   City, Khan Younis and Deir el-Balah.
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-02T15:50:59Z'

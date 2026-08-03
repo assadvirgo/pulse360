@@ -4,7 +4,7 @@ country: Lithuania
 countryCode: LT
 description: Andrius Kubilius on the lessons from Ukraine and why drones and space
   are transforming Europe&#039;s security strategy.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-02T14:34:21Z'

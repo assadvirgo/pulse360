@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Emilio Gay hits an unbeaten century for Durham in the One-Day Cup, while
   wins for Leicestershire and Middlesex take them top of their groups.
-displayOrder: 17
+displayOrder: 25
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-02T18:10:51Z'

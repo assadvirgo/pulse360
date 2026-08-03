@@ -5,7 +5,7 @@ countryCode: GB
 description: The West End stage will have to wait a little longer for Ariana Grande&#8217;s
   debut as she exits next summer&#8217;s Sunday in the Park with George revival. As
   the 3x Grammy…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-02T19:51:07Z'

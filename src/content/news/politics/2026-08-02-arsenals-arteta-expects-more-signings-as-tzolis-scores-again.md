@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Newly acquired Christos Tzolis scores for the English champions who have
   been linked to Bruno Guimaraes and Vinicius Jr.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 74.5
 pubDate: '2026-08-02T08:08:19Z'
