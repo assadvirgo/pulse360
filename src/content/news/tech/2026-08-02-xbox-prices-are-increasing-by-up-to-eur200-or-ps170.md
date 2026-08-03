@@ -5,7 +5,7 @@ countryCode: GB
 description: When Microsoft announced its latest round of Xbox price bumps in June,
   it only gave US pricing. Now we know the pricing increases for the EU and UK, and
   they're dramatic.…
-displayOrder: 999
+displayOrder: 41
 heroImage: ''
 importance: 44.2
 pubDate: '2026-08-02T16:14:20Z'

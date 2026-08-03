@@ -2,7 +2,7 @@
 category: Politics
 description: The Palestinian issue should be returned to the UN framework and anchored
   again in international law.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 70.5
 pubDate: '2026-08-02T12:06:31Z'

@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: MPS chief executive weighs approach to Banco BPM’s largest shareholder,
   Crédit Agricole
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-02T17:32:45Z'

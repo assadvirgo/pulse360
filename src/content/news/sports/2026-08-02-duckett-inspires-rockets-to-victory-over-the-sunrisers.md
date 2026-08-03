@@ -5,7 +5,7 @@ countryCode: GB
 description: Trent Rockets win their fourth game in the men's Hundred to remain top,
   as Ben Duckett inspires them to a five-run victory over Sunrisers Leeds at Trent
   Bridge.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-02T17:11:34Z'

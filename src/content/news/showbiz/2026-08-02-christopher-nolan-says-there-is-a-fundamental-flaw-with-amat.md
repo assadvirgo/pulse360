@@ -3,7 +3,7 @@ category: Showbiz
 description: Critics have said their piece about Christopher Nolan’s “The Odyssey,”
   and now he is saying his piece about them. While on “The Odyssey” press tour, the
   director spoke with…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-08-02T21:56:02Z'

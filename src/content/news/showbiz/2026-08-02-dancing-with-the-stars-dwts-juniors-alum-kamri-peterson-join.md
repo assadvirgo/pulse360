@@ -5,7 +5,7 @@ countryCode: US
 description: 'A member of the Dancing with the Stars family is coming home. On Sunday
   at DWTS Con in Palm Springs, DWTS: Juniors alum Kamri Peterson was announced as
   the first troupe dancer…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-08-02T23:41:19Z'

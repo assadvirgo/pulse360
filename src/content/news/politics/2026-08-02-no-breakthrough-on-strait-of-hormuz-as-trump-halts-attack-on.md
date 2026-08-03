@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Iran says Trump&#039;s comment on pullback from threatened strikes made
   &#039;within the context of psychological operations&#039;.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-08-02T14:11:54Z'

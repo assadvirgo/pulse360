@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Footage has emerged showing the moment two firefighting helicopters collided
   mid-air while fighting wildfires in Greece.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-02T18:38:47Z'

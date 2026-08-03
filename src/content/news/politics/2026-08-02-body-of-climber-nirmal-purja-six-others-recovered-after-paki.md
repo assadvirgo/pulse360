@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Search for remains of three last climbers continues on Broad Peak, days
   after avalanche killed all 10 mountaineers.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 60.5
 pubDate: '2026-08-02T19:30:25Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Veteran strikes 104 on his 100th List A appearance for county in dominant
   win over Sussex
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-02T17:03:24Z'

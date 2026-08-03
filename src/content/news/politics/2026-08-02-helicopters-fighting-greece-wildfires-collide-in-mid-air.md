@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Video of the incident shows one of the helicopters hitting the propellers
   of the other, which bursts into flames.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-02T15:21:56Z'

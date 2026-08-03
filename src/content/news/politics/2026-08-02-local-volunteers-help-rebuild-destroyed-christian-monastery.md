@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s
   Zawtar al-Gharbiyeh.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 67.5
 pubDate: '2026-08-02T21:18:03Z'

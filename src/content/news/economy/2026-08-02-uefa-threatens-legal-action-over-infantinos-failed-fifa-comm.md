@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: European football’s governing body weighs its reaction to withdrawn plan
   to sell stake to investors
-displayOrder: 36
+displayOrder: 39
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-02T22:01:57Z'
