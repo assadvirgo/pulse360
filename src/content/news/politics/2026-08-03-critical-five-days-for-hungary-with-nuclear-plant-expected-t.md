@@ -5,7 +5,7 @@ countryCode: HU
 description: Hungary's prime minister has warned the country is facing the "most critical
   five days ahead" with its sole nuclear power plant expected to be shut down this
   week due to…
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 80.0
 pubDate: '2026-08-03T05:33:00Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Iran
 countryCode: IR
 description: There are competing narratives in Tehran for its post-war recovery.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 66.5
 pubDate: '2026-08-03T12:11:03Z'

@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Finance minister Satsuki Katayama confirms joint action with Washington
   to counter ‘disorderly movements’
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-03T00:48:08Z'

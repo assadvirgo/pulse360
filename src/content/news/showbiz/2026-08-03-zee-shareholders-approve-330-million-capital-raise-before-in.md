@@ -5,7 +5,7 @@ countryCode: IN
 description: Shareholders of Indian media giant Zee Entertainment Enterprises Ltd.
   approved a promoter group fund infusion worth INR3143.5 crore ($330 million) and
   a new employee stock option…
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-08-03T09:02:21Z'

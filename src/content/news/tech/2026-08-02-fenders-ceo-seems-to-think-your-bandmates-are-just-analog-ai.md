@@ -5,7 +5,7 @@ countryCode: US
 description: Fender CEO Edward "Bud" Cole gave an interview to T3 in May celebrating
   the 75th anniversary of the Telecaster with comments on AI and music that initially
   flew under the radar.…
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-08-02T19:36:08Z'

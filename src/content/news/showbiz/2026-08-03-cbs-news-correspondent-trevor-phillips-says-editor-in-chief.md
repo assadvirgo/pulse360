@@ -5,7 +5,7 @@ countryCode: US
 description: Recently appointed CBS News correspondent Trevor Phillips has given a
   typically forthright assessment of his new boss, Bari Weiss. “Bari and her team
   have a huge tanker of a…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-03T10:35:09Z'

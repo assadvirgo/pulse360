@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sione Fukofuka steps down from his role as Scotland Women head coach
   because of "the stress and the strain" of being apart from his family in Australia.
-displayOrder: 31
+displayOrder: 46
 heroImage: ''
 importance: 42.2
 pubDate: '2026-08-03T09:11:42Z'

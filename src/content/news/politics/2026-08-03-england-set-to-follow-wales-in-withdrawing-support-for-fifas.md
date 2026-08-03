@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: England FA tipped to formally withdraw support for Gianni Infantino re-election
   bid after botched World Cup stakes plan.
-displayOrder: 14
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-03T09:23:05Z'

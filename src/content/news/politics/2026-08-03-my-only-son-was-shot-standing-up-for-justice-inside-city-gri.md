@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: The BBC gains unique access to Rawalakot, scene of violent clashes between
   security forces and protesters in Pakistan-administered Kashmir.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-08-03T03:32:21Z'

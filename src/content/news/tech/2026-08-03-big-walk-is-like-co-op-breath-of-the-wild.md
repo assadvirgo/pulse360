@@ -5,7 +5,7 @@ countryCode: AU
 description: 'Untitled Goose Game is a tough act to follow. It was a silly experience
   that captured what I imagine it would feel like to be a sentient goose: a lot of
   waddling, a lot of…'
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-03T13:00:00Z'

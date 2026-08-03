@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Acting US attorney-general U-turns on ‘anti-weaponisation fund’ after
   two Republicans threaten to torpedo nomination
-displayOrder: 36
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-03T07:47:34Z'

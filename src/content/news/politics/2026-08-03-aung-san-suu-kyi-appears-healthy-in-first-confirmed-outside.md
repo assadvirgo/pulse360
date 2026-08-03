@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: Photos newly released by Myanmar's military government show Suu Kyi meeting
   with an ICRC official.
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-03T10:58:48Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Spain
 countryCode: ES
 description: Spanish farmer finds donkeys alive after wildfires destroy her property
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-03T08:23:55Z'
