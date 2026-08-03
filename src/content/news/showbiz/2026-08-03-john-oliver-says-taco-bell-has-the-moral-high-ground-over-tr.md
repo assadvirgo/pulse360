@@ -5,7 +5,7 @@ countryCode: US
 description: On 'Last Week Tonight,' the host shared his thoughts on the outbreak,
   blaming President Trump and Robert F. Kennedy Jr. for making cuts to the FDA and
   CDC.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 60.8
 pubDate: '2026-08-03T04:59:25Z'

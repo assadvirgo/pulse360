@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: US President Donald Trump says helping to bolster the Japanese currency
   is a sign of friendship.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-03T01:34:19Z'

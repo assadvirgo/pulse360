@@ -3,7 +3,7 @@ category: Economy
 country: United Kingdom
 countryCode: GB
 description: Deal would create the world’s fourth-largest drugmaker by market value
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-08-02T19:48:59Z'

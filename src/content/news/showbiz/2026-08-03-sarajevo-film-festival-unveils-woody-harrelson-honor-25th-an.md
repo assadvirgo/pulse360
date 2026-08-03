@@ -5,7 +5,7 @@ countryCode: BA
 description: The Sarajevo Film Festival will honor Oscar-nominated actor Woody Harrelson
   at its upcoming 32nd edition later this month. Harrelson will receive the festival’s
   Honorary Heart of…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-08-03T08:48:08Z'

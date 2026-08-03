@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: Tributes are pouring out across Nepal after an avalanche killed some
   of the country's best mountaineers.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-03T05:31:55Z'

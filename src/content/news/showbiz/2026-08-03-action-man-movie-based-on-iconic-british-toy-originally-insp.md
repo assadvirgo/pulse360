@@ -5,7 +5,7 @@ countryCode: GB
 description: Action Man — the iconic British action figure that first launched in
   1966 — is getting the movie treatment. Variety has confirmed that an Action Man
   film is being developed by…
-displayOrder: 3
+displayOrder: 18
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-03T08:28:37Z'

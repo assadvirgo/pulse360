@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Both countries have said that they will not hesitate to conduct joint
   interventions in the future.
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-03T02:43:06Z'

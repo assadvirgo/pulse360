@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A total of 1,000sq km (386sq miles) has burned across Washington state,
   and some of the fires have not been contained.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-03T03:26:08Z'

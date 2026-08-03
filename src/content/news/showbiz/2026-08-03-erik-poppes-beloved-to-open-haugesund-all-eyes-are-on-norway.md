@@ -5,7 +5,7 @@ countryCode: 'NO'
 description: After the World Cup where Norway made a splash with its wealth of soccer
   talent – led by Erling Haaland and Martin Ødegaard – the Nordic nation will be showcasing
   some of its…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-08-03T08:00:00Z'

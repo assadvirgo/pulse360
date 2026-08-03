@@ -3,7 +3,7 @@ category: Tech
 description: Despite predictions that AI agents could make traditional apps obsolete,
   developers are shipping new software faster than ever. From smarter bookmarking
   tools and neighborhood…
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-02T15:23:19Z'

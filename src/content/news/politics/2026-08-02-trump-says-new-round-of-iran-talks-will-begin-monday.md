@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president says Gulf allies and Tehran urged him to delay planned
   strikes, as oil prices dropped in response.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-02T23:48:08Z'

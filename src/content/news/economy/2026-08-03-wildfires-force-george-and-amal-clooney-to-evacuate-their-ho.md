@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Actor George Clooney and wife Amal were forced to evacuate their home
   in southeastern France amid wildfires breaking out across Europe.
-displayOrder: 27
+displayOrder: 38
 heroImage: ''
 importance: 32.5
 pubDate: '2026-08-03T09:01:00Z'
