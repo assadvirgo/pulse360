@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AWS now allows vibe-coding tool Superblocks to be embedded into the private
   clouds of AWS customers. It's another step toward decoupling apps from models.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 56.0
 pubDate: '2026-08-03T20:00:00Z'

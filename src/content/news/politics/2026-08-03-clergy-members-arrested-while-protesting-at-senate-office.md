@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Clergy members were arrested while protesting the Iran war and voting
   rights concerns at the Senate office.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-03T19:53:59Z'

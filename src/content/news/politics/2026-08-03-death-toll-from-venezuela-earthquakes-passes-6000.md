@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: National Assembly President Jorge Rodriguez says 6,125 people confirmed
   dead as government response faces scrutiny.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-03T23:20:37Z'

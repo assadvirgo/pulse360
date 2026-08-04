@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It’s rare for cyclosporiasis to cause death. These are the first deaths
   associated with the largest-ever cyclospora outbreak in the U.S.
-displayOrder: 28
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-03T19:30:00Z'

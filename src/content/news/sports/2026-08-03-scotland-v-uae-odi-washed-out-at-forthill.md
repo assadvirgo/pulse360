@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Scotland's one-day international against United Arab Emirates is abandoned
   without a ball being bowled because of persistent rain in Broughty Ferry.
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-03T15:21:46Z'

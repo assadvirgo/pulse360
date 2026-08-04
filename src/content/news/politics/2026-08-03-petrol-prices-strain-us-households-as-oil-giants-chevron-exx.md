@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Low-income US households are hit hardest, spending more than 10 percent
   of monthly income on petrol as prices rise.
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-03T23:02:07Z'

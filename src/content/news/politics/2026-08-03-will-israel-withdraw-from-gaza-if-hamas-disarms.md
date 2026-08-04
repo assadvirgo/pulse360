@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel says it has doubts about the Palestinian group laying down its
   weapons.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-03T21:05:11Z'

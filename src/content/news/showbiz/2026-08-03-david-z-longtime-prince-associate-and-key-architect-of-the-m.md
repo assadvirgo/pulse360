@@ -5,7 +5,7 @@ countryCode: US
 description: David “Z” Rivkin, the Grammy-winning producer and musician who helmed
   Prince’s early demo tapes and engineered several of his albums, helped create Lipps
   Inc.’s 1980 smash “Funky…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-03T19:53:19Z'

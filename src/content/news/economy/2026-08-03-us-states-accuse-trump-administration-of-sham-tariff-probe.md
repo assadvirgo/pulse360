@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: More than 20 attorneys-general launch legal challenge to duties for alleged
   forced labour violations
-displayOrder: 31
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-03T21:35:03Z'

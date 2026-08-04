@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: There are concerns of a full-scale conflict once again as a peace deal
   has not been fully implemented.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-08-03T11:49:48Z'

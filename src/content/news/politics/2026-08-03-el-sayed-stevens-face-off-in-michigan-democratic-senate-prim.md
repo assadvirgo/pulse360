@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Voters in the US state of Michigan will cast ballots in a Democratic
   Senate primary that could reshape the party.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-03T20:58:19Z'

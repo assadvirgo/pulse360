@@ -5,7 +5,7 @@ countryCode: JP
 description: You have to imagine that the team at Game Freak is bursting with ideas.
   The studio puts out new mainline Pok&#233;mon adventures with a machinelike precision.
   But every so often…
-displayOrder: 6
+displayOrder: 13
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-04T00:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Valar Atomics raised $1 billion at a $6 billion valuation after signing
   a development deal with Nvidia in June.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-03T17:16:43Z'

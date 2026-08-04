@@ -5,7 +5,7 @@ countryCode: US
 description: House spending records show OpenAI's ChatGPT dominates paid AI use on
   Capitol Hill, with congressional offices relying on the chatbot to draft memos,
   summarize legislation, and…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-08-03T16:40:55Z'

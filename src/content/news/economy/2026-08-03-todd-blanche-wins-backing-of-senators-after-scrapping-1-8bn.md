@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Support of two Republicans paves way for acting US attorney-general to
   be confirmed in the post
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-03T15:20:10Z'

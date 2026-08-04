@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Two Republican senators say they will end their opposition after order
   cancelling controversial $1.8bn fund.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-03T17:39:38Z'

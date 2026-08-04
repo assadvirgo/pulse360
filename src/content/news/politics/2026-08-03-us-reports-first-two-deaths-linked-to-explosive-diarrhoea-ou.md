@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The illness caused by parasitic infection that spreads through contaminated
   food or water is not generally life-threatening, health officials say.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-03T20:05:46Z'

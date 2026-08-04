@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Companies are turning to Palantir for greater autonomy over their AI
   models and data, according to CEO Alex Karp.
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-03T21:59:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Experts explain what sets apart this "generational talent" who is already
   an Olympic, world and commonwealth champion at just 23.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-03T13:17:12Z'

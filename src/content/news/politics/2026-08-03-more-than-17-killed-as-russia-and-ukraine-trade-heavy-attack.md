@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Exchange of fire intensifies as the war, now in its fifth year, shows
   no signs of slowing down.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-08-03T14:23:07Z'

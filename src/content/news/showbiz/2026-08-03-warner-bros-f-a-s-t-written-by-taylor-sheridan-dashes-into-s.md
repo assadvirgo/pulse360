@@ -5,7 +5,7 @@ countryCode: US
 description: The weekend before summer 2027 is getting quite bulky, so Warner Bros
   is shifting the release date of its special forces commando pic F.A.S.T. to mid-May
   next year, specifically…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-03T22:00:01Z'

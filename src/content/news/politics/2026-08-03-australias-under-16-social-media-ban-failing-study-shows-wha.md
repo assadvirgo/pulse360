@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Australia&#039;s internet regulator revealed in a recent study that teenagers
   are continuing to use social media despite ban.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-03T15:21:55Z'

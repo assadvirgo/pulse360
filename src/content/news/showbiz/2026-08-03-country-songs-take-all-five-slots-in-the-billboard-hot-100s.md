@@ -5,7 +5,7 @@ countryCode: US
 description: Country music is ruling the roost like never before, at least when it
   comes specifically to the Billboard Hot 100. For the first time in history, country
   songs are claiming all…
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 62.8
 pubDate: '2026-08-03T21:18:13Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel&#039;s highest court heard a constitutional challenge to legislation
   banning UNRWA&#039;s operations in Israel.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-03T18:13:43Z'
