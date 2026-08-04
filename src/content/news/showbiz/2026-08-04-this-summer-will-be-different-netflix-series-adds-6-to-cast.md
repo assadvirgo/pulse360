@@ -5,7 +5,7 @@ countryCode: CA
 description: This summer is certainly proving to look a little bit different, with
   six new actors joining the cast of “This Summer Will Be Different” as production
   begins on Prince Edward…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-04T15:32:56Z'

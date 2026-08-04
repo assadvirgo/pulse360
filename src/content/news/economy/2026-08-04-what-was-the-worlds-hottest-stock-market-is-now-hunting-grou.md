@@ -3,7 +3,7 @@ category: Economy
 country: South Korea
 countryCode: KR
 description: South Korea’s once-surging market is now a haven for short sellers.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-04T11:51:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Scotland looks at the impact of Kieran Tierney in Celtic's win over
   Dundee in the Scottish Premiership.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-03T22:18:02Z'

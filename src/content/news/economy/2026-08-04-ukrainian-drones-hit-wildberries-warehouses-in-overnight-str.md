@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russian retailer has become key target for Kyiv as it aims to bring Putin’s
   war closer to home
-displayOrder: 34
+displayOrder: 46
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-04T10:54:18Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Viola Davis is set to star in the thriller series &#8220;Ascent,&#8221;
   which has been greenlit at Paramount+. The show&#8217;s official logline states
   that it is &#8220;set in…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-08-04T15:51:41Z'

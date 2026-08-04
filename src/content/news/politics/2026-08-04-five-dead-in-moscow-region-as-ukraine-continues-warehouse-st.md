@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Facilities in St Petersburg and Tver were also hit, while at least one
   was killed in Russian strikes on Ukraine.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-08-04T07:42:56Z'

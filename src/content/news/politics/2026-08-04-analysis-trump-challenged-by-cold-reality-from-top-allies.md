@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A president used to bending US politics to his will faces two stinging
   losses in a matter of days, writes the BBC's Anthony Zurcher.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-04T09:11:39Z'

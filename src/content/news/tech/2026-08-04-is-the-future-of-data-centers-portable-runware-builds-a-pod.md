@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On Tuesday, AI infrastructure company Runware announced the launch of
   its own modular data center called Sonic Inference Pod.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 64.0
 pubDate: '2026-08-04T13:00:00Z'

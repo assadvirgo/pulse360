@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Missile and drone strikes far beyond the front lines are causing a mounting
   civilian death toll in both countries.
-displayOrder: 17
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-04T11:26:28Z'

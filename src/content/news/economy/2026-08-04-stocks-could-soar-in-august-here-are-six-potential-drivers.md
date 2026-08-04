@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tom Lee, head of research at Fundstrat, outlined the reasons he thinks
   stocks could reach a new high this month.
-displayOrder: 32
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-04T15:33:00Z'

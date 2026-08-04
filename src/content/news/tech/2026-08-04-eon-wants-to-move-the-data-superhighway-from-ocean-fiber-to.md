@@ -2,7 +2,7 @@
 category: Tech
 description: Endeavour Optical Networks is planning to launch the fastest space laser
   communications system yet built.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-08-04T12:00:00Z'

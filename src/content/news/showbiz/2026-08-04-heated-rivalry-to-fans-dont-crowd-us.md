@@ -3,7 +3,7 @@ category: Showbiz
 description: 'The producers behind Heated Rivalry have a request for fans of the show&#8217;s
   stars: Give &#8217;em room, give &#8217;em room. On Instagram today, a joint message
   from the…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-04T16:07:21Z'

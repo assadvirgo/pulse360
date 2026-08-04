@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine said the video - showing a terrified civilian being hounded by
   a remotely-controlled drone - amounted to a war crime.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 72.2
 pubDate: '2026-08-04T16:33:39Z'

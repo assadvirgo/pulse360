@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: McDonald's stock has fallen more than 11% this year, dragging its market
   cap down to roughly $191 billion.
-displayOrder: 41
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-04T13:52:18Z'

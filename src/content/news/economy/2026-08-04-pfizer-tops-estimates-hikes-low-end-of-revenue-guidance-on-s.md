@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pfizer said it cut its full-year revenue expectation for its Covid products
   to $4 billion, down from around $5 billion previously.
-displayOrder: 33
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-04T11:38:55Z'

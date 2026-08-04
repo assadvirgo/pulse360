@@ -5,7 +5,7 @@ countryCode: IN
 description: 'Sony&#8217;s &#8220;Spider-Man: Brand New Day&#8221; delivered a historic
   theatrical debut in India, dethroning &#8220;Avengers: Endgame&#8221; to claim the
   biggest opening frame…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-08-04T12:08:30Z'

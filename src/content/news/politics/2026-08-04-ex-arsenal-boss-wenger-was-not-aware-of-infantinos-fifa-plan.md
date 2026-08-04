@@ -2,7 +2,7 @@
 category: Politics
 description: FIFA executive Arsene Wenger backs decision to drop FIFA President Gianni
   Infantino&#039;s World Cup sell-off plan.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-04T11:30:30Z'

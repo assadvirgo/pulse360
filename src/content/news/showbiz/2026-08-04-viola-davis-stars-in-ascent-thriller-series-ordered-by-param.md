@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount+ has greenlit Ascent, a character-driven thriller series starring
   Oscar and Emmy winner Viola Davis. It is created by three-time Oscar nominee John
   Logan (Skyfall,…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-04T15:45:00Z'
