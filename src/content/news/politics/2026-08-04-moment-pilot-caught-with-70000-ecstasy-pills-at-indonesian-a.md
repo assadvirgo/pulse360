@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: A Malaysian pilot was arrested at Jakarta airport after being found with
   around four stone (26kg) of drugs hidden in his luggage.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-04T09:18:03Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The duties were imposed over claims that 60 US trading partners have
   failed to tackle forced labour.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-08-04T02:53:00Z'

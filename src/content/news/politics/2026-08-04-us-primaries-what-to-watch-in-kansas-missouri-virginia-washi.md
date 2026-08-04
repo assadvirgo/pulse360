@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: From House battlegrounds to party fights and Trump&#039;s influence,
   here are the races to follow during Tuesday&#039;s primaries.
-displayOrder: 15
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-04T09:47:40Z'

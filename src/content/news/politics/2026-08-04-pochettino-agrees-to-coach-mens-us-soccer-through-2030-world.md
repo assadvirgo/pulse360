@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mauricio Pochettino has agreed to extend his tenure as coach of the United
   States men’s soccer team.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-04T03:32:48Z'

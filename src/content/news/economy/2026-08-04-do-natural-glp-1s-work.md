@@ -2,7 +2,7 @@
 category: Economy
 description: Alternatives to weight-loss drugs are gaining traction. But do they make
   a difference?
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-04T04:00:08Z'

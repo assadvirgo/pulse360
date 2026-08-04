@@ -5,7 +5,7 @@ countryCode: GB
 description: 'Sony&#8217;s superhero blockbuster &#8220;Spider-Man: Brand New Day&#8221;
   stormed to the top of the U.K. and Ireland box office, recording an opening frame
   of £36.4 million…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-08-04T10:27:10Z'

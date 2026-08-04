@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Six years after the explosion, the domestic investigation is complete,
   but an indictment is yet to be issued.
-displayOrder: 12
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-04T08:51:46Z'

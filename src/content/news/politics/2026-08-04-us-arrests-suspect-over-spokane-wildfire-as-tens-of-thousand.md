@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Authorities say about 65,000 people have been displaced by the fires
   in Washington state.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-04T08:32:49Z'

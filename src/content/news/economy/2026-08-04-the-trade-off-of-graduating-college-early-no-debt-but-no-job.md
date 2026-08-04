@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Students who graduate early still enter a tough job market. Here’s how
   to make sure that fast-tracking school doesn’t compromise your career.
-displayOrder: 26
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-04T11:00:00Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinian patients returned to Gaza after receiving medical treatment
   abroad, reuniting after years of separation.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-04T10:04:49Z'

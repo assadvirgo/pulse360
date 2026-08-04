@@ -5,7 +5,7 @@ countryCode: KR
 description: The Busan Story Market (BSM) has unveiled 25 official selections for
   2026, including international bestseller Hwang Bo-reum and two-time Hans Christian
   Andersen Award finalist Lee…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-08-04T07:33:26Z'
