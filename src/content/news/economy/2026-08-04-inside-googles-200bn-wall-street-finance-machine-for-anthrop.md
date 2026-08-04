@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Private credit, chip leases and data centre guarantees underpin a vast
   new model for AI spending
-displayOrder: 19
+displayOrder: 25
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-04T04:00:16Z'

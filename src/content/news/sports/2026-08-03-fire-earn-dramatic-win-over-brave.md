@@ -5,7 +5,7 @@ countryCode: GB
 description: Welsh Fire prevail in a nervy end to a tight fixture to end Southern
   Brave's winning streak, punishing the visitors and their costly mistakes to complete
   their chase of 122 runs…
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 56.2
 pubDate: '2026-08-03T17:41:32Z'

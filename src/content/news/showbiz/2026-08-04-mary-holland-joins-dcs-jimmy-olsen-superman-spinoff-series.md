@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Mary Holland (Ghosts, The Little House on the Prairie) has
   been cast as the female lead in DC&#8217;s Superman spinoff series centering on
   Jimmy Olsen from HBO Max,…'
-displayOrder: 6
+displayOrder: 16
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-04T02:17:41Z'

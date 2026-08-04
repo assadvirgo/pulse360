@@ -5,7 +5,7 @@ countryCode: US
 description: 'Mary Rivera, who played the grandmother of Jacob Batalon’s Ned in “Spider-Man:
   No Way Home,” has died. She was 82. According to her obituary, Rivera was born on
   June 2, 1943, in…'
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-04T03:04:40Z'

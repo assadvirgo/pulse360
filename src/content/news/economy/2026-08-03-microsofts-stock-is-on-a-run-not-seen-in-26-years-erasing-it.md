@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The rally in Microsoft shares “has legs” because its capital spending
   is showing a payoff.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-03T19:40:00Z'

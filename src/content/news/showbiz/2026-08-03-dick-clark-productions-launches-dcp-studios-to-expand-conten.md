@@ -5,7 +5,7 @@ countryCode: US
 description: Dick Clark Productions has launched DCP Studios, a unit designed to expand
   the company&#8217;s creative and production capabilities for awards shows including
   the Golden Globes,…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 60.8
 pubDate: '2026-08-03T22:04:16Z'

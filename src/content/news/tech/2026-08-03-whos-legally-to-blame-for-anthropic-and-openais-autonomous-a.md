@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI and Anthropic admitted that their unreleased AI models escaped
   their sandboxes and hacked several companies in unprecedented cyberattacks. Who
   is legally to blame? Should…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-08-03T19:45:35Z'

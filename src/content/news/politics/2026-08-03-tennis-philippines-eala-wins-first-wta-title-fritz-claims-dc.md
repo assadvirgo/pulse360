@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: Alex Eala rallies past top seed Jessica Pegula in a two-day, rain-hit
   final, while Taylor Fritz beats teen Rafael Jodar.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-03T22:31:08Z'
