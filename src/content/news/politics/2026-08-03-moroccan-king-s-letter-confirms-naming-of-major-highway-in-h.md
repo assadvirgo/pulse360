@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: The highway enters Western Sahara, a disputed territory that Morocco
   claims sovereignty over.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-03T12:20:11Z'

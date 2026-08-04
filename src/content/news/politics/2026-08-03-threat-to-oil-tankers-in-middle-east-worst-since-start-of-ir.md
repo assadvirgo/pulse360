@@ -2,7 +2,7 @@
 category: Politics
 description: Fresh attacks on alternative shipping routes have left tankers facing
   an increasingly complex situation, analysts say.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-03T15:57:27Z'

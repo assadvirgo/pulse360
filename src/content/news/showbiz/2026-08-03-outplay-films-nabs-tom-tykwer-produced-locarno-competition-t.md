@@ -5,7 +5,7 @@ countryCode: FR
 description: Isabelle Stever&#8217;s Locarno main competition title &#8220;I Rarely
   Wake Up Dreaming,&#8221; produced by Tom Tykwer, has been picked up for world sales
   by France&#8217;s…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-08-03T13:01:01Z'

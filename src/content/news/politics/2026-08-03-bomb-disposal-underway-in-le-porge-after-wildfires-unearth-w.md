@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Bomb disposal operations are continuing in Le Porge, France, to enable
   residents to return to the village.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-03T18:55:25Z'

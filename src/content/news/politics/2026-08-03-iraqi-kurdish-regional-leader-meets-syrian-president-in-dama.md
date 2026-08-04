@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Barzani meets Syria&#039;s al-Sharaa in Damascus to discuss SDF integration
   and Kurdish rights in post-Assad Syria.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 56.5
 pubDate: '2026-08-03T16:12:55Z'

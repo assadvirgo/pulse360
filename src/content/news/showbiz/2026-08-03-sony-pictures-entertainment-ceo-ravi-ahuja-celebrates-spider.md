@@ -5,7 +5,7 @@ countryCode: US
 description: 'At a time when the media wants to write the obituary on superhero movies,
   Spider-Man: Brand New Day wasn&#8217;t your run-of-the-mill superhero movie, rather
   a character-driven,…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-03T16:25:56Z'

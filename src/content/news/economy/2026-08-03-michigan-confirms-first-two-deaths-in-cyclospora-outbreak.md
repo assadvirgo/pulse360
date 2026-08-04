@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Michigan Health Department said that both individuals had underlying
   health conditions.
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-03T18:32:42Z'

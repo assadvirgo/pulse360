@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Shareholders question looming patent cliff and antitrust risks in potential
   $400bn tie-up with Bristol Myers Squibb
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-03T16:24:25Z'

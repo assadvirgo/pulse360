@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United manager Marc Skinner steps down from his position before
   the start of the Women's Super League season.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-03T08:05:47Z'

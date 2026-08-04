@@ -5,7 +5,7 @@ countryCode: US
 description: Kevin Feige can&#8217;t stop breaking his own box office benchmarks.
   As the president of Marvel Studios and architect of the sprawling, ultra-successful
   Marvel Cinematic Universe,…
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 61.8
 pubDate: '2026-08-03T20:05:06Z'

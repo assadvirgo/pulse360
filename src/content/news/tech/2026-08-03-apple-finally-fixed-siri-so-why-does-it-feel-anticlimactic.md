@@ -5,7 +5,7 @@ countryCode: US
 description: Apple’s long-awaited AI overhaul finally makes Siri the assistant it
   was always supposed to be. But after years of delays, the launch lands in an AI
   landscape where chatbots have…
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 58.0
 pubDate: '2026-08-03T18:43:43Z'
