@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Why Spokane&#039;s wildfires spread so fast, what caused them and why
   Washington is facing a major fire crisis.
-displayOrder: 20
+displayOrder: 39
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-04T05:03:44Z'

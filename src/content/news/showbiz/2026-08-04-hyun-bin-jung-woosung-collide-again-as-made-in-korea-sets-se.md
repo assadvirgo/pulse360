@@ -5,7 +5,7 @@ countryCode: KR
 description: '&#8220;Made in Korea&#8221; will return for a second season on Sept.
   9, streaming exclusively on Disney+ and Hulu, with stars Hyun Bin, Jung Woosung
   and Woo Dohwan reprising their…'
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-04T06:31:04Z'

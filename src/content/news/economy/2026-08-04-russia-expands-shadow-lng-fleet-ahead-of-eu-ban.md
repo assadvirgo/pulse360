@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Growing number of ships will help Moscow continue exporting liquefied
   natural gas when sanctions tighten next year
-displayOrder: 31
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-04T04:00:08Z'

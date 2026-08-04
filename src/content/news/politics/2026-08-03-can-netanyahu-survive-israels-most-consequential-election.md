@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israelis head to the polls in October for the country&#039;s first election
   since the war on Gaza began.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-08-03T18:16:00Z'

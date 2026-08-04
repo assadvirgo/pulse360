@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament
   roadmap and recent Israeli attacks.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-04T01:43:51Z'

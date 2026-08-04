@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Fifa’s regulatory functions must be separated from its commercial activities
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-04T04:00:16Z'

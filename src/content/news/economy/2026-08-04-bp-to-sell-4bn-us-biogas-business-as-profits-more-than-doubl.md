@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: UK oil major has had several approaches for its North Sea assets, says
   chief
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-04T07:24:06Z'

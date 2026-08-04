@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Bob Montgomery died unexpectedly just a day after finishing what he had
   called 'One Last Ride'.
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-04T07:13:40Z'

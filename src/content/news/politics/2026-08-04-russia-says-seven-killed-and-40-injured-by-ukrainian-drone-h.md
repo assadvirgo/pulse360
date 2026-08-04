@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Three children were killed when the drone crashed at a popular resort
   on the Black Sea.
-displayOrder: 13
+displayOrder: 34
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-04T03:37:14Z'

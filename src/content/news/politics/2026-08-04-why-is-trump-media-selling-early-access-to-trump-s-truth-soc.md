@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The service reportedly costs up to $100,000 (£74,170) per month and offers
   access to posts from influential accounts milliseconds before they appear online.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-04T00:17:48Z'

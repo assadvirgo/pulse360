@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Authorities in the Midwestern state of Michigan say that two people who
   died had underlying conditions.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-08-03T18:35:09Z'

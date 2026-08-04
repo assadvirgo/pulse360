@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: The Gulf state is investing heavily in land, ports and influence across
   the continent. But its entangled goals come at a price
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-04T04:00:09Z'

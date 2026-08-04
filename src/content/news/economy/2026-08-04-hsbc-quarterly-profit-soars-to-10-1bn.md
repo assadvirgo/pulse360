@@ -2,7 +2,7 @@
 category: Economy
 description: Europe’s largest lender boosted by wealth management and insurance business
   in Hong Kong
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-08-04T04:11:45Z'

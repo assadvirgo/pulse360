@@ -5,7 +5,7 @@ countryCode: US
 description: After a quarter that delivered $1 billion in profit, Palantir CEO Alex
   Karp on Monday once again warned that AI frontier labs are too untrustworthy for
   enterprises.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-03T23:19:50Z'

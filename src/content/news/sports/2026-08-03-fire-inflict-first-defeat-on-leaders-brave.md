@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Welsh Fire condemn Southern Brave to their first defeat of this season's
   Hundred as they post a dramatic four-wicket victory in Cardiff.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-08-03T17:25:42Z'

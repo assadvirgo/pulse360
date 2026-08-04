@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: A Japanese company has admitted that two workers, who died in a shopping
   mall explosion following powerful earthquake.
-displayOrder: 14
+displayOrder: 37
 heroImage: ''
 importance: 66.5
 pubDate: '2026-08-03T23:52:02Z'

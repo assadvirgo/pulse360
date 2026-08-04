@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Bid to support Japan’s currency shows US is ready to scupper trades that
   push against its interests
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 37.5
 pubDate: '2026-08-04T03:35:46Z'
