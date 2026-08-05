@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: S&amp;P 500 hits record high as Iranian and Omani negotiators agree on
   temporary shipping arrangement
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-04T20:06:41Z'

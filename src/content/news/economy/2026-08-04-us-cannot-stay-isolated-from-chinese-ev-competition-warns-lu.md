@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Carmaker’s new boss predicts industry ‘shakeout’ and announces $1.4bn
   cost-cutting programme
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 45.5
 pubDate: '2026-08-04T20:10:49Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: America's biggest food distributor has stopped buying iceberg lettuce
   from Mexico as the country continues to grapple with a viral outbreak linked to
   at least two deaths.
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-05T00:57:00Z'

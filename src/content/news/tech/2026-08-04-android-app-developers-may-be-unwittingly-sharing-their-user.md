@@ -5,7 +5,7 @@ countryCode: US
 description: New findings by the Electronic Frontier Foundation aim to warn app developers
   that some of the third-party code they place in their apps may also collect their
   users' location…
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-04T20:26:53Z'

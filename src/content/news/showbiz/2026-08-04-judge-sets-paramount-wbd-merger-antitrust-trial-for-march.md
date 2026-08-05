@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge has set the Paramount-Warner Bros. Discovery merger trial
   for next March. The date is much closer to the timeline sought by state attorneys
   general and the Writers…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-08-04T19:32:35Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Water levels in the river Danube have fallen so low due to this summer's
   dry weather in Europe that sunken Nazi warships are appearing into view.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-04T15:03:00Z'

@@ -3,7 +3,7 @@ category: Tech
 description: Open earbuds are having a bit of a moment right now, and Nothing is the
   latest company jumping on the trend. Its budget sub-brand has introduced the CMF
   Clip Pro, CMF's first open…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-08-04T13:00:00Z'

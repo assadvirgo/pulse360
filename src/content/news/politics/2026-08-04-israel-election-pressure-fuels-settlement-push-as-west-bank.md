@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Analysts point to uptick in activity of settlement movement as it bids
   to entrench West Bank chokehold.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-04T18:08:08Z'

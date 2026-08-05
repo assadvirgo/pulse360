@@ -5,7 +5,7 @@ countryCode: US
 description: Stocks have shot higher over the past four trading sessions, and investors
   who are worried about missing out are piling into bullish options bets just to try
   to keep up.
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-04T21:00:00Z'

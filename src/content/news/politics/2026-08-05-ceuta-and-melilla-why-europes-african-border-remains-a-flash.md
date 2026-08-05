@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The two Spanish enclaves in North Africa remain at the centre of a diplomatic
   standoff between Spain and Morocco.
-displayOrder: 11
+displayOrder: 17
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-05T01:21:16Z'

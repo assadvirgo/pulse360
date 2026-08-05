@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount CEO David Ellison says he is &#8220;absolutely open&#8221;
   to settling an antitrust lawsuit against the company&#8217;s pending merger with
   Warner Bros Discovery but is…
-displayOrder: 7
+displayOrder: 15
 heroImage: ''
 importance: 61.0
 pubDate: '2026-08-04T23:24:10Z'

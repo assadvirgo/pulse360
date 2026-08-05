@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Brazil&#039;s Vinicius has been linked to Arsenal and Manchester United,
   but heaps praise on new Real coach Jose Mourinho.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-04T17:47:04Z'
