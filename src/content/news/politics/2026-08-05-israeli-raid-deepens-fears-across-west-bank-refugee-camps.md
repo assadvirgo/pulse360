@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israeli raid deepens fears across West Bank refugee camps
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-05T10:30:17Z'

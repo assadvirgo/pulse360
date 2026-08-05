@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ken Griffin’s flagship fund bought billions of dollars of AI stocks from
   Leopold Aschenbrenner’s firm
-displayOrder: 34
+displayOrder: 43
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-05T11:05:27Z'

@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Attack on Vladimir Tkachuk is latest targeting prominent figures in the
   Russian war effort
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-08-05T12:59:26Z'

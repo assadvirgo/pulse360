@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: CVS also announced a new collaboration with Eli Lilly that will make
   Zepbound and Foundayo accessible to eligible patients on the CVS Health app.
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-05T13:33:55Z'

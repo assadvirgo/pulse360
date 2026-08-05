@@ -5,7 +5,7 @@ countryCode: US
 description: The largest part of the economy grew in July at a robust pace, but scattered
   shortages of key supplies and dogged inflation raised the cost of doing business.
   Companies responded…
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-05T15:01:00Z'

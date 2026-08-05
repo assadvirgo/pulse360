@@ -3,7 +3,7 @@ category: Tech
 description: We were pretty sure that Fenix Flexin's "Rubberz" was made using AI,
   but musician Medasin was confident that it was made using Treblo specifically. Now
   the company and a new…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-05T16:57:25Z'

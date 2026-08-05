@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Midfielder Erica Meg Parkinson, 18, has been named in England's preparation
   squad for the Under-20 Women's World Cup in Poland next month.
-displayOrder: 18
+displayOrder: 27
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-05T16:03:10Z'

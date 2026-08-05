@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Patriot interceptor stocks are depleted as retaliatory 40-day air campaign
   expires
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-05T11:46:53Z'

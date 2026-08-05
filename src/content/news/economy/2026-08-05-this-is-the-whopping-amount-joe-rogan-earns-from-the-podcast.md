@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Controversial podcaster Joe Rogan, 58, has been named the top-earning
   podcaster of 2026 by Forbes.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-05T09:02:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A fugitive wanted by police in Scotland over alleged sexual offences
   committed between 2012 and 2022 has been arrested in Madrid, Sky News understands.
-displayOrder: 25
+displayOrder: 33
 heroImage: ''
 importance: 54.0
 pubDate: '2026-08-05T13:58:00Z'

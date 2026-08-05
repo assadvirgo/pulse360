@@ -5,7 +5,7 @@ countryCode: BD
 description: Bangladesh's ousted former prime minister Sheikh Hasina has announced
   plans to return to her country from exile despite facing a death sentence over a
   bloody crackdown on…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 67.0
 pubDate: '2026-08-05T17:09:00Z'

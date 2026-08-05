@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Company noted for building quantum annealers now also making gate-based
   hardware.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-05T16:37:07Z'

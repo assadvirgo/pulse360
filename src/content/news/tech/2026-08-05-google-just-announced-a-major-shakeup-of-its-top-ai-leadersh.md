@@ -5,7 +5,7 @@ countryCode: US
 description: Google is making some significant AI leadership changes, including a
   major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the
   chair of Google DeepMind and…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-05T16:47:23Z'
