@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president faces few good options to exit a war he once said would
   end swiftly with the Islamic republic’s surrender
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-05T00:50:16Z'

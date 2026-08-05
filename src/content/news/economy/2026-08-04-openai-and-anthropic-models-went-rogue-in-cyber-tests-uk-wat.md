@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: AI Security Institute warns tools undertook ‘potentially harmful activity
   directed at real people and organisations’
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-04T23:27:36Z'

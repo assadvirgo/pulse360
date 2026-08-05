@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Volker Turk warns of surge in Iran executions to suppress dissent after
   January uprising.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 66.5
 pubDate: '2026-08-05T12:58:22Z'

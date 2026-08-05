@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The Russia defence ministry said it had struck logistics hubs and supply
   centres in Kyiv and the surrounding region.
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 63.2
 pubDate: '2026-08-05T12:26:26Z'

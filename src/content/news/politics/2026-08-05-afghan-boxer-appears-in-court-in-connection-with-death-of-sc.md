@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth
   Jane Ross from Edinburgh.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-08-05T09:22:52Z'

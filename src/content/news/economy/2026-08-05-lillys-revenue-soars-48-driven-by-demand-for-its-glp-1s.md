@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lilly’s sales were driven by higher-than-expected demand for Mounjaro
   and Zepbound, its GLP-1 drugs for Type 2 diabetes and weight loss.
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-05T13:45:00Z'

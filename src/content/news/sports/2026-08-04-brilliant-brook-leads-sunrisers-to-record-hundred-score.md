@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Harry Brook hits a 15-ball fifty and Ryan Rickelton makes 94 not out
   as Sunrisers Leeds set a new Hundred record, making 241-2 against London Spirit.
-displayOrder: 48
+displayOrder: 49
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-04T21:18:36Z'

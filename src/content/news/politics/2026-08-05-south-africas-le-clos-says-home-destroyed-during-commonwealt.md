@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Olympic swimming champion Chad le Clos says his home was destroyed in
   a fire while he was at the Commonwealth Games.
-displayOrder: 10
+displayOrder: 26
 heroImage: ''
 importance: 64.5
 pubDate: '2026-08-05T09:53:33Z'

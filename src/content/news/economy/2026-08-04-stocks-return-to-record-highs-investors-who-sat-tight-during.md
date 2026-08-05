@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The S&amp;P 500 booked its 25th record close of 2026, after a 42-day
   break.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-04T22:40:00Z'

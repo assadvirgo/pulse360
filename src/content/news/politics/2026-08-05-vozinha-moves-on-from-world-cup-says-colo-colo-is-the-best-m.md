@@ -4,7 +4,7 @@ country: Chile
 countryCode: CL
 description: Cape Verde&#039;s World Cup goalkeeper Vozinha has been officially unveiled
   as the newest signing for Chilean club Colo-Colo.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-05T10:50:34Z'

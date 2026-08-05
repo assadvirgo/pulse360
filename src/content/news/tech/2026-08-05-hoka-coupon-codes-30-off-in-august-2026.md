@@ -2,7 +2,7 @@
 category: Tech
 description: Unlock free expedited shipping or 10% off with today’s Hoka discount
   codes, plus save up to 30% with the best discounts for August 2026.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-08-05T05:00:00Z'

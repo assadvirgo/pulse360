@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Monsoon downpours cause floods and landslides as climate change and El
   Nino disrupt rainfall patterns.
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 60.5
 pubDate: '2026-08-05T10:10:07Z'

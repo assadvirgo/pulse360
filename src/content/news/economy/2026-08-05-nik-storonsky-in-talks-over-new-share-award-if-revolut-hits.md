@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Pay deal by Europe’s most valuable start-up would emulate that of Elon
   Musk
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-05T04:00:29Z'

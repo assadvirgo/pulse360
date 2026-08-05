@@ -5,7 +5,7 @@ countryCode: US
 description: ADP said U.S. businesses created just 44,000 new jobs in July — the smallest
   increase in six months — in another sign of a sluggish labor market in which hiring
   is unusually soft.
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-05T13:43:00Z'

@@ -5,7 +5,7 @@ countryCode: BE
 description: Jonny Greenwood, Alexandre Desplat and Hildur Guðnadóttir are among the
   nominees for Film Composer of the Year at the 26th edition of the World Soundtrack
   Awards, which takes…
-displayOrder: 9
+displayOrder: 20
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-05T13:00:00Z'

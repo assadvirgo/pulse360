@@ -5,7 +5,7 @@ countryCode: US
 description: Christopher Nolan&#8217;s The Odyssey continues to break records, and
   now the highest-grossing theater exhibiting the film in 70mm is extending its run.
   L.A.&#8217;s historic Alex…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 73.0
 pubDate: '2026-08-05T03:25:27Z'
