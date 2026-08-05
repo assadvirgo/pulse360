@@ -3,7 +3,7 @@ category: Tech
 description: Memory and storage prices will be inflated for the foreseeable future,
   so we’re always happy to find a good deal on capable gaming hardware, like this
   discount on the Lenovo…
-displayOrder: 12
+displayOrder: 24
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-04T17:35:04Z'

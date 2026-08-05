@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Oil prices turned sharply lower on Tuesday after a Qatari official talked
   about a potential short-term deal between the U.S. and Iran.
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-04T19:46:00Z'

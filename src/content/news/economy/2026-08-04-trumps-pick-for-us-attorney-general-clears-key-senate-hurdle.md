@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Todd Blanche’s nomination narrowly passed by committee after he agreed
   to scrap the president’s $1.8bn ‘slush fund’
-displayOrder: 23
+displayOrder: 40
 heroImage: ''
 importance: 52.5
 pubDate: '2026-08-04T15:41:13Z'

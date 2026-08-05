@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The region's Moscow-installed governor says the gunman has been detained
   after firing at fellow soldiers and civilians.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-04T09:23:06Z'

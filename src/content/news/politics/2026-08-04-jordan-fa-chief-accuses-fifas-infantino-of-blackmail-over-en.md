@@ -4,7 +4,7 @@ country: Jordan
 countryCode: JO
 description: Fallout from failed FIFA World Cup selloff continues, as Jordan FA president
   joins list of Gianni Infantino detractors.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 61.5
 pubDate: '2026-08-04T17:49:32Z'

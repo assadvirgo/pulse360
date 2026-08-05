@@ -5,7 +5,7 @@ countryCode: US
 description: The judge hearing the antitrust case seeking to block the Paramount-Warner
   Bros. Discovery merger has issued a preliminary scheduling order, with a trial set
   to start in March…
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 69.8
 pubDate: '2026-08-04T19:38:30Z'

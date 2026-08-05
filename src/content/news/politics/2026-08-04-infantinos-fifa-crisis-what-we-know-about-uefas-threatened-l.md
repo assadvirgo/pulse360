@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: What UEFA&#039;s legal letter to FIFA could mean for its president Gianni
   Infantino after World Cup private investment plan.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-04T16:36:47Z'

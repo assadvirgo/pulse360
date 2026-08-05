@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: McDonald's new U.S. President Skye Anderson has been with the company
   for 26 years and succeeds Joe Erlinger in the role.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-04T14:32:41Z'

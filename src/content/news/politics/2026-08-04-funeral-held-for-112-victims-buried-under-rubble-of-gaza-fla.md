@@ -2,7 +2,7 @@
 category: Politics
 description: A mass funeral has been held in Gaza for more than 100 people finally
   recovered from the site of an Israeli attack on an apartment block.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-08-04T14:48:00Z'

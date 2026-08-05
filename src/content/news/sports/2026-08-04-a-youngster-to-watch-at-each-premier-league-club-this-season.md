@@ -5,7 +5,7 @@ countryCode: GB
 description: The Premier League returns later this month and we have picked out 20
   prospects - one from each club - who will be looking to make their mark and enjoy
   a breakthrough season.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-08-04T05:54:31Z'

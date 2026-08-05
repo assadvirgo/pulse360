@@ -3,7 +3,7 @@ category: Economy
 country: Denmark
 countryCode: DK
 description: The Danish drugmaker also revealed an improved outlook for the year.
-displayOrder: 34
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-04T20:17:00Z'

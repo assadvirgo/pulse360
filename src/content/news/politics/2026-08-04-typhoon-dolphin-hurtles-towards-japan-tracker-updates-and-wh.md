@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: The large storm is forecast to cause strong winds and rainfall in parts
   of Japan, China and Taiwan.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-04T13:26:43Z'

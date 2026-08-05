@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “My car was nearly 20 years old, and I only carried liability and uninsured
   motorist coverage, not collision coverage.”
-displayOrder: 28
+displayOrder: 37
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-04T20:00:00Z'

@@ -4,7 +4,7 @@ country: Guatemala
 countryCode: GT
 description: Guatemala raises alert as Fuego volcano erupts, spewing ash and forcing
   village evacuations.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-04T16:14:34Z'

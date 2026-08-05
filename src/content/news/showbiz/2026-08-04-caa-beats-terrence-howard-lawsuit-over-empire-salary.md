@@ -5,7 +5,7 @@ countryCode: US
 description: Howard had claimed his interests in negotiations took a backseat to those
   of his agents, who packaged the deal with Fox, and the show’s producers, which CAA
   also represented.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-08-04T19:36:05Z'

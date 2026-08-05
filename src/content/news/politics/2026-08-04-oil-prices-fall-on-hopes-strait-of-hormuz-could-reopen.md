@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent
   both announced talks had progressed to allow shipments to resume.
-displayOrder: 10
+displayOrder: 19
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-04T19:00:43Z'

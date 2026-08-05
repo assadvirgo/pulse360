@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: A video shows a Russian drone pursuing a street vendor in the Kherson
   region before exploding.
-displayOrder: 21
+displayOrder: 31
 heroImage: ''
 importance: 49.2
 pubDate: '2026-08-04T19:07:19Z'
