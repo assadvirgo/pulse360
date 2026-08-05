@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Loaded pistol and rifle among items found in suspect&#039;s pocket, car
   and home following arrest, police say.
-displayOrder: 14
+displayOrder: 37
 heroImage: ''
 importance: 66.5
 pubDate: '2026-08-05T01:29:01Z'

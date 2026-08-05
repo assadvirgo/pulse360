@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: Amid political upheaval in Bangladesh, a journalist debunks fake news
   in a fight for his nation’s democratic future.
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-05T05:00:00Z'

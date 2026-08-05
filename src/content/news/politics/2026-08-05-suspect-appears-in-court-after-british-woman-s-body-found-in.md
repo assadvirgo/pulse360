@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: A man accused of killing a British woman and disposing of her body in
   a suitcase has appeared in a court in Athens.
-displayOrder: 15
+displayOrder: 33
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-05T06:36:00Z'

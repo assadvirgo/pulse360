@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A US judge has begrudgingly dismissed the last prosecution cases tied
   to the January 6 insurrection on Capitol Hill.
-displayOrder: 17
+displayOrder: 38
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-05T04:37:43Z'

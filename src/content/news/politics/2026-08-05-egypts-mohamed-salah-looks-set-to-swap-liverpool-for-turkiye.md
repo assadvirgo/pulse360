@@ -4,7 +4,7 @@ country: Egypt
 countryCode: EG
 description: The Egyptian forward has been linked with a move to Turkiye since announcing
   he was leaving Liverpool.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 66.5
 pubDate: '2026-08-05T05:40:27Z'

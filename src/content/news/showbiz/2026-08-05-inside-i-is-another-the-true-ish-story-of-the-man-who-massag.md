@@ -3,7 +3,7 @@ category: Showbiz
 description: Director Felix Randau, stars Claes Bang, Valerie Pachner and Susanne
   Wuest on turning Heinrich Himmler's masseur into a Locarno psychological thriller
   about truth, ego and the…
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-05T08:00:00Z'

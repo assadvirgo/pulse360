@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The arrest happened shortly before President Trump was due to host a
   fundraising dinner at the coastal golf course in California.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-08-05T00:19:04Z'

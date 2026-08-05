@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Fire experts warn such markets could incentivize arson.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-08-04T21:52:31Z'

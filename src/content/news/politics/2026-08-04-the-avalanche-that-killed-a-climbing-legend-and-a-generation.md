@@ -4,7 +4,7 @@ country: Nepal
 countryCode: NP
 description: Their fellow guides say their deaths in Pakistan dealt a devastating
   blow to Nepal's mountaineering community.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-04T22:09:50Z'

@@ -5,7 +5,7 @@ countryCode: CH
 description: Magic realist love story “Chapa 100,” absurdist political allegory “A
   Vineyard for a Lobster” and cross-continental queer drama “Hibiscus by the River”
   look like some of the…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-05T06:00:00Z'

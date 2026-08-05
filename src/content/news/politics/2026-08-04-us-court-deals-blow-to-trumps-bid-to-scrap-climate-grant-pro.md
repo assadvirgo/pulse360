@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A US federal appeals court says EPA likely acted unlawfully in trying
   to cancel Biden-era clean energy grants.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-08-04T20:35:56Z'
