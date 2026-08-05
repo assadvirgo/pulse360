@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: A wave of Kenyan elephant deaths has been blamed on pesticides, but experts
   tell the BBC they are doubtful.
-displayOrder: 16
+displayOrder: 26
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-04T23:13:04Z'

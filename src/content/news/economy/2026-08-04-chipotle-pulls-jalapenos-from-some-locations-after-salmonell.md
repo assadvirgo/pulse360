@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: While Chipotle’s stock slid on Tuesday, it said health investigators
   had “no ongoing concerns” with the chain after it removed the jalapenos.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-08-04T21:54:00Z'

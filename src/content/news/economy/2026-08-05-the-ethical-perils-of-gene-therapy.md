@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: A case in China shows the dangers associated with this groundbreaking
   treatment
-displayOrder: 28
+displayOrder: 32
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-05T04:00:29Z'

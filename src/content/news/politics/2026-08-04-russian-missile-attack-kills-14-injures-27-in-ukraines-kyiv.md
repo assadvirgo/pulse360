@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The latest attack comes after at least 27 people were killed in both
   Russia and Ukraine earlier this week.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-04T23:24:43Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: The second in a series on Chinese auto companies looks at the European
   industry’s struggle to keep its plants alive
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-05T04:00:11Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Women tell the BBC how they were harassed for participating in the CJP
   protest and posting about it online.
-displayOrder: 33
+displayOrder: 39
 heroImage: ''
 importance: 49.2
 pubDate: '2026-08-04T22:28:30Z'

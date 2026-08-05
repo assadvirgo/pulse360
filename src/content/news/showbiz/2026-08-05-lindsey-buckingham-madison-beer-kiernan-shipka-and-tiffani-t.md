@@ -5,7 +5,7 @@ countryCode: US
 description: Variety has announced presenters for its annual Power of Young Hollywood,
   this year presented by Disney+, taking place on Aug. 5 in Los Angeles. Presenting
   Tate McRae with the…
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-05T01:08:12Z'

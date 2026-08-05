@@ -2,7 +2,7 @@
 category: Politics
 description: Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina
   families killed in 2023 Israeli attack.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-04T20:32:51Z'

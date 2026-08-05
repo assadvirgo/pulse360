@@ -3,7 +3,7 @@ category: Economy
 country: Japan
 countryCode: JP
 description: The dollar’s status as a reserve currency is not what it used to be
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-05T04:00:22Z'
