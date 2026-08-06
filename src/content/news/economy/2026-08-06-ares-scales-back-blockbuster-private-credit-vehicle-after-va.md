@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wall Street firm sought to complete €1bn continuation fund but failed
   to get buy-in for pricing from investors
-displayOrder: 16
+displayOrder: 27
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-06T04:00:15Z'

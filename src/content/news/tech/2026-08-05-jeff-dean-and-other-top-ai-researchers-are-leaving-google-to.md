@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The legendary Google executive is joined by other outgoing Google execs
   in a joint mission to use AI to push forward the process of scientific discovery.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-08-05T19:30:19Z'

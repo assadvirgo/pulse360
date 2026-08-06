@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Pakistan police fired tear gas at supporters of jailed former Prime Minister
   Imran Khan in Rawalpindi.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-05T21:28:14Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: ChatGPT maker seeks to dismiss blockbuster case as it prepares to launch
   its own AI device
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-06T06:09:06Z'

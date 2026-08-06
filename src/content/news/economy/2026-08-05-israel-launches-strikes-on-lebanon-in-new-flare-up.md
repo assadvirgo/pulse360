@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli military issues first evacuation order in over a month amid renewed
   efforts to de-escalate tensions in the region
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-05T16:58:28Z'

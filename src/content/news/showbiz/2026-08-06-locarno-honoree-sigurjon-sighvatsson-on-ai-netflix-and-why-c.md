@@ -5,7 +5,7 @@ countryCode: CH
 description: The 'Wild at Heart' and 'Basquiat' producer talks ahead of receiving
   the Raimondo Rezzonico Award, arguing smaller festivals will outlast the "mega cinema"
   era.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-08-06T06:00:00Z'

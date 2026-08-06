@@ -5,7 +5,7 @@ countryCode: US
 description: A lawsuit accuses Homeland Security of violating protesters’ free-speech
   rights—but the agency is using it to try to get access to the plaintiffs’ encrypted
   communications.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-05T20:38:54Z'

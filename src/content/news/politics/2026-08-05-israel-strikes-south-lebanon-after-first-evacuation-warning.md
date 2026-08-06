@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Lebanon's health ministry says one person was killed in the strikes,
   which the Israeli military says were a response to a Hezbollah ceasefire violation.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 72.2
 pubDate: '2026-08-05T20:03:36Z'

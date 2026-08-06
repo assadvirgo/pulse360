@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Kidnapping for ransom by armed groups and bandits has become a major
   crisis in Nigeria.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-05T23:34:47Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces have launched a large-scale military operation in Qalandiya
   refugee camp in the occupied West Bank.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-05T21:31:55Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Regal Cinemas CEO Eduardo Acuna released a statement on Wednesday evening
   in support of the looming Paramount-Warner Bros. merger. &#8220;This year has been
   an important one for…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-08-06T00:36:25Z'

@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: President seeks to move on from saga that undermined world football’s
   governing body
-displayOrder: 20
+displayOrder: 36
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-05T22:39:02Z'

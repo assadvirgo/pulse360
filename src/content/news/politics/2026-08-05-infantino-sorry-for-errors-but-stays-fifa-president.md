@@ -3,7 +3,7 @@ category: Politics
 description: Gianni Infantino will remain Fifa president after receiving backing from
   senior executives, but "sincerely apologises" for errors in his controversial private
   investment plans.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-05T21:37:08Z'

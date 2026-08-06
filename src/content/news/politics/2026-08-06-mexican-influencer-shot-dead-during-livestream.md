@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: 24-year-old TikToker Cesar Gastelum, was shot dead while livestreaming
   with friends outside a fast-food restaurant.
-displayOrder: 21
+displayOrder: 32
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-06T01:28:53Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The S&amp;P 500 has enjoyed an epic rally over the past five days — but
   the advance may be more mechanical and driven by options positioning, rather than
   by an improvement in…
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-05T20:51:00Z'

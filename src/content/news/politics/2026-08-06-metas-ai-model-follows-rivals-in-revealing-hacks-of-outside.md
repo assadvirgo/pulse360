@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity
   testing.
-displayOrder: 25
+displayOrder: 34
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-06T00:40:28Z'
