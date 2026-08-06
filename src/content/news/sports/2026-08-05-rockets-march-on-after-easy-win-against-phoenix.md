@@ -5,7 +5,7 @@ countryCode: GB
 description: Trent Rockets' continued their excellent form as they comfortably beat
   Birmingham Phoenix by seven wickets to move four points clear at the top of the
   men's Hundred table, with…
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-05T20:36:08Z'

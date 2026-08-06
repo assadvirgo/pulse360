@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: FanDuel, Flutter's most important business, has been losing its dominance
   in market share in the United States.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-08-05T21:22:56Z'

@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: Applications for indefinite right to work, live and study in the country
   have risen after rules were eased
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-06T00:07:18Z'

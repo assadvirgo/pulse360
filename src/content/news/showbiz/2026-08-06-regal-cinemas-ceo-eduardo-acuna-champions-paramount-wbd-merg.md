@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: With the Paramount-Warner Bros Discovery merger hung up in
   a pending antitrust trial that&#8217;s set for March 2027, Regal Global Entertainment&#8217;s
   Eduardo Acuna,…'
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 71.0
 pubDate: '2026-08-06T00:15:20Z'

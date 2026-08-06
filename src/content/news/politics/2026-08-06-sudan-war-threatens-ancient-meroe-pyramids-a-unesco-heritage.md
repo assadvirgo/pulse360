@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating
   war and neglect.
-displayOrder: 1
+displayOrder: 14
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-06T09:28:30Z'

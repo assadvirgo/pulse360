@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge on Wednesday dismissed a lawsuit from a group of consumers
   looking to challenge the $111 billion merger between Paramount and Warner Bros.
   Judge Araceli…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-08-06T03:31:04Z'

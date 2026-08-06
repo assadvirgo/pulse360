@@ -4,7 +4,7 @@ country: Gambia
 countryCode: GM
 description: Trees provide a living for the women, who plant and care for them, and
   shield the island capital from erosion, flooding.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-06T02:34:00Z'

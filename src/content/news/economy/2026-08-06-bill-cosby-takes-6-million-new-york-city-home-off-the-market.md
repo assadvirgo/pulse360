@@ -5,7 +5,7 @@ countryCode: US
 description: Actor Bill Cosby has again removed his New York City townhouse from the
   market—weeks after canceling a deposition in an ongoing $60 million rape case because
   of his ill health.
-displayOrder: 31
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-06T08:58:00Z'

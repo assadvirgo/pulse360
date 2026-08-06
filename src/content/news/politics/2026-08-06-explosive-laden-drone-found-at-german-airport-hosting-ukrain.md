@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: German authorities are investigating how a drone packed with explosives
   reached Leipzig/Halle Airport.
-displayOrder: 22
+displayOrder: 39
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-06T02:28:56Z'

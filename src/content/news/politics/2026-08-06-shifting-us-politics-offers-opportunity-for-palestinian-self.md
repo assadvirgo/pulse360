@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Palestinian advocacy needs to actively engage with changes in attitudes
   among both Democratic and Republican voters.
-displayOrder: 10
+displayOrder: 23
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-06T08:25:52Z'

@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Hong Myung-bo&#039;s appointment under scrutiny amid raids with lack
   of proper interview process previously alleged.
-displayOrder: 2
+displayOrder: 16
 heroImage: ''
 importance: 60.5
 pubDate: '2026-08-06T09:34:04Z'

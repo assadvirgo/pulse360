@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Nigeria's government says the rescue is the country's largest single-day
   operation by joint security forces.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-06T04:35:33Z'

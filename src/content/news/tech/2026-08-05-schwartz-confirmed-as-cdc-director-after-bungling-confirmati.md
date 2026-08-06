@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Schwartz is well-qualified for the role, but crashed and burned in Senate
   hearing.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-08-05T21:03:18Z'

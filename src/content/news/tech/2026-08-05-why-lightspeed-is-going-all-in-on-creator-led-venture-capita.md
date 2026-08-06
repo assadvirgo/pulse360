@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Venture firms are turning to creators to build trust with the next generation
   of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been…
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-08-05T20:48:54Z'

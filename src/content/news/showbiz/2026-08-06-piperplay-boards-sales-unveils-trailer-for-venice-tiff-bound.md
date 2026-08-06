@@ -5,7 +5,7 @@ countryCode: IT
 description: 'EXCLUSIVE: PiperPlay has boarded sales on Edoardo Gabbriellini’s true
   crime drama The City of the Living (La città dei vivi) ahead of its world premiere
   in Venice’s Orizzonti…'
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-06T09:00:00Z'

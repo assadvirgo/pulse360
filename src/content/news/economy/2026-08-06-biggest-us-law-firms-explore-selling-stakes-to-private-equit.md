@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Paul Weiss, Quinn Emanuel and Proskauer among firms that have had conversations
   about deals
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-06T04:00:14Z'

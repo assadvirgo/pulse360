@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s
   King Felipe VI, are expected to attend.
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 73.5
 pubDate: '2026-08-06T02:06:03Z'

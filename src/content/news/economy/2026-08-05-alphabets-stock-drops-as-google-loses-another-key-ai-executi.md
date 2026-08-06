@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Jeff Dean, Google’s chief scientist and one of its first employees, is
   leaving to launch his own company.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-05T21:20:00Z'

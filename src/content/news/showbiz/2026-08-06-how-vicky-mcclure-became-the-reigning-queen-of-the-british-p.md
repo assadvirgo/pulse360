@@ -5,7 +5,7 @@ countryCode: GB
 description: As one of Britain's most prolific TV actors prepares to detonate season
   four of ITV's 'Trigger Point,' she opens up about 'Line of Duty' fame, her working-class
   roots and…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-08-06T10:30:00Z'
