@@ -5,7 +5,7 @@ countryCode: US
 description: Reddit is enlisting AI to help moderate new subreddits - and eventually
   the rest of site. The company is introducing automated moderation tools that rely
   on LLMs to help mods…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-05T16:00:00Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: A drone carrying an explosive device has been found at a German airport
   after reports of a flying object closed both runways.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 64.0
 pubDate: '2026-08-05T14:28:00Z'

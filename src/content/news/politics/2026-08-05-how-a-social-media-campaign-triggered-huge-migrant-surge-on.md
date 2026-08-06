@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Following a court ruling protecting migrants swimming to Ceuta the previous
   week, accounts called on thousands to go.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-08-05T11:48:55Z'

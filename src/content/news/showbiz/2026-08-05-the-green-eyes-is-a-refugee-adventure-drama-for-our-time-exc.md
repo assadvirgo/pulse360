@@ -5,7 +5,7 @@ countryCode: FR
 description: French writers-directors Fanny Liatard and Jérémy Trouilh invite us to
   experience a world full of chaos from a child's perspective in the Locarno opener,
   whose original title is…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-05T14:50:00Z'

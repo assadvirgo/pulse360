@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The comedy troupe is back with their latest wacky effort about a ragtag
   group of Vermont cops.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-08-05T20:20:00Z'

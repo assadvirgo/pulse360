@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Volker Türk says 56 people have been executed on national security-related
   charges, including 27 in cases linked to January's protests.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-05T14:04:09Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: A drone carrying an explosive device that was found at Leipzig airport
   was "very professionally carried out", a German minister said.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-05T14:28:00Z'

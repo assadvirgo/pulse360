@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The announcement comes as Nigeria's security forces struggle to contain
   multiple threats.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-08-05T12:52:19Z'

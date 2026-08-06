@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: David Miller has told Al Jazeera the ruling is a victory that will encourage
   others to speak out against Zionism.
-displayOrder: 14
+displayOrder: 25
 heroImage: ''
 importance: 61.5
 pubDate: '2026-08-05T15:22:39Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bank of America was among the prime brokers for the hedge fund, which
   is run by Leopold Aschenbrenner.
-displayOrder: 37
+displayOrder: 48
 heroImage: ''
 importance: 52.5
 pubDate: '2026-08-05T13:35:59Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Sony Music has announced the appointment of Stephanie Yu to General Counsel
   and Executive Vice President, Business and Legal Affairs. She reports to Rob Stringer,
   Chairman, Sony…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-05T15:45:16Z'

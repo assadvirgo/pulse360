@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros. Television is taking a trip down memory lane to reminisce
   on its seminal coming-of-age series Gilmore Girls. An untitled documentary about
   the series, which ran from…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-08-05T19:00:00Z'

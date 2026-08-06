@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: The drone was found near Ukrainian cargo planes before another object
   collided with a cargo aircraft in mid-air.
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-05T16:06:30Z'

@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: The eight-team tournament is likely to be played between August 28 and
   September 13
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-05T06:27:29Z'

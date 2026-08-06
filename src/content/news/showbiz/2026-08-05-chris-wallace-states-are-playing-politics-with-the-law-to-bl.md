@@ -5,7 +5,7 @@ countryCode: US
 description: '"I don’t believe government should use its powers to determine who owns
   a news platform or to control how that outlet reports the news," writes the former
   Fox and CNN anchor, who…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-08-05T13:40:00Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The "cockroach" movement was one of the biggest public displays of dissent
   against India's prime minister in years.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 87.2
 pubDate: '2026-08-05T18:38:46Z'
