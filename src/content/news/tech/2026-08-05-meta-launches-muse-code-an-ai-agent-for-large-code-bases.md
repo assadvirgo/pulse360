@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta expanded its AI coding offerings with a new agent that, it promises,
   can handle complex tasks with complex software.
-displayOrder: 9
+displayOrder: 15
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-05T21:21:28Z'

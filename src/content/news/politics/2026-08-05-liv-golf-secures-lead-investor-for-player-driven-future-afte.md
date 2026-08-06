@@ -2,7 +2,7 @@
 category: Politics
 description: An agreement with an unnamed investor is approved by the LIV Golf board
   to replace Saudi Arabia deal.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-05T17:06:04Z'

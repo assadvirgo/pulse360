@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Figma’s AI monetization strategy is showing promise as customers grow
   their AI-credit consumption on the platform.
-displayOrder: 46
+displayOrder: 49
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-05T20:09:00Z'

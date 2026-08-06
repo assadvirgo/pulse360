@@ -5,7 +5,7 @@ countryCode: GB
 description: Sophia Dunkley spearheads an assured batting performance with 65 runs
   for Trent Rockets, who comfortably defeat Birmingham Phoenix by six wickets in The
   Hundred to move to the top…
-displayOrder: 29
+displayOrder: 39
 heroImage: ''
 importance: 54.2
 pubDate: '2026-08-05T17:07:56Z'

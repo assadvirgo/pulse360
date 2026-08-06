@@ -5,7 +5,7 @@ countryCode: US
 description: As a lawsuit from 12 states halts David Ellison’s $111 billion deal close
   until the March trial, both studios are in a holding pattern, with some projects
   at risk and priorities…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-06T00:03:56Z'

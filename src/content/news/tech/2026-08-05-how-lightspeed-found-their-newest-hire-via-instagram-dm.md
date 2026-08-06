@@ -5,7 +5,7 @@ countryCode: US
 description: Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity
   studio to talk about the strategies behind their growing social media presence and
   their podcast, Lightwork.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-05T20:48:56Z'

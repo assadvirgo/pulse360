@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Trump administration has sought to weaken the leadership of high-profile
   Mexican cartels by increasing the bounties.
-displayOrder: 12
+displayOrder: 19
 heroImage: ''
 importance: 59.5
 pubDate: '2026-08-05T21:07:03Z'

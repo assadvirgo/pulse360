@@ -2,7 +2,7 @@
 category: Politics
 description: Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten
   drastic actions over commercial rights plan.
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-05T22:59:28Z'

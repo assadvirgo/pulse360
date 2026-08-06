@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Missouri voters rejected a bid to ditch the state’s income tax Tuesday,
   while big votes loom in Florida and California this fall.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-05T19:46:00Z'

@@ -4,7 +4,7 @@ country: Malaysia
 countryCode: MY
 description: Authorities are screening 5,000 refugees as rights groups warn they remain
   at risk of persecution in Myanmar.
-displayOrder: 11
+displayOrder: 23
 heroImage: ''
 importance: 67.5
 pubDate: '2026-08-05T18:40:06Z'

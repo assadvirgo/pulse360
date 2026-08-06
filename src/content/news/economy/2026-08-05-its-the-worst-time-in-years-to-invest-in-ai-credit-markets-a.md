@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Researchers at Andromeda Capital Management are worried about the uncertain
   return on investment for investors who are financing the AI capex bonanza.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-05T14:44:00Z'

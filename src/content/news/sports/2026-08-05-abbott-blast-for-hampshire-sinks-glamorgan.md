@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: An early three-wicket blast from Kyle Abbott earns Hampshire a 90-run
   win over Glamorgan, who suffer their fifth successive One-Day Cup defeat.
-displayOrder: 27
+displayOrder: 37
 heroImage: ''
 importance: 54.2
 pubDate: '2026-08-05T17:17:49Z'

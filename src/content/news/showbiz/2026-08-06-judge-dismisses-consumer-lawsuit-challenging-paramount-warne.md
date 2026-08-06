@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge tossed out an antitrust challenge to the Paramount-Warner
   Bros. Discovery merger that was brought by a group of consumers. U.S. District Judge
   Araceli…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 64.0
 pubDate: '2026-08-06T01:57:19Z'

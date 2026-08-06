@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: The 78-year-old has been convicted of crimes against humanity over a
   deadly crackdown on a 2024 uprising.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-08-05T19:02:06Z'
