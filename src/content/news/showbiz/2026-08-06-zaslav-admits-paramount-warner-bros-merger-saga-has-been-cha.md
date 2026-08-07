@@ -5,7 +5,7 @@ countryCode: US
 description: What&#8217;s the mood among the Warner Bros. Discovery rank and file
   amid the pending Paramount takeover? Some WBD execs have privately expressed hope
   the antitrust case brought…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-08-06T12:57:36Z'

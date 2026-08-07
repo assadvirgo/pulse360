@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: People in southern Lebanon question their government&#039;s approach
   as Israel launches more attacks and displacement orders.
-displayOrder: 6
+displayOrder: 11
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-06T23:46:37Z'

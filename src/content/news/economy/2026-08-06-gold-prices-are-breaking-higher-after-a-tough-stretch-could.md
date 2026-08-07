@@ -2,7 +2,7 @@
 category: Economy
 description: Gold miners’ stocks can offer a high-quality play for investors worried
   about inflation and the Fed.
-displayOrder: 23
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-06T20:57:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: London Spirit become the first team to be eliminated from The Hundred
   after a four-wicket defeat by MI London in front of a record crowd at Lord's.
-displayOrder: 13
+displayOrder: 21
 heroImage: ''
 importance: 56.2
 pubDate: '2026-08-06T21:18:20Z'

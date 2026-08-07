@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Lancashire sign Pakistan spinner Noman Ali for the final six games of
   the County Championship season.
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-06T13:14:14Z'

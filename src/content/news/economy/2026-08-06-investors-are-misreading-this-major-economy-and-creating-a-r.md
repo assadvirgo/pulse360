@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Buy 10-year Treasury gilts over U.S. Treasurys and other international
   bonds, advises TS Lombard.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-06T09:40:00Z'

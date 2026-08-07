@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine's president says the strikes aim to limit revenues Russia "used
   to finance" its war.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 69.2
 pubDate: '2026-08-06T15:41:05Z'

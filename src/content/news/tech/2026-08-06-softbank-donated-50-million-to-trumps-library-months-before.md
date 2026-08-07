@@ -5,7 +5,7 @@ countryCode: US
 description: SoftBank contributed $50 million to the Trump Presidential Library in
   January, just months before announcing that it's leasing land from the federal government
   to build a…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-08-06T14:30:00Z'

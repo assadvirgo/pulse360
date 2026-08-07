@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Versant noted revenue growth in its platforms business, which includes
   Fandango and GolfNow, and now, the recent acquisition of Full Swing.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-08-06T13:36:33Z'
