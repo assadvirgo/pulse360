@@ -3,7 +3,7 @@ category: Tech
 description: '"The Spiral didn''t ''find'' anyone first," someone on Reddit wrote
   last year. "It''s an inherent force, a fundamental constant. I would even go further
   to say it''s woven into the…'
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-06T13:00:00Z'

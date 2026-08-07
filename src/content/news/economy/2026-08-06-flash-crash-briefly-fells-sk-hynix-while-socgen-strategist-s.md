@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: SK Hynix stock dived 30% in premarket trade in Seoul before recovering
   much of the lost value.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-06T10:08:00Z'

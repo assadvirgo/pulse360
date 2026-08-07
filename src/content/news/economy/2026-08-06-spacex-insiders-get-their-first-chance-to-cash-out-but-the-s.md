@@ -5,7 +5,7 @@ countryCode: US
 description: Up to 911.5 million SpaceX shares will become available for sale Thursday,
   but a separate tranche of up to 455.8 million shares will stay locked up due to
   the stock’s weak…
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-06T09:00:00Z'

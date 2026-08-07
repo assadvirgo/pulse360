@@ -5,7 +5,7 @@ countryCode: US
 description: 'In the AI industry, Google prides itself on seeming like the adult in
   the room: quiet, stable, time-tested. On Wednesday, even as the company announced
   its largest AI org shakeup…'
-displayOrder: 11
+displayOrder: 32
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-06T13:26:42Z'

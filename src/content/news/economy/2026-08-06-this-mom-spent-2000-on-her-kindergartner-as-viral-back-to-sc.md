@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Students and parents are breaking their back-to-school budgets thanks
   to inflation and social-media trends.
-displayOrder: 31
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-06T12:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US officials say they would not accept any arrangement on the waterway
   that would leave Iran in control.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-06T10:20:57Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: New to Govee? Get a $5 coupon on your first purchase just for signing
   up.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-08-06T05:00:00Z'

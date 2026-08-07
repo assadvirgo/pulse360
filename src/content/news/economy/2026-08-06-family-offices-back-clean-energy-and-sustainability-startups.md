@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Private investment firms of John Doerr and other billionaires are backing
   geothermal energy, nylon recycling and more.
-displayOrder: 34
+displayOrder: 41
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-06T13:36:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The group’s shares have quadrupled, but it has yet to prove itself a
   serious manufacturing competitor to Taiwan’s TSMC
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-08-06T04:00:15Z'

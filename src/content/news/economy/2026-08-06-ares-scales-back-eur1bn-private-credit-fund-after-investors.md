@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Wall Street firm sought to complete €1bn continuation fund but failed
   to get buy-in for pricing from investors
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-06T04:00:15Z'

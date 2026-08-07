@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The politics of aspiration is reshaping Generation Z worldwide, and India
   may still have an opportunity to respond.
-displayOrder: 15
+displayOrder: 36
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-06T10:55:54Z'

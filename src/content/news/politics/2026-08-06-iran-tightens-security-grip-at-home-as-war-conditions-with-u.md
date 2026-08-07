@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Executions, arrests and closure of public gathering spaces have raised
   concerns among Iranians and rights groups.
-displayOrder: 7
+displayOrder: 27
 heroImage: ''
 importance: 60.5
 pubDate: '2026-08-06T13:16:03Z'

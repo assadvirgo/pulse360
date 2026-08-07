@@ -5,7 +5,7 @@ countryCode: GB
 description: Craig Russell stars as a former operative hiding behind a dog collar
   in &#8220;The Priest,&#8221; a British action thriller that has finished shooting
   on location in Cornwall,…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-06T08:47:24Z'

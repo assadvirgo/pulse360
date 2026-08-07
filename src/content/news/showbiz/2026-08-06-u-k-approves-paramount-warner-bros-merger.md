@@ -5,7 +5,7 @@ countryCode: GB
 description: The U.K. has cleared Paramount Skydance&#8217;s $111 ⁠billion acquisition
   of Warner Bros. on both competition and ⁠public interest grounds after Paramount
   beefed up promises…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 66.8
 pubDate: '2026-08-06T11:27:49Z'

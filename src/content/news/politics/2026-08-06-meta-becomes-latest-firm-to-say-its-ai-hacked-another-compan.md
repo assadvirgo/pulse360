@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta is the latest company to disclose an AI agent breach, raising cyber-security
   concerns.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-08-06T05:53:58Z'

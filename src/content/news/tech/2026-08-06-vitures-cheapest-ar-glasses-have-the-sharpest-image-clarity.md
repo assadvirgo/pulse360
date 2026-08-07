@@ -3,7 +3,7 @@ category: Tech
 description: I enjoy using display-mirroring glasses as a way to play Steam Deck games
   on a big screen, and I'm always on the hunt for the best pair. There's still not
   one perfect model I can…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-06T13:00:00Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Getting a company to implement recommended changes is a contact sport
   that only humans can play
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-06T04:00:15Z'

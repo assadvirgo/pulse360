@@ -5,7 +5,7 @@ countryCode: US
 description: The cloud-monitoring company faced a high bar due to its strong stock
   performance this year and ended up beating expectations by less than it did in the
   prior quarter.
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 32.5
 pubDate: '2026-08-06T13:46:00Z'

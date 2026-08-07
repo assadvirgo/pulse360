@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Striking hundreds of targets in a matter of weeks, Ukraine has found
   a new way to pressure Russia&#039;s hold on Crimea
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-08-06T06:40:18Z'

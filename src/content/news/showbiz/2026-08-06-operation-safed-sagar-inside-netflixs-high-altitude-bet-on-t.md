@@ -5,7 +5,7 @@ countryCode: IN
 description: The most important prop in Netflix series &#8220;Operation Safed Sagar&#8221;
   isn&#8217;t a fighter jet. It&#8217;s a wing badge. When creator and showrunner
   Abhijeet Singh Parmar…
-displayOrder: 3
+displayOrder: 21
 heroImage: ''
 importance: 67.8
 pubDate: '2026-08-06T13:45:00Z'
