@@ -5,7 +5,7 @@ countryCode: US
 description: Lionsgate CEO Jon Feltheimer went to bat Thursday for Paramount CEO David
   Ellison and the company&#8217;s hung-up merger with Warner Bros. Discovery. &#8220;Uncertainty
   is the…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-06T21:59:02Z'

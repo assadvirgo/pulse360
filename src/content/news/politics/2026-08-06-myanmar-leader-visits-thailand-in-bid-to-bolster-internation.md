@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: Min Aung Hlaing stressed that his government was focused on ending the
   civil war and restoring peace.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-08-06T12:04:36Z'

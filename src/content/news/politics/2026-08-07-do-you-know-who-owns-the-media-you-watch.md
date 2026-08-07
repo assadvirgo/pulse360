@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Today, a total of 6 companies own 90% of the American media market.
-displayOrder: 19
+displayOrder: 23
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-07T00:28:50Z'

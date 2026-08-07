@@ -5,7 +5,7 @@ countryCode: CN
 description: Researchers linked the latest malicious activity to a Chinese company,
   after one of the spyware's operators placed an order with KFC using their real name
   and office address.
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 56.0
 pubDate: '2026-08-06T19:22:30Z'

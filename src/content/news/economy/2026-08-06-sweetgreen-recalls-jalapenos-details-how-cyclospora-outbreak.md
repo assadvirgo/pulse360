@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The salad chain’s shares tumbled after hours, but it said it doesn’t
   use iceberg lettuce and only uses jalapenos in two dressings.
-displayOrder: 32
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-06T22:58:00Z'

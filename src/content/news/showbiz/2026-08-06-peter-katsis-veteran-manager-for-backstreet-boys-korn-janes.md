@@ -5,7 +5,7 @@ countryCode: US
 description: Peter Katsis, a co-founder of the management companies the Firm and Prospect
   Park who over the course of a 35-year career managed an unusually wide wide variety
   of artists…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-06T22:04:49Z'

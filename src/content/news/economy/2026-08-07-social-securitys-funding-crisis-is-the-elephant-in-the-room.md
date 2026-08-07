@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: No one knows what Congress will do if Social Security’s trust fund were
   actually to be depleted.
-displayOrder: 28
+displayOrder: 32
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-07T00:31:00Z'

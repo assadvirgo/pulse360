@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli
   attack in April; Israel denied targeting the journalists.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 57.2
 pubDate: '2026-08-06T14:20:15Z'

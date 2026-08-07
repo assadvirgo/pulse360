@@ -5,7 +5,7 @@ countryCode: GB
 description: The U.K.’s decision to clear Paramount Skydance’s $111 ⁠billion proposed
   acquisition of Warner Bros. Discovery has been broadly welcomed by European industry
   players. U.K.…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-06T22:24:57Z'

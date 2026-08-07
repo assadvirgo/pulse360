@@ -5,7 +5,7 @@ countryCode: US
 description: Fresh off its silver screen debut and record-breaking pre-order numbers,
   the buzzy new device is coming to T-Mobile customers at no cost. Here's how to claim
   the carrier's best…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-08-07T03:00:05Z'

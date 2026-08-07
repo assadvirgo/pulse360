@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: Aid workers say the virus is spreading at an &#039;alarming and unprecedented
   rate&#039; as virus spreads to remote areas.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 74.5
 pubDate: '2026-08-06T13:07:16Z'

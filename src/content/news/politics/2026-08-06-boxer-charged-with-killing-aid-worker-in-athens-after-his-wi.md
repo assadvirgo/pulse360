@@ -4,7 +4,7 @@ country: Greece
 countryCode: GR
 description: Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide
   with intent, robbery and weapons offences.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-06T17:26:56Z'

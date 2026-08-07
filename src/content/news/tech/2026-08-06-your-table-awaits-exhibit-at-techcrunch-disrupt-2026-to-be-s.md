@@ -5,7 +5,7 @@ countryCode: US
 description: Not everyone needs a keynote slot to make noise at TechCrunch Disrupt
   2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting
   directly on the Expo…
-displayOrder: 16
+displayOrder: 22
 heroImage: ''
 importance: 58.0
 pubDate: '2026-08-06T22:00:00Z'

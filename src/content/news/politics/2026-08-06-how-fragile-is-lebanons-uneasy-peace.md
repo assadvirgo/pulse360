@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Israel goes on the attack after the first soldiers are killed since ceasefire
   began two months ago.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 69.5
 pubDate: '2026-08-06T20:38:29Z'

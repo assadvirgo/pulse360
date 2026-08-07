@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New role for the DeepMind co-founder comes as the competitive frontier
   in the technology is shifting
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-06T16:55:52Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Harsh fouls against Clark and WNBA officiating have fueled a national
   debate, with some lawmakers demanding accountability from the league.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-08-06T17:00:41Z'
