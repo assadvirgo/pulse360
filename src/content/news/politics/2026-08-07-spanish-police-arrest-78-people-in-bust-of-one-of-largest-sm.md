@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The group moved synthetic drugs from Spain to Algeria, then used the
   return journey to smuggle migrants and weapons.
-displayOrder: 12
+displayOrder: 22
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-07T16:13:45Z'

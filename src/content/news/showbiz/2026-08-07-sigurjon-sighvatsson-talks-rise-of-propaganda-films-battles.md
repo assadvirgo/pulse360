@@ -5,7 +5,7 @@ countryCode: CH
 description: '&#8220;Everybody who&#8217;s in film, and you don&#8217;t need to go
   to a doctor to be diagnosed, we have OCD… and ADHD, so when you look at a filmmaker,
   you know they have one of…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-07T16:08:46Z'

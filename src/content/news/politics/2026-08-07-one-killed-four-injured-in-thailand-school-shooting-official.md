@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Authorities say the gunman, a student, killed a teacher before taking
   his own life at a school northwest of Bangkok.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-07T04:23:52Z'

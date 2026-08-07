@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some companies plan to shun the cheapest business- and premium- economy
   fares from their executives.
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-07T15:13:11Z'

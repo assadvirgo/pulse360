@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Naval interdiction appears to be halting tankers from carrying Tehran’s
   crude
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-08-07T12:29:35Z'

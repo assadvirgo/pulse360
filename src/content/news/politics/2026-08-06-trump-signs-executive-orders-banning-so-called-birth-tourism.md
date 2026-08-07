@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump signed two executive orders to further limit
   who is eligible for birthright citizenship.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-06T23:42:47Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Investors are demanding higher rates when they buy long-duration bonds
   because there is less demand, higher supply and a hot mess of policy uncertainty,
   strategist explains
-displayOrder: 29
+displayOrder: 45
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-07T10:02:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ivan Toney charged for an assault that allegedly ​took place on December
   6 last year in United Kingdom.
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-07T10:11:15Z'

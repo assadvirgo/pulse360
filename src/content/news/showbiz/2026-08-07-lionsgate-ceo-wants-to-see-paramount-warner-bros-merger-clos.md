@@ -5,7 +5,7 @@ countryCode: US
 description: Lionsgate CEO Jon Feltheimer voiced support for the stalled Paramount-Warner
   Bros. Discovery merger, which is headed to an antitrust trial to begin in March
   2027. While Lionsgate…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-08-07T12:42:07Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: Wscripted has unveiled the finalists for the sixth edition
   of its Cannes Screenplay List focused on screenplays by women and non-binary writers.
   The selection of 12…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-08-07T14:26:42Z'
