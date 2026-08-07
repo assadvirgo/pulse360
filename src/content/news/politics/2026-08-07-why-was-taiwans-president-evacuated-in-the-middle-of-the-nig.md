@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: President William Lai took part in an emergency evacuation drill as part
   of Taiwan military exercises preparing for a potential Chinese invasion.
-displayOrder: 5
+displayOrder: 23
 heroImage: ''
 importance: 72.2
 pubDate: '2026-08-07T04:52:19Z'

@@ -5,7 +5,7 @@ countryCode: CN
 description: Welcome to Rendering, a Deadline column reporting at the intersection
   of AI and showbiz. Rendering examines how artificial intelligence is disrupting
   the entertainment industry,…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-08-07T09:03:06Z'

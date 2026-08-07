@@ -5,7 +5,7 @@ countryCode: IT
 description: Luca Guadagnino will receive the Cartier Glory to the Filmmaker Award
   at this year&#8217;s Venice Film Festival. The Italian director, who is premiering
   his seven-hour Bernardo…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-07T10:33:17Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK and France are not seeking confrontation with Iran in the US-Israeli
   war Europe largely rejected, say analysts.
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T10:00:56Z'

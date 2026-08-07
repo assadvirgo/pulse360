@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Officials are still working to contain the blazes that have burned down
   at least 860 buildings, including hundreds of homes.
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-07T01:10:58Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The executive orders ban birth tourism and expand the existing definition
   of people whose children are not eligible for US birthright citizenship.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-07T00:34:14Z'

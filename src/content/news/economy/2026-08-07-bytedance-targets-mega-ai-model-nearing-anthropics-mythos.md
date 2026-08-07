@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: TikTok owner training a model three times larger than Moonshot’s Kimi
   K3
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-07T04:36:03Z'

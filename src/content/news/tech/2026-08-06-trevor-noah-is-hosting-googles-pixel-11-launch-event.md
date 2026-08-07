@@ -5,7 +5,7 @@ countryCode: US
 description: Google is set to host its next live Made by Google hardware launch event
   on August 12th, and the company says in a new video that comedian Trevor Noah will
   be hosting the show.…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-06T21:15:47Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: The US, Iran and Oman are close to a temporary deal to reopen the Strait
   of Hormuz.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T00:00:00Z'

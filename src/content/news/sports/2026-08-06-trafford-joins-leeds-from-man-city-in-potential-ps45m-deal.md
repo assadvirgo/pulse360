@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Leeds United sign Manchester City and England goalkeeper James Trafford
   in a deal worth up to £45m.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-08-06T18:04:21Z'

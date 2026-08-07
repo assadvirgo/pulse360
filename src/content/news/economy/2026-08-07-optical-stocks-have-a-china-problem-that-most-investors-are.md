@@ -3,7 +3,7 @@ category: Economy
 country: China
 countryCode: CN
 description: Beijing controls a chokepoint that Washington’s own crackdown can’t address.
-displayOrder: 32
+displayOrder: 40
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-07T11:00:00Z'

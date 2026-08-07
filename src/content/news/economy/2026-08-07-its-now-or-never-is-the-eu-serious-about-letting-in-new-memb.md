@@ -2,7 +2,7 @@
 category: Economy
 description: Candidate countries hope for progress after years of inaction, but some
   in Brussels are still uncertain about enlargement
-displayOrder: 33
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-07T04:00:17Z'

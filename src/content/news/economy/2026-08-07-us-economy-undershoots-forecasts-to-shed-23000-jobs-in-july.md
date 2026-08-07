@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Lacklustre figure complicates Fed’s decision over raising rates
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-07T12:34:58Z'
