@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Google parent is utilizing its balance sheet with a fresh debt issuance,
   as heavy AI investments eat into its free cash flow.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-06T23:14:00Z'

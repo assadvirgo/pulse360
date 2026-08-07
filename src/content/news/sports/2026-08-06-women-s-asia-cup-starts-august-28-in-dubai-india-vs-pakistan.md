@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: All matches in the tournament will be played under lights, with the final
   on September 13
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-06T13:46:42Z'

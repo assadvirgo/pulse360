@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president&#039;s latest effort comes after Supreme Court ruled
   against his push to reinterpret constitutional right.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-06T21:27:19Z'

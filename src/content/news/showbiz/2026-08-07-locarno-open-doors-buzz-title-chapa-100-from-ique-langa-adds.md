@@ -5,7 +5,7 @@ countryCode: MZ
 description: “Chapa 100,” the 2025 Atlas Workshops Development Award winner, now a
   potential highlight at Locarno’s Africa-focused strand Open Doors, has been boarded
   by Italy-based sales…
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-07T08:22:58Z'

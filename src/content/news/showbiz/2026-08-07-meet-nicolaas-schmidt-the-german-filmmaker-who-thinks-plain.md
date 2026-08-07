@@ -5,7 +5,7 @@ countryCode: DE
 description: Ahead of the Locarno premiere of his debut feature 'September Afternoon,'
   the young creative who loves "dead time" discusses his unique film language and
   resisting uniformity.
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-07T07:01:00Z'

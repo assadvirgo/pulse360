@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Michigan progressive fended off AIPAC as well as Democratic establishment
   in US Senate race, supporters say.
-displayOrder: 19
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-06T22:59:29Z'

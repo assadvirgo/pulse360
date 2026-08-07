@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Authorities say suspected gunman shot and ⁠killed his grandparents ​at
   their home before opening fire at the school.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T04:23:52Z'

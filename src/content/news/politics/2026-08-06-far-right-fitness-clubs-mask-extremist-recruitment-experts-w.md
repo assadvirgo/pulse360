@@ -2,7 +2,7 @@
 category: Politics
 description: Al Jazeera&#039;s Nils Adler reports on how far-right &#039;Active Clubs&#039;
   use fitness and camaraderie to recruit young white men.
-displayOrder: 17
+displayOrder: 27
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-06T22:00:43Z'

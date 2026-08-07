@@ -5,7 +5,7 @@ countryCode: SN
 description: '&#8220;My Father’s Kora&#8221; (“La Kora de Mon Père”), a Benin-Switzerland-Germany
   production, will have its world premiere Aug. 9 at the Locarno Film Festival&#8217;s
   Open Doors…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-07T05:58:49Z'

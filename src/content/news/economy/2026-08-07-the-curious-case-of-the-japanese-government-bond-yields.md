@@ -3,7 +3,7 @@ category: Economy
 country: Japan
 countryCode: JP
 description: Maybe not as high as you think
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-07T05:00:04Z'

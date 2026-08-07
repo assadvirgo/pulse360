@@ -3,7 +3,7 @@ category: Tech
 description: Enjoy up to 10% off your entire order with today’s Newegg promo code
   and discount codes. Save with the latest deals for gaming PCs, laptops, and computer
   parts.
-displayOrder: 6
+displayOrder: 15
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-07T05:00:00Z'

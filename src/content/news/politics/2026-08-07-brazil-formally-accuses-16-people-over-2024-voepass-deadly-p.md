@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Official says plane was irregularly cleared for departure before crash
   that killed 62 people outside Sao Paulo.
-displayOrder: 21
+displayOrder: 28
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-07T01:17:13Z'

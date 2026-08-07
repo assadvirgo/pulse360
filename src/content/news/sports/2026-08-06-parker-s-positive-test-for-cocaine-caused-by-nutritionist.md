@@ -5,7 +5,7 @@ countryCode: GB
 description: Former world heavyweight champion Joseph Parker's nutritionist was the
   reason traces of cocaine were found in a UK Anti-Doping (Ukad) test, according to
   investigation report.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-06T13:44:41Z'

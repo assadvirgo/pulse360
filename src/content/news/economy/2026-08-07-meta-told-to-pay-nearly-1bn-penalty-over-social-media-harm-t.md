@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: New Mexico judge orders tech group to pay extra fine in lawsuit brought
   by state attorney-general in 2023
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-07T02:57:08Z'

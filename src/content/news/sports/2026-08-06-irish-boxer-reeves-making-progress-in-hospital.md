@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Queensberry promoter Frank Warren says Irish boxer Lee Reeves is "making
   progress" after being hospitalised following his fight in Dublin on Saturday night.
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 44.2
 pubDate: '2026-08-06T22:33:17Z'

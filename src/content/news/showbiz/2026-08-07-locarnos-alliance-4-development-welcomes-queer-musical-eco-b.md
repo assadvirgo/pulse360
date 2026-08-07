@@ -5,7 +5,7 @@ countryCode: CH
 description: Alliance 4 Development, Locarno’s co-development platform for film projects
   from Austria, France, Germany and Switzerland, has presented this year’s projects.&#160;
   The line-up…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-07T06:29:26Z'

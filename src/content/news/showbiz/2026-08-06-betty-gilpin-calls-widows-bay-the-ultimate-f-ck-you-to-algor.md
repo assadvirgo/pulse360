@@ -5,7 +5,7 @@ countryCode: US
 description: With 19 Emmy nominations under its belt for its first season, Betty Gilpin
   sees Widow&#8217;s Bay as a beacon of wholly original television. The 4x Emmy nominee,
   whose latest…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-08-06T23:05:47Z'

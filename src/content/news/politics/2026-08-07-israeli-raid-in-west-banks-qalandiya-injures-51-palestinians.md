@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick
   in military and settler violence in West Bank.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-07T01:51:50Z'

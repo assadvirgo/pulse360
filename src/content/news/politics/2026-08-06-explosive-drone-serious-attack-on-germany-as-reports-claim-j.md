@@ -5,7 +5,7 @@ countryCode: DE
 description: Authorities say an explosive drone found near a jet in Leipzig was a
   "serious attack" on Germany - amid reports the Ukrainian aircraft was loaded with
   ammunition.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-06T19:05:00Z'

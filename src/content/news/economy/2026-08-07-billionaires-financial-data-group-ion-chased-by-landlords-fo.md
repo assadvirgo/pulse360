@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Group behind Dealogic and Mergermarket made late payments on offices
   in Sydney, Munich and Connecticut
-displayOrder: 14
+displayOrder: 23
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-07T04:00:16Z'

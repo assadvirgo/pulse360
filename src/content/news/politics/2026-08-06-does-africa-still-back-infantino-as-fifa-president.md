@@ -2,7 +2,7 @@
 category: Politics
 description: The African confederation has yet to take an official stance, but where
   do the key African footballing nations stand on the Infantino saga?
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 47.2
 pubDate: '2026-08-06T19:55:58Z'

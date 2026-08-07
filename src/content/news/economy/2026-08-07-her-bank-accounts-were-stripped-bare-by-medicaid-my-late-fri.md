@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “She left behind a 30-year-old son and 32-year-old daughter.”
-displayOrder: 27
+displayOrder: 35
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-07T02:00:00Z'
