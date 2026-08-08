@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rulings allow Trump administration to end Temporary Protected Status
   for nationals of the two countries.
-displayOrder: 19
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-08T02:08:28Z'

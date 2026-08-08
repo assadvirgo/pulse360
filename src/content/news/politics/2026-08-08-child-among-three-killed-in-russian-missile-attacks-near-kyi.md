@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia continued its overnight attacks after President Volodymyr Zelensky
   warned of Ukraine's dwindling supplies of missile interceptors.
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 69.2
 pubDate: '2026-08-08T06:12:56Z'

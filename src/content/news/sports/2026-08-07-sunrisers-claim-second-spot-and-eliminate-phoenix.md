@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sunrisers Leeds move up to second in The Hundred and eliminate Birmingham
   Phoenix with a 45-run win at Edgbaston.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-07T21:02:19Z'

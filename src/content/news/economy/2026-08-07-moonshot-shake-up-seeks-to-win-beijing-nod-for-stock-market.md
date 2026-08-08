@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese AI start-up targets Hong Kong listing to raise fresh funding
   for next phase of development
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-07T23:00:07Z'

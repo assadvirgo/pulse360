@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Right-wing politician Abelardo De La Espriella takes office after narrowly
   winning June’s presidential runoff.
-displayOrder: 5
+displayOrder: 14
 heroImage: ''
 importance: 73.5
 pubDate: '2026-08-08T01:15:53Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Republican senators are using the summer recess to avoid politically
   difficult votes.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-08T01:28:39Z'

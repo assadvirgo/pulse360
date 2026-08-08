@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Booming demand for Palantir’s AI solutions is restoring confidence in
   the company.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-07T19:41:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Restart, a games media website launched in late 2024 that was sponsored
   by Walmart, has laid off its "entire editorial team," according to a Friday post
   from Brandy Berthelson,…
-displayOrder: 32
+displayOrder: 45
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-07T22:05:08Z'

@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: New president, who replaces leftist Gustavo Petro, continues rightward
   political shift in Latin America.
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 76.5
 pubDate: '2026-08-08T00:31:52Z'

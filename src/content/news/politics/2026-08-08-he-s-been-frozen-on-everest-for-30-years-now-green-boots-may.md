@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: For decades, an Indian man's lime shoes have been a grim trail marker
   for many climbing the world's highest peak.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-08-08T00:29:27Z'

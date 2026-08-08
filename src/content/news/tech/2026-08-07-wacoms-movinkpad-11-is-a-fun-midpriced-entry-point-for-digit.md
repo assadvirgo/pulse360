@@ -2,7 +2,7 @@
 category: Tech
 description: The MovinkPad 11 a versatile little graphics tablet that can help make
   your wildest digital art dreams come true.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-08-07T21:20:00Z'
