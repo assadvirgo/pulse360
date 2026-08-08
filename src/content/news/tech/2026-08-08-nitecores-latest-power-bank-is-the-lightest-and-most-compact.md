@@ -3,7 +3,7 @@ category: Tech
 description: 'There''s two things you should know about me, your intrepid reviewer:
   I hate the feature creep associated with modern power banks, and I love shaving
   grams off the gear I carry…'
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-08T07:00:00Z'

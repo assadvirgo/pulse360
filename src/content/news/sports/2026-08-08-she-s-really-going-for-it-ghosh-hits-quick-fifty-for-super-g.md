@@ -5,7 +5,7 @@ countryCode: GB
 description: All the best shots from Richa Ghosh's quickfire half century as she hits
   54 from just 34 balls as Manchester Super Giants set Southern Brave 140 to win in
   the women's Hundred.
-displayOrder: 11
+displayOrder: 25
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-08T15:09:37Z'

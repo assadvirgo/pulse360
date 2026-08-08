@@ -5,7 +5,7 @@ countryCode: IN
 description: 'The official trailer for &#8220;Toxic: A Fairytale for Grown-Ups&#8221;
   has been released, presenting Yash in dual roles as Raya and Ticket – a father and
   son positioned on…'
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 51.8
 pubDate: '2026-08-08T15:32:10Z'

@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Gulf and Arab governments condemn Iran over missile strike on Emirati
   tanker.
-displayOrder: 8
+displayOrder: 22
 heroImage: ''
 importance: 51.5
 pubDate: '2026-08-08T15:01:29Z'

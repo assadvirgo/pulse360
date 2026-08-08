@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: An Irish government jet is on its way to Dubai for the extradition of
   alleged gang boss Daniel Kinahan.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-08-08T13:11:00Z'

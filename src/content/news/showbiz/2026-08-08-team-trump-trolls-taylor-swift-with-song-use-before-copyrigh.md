@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The White House Tik Tok account seemed to have drawn a short-lived retreat
   in its trolling of superstar Taylor Swift (who, if you need reminding, Donald Trump…
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 67.0
 pubDate: '2026-08-08T13:55:37Z'

@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: The pact between Saudi Arabia, Pakistan and Turkiye is yet another step
   towards a new regional security architecture.
-displayOrder: 21
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-08T11:34:38Z'

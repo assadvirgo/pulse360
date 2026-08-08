@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Five elderly people have suffered non-life-threatening injuries, with
   three falling due to the wind in Japan.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-08T08:50:49Z'

@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario,
   according to his family.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-08T14:25:38Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Brazil international signed on a four-year contract with further one-year
   option for reported fee of about $101m.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-08T11:49:27Z'

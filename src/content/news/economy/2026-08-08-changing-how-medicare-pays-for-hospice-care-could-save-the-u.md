@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The hospice industry argues that the current payment system allows for
   providers to create individual care plans that meet patients’ specific needs.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-08T14:04:00Z'

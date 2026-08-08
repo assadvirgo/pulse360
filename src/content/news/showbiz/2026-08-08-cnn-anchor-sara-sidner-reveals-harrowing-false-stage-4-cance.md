@@ -5,7 +5,7 @@ countryCode: US
 description: CNN&#8217;s Sara Sidner, who first revealed a stage 3 breast cancer diagnoses
   two years ago and has occasionally provided updates with her audience since, is
   now sharing a…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-08-08T12:37:33Z'
