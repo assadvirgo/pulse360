@@ -2,7 +2,7 @@
 category: Politics
 description: UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine
   attacks intensify.
-displayOrder: 10
+displayOrder: 20
 heroImage: ''
 importance: 73.5
 pubDate: '2026-08-07T12:34:13Z'

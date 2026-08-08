@@ -5,7 +5,7 @@ countryCode: US
 description: EXCLUSIVE:&#160;Should you encounter a pot of gold in your travels, beware
   —&#160;Leprechaun&#160;is back, with a new film penned by horror veterans Patrick
   Melton &#38; Marcus…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-08-07T16:30:00Z'

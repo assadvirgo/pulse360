@@ -2,7 +2,7 @@
 category: Showbiz
 description: Amid the deluge of AI, young consumers are turning to vinyl records,
   books in print, film cameras and other tangible vestiges of a pre-smartphone age.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-08-07T17:30:00Z'

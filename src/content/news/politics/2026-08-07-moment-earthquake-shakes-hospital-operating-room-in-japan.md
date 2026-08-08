@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Security camera footage shows doctors shielding a patient on the operating
   table as last month's magnitude 6.8 quake shook Kumamoto General Hospital.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-07T06:46:34Z'

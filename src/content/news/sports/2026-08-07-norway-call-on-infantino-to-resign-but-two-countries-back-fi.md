@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: The Norwegian Football Federation calls for Fifa president Gianni Infantino
   to resign after he attempted to sell off stakes in the World Cup.
-displayOrder: 24
+displayOrder: 39
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-07T12:04:25Z'

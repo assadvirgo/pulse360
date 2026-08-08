@@ -5,7 +5,7 @@ countryCode: US
 description: 'Before the &#8220;Baywatch&#8221; producers wrapped filming the revival&#8217;s
   first season, they brought a special guest to the set this week: Real-life rookie
   lifeguard Ryder…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-07T19:30:00Z'

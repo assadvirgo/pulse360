@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Relations broke down after former Peruvian Prime Minister Betssy Chávez
   sought asylum in the Mexican embassy in November 2025.
-displayOrder: 20
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-07T15:38:28Z'

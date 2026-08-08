@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: A viral video shows medical staff protecting a patient as an earthquake
   struck Japan during surgery.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T07:43:05Z'

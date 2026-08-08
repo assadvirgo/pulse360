@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain is to impose new border controls for flights and ships from Italy
   as the two countries' row over the influx of migrants into Ceuta intensifies.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-07T11:53:00Z'

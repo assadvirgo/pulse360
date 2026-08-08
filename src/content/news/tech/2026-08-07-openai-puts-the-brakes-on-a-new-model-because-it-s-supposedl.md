@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI says it is pausing "internal activities" around an in-development
   AI model, Astra, because it doesn't yet meet new security standards the company
   is putting in place. The…
-displayOrder: 15
+displayOrder: 19
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-07T18:40:34Z'

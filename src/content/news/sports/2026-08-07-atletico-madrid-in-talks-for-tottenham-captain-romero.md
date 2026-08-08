@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Atletico Madrid hold talks over a move for Tottenham captain Cristian
   Romero, who is expected to leave the club this summer.
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-07T10:51:46Z'

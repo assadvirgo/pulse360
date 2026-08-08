@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The state, which has been at the center of the biggest cyclospora outbreak
   in the U.S., said this week that the number new cases of cyclosporiasis has fallen.
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-07T14:31:00Z'

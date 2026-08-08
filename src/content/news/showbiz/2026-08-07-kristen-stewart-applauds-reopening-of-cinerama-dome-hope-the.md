@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The star purchased her own historic L.A. theater, the Highland Theatre,
   earlier this year.
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-07T19:33:59Z'

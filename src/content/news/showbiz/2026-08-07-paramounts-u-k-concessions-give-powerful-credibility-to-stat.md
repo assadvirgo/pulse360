@@ -5,7 +5,7 @@ countryCode: US
 description: A coalition group campaigning against the proposed merger of Paramount
   Skydance and Warner Bros. Discovery has said the U.K.’s approval of the merger after
   obtaining “major…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-08-07T15:56:41Z'

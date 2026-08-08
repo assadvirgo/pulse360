@@ -4,7 +4,7 @@ country: Cambodia
 countryCode: KH
 description: The PM has made repression less visible and more sophisticated, strengthening
   the authoritarian system he inherited.
-displayOrder: 18
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T16:47:33Z'
