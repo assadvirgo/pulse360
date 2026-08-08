@@ -3,7 +3,7 @@ category: Politics
 country: Norway
 countryCode: 'NO'
 description: Norway’s football federation has called on Gianni Infantino to resign.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-08T04:37:56Z'

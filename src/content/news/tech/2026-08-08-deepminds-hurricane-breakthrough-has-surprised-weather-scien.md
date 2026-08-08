@@ -2,7 +2,7 @@
 category: Tech
 description: Open source WeatherNext model can make accurate predictions with lower-resolution
   weather data.
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-08T11:05:50Z'

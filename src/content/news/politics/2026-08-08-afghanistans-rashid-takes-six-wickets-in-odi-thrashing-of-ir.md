@@ -4,7 +4,7 @@ country: Afghanistan
 countryCode: AF
 description: Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in
   second game of five-match ODI series.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 56.5
 pubDate: '2026-08-08T08:06:35Z'

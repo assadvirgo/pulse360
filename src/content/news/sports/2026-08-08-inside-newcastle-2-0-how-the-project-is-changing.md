@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Matthias Jaissle will take charge of his first friendly as Newcastle
   United head coach against Valencia as a new era begins.
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-08T05:50:20Z'

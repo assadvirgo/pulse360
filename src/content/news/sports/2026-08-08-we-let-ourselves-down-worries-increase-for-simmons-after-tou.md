@@ -4,7 +4,7 @@ country: Bangladesh
 countryCode: BD
 description: Taijul Islam, who had picked up an injury while batting in the tour game
   and did not bowl at all, is expected to be fit in time for the first Test
-displayOrder: 12
+displayOrder: 30
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-08T09:10:02Z'

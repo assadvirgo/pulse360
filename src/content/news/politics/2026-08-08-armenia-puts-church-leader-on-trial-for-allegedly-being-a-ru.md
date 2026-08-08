@@ -4,7 +4,7 @@ country: Armenia
 countryCode: AM
 description: Armenia’s head of the Apostolic Church and senior clergy could face jail
   time over allegations of spying for Russia.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-08T04:31:42Z'

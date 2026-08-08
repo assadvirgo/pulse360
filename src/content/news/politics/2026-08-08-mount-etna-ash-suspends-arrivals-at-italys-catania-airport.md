@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Catania international airport services the eastern part of Sicily, one
   of Italy&#039;s most popular tourist destinations.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-08T10:10:13Z'

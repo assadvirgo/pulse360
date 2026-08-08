@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Move comes after Supreme Court ruled in June that policymaker could remain
   in her position while case is resolved
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-07T19:56:51Z'

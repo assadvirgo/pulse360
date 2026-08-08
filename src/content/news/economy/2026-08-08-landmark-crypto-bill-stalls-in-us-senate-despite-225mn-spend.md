@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lobby struggles to pass top priority in Congress as lawmakers spar over
   legislation
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-08T11:00:03Z'

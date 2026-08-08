@@ -5,7 +5,7 @@ countryCode: IN
 description: Indian National Award-winning filmmaker Srijit Mukherji is bringing to
   screen the making of Satyajit Ray&#8217;s &#8220;Goopy Gyne Bagha Byne,&#8221; one
   of Indian cinema&#8217;s…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-08-08T09:13:41Z'

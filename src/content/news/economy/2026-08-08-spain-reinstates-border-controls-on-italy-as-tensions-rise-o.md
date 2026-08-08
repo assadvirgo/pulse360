@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Decision widens rift between Pedro Sánchez’s government and rightwing
   Italian premier Giorgia Meloni
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-08T09:45:12Z'

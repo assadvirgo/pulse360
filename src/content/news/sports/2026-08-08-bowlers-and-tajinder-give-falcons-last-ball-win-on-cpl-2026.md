@@ -5,7 +5,7 @@ countryCode: JM
 description: Jamaica Kingsmen, the CPL debutants, scored just 59 runs through the
   middle-overs period to lose their grip on the game but even then it went down to
   the last ball
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-08T04:53:50Z'

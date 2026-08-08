@@ -5,7 +5,7 @@ countryCode: US
 description: A TikTok video that included Taylor Swift&#8217;s song &#8220;August&#8221;
   posted four days ago to the account for Donald Trump&#8217;s campaign has had the
   sound removed. The…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-08-08T05:13:01Z'

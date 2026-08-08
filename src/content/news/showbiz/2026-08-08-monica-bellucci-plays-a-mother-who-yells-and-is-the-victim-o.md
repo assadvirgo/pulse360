@@ -5,7 +5,7 @@ countryCode: IT
 description: At Locarno, the Italian icon lauded the two young stars and filmmaker
   Giovanni Tortorici for their work on his second feature and shared that her character
   has forgotten about…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-08T10:21:00Z'

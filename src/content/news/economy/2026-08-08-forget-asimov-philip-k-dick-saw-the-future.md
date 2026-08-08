@@ -2,7 +2,7 @@
 category: Economy
 description: His 1960s science-fiction visions are a guide to our age of erratic billionaires,
   wild space fantasies and glitchy, invasive technology
-displayOrder: 42
+displayOrder: 50
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-08T04:00:23Z'

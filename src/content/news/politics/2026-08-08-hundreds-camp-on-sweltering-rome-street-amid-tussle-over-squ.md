@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: After a fire broke out, the building was cleared in what activists say
   was a politically motivated move.
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-08T05:45:58Z'

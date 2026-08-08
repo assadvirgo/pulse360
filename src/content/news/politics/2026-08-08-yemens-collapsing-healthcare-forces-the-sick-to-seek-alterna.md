@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Patients in Yemen who cannot afford healthcare or access relevant treatment
   are turning to alternative medicine.
-displayOrder: 7
+displayOrder: 18
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-08T10:58:46Z'

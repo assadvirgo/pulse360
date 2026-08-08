@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Timing is everything when balancing retirement distributions and moving
   across state lines.
-displayOrder: 32
+displayOrder: 43
 heroImage: ''
 importance: 32.5
 pubDate: '2026-08-08T12:00:00Z'
