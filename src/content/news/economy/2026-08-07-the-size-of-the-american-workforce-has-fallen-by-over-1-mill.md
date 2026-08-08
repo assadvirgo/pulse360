@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The share of Americans who are working or looking for a job hasn’t been
   this low since the pandemic, according to a July jobs report full of gut punches.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 59.5
 pubDate: '2026-08-07T19:24:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Alexandre Aja, who directed the initial 2019 horror thriller, is back
   in the director's chair for the follow-up.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-07T20:49:34Z'

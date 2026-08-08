@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Moscow&#039;s troops suffer high rate of losses as Zelenskyy renews air
   campaign against Russia.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-08-07T13:12:52Z'

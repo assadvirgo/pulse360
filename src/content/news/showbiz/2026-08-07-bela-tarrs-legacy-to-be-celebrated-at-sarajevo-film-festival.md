@@ -5,7 +5,7 @@ countryCode: BA
 description: The Sarajevo Film Festival has launched a new program dedicated to the
   legacy of Hungarian filmmaker Béla Tarr, who died this year. The Béla Tarr in Sarajevo
   Tribute program will…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-07T20:07:28Z'

@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: '&quot;Our main goal is to empower robots&#039; brains.&quot; China has
   launched its first robot school.'
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T11:33:28Z'

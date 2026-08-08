@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The Bundibugyo epidemic, ​the world&#039;s second-largest, has been described
   as the ⁠fastest-spreading on record.
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 73.5
 pubDate: '2026-08-07T20:41:46Z'

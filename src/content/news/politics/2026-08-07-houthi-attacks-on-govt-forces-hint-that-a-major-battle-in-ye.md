@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Houthis&#039; expansion of cross-border attacks means an even bloodier
   war may be imminent, analysts say.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T11:11:10Z'

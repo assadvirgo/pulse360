@@ -3,7 +3,7 @@ category: Showbiz
 description: A dynamic selection of indies starts rolling out today with Dominic Sessa
   as a young Anthony Bourdain in Matt Johnson’s Tony, indie director Jane Schoenbrun’s
   latest, Teenage Sex…
-displayOrder: 8
+displayOrder: 13
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-07T21:45:00Z'

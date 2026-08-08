@@ -5,7 +5,7 @@ countryCode: US
 description: 'For roughly an hour this week, Telegram vanished from Apple''s App Store.
   Even during that blip, it was a stunning absence for such a major app: an avenue
   of communication for more…'
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-07T11:00:00Z'

@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact
   in Mecca aimed at deterring aggression.
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T16:42:35Z'

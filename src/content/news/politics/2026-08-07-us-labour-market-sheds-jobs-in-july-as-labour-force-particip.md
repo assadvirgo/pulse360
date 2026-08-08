@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US labour market loses 23,000 jobs in July as education, government and
   retail sectors record significant declines.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-07T16:25:35Z'
