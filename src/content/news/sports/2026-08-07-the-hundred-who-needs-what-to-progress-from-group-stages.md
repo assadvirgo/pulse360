@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The race for the top three in The Hundred table is heating up - BBC Sport
   looks at what each team needs to do to progress.
-displayOrder: 21
+displayOrder: 30
 heroImage: ''
 importance: 54.2
 pubDate: '2026-08-07T21:12:16Z'

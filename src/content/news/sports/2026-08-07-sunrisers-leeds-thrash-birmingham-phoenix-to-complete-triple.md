@@ -5,7 +5,7 @@ countryCode: GB
 description: An underwhelming performance from Birmingham Phoenix against Sunrisers
   Leeds at Edgbaston confirms the elimination of themselves, MI London and London
   Spirit from the Hundred.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-07T17:30:13Z'

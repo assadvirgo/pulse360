@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The mayor of New York City has assembled a crew of Silicon Valley and
   United States Digital Service veterans to overhaul city services with better software.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-08-07T15:00:00Z'

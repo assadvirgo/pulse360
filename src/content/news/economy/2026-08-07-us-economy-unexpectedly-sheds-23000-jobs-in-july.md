@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Lacklustre figure prompts traders to scale back bets on Fed rate rises
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-07T15:50:39Z'

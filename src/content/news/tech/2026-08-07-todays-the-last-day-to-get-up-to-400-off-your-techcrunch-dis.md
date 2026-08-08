@@ -5,7 +5,7 @@ countryCode: US
 description: Starting today, you can take an additional $100 off your founder, investor,
   or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current
   discounted…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-08-07T15:52:33Z'

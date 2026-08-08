@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Probe concludes that Trip.com abused its power as platform handling more
   than half of country’s hotel bookings
-displayOrder: 28
+displayOrder: 34
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-08T00:54:25Z'

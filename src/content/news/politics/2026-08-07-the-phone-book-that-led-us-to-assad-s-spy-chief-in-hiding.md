@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: How we tracked down "The Spider" who was once one of the most-feared
   men in Syria.
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-07T23:23:12Z'

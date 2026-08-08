@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: The following story contains plot details from the series
   finale of “Raising Kanan” now streaming on Starz. The final curtain has closed on
   the hit 1990s-set crime…'
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 55.8
 pubDate: '2026-08-08T01:00:00Z'

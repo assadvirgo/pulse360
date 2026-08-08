@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: New Israeli attacks reported in southern Lebanon as Beirut offers optimism
   after the seventh round of discussions.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-07T21:02:31Z'

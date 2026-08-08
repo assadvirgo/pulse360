@@ -2,7 +2,7 @@
 category: Economy
 description: Why hasn’t all the chaos in the real world inspired more interesting
   art?
-displayOrder: 32
+displayOrder: 39
 heroImage: ''
 importance: 32.5
 pubDate: '2026-08-08T04:00:41Z'

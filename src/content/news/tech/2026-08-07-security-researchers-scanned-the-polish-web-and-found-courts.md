@@ -5,7 +5,7 @@ countryCode: PL
 description: Researchers found common points of failure, like software used to organize
   and display web content, could have allowed hackers to run riot through government
   websites.
-displayOrder: 11
+displayOrder: 26
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-07T21:00:08Z'

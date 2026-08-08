@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rockstar Energy founder Russ Savage told CNBC he now controls 12 million
   shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-07T16:18:58Z'

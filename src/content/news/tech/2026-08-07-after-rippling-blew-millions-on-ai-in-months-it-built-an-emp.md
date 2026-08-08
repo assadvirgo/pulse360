@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: After its own AI usage wake-up call, Rippling this week unveiled AI Spend
   Console, a product that tracks individual and team employee AI spending.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-07T21:30:11Z'

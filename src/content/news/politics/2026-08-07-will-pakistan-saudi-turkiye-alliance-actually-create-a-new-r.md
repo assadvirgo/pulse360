@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: The Mecca Joint Defence Pact brings together countries that sit between
   Iran and Israel, but will it be effective?
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-07T23:18:14Z'

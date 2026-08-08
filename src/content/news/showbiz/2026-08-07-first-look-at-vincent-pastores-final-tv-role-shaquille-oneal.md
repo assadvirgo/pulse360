@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: We&#8217;re getting the first look at the late Vincent Pastore
   in his final television role in the Season 3 trailer for Gravesend ahead of its
   fall premiere. Pastore,…'
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-08-07T22:47:39Z'

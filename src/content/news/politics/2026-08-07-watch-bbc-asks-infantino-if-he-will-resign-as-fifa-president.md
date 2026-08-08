@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The head of the football governing body has faced multiple calls to quit
   after his aborted attempt to sell private stakes in the World Cup.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 59.2
 pubDate: '2026-08-07T21:24:17Z'

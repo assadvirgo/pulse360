@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: ICRC facilitates first known transfer of detainees between Congolese
   government and M23 rebels in North Kivu.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-07T19:21:01Z'

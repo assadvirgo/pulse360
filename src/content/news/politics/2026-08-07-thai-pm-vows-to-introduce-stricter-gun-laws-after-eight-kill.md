@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Eight people were killed when a 14-year-old opened fire at his home and
   school before shooting himself dead.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-07T21:19:27Z'
