@@ -5,7 +5,7 @@ countryCode: US
 description: As Melissa Barrera enters the final stretch of her Broadway debut run
   in Titanique, she&#8217;s taking a few days off to get her voice and body back into
   performance shape. On…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-08T20:20:28Z'

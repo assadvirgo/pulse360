@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Some experts say the deal precipitates a larger strategic shift in Middle
   East while others say it reinforces US goals.
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-08T21:28:12Z'

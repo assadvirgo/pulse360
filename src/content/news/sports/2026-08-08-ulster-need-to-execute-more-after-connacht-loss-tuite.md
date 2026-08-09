@@ -5,7 +5,7 @@ countryCode: IE
 description: Ulster second row Fiona Tuite says her side "need to execute more" after
   their narrow 15-10 defeat against Connacht in the first round of their Interprovincial
   Championship.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 56.2
 pubDate: '2026-08-08T21:37:18Z'

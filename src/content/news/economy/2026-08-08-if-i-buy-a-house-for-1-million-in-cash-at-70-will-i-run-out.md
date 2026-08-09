@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Buying a house late in life means you might not reach the break-even
   point that would make it better financially than renting.
-displayOrder: 37
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-08T17:23:00Z'

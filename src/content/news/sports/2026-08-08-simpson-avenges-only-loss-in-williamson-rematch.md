@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Callum Simpson reclaims the British and Commonwealth super-middleweight
   titles as he earns a unanimous decision in his rematch with Troy Williamson.
-displayOrder: 13
+displayOrder: 22
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-08T22:52:42Z'

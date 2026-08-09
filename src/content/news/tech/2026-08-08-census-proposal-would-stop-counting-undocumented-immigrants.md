@@ -5,7 +5,7 @@ countryCode: US
 description: A draft rule reviewed by WIRED would prevent the census from counting
   undocumented immigrants. To protect against “distortions,” it would also bar questions
   about race and sexual…
-displayOrder: 999
+displayOrder: 42
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-08T14:03:58Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: HBO’s new documentary series Monsters of God abounds with colorful creatures
   – and those are just the humans. The five-parter from Tiger King co-director Eric
   Goode features…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-08-08T21:50:50Z'

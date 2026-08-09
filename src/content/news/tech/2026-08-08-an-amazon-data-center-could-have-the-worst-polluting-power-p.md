@@ -5,7 +5,7 @@ countryCode: US
 description: To power its new West Texas data center, Amazon is investing in the construction
   of a new power plant that could be one of the largest single producers of greenhouse
   gases in the…
-displayOrder: 30
+displayOrder: 39
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-08T17:53:34Z'

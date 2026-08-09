@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: From being 119-0, Manchester Super Giants lose eight wickets for 30 runs
   to stumble to 149-8 in their men's Hundred match against Southern Brave in Southampton.
-displayOrder: 17
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-08T19:24:39Z'

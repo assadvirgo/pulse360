@@ -5,7 +5,7 @@ countryCode: CA
 description: It was announced Friday that Charlie Gillespie will portray Troy, a professional
   hockey player who is traded to the Ottawa Centaurs in Reid's source material, while
   Justice Smith…
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 62.8
 pubDate: '2026-08-09T00:08:39Z'

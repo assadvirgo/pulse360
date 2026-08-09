@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Police in the French capital tighten rules for riders after a sharp increase
   in fatal accidents.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 41.2
 pubDate: '2026-08-08T20:18:28Z'

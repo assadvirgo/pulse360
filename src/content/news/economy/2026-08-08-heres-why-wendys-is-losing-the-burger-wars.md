@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wendy’s new CEO is embarking on a turnaround initiative, while acknowledging
   that issues around food quality and service have turned customers away.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-08T11:30:00Z'

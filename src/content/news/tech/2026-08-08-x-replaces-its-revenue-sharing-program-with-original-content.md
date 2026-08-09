@@ -5,7 +5,7 @@ countryCode: US
 description: X is ending its controversial revenue-sharing program for content creators,
   which has seen numerous revisions under Elon Musk's reign. In its place, it's launching
   a new Original…
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 58.2
 pubDate: '2026-08-08T21:15:12Z'

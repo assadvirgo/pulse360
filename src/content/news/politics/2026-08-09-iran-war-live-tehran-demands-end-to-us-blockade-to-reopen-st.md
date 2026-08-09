@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments
   to end attacks on ships in the waterway.
-displayOrder: 7
+displayOrder: 13
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-09T00:00:00Z'

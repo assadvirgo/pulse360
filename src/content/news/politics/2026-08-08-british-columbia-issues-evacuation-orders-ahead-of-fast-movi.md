@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Authorities warn residents to be prepared to leave their homes as fast-moving
   wildfires spread across western Canada.
-displayOrder: 24
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-08T17:14:09Z'

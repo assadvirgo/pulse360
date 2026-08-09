@@ -3,7 +3,7 @@ category: Tech
 description: Finding a good laptop under $500 was hard enough before RAMageddon. They
   nearly always had cheap hardware and underpowered, often outdated chips. That's
   what made the MacBook Neo…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-08-08T12:00:00Z'
