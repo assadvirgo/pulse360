@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: CICC has become a dominant financier in Beijing’s drive to compete with
   US in tech race
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-08-09T01:22:52Z'

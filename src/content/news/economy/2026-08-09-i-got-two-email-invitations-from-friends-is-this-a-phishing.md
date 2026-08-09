@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “I was surprised — and flattered — to find myself on the guest list.”
-displayOrder: 26
+displayOrder: 36
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-09T12:30:00Z'

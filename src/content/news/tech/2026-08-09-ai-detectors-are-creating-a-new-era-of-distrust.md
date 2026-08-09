@@ -3,7 +3,7 @@ category: Tech
 description: This is The Stepback, a weekly newsletter breaking down one essential
   story from the tech world. For more news about how AI is changing our daily lives,
   follow Emma Roth. The…
-displayOrder: 6
+displayOrder: 22
 heroImage: ''
 importance: 49.2
 pubDate: '2026-08-09T12:00:00Z'

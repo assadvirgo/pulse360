@@ -5,7 +5,7 @@ countryCode: IT
 description: The Italian filmmaker came to the Swiss festival to speak about his ex-assistant's
   second feature, which puts a spotlight on young people, failed by schools and adults,
   whose cast…
-displayOrder: 4
+displayOrder: 20
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-09T09:00:00Z'

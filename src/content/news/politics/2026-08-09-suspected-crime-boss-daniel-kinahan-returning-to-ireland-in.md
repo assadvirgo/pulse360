@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: The Irish Prison Service bought a bulletproof and bombproof van to transport
   the 49-year-old to court after his extradition from Dubai.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 49.2
 pubDate: '2026-08-09T10:02:52Z'

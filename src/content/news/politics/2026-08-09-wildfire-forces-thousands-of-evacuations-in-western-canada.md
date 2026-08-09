@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: A fast-moving wildfire has forced more than 20,000 people to evacuate
   parts of British Columbia’s Okanagan region.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-09T06:10:08Z'

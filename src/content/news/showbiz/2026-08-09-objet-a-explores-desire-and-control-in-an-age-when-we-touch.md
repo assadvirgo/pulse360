@@ -5,7 +5,7 @@ countryCode: CH
 description: Aenne Schwarz and Louis Hofmann star as hand surgeons with irresistible
   fixations in Ann Oren's new Locarno film. The three discuss how it fits into a time
   of "war, climate…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-09T06:03:00Z'

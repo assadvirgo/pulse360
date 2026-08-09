@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Cameron Norrie bows out in the last 16 of the Canadian Open in Toronto
   with a straight sets defeat by Arthur Fils.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-08-09T06:54:33Z'

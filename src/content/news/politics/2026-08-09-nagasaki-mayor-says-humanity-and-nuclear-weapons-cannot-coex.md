@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Nagasaki Mayor says ‘humanity and nuclear weapons can&#039;t coexist’
   as Japan marks anniversary of the US atomic bombing.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-09T07:56:47Z'

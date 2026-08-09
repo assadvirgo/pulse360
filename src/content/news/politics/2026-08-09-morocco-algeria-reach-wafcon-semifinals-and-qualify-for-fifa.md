@@ -4,7 +4,7 @@ country: Morocco
 countryCode: MA
 description: The North African nations become the first teams from the continent to
   qualify for next year&#039;s World Cup in Brazil.
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 51.5
 pubDate: '2026-08-09T10:15:10Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: Whether you’re training hard, traveling often, or dealing with poor circulation,
   these are the best compression boots for anyone looking for better muscle recovery.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-08-09T11:04:00Z'

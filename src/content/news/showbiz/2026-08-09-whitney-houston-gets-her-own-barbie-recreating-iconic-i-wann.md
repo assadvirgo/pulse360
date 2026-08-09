@@ -5,7 +5,7 @@ countryCode: US
 description: Whitney Houston is ready to dance with somebody &#8212; in Barbieland.
   Mattel is honoring the late pop icon with a new Barbie Signature doll inspired by
   Houston’s colorful look…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-09T04:00:00Z'

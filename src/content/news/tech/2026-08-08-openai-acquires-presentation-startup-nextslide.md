@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: NextSlide says its team members are now working on ChatGPT.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-08-08T19:41:13Z'

@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: Alleged head of fictional investment council was allocated government
   funding and met top officials
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-09T04:00:09Z'
