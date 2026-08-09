@@ -2,7 +2,7 @@
 category: Sports
 description: Fifa strongly criticises what it calls a "concerted and ongoing effort"
   to "undermine" the organisation and its president Gianni Infantino.
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 62.2
 pubDate: '2026-08-08T22:06:44Z'

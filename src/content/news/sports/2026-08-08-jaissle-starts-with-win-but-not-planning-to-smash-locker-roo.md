@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: It was a night which ended with Newcastle United lifting a trophy, but
   there was certainly no danger of head coach Matthias Jaissle getting carried away.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-08T23:23:30Z'

@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: A car bomb destroyed a toll booth on a highway in Colombia a day after
   President Abelardo de la Espriella was sworn in.
-displayOrder: 4
+displayOrder: 5
 heroImage: ''
 importance: 56.5
 pubDate: '2026-08-09T04:32:32Z'

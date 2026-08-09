@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Latest attacks launched as Iran said it was close to finalising deal
   with Oman to manage shipping through Hormuz
-displayOrder: 46
+displayOrder: 50
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-08T13:27:18Z'

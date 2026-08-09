@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear
   programme and degraded its military.
-displayOrder: 6
+displayOrder: 9
 heroImage: ''
 importance: 67.5
 pubDate: '2026-08-08T23:27:55Z'

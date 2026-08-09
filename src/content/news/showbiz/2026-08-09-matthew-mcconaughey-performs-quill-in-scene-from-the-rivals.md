@@ -5,7 +5,7 @@ countryCode: US
 description: Matthew McConaughey shows off his vocal skills (and some hidden banjo
   talents) with his latest role in The Rivals of Amziah King. On Friday, Lakeshore
   Records released the single…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-08-09T02:09:45Z'

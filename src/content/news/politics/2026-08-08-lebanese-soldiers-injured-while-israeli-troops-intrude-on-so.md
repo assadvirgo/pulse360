@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where
   Israeli forces reportedly built an earth barrier.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-08T19:00:43Z'

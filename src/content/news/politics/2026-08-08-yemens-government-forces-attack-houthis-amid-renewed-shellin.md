@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Fears of a wider conflict grow as Yemen’s army counterattacks and expert
   warns ‘all the warning signs are there’.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 59.5
 pubDate: '2026-08-08T18:43:20Z'
