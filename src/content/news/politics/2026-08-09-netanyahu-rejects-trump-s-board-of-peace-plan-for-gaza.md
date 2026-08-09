@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Benjamin Netanyahu says he rejects a 15-point plan for Gaza by Donald
   Trump's Board of Peace.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-09T11:23:00Z'

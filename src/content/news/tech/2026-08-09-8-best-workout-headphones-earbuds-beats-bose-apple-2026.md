@@ -2,7 +2,7 @@
 category: Tech
 description: Not every great pair of headphones belongs in the gym. These do, thanks
   to their secure fit, durable design, and impeccable sound.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-09T09:37:00Z'

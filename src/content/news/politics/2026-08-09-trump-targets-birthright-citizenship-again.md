@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US President Donald Trump has signed two new executive orders targeting
   birthright citizenship.
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-09T14:20:31Z'

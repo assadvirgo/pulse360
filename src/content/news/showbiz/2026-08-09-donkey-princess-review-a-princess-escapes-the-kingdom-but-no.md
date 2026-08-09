@@ -5,7 +5,7 @@ countryCode: CL
 description: Chilean duo Cristobal León and Joaquín Cociña made a dream nightmare
   debut with &#8220;The Wolf House,&#8221; a stop-motion fantasy that turned heads
   both with its wholly original…
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-08-09T07:42:35Z'

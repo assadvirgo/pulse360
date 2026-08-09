@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Their victories highlight ongoing clashes between centrist Democrats
   and more progressive candidates.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-09T16:07:23Z'

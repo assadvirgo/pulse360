@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Welsh Fire are eliminated from The Hundred Women's competition after
   Phoebe Litchfield makes 55 to give the Sunrisers Leeds a six-wicket victory at Headingley.
-displayOrder: 21
+displayOrder: 33
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-09T13:06:14Z'

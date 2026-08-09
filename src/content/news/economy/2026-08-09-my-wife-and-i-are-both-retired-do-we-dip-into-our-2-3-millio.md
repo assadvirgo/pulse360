@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “Right now, we’re withdrawing about $100,000 a year from our investments.”
-displayOrder: 32
+displayOrder: 38
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-09T11:45:00Z'

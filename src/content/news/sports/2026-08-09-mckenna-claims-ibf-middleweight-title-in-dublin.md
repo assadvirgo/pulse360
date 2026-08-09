@@ -5,7 +5,7 @@ countryCode: IE
 description: Aaron McKenna produces a dominant performance against Etinosa Oliha to
   claim the IBF world middleweight title in his first professional fight on Irish
   soil.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-08-09T09:14:50Z'

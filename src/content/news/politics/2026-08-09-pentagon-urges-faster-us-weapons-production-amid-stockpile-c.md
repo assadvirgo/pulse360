@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US defence industry pressed to boost output as munitions shortages raise
   security concerns amid Middle East tensions.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 60.5
 pubDate: '2026-08-09T15:38:56Z'

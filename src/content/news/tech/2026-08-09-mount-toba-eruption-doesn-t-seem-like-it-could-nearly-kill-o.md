@@ -1,7 +1,7 @@
 ---
 category: Tech
 description: The massive Toba eruption seems to have had little climate impact.
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 56.0
 pubDate: '2026-08-09T11:00:14Z'

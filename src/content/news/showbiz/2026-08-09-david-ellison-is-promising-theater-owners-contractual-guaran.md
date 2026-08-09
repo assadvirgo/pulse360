@@ -5,7 +5,7 @@ countryCode: US
 description: There&#8217;s no question that David Ellison, the doggedly ambitious
   CEO of Paramount Skydance, loves movies and filmmaking. In making his case for Paramount&#8217;s
   eye-poppingly…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-09T13:49:29Z'

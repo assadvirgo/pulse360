@@ -2,7 +2,7 @@
 category: Politics
 description: Israeli settlers and the military are continuing a campaign to displace
   Palestinians in the West Bank, residents say.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-09T10:35:00Z'

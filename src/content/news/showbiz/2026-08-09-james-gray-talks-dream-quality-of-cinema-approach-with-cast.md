@@ -5,7 +5,7 @@ countryCode: CH
 description: James Gray continued his festival tour with Paper Tiger this weekend
   setting down in the Locarno Film Festival to receive an honorary award ahead of
   the film’s Swiss premiere on…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-08-09T12:06:24Z'

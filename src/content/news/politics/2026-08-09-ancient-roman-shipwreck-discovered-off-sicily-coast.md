@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: Italy's culture minister says it is one of the most important underwater
   archaeological finds in years.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-09T12:27:26Z'

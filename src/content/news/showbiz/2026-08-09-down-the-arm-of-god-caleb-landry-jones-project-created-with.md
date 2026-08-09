@@ -3,7 +3,7 @@ category: Showbiz
 description: Directed by former Michael Haneke student Peter Brunner and produced
   by Luc Besson, the Locarno-premiering film was created with "people who live the
   reality of homelessness."
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-09T13:30:00Z'

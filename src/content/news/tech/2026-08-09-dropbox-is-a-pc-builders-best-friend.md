@@ -3,7 +3,7 @@ category: Tech
 description: In 2018 I bet my reputation and self-worth on a huge crowdfunded game
   design project. It could have been a failure for many reasons, but the one I became
   most worried about was…
-displayOrder: 16
+displayOrder: 28
 heroImage: ''
 importance: 52.2
 pubDate: '2026-08-09T13:00:00Z'

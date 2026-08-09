@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ex-CIA staffers step up efforts to publicise their deepening alarm about
   the state of American democracy
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-09T16:00:01Z'
