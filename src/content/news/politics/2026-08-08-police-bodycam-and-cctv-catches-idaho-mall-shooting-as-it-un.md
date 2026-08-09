@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Police bodycam and CCTV catches Idaho mall shooting as it unfolds
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-08T12:07:23Z'

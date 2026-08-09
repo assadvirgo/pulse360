@@ -5,7 +5,7 @@ countryCode: IT
 description: Emerging Italian director Giovanni Tortorici, whose feature debut “Diciannove”
   made a splash last year after launcing from the Venice Horizons section, is in competition
   at the…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-08T17:03:39Z'

@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “I was approached by one company who wants to use AI to dispatch ambulances.”
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 67.5
 pubDate: '2026-08-08T18:30:00Z'

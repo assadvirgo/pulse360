@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Berkshire Hathaway’s chief ends more than three-year selling streak as
   he ploughs a net $20bn into stocks
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-08T12:22:38Z'

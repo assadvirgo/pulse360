@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Senior security official wants Washington to pay compensation for war
   damage
-displayOrder: 36
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-08T16:20:14Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Vote follows tense fight that exposed bipartisan concerns about installing
   an ally of President Donald Trump
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-08T09:16:56Z'

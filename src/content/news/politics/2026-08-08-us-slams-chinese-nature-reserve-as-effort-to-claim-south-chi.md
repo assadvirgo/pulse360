@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US State Department accuses China of attempting to deny Filipino vessels
   access to fishing grounds in contested area.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-08T18:57:53Z'

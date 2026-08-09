@@ -4,7 +4,7 @@ country: Oman
 countryCode: OM
 description: Both sides suggest progress in talks to agree a new shipping route through
   the strait, but a breakthrough remains unclear.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 79.2
 pubDate: '2026-08-08T19:18:57Z'

@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran and Oman have agreed on the coordinates of routes to be taken by
   vessels through the Strait of Hormuz.
-displayOrder: 23
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-08T13:52:40Z'
