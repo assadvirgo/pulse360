@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Todd Blanche, President Trump’s former lawyer, is now US attorney general.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-08T21:04:54Z'

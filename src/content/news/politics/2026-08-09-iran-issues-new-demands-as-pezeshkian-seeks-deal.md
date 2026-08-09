@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Senior Iranian security official sets broader conditions for reopening
   Hormuz.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-09T05:06:02Z'

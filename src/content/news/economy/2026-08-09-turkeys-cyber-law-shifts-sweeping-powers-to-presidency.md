@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Move raises concern about ‘absolute digital obedience’ among social media
   and gaming platforms
-displayOrder: 31
+displayOrder: 39
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-09T04:00:10Z'

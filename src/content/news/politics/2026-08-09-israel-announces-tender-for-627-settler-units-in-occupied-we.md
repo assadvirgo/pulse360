@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: New settlement tender in West Bank deepens Israeli efforts to sever Palestinian
   ties to Jerusalem, officials warn.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-09T06:57:56Z'

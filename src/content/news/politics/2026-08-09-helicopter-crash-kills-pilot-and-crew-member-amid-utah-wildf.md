@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Utah wildfire suppression efforts continued, with containment standing
   at 24 percent.
-displayOrder: 7
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-09T03:09:27Z'

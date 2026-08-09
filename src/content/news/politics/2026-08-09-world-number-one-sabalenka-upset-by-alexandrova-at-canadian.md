@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Ekaterina Alexandrov took down four-time Grand Slam singles champion
   Aryna Sabalenka in a three-set marathon in Toronto.
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-09T07:10:56Z'

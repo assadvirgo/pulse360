@@ -2,7 +2,7 @@
 category: Economy
 description: Companies in the Stoxx Europe 600 are on track to deliver a 22% increase
   in profits in the second quarter
-displayOrder: 26
+displayOrder: 37
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-09T04:00:09Z'
