@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Irish government jet flies alleged drug trafficker back to Dublin to
   face charges
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 36.5
 pubDate: '2026-08-09T12:01:48Z'

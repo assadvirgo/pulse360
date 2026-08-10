@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli prime minister says military will not withdraw from Palestinian
   enclave ‘until Hamas is disarmed’
-displayOrder: 23
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-09T15:17:33Z'

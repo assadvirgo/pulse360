@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: For the first time in four years, the average stock is beating the stock
   market.
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-09T13:00:00Z'

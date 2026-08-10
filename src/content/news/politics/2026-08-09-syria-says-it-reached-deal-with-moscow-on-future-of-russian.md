@@ -4,7 +4,7 @@ country: Syria
 countryCode: SY
 description: Hmeimim airbase and Tartus naval base will become joint training and
   capacity-building centres under the agreement.
-displayOrder: 22
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-09T14:20:51Z'

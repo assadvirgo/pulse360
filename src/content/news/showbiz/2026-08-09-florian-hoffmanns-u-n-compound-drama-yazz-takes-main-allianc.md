@@ -5,7 +5,7 @@ countryCode: CH
 description: Florian Hoffmann’s “Yazz,” about a teenager growing up in a UN compound
   in the Central African Republic, celebrated two major wins at this year’s Locarno
   Pro Awards for the…
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 58.8
 pubDate: '2026-08-09T17:15:09Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Heart of Midlothian agree a deal to sell Greece winger Alexandros Kyziridis
   to a Turkish club for a fee of around £1.7m.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-08-09T14:20:04Z'

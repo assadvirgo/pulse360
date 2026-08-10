@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran says the Strait of Hormuz will remain restricted unless the US meets
   a series of demands.
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 70.5
 pubDate: '2026-08-09T15:46:09Z'

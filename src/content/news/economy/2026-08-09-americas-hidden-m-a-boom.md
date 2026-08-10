@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: 'It’s lurking in one of the US’s top exports: higher education'
-displayOrder: 42
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-09T15:00:00Z'

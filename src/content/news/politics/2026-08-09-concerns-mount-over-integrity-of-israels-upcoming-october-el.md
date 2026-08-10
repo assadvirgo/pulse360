@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Poll shows 70 percent of Jewish Israelis fear election integrity risks
   as Netanyahu government faces mounting criticism.
-displayOrder: 11
+displayOrder: 21
 heroImage: ''
 importance: 59.5
 pubDate: '2026-08-09T15:20:18Z'

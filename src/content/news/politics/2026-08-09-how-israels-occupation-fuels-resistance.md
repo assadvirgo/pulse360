@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israel is trapped in a cycle it created.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-08-09T16:19:34Z'

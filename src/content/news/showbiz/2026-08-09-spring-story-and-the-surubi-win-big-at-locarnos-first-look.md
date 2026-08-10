@@ -5,7 +5,7 @@ countryCode: CH
 description: LOCARNO, Switzerland &#8212;&#160; Cross-ocean love story “Spring Story”
   and false miracle comedy “The Surubí,” won big at Locarno’s 2026 pix-in-post First
   Look focus on Uruguay,…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-09T17:11:05Z'

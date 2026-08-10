@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: San Francisco’s language is hyperbolic — but the technology could bifurcate
   the labour market
-displayOrder: 36
+displayOrder: 40
 heroImage: ''
 importance: 47.5
 pubDate: '2026-08-09T11:30:10Z'

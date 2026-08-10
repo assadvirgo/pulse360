@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kimmel, Colbert or Oliver could each be anointed Hollywood's anti-White
   House avatar -- and become even more emboldened to take on the president.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-09T17:00:00Z'

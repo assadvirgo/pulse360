@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.
-displayOrder: 24
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-09T13:15:54Z'

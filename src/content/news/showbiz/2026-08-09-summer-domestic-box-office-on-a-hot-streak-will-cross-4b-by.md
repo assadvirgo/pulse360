@@ -5,7 +5,7 @@ countryCode: US
 description: Forget the woes of a potential Paramount-WBD merger, the summer domestic
   box office is on fire, just $14.8M away from crossing $4 billion. This is all according
   to Rentrak. For…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-09T19:45:26Z'

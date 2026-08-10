@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: He posts 103 off 85, dominates second-wicket stand of 153 with Ollie
   Price, while Joe Phillips raises unbeaten 61
-displayOrder: 15
+displayOrder: 18
 heroImage: ''
 importance: 50.5
 pubDate: '2026-08-09T18:39:11Z'

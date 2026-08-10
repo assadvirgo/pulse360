@@ -2,7 +2,7 @@
 category: Politics
 description: Hot weather and ageing infrastructure have led to the rationing, affecting
   hundreds of thousands of people.
-displayOrder: 14
+displayOrder: 20
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-09T16:43:23Z'

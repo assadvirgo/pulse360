@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport lists the best-performing men's and women's players in the
   2026 Hundred competition.
-displayOrder: 6
+displayOrder: 12
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-09T20:12:14Z'

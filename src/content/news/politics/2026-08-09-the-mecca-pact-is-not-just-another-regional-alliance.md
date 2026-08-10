@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: It could set the stage for a profound transformation of regional security
   in the Gulf.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-09T14:23:13Z'
