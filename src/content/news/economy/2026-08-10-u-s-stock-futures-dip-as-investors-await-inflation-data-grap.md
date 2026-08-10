@@ -5,7 +5,7 @@ countryCode: US
 description: U.S. stock-index futures were little changed on Sunday, after new demands
   from Iran raised fresh doubts about the Strait of Hormuz reopening anytime soon
   and as investors await…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 56.5
 pubDate: '2026-08-10T00:45:00Z'

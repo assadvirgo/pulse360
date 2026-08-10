@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Hundreds of people marched on Saturday in the town of Soller, in the
   island of Mallorca against mass tourism.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 61.5
 pubDate: '2026-08-09T18:59:33Z'

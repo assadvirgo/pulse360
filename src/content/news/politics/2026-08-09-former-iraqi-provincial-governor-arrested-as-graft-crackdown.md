@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Ahmed al-Jubouri and a close associate were arrested on charges of misusing
   contract funds in Saladin province.
-displayOrder: 24
+displayOrder: 32
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-09T16:53:45Z'

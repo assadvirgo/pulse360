@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: On the latest episode of Equity, we spoke to Jill Lepore about "government
   by machines" and why Elon Musk is a bad science fiction reader.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-08-09T15:00:00Z'

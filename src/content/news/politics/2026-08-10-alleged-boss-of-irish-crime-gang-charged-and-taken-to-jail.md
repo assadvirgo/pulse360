@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Daniel Kinahan has been remanded in custody after appearing before an
   Irish court charged with directing an organised crime group.
-displayOrder: 8
+displayOrder: 14
 heroImage: ''
 importance: 47.0
 pubDate: '2026-08-10T00:25:00Z'

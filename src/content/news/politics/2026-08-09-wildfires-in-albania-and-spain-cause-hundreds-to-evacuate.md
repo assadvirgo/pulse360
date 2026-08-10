@@ -4,7 +4,7 @@ country: Albania
 countryCode: AL
 description: Wildfires have spread near Albania’s capital and in parts of southern
   Spain, prompting hundreds to evacuate.
-displayOrder: 15
+displayOrder: 25
 heroImage: ''
 importance: 57.5
 pubDate: '2026-08-09T16:41:00Z'

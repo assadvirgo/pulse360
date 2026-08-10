@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Mohsen Rezaei appointed head of Supreme National Security Council after
   Mohammad Bagher Zolghadr steps down
-displayOrder: 16
+displayOrder: 22
 heroImage: ''
 importance: 43.5
 pubDate: '2026-08-09T22:23:21Z'

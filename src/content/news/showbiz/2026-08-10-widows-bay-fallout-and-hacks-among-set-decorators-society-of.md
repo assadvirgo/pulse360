@@ -5,7 +5,7 @@ countryCode: US
 description: '&#8220;Widow&#8217;s Bay,&#8221; &#8220;Fallout,&#8221; &#8220;Hacks&#8221;
   and &#8220;Beef&#8221; are among the shows that took home top honors from the Set
   Decorators Society of…'
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 57.8
 pubDate: '2026-08-10T01:00:00Z'

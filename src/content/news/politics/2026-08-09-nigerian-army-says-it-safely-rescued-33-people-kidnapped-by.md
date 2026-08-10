@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: The people were abducted while travelling through the country's north-western
   Zamfara state on Saturday.
-displayOrder: 14
+displayOrder: 21
 heroImage: ''
 importance: 51.2
 pubDate: '2026-08-09T19:57:28Z'

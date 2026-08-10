@@ -5,7 +5,7 @@ countryCode: US
 description: Ben Jones, the actor turned politician best known for playing Cooter
   Davenport on “The Dukes of Hazzard,” died on Sunday from a heart attack, according
   to his wife Alma Viator. He…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-08-09T23:50:25Z'

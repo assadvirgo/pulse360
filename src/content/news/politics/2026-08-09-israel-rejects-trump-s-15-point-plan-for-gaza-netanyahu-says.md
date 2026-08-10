@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel's PM says its military will not pull out from Gaza until Hamas
   is "genuinely" disarmed.
-displayOrder: 28
+displayOrder: 37
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-09T14:18:10Z'

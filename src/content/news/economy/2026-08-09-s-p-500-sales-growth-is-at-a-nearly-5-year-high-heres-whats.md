@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Energy companies in the S&amp;P 500 have put up a 42.5% revenue gain
   in the second quarter, powering the index’s sales performance.
-displayOrder: 43
+displayOrder: 45
 heroImage: ''
 importance: 33.5
 pubDate: '2026-08-09T14:00:00Z'

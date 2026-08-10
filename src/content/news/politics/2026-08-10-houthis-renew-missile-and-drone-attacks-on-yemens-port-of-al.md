@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: The latest Houthi attacks come less than 24 hours after an earlier barrage
   struck al-Makha (Mocha) and its commercial port.
-displayOrder: 10
+displayOrder: 16
 heroImage: ''
 importance: 46.5
 pubDate: '2026-08-10T00:19:43Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: He shares 136-run stand with Nathan McSweeney, after spinners Rob Keogh
   and Yuzi Chahal run through Somerset line-up
-displayOrder: 36
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-08-09T16:58:16Z'

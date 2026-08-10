@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Minister David Amiel urges opposition to help cut deficit and not leave
   mess for next leader
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-08-09T04:00:09Z'

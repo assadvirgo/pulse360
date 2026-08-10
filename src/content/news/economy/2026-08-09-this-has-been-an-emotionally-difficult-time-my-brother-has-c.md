@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “My father placed his $600,000 Wisconsin home into a revocable trust,
   naming my brother as beneficiary.”
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-09T13:00:00Z'

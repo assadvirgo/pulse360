@@ -5,7 +5,7 @@ countryCode: US
 description: Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved
   in an accident near downtown Palo Alto. At the time Shanahan said only that the
   accident was his fault. But…
-displayOrder: 22
+displayOrder: 30
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-09T15:56:49Z'

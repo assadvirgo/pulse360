@@ -5,7 +5,7 @@ countryCode: GB
 description: Mikel Arteta said the signing of Bruno Guimaraes will "ignite something
   different" in Arsenal and hinted that the Gunners are not done with their summer
   transfer activity.
-displayOrder: 11
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-08-09T19:27:03Z'

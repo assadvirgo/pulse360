@@ -5,7 +5,7 @@ countryCode: US
 description: When it comes to Paramount&#8217;s legal wrestle with the AG&#8217;s
   antitrust case over the Melrose lot&#8217;s possible merger with Warner Bros, the
   key is to divide and conquer…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-08-09T19:21:43Z'

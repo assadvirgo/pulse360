@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Programming with Claude Code will soon require even less human oversight.
-displayOrder: 23
+displayOrder: 28
 heroImage: ''
 importance: 46.0
 pubDate: '2026-08-09T19:20:32Z'

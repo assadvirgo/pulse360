@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: “He has never been particularly generous or nurturing.”
-displayOrder: 47
+displayOrder: 49
 heroImage: ''
 importance: 29.5
 pubDate: '2026-08-09T13:30:00Z'

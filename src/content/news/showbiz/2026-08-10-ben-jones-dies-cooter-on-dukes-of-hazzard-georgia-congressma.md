@@ -5,7 +5,7 @@ countryCode: US
 description: Ben Jones, known to millions as the affable &#8212; if mischievous &#8212;
   mechanic Cooter on The Dukes of Hazzard, died today at the age of 84. His wife,
   Alma Vitor, said that…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-08-10T00:29:05Z'
