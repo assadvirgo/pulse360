@@ -4,7 +4,7 @@ country: Malaysia
 countryCode: MY
 description: Malaysia&#039;s government says Anwar, 79, is undergoing medical examinations
   and a procedure advised by his specialists.
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-08-10T02:48:51Z'

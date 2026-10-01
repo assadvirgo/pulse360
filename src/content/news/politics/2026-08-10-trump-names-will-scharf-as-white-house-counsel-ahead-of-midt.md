@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump has named White House Staff Secretary Will Scharf as White House
   counsel, starting from September 1.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-08-10T04:00:21Z'

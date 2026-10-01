@@ -2,7 +2,7 @@
 category: Politics
 description: Palestinian Journalists Syndicate exposes rising threats, with over 270
   journalists killed in Gaza since October 2023.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-09T23:01:25Z'

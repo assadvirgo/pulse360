@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: The AI-focused hedge fund is still making some big bets.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-08-09T20:35:17Z'

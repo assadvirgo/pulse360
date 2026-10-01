@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT:&#160;This article contains spoilers for the Season 3 finale
   of “House of the Dragon,” now streaming on HBO Max. HBO&#8217;s &#8220;House of
   the Dragon&#8221; ended…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-08-10T02:10:00Z'

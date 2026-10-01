@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Demand for launches is growing faster than the region’s capabilities
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-08-10T04:00:15Z'

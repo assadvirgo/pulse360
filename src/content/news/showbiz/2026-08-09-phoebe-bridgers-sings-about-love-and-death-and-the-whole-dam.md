@@ -5,7 +5,7 @@ countryCode: US
 description: If there&#8217;s anything Phoebe Bridgers knows how to do, it&#8217;s
   land a punch line. There are a lot of them in &#8220;Lost Weekend,&#8221; her first
   solo record in six years,…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 72.8
 pubDate: '2026-08-09T23:33:21Z'
