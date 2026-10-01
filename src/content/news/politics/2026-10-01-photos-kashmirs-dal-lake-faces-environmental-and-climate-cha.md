@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Dal Lake’s fragile ecosystem is deteriorating amid pollution, unregulated
   construction and climate change in Kashmir.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-01T08:41:57Z'

@@ -4,7 +4,7 @@ country: Zimbabwe
 countryCode: ZW
 description: Chivayo was known for his lavish lifestyle, close ties to African presidents
   and lucrative government contracts.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-01T07:29:23Z'

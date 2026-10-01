@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: The hikes are part of immigration policy changes introduced to manage
   Japan's growing foreign population.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-10-01T02:57:43Z'

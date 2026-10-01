@@ -5,7 +5,7 @@ countryCode: US
 description: NBC has dropped the first trailer for Newlyweds, starring real-life married
   couple Tim Daly and Téa Leoni. The trailer opens with Jeanie (Leoni) and James&#8217;
   (Daly) first…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-01T17:00:00Z'

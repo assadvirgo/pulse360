@@ -5,7 +5,7 @@ countryCode: US
 description: UTA has taken a dramatic step to streamline the leadership of its film
   and TV lit and talent departments to reflect the industry trends of blurring lines
   between disciplines. As…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-01T16:02:10Z'

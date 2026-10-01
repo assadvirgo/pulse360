@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Tencent signed a five-year deal which allows it to access artificial-intelligence
   chips not previously available in the country, according to the Financial Times.
-displayOrder: 34
+displayOrder: 47
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-01T10:10:00Z'

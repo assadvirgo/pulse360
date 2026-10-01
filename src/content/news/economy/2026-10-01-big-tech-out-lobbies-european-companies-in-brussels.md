@@ -4,7 +4,7 @@ country: Belgium
 countryCode: BE
 description: US corporations including Google, Apple and Amazon use their influence
   to push back against EU digital bloc rules
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-01T04:00:06Z'

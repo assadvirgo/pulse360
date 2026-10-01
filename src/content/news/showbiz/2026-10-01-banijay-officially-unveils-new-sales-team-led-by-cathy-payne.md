@@ -5,7 +5,7 @@ countryCode: FR
 description: With its new catalogue of more than 250,000 hours of content since the
   All3Media merger, Banijay Entertainment has set out the shape of its sales team
   under chief Cathy Payne.…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-10-01T08:16:43Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount CEO David Ellison wants CEO Mark Thompson to remain at CNN
   after the Warner Bros Discovery deal closes, a move that would settle at least some
   of the speculation over…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-01T16:03:19Z'

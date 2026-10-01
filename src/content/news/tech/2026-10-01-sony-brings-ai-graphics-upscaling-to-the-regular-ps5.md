@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony is launching a new AI upscaling technology specifically for the
   regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a "new
   performance tier of AI…
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-01T16:53:39Z'

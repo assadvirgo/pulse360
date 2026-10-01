@@ -5,7 +5,7 @@ countryCode: US
 description: Pamela Abdy, Adria Arjona, Beth de Araújo, Gemma Chan and Salma Hayek
   Pinault will be saluted at this year&#8217;s WIF Honors ceremony. The gala, which
   directly funds the…
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-01T17:00:00Z'

@@ -4,7 +4,7 @@ country: Algeria
 countryCode: DZ
 description: It is estimated more than 200 people have died in blazes in the north-east
   of the country over the summer.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-01T16:31:35Z'

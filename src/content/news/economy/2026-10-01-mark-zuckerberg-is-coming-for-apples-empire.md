@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Apple has a grip on consumer technology through its iPhone business,
   but Meta is betting that the AI era warrants different types of hardware.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-01T16:47:00Z'

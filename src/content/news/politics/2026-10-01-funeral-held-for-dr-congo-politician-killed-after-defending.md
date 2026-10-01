@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: A funeral has been held for the politician who was killed in the Democratic
   Republic of the Congo.
-displayOrder: 15
+displayOrder: 38
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-01T12:07:31Z'

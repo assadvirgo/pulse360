@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Accounting firm has been sounding out bankers and revamping internal
   systems to give itself the option of a stock market flotation
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-01T04:00:16Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: American manufacturers are expanding and have plenty of new orders, but
   high energy prices and new Trump tariffs appear to be blocking even faster growth.
-displayOrder: 28
+displayOrder: 44
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-01T15:19:00Z'

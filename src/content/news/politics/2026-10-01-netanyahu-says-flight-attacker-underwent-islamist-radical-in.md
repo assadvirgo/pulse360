@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel's prime minister says the pilot who tried to take over the Flydubai
   plane clearly intended to "down the plane".
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 79.2
 pubDate: '2026-10-01T15:38:13Z'

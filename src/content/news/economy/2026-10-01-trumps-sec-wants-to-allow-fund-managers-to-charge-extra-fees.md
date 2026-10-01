@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Think twice before embracing any new fund with high performance-related
   fees in your 401(k).
-displayOrder: 23
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-01T17:16:00Z'
