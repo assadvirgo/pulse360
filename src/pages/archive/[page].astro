@@ -1,25 +1,19 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
-import { getReadingTime } from '../../utils/readingTime';
+import Pagination from '../../components/Pagination.astro';
+import { getArticleIndex, paginate, readingTimeOf, PAGE_SIZE } from '../../utils/articles';
 
 export async function getStaticPaths() {
-  const allArticles = await getCollection('news');
-  const PAGE_SIZE = 50;
-  const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
+  const { all } = await getArticleIndex();
+  const totalPages = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
   return Array.from({ length: totalPages }, (_, i) => ({ params: { page: String(i + 1) } }));
 }
 
 const { page } = Astro.params;
-const PAGE_SIZE = 50;
-const allArticles = await getCollection('news');
-const sorted = allArticles.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
-const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
-const currentPage = Math.max(1, Math.min(Number(page), totalPages));
-const start = (currentPage - 1) * PAGE_SIZE;
-const end = start + PAGE_SIZE;
-const pageArticles = sorted.slice(start, end);
+const index = await getArticleIndex();
+const sorted = index.all;
+const { currentPage, totalPages, items: pageArticles } = paginate(sorted, page);
 ---
 
 <BaseLayout title={`Archive — Page ${currentPage}`} description={`pulse360 archive, page ${currentPage} of ${totalPages}.`}>
@@ -48,27 +42,11 @@ const pageArticles = sorted.slice(start, end);
     ) : (
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6" id="archive-grid">
         {pageArticles.map(article => (
-          <ArticleCard id={article.id} slug={article.id} readingTime={getReadingTime(article.body ?? '')} {...article.data} />
+          <ArticleCard id={article.id} slug={article.id} readingTime={readingTimeOf(index, article)} {...article.data} />
         ))}
       </div>
     )}
 
-    <!-- Pagination -->
-    <div class="mt-14 flex justify-center gap-2">
-      {currentPage > 1 && (
-        <a href={`${import.meta.env.BASE_URL}archive/${currentPage - 1}`} class="px-4 py-2 rounded border text-sm text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all">Prev</a>
-      )}
-      {Array.from({ length: totalPages }, (_, i) => (
-        <a
-          href={`${import.meta.env.BASE_URL}archive/${i + 1}`}
-          class={`px-3 py-2 rounded text-sm font-medium ${i + 1 === currentPage ? 'bg-[var(--color-accent)] text-white' : 'text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:bg-[var(--color-accent-soft)]'}`}
-        >
-          {i + 1}
-        </a>
-      ))}
-      {currentPage < totalPages && (
-        <a href={`${import.meta.env.BASE_URL}archive/${currentPage + 1}`} class="px-4 py-2 rounded border text-sm text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all">Next</a>
-      )}
-    </div>
+    <Pagination currentPage={currentPage} totalPages={totalPages} href={(p) => `${import.meta.env.BASE_URL}archive/${p}`} />
   </section>
 </BaseLayout>

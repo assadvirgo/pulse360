@@ -1,18 +1,8 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getArticleIndex } from '../../utils/articles';
 
-const allArticles = await getCollection('news');
-
-// Collect tag counts
-const tagCounts: Record<string, number> = {};
-for (const a of allArticles) {
-  for (const tag of a.data.tags ?? []) {
-    tagCounts[tag] = (tagCounts[tag] || 0) + 1;
-  }
-}
-
-const sortedTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]);
+const { all: allArticles, tags: sortedTags } = await getArticleIndex();
 ---
 
 <BaseLayout title="Tags" description="Browse articles by tag on pulse360.">

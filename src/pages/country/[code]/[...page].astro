@@ -1,26 +1,21 @@
 ---
-import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import ArticleCard from '../../components/ArticleCard.astro';
-import CategoryNav from '../../components/CategoryNav.astro';
-import { getReadingTime } from '../../utils/readingTime';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ArticleCard from '../../../components/ArticleCard.astro';
+import Pagination from '../../../components/Pagination.astro';
+import { getArticleIndex, pageParams, paginate, readingTimeOf } from '../../../utils/articles';
 
 export async function getStaticPaths() {
-  const allArticles = await getCollection('news');
-  const codeSet = new Set<string>();
-  for (const a of allArticles) {
-    if (a.data.countryCode) {
-      codeSet.add(a.data.countryCode);
-    }
-  }
-  return Array.from(codeSet).map((code) => ({ params: { code } }));
+  const { byCountry } = await getArticleIndex();
+  return Array.from(byCountry, ([code, articles]) =>
+    pageParams(articles.length).map((page) => ({ params: { code, page } })),
+  ).flat();
 }
 
-const { code } = Astro.params;
-const allArticles = await getCollection('news');
-const filtered = allArticles
-  .filter((a) => a.data.countryCode === code)
-  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const { code, page } = Astro.params;
+const index = await getArticleIndex();
+const filtered = index.byCountry.get(code!) ?? [];
+const { currentPage, totalPages, items: pageArticles } = paginate(filtered, page);
+const pageHref = (p: number) => `${import.meta.env.BASE_URL}country/${code}${p > 1 ? `/${p}` : ''}`;
 
 // Resolve country name from the first article, fallback to code
 const countryName = filtered[0]?.data.country || code;
@@ -33,22 +28,10 @@ for (const a of filtered) {
 }
 
 // Other countries for sidebar navigation
-const otherCountries: Record<string, { name: string; count: number }> = {};
-for (const a of allArticles) {
-  const c = a.data.countryCode;
-  if (c && c !== code) {
-    if (!otherCountries[c]) {
-      otherCountries[c] = { name: a.data.country || c, count: 0 };
-    }
-    otherCountries[c].count++;
-  }
-}
-const sortedOthers = Object.entries(otherCountries)
-  .sort((a, b) => b[1].count - a[1].count)
-  .slice(0, 15);
+const sortedOthers = index.countries.filter(([c]) => c !== code).slice(0, 15);
 ---
 
-<BaseLayout title={`${countryName} News`} description={`Latest news from ${countryName} on pulse360.`}>
+<BaseLayout title={currentPage > 1 ? `${countryName} News — Page ${currentPage}` : `${countryName} News`} description={`Latest news from ${countryName} on pulse360.`}>
   <section class="max-w-6xl mx-auto px-6 pt-14 pb-6">
     <div class="flex items-center gap-4 mb-2">
       <a
@@ -65,7 +48,7 @@ const sortedOthers = Object.entries(otherCountries)
       <span class="text-xs font-mono px-2 py-1 rounded bg-[var(--color-accent-soft)] text-[var(--color-accent)]">{code}</span>
     </div>
     <p class="text-sm text-[var(--color-muted)] mb-8 opacity-60">
-      {filtered.length} article{filtered.length !== 1 ? 's' : ''} from {countryName}
+      {filtered.length} article{filtered.length !== 1 ? 's' : ''} from {countryName}{totalPages > 1 && ` — page ${currentPage} of ${totalPages}`}
     </p>
 
     <!-- Category breakdown for this country -->
@@ -88,16 +71,18 @@ const sortedOthers = Object.entries(otherCountries)
       </div>
     ) : (
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filtered.map((article) => (
+        {pageArticles.map((article) => (
           <ArticleCard
             id={article.id}
             slug={article.id}
-            readingTime={getReadingTime(article.body ?? '')}
+            readingTime={readingTimeOf(index, article)}
             {...article.data}
           />
         ))}
       </div>
     )}
+
+    <Pagination currentPage={currentPage} totalPages={totalPages} href={pageHref} />
 
     <!-- Other countries sidebar -->
     {sortedOthers.length > 0 && (

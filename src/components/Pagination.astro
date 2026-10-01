@@ -1,0 +1,46 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  /** Returns the URL for a given page number. */
+  href: (page: number) => string;
+}
+
+const { currentPage, totalPages, href } = Astro.props;
+
+// Windowed page list: first, last, and a few around the current page.
+// Listing every page made each paginated page O(total pages) in size.
+const WINDOW = 2;
+const pages: (number | null)[] = [];
+for (let i = 1; i <= totalPages; i++) {
+  if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= WINDOW) {
+    pages.push(i);
+  } else if (pages[pages.length - 1] !== null) {
+    pages.push(null);
+  }
+}
+---
+
+{totalPages > 1 && (
+  <div class="mt-14 flex flex-wrap justify-center gap-2">
+    {currentPage > 1 && (
+      <a href={href(currentPage - 1)} class="px-4 py-2 rounded border text-sm text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all">Prev</a>
+    )}
+    {pages.map((p) =>
+      p === null ? (
+        <span class="px-2 py-2 text-sm text-[var(--color-muted)] opacity-50">…</span>
+      ) : (
+        <a
+          href={href(p)}
+          class={`px-3 py-2 rounded text-sm font-medium ${p === currentPage ? 'bg-[var(--color-accent)] text-white' : 'text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:bg-[var(--color-accent-soft)]'}`}
+          aria-current={p === currentPage ? 'page' : undefined}
+        >
+          {p}
+        </a>
+      )
+    )}
+    {currentPage < totalPages && (
+      <a href={href(currentPage + 1)} class="px-4 py-2 rounded border text-sm text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all">Next</a>
+    )}
+  </div>
+)}
