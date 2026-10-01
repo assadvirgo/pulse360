@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mattel announced on Wednesday that Roger Lynch would serve as CEO and
   Chairman, replacing Ynon Kreiz.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 35.5
 pubDate: '2026-09-30T20:49:20Z'

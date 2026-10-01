@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India defeated Sri Lanka by 124 runs in the semis to book their spot
   with Pakistan for a first-ever Asian Games clash.
-displayOrder: 2
+displayOrder: 3
 heroImage: ''
 importance: 60.5
 pubDate: '2026-10-01T09:39:05Z'

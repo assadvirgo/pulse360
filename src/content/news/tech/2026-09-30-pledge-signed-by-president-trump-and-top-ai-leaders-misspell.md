@@ -5,7 +5,7 @@ countryCode: US
 description: On Tuesday, President Donald Trump and top AI leaders announced a signed
   pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise
   to implement more…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-09-30T14:50:55Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Khaldoon al-Mubarak was granted immunity six years ago, protecting him
   from potential legal proceedings in the UK
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-01T04:00:24Z'

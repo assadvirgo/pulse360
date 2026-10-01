@@ -5,7 +5,7 @@ countryCode: US
 description: Defense Secretary Pete Hegseth just launched a 120-day study on the future
   of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes
   sense given their…
-displayOrder: 17
+displayOrder: 24
 heroImage: ''
 importance: 60.0
 pubDate: '2026-09-30T23:08:00Z'

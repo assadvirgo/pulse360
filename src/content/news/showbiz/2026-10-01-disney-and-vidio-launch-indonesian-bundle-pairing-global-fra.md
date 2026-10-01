@@ -5,7 +5,7 @@ countryCode: ID
 description: Disney+ has struck its first partnership with Indonesian streamer Vidio.
   The two are launching a joint subscription that packages Disney+ Standard with Vidio
   Ultimate All Screen…
-displayOrder: 9
+displayOrder: 13
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-01T05:00:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A new E1 sanctions bill could test whether US objections are finally
   backed by consequences.
-displayOrder: 7
+displayOrder: 10
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-01T08:13:15Z'

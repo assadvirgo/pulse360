@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount is appointing a new co-CEO ahead of the close of its $110 billion
   merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and
   CEO, will be joining…
-displayOrder: 14
+displayOrder: 20
 heroImage: ''
 importance: 62.2
 pubDate: '2026-09-30T23:08:49Z'

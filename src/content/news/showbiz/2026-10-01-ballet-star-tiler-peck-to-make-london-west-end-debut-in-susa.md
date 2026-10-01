@@ -5,7 +5,7 @@ countryCode: GB
 description: New York City Ballet principal dancer Tiler Peck will make her West End
   debut in &#8220;Little Dancer,&#8221; the Lynn Ahrens and Stephen Flaherty musical
   about the girl who posed…
-displayOrder: 8
+displayOrder: 11
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-01T08:30:00Z'

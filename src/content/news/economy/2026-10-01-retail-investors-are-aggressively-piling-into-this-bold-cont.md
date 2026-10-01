@@ -5,7 +5,7 @@ countryCode: US
 description: After a harrowing third quarter for Treasurys and as the stock market
   stalls , bond yields at multi-decade highs are attracting retail investors into
   fixed-income ETFs..
-displayOrder: 15
+displayOrder: 22
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-01T09:23:00Z'
