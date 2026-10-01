@@ -1,28 +1,10 @@
 ---
-import { getCollection } from 'astro:content';
-import BaseLayout from '../layouts/BaseLayout.astro';
-import ArticleCard from '../components/ArticleCard.astro';
-import CategoryNav from '../components/CategoryNav.astro';
-
 export async function getStaticPaths() {
   const categories = ['politics', 'economy', 'sports', 'showbiz', 'tech'];
   return categories.map(cat => ({ params: { category: cat } }));
 }
 
 const { category } = Astro.params;
-const label = category.charAt(0).toUpperCase() + category.slice(1);
-
-const allArticles = await getCollection('news');
-const filtered = allArticles
-  .filter(a => a.data.category.toLowerCase() === category)
-  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
-
-// Category counts for nav
-const categoryCounts: Record<string, number> = {};
-for (const a of allArticles) {
-  const cat = a.data.category;
-  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
-}
 ---
 
 

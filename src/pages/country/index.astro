@@ -1,26 +1,12 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import WorldMap from '../../components/WorldMap.astro';
 
-const allArticles = await getCollection('news');
+import { getArticleIndex } from '../../utils/articles';
 
-// Build country counts — only articles with a non-empty countryCode
-const countryCounts: Record<string, { name: string; count: number }> = {};
-for (const a of allArticles) {
-  const code = a.data.countryCode;
-  const name = a.data.country;
-  if (code) {
-    if (!countryCounts[code]) {
-      countryCounts[code] = { name: name || code, count: 0 };
-    }
-    countryCounts[code].count++;
-  }
-}
-
-const activeCodes = new Set(Object.keys(countryCounts));
-const sortedCountries = Object.entries(countryCounts)
-  .sort((a, b) => b[1].count - a[1].count);
+// Country counts — only articles with a non-empty countryCode
+const sortedCountries = (await getArticleIndex()).countries;
+const activeCodes = new Set(sortedCountries.map(([code]) => code));
 const totalTagged = sortedCountries.reduce((s, [, v]) => s + v.count, 0);
 ---
 

@@ -1,12 +1,9 @@
 import rss from '@astrojs/rss';
-import { getCollection } from 'astro:content';
 import type { APIContext } from 'astro';
+import { getArticleIndex } from '../utils/articles';
 
 export async function GET(context: APIContext) {
-  const articles = await getCollection('news');
-  const sorted = articles.sort(
-    (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
-  );
+  const { all: sorted } = await getArticleIndex();
 
   return rss({
     title: 'pulse360 — The Global Pulse',

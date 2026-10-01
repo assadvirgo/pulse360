@@ -1,28 +1,28 @@
 ---
-import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import ArticleCard from '../../components/ArticleCard.astro';
-import { getReadingTime } from '../../utils/readingTime';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ArticleCard from '../../../components/ArticleCard.astro';
+import Pagination from '../../../components/Pagination.astro';
+import { getArticleIndex, pageParams, paginate, readingTimeOf } from '../../../utils/articles';
 
 export async function getStaticPaths() {
-  const allArticles = await getCollection('news');
-  const tagSet = new Set<string>();
-  for (const a of allArticles) {
-    for (const tag of a.data.tags ?? []) {
-      tagSet.add(tag);
-    }
-  }
-  return Array.from(tagSet).map((tag) => ({ params: { tag } }));
+  const { byTag } = await getArticleIndex();
+  return Array.from(byTag, ([tag, articles]) =>
+    pageParams(articles.length).map((page) => ({ params: { tag, page } })),
+  ).flat();
 }
 
-const { tag } = Astro.params;
-const allArticles = await getCollection('news');
-const filtered = allArticles
-  .filter((a) => (a.data.tags ?? []).includes(tag!))
-  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const { tag, page } = Astro.params;
+const index = await getArticleIndex();
+const filtered = index.byTag.get(tag!) ?? [];
+const { currentPage, totalPages, items: pageArticles } = paginate(filtered, page);
+const pageHref = (p: number) =>
+  `${import.meta.env.BASE_URL}tags/${encodeURIComponent(tag!)}${p > 1 ? `/${p}` : ''}`;
 ---
 
-<BaseLayout title={`Tag: ${tag}`} description={`Articles tagged "${tag}" on pulse360.`}>
+<BaseLayout
+  title={currentPage > 1 ? `Tag: ${tag} — Page ${currentPage}` : `Tag: ${tag}`}
+  description={`Articles tagged "${tag}" on pulse360.`}
+>
   <section class="max-w-6xl mx-auto px-6 pt-14 pb-6">
     <div class="flex items-center gap-4 mb-2">
       <a
@@ -38,7 +38,7 @@ const filtered = allArticles
       </h1>
     </div>
     <p class="text-sm text-[var(--color-muted)] mb-10 opacity-60">
-      {filtered.length} article{filtered.length !== 1 ? 's' : ''}
+      {filtered.length} article{filtered.length !== 1 ? 's' : ''}{totalPages > 1 && ` — page ${currentPage} of ${totalPages}`}
     </p>
 
     {filtered.length === 0 ? (
@@ -47,15 +47,17 @@ const filtered = allArticles
       </div>
     ) : (
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filtered.map((article) => (
+        {pageArticles.map((article) => (
           <ArticleCard
             id={article.id}
             slug={article.id}
-            readingTime={getReadingTime(article.body ?? '')}
+            readingTime={readingTimeOf(index, article)}
             {...article.data}
           />
         ))}
       </div>
     )}
+
+    <Pagination currentPage={currentPage} totalPages={totalPages} href={pageHref} />
   </section>
 </BaseLayout>

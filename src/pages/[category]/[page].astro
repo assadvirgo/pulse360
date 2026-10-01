@@ -1,18 +1,16 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import CategoryNav from '../../components/CategoryNav.astro';
-import { getReadingTime } from '../../utils/readingTime';
+import Pagination from '../../components/Pagination.astro';
+import { getArticleIndex, paginate, readingTimeOf, CATEGORIES, PAGE_SIZE } from '../../utils/articles';
 
 export async function getStaticPaths() {
-  const categories = ['politics', 'economy', 'sports', 'showbiz', 'tech'];
-  const PAGE_SIZE = 50;
-  const allArticles = await getCollection('news');
+  const { byCategory } = await getArticleIndex();
   const paths = [];
-  for (const category of categories) {
-    const filtered = allArticles.filter(a => a.data.category.toLowerCase() === category);
-    const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  for (const category of CATEGORIES) {
+    const count = byCategory.get(category)?.length ?? 0;
+    const totalPages = Math.max(1, Math.ceil(count / PAGE_SIZE));
     for (let i = 1; i <= totalPages; i++) {
       paths.push({ params: { category, page: String(i) } });
     }
@@ -22,22 +20,11 @@ export async function getStaticPaths() {
 
 const { category, page } = Astro.params;
 const label = category.charAt(0).toUpperCase() + category.slice(1);
-const PAGE_SIZE = 50;
-const allArticles = await getCollection('news');
-const filtered = allArticles
-  .filter(a => a.data.category.toLowerCase() === category)
-  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
-const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
-const currentPage = Math.max(1, Math.min(Number(page), totalPages));
-const start = (currentPage - 1) * PAGE_SIZE;
-const end = start + PAGE_SIZE;
-const pageArticles = filtered.slice(start, end);
+const index = await getArticleIndex();
+const filtered = index.byCategory.get(category) ?? [];
+const { currentPage, totalPages, items: pageArticles } = paginate(filtered, page);
 // Category counts for nav
-const categoryCounts = {};
-for (const a of allArticles) {
-  const cat = a.data.category;
-  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
-}
+const categoryCounts = index.categoryCounts;
 ---
 
 <BaseLayout title={`${label} News — Page ${currentPage}`} description={`Global ${label} news, page ${currentPage} of ${totalPages}.`}>
@@ -63,7 +50,7 @@ for (const a of allArticles) {
         <span>Updated every 4h</span>
       </div>
     </div>
-    <CategoryNav active={label} counts={categoryCounts} total={allArticles.length} />
+    <CategoryNav active={label} counts={categoryCounts} total={index.all.length} />
   </section>
 
   <section class="max-w-6xl mx-auto px-6 pb-4">
@@ -86,28 +73,12 @@ for (const a of allArticles) {
           <ArticleCard
             id={article.id}
             slug={article.id}
-            readingTime={getReadingTime(article.body ?? '')}
+            readingTime={readingTimeOf(index, article)}
             {...article.data}
           />
         ))}
       </div>
     )}
-    <!-- Pagination -->
-    <div class="mt-14 flex justify-center gap-2">
-      {currentPage > 1 && (
-        <a href={`${import.meta.env.BASE_URL}${category}/${currentPage - 1}`} class="px-4 py-2 rounded border text-sm text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all">Prev</a>
-      )}
-      {Array.from({ length: totalPages }, (_, i) => (
-        <a
-          href={`${import.meta.env.BASE_URL}${category}/${i + 1}`}
-          class={`px-3 py-2 rounded text-sm ${i + 1 === currentPage ? 'bg-[var(--color-accent)] text-white' : 'text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:bg-[var(--color-accent-soft)]'}`}
-        >
-          {i + 1}
-        </a>
-      ))}
-      {currentPage < totalPages && (
-        <a href={`${import.meta.env.BASE_URL}${category}/${currentPage + 1}`} class="px-4 py-2 rounded border text-sm text-[var(--color-muted)] hover:text-[var(--color-ink)] hover:border-[var(--color-accent)]/40 hover:bg-[var(--color-accent-soft)] transition-all">Next</a>
-      )}
-    </div>
+    <Pagination currentPage={currentPage} totalPages={totalPages} href={(p) => `${import.meta.env.BASE_URL}${category}/${p}`} />
   </section>
 </BaseLayout>

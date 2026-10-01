@@ -33,17 +33,24 @@ jobs:
           node-version: 22
           cache: npm
 
-      - name: Restore Astro content cache
-        uses: actions/cache@v4
-        with:
-          path: .astro
-          key: astro-${{ hashFiles('src/content/**') }}
-          restore-keys: astro-
-
       - name: Install dependencies
         run: npm ci
 
+      # Astro keeps its content data store (parsed + rendered markdown) in
+      # node_modules/.astro. Restoring it after `npm ci` (which wipes
+      # node_modules) lets Astro re-process only new/changed articles instead
+      # of all of them on every build.
+      - name: Restore Astro content cache
+        uses: actions/cache@v4
+        with:
+          path: node_modules/.astro
+          key: astro-content-${{ runner.os }}-${{ hashFiles('package-lock.json', 'src/content.config.ts') }}-${{ github.sha }}
+          restore-keys: |
+            astro-content-${{ runner.os }}-${{ hashFiles('package-lock.json', 'src/content.config.ts') }}-
+
       - name: Build
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192
         run: npm run build
 
       - name: Upload Pages artifact

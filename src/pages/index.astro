@@ -1,11 +1,11 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import CategoryNav from '../components/CategoryNav.astro';
-import { getReadingTime } from '../utils/readingTime';
+import { getArticleIndex, readingTimeOf } from '../utils/articles';
 
-const allArticles = await getCollection('news');
+const index = await getArticleIndex();
+const allArticles = index.all;
 
 // Only show articles from the last 24 hours that the researcher selected
 const MAX_AGE_MS = 24 * 60 * 60 * 1000;
@@ -30,11 +30,7 @@ const sorted = allArticles
 const latest = sorted.slice(0, 50);
 
 // Category counts for the live ticker
-const categoryCounts: Record<string, number> = {};
-for (const a of allArticles) {
-  const cat = a.data.category;
-  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
-}
+const categoryCounts = index.categoryCounts;
 ---
 
 <BaseLayout title="Home" description="pulse360 — the world's simplest global news snapshot, refreshed every 4 hours.">
@@ -87,7 +83,7 @@ for (const a of allArticles) {
     ) : (
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {latest.map(article => (
-          <ArticleCard id={article.id} slug={article.id} readingTime={getReadingTime(article.body ?? '')} {...article.data} />
+          <ArticleCard id={article.id} slug={article.id} readingTime={readingTimeOf(index, article)} {...article.data} />
         ))}
       </div>
     )}

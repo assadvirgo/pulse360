@@ -1,12 +1,12 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { render } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
-import { getReadingTime } from '../../utils/readingTime';
+import { getArticleIndex, getRelated, readingTimeOf } from '../../utils/articles';
 
 export async function getStaticPaths() {
-  const articles = await getCollection('news');
-  return articles.map(article => ({
+  const { all } = await getArticleIndex();
+  return all.map(article => ({
     params: { slug: article.id },
     props: { article },
   }));
@@ -16,19 +16,11 @@ const { article } = Astro.props;
 const { Content } = await render(article);
 const { title, pubDate, description, category, heroImage, sentiment, sourceUrl, tags } = article.data;
 
-const readingTime = getReadingTime(article.body ?? '');
+const index = await getArticleIndex();
+const readingTime = readingTimeOf(index, article);
 
 // Related articles: same category, excluding current, sorted by tag overlap then date
-const allArticles = await getCollection('news');
-const currentTags = new Set(tags ?? []);
-const related = allArticles
-  .filter(a => a.id !== article.id && a.data.category === category)
-  .map(a => {
-    const overlap = (a.data.tags ?? []).filter(t => currentTags.has(t)).length;
-    return { article: a, overlap };
-  })
-  .sort((a, b) => b.overlap - a.overlap || b.article.data.pubDate.getTime() - a.article.data.pubDate.getTime())
-  .slice(0, 3);
+const related = getRelated(index, article);
 ---
 
 <ArticleLayout
@@ -54,11 +46,11 @@ const related = allArticles
           <div class="flex-1 h-px bg-[var(--color-border)]"></div>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {related.map(({ article: r }) => (
+          {related.map((r) => (
             <ArticleCard
               id={r.id}
               slug={r.id}
-              readingTime={getReadingTime(r.body ?? '')}
+              readingTime={readingTimeOf(index, r)}
               {...r.data}
             />
           ))}
