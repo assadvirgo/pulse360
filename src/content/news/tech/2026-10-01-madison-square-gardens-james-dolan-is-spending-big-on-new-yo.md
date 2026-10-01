@@ -5,7 +5,7 @@ countryCode: US
 description: James Dolan has put surveillance at the center of his sports and entertainment
   empire. Now he’s getting involved in GOP politics by backing a candidate who supports
   Flock, ICE,…
-displayOrder: 6
+displayOrder: 26
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-01T10:30:00Z'

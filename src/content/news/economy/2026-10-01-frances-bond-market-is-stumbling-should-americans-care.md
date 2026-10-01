@@ -3,7 +3,7 @@ category: Economy
 country: France
 countryCode: FR
 description: As French bond yields rise, is it a threat to the U.S.?
-displayOrder: 26
+displayOrder: 41
 heroImage: ''
 importance: 32.5
 pubDate: '2026-10-01T09:39:00Z'

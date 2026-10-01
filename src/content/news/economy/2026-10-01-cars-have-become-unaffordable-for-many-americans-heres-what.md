@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At today’s prices and rates, even the average used vehicle can exceed
   some commonly used affordability measures.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-01T02:35:00Z'

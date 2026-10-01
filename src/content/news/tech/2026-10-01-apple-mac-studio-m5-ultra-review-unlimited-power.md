@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Mac Studio can run frontier-level AI language models locally. It’s
   only a preview of what’s to come.
-displayOrder: 8
+displayOrder: 30
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-01T10:00:00Z'

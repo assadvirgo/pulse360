@@ -2,7 +2,7 @@
 category: Economy
 description: Enhancing domestic security, using new technologies and negotiating guardrails
   could lessen the risk of mass-casualty events
-displayOrder: 25
+displayOrder: 45
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-01T04:00:16Z'

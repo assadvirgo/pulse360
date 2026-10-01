@@ -5,7 +5,7 @@ countryCode: GB
 description: Nick Curwin, who founded two storied British production houses and went
   on to run indie incubator Matisse, is retiring. Matisse, which has backed indies
   including Dan…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-01T08:00:48Z'

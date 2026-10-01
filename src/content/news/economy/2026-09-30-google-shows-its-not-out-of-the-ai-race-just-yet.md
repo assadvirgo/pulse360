@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company’s Gemini 4 Argon announcement shows Google is back with the
   pack when it comes to cutting-edge AI models.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-09-30T22:51:00Z'

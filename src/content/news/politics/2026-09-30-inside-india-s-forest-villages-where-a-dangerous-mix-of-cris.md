@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: At least 32 children have died in India's Balaghat district since May
   amid outbreaks of measles and malaria.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-09-30T23:41:34Z'

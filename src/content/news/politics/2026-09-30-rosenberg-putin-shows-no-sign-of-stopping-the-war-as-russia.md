@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: A foreign policy speech by the Russian president will be keenly watched,
   but all signs point to the full-scale invasion continuing.
-displayOrder: 16
+displayOrder: 40
 heroImage: ''
 importance: 79.2
 pubDate: '2026-09-30T23:10:06Z'

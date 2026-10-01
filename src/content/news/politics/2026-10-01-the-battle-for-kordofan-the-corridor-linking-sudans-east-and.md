@@ -4,7 +4,7 @@ country: Sudan
 countryCode: SD
 description: Kordofan, between Darfur and central Sudan, has seen one in five recorded
   attacks in Sudan&#039;s war since April 2023.
-displayOrder: 9
+displayOrder: 31
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-01T08:23:44Z'

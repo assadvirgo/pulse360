@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: After months of wait-and-watch, India is calling out its differences
   with Trump head-on as domestic pressure mounts.
-displayOrder: 7
+displayOrder: 33
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-01T05:37:39Z'

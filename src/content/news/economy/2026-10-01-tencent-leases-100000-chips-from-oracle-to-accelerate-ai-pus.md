@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: WeChat owner strikes deal to access US group’s south-east Asia data centres
   amid race with ByteDance and Alibaba
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-01T02:57:46Z'

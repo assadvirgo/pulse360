@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Scientists say such rapid melting is no longer surprising given the pace
   of climate change.
-displayOrder: 27
+displayOrder: 47
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-01T00:08:23Z'

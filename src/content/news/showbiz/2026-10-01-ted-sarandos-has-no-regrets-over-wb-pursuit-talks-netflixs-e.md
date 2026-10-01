@@ -5,7 +5,7 @@ countryCode: US
 description: Appearing at Bloomberg&#8217;s Screentime hours after Paramount&#8217;s
   acquisition of Warner Bros. Discovery overcame the last hurdle when a federal judge
   approved the settlement…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-01T06:00:07Z'
