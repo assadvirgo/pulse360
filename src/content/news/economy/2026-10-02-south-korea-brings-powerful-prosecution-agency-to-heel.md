@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Overhaul is a victory for reformers, though some fear it could leave
   an investigative vacuum
-displayOrder: 37
+displayOrder: 44
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-02T01:30:23Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: ICC and Axa terminate agreement amid mounting US criticism and looming
   financial restrictions on the court, FT reports.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-01T20:20:00Z'

@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: German chancellor says Moscow’s escalation shows ‘desperation’ over the
   war in Ukraine
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-01T19:42:12Z'

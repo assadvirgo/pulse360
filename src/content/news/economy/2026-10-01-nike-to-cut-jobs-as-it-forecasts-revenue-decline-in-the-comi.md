@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US sneaker and sportswear group to open an India campus under its turnaround
   plan
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-01T22:07:54Z'

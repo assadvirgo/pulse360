@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A 94-year-old Jewish activist was detained at a pro-Palestine rally in
   the UK for supporting Palestine Action.
-displayOrder: 18
+displayOrder: 33
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-01T22:44:56Z'

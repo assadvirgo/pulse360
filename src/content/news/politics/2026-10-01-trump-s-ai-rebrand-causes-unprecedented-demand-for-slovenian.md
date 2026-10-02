@@ -4,7 +4,7 @@ country: Slovenia
 countryCode: SI
 description: The president wants AI to be called super intelligence - or SI - the
   same initials used by Slovenian domains.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-01T11:37:46Z'

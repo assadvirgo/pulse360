@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The Russian leader insists Moscow is "not threatening anyone" and is
   merely responding to statements by Western leaders.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-01T19:38:30Z'

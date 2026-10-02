@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawyers for Good's family say US officials created "an unprecedented
   environment for state sponsored violence" in Minneapolis.
-displayOrder: 13
+displayOrder: 30
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-01T20:30:47Z'

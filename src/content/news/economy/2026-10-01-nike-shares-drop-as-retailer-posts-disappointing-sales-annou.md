@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nike is expected to post another quarter of declining sales as the company
   tries to turn around its business and regain growth in China.
-displayOrder: 29
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-01T21:34:44Z'

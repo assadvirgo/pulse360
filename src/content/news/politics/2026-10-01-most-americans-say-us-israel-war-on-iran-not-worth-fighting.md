@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nearly 70 percent of Americans say the US-Israeli war is not worth fighting,
   marking a significant spike since July.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-01T20:49:45Z'

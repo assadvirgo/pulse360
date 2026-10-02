@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Report stating that Trump administration directed funds towards right-wing
   groups comes ahead of presidential election.
-displayOrder: 1
+displayOrder: 15
 heroImage: ''
 importance: 86.5
 pubDate: '2026-10-01T22:48:17Z'

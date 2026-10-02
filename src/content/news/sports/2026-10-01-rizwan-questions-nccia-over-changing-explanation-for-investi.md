@@ -5,7 +5,7 @@ countryCode: PK
 description: While the initial enquiry was about betting and gambling in Pakistan
   cricket, the NCCIA letter on Wednesday said he was being investigated under "relevant
   provisions of PECA 2016"
-displayOrder: 48
+displayOrder: 50
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-01T14:31:38Z'

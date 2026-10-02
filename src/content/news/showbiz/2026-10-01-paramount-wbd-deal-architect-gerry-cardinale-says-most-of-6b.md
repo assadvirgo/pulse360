@@ -5,7 +5,7 @@ countryCode: US
 description: Gerry Cardinale, Paramount board member and principal architect of the
   company&#8217;s imminent merger with Warner Bros. Discovery, insists that most of
   the deal&#8217;s cost…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-10-01T23:56:46Z'
