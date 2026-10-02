@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Filming has wrapped on Twilight of the Dead, the long gestating
   “final chapter” of George A. Romero’s classic zombie saga. Underworld star Kate
   Beckinsale stars…'
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-02T09:49:56Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US university Cornell’s handling of sexual assault allegations is under
   scrutiny.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-02T16:02:39Z'

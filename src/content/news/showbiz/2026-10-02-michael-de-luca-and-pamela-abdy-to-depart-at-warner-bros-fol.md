@@ -5,7 +5,7 @@ countryCode: US
 description: Michael De Luca and Pamela Abdy’s term as chiefs of Warner Bros. is coming
   to an end. Multiple sources told Variety that De Luca and Abdy will not be part
   of David Ellison&#8217;s…
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-02T06:15:17Z'

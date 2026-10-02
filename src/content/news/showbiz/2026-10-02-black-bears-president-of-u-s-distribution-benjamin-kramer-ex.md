@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Black Bear&#8217;s President of U.S. Distribution Benjamin
   Kramer is exiting the firm, we can reveal. Kramer joined Black Bear 15 months ago
   after co-running…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-02T17:00:00Z'

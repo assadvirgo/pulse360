@@ -5,7 +5,7 @@ countryCode: US
 description: James Gunn and Peter Safran, the bosses of Warner Bros&#8217; owned label
   DC Studios, will continue to lead the film, TV, comic book production hub and do
   what they do best after…
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-02T16:48:49Z'

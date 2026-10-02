@@ -5,7 +5,7 @@ countryCode: US
 description: The clock is almost out. You have less than 24 hours left to apply to
   host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight
   at midnight PT. Connect…
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-02T14:00:00Z'

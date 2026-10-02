@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India have won their last six T20Is against Pakistan and look poised
   to make it seven in a row
-displayOrder: 39
+displayOrder: 46
 heroImage: ''
 importance: 44.5
 pubDate: '2026-10-02T09:33:04Z'

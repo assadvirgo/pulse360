@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: The remains of a further 10 infants have been found at the site of a
   former mother and baby home in Ireland.
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-02T13:38:00Z'

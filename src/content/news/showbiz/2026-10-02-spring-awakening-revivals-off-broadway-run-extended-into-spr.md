@@ -5,7 +5,7 @@ countryCode: US
 description: The Spring Awakening off Broadway will continue into the spring. Citing
   &#8220;unprecedented demand,&#8221; the musical revival&#8217;s producers said Friday
   that the show from…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-02T16:10:52Z'

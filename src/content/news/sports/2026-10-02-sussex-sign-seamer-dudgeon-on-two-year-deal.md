@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sussex sign South African seamer Keith Dudgeon, who helped Kent win County
   Championship promotion in 2026, on a two-year contract.
-displayOrder: 15
+displayOrder: 36
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-02T11:11:28Z'

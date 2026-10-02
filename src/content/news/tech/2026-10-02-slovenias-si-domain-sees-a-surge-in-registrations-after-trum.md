@@ -4,7 +4,7 @@ country: Slovenia
 countryCode: SI
 description: The .si domain name is seeing unprecedented demand after President Trump's
   super intelligence executive order.
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 74.0
 pubDate: '2026-10-02T14:47:46Z'

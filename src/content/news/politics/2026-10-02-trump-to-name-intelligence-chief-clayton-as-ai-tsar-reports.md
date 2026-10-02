@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The possible selection comes amid increasing calls for the government
   to intervene in the rapidly developing technology.
-displayOrder: 5
+displayOrder: 16
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-02T16:06:15Z'

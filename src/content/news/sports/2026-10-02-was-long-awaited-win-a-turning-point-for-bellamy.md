@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Has the impressive 2-1 victory over Norway changed the mood music for
   Wales and restored fans confidence in head coach Craig Bellamy?
-displayOrder: 38
+displayOrder: 45
 heroImage: ''
 importance: 45.2
 pubDate: '2026-10-02T09:36:29Z'
