@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: The hosts lost Sai Sudharsan a few minutes before stumps on day three,
   still needing another 337 runs for victory
-displayOrder: 45
+displayOrder: 49
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-01T12:45:56Z'

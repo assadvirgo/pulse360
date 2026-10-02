@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Motive behind Flydubai incident still unclear, but Israeli PM is framing
   it within his warnings of threats to Israelis.
-displayOrder: 16
+displayOrder: 23
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-01T15:47:23Z'

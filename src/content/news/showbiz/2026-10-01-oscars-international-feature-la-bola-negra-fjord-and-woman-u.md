@@ -3,7 +3,7 @@ category: Showbiz
 description: 'Variety Awards Circuit section is the home for all awards news and related
   content throughout the year, featuring the following: the official predictions for
   the upcoming Oscars,…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-01T22:55:00Z'

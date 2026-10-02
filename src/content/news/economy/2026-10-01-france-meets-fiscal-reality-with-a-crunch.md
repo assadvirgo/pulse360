@@ -3,7 +3,7 @@ category: Economy
 country: France
 countryCode: FR
 description: A surge in borrowing costs leaves the country on the edge of a debt spiral
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-01T17:05:12Z'

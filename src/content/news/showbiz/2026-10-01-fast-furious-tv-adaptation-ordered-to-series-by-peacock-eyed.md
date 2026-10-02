@@ -5,7 +5,7 @@ countryCode: US
 description: The “Fast &#38; Furious” TV series, first revealed to be in development
   earlier this year at the NBCUniversal upfronts, is closer to reality. Peacock announced
   Thursday that it…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-01T23:14:16Z'

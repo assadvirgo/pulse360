@@ -5,7 +5,7 @@ countryCode: FR
 description: Students in France have set fire to schools and vehicles, including a
   fire engine, during increasingly violent protests over teacher shortages and run-down
   buildings.
-displayOrder: 28
+displayOrder: 34
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-01T18:04:00Z'

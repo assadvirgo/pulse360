@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Pro-Palestinian activists protested in Mumbai after police raided the
   home of a volunteer who took part in Gaza event.
-displayOrder: 25
+displayOrder: 38
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-01T13:04:34Z'

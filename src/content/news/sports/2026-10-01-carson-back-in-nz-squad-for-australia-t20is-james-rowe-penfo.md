@@ -4,7 +4,7 @@ country: New Zealand
 countryCode: NZ
 description: Izzy Gaze was unavailable for selection following surgery to a thumb
   injury and is working towards returning to play in early 2027
-displayOrder: 9
+displayOrder: 16
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-01T17:12:38Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Halle Berry is being accused of abusing her 12-year-old son by her ex-husband,
   actor Olivier Martinez, who has filed a petition for a temporary restraining order
   against the…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-01T23:16:47Z'

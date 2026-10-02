@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The case is the latest dispute over US President Donald Trump’s sweeping
   immigration crackdown.
-displayOrder: 22
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-01T17:35:58Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Gerry Cardinale, Paramount board member, investor and key architect of
   its pending merger with Warner Bros. Discovery, says the notion that CEO David Ellison
   is tight with Donald…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-01T23:33:02Z'

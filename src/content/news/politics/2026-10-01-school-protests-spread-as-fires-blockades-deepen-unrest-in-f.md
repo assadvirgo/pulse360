@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Police have detained hundreds as students protest overcrowded classrooms,
   teacher shortages and crumbling facilities.
-displayOrder: 19
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-01T18:18:18Z'

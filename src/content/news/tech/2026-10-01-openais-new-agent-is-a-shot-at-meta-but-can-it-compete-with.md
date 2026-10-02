@@ -5,7 +5,7 @@ countryCode: US
 description: At OpenAI's annual DevDay conference, the company pulled out all the
   stops to compete with its rivals - primarily Meta, whose Muse AI agent platform
   has seen early runaway…
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-01T14:36:50Z'

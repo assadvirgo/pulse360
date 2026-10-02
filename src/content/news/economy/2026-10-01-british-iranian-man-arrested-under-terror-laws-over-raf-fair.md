@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sixth arrest comes after Andy Burnham said that there were ‘strong indications’
   of Iran’s involvement
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-01T17:15:40Z'

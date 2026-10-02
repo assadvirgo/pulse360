@@ -5,7 +5,7 @@ countryCode: US
 description: Satlyt wants to be the Android of orbital computing, offering open software
   that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style
   approach.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-01T12:00:00Z'
