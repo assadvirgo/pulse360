@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: South Korea’s ⁠President accused Ukraine of ⁠undermining him by disclosing
   POW transfer deal
-displayOrder: 12
+displayOrder: 37
 heroImage: ''
 importance: 70.5
 pubDate: '2026-10-02T02:54:13Z'

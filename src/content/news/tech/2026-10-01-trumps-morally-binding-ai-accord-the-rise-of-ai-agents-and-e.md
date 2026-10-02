@@ -5,7 +5,7 @@ countryCode: US
 description: This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement
   tech executives signed, AI agents for normies, and extremist candidates running
   for office in the US…
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-01T19:58:31Z'

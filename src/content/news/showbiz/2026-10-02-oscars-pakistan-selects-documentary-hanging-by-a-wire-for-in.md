@@ -5,7 +5,7 @@ countryCode: PK
 description: Mohammed Ali Naqvi&#8217;s documentary thriller &#8220;Hanging by a Wire&#8221;
   has been selected as Pakistan&#8217;s submission for the international feature film
   Oscar at the…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 74.8
 pubDate: '2026-10-02T01:24:36Z'

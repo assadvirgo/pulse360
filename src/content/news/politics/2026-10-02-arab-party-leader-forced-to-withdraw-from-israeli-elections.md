@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinian participation in upcoming Knesset vote continues to shrink
   with withdrawal of Sami Abu Shehadeh.
-displayOrder: 8
+displayOrder: 27
 heroImage: ''
 importance: 56.5
 pubDate: '2026-10-02T09:25:23Z'

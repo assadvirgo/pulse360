@@ -2,7 +2,7 @@
 category: Economy
 description: Trend-following portfolios have latched on to sharp rise in yields this
   year as Iran war and strong US economic data fuel inflation fears
-displayOrder: 18
+displayOrder: 41
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-02T04:00:23Z'

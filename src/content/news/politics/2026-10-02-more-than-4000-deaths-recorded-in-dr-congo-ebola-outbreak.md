@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: More than 4,000 Ebola deaths have been recorded, authorities in the Democratic
   Republic of Congo (DRC) said as they struggle to contain the virus.
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-02T09:14:00Z'

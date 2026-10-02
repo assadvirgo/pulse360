@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: The work group comprises Boeing's largest white-collar union.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-01T20:52:52Z'

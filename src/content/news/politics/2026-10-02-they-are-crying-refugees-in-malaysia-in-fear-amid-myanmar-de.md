@@ -4,7 +4,7 @@ country: Malaysia
 countryCode: MY
 description: Shrinking resources for refugee support groups in Malaysia collide with
   increasing hostility towards the Rohingya.
-displayOrder: 1
+displayOrder: 20
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-02T08:14:18Z'

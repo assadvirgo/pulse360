@@ -5,7 +5,7 @@ countryCode: US
 description: Ben Affleck plays a Brentwood businessman running for Los Angeles mayor
   in the new thriller “Animals.” The Oscar winner, who directed and co-wrote the film,
   is also a longtime…
-displayOrder: 11
+displayOrder: 34
 heroImage: ''
 importance: 64.8
 pubDate: '2026-10-02T04:38:56Z'

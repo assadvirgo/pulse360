@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened
   the cockpit door to let others in during the attack.
-displayOrder: 4
+displayOrder: 22
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-02T09:08:06Z'

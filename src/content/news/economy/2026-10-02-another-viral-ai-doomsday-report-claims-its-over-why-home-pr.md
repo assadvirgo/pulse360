@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Egan-Jones has become the latest to issue a viral AI doomsday report,
   zeroing in on difficulties facing screen-based workers and the housing market.
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-02T09:25:00Z'

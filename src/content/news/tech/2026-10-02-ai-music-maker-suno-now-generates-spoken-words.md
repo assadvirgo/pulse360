@@ -3,7 +3,7 @@ category: Tech
 description: Suno is branching out from the world of AI music, launching a new feature
   that generates spoken voices based on scripts or prompted descriptions. Speech is
   now available in public…
-displayOrder: 9
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-02T09:42:19Z'

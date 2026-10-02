@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Putin warned the West he would deploy nuclear weapons if necessary to
   defend the Russian Baltic exclave of Kaliningrad.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-01T21:33:15Z'

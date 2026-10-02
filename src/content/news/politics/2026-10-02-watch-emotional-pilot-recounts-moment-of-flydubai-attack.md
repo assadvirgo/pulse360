@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: He has been hailed a hero for opening the cockpit door, allowing passengers
   to overpower his co-pilot.
-displayOrder: 5
+displayOrder: 26
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-02T08:46:37Z'

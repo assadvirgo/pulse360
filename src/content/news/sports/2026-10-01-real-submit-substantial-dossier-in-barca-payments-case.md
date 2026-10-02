@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Real Madrid have sent Uefa "evidence of extraordinary gravity" relating
   to payments made by Barcelona to a former vice-president of Spain's referees' committee.
-displayOrder: 35
+displayOrder: 50
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-01T22:00:42Z'

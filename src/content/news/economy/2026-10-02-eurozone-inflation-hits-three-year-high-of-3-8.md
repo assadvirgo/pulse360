@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Consumer prices rose at higher rate than expected in September
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-02T09:01:36Z'

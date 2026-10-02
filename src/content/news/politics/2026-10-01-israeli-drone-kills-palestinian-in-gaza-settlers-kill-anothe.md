@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: 1,439 Palestinians have been killed in Gaza and 5,052 injured since the
   &#039;ceasefire&#039; began in October 2025.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-01T23:44:39Z'

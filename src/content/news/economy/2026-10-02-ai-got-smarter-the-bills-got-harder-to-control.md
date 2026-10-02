@@ -2,7 +2,7 @@
 category: Economy
 description: Powerful AI tools are burning through budgets, prompting a rethink of
   how the technology is priced ahead of frontier lab IPOs
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 37.5
 pubDate: '2026-10-02T04:00:05Z'

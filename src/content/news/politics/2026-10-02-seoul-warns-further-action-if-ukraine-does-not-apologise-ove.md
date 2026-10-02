@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: President Lee Jae Myung also accused Kyiv of "attempting to provoke a
   war on the Korean Peninsula".
-displayOrder: 7
+displayOrder: 31
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-02T03:09:13Z'

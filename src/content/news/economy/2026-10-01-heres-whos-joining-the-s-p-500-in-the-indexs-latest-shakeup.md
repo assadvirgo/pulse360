@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Twilio gets the nod, as current component Warner Bros Discovery is due
   to merger with Paramount.
-displayOrder: 24
+displayOrder: 45
 heroImage: ''
 importance: 66.5
 pubDate: '2026-10-01T23:11:00Z'
