@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming
   election.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-02T19:10:23Z'

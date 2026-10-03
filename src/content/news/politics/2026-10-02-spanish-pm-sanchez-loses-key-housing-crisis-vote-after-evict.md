@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: The defeat raises pressure on Sánchez to call a snap election, after
   a series of scandals affecting his party and allies.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-02T15:30:12Z'

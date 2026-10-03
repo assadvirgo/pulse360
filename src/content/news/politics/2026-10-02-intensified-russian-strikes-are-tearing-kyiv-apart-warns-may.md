@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Vitaliy Klitschko says Ukraine's capital is in a "very dramatic situation"
   as Russia hits critical infrastructure.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 63.2
 pubDate: '2026-10-02T15:26:37Z'

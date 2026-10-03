@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Figure renews market debate about outlook for further Fed rate rises
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-10-02T20:05:51Z'

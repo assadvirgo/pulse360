@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “I started taking Social Security at 66 and receive $2,410 a month. I
   have $214,000 in my 401(k).”
-displayOrder: 29
+displayOrder: 32
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-03T02:16:00Z'

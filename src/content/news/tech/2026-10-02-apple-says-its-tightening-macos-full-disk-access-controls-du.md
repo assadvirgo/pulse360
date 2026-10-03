@@ -5,7 +5,7 @@ countryCode: US
 description: Apple says it will add new controls around macOS’s Full Disk Access permission,
   warning that increasingly capable AI agents make broad access to users’ files, messages,
   mail, and…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-02T18:11:27Z'

@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Is it time to dust off the financial playbook from that dismal decade?
-displayOrder: 30
+displayOrder: 39
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-02T21:54:00Z'

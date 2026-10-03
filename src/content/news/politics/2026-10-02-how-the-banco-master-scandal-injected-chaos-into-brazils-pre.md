@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Figures across Brazil&#039;s political spectrum have been linked to the
   scandal in the midst of a key election.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-02T16:36:38Z'

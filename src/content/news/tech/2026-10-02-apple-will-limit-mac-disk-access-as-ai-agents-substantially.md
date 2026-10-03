@@ -5,7 +5,7 @@ countryCode: US
 description: Apple will add new limits for "full disk access" on Mac in response to
   risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday,
   Apple says it's rolling…
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-02T20:08:40Z'

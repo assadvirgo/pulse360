@@ -2,7 +2,7 @@
 category: Politics
 description: Annual Latinobarometro survey finds views of China’s influence improving
   as perceptions of US influence worsen.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-02T20:52:29Z'

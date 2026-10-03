@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The woman, known as Jane Doe, alleges she was raped by seven students
   at a fraternity house at the university in 2024.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-02T17:05:39Z'

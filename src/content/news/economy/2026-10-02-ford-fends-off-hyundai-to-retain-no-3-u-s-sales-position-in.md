@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ford on Friday reported a year-over-year sales decline of 6.6% during
   the third quarter to 507,395 light-duty vehicles.
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-02T16:06:16Z'

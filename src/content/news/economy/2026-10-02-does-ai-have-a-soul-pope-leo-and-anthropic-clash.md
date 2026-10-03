@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The Vatican has laid a moral blueprint for the technology, with Pope
   Leo maintaining that “algorithms lack the spark of humanity.”
-displayOrder: 35
+displayOrder: 41
 heroImage: ''
 importance: 37.5
 pubDate: '2026-10-02T20:40:00Z'

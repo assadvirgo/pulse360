@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Retired General Nitzan Alon says more captives could have returned alive
   and a deal was possible &#039;maybe a year earlier&#039;.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-02T21:53:17Z'

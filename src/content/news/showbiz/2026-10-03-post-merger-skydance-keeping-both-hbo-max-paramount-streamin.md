@@ -5,7 +5,7 @@ countryCode: US
 description: More indication that the newly-christened combined Paramount-Warner Bros.
   Discovery company would bundle the two flagship streamers, Paramount+ and HBO Max,
   instead of merging…
-displayOrder: 5
+displayOrder: 17
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-03T00:33:22Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The FAA on Monday said it was reviewing the software glitch, which could
   affect procedures during certain landings.
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-02T19:19:15Z'

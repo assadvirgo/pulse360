@@ -5,7 +5,7 @@ countryCode: US
 description: 'It''s a tale as old as last week: OpenAI''s new agent platform, called
   Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable
   Meta Muse, Dots…'
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 68.2
 pubDate: '2026-10-02T18:00:00Z'

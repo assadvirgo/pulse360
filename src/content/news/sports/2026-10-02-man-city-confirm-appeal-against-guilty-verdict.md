@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The club's statement says the ruling contains "clear material errors,
   of law, principle and fact, and is unsafe".
-displayOrder: 22
+displayOrder: 38
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-02T17:43:48Z'
