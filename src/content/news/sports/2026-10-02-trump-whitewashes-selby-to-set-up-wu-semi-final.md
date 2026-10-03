@@ -5,7 +5,7 @@ countryCode: CN
 description: Judd Trump whitewashes Mark Selby at the Shenzhen Open to secure a semi-final
   tie against Wu Yize, who progresses to the last four after a thrilling victory over
   Shaun Murphy.
-displayOrder: 21
+displayOrder: 42
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-02T20:41:41Z'

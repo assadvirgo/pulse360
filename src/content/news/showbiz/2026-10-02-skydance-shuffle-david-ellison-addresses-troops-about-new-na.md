@@ -5,7 +5,7 @@ countryCode: US
 description: It&#8217;s 102 degrees in Los Angeles, but it&#8217;s certainly not a
   summer Friday on the Paramount lot. The studio is swarming with activity, subplots
   and preparations for the…
-displayOrder: 12
+displayOrder: 36
 heroImage: ''
 importance: 76.8
 pubDate: '2026-10-02T22:17:51Z'

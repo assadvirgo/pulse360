@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: About 735 schools have faced disruption as violent protests over standards
   and lack of teachers continue.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-10-02T21:13:27Z'

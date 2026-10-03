@@ -2,7 +2,7 @@
 category: Politics
 description: Ahead of first Palestinian national elections in 20 years, people in
   Gaza hope to rebuild after Israeli destruction.
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-03T05:39:29Z'

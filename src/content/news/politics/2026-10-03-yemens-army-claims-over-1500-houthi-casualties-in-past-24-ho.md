@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Government forces close a key crossing connecting Houthi-held al-Houban
   to government-held Taiz city.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-03T08:36:17Z'

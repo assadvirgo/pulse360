@@ -4,7 +4,7 @@ country: Latvia
 countryCode: LV
 description: Latvia is not expected to shift its pro-Europe and pro-Ukraine trajectory,
   but coalition negotiations could be complex.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-03T08:21:23Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sean Parker, who once taught the music industry what asking for forgiveness
   looks like, is now back with the labels' blessing and money.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-02T21:09:14Z'

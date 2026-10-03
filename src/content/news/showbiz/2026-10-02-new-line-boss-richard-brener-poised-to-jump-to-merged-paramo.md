@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: Richard Brener, New Line Cinema&#8217;s president and CCO
   and the genre label&#8217;s longest-serving employee, is expected to make the jump
   to the new Paramount-Warner…'
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-10-02T21:18:11Z'

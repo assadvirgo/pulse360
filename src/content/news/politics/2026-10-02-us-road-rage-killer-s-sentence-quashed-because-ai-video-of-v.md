@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Arizona appeals court ruled that airing an AI message from the dead
   victim "crossed that line".
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-10-02T23:06:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount TV media chair George Cheeks, whose domain has included all
   of CBS in addition to the Paramount cable networks, is said to be in line for an
   expanded oversight at the…
-displayOrder: 8
+displayOrder: 33
 heroImage: ''
 importance: 72.8
 pubDate: '2026-10-02T23:40:19Z'

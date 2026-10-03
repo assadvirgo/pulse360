@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Decision looms on contract worth up to £2bn as Airbus and Lockheed Martin
   vie to build next generation of military satellites
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-03T04:00:29Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Supreme Court’s unanimous ruling clears way for Ra’am and Joint List
   to run and potentially swing balance in event of hung parliament
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-02T14:32:29Z'

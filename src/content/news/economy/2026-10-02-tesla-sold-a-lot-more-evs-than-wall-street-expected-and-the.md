@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: EV giant Tesla had the best three-month period for vehicle sales this
   year, but it was less than a year ago.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-10-02T22:29:00Z'

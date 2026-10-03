@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Transits via Northern Sea Route quadruple as melting ice makes journey
   more passable and vessels avoid the Middle East
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-02T20:00:05Z'
