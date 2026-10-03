@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South African Lhuan-dre Pretorius hit 50 in 24 balls, needed 16 more
   to reach 100 and took another 18 to hit 150.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-03T12:19:29Z'

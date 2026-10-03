@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “When my paycheck lands, it takes a detour through bitcoin.”
-displayOrder: 40
+displayOrder: 41
 heroImage: ''
 importance: 32.5
 pubDate: '2026-10-03T15:30:00Z'

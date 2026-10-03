@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Luton Town manager Jack Wilshere speaks about being back where he started
   as an eight-year-old and the lessons he learned from his time at Arsenal.
-displayOrder: 49
+displayOrder: 50
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-03T05:19:13Z'

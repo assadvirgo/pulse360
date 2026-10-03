@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Latest tit-for-tat move follows three similar investigations launched
   by the EU last week
-displayOrder: 42
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-03T10:16:42Z'

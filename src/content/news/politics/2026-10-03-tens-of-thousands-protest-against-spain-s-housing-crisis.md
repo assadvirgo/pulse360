@@ -5,7 +5,7 @@ countryCode: ES
 description: Tens of thousands of people have taken to the streets of Spanish cities
   in protest at the country's housing crisis in the wake of the forcible eviction
   of 87-year-old Maricarmen…
-displayOrder: 15
+displayOrder: 21
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-03T13:42:00Z'

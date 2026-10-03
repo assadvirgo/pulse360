@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Polls show tight race between incumbent Lula and right-wing rival Flavio
   Bolsonaro amid concerns over crime and economy.
-displayOrder: 7
+displayOrder: 17
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-03T14:23:55Z'

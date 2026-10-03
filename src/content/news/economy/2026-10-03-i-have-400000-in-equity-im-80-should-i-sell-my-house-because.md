@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “Generally, the advice I’ve read says not to sell because I have a low-interest-rate
   mortgage.”
-displayOrder: 39
+displayOrder: 40
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-03T16:00:00Z'

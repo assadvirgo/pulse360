@@ -5,7 +5,7 @@ countryCode: BR
 description: Despite his hallowed status, some voters are growing disaffected with
   Brazil’s president in Guaribas, the cradle of his flagship Bolsa Família welfare
   programme
-displayOrder: 47
+displayOrder: 46
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-03T11:00:00Z'

@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: The Latin American country will vote for its next president, as Lula
   da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-03T13:52:13Z'

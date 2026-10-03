@@ -5,7 +5,7 @@ countryCode: GB
 description: In an IBF light heavyweight title eliminator, promoters Matchroom Boxing
   goes to England for an epic match between two prime boxers. In the main event, 29-year-old
   English boxer…
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-03T15:00:00Z'

@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Flight 1073 was heading to Tel Aviv when the attack was launched in the
   cockpit
-displayOrder: 46
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-03T08:01:06Z'

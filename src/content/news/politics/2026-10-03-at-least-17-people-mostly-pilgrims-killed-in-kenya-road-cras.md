@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: The multi-vehicle crash occurred in the Salama area, 90km southeast of
   Nairobi, killing mostly Catholic pilgrims.
-displayOrder: 14
+displayOrder: 20
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-03T14:30:40Z'

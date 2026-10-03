@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: At least 17 people were killed in a road crash involving several vehicles
   on the highway from the Kenyan coastal city of Mombasa to the capital, Nairobi.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-03T11:23:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As Hollywood's financing structures diversify, private capital is increasingly
   funding the big screen and changing the types of movies that are being made.
-displayOrder: 43
+displayOrder: 44
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-03T12:00:01Z'

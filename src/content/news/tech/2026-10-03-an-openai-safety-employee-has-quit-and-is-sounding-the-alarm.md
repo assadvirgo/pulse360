@@ -5,7 +5,7 @@ countryCode: US
 description: David Robinson used to write the safety reports that accompanied every
   major model release at OpenAI. This week, he resigned from his position and is now
   speaking out in an…
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-03T14:31:56Z'

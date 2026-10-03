@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India beat Pakistan by 19 runs in gold medal match at Asian Games as
   Hasan Nawaz&#039;s 96 in vain in reply to 211-6.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-03T08:18:40Z'

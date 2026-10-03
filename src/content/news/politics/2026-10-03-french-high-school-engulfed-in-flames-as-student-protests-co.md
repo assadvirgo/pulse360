@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A French high school in Metz went up in flames as student protests over
   school conditions spread across the country.
-displayOrder: 20
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-03T12:59:27Z'

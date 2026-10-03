@@ -2,7 +2,7 @@
 category: Tech
 description: Maximize your travel budget with our expert guide to finding Klook coupons,
   app-exclusive deals, and payment discounts on tours, hotels, and transport.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-10-03T05:00:00Z'
