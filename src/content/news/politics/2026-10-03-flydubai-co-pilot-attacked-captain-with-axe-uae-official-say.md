@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: The flydubai plane plunged more than 17,000ft two and a half hours into
   its journey before passengers and crew overpowered the attacker.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-03T09:23:31Z'

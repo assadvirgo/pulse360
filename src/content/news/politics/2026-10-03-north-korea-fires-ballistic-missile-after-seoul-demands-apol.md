@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: North Korea fired a ballistic missile towards the sea off its east coast
   on Saturday, South Korea and Japan have said.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-03T06:14:00Z'

@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Lhuan-dre Pretorius breaks Chris Gayle's record for the highest score
   in a men's T20 match with an unbeaten 188 in a domestic fixture in South Africa.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-02T22:22:36Z'

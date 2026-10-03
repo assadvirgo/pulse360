@@ -2,7 +2,7 @@
 category: Economy
 description: Background checks and psychological testing aim to ensure that only those
   fit to fly take the controls
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-03T08:05:08Z'

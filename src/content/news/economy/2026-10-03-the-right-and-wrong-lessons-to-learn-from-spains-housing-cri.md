@@ -3,7 +3,7 @@ category: Economy
 country: Spain
 countryCode: ES
 description: Evictions and spiralling rents are the symptom, not the underlying disease
-displayOrder: 38
+displayOrder: 50
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-03T04:00:48Z'

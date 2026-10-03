@@ -5,7 +5,7 @@ countryCode: BR
 description: Philanthropist Olga Rabinovich will receive the inaugural Prêmio Encontros
   (Encounters Award) at this year’s Encontro de Ideias Audiovisuais, the industry
   platform of the São…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-03T13:01:33Z'

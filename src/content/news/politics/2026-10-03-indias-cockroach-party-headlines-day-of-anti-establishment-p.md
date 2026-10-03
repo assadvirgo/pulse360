@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India’s Cockroach Janta Party launches protest after millions of voters
   were allegedly improperly removed from rolls.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-03T04:28:03Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: David Ellison has emerged victorious. And he’s boldly — or arrogantly,
   if you prefer — decided to name the entertainment giant that he’s bolted together
   Skydance Corp., nodding to…
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-03T13:00:00Z'

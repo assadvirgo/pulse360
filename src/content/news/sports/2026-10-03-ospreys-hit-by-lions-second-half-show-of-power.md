@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Ospreys beaten in Johannesburg after six-try Lions turn around half-time
   deficit in the United Rugby Championship.
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-03T13:49:40Z'

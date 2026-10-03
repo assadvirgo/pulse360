@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Seven officials face an investigation over allegations of manipulation
   of the referee administration process.
-displayOrder: 17
+displayOrder: 35
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-03T08:19:33Z'

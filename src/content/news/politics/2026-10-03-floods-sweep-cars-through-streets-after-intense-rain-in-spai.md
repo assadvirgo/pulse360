@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Floodwaters swept cars through Madrigueras, Spain, after near-record
   rainfall. One woman was killed and 90 rescued.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-03T08:17:40Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israeli forces detain and assault journalists in Jabal Qamass area in
   Beita, south of Nablus.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-03T12:18:24Z'

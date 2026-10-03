@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on
   Flydubai flight to Tel Aviv.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-02T22:50:23Z'

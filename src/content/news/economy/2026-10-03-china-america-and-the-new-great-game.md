@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Which power will prevail? As in the 19th-century struggle between the
   UK and Russia, the answer may depend on forces beyond either’s control
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-03T04:00:30Z'
