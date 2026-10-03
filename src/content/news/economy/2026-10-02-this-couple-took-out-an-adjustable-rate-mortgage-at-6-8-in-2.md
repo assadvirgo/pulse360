@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Adjustable-rate mortgages have made a comeback as mortgage rates surge
   and buyers seek relief from high housing costs.
-displayOrder: 33
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-02T17:04:00Z'

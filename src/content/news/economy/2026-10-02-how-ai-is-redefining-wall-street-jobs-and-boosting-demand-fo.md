@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Banks are fueling a hiring surge for AI engineers who are good at "agent
   orchestration" — the ability to coordinate teams of specialized agents.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-02T10:00:01Z'

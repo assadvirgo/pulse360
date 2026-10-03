@@ -4,7 +4,7 @@ country: Bosnia and Herzegovina
 countryCode: BA
 description: Bosnia and Herzegovina votes on October 4 in an election that may determine
   whether it breaks its political deadlock.
-displayOrder: 9
+displayOrder: 12
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-02T21:21:47Z'

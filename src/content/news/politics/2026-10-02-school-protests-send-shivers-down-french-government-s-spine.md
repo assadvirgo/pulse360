@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A movement that started nearly two weeks ago has spread, and in France
   young people on the streets spells trouble, writes Hugh Schofield.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-02T12:43:02Z'

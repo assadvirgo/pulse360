@@ -5,7 +5,7 @@ countryCode: NP
 description: Nepal is set to begin draining four high-altitude glacial lakes in an
   effort to reduce flood risks, as the country recovers from the recent catastrophic
   deadly flood that killed…
-displayOrder: 24
+displayOrder: 34
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-02T16:34:00Z'

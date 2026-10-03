@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “As a country, we have grown dangerously comfortable.”
-displayOrder: 41
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-02T15:00:00Z'

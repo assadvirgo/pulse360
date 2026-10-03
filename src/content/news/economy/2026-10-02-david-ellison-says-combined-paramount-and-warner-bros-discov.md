@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It's a full-circle moment for a company that has undergone two major
   acquisitions within the last 18 months.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-02T14:05:29Z'

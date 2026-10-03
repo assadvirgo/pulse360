@@ -5,7 +5,7 @@ countryCode: US
 description: More elements of the proposed post-WBD merger Skydance&#8217;s executive
   structure are coming into focus ahead of the Paramount-Warner Bros Discovery transaction
   closing on…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-10-02T22:05:12Z'

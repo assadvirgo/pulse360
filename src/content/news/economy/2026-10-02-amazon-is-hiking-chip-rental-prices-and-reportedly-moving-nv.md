@@ -5,7 +5,7 @@ countryCode: US
 description: In a sign of the financing crunch facing the hyperscalers financing the
   AI revolution, Amazon has announced it is raising prices on how much it charges
   to rent high-performance…
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-02T09:07:00Z'

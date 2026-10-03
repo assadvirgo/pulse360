@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Castle Hook will pay up to $21.2mn a year for 53,000 sq ft of penthouse
   space at developer Related’s new Madison Avenue tower
-displayOrder: 34
+displayOrder: 40
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-02T18:31:10Z'

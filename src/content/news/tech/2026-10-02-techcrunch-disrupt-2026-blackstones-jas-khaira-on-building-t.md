@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt
   2026 on building next-gen AI. Register for your pass and get 50% off a second.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-02T15:00:00Z'

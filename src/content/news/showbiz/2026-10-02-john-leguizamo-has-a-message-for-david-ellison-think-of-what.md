@@ -5,7 +5,7 @@ countryCode: US
 description: John Leguizamo is speaking out about the Paramount and Warner Bros. merger,
   and he&#8217;s imploring David Ellison to consider what the industry needs as he
   takes over the new…
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-02T22:37:41Z'

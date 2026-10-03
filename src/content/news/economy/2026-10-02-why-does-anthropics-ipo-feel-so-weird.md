@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Compared to other blockbuster share sales, the build-up to the AI company’s
   stock market debut has felt discordant, even creepy
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 37.5
 pubDate: '2026-10-02T15:21:03Z'

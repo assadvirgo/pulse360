@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: It wasn't obvious at the time, but the US uncoupled carbon emissions
   and GDP growth.
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-02T18:56:21Z'

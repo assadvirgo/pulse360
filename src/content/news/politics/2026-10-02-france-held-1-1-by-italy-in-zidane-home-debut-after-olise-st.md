@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Italy&#039;s Alessandro Bastoni cancels out Michael Olise&#039;s opener
   for France in 1-1 UEFA Nations League draw in Saint-Denis.
-displayOrder: 8
+displayOrder: 11
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-02T21:24:24Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: After nearly a year of dealmaking drama, Paramount Skydance&#8217;s takeover
   of Warner Bros. Discovery is about to become reality. Across Europe, where the Paramount
   chief David…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-02T21:10:43Z'

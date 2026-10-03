@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Violent student protests have broken out again across France, where around
   400 schools have stayed closed to try to quell the unrest.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-02T11:40:00Z'
