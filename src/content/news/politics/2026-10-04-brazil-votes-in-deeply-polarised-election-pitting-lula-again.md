@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Close race expected as left-wing leader Lula seeks fourth nonconsecutive
   term against right-wing Flavio Bolsonaro.
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-04T11:15:34Z'

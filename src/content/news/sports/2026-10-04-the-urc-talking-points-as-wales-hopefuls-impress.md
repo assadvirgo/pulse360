@@ -5,7 +5,7 @@ countryCode: GB
 description: Which players are impressing as Cardiff and Dragons enjoy strong starts
   in the United Rugby Championship while Scarlets and Ospreys are still hunting a
   win.
-displayOrder: 34
+displayOrder: 45
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-04T04:03:19Z'

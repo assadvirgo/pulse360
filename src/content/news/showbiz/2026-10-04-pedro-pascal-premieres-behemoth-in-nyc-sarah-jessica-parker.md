@@ -5,7 +5,7 @@ countryCode: US
 description: October began with Ben Affleck and Kerry Washington premiering “Animals,”
   their new political thriller about a Los Angeles mayoral candidate (Affleck) whose
   family is thrust into…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-04T15:00:38Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon’s October Prime Day has effectively chopped off Apple’s June price
   increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of
   storage is on sale for…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-04T12:34:01Z'

@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Voting to begin in Brazil as Lula seeks a historic fourth term, facing
   strong opposition from Flavio Bolsonaro.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 76.5
 pubDate: '2026-10-04T10:00:00Z'

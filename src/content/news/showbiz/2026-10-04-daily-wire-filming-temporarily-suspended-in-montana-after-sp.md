@@ -5,7 +5,7 @@ countryCode: US
 description: Following protest from locals, the city of Livingston, Montana has temporarily
   suspended production on Daily Wire&#8217;s latest film, Pawn Shop. During a special
   meeting on…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-04T15:55:18Z'

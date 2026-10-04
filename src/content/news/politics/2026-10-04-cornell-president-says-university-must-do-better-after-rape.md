@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: Cornell president says university ‘must do better’ after rape allegations
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-04T08:33:54Z'

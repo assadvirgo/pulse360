@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Several listings have been paused in recent weeks as delay in Anthropic’s
   public debut sends a chill through markets
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-04T04:01:05Z'

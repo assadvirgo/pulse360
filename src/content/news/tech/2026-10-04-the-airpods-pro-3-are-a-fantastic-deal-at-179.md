@@ -5,7 +5,7 @@ countryCode: US
 description: It’s been a while since we’ve seen a good discount on the Apple AirPods
   Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening
   now for October…
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-04T13:00:00Z'

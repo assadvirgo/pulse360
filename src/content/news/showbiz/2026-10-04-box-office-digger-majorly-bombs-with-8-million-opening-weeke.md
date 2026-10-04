@@ -5,7 +5,7 @@ countryCode: US
 description: In &#8220;Digger,&#8221; Tom Cruise portrays a powerful oil tycoon who
   is bracing for an ecological disaster of epic proportions. But nothing could have
   prepared him for the…
-displayOrder: 7
+displayOrder: 20
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-04T15:27:05Z'

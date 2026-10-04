@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: More than 670 lenders, a record, shut down last year as Fitch says smaller
   players remain sector’s weakest part
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-04T02:00:04Z'

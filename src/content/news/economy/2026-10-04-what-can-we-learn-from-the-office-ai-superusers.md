@@ -2,7 +2,7 @@
 category: Economy
 description: Leaders who have gone all-in on new tech tools describe how they are
   reimagining their working lives
-displayOrder: 37
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-04T04:00:07Z'

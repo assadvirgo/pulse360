@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry
   alarms Washington
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-04T01:00:04Z'

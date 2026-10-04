@@ -4,7 +4,7 @@ country: Serbia
 countryCode: RS
 description: Former Serbian President Aleksandar Vucic is seeking to extend his hold
   on power through a parliamentary vote.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-04T00:26:22Z'

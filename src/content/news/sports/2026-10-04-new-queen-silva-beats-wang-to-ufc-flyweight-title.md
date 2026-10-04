@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Natalia Silva is crowned the new women's flyweight champion with a unanimous
   decision victory over China's Wang Cong at UFC 332.
-displayOrder: 23
+displayOrder: 39
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-04T06:57:08Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'Taylor Swift gave Dakota Johnson some pretty sweet payback for appearing
   in her &#8220;Patient Zero&#8221; music video: the mega-star joined the Verity actress
   during her opening…'
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.0
 pubDate: '2026-10-04T03:54:22Z'
