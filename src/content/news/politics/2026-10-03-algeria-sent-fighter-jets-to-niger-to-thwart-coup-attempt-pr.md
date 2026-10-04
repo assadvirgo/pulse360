@@ -4,7 +4,7 @@ country: Algeria
 countryCode: DZ
 description: President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey
   in late August following an attack by mutineers.
-displayOrder: 2
+displayOrder: 18
 heroImage: ''
 importance: 79.5
 pubDate: '2026-10-03T18:03:08Z'

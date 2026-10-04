@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Palestinian Israeli leader forced to withdraw candidature while far-right
   Israeli leaders allowed to run in polls.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-03T14:06:47Z'

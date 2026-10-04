@@ -5,7 +5,7 @@ countryCode: US
 description: Jeremy Strong, now infamous for his dedication to method acting, recently
   admitted he doesn’t feel the “need to apologize” to those he works with who may
   feel he is taking the…
-displayOrder: 11
+displayOrder: 22
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-03T23:05:10Z'

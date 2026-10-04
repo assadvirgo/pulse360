@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Great Britain's Sonay Kartal reaches last-32 at the China Open as Alexander
   Zverev sets up a quarter-final clash against Novak Djokovic in Beijing.
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 46.2
 pubDate: '2026-10-03T15:27:03Z'

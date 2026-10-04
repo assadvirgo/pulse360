@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This story contains spoilers for &#8220;Coven Academy,&#8221;
   now streaming on Disney+. &#8220;Coven Academy&#8221; was supposed to be the first
   true young adult…'
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-03T18:00:00Z'

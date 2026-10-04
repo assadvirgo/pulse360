@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Finding a new job is one way to get a pay increase at a time when inflation
   has been outpacing wage growth.
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-03T16:42:00Z'

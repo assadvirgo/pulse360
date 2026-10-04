@@ -5,7 +5,7 @@ countryCode: US
 description: Tony Gilroy blasted the “tragic” nature of the Paramount-Warner Bros.
   merger at the world premiere of his new film, “Behemoth!” Produced on a $36 million
   budget, “Behemoth!” is…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-03T19:15:41Z'

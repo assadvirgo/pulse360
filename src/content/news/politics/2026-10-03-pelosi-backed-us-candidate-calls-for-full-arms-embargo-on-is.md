@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says
   she will vote to &#039;end a genocide in Gaza&#039;.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-03T22:43:58Z'

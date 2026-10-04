@@ -3,7 +3,7 @@ category: Tech
 country: India
 countryCode: IN
 description: Bitchat has become largely unavailable in India as a result of the restrictions.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-03T15:02:01Z'

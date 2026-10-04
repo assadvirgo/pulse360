@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Israeli journalists asked coach Hallgrimsson about the Flydubai attack
   and alleged racist abuse by Ireland&#039;s players.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-03T17:25:28Z'

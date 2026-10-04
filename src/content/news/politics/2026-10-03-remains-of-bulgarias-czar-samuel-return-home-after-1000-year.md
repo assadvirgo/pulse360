@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: The emperor is a symbol of Bulgarian national identity whose repatriation
   stoked tensions with Greece.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-03T19:14:43Z'

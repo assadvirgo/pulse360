@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Here’s what parents seeking the $1,000 seed money for their child need
   to know.
-displayOrder: 38
+displayOrder: 50
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-03T15:06:00Z'

@@ -5,7 +5,7 @@ countryCode: JP
 description: 'Capcom''s Pragmata might be all about the horrors of AI, but in practice
   the studio doesn''t seem so down on the tech. During the Capcom Open Conference
   RE: 2026 programmer Satoshi…'
-displayOrder: 999
+displayOrder: 42
 heroImage: ''
 importance: 46.2
 pubDate: '2026-10-03T16:49:10Z'
