@@ -2,7 +2,7 @@
 category: Politics
 description: Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox
   Church for a Palestinian mother and daughter.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-03T20:10:17Z'

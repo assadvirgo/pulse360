@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Recriminations among various governments have escalated after the attempted
   hijacking of a flight from Dubai to Tel Aviv last week
-displayOrder: 11
+displayOrder: 20
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-04T09:25:03Z'

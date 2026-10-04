@@ -4,7 +4,7 @@ country: Portugal
 countryCode: PT
 description: Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes
   says forward remains team&#039;s &#039;greatest symbol&#039;.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-03T18:23:29Z'

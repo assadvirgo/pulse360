@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The aircraft lost communication with flight controllers after significantly
   dropping in altitude, according to flight data.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-03T21:16:21Z'

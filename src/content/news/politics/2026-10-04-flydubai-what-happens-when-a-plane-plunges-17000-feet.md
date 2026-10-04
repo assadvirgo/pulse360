@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: A flight instructor recreates the Flydubai jet’s near-vertical 17,000
   foot dive in a simulator.
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 60.5
 pubDate: '2026-10-04T09:53:39Z'

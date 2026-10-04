@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Has any previous generation been so down on the present?
-displayOrder: 37
+displayOrder: 43
 heroImage: ''
 importance: 25.5
 pubDate: '2026-10-04T04:00:15Z'

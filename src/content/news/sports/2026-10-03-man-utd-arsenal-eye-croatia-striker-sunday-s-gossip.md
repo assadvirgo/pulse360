@@ -3,7 +3,7 @@ category: Sports
 description: Three Premier League clubs are interested in Freiburg striker Igor Matanovic,
   Juventus want Liverpool centre-back Giovanni Leoni, Newcastle willing to let Joe
   Willock leave in…
-displayOrder: 31
+displayOrder: 46
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-03T20:32:45Z'

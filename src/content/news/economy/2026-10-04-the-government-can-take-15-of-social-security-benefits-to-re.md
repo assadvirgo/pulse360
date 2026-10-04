@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Debt among older Americans is rising, both in terms of the number of
   older households carrying debt and the amount borrowed.
-displayOrder: 29
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-04T00:02:00Z'

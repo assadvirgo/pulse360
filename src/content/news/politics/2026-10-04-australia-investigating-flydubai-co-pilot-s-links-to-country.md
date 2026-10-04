@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: State police and the country's security agency are looking into the co-pilot,
   who attempted to take control of a Flydubai plane travelling to Israel.
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-04T06:19:17Z'

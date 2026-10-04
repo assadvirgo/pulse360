@@ -5,7 +5,7 @@ countryCode: US
 description: On paper, director Tom McCarthy&#8217;s latest film, A Statement might
   appear to be a dense polemic, hardly the stuff of exciting moviemaking. It centers
   on a 1980 Florida…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 59.0
 pubDate: '2026-10-04T00:15:00Z'

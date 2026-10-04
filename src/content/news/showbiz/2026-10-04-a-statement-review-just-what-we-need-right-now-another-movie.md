@@ -3,7 +3,7 @@ category: Showbiz
 description: On paper, "A Statement" sounds like an interesting movie, but it’s at
   once talky and flat, grabby and meandering, impassioned and neutral. It wants to
   be a "firebrand" docudrama,…
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 70.8
 pubDate: '2026-10-04T00:15:11Z'

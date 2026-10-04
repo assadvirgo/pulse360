@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: And what they should always try to avoid
-displayOrder: 38
+displayOrder: 44
 heroImage: ''
 importance: 25.5
 pubDate: '2026-10-04T04:00:07Z'

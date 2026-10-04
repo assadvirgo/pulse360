@@ -5,7 +5,7 @@ countryCode: US
 description: 'By his own admission, David Robinson is “something of a cliché”: an
   employee at a leading AI company who issues a dire warning while resigning from
   their job.'
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-03T16:30:01Z'

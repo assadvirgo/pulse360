@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: More than 50 protests took place on Saturday after the government failed
   to get emergency legislation through parliament.
-displayOrder: 14
+displayOrder: 33
 heroImage: ''
 importance: 49.2
 pubDate: '2026-10-04T03:42:15Z'

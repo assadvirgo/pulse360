@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: DigitalBridge CEO Marc Ganzi says his data centre investment group will
   be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover
-displayOrder: 34
+displayOrder: 40
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-04T04:00:07Z'

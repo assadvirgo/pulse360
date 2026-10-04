@@ -5,7 +5,7 @@ countryCode: US
 description: With U.S. Treasury yields on the rise, financial planners say they’re
   seeing a growing interest in bonds, especially among investors looking to secure
   fixed income in retirement.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-10-03T18:49:00Z'

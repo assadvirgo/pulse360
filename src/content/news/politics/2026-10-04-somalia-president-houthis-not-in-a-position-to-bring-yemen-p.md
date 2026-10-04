@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: Somalia’s president accuses the Houthis of destabilising the region and
   disrupting navigation through the Bab al-Mandeb
-displayOrder: 5
+displayOrder: 21
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-04T05:00:40Z'
