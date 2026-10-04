@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Points Guy’s Brian Kelly gave me a crash course in annual fees and
   redemptions to offset rising travel costs
-displayOrder: 33
+displayOrder: 39
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-03T15:42:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks
   on another major bridge in Ukraine's capital.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-10-03T16:16:49Z'

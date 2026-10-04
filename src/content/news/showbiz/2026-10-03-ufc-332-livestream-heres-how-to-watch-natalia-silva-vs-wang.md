@@ -5,7 +5,7 @@ countryCode: US
 description: After Joshua Van defended his flyweight title against Alexandre Pantoja
   in an unanimous decision during UFC 331 in September, the Ultimate Fighting Championship
   travels from Los…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-03T17:00:00Z'

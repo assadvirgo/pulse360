@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Russia has also attacked another key bridge in Kyiv, the second such
   strike in two days.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-03T12:55:54Z'

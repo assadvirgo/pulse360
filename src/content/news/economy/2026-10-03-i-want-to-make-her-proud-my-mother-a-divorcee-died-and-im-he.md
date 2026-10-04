@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “The only debts were utility and credit-card bills, which we will pay
   off.”
-displayOrder: 37
+displayOrder: 41
 heroImage: ''
 importance: 32.5
 pubDate: '2026-10-03T18:30:00Z'

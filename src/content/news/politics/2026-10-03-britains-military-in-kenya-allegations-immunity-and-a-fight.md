@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Kenyan survivors are challenging the UK military over decades of alleged
   abuses — and the immunity that has shielded it.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-03T13:18:37Z'

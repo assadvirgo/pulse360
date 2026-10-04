@@ -5,7 +5,7 @@ countryCode: US
 description: 'Plus: how an old The Hollywood Reporter interview with Wallis sparked
   a false viral story about the real-life Annabelle doll escaping the Warren Museum
   in Connecticut.'
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-03T21:15:42Z'

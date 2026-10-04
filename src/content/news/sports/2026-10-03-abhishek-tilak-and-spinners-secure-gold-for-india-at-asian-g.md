@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Silver for Pakistan in men's cricket, despite a fighting 96 from Nawaz
   in Nisshin
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-03T09:10:19Z'

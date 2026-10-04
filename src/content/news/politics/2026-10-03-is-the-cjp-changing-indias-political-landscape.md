@@ -3,7 +3,7 @@ category: Politics
 country: India
 countryCode: IN
 description: Youth-led movement demands resignation of chief election commissioner.
-displayOrder: 6
+displayOrder: 17
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-03T19:00:01Z'

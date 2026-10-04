@@ -4,7 +4,7 @@ country: Somalia
 countryCode: SO
 description: In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says
   Israel planning a naval base in Berbera.
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-03T16:25:03Z'
