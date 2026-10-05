@@ -5,7 +5,7 @@ countryCode: US
 description: Google has waited until the day its new Googlebook laptops hit the market
   to admit that Intel-based models may have issues running some Android apps. Before
   now, Google has…
-displayOrder: 5
+displayOrder: 22
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-05T10:58:22Z'

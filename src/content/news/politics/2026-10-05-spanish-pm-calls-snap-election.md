@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain's prime minister Pedro Sanchez has called a snap election for next
   month.
-displayOrder: 7
+displayOrder: 28
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-05T07:11:00Z'

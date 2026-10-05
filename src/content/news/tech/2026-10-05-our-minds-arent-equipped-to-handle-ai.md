@@ -3,7 +3,7 @@ category: Tech
 description: Norbert Wiener, godfather of cybernetics, once said, "The thought of
   every age is reflected in its technique." For the past century, our thought has
   been reflected in our…
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-05T10:00:00Z'

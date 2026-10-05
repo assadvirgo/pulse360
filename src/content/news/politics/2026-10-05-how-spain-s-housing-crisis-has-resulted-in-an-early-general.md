@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: A series of measures to tackle the housing crisis were defeated in parliament
   on Friday
-displayOrder: 6
+displayOrder: 26
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-05T09:03:30Z'

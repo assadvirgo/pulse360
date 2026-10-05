@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: AI slop seems to be overwhelming bug bounty programs.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-04T20:31:07Z'

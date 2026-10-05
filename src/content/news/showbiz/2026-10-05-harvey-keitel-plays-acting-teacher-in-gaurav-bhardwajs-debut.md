@@ -2,7 +2,7 @@
 category: Showbiz
 description: Harvey Keitel stars as a celebrated acting teacher in &#8220;The Method,&#8221;
   the first feature from director and co-writer Gaurav Bhardwaj, produced by &#8220;CTRL&#8221;…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-05T06:00:00Z'

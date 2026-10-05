@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: The Yemeni president's announcement comes amid an exchange of strikes
   between the Houthis and the Saudi-led coalition.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-04T16:51:30Z'

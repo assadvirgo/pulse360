@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Elfyn Evans has been the nearly-man of world rally until he finally emulated
   the feats of Colin McRae and Richard Burns.
-displayOrder: 28
+displayOrder: 42
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-05T05:30:23Z'

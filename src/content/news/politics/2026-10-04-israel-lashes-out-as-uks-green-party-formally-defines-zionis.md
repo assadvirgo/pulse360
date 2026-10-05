@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Israel&#039;s president declared that the &#039;antisemitic lie&#039;
   deliberately endangers Jews and Israelis.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-04T20:38:56Z'

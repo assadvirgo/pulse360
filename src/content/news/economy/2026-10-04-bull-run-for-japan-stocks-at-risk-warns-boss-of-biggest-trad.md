@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Mitsubishi Corp chief says companies must deploy cash more efficiently
   amid fears bond yields may hit equities
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-04T21:00:00Z'

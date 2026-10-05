@@ -5,7 +5,7 @@ countryCode: FR
 description: 'EXCLUSIVE: A trio of executives have launched an IP studio focused on
   sci-fi, fantasy and horror. Antoine Disle, Orso Vesperini and Olivier Compere, who
   between them have made…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-10-05T08:00:00Z'

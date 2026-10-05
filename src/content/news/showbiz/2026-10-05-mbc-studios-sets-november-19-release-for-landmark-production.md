@@ -5,7 +5,7 @@ countryCode: SA
 description: MBC Studios has announced a November 19 theatrical release date for long-awaited
   psychological thriller Traveller’s Hell about a young woman who picks up a stranger
   on a remote…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-05T07:07:22Z'

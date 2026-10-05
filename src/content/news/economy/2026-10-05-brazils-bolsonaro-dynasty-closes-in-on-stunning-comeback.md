@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: First-round vote raises prospect of dramatic victory for Flávio Bolsonaro,
   son of the former president
-displayOrder: 10
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-05T08:49:35Z'

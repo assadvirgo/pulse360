@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Move to hold vote on November 29 comes after government defeat on legislation
   aimed at ending housing crisis
-displayOrder: 9
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-05T09:00:07Z'

@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Moscow’s relentless offensive on cities and ports has halted the country’s
   grain exports, severing an economic lifeline
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-05T04:00:12Z'

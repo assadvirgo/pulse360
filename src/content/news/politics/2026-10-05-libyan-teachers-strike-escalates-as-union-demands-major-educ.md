@@ -4,7 +4,7 @@ country: Libya
 countryCode: LY
 description: School year is on hold with teachers on strike and other unions threatening
   to take action.
-displayOrder: 2
+displayOrder: 19
 heroImage: ''
 importance: 64.5
 pubDate: '2026-10-05T10:33:30Z'

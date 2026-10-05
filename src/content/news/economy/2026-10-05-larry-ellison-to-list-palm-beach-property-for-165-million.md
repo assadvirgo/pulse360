@@ -5,7 +5,7 @@ countryCode: US
 description: Billionaire Oracle co-founder Larry Ellison is planning to bid farewell
   to the third-largest oceanfront parcel in Florida’s Palm Beach County, with hopes
   to fetch $165 million.
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-05T09:05:00Z'

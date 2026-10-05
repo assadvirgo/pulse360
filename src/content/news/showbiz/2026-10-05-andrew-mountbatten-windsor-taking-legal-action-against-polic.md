@@ -5,7 +5,7 @@ countryCode: GB
 description: Andrew Mountbatten-Windsor, the former prince and King Charles&#8217;
   brother, is taking legal action against the Thames Valley Police over search warrants
   relating to his…
-displayOrder: 1
+displayOrder: 18
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-05T09:31:09Z'
