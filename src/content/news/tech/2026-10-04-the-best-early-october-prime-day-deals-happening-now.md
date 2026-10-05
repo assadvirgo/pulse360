@@ -5,7 +5,7 @@ countryCode: US
 description: It’s not even October yet and Amazon is already offering some Prime Big
   Deal Day discounts on its own hardware, along with plenty of other popular products.
   It’s all to hype up…
-displayOrder: 19
+displayOrder: 28
 heroImage: ''
 importance: 54.2
 pubDate: '2026-10-04T17:18:00Z'

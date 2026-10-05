@@ -5,7 +5,7 @@ countryCode: US
 description: Marjoe Gortner, whose childhood as an evangelical preacher was the subject
   of the Oscar-winning documentary &#8220;Marjoe&#8221; and who went on to have a
   career as an actor, died…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-04T15:49:14Z'

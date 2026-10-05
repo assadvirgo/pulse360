@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The allegations were made after police detained dozens of protesters
   demanding the resignation of the election chief over changes to voter rolls.
-displayOrder: 13
+displayOrder: 23
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-04T17:01:19Z'

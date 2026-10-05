@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Polls suggest the election will be a closely run contest between the
   left-wing incumbent and his right-wing rival.
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-04T20:14:49Z'

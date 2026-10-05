@@ -5,7 +5,7 @@ countryCode: US
 description: Three years after “Coyote vs. Acme” was shelved by Warner Bros. as a
   tax write-off and rescued by indie distributor Ketchup Entertainment, the Looney
   Tunes comedy has become a…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 71.8
 pubDate: '2026-10-04T22:20:52Z'

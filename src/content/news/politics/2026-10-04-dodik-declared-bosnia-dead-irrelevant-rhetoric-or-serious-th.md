@@ -4,7 +4,7 @@ country: Bosnia and Herzegovina
 countryCode: BA
 description: Bosnian Serb leader&#039;s controversial comments ahead of Bosnia and
   Herzegovina&#039;s high-stakes elections.
-displayOrder: 23
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-04T14:21:20Z'

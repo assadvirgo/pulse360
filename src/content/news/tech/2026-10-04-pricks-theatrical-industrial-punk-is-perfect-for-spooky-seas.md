@@ -5,7 +5,7 @@ countryCode: US
 description: While deep in the recording process for The Downward Spiral, Trent Reznor
   lent some of his production talents to old friend Kevin McMahon, from the new wave
   band Lucky Pierre…
-displayOrder: 5
+displayOrder: 15
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-04T20:00:00Z'

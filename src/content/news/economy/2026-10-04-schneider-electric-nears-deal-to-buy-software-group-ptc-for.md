@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Acquisition would be French conglomerate’s largest and enhance its products
   focused on manufacturers
-displayOrder: 17
+displayOrder: 22
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-04T21:51:33Z'

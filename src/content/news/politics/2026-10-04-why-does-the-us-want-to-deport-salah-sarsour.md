@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A US judge has ruled a prominent Palestinian rights advocate can be deported
   under a controversial, cold-war era law.
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 66.5
 pubDate: '2026-10-04T15:36:10Z'

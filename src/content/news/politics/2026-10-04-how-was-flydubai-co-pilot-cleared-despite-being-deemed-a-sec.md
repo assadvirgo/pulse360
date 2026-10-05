@@ -4,7 +4,7 @@ country: United Arab Emirates
 countryCode: AE
 description: Aviation security protocols under scrutiny after co-pilot accused of
   attempted axe attack aboard Flydubai flight.
-displayOrder: 22
+displayOrder: 33
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-04T13:42:16Z'

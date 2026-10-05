@@ -5,7 +5,7 @@ countryCode: MY
 description: Max Verstappen takes his and Red Bull's first win of the year with a
   dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic
   and unprecedented scenes.
-displayOrder: 32
+displayOrder: 40
 heroImage: ''
 importance: 54.2
 pubDate: '2026-10-04T10:32:37Z'

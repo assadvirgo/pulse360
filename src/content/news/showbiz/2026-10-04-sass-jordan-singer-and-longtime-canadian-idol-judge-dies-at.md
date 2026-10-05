@@ -5,7 +5,7 @@ countryCode: CA
 description: Sass Jordan, the singer, songwriter and longtime &#8220;Canadian Idol&#8221;
   judge, died on Oct. 2. She was 65. Her family confirmed her death, noting that she
   &#8220;died…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 60.8
 pubDate: '2026-10-04T17:37:12Z'
