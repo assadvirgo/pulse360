@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro have
   voted in a tightly contested election.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-04T15:05:37Z'

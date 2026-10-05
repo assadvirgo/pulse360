@@ -2,7 +2,7 @@
 category: Economy
 description: Interest rate rises, AI anxiety and midterm elections cool animal spirits
   after record-breaking start to the year
-displayOrder: 29
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-04T20:00:10Z'

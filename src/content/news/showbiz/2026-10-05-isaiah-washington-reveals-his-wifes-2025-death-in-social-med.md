@@ -5,7 +5,7 @@ countryCode: US
 description: Former Grey&#8217;s Anatomy star Isaiah Washington revealed via social
   media this weekend that Jenise Maria Garland, his wife of 29 years, died in June
   of 2025. Washington said…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-05T00:47:03Z'

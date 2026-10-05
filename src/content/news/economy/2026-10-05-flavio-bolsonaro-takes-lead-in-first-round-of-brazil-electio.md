@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Son of jailed former far-right president is the unexpected favourite
   against Luiz Inácio Lula da Silva
-displayOrder: 5
+displayOrder: 23
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-05T02:25:45Z'

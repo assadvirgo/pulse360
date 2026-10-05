@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Flotations have stalled and returns from new listings have been weak
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-04T09:29:09Z'

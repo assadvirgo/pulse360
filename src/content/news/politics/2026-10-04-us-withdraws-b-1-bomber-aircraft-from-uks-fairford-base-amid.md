@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The abrupt redeployment to the US comes after several &#039;terrorism-related&#039;
   arrests were made outside RAF Fairford.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-04T22:23:30Z'

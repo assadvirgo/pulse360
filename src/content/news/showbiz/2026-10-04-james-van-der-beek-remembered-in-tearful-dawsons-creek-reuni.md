@@ -5,7 +5,7 @@ countryCode: US
 description: The Barbara Berlanti “Heroes Gala,” launched in 2018 by top TV producer
   Greg Berlanti in honor of his mom who had died of cancer, hit close to home this
   year after the disease…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-10-04T22:43:35Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: Fund managers see hedge funds and emerging markets assets as bulwarks
   against sudden shift in sentiment on artificial intelligence
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-04T12:00:08Z'

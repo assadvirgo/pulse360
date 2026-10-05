@@ -5,7 +5,7 @@ countryCode: US
 description: New Jersey's lieutenant governor Dale Caldwell was forced to resign on
   September 25th after an investigation found he had sexually harassed a staffer and
   repeatedly violated…
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-04T16:16:04Z'

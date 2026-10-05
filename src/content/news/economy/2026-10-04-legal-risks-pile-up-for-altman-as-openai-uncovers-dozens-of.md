@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Cyber security incidents involving company’s AI tools leave ChatGPT maker
   vulnerable to wave of lawsuits
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-04T11:00:08Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Bosnia and Herzegovina
 countryCode: BA
 description: Balkan nation seeks EU membership, but divisions threaten that goal.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-04T19:46:34Z'

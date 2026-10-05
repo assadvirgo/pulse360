@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Yemeni government announces major offensive against Houthis, as Iran
   says it is ready to defend itself if US attacks.
-displayOrder: 6
+displayOrder: 27
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-05T00:00:00Z'

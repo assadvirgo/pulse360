@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILER ALERT: This article contains spoilers for the &#8220;Lanterns&#8221;
   finale, now streaming on HBO Max. Have no fear, the &#8220;Lanterns&#8221; finale
   is here. The season…'
-displayOrder: 1
+displayOrder: 13
 heroImage: ''
 importance: 72.8
 pubDate: '2026-10-05T02:00:00Z'
