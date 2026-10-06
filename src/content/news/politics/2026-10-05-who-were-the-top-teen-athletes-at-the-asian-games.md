@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot
   Yu Zidi won three record-breaking golds.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-05T05:12:38Z'

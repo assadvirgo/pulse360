@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport looks at how Turki Alalshikh's aborted takeover of Derby County
   has contributed to a poor start to their Championship season.
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-05T08:15:09Z'

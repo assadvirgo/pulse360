@@ -5,7 +5,7 @@ countryCode: GB
 description: England to face a Western Australia XI at the WACA ground in Perth on
   November 7, six days before the first of three ODIs against Australia starting at
   Perth Stadium
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-10-05T02:41:56Z'

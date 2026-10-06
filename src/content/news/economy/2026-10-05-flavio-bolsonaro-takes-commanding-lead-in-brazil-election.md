@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Son of jailed former far-right president in pole position against President
   Luiz Inácio Lula da Silva
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-05T08:05:01Z'

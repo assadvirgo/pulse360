@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Even if Toshiba doubles its capacity, analysts say it has a ways to go
   to catch up with Western Digital and Seagate
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-05T17:34:00Z'

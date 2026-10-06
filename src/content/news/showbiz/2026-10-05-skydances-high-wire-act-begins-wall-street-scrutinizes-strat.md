@@ -5,7 +5,7 @@ countryCode: US
 description: David Ellison moved mountains and fought off many detractors in his quest
   to acquire Warner Bros. Discovery. Now, as the transition is set to formally close
   on Oct. 6, the…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-05T18:42:10Z'

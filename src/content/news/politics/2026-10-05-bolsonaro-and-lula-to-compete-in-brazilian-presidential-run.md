@@ -5,7 +5,7 @@ countryCode: BR
 description: Brazilian Senator Flavio Bolsonaro will face President Luiz Inacio Lula
   da Silva in the 25 October presidential run-off, the country's electoral authority
   said on Sunday.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 74.0
 pubDate: '2026-10-05T00:54:00Z'

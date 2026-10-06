@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Millions of Brazilians took to the polls on Sunday for the first round
   of the country's presidential elections.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 67.2
 pubDate: '2026-10-05T04:51:24Z'

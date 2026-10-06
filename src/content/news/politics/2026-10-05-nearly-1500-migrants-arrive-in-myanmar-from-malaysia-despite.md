@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: Malaysia continues mass refugee deportations despite warnings from the
   UN about unsafe conditions in an active war zone.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-05T01:08:44Z'

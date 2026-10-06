@@ -5,7 +5,7 @@ countryCode: US
 description: Schneider Electric, the maker of electrical equipment that has thrived
   from the AI build-out, on Monday struck a $23 billion deal to buy an industrial
   design software company at a…
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-05T09:39:00Z'

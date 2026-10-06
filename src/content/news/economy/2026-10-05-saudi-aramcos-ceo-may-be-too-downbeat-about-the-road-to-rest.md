@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Some see record oil production and more alternative routes for delivery
   once the Strait of Hormuz fully opens.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 37.5
 pubDate: '2026-10-05T17:54:00Z'

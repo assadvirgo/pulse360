@@ -2,7 +2,7 @@
 category: Politics
 description: At least 746 people from 52 countries have been to space, from career
   astronauts to paying tourists.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-05T07:06:18Z'

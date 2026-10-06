@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Five teams went into week four of the NFL season with a 100% record,
   but only three teams remain unbeaten after Sunday's action.
-displayOrder: 32
+displayOrder: 48
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-05T07:36:56Z'

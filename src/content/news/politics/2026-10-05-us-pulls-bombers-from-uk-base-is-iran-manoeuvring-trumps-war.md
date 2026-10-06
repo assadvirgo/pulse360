@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The withdrawal means the US lost a convenient launchpad, not its underlying
   strike capability, said an expert.
-displayOrder: 13
+displayOrder: 30
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-05T14:19:44Z'
