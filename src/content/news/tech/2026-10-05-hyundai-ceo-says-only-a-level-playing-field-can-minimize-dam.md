@@ -5,7 +5,7 @@ countryCode: KR
 description: There's been a lot of doom and gloom from the auto industry lately when
   the subject of China comes up. Automaker CEOs, in particular, warn that allowing
   low-cost, high-tech…
-displayOrder: 16
+displayOrder: 44
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-05T18:41:48Z'

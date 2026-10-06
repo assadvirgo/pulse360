@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president announces the move during a trip to the agricultural state
   of Nebraska
-displayOrder: 6
+displayOrder: 30
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-06T00:46:01Z'

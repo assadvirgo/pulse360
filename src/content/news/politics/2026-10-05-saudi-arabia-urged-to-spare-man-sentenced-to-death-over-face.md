@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Anojan Sivarasa faces execution after he was found guilty of blasphemy
   over a Facebook comment.
-displayOrder: 21
+displayOrder: 35
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-05T22:28:02Z'

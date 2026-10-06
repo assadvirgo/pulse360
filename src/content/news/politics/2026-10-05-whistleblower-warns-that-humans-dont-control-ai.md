@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Former Anthropic researcher Jacob Coxon warns that AI companies ‘don’t
   fully control’ their models.
-displayOrder: 13
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-05T23:23:47Z'

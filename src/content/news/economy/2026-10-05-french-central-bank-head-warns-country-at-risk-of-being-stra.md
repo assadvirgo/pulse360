@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Emmanuel Moulin says France can still reassure bond investors despite
   ‘serious and worrying’ market moves in recent days
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-05T16:56:54Z'

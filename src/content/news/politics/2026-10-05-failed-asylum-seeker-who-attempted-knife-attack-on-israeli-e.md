@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: A failed asylum seeker who tried to launch a knife attack on London's
   Israeli embassy has been jailed for life.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-05T13:07:00Z'

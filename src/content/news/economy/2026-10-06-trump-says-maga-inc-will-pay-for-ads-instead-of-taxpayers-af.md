@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president reverses course after defending television spots that ran
   during National Football League games and ‘Saturday Night Live’
-displayOrder: 27
+displayOrder: 38
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-06T00:54:30Z'

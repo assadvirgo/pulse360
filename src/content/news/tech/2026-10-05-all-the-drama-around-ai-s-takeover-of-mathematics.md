@@ -3,7 +3,7 @@ category: Tech
 description: This past year, OpenAI, Anthropic, and other labs have announced breakthroughs
   on numerous long-standing mathematical problems, in some cases pushing well beyond
   what researchers…
-displayOrder: 14
+displayOrder: 41
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-05T19:28:59Z'

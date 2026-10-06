@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Bristol set out their top-four aspirations with a statement win, while
   Gloucester's renaissance continues in the second round of Prem action.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-05T11:49:09Z'

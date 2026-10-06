@@ -5,7 +5,7 @@ countryCode: US
 description: An OpenAI publicist tried to change the topic of CEO Sam Altman's interview
   with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide.
   When Guiducci…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-05T16:55:42Z'

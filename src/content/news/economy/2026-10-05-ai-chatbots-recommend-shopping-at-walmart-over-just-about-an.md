@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The next retail battleground could be AI recommendation engines, according
   to UBS.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-05T17:53:00Z'

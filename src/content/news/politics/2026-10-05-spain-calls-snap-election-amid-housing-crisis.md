@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez
   to call an early election on November 29
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-10-05T17:27:14Z'

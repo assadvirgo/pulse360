@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Patrick Pouyanné says he prefers ‘disruption to the peaceful world’ despite
   French major being among those most affected by Middle East conflict
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-05T17:33:36Z'

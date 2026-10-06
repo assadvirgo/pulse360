@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Independent researchers discovered an agent swarm that seems to be running
   on Tencent's infrastructure and targeting Alibaba's map service, Amap.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-05T14:35:09Z'

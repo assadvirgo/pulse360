@@ -5,7 +5,7 @@ countryCode: US
 description: Casey Bloys&#8217; new role at a new company comes with a new contract
   too. Deadline has confirmed that Bloys, named earlier today Co-Chair and Chief Content
   Officer, Skydance…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-06T02:38:43Z'

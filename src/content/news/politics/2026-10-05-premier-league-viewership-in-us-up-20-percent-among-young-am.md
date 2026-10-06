@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: English Premier League viewership up 20 percent among young Americans
   following World Cup, Nielsen Sports data shows.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-05T20:16:07Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez
   but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.
-displayOrder: 19
+displayOrder: 43
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-05T19:30:50Z'

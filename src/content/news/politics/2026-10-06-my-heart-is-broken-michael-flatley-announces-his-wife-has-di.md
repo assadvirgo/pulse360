@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: Riverdance star Michael Flatley has said his "heart is broken" following
   the death of his wife, Niamh O'Brien, at the age of 52.
-displayOrder: 8
+displayOrder: 29
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-06T02:18:00Z'
