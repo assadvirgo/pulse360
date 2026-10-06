@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nvidia-backed Reflection AI announced Beam, a new ultra-efficient open
   model that boasts capabilities on par with those of Chinese ones
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-05T21:43:00Z'

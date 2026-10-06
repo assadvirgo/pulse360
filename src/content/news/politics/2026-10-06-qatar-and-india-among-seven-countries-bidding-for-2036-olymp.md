@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: South Africa, Turkiye, Germany, Hungary and South Korea are on the list
   of countries revealed by the IOC.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-06T12:19:50Z'

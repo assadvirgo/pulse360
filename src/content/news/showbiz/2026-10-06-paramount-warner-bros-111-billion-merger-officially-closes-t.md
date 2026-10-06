@@ -5,7 +5,7 @@ countryCode: US
 description: 'It’s official: Paramount and Warner Bros. Discovery are now a single
   company — joined together as Skydance Corp., led by chairman and CEO David Ellison.
   The deal, valued at $111…'
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 72.8
 pubDate: '2026-10-06T13:02:00Z'

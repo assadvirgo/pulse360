@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Pentagon confirmed on Sunday it had removed the B1 bombers from the
   base in England back to their home stations in America.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-05T19:58:50Z'

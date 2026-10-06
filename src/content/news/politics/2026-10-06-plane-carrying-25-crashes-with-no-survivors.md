@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: A plane crash in Nigeria killed all 25 on board, the country’s air force
   said.
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-06T12:03:00Z'

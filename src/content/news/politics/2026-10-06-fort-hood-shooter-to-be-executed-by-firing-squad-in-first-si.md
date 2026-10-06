@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The execution of Nidal Malik Hasan will be the first military execution
   since 1961 and the first by firing squad since the end of World War Two.
-displayOrder: 28
+displayOrder: 48
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-06T02:22:24Z'

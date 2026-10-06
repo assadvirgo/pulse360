@@ -5,7 +5,7 @@ countryCode: US
 description: Just a couple of months after its last big raise, the AI chip startup
   is already being plied with investment offers at double or more its current value,
   sources tell TechCrunch.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-05T20:24:09Z'

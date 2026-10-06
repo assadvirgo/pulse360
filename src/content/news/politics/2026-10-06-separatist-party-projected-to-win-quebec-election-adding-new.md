@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: The Parti Québécois, which secured a minority, has vowed to hold an independence
   referendum in the years to come.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-06T11:42:52Z'

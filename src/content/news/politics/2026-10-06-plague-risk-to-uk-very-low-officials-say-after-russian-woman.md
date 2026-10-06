@@ -5,7 +5,7 @@ countryCode: GB
 description: The risk to the UK from plague is very low, the UK Health Security Agency
   (UKHSA) has said, after the death of a laboratory worker in Russia who may have
   been exposed to pneumonic…
-displayOrder: 17
+displayOrder: 32
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-06T12:45:00Z'

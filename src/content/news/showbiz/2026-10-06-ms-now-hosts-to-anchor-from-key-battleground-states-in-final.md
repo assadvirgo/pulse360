@@ -5,7 +5,7 @@ countryCode: US
 description: With just four weeks until the midterm elections, MS NOW anchors are
   taking their shows to key battleground states of Maine, Ohio, Georgia, Texas and
   Michigan. Jen Psaki, Ali…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-06T14:00:00Z'

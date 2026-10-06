@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Saudi aviation authority reports severe injuries and damage following
   Houthi strikes on Jazan and Najran airports.
-displayOrder: 12
+displayOrder: 31
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-06T10:47:54Z'

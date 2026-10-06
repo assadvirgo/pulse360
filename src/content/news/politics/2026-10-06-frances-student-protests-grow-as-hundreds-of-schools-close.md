@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Al Jazeera’s Bernard Smith reports from France on the growing student
   protests across the country.
-displayOrder: 14
+displayOrder: 30
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-06T11:58:53Z'

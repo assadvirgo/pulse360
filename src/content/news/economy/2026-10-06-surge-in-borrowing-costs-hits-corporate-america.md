@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sharp sell-off in US Treasury market starts to feed through to junk-rated
   companies
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-06T04:00:17Z'

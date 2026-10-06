@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Turkiye and Pakistan agree to rapidly deploy militaries to bolster Saudi
   security as part of the Mecca defence pact.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-06T00:00:00Z'

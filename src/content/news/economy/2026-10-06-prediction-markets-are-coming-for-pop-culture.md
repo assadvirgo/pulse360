@@ -2,7 +2,7 @@
 category: Economy
 description: What to know before buying event contracts around your favorite reality
   shows and entertainers.
-displayOrder: 19
+displayOrder: 38
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-06T13:58:00Z'

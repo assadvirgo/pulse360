@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The country is being hit by a pre-election debt sell-off. Many fear it
   could shake the Eurozone
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 52.5
 pubDate: '2026-10-06T14:00:17Z'

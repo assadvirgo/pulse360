@@ -3,7 +3,7 @@ category: Showbiz
 description: '"Artificial" is a brilliant but playful docudrama, meticulously true
   to history, that focuses on the founders of OpenAI, notably its CEO Sam Altman (Andrew
   Garfield). But the tale…'
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-06T03:41:41Z'

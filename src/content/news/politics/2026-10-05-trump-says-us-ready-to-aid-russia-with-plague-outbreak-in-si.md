@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Russian authorities quarantine hospital, monitor 200 contacts after suspected
   pneumonic plague death in Siberia.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-05T21:03:21Z'

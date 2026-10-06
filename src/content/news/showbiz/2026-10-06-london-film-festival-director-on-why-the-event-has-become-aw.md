@@ -5,7 +5,7 @@ countryCode: GB
 description: With its positioning in October after the likes of Berlin, Cannes, Venice,
   Toronto and Telluride have helped anoint most of the year&#8217;s buzziest and most
   talked about films,…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 67.8
 pubDate: '2026-10-06T14:00:00Z'

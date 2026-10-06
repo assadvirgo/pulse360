@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Tobias Rausch wins secret support from four mystery backers from established
   parties
-displayOrder: 22
+displayOrder: 43
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-06T13:46:46Z'
