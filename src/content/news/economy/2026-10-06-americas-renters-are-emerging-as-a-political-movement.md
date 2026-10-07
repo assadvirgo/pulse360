@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Housing policy has long prioritized homeownership. As young Americans
   face the prospect of renting indefinitely, more tenants are seeking political clout.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-06T12:37:00Z'

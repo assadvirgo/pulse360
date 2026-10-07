@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter
   rolls to favour Prime Minister Narendra Modi's party during elections.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-10-06T10:05:22Z'

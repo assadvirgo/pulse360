@@ -5,7 +5,7 @@ countryCode: US
 description: There isn’t a single manual to read or prompt to give an LLM that can
   equip you with the skills and knowledge to build a company. But on November 4, TechCrunch
   Founder Summit…
-displayOrder: 9
+displayOrder: 19
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-06T16:18:45Z'

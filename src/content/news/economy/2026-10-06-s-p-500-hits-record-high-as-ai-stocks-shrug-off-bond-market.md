@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Wall Street’s blue-chip index touches fresh peak but rally increasingly
   reliant on handful of tech stocks
-displayOrder: 39
+displayOrder: 45
 heroImage: ''
 importance: 44.5
 pubDate: '2026-10-06T14:03:55Z'

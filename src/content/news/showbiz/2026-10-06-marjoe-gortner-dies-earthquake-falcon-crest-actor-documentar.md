@@ -5,7 +5,7 @@ countryCode: US
 description: Marjoe Gortner, who achieved fame as a child evangelist before pivoting
   to an acting career that included roles in the 1974 film Earthquake and the 1980s
   primetime soap Falcon…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-10-06T17:11:19Z'

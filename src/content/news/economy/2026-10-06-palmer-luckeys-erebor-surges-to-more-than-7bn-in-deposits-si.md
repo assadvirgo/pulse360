@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Start-up bank for technology industry seeks to fill the void left by
   the collapse of Silicon Valley Bank
-displayOrder: 41
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-06T15:32:51Z'

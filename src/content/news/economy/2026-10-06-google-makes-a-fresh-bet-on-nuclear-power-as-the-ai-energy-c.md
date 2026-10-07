@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Constellation’s stock is rising sharply following a deal that equates
   to as much power as would be supplied by a new nuclear reactor.
-displayOrder: 24
+displayOrder: 33
 heroImage: ''
 importance: 56.5
 pubDate: '2026-10-06T13:40:00Z'

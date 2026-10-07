@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “He estimates the mortgage will be $10,000 a month once both homes are
   sold, or $14,000 if they are not sold in time.”
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-06T14:00:00Z'

@@ -4,7 +4,7 @@ country: Ghana
 countryCode: GH
 description: The arrests are part of the country's efforts to curb the misuse and
   abuse of the national currency.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-06T12:00:10Z'

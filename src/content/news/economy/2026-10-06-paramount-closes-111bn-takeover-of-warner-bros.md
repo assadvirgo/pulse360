@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Heavy cuts expected as boss David Ellison seeks to deliver $6bn of cost
   savings at combined group to be known as Skydance
-displayOrder: 37
+displayOrder: 44
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-06T12:52:57Z'

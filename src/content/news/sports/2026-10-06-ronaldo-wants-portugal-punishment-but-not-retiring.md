@@ -5,7 +5,7 @@ countryCode: PT
 description: Cristiano Ronaldo says he is not retiring from international football
   but deserves to be punished for walking out on Portugal even though head coach Jorge
   Jesus "broke his word to…
-displayOrder: 12
+displayOrder: 18
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-06T20:12:24Z'

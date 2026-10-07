@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Two-time World Cup winner Marlie Packer will not travel with England
   to North America this month for Tests against Canada and the United States.
-displayOrder: 34
+displayOrder: 48
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-06T09:30:43Z'

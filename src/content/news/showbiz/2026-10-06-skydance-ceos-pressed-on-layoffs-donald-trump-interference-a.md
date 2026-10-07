@@ -5,7 +5,7 @@ countryCode: US
 description: Soon after Warner Bros. Discovery accepted Paramount&#8217;s acquisition
   proposal in February, then-Paramount CEO David Ellison pitched senior Warner executives
   on his $110…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-06T20:37:33Z'

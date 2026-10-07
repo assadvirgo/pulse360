@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “For 14 years I have gotten up every morning and gone to work while she
   has been free to pursue whatever interested her.”
-displayOrder: 44
+displayOrder: 43
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-06T18:30:00Z'

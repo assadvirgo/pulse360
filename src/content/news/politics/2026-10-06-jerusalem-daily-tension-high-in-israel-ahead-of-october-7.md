@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: 'Jerusalem Daily: Tension high in Israel ahead of October 7'
-displayOrder: 21
+displayOrder: 29
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-06T17:39:19Z'

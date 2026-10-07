@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump, who is friendly with David Ellison and his father,
   Larry Ellison, gave a big thumbs-up to Paramount&#8217;s megamerger with Warner
   Bros. Discovery, which…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 85.8
 pubDate: '2026-10-06T20:39:34Z'
