@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Sigil Wen, backed by a Silicon Valley who's who, has built an on-device
   AI assistant that promises to be free, fully private, and capable for everyday tasks.
-displayOrder: 12
+displayOrder: 29
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-06T20:47:01Z'

@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Territorial gains alone will not be enough to change the trajectory of
   the war.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-06T16:46:06Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT! This post contains details from Tuesday night’s episode
   of Dancing with the Stars. We&#8217;re officially a month into Season 35 of Dancing
   with the Stars, and the…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-10-07T01:59:41Z'

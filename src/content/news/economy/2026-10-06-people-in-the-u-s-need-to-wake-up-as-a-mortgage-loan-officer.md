@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “People in the U.S. need to wake up.”
-displayOrder: 27
+displayOrder: 40
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-06T20:15:00Z'

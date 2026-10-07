@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: City-state averse to risk and scandal tries to distance itself from homegrown
   Hyperliquid Labs and its popular ‘perps’
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-06T21:00:09Z'

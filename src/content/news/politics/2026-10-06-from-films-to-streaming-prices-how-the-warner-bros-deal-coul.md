@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The deal is expected to alter the entertainment and news industries but
   could it mean higher prices for consumers?
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-06T18:42:58Z'

@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: The patient had been living in DR Congo, where more than 4,000 people
   have died from the disease this year.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-06T16:02:32Z'

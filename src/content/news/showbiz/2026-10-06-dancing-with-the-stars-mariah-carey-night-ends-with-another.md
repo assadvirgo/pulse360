@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: During last Tuesday's Yacht Rock Night, Taylor Hanson and Britt Stewart
   were shockingly eliminated from the competition.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-10-06T23:58:00Z'

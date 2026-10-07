@@ -4,7 +4,7 @@ country: Nigeria
 countryCode: NG
 description: President Bola Tinubu describes the crash as a "painful moment" for the
   military and the entire nation.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-06T12:51:05Z'

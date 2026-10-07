@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: It is not clear who is behind the attacks which come as Russia intensifies
   strikes in the Black Sea as part of its war against Ukraine.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 73.2
 pubDate: '2026-10-06T11:53:21Z'

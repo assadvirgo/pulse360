@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: The crackdown has rattled the country’s wealthiest people and the businesses
   in Hong Kong, Singapore and Tokyo that manage their money
-displayOrder: 17
+displayOrder: 30
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-07T02:27:55Z'

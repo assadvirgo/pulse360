@@ -5,7 +5,7 @@ countryCode: IE
 description: Uefa has confirms it is investigating the half-time incident during Sunday's
   Nations League game between Republic of Ireland and Israel following an accusation
   of spitting.
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 40.2
 pubDate: '2026-10-06T09:42:17Z'

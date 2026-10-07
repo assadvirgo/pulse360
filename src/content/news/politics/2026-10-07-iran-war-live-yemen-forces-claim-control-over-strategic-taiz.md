@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Yemeni forces claim they have tightened control over the highest peak
   in the Jabal Habashi district of Taiz.
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-07T00:00:00Z'

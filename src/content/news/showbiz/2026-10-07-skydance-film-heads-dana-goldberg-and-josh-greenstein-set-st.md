@@ -5,7 +5,7 @@ countryCode: US
 description: One day into the official closing of the Paramount-Warner Bros. merger,
   Skydance Corp.&#8217;s newly appointed Motion Picture Group co-chairs, Dana Goldberg
   and Josh Greenstein,…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-10-07T03:38:09Z'

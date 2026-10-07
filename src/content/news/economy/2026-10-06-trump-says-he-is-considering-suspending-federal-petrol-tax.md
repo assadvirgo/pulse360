@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Surging fuel prices are heaping pressure on the president and his Republican
   Party four weeks ahead of midterm elections
-displayOrder: 22
+displayOrder: 35
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-06T21:09:16Z'

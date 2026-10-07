@@ -5,7 +5,7 @@ countryCode: US
 description: Skydance-owned Paramount has completed its $81bn (£61bn) takeover of
   Warner Bros Discovery - bringing together the two media giants under a combined
   company.
-displayOrder: 16
+displayOrder: 36
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-06T17:56:00Z'

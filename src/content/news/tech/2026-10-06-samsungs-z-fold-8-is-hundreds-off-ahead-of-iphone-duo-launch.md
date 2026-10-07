@@ -5,7 +5,7 @@ countryCode: US
 description: I don’t suppose there are many iPhone users who might be tempted by the
   Samsung Galaxy Z Fold 8 now that the iPhone Duo is both real and coming very soon.
   But if you’ll entertain…
-displayOrder: 14
+displayOrder: 33
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-06T18:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Marvell’s stock is popping after the company not only delivered with
   its financial forecasts but also demonstrated its diversified mix of customers and
   products.
-displayOrder: 40
+displayOrder: 45
 heroImage: ''
 importance: 32.5
 pubDate: '2026-10-06T20:21:00Z'

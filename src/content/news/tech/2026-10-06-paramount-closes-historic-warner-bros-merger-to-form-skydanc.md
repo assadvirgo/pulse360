@@ -5,7 +5,7 @@ countryCode: US
 description: The deal brings together two major streaming platforms, Paramount+ and
   HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food
   Network.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-06T13:57:32Z'

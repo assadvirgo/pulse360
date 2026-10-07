@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A Wells Fargo analyst warns of a near-term profit hit from AI infrastructure
   spending and legal costs — but thinks that will set up massive gains by 2028.
-displayOrder: 31
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-06T18:20:00Z'
