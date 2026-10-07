@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Police detained Indian opposition leaders during a protest outside the
   Election Commission in New Delhi where lawmakers
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-06T17:47:05Z'

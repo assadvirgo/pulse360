@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: The mountainous district is key to control of Mocha, the Red Sea port
   the Houthis seized last month.
-displayOrder: 24
+displayOrder: 44
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-07T00:35:57Z'

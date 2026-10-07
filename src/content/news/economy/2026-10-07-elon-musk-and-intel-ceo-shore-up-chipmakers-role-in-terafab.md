@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk and Intel’s CEO have said the company’s involvement in the
   Terafab chip plant will continue, boosting shares.
-displayOrder: 22
+displayOrder: 40
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-07T10:24:00Z'

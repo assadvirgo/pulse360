@@ -5,7 +5,7 @@ countryCode: US
 description: Actor Josh Brolin has sold his lavish Sandy Springs, Ga., estate for
   $4 million—a final sale price falling just under $1 million less than the original
   asking price of $4.999…
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-07T09:05:00Z'

@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: More than 4,000 people have died in the worst outbreak in the DR Congo&#039;s
   history, with confirmed cases surpassing 8,300.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-06T17:00:52Z'

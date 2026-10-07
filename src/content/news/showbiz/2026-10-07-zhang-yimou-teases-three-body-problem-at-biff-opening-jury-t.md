@@ -5,7 +5,7 @@ countryCode: CN
 description: Chinese filmmaker Zhang Yimou, who is serving as president of Busan International
   Film Festival’s competition jury, offered some details of his upcoming adaptation
   of sci-fi epic…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-10-07T06:29:46Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: And just like that, David Ellison is in the driver&#8217;s seat. The
   newly minted executive leadership team at Skydance, led by chairman and CEO Ellison
   and co-CEO Ynon Kreiz,…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 69.8
 pubDate: '2026-10-07T03:03:41Z'

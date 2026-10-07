@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: A sharp increase in human activity is affecting the way the Himalayan
   monal lives and communicates, studies show.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-06T23:07:44Z'

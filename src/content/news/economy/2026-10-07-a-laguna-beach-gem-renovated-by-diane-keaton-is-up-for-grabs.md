@@ -5,7 +5,7 @@ countryCode: US
 description: Boasting breathtaking views of the Pacific Ocean, the charming 4-bedroom
   home is located on a triangular 0.4-acre oceanfront lot with direct access to a
   sandy beach via a wooden…
-displayOrder: 19
+displayOrder: 36
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-07T09:01:00Z'

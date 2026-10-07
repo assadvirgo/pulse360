@@ -4,7 +4,7 @@ country: Senegal
 countryCode: SN
 description: Court of Arbitration for Sport (CAS) hearing set to begin after Senegal
   stripped of Africa Cup of Nations title by CAF.
-displayOrder: 6
+displayOrder: 21
 heroImage: ''
 importance: 56.5
 pubDate: '2026-10-07T10:28:32Z'

@@ -4,7 +4,7 @@ country: Malaysia
 countryCode: MY
 description: Myanmar leader Min Aung Hlaing arrives in Malaysia on his first visit
   since the 2021 coup.
-displayOrder: 1
+displayOrder: 19
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-07T07:49:52Z'

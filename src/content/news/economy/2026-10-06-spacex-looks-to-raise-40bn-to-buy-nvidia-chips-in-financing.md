@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Blockbuster debt deal is the latest sign of the vast spending on chips
   and other infrastructure underpinning AI
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-06T22:28:55Z'

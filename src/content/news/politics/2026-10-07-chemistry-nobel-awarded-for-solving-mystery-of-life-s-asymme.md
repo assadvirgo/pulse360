@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: The prize was given to the French and Japanese scientists for solving
   the mystery of life's asymmetry.
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-07T10:33:05Z'

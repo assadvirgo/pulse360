@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Elon Musk’s SpaceX is in talks with banks and investors to borrow $40
   billion to fund a purchase of Nvidia chips, according to a Financial Times report.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-07T09:15:00Z'

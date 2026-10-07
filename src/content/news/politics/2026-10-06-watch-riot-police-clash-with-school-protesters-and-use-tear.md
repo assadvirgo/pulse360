@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Hundreds of thousands of people have taken to the streets across France
   amid a wave of protests by high-school pupils.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-06T21:22:22Z'
