@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed
   to run AI models and workloads directly on the device.
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-07T19:12:00Z'

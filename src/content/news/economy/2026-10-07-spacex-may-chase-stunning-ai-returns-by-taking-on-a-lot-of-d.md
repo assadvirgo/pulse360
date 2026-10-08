@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A report says SpaceX is considering raising $40 billion to finance the
   purchase of advanced graphic processing units and related systems.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-07T18:22:00Z'

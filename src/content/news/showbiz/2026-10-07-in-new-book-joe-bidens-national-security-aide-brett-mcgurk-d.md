@@ -5,7 +5,7 @@ countryCode: US
 description: 'Brett McGurk&#8217;s new book Brink: Inside the Race to Free the October
   7th Hostages offers an insider account of the diplomatic rollercoaster to secure
   a ceasefire and hostage…'
-displayOrder: 3
+displayOrder: 9
 heroImage: ''
 importance: 77.0
 pubDate: '2026-10-07T20:53:59Z'

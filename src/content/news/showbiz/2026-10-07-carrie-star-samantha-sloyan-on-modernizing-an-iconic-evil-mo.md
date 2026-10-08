@@ -5,7 +5,7 @@ countryCode: US
 description: “Why would I do ‘Carrie’ now?” Samantha Sloyan says this was one of the
   first things writer, director and showrunner Mike Flanagan said to her when he revealed
   his idea to turn…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-07T22:14:30Z'

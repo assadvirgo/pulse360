@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Rahul Gandhi has been arrested several times at protests demanding the
   resignation of poll body chief.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-07T19:40:07Z'

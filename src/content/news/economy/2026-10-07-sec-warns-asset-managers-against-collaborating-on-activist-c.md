@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US regulator says fund groups risk stricter rules after a probe into
   the ousting of ExxonMobil board members
-displayOrder: 25
+displayOrder: 42
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-07T17:07:33Z'

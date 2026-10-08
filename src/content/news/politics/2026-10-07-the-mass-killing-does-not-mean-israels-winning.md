@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Israel’s military might has failed to achieve the political goals in
   Gaza it was supposed to.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-07T15:25:06Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A Gallup survey highlights a deep – and historic – partisan divide over
   confidence in the country&#039;s elections.
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-07T20:27:47Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Frank Mancuso Sr., a distribution executive who went on to head two of
   Hollywood’s major studios, Paramount and MGM/UA, died on Oct. 1 at his home in Los
   Angeles from…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-07T18:13:10Z'

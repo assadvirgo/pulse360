@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Tent cities in Gaza grow as families mourn the dead, care for the injured,
   and endure relentless displacement.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 56.5
 pubDate: '2026-10-07T09:55:26Z'

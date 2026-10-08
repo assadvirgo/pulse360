@@ -5,7 +5,7 @@ countryCode: DE
 description: While much of the automotive world sits dumbfounded as China gobbles
   up all its customers, BMW continues to roll out extremely well-crafted, technologically
   advanced electric…
-displayOrder: 5
+displayOrder: 13
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-07T22:01:00Z'

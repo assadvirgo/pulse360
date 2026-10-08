@@ -5,7 +5,7 @@ countryCode: US
 description: 'SPOILERS: This post contains details about the Season 1 finale of Prime
   Video&#8217;s Carrie As Mike Flanagan leaves another mark on the Stephen King onscreen
   universe with Prime…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-10-07T21:34:54Z'

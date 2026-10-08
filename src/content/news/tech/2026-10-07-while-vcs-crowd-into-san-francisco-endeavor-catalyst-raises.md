@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Endeavor Catalyst just raised $320 million to keep backing founders outside
   Silicon Valley. Half the profits go back to the nonprofit that finds them.
-displayOrder: 10
+displayOrder: 17
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-07T22:59:16Z'

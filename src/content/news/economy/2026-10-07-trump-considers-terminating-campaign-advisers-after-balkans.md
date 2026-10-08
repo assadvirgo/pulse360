@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: President says Chris LaCivita and James Blair guiding pro-Russian party
   less than a month before midterms could be a ‘conflict’
-displayOrder: 27
+displayOrder: 41
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-07T21:24:58Z'

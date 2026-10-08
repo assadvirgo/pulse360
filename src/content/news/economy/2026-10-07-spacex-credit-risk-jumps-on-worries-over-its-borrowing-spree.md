@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Leap in credit default swaps tracking Elon Musk’s aerospace group follows
   an FT report that it is seeking to raise $40bn to buy Nvidia chips
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-07T18:05:37Z'

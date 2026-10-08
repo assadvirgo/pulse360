@@ -5,7 +5,7 @@ countryCode: US
 description: Months after revealing its Surface Laptop Ultra, Microsoft has announced
   that the Nvidia RTX Spark-equipped device will launch on October 16th. Pricing starts
   at $2,599 for the…
-displayOrder: 22
+displayOrder: 38
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-07T17:48:45Z'

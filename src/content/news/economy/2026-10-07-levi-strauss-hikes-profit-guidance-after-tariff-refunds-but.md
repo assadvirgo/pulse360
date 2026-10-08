@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Levi Strauss on Wednesday posted earnings that beat expectations, though
   it saw benefits from tariff refunds.
-displayOrder: 26
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-07T21:31:40Z'

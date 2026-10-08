@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A man who allegedly stabbed a British toddler at a playground in the
   French Alps will go on trial charged with attempted murder, prosecutors have said.
-displayOrder: 16
+displayOrder: 33
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-07T17:45:00Z'

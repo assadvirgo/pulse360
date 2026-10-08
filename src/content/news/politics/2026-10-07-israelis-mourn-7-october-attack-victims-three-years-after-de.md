@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Memorial events have taken place in Israel on the third anniversary of
   the Hamas-led attack that sparked the devastating Gaza war.
-displayOrder: 12
+displayOrder: 21
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-07T20:27:03Z'
