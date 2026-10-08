@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: World’s highest-grossing law firm with $10.6bn in 2025 revenue volunteered
   data for leading industry profit ranking
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-07T17:30:02Z'

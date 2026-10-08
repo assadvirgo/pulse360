@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Brussels blames Beijing’s surging exports for the loss of tens of thousands
   of manufacturing jobs
-displayOrder: 30
+displayOrder: 40
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-08T04:37:44Z'

@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: An 87-year-old woman, whose eviction from her home sparked major protests
   in Spain and was partly responsible for a snap election, has died.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-07T18:40:00Z'

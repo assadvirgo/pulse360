@@ -5,7 +5,7 @@ countryCode: US
 description: Heavy hang the heads who wear the crowns, and that goes for Skydance
   Pictures Co-Chairs Dana Goldberg and Josh Greenstein, who&#8217;ll be tasked with
   getting under the hood and…
-displayOrder: 3
+displayOrder: 25
 heroImage: ''
 importance: 67.0
 pubDate: '2026-10-08T02:28:48Z'

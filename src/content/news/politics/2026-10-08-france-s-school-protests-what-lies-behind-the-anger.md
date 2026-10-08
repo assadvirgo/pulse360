@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Students' blockades and marches spring from real grievances – and from
   France's habit of settling policy on the street.
-displayOrder: 10
+displayOrder: 30
 heroImage: ''
 importance: 53.2
 pubDate: '2026-10-08T03:38:46Z'

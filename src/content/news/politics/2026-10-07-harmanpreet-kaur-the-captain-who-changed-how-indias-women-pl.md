@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Kaur&#039;s magical innings instilled belief in the Indian women&#039;s
   cricket team before she led them to a first world title.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-07T21:08:59Z'

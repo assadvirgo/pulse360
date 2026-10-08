@@ -3,7 +3,7 @@ category: Sports
 country: United Kingdom
 countryCode: GB
 description: Birmingham franchise makes change after solitary season under new ownership
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-07T08:47:01Z'

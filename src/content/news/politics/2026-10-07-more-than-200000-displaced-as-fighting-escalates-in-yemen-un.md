@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three
   in four families in parts of Yemen face hunger.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-07T16:02:17Z'

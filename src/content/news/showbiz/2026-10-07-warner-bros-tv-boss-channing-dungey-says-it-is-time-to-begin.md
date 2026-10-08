@@ -5,7 +5,7 @@ countryCode: US
 description: Channing Dungey has officially added some new responsibilities and reports
   to her dance card. Deadline revealed over the weekend that Dungey, who was formerly
   Chairman and CEO,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-07T23:49:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Last month’s rate hike was viewed by many officials as needed just in
   case inflation remains sticky.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-07T18:07:00Z'

@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: World’s largest memory-chip maker posts record earnings for the three
   months to September
-displayOrder: 22
+displayOrder: 43
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-07T23:30:24Z'

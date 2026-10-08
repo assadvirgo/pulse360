@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Pro-Palestine students took to the streets of London on October 7, despite
   police calls to postpone the march.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-07T21:33:21Z'

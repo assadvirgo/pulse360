@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Britain's George Russell will start from the back of the grid in Sunday's
   Singapore Grand Prix because of a power-unit penalty from last weekend's race.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-07T10:01:59Z'

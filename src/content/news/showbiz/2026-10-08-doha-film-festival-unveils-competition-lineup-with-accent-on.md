@@ -5,7 +5,7 @@ countryCode: QA
 description: The upcoming Doha Film Festival has unveiled its 15-title competition
   lineup made up mostly of Middle East premieres of movies from the region, seven
   of which directed by women.…
-displayOrder: 5
+displayOrder: 24
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-08T05:00:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Mikel Arteta says this is "only the beginning" of Arsenal's success after
   signing a new contract with the Premier League champions until 2030.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-07T11:00:53Z'

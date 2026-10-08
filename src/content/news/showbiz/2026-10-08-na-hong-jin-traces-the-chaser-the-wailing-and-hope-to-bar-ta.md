@@ -5,7 +5,7 @@ countryCode: KR
 description: Na Hong-Jin told a Busan International Film Festival masterclass audience
   that his film &#8220;Hope&#8221; grew out of a conviction, around 2017, that war
   was about to break out…
-displayOrder: 2
+displayOrder: 22
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-08T04:31:04Z'

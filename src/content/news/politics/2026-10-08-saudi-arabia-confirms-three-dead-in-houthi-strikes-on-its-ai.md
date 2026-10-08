@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Saudi Arabia has confirmed that Houthi strikes on two of its international
   airports have killed three people.
-displayOrder: 23
+displayOrder: 42
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-08T00:16:25Z'

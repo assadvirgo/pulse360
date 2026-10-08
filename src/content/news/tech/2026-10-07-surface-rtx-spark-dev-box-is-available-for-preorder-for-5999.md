@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for
   preorder now directly, and slated to ship in November for just about $6,000. It's
   pricier than the DGX Spark…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-07T17:46:44Z'

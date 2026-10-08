@@ -5,7 +5,7 @@ countryCode: US
 description: ChatGPT’s teen safeguards are meant to protect vulnerable users, but
   new testing found the chatbot continues encouraging engagement during crises and
   potentially encourages…
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-07T18:15:28Z'
