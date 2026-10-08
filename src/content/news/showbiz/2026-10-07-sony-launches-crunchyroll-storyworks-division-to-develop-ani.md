@@ -5,7 +5,7 @@ countryCode: JP
 description: Sony&#8217;s anime service Crunchyroll has launched new division Crunchyroll
   Storyworks, which will be focused on anime and live-action adaptations made in collaboration
   with…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-07T17:45:00Z'

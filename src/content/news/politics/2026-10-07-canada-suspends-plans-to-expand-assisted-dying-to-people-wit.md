@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: People with mental illness alone were to be eligible for assisted dying
   in Canada in March 2027, but that has now been paused indefinitely.
-displayOrder: 11
+displayOrder: 28
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-07T17:29:46Z'

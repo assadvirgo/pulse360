@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI has revealed solutions to a number of long-standing mathematics
   problems produced by an unreleased frontier model in a batch of 722 manuscripts,
   covering 372 result…
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-06T23:26:38Z'

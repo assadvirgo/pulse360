@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “She developed pleural effusion — fluid between the lungs and ribs —
   compressing her lungs and making it hard for her to breathe.”
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-07T14:30:00Z'

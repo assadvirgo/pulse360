@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Assault comes days after government forces announced major offensive
   to reclaim strategic Bab al-Mandab waterway
-displayOrder: 30
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-07T12:46:01Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Media mogul faces a steep challenge after closing his $111bn deal to
   bring together Paramount and Warner Bros
-displayOrder: 29
+displayOrder: 46
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-07T10:28:22Z'

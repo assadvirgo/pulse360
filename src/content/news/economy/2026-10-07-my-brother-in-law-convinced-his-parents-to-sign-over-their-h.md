@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “Both properties will be solely in his name.”
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-07T10:15:00Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Three years on, the trauma of October 7, 2023, continues to reshape Israel’s
   politics, wars and place in the world.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-07T08:53:23Z'

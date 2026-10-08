@@ -5,7 +5,7 @@ countryCode: US
 description: The National Design Studio has been something of a successor agency to
   DOGE. A WIRED investigation finds some of its members are on loan from a nonprofit
   run by SpaceXAI’s general…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-07T10:30:00Z'

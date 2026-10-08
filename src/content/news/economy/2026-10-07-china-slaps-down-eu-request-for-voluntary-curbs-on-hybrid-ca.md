@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: European Commission now considering temporary limits to control surging
   shipments that could trigger serious trade conflict
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-07T16:56:00Z'

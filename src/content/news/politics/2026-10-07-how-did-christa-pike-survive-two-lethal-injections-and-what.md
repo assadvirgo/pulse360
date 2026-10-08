@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The convicted killer of Colleen Slemmer is said to be awake and speaking
   in hospital in Tennessee after an execution attempt.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-10-07T10:01:47Z'

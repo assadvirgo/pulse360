@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Varun Chakravarthy is also back for India after missing the Asian Games,
   while Ravi Bishnoi has been left out
-displayOrder: 42
+displayOrder: 49
 heroImage: ''
 importance: 48.5
 pubDate: '2026-10-07T04:06:46Z'

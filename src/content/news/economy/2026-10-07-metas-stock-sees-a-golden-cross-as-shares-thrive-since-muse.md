@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Meta Platforms, whose stock has thrived after the introduction of an
   artificial-intelligence assistant, just got another piece of good news.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-07T08:07:00Z'

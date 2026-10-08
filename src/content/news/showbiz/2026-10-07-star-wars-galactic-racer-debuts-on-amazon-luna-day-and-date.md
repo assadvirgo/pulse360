@@ -5,7 +5,7 @@ countryCode: US
 description: '“Star Wars: Galactic Racer” launched on Amazon&#8217;s gaming service
   Luna day and date alongside the game’s worldwide release across platforms including
   PlayStation 5, Xbox…'
-displayOrder: 4
+displayOrder: 19
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-07T17:52:50Z'

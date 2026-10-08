@@ -5,7 +5,7 @@ countryCode: CN
 description: Chinese filmmaker Gu You&#8217;s films modeled on Chinese landscape painting
   will not stop at three. The director of &#8220;The First Taste of Loneliness,&#8221;
   which world…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-07T09:26:25Z'

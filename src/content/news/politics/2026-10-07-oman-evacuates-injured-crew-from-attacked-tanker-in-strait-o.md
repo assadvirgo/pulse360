@@ -4,7 +4,7 @@ country: Oman
 countryCode: OM
 description: India&#039;s Foreign Ministry says 11 out of 12 injured crew members
   on board the On Peace are Indian nationals.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-10-07T03:16:32Z'

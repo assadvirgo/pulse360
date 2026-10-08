@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Britons are risking freedom and reputations to stand with Palestinians
   and challenge government policy.
-displayOrder: 14
+displayOrder: 34
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-07T15:13:21Z'

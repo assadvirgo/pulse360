@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Some running in November's elections are deciding whether to distance
   themselves from an unpopular president who still dominates his party.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 77.2
 pubDate: '2026-10-07T05:00:21Z'

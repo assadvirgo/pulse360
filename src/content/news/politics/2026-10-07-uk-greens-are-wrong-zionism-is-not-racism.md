@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The party’s new policy reflects ignorance of Zionism and does nothing
   to advance Palestinian self-determination.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-07T12:37:22Z'
