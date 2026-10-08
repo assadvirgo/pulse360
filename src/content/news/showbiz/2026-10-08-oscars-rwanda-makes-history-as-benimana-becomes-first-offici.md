@@ -5,7 +5,7 @@ countryCode: RW
 description: Rwanda has selected Marie-Clémentine Dusabejambo&#8217;s post-genocide
   drama Ben’Imana as its first ever submission to the Best International Feature Film
   category of the Academy…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 67.0
 pubDate: '2026-10-08T14:00:00Z'

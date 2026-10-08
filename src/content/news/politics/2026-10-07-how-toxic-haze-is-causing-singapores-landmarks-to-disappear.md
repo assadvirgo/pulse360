@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire
   seasons is impacting countries around South East Asia.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-07T22:10:20Z'

@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: The United Nations Interim Force in Lebanon said there were no casualties
   after small arms fire targeted a border post.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 70.5
 pubDate: '2026-10-07T23:33:29Z'

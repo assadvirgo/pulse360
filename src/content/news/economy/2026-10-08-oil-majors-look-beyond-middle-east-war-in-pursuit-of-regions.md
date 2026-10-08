@@ -2,7 +2,7 @@
 category: Economy
 description: Western groups look to new investment opportunities despite the chaos
   and heightened risks caused by the conflict with Iran
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-08T04:00:26Z'

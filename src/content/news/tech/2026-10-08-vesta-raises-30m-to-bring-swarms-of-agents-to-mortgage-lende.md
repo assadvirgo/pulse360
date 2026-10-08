@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Vesta, an AI-native software startup that helps lenders originate mortgages,
   announced a $30 million round led by Conversion Capital.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-08T12:00:00Z'

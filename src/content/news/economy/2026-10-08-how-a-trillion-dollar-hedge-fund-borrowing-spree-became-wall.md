@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Banks’ trading businesses are booming, but post-crisis regulation means
   it is no longer them placing the bets
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-08T04:00:09Z'

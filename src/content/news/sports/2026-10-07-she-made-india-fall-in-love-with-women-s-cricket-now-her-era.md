@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The skipper who led India to the historic 2025 World Cup win has stepped
   down from her role in all three formats.
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-07T23:31:00Z'

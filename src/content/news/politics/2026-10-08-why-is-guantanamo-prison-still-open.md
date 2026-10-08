@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Guantanamo Bay opened after the US invasion of Afghanistan. 25 years
   later, the war is over, but the prison remains open
-displayOrder: 26
+displayOrder: 45
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-08T01:49:11Z'

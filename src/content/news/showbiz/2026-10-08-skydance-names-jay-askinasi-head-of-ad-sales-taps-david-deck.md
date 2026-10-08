@@ -5,7 +5,7 @@ countryCode: US
 description: 'David Ellison&#8217;s Skydance, formed from the merger of Paramount
   and Warner Bros. Discovery, continues to announce senior executives in the new company:
   On Thursday, the…'
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 65.8
 pubDate: '2026-10-08T15:01:06Z'

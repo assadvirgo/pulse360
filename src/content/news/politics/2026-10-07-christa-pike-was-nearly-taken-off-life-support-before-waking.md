@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Death row inmate who survived execution by lethal injection is said to
   be &#039;angry and confused&#039; about what happened.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-10-07T23:20:01Z'

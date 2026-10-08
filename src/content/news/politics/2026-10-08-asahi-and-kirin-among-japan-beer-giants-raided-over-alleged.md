@@ -4,7 +4,7 @@ country: Japan
 countryCode: JP
 description: Japan's Fair Trade Commission conducted searches of the country's largest
   beer-makers.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-08T00:53:46Z'

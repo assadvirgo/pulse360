@@ -2,7 +2,7 @@
 category: Economy
 description: Research on the gender differences in how people think about global warming
   suggests campaigns and communications may need a rethink
-displayOrder: 23
+displayOrder: 42
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-08T04:00:16Z'

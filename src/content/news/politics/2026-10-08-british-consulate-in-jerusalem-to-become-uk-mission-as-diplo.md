@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The UK government said it will retain its presence in East Jerusalem
   as Israel insisted the British consulate in the city had "ceased to function".
-displayOrder: 28
+displayOrder: 43
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-08T05:56:00Z'

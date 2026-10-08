@@ -5,7 +5,7 @@ countryCode: US
 description: Alongside its new collection of Alexa Tablets that run Android with full
   access to the Google Play store, Amazon is introducing kid versions with similar
   functionality but the…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-08T13:48:48Z'

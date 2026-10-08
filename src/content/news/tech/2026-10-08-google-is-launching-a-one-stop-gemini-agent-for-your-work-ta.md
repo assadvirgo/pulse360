@@ -5,7 +5,7 @@ countryCode: US
 description: Google is launching a "universal" Gemini AI agent that can work across
   apps and devices in the background. The tool, announced as part of the Gemini at
   Work event on Thursday,…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-08T14:28:03Z'

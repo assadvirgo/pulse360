@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Fears of a blow-up similar to the Eurozone debt crisis have been overdone,
   asset managers say
-displayOrder: 18
+displayOrder: 34
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-08T14:35:06Z'

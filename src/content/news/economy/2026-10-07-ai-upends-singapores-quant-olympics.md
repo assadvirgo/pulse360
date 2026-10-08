@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: Nigerian student Victor Ayebameru takes first place in competition that
   identifies future hedge fund stars
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-07T21:00:03Z'

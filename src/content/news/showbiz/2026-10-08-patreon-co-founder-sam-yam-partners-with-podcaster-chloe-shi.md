@@ -5,7 +5,7 @@ countryCode: US
 description: Patreon co-founder Sam Yam joined OpenAI last month to lead its creator
   initiative — and he&#8217;s already got his first project set up. Yam is partnering
   with podcast host Chloe…
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-08T02:33:52Z'

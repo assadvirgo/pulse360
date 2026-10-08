@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Thomas Giuffra is representing a woman, known in legal documents as Jane
   Doe, who alleges she was raped at a frat house on campus in 2024.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-08T00:46:36Z'

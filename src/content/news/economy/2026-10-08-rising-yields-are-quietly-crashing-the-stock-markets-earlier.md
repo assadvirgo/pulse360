@@ -5,7 +5,7 @@ countryCode: US
 description: Surging Treasury yields have begun to hammer parts of the stock market
   that might easily be overlooked, especially with the spotlight once again shining
   brightly on a small group…
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-08T12:32:00Z'

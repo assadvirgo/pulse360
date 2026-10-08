@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: At least 10 protesters were removed from a Trump rally in San Antonio
   as he was heckled during his speech.
-displayOrder: 29
+displayOrder: 44
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-08T04:30:57Z'

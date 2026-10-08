@@ -5,7 +5,7 @@ countryCode: US
 description: After resurrecting iconic consoles like the 2600 and Mattel's Intellivision,
   Atari is relaunching one of the brand's personal computers that originally debuted
   43 years ago. The…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-08T14:16:37Z'
