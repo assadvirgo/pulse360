@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Vitalii Zhykovych gives his own account of the attempted assassination
   of Ukrainian-born businessman Vadym Yermolayev.
-displayOrder: 6
+displayOrder: 27
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-08T23:11:10Z'

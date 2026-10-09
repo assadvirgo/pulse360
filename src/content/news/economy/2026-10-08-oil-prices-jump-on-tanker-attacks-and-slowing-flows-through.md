@@ -2,7 +2,7 @@
 category: Economy
 description: Transit via vital waterway rose close to 90% of prewar levels last month
   but has since fallen sharply
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-08T18:51:06Z'

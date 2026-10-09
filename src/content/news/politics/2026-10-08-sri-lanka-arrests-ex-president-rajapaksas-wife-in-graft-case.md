@@ -4,7 +4,7 @@ country: Sri Lanka
 countryCode: LK
 description: Sri Lanka’s former first lady Shiranthi Rajapaksa, wife of Mahinda Rajapaksa,
   has been arrested in a corruption case.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-08T12:02:29Z'

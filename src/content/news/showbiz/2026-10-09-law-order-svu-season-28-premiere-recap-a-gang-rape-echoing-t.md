@@ -5,7 +5,7 @@ countryCode: US
 description: '“Law &#38; Order: Special Victims Unit” is renowned for its ripped-from-the-headlines
   episodes. Who can forget the Trayvon Martin-Paula Deen crossover featuring Cybill
   Shepherd as…'
-displayOrder: 8
+displayOrder: 24
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-09T01:58:00Z'

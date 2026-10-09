@@ -2,7 +2,7 @@
 category: Politics
 description: An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood,
   killing several people, including children.
-displayOrder: 13
+displayOrder: 31
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-09T00:12:18Z'

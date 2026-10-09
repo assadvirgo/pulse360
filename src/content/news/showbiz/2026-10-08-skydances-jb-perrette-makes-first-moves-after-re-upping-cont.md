@@ -5,7 +5,7 @@ countryCode: US
 description: JB Perrette has moved quickly to put together the executives that will
   report to him at Skydance. Perrette, who is Co-Chair &#38; Chief Business Officer,
   Skydance TV and Co-Chair…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-08T20:06:21Z'

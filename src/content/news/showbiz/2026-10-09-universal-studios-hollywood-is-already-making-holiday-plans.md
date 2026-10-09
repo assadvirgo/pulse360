@@ -5,7 +5,7 @@ countryCode: US
 description: Halloween Horror Nights are still scaring visitors to Universal Studios
   Hollywood, but the park is already making holiday plans. Its annual holiday celebration
   will feature the…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-09T00:48:17Z'

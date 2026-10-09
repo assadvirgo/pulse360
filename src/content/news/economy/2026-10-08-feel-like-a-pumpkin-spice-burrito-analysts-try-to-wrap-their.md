@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starbucks investors would likely not be happy about the company adding
   debt to finance a deal to buy Chipotle, given that it already has a high debt load.
-displayOrder: 27
+displayOrder: 39
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-08T23:14:00Z'

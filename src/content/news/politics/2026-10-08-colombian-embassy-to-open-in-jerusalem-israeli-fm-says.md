@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Colombian President Abelardo De la Espriella had promised closer ties
   with Israel on the campaign trail.
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-08T18:07:06Z'

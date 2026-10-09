@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Police fired tear gas and water cannons as demonstrators gathered in
   Paris to demand more funding and teachers.
-displayOrder: 18
+displayOrder: 37
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-08T21:17:05Z'

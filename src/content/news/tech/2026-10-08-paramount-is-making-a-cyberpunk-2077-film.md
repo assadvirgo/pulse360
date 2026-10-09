@@ -5,7 +5,7 @@ countryCode: US
 description: Cyberpunk 2077 is heading to the big screen. Deadline reports that CD
   Projekt Red's popular sci-fi video game franchise is being adapted into a live-action
   film by Paramount…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-08T19:14:03Z'

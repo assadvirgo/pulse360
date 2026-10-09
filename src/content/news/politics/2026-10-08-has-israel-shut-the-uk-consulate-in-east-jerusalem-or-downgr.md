@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: British Foreign Secretary Miliband said the consulate building would
   remain but would be called &#039;UK Mission, Jerusalem&#039;.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-08T13:32:32Z'

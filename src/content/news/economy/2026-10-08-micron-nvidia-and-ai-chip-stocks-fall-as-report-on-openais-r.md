@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI’s annualized revenue reportedly fell short of expectations — but
   analysts say that reflects differences in how the figure is reported, not weakness
   in AI demand.
-displayOrder: 30
+displayOrder: 41
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-08T22:08:00Z'

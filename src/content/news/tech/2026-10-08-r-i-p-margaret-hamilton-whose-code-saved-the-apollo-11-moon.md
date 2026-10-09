@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Hamilton also coined the term "software engineering" and founded two
   successful software companies.
-displayOrder: 7
+displayOrder: 33
 heroImage: ''
 importance: 73.0
 pubDate: '2026-10-08T20:15:53Z'

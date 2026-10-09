@@ -5,7 +5,7 @@ countryCode: CA
 description: The Vancouver International Film Festival’s Institute for the Moving
   Image has announced a new partnership with Spain’s Málaga Film Festival to launch
   an exchange between their…
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-08T19:11:27Z'
