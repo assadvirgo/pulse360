@@ -5,7 +5,7 @@ countryCode: US
 description: Richard Bronson, a former Stratton Oakmont partner who served time in
   federal prison for securities violations, has launched Commissary Club, a startup
   that uses AI to help people…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-08T16:45:00Z'

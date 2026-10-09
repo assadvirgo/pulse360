@@ -5,7 +5,7 @@ countryCode: US
 description: Boston, are you ready?! TechCrunch Founder Summit 2026 is about to explode
   with energy — and the real magic kicks off with an epic lineup of Side Events lighting
   up the city from…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-08T14:00:00Z'

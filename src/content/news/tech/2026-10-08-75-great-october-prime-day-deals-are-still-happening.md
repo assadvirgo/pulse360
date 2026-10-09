@@ -3,7 +3,7 @@ category: Tech
 description: It’s always a little awkward when this many deals survive what was supposed
   to be the “end” of a big Amazon sale. Nevertheless, I’m happy to say that most of
   the sale’s…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-08T14:28:31Z'

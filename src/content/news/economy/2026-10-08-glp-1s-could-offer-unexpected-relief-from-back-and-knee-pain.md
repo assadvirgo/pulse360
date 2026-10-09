@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rapid weight loss can lead to issues with bone quality, particularly
   in older adults.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-08T12:30:00Z'

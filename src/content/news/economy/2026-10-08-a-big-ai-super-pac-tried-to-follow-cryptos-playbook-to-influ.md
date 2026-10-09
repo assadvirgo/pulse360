@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The political action committee says it’s “continuing to build a durable
   coalition that wants America to remain the global leader in AI development.”
-displayOrder: 25
+displayOrder: 35
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-08T20:44:00Z'

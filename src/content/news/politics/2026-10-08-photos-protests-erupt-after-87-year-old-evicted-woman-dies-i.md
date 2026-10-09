@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Nationwide outrage grows after the death of woman whose eviction sparked
   protests and political tensions.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-08T10:48:41Z'

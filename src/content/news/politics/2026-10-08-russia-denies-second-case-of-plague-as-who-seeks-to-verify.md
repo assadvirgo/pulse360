@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Russia has denied that a second case of an infectious disease has emerged
   where a woman who worked at a laboratory died last week.
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-08T11:27:00Z'

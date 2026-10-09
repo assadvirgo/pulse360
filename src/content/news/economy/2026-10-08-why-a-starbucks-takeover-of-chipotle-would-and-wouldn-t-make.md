@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Starbucks has reportedly been working with advisers on a takeover proposal
   for Chipotle, but a potential deal comes with pros and cons for investors.
-displayOrder: 29
+displayOrder: 37
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-08T20:12:33Z'

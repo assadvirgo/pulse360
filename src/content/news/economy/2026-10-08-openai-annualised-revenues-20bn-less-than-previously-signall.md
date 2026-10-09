@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI group recently told investors the critical figure was nearing $50bn
   in September, far less than the $70bn widely reported
-displayOrder: 28
+displayOrder: 36
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-08T20:15:57Z'

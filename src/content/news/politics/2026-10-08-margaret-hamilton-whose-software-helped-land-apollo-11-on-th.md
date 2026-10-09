@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pioneering computer scientist led the development of the software for
   Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 67.2
 pubDate: '2026-10-08T05:10:40Z'

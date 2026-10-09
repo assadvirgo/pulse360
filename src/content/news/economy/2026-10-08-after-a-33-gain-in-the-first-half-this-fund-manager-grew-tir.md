@@ -5,7 +5,7 @@ countryCode: US
 description: Bill Hench, of First Eagle, stepped away from the artificial-intelligence
   trade with small-capitalization bets on a recovery of the U.S. housing construction
   market.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-08T13:34:00Z'

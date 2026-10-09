@@ -2,7 +2,7 @@
 category: Politics
 description: The G7 plans to release emergency fuel stocks as diesel shortages raise
   transport costs and squeeze household budgets.
-displayOrder: 23
+displayOrder: 44
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-08T11:56:18Z'
