@@ -5,7 +5,7 @@ countryCode: US
 description: Four men detained at an ICE detention center in rural Georgia used the
   facility's video conferencing software to expose both the conditions inside and
   President Donald Trump's…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 72.2
 pubDate: '2026-10-08T19:45:00Z'

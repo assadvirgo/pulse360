@@ -5,7 +5,7 @@ countryCode: US
 description: After just under a year in her new role as president of Nintendo of America,
   Devon Pritchard is ready to share elements of her master plan for the beloved Japanese
   gaming company.…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-09T14:00:00Z'

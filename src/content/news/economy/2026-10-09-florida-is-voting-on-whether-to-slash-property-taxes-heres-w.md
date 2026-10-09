@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Amendment 3’s passage could add momentum to other states’ efforts to
   slash property taxes
-displayOrder: 20
+displayOrder: 42
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-09T14:28:00Z'

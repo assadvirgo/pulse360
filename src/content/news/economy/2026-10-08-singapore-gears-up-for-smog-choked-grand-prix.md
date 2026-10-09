@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: Hundreds of thousands of spectators are likely to endure the city-state’s
   worst air pollution in years
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-08T21:00:07Z'

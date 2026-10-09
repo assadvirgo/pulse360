@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian media reported massive explosions in the southern Strait of Hormuz,
   with Fars citing unnamed military sources.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-09T00:00:21Z'

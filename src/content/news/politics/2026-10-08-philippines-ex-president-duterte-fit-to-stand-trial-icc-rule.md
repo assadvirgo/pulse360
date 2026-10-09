@@ -4,7 +4,7 @@ country: Philippines
 countryCode: PH
 description: The former president is able to understand the charges and follow the
   proceedings, panel of experts find.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-08T19:06:08Z'

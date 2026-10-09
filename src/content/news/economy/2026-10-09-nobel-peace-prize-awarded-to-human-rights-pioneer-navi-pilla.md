@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Prize given to South African human rights lawyer for her efforts to promote
   peace and international law
-displayOrder: 16
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-09T13:09:08Z'

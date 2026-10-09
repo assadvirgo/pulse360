@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: “The birth-rate crisis is really an affordability crisis.”
-displayOrder: 21
+displayOrder: 43
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-09T14:30:00Z'

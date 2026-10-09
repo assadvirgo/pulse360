@@ -2,7 +2,7 @@
 category: Politics
 description: International Court of Justice judge Navi Pillay has been awarded this
   year’s Nobel Peace Prize.
-displayOrder: 15
+displayOrder: 39
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-09T09:28:18Z'

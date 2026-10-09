@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Nvidia-backed Firmus abandons plan to list in Sydney, blaming ‘recent
   market volatility and prevailing market conditions’
-displayOrder: 32
+displayOrder: 48
 heroImage: ''
 importance: 40.5
 pubDate: '2026-10-09T03:11:08Z'

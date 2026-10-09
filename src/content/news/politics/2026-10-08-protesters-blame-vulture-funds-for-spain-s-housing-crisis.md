@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Hundreds have pitched their tents in central Madrid, while the Spanish
   prime minister has called a snap election.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 83.2
 pubDate: '2026-10-08T19:10:06Z'

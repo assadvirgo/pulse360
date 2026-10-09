@@ -5,7 +5,7 @@ countryCode: US
 description: Nearly a decade after his death, Hugh Hefner&#8217;s widow is expressing
   her disapproval of a coming-of-age story inspired by her late husband. Crystal Hefner,
   who was married to…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-09T03:23:46Z'

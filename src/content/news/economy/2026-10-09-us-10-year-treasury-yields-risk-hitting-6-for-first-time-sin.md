@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bond giant’s investment chief warns that further sharp rise in borrowing
   costs is ‘feasible’ as market participants are forced to unwind losing bets
-displayOrder: 26
+displayOrder: 45
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-09T04:00:31Z'

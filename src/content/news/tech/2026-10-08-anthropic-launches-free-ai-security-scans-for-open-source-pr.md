@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic's offering to help open-source projects track down security
   vulnerabilities with a new service called OSS Scanner. It says open-source projects
   that opt-in will get…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-08T21:53:51Z'
