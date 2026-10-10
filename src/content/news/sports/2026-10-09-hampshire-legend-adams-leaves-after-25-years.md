@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Hampshire club legend Jimmy Adams leaves the county after more than 25
   years as a player and coach.
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-09T15:24:25Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US midterm election campaign has been filled with political ads featuring
   AI deepfakes that can mislead voters.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-09T18:23:43Z'

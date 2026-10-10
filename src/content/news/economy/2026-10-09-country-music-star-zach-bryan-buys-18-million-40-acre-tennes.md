@@ -5,7 +5,7 @@ countryCode: US
 description: Country star Zach Bryan has reportedly forked over $18.25 million for
   a sprawling estate in Franklin, Tenn.—months after tying the knot with Samantha
   Leonard.
-displayOrder: 36
+displayOrder: 39
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-09T19:48:00Z'

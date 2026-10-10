@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pact between Washington and Moscow comes just weeks before critical midterm
   elections in the US
-displayOrder: 39
+displayOrder: 41
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-09T19:31:36Z'

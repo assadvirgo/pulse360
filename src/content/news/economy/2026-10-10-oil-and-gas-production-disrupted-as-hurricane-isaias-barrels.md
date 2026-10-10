@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: First major Atlantic storm of the season threatens Florida, Alabama,
   Georgia and Mississippi
-displayOrder: 5
+displayOrder: 18
 heroImage: ''
 importance: 56.5
 pubDate: '2026-10-10T03:37:15Z'

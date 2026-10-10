@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A US charity announced it will use an AI-software to monitor Gaza classrooms
   for ‘anti-Semitism’ and ‘hate speech’.
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-09T17:37:05Z'

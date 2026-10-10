@@ -2,7 +2,7 @@
 category: Politics
 description: BBC correspondent Joe Inwood explains how Pillay's childhood in South
   Africa led her to become a driving force in international law from Myanmar to Gaza.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-09T15:26:33Z'

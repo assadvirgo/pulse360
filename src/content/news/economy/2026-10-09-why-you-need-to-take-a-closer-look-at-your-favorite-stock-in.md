@@ -2,7 +2,7 @@
 category: Economy
 description: 'Also in Weekend Reads: A positive case for the bond market, how prediction
   markets can pull you in, and a warning to those who benefit from GLP-1s.'
-displayOrder: 33
+displayOrder: 40
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-09T18:04:00Z'

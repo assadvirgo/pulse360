@@ -5,7 +5,7 @@ countryCode: US
 description: Danny Trejo has issued his first statement since facing backlash for
   starring in the pro-ICE Daily Wire movie &#8220;Pawn Shop&#8221; from Ben Shapiro&#8217;s
   production company.…
-displayOrder: 8
+displayOrder: 23
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-10T00:36:12Z'

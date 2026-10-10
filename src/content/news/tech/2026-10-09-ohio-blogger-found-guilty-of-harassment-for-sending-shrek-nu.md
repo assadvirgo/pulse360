@@ -5,7 +5,7 @@ countryCode: US
 description: A jury found an Ohio political blogger guilty of telecommunications harassment
   after he sent an explicit image of Shrek to a Republican state senator. On Friday,
   a judge ordered…
-displayOrder: 16
+displayOrder: 30
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-09T19:41:11Z'

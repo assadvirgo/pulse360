@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Move triggers alarm in Mexico City, where domestic control of sensitive
   sector is part of modern political identity
-displayOrder: 43
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-09T17:29:29Z'

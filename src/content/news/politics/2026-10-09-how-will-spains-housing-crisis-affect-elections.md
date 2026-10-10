@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Snap vote called after Parliament rejects measures to protect tenants
   and freeze rents.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-09T20:39:11Z'

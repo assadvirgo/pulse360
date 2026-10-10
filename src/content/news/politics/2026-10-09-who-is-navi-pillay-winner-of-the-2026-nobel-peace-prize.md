@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: The 85-year-old South African judge has spent decades fighting apartheid
   and genocide.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 66.5
 pubDate: '2026-10-09T14:02:58Z'

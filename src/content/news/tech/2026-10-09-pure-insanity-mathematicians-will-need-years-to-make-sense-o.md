@@ -5,7 +5,7 @@ countryCode: US
 description: '"Staggering." "Overwhelming." "Unprecedented." "Surreal." "Pure insanity."
   Those were among the descriptions more than three dozen mathematicians reached for
   in conversations with…'
-displayOrder: 22
+displayOrder: 32
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-09T19:09:44Z'

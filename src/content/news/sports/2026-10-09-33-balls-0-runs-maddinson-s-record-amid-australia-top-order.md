@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Opener Nic Maddinson makes the longest duck by a Test opener this century
   as Australia's top order struggles on his return against South Africa.
-displayOrder: 38
+displayOrder: 46
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-09T14:22:50Z'

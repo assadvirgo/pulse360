@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A federal judge ruled against the Justice Department&#039;s use of voter
   data to cross-reference an immigration database.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-09T21:29:01Z'

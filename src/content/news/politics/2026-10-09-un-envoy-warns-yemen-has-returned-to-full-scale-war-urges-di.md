@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Saudi Arabia and Yemen&#039;s internationally recognised gov&#039;t urge
   UN Security Council action amid Houthi escalation.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-09T20:56:01Z'

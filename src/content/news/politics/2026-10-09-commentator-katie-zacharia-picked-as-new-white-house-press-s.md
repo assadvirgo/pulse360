@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The conservative commentator currently works as a communications adviser
   at Trump Media & Technology Group.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-09T19:58:27Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Facebook whistleblower Frances Haugen was mostly unfazed watching Oscar-winning
   actress Mikey Madison play a character named after her in The Social Reckoning,
   except for one…
-displayOrder: 20
+displayOrder: 34
 heroImage: ''
 importance: 68.2
 pubDate: '2026-10-09T16:50:40Z'

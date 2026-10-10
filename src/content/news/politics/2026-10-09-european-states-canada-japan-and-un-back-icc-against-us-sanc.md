@@ -2,7 +2,7 @@
 category: Politics
 description: Several US allies call to &#039;defend&#039; and &#039;protect&#039;
   the ICC following Washington&#039;s decision to sanction the judiciary body.
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 70.5
 pubDate: '2026-10-09T19:32:13Z'

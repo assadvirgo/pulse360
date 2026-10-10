@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Telecommunications stocks were seeing their worst daily drops in over
   a decade.
-displayOrder: 40
+displayOrder: 43
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-09T18:16:00Z'

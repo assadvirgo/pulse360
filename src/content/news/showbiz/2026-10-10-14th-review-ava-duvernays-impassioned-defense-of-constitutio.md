@@ -5,7 +5,7 @@ countryCode: US
 description: 14th, the documentary directed by Ava DuVernay that premiered Friday
   night as the closing-night film of the New York Film Festival, begins with several
   American presidents taking…
-displayOrder: 9
+displayOrder: 24
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-10T01:00:00Z'

@@ -4,7 +4,7 @@ country: Panama
 countryCode: PA
 description: Panama’s president has declared a major disaster after two earthquakes
   struck the country’s south.
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-10T00:53:15Z'

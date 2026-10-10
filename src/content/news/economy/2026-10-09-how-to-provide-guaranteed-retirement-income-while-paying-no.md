@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Unlike the stock market, whose future returns are anything but assured,
   a TIPS ladder’s payout is guaranteed.
-displayOrder: 24
+displayOrder: 31
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-09T22:41:00Z'

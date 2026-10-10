@@ -5,7 +5,7 @@ countryCode: US
 description: Danny Trejo has broken his silence amid backlash around his role in Daily
   Wire&#8217;s latest controversial production, Pawn Shop. On Friday, the LA-born
   Mexican-American actor…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-10-10T01:02:52Z'

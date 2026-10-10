@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Several trains to Delhi have been cancelled and dozens of metro stations
   are shut to stop protesters from gathering.
-displayOrder: 7
+displayOrder: 19
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-10T03:29:50Z'
