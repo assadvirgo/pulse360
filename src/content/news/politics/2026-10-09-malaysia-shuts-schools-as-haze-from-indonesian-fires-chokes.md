@@ -4,7 +4,7 @@ country: Malaysia
 countryCode: MY
 description: Kuala Lumpur&#039;s Air Pollutant Index says air quality at unhealthy
   levels amid smog from forest fires.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-09T12:53:01Z'

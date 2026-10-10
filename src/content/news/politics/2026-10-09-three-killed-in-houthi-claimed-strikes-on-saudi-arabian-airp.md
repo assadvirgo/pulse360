@@ -5,7 +5,7 @@ countryCode: SA
 description: Three Saudi citizens, including an airline pilot, were killed in attacks
   on Riyadh's King Khalid International Airport, the country's civil aviation authority
   said.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-09T11:07:00Z'

@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: Navanethem "Navi" Pillay, a South African jurist and former UN high commissioner
   for human rights, has been awarded the 2026 Nobel Peace Prize.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-10-09T09:01:00Z'

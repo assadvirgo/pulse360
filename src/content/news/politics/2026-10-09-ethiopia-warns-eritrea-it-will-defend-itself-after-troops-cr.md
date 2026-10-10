@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: Truckloads of Eritrean soldiers have been seen driving into Ethiopia,
   which has reportedly responded with drone strikes.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-09T13:31:07Z'

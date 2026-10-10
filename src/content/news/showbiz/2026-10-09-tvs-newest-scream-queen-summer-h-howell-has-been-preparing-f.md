@@ -5,7 +5,7 @@ countryCode: US
 description: 'The young actress has been working in the horror space for over a decade.
   Now, at 22, she''s stepping into one of the genre''s most iconic roles: "The first
   thing my mom said to me…'
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-09T14:45:00Z'

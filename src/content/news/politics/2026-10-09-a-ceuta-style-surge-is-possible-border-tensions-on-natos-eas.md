@@ -4,7 +4,7 @@ country: Latvia
 countryCode: LV
 description: Belarus-linked incidents trouble Latvia and Lithuania, where experts
   warn of security challenges.
-displayOrder: 13
+displayOrder: 25
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-09T16:33:26Z'

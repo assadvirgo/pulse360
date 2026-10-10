@@ -3,7 +3,7 @@ category: Tech
 description: 'Before there were cute little guys, there was Instinct. In August, the
   startup got its AI agent to market with an unusual playbook: invite-only, no marketing,
   and barely so much…'
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-09T14:00:00Z'

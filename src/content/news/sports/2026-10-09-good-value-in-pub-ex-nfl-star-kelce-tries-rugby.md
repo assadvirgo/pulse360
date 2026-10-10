@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur
   London rugby players by showing up for a practice game.
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-09T13:40:57Z'

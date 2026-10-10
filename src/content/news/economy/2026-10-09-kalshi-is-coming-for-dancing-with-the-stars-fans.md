@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: What to know before buying event contracts around your favorite reality
   shows and entertainers.
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-09T14:34:00Z'

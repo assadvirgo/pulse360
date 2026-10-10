@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Manipulated images are filling the airwaves in the run-up to November’s
   midterm elections
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-09T04:00:12Z'

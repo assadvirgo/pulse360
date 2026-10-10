@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Oscar Bergal, the 28-year-old man, survived the shooting and is now being
   held at a detention facility outside of New York, officials said.
-displayOrder: 14
+displayOrder: 26
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-09T17:36:09Z'

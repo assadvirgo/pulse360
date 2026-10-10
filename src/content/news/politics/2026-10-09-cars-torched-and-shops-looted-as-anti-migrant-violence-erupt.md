@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: South Africa has experienced recurrent outbreaks of violence, often targeting
   migrants from neighbouring countries.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-09T08:28:57Z'

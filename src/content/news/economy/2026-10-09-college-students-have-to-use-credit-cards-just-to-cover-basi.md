@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Nearly 9 out of every 10 students who use credit cards report doing so
   to pay for basic living expenses such as food, housing and gas.
-displayOrder: 41
+displayOrder: 49
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-09T14:33:00Z'

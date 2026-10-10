@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: New Delhi accused of silencing dissent as satirical content and online
   critiques are removed under new rules.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-09T12:37:49Z'

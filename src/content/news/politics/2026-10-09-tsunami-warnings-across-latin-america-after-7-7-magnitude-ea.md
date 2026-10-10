@@ -2,7 +2,7 @@
 category: Politics
 description: Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile
   have received warnings after the quake.
-displayOrder: 2
+displayOrder: 3
 heroImage: ''
 importance: 83.5
 pubDate: '2026-10-09T19:22:56Z'

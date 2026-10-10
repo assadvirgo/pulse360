@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump announced that Katie Zacharia, a conservative
   commentator who has regularly appeared on Fox News and Newsmax, to be the new White
   House press secretary. She…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 67.8
 pubDate: '2026-10-09T20:12:21Z'
