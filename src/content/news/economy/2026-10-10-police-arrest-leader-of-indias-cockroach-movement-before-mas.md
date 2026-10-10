@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Abhijeet Dipke was escorted off a flight as authorities crack down on
   demonstrations in New Delhi
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-10T09:19:07Z'

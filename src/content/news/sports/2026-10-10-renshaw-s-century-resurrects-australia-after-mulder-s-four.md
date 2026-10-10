@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Renshaw went to lunch 102 not out to help Australia to 277 for 8 after
   Wiaan Mulder claimed four wickets to end Cummins' stubborn resistance
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-10T10:15:54Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Former students launched their own investigation, spending years collecting
   evidence and testimonies from others who say they were abused by the headteacher.
-displayOrder: 6
+displayOrder: 20
 heroImage: ''
 importance: 69.2
 pubDate: '2026-10-10T12:28:51Z'

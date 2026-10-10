@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Indian police crackdown appears to have prevented mass protests against
   the country&#039;s election chief from taking place.
-displayOrder: 4
+displayOrder: 18
 heroImage: ''
 importance: 71.5
 pubDate: '2026-10-10T12:50:34Z'

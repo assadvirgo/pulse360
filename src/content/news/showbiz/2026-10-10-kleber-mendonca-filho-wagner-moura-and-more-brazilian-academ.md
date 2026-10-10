@@ -5,7 +5,7 @@ countryCode: BR
 description: Several Brazilian members of the Academy of Motion Picture Arts and Sciences,
   including Oscar nominees Kleber Mendonça Filho, Wagner Moura, Emilie Lesclaux, Fernando
   Meirelles,…
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 64.8
 pubDate: '2026-10-10T14:25:59Z'

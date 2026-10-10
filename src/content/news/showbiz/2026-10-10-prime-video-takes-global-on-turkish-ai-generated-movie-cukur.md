@@ -5,7 +5,7 @@ countryCode: TR
 description: 'Prime Video has taken global rights to Turkish TV powerhouse Ay Yapim’s
   AI movie &#8220;Çukur: Vartolu,&#8221; a spin-off from its hit series “Çukur,” known
   internationally as…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-10T13:25:21Z'

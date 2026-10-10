@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Authorities called Anthropic&#039;s two-month delay in detecting and
   reporting the incident &#039;unacceptable&#039;.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-10T04:54:59Z'

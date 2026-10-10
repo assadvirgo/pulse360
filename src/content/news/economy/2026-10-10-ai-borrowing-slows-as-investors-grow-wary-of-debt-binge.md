@@ -2,7 +2,7 @@
 category: Economy
 description: Appetite for financing infrastructure boom is tested after months of
   record-breaking bond issuance
-displayOrder: 26
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-10T11:00:07Z'

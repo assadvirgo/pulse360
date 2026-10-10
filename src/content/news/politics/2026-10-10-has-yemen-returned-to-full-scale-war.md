@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Fighting is intensifying between Yemeni government forces and Houthi
   rebel group.
-displayOrder: 14
+displayOrder: 28
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-10T14:10:24Z'

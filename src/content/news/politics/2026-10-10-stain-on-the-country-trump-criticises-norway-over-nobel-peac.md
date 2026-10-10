@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president told a rally he had "never heard of" the winner, former
   International Criminal Court judge Navi Pillay.
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-10T04:07:11Z'

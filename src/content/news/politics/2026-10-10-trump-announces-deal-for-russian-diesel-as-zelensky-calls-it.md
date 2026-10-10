@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ukraine's president sharply criticised the move, calling it an "investment
   in war that must be ended, not prolonged".
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 79.2
 pubDate: '2026-10-10T14:24:14Z'

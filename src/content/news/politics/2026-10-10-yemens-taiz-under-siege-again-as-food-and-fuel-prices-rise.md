@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Houthi advances and the closure of vital roads into Taiz have triggered
   shortages, reviving memories of earlier siege.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-10T06:20:53Z'
