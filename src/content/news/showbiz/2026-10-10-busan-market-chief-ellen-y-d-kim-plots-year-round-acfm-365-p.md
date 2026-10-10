@@ -5,7 +5,7 @@ countryCode: KR
 description: The Asian Contents &#38; Film Market (ACFM) should grow beyond its four
   days in Busan into a platform that runs all year, director Ellen Y.D. Kim tells
   Variety. She adds that…
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-10T09:38:32Z'

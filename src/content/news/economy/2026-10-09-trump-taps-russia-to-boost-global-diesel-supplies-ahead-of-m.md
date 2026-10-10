@@ -5,7 +5,7 @@ countryCode: US
 description: The Trump administration has enlisted Russia to help boost U.S. and global
   diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm
   elections in…
-displayOrder: 44
+displayOrder: 48
 heroImage: ''
 importance: 31.5
 pubDate: '2026-10-09T22:00:00Z'

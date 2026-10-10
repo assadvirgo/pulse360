@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Tech is driving the economy, and investments are flowing in. But food
   costs are rising and debt is growing.
-displayOrder: 14
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-10T05:28:33Z'

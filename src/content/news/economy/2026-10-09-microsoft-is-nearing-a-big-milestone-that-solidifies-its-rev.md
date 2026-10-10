@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Microsoft is close to reclaiming a $4 trillion market cap — and fresh
   records are also in sight.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-09T21:24:00Z'

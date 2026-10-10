@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine bombed a Russian fuel site, hours after US President Trump and
   Russian President Putin announced a diesel deal.
-displayOrder: 9
+displayOrder: 25
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-10T04:30:34Z'

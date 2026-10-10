@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: The industry is reeling from the energy shock unleashed by the Iran war
-displayOrder: 36
+displayOrder: 46
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-09T20:00:01Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The US president hopes to ease his party's pain before next month's midterm
   elections, writes the BBC's North America correspondent.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-09T22:30:22Z'

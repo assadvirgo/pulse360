@@ -5,7 +5,7 @@ countryCode: KR
 description: Kimball Thurston, Weta FX’s chief technology officer, Korean filmmaker
   Kang Yun-sung and Netflix’s APAC Senior Director, Production, Sung Q Lee, discussed
   the advantages and…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-10T10:04:57Z'

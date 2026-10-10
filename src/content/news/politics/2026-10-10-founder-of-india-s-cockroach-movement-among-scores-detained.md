@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The leaders of India's "Cockroach" movement have been detained by police,
   along with scores of protesters, in a major crackdown to stop a mass demonstration.
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-10T06:57:00Z'
