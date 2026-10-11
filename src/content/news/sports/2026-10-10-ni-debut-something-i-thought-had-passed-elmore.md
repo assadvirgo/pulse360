@@ -5,7 +5,7 @@ countryCode: GB
 description: Northern Ireland's World Cup hopes may have all but come to an end against
   Portugal, but for Kess Elmore the 4-0 defeat marks the start of a long-awaited international
   journey.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-10-10T09:19:45Z'

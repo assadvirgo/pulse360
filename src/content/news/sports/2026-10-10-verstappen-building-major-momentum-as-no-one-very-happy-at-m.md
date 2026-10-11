@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Max Verstappen's revival might not be a serious issue for Kimi Antonelli
   but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.
-displayOrder: 29
+displayOrder: 34
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-10T17:46:36Z'

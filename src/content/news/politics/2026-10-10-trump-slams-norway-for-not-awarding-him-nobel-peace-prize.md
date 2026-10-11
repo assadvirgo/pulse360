@@ -3,7 +3,7 @@ category: Politics
 country: Norway
 countryCode: 'NO'
 description: Trump slams Norway for not awarding him Nobel Peace Prize
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-10T06:47:10Z'

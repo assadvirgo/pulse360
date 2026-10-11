@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester
   United in the Premier League.
-displayOrder: 15
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-10T19:47:10Z'

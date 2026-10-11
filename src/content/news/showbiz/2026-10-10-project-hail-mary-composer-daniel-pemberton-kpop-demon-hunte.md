@@ -5,7 +5,7 @@ countryCode: BE
 description: Daniel Pemberton was named Film Composer of the Year at the World Soundtrack
   Awards on Saturday, capping a prolific run that includes “Project Hail Mary,” “The
   Drama,” “The Bad…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-10T20:40:00Z'

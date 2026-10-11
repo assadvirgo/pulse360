@@ -5,7 +5,7 @@ countryCode: AU
 description: '"Tenzing" earns its inspirational fervor, but the reason it fits into
   the new wave of mountain-climbing movies is that the director, Jennifer Peedom,
   an Australian who’s been…'
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-10T19:52:45Z'

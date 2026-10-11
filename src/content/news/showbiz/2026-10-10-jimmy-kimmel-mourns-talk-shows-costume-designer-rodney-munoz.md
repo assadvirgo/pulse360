@@ -5,7 +5,7 @@ countryCode: US
 description: The Jimmy Kimmel Live family is mourning the death of costume designer
   Rodney Muñoz at age 60. On Friday, the talk show host paid tribute to the late Emmy
   winner who designed…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-10T21:56:18Z'

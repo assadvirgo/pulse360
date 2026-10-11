@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Barcelona make it six wins from six with a 3-0 win against Getafe as
   Anthony Gordon scores his first goal for club.
-displayOrder: 22
+displayOrder: 27
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-10T19:26:22Z'

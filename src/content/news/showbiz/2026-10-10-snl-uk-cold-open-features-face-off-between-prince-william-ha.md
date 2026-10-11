@@ -5,7 +5,7 @@ countryCode: GB
 description: The warring Windsors took center stage in the SNL UK cold open. It was
   Prince William (Freddie Meredith) and Kate Middleton (Annabel Marlow) vs Prince
   Harry (Jack Shep) and Meghan…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-10T21:35:42Z'

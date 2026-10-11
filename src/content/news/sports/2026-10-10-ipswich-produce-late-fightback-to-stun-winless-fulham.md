@@ -5,7 +5,7 @@ countryCode: GB
 description: Two goals in three minutes sees Ipswich produce a late fightback to snatch
   a 2-1 victory against Fulham at Portman Road, with the away side still searching
   for their first Premier…
-displayOrder: 24
+displayOrder: 28
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-10T19:00:14Z'

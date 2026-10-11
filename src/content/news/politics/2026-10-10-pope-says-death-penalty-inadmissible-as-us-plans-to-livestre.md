@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability
   and dignity of the person&#039; in post on X.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-10T17:38:18Z'

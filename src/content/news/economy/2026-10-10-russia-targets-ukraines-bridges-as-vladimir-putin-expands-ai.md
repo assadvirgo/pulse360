@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia
   over the past week
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-10T04:00:38Z'

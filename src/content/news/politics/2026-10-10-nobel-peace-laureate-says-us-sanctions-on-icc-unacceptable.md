@@ -2,7 +2,7 @@
 category: Politics
 description: Navi Pillay says the Trump administrations' sweeping penalties on the
   international tribunal were "unheard of".
-displayOrder: 8
+displayOrder: 17
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-10T15:23:47Z'

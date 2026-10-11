@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Rise in energy costs due to US-Israel war on Iran has put downward pressure
   on the currency of the world’s fastest-growing major economy
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-10T11:57:36Z'

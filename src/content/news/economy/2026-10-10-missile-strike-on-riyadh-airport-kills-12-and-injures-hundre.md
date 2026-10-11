@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed
   Houthi rebels
-displayOrder: 14
+displayOrder: 19
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-10T22:18:05Z'
