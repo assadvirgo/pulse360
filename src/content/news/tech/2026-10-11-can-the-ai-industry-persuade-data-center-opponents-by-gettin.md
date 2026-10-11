@@ -2,7 +2,7 @@
 category: Tech
 description: On Equity, we debate the impact of data center moratoriums and whether
   the AI industry has a communication problem.
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-11T16:52:33Z'

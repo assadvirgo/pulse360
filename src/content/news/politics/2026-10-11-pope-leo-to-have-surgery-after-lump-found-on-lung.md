@@ -4,7 +4,7 @@ country: Italy
 countryCode: IT
 description: The 71-year-old pontiff said the nodule was identified "at a very early
   stage".
-displayOrder: 8
+displayOrder: 25
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-11T13:38:55Z'

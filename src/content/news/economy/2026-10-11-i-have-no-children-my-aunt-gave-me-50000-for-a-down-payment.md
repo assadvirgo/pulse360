@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “The house cost $385,000. With my savings, her $50,000 and a small mortgage,
   I was able to close.”
-displayOrder: 34
+displayOrder: 43
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-11T12:00:00Z'

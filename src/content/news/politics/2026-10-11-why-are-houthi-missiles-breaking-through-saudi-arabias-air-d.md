@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Repeated Houthi attacks on Saudi Arabia&#039;s King Khalid Airport reveal
   the limitations of even high-tech air defences.
-displayOrder: 15
+displayOrder: 29
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-11T14:25:03Z'

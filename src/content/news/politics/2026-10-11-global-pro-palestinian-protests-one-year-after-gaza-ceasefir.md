@@ -2,7 +2,7 @@
 category: Politics
 description: Pro-Palestinian demonstrations have been held worldwide to mark one year
   since the so-called Gaza ‘ceasefire&#039;.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-11T01:11:10Z'

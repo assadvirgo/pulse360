@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Mounting interest payments restrict headroom to revive domestic demand,
   say experts
-displayOrder: 40
+displayOrder: 49
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-11T04:00:06Z'

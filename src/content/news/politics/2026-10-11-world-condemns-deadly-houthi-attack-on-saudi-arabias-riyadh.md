@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Trump condemns &#039;terrible&#039; attack and says the US is evaluating
   whether to join Saudi Arabia&#039;s attacks on the Houthis.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-11T02:12:07Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless.
   Action is needed to protect the court.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-11T15:15:35Z'

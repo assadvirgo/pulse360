@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Voters increasingly doubt the president’s ability to steer the economy
   with weeks to go until elections
-displayOrder: 33
+displayOrder: 47
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-11T04:00:06Z'

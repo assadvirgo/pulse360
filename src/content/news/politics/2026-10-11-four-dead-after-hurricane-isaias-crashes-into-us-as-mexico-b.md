@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Four people have died after Hurricane Isaias smashed into the US Gulf
   Coast.
-displayOrder: 17
+displayOrder: 34
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-11T10:13:00Z'

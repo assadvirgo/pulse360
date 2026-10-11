@@ -2,7 +2,7 @@
 category: Tech
 description: Voice AI's often misses important points for its context layer, and causes
   the whole pipeline to break
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-11T14:00:00Z'

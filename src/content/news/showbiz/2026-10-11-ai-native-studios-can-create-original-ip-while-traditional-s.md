@@ -5,7 +5,7 @@ countryCode: KR
 description: Small, AI-native companies running automated pipelines can develop their
   own intellectual property, while traditional studios hold on to their advantages
   in established…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-11T10:33:16Z'

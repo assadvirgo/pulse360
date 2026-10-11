@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: It is the third time this week that Ukraine has targeted Russian tech
   giant Yandex, forcing the company to suspend its operations.
-displayOrder: 7
+displayOrder: 22
 heroImage: ''
 importance: 57.2
 pubDate: '2026-10-11T14:38:10Z'

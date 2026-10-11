@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Doran finished 84 not out, Hope 53 not out after Ward made 83 as Tasmania
   drew with NSW despite Abbott's 4 four wickets
-displayOrder: 35
+displayOrder: 46
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-11T06:43:55Z'

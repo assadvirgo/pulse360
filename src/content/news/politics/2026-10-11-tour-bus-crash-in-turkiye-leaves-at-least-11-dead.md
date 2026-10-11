@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: At least eleven people have been killed and 27 injured after a tour bus
   collided with a truck near a motorway entrance
-displayOrder: 9
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-11T15:52:29Z'

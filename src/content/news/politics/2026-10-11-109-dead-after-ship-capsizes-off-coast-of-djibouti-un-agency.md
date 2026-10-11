@@ -4,7 +4,7 @@ country: Djibouti
 countryCode: DJ
 description: A ship has capsized off the coast of Djibouti, leaving 109 migrants dead
   and more than 116 missing, a United Nations agency has reported.
-displayOrder: 24
+displayOrder: 41
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-11T10:08:00Z'

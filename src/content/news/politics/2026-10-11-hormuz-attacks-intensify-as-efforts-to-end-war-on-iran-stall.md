@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: IRGC warns against ignoring waterway&#039;s &#039;security and rules&#039;
   as CENTCOM says US disabled vessel trying to run blockade.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-11T14:04:32Z'

@@ -3,7 +3,7 @@ category: Tech
 country: United States
 countryCode: US
 description: Richualist is one of TechCrunch's Battlefield 200 Companies!
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-11T16:00:00Z'
