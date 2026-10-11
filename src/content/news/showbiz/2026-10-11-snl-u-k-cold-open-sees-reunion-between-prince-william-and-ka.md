@@ -5,7 +5,7 @@ countryCode: GB
 description: '&#8220;SNL U.K.&#8221; once again skewered the royal family in this
   week&#8217;s cold open, showing a contentious reunion between Prince William and
   Kate and Prince Harry and…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-11T09:13:04Z'

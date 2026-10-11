@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: August Hanning is accused of having illegally purchased state secrets
   for over a decade
-displayOrder: 39
+displayOrder: 47
 heroImage: ''
 importance: 25.5
 pubDate: '2026-10-11T04:00:15Z'

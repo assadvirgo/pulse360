@@ -2,7 +2,7 @@
 category: Politics
 description: Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks
   on Gaza &#039;ceasefire&#039; anniversary.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-10-10T18:26:13Z'

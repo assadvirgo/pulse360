@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Double Olympic champion Eliud Kipchoge says "his body is still peaking"
   after winning the Melbourne Marathon in a course record time at the age of 41.
-displayOrder: 13
+displayOrder: 32
 heroImage: ''
 importance: 46.2
 pubDate: '2026-10-11T08:19:52Z'

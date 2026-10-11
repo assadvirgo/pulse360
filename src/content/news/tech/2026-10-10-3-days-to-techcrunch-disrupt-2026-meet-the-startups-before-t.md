@@ -5,7 +5,7 @@ countryCode: US
 description: TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over
   300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers
   are ready to share…
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-10T15:00:00Z'

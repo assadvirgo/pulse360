@@ -5,7 +5,7 @@ countryCode: KR
 description: 'Kim Sung-soo, director of Korean box office hit “12.12: The Day,” once
   saw AI as a destroyer of the film industry. Speaking Sunday at a session hosted
   by Kling AI at the Busan…'
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-11T10:18:24Z'

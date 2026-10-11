@@ -2,7 +2,7 @@
 category: Politics
 description: Malicious use of AI and nuclear conflict pose the biggest threat to human
   extinction by the year 2100, global experts have warned.
-displayOrder: 2
+displayOrder: 19
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-11T07:54:00Z'

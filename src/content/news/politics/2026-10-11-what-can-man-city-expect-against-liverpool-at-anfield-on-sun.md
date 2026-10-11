@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Man City face Liverpool in their first game since being found guilty
   of serious EPL financial breaches.
-displayOrder: 3
+displayOrder: 23
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-11T08:46:10Z'

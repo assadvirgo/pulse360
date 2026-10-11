@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Musk’s trillioniare status means he’s wealthier than his next three contemporaries
   combined — and also worth more than historical tycoons like John D. Rockefeller.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-10T16:50:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine's leader had said the deal with Russia to release diesel into
   the US would help Moscow fund the war.
-displayOrder: 7
+displayOrder: 31
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-11T01:41:29Z'

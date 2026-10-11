@@ -5,7 +5,7 @@ countryCode: FR
 description: Reports have been mounting that users of the Ledger crypto wallet have
   seen their accounts drained, and suspicion is that it's related to reseller CryptoBillis
   and a bit of spy…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-10-10T16:36:44Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: After 501 runs were scored in Ranchi in just 38.3 overs, the two teams
   will be put to the sword in another batting paradise
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-10T16:43:39Z'

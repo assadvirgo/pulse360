@@ -5,7 +5,7 @@ countryCode: JP
 description: Japan&#8217;s Dwarf Studios is looking for a new partner for “Hidari,”
   the stop-motion samurai film voiced by Keanu Reeves, after talks with a U.S. company
   that offered to fund…
-displayOrder: 1
+displayOrder: 16
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-11T10:10:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Roofs were ripped off buildings after Isaias barrelled into the US on
   Friday evening, before it weakened to a post-tropical cyclone.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-10T22:02:07Z'

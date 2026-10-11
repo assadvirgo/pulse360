@@ -2,7 +2,7 @@
 category: Economy
 description: Millions are turning to chatbots for help with mental health but a technology
   that can’t go beyond words won’t heal them
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-11T04:00:16Z'

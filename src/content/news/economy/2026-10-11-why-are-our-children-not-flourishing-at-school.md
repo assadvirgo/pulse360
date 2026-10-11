@@ -2,7 +2,7 @@
 category: Economy
 description: AI is detonating the tired system of factory education that has predominated
   since the last century
-displayOrder: 37
+displayOrder: 44
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-11T04:00:06Z'

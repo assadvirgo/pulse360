@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The WHO says the lack of a confirmed diagnosis remains a key uncertainty,
   with no sign of ongoing transmission.
-displayOrder: 18
+displayOrder: 39
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-10T22:34:29Z'

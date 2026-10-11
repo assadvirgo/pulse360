@@ -5,7 +5,7 @@ countryCode: TW
 description: Taiwanese director Lee Yun Chan has returned to feature filmmaking after
   two decades away with “To Be Ordinary,” the only Taiwanese film in competition at
   the Busan International…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-11T07:49:52Z'

@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: A desperate junta is in a war of attrition against ethnic militias and
   and civilian resistance.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-10T22:13:08Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Donald Trump’s administration hopes the company will rival cheap Chinese
   alternatives such as DeepSeek
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-10T18:14:28Z'
