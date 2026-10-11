@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Parental controls aren’t just for kids anymore
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-10-10T19:44:00Z'

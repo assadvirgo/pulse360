@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Unlike higher gas prices, which hurt almost everyone, higher borrowing
   costs have an uneven impact.
-displayOrder: 37
+displayOrder: 42
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-10T19:44:00Z'

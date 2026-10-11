@@ -5,7 +5,7 @@ countryCode: US
 description: 'Johnny is back for more first-person POV blood and carnage as Chris
   Nash&#8217;s In a Violent Nature: Part 2 heads to theaters on Valentine&#8217;s
   Day weekend. On Saturday at New…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-10T23:52:22Z'

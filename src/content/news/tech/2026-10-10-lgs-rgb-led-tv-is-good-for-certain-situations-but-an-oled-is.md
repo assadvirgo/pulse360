@@ -3,7 +3,7 @@ category: Tech
 description: When it comes to TVs, the LG name has long been synonymous with OLEDs,
   continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all
   about RGB LED TVs. Almost…
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-10T13:00:00Z'

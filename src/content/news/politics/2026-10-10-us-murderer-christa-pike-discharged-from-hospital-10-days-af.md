@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Pike's lawyers say she is "grateful" to the medical team who cared for
   her after she survived two lethal injections last month.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-10T17:44:26Z'

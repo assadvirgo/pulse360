@@ -5,7 +5,7 @@ countryCode: US
 description: Ever wondered what would happen if Darth Vader joined the Avengers? Or
   if the Millennium Falcon got a Tony Stark-approved upgrade? Lego is giving fans
   the chance to find out. The…
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-11T00:48:37Z'

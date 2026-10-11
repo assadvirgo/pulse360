@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The group - who are not registered as a political party in India - want
   electoral reforms ahead of crucial state elections.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 79.2
 pubDate: '2026-10-10T12:29:31Z'

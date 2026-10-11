@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Expensive utility bills have become an increasingly sharp thorn for Americans’
   wallets, but warmer weather this winter and energy assistance programs can help.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-10T13:00:00Z'

@@ -5,7 +5,7 @@ countryCode: KR
 description: A mild-mannered father who has always kept the peace takes on the system
   after his young daughter is bullied at school in “The Family Table,” a Korean drama
   from director Lee…
-displayOrder: 1
+displayOrder: 15
 heroImage: ''
 importance: 64.8
 pubDate: '2026-10-11T00:03:54Z'

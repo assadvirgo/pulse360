@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: New cases in eastern DRC and a fatal imported infection in Kenya highlight
   the challenges of containing Ebola.
-displayOrder: 16
+displayOrder: 25
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-11T00:23:50Z'

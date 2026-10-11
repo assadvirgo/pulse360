@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Liverpool face Manchester City on Sunday in what has become a battle
   between the EPL&#039;s dominant teams in recent times.
-displayOrder: 10
+displayOrder: 22
 heroImage: ''
 importance: 56.5
 pubDate: '2026-10-10T22:43:08Z'

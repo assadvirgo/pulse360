@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The ship tried to break through America’s naval blockade of Iranian ports,
   Central Command says of its first attack in a month
-displayOrder: 30
+displayOrder: 35
 heroImage: ''
 importance: 32.5
 pubDate: '2026-10-11T02:45:26Z'

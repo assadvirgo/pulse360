@@ -2,7 +2,7 @@
 category: Politics
 description: Physicians accuse Israeli Medical Association of remaining silent as
   Palestinian healthcare is systematically destroyed.
-displayOrder: 15
+displayOrder: 27
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-10T21:12:04Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: In a lengthy post on X, Microsoft's CEO laid out his views on the dangers
   posed by highly advanced AI models and how to confront those risks. Nadella says
   we can no longer accept…
-displayOrder: 14
+displayOrder: 24
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-10T22:10:17Z'

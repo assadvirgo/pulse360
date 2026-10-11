@@ -5,7 +5,7 @@ countryCode: US
 description: Today, I’m talking with Peter Kafka, chief correspondent at Business
   Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount
   merger and the future of…
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-10T14:00:00Z'
