@@ -5,7 +5,7 @@ countryCode: US
 description: Over the past couple of years, we’ve seen multiple reports that Apple
   was working on a new smart home product, but now it seems the product has a name
   and a launch date.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-11T21:14:40Z'

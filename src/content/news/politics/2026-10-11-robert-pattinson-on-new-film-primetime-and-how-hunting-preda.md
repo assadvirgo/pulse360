@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The actor portrays the real-life host of American TV show, To Catch a
   Predator, in his latest film.
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-11T23:39:12Z'

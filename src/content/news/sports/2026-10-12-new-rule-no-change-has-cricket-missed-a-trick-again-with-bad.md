@@ -2,7 +2,7 @@
 category: Sports
 description: More than 60 overs have been lost from the first Test between South Africa
   and Australia despite a change by the ICC. Has cricket missed a trick?
-displayOrder: 25
+displayOrder: 41
 heroImage: ''
 importance: 38.2
 pubDate: '2026-10-12T05:19:46Z'

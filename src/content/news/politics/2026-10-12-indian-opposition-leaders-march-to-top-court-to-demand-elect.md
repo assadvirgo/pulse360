@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The march follows a chaotic weekend in Delhi which saw thousands of protesters
   being detained by police.
-displayOrder: 13
+displayOrder: 36
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-12T06:42:35Z'

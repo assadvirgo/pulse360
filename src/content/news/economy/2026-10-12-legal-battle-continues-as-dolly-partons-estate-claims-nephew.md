@@ -5,7 +5,7 @@ countryCode: US
 description: Dolly Parton’s estate has claimed that the late country music icon’s
   nephew, Bryan Seaver, went to extraordinary lengths to evade being served with a
   summons.
-displayOrder: 17
+displayOrder: 38
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-12T09:05:00Z'

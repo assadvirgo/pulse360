@@ -5,7 +5,7 @@ countryCode: UA
 description: Volodymyr Zelenskyy has accused Russia of striking a Ukrainian power
   plant and energy facilities after Donald Trump claimed an "energy ceasefire" was
   in place.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-11T20:58:00Z'

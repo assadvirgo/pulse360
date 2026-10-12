@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Stuart Kaiser, of Citigroup, recommends buying iShares Russell 2000 exchange-traded
   fund call options before the consumer-price index for September is released on Wednesday.
-displayOrder: 10
+displayOrder: 31
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-12T11:30:00Z'

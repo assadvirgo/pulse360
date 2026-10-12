@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Steven Smith backed up the bowlers by claiming four catches, two of them
   stunning efforts, that lifted him past Joe Root for the most Test catches by a non-wicketkeeper
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-11T15:22:22Z'

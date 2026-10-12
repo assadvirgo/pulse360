@@ -4,7 +4,7 @@ country: Poland
 countryCode: PL
 description: Foreign minister Radosław Sikorski says risk of casualties is rising
   as Moscow escalates sabotage campaign on European soil
-displayOrder: 27
+displayOrder: 44
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-12T04:00:16Z'

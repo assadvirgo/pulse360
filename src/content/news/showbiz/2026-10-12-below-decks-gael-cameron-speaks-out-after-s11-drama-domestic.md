@@ -5,7 +5,7 @@ countryCode: US
 description: To say it&#8217;s been a tough year for Below Deck Mediterranean&#8217;s
   Gael Cameron is an understatement. Season 11 of the show documented the new mom
   tending to infant Kayden…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-12T03:36:40Z'

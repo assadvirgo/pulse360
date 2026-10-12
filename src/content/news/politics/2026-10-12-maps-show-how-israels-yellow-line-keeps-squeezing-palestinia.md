@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: A year into a &#039;ceasefire&#039;, Israel restricts access to 65 percent
   of Gaza and crams 2.1 million people into the rest.
-displayOrder: 12
+displayOrder: 34
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-12T09:27:12Z'

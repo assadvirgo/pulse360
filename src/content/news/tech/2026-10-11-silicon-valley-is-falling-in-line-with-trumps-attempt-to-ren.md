@@ -5,7 +5,7 @@ countryCode: US
 description: When President Donald Trump announced his plans to rebrand artificial
   intelligence as "super intelligence," you'd be forgiven for being skeptical that
   it would catch on. While…
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-11T18:33:56Z'

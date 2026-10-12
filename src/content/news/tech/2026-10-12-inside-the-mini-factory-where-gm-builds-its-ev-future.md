@@ -5,7 +5,7 @@ countryCode: US
 description: If you're driving through GM's sprawling campus in Warren, Michigan,
   you'd likely ignore the pair of adjacent, anonymous white buildings tucked away
   in the upper reaches of the…
-displayOrder: 7
+displayOrder: 28
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-12T11:00:00Z'

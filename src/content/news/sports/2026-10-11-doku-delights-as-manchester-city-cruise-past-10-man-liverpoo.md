@@ -5,7 +5,7 @@ countryCode: GB
 description: In their first match since being found guilty of breaching Premier League
   financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool
   at Anfield to extend…
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-11T18:59:19Z'

@@ -5,7 +5,7 @@ countryCode: DE
 description: Fred Kogel, chief executive of Leonine Studios, Germany’s leading independent
   distribution and production company, is upbeat about the merger of Paramount and
   Warner Bros.…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-12T09:07:10Z'

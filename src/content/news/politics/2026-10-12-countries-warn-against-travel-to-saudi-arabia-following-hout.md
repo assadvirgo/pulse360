@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: US, Australia, Canada, Japan, South Korea and New Zealand among countries
   urging citizens to avoid travel to the kingdom.
-displayOrder: 11
+displayOrder: 35
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-12T05:53:45Z'

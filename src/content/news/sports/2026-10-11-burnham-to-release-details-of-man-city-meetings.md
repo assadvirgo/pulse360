@@ -5,7 +5,7 @@ countryCode: GB
 description: Andy Burnham has faced criticism for comments he made in the wake of
   Manchester City being found guilty of all charges related to breaches of the Premier
   League's financial rules.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-11T18:01:13Z'

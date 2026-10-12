@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Both Republican and Democratic lawmakers have criticised the deal, which
   was announced weeks before the US midterm elections.
-displayOrder: 23
+displayOrder: 47
 heroImage: ''
 importance: 57.2
 pubDate: '2026-10-11T23:18:45Z'

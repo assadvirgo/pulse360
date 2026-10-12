@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A troubling rise in prices might trigger an interest-rate move at the
   Fed’s meeting in late October.
-displayOrder: 15
+displayOrder: 37
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-12T11:00:00Z'

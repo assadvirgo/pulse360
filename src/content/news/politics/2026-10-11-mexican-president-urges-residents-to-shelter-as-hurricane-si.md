@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: The Mexican community of Cabo Corrientes faces the risk of a direct hit
   as the Category 4 storm churns off Jalisco.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 69.5
 pubDate: '2026-10-11T19:31:36Z'

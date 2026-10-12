@@ -2,7 +2,7 @@
 category: Economy
 description: While equity investors look to sunny futures, creditors are scrutinising
   liabilities like leases on data centres
-displayOrder: 28
+displayOrder: 45
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-12T04:00:07Z'

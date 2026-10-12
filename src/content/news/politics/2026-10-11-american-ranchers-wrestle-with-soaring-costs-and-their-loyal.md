@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Many farmers in states that backed the president say they are being hit
   from all sides, with the crucial midterm elections just weeks away.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 57.2
 pubDate: '2026-10-11T23:13:51Z'

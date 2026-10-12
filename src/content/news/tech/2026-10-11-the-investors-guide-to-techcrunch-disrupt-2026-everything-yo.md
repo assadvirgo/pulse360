@@ -5,7 +5,7 @@ countryCode: US
 description: Year after year, investors who've explored the Expo Halls, met founders,
   and learned from peers have proven why you need to be on the ground at Disrupt Oct.
   13.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-11T17:53:37Z'
