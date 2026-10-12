@@ -4,7 +4,7 @@ country: Poland
 countryCode: PL
 description: Police received credible information about possible attacks against Donald
   Tusk and his defence minister.
-displayOrder: 13
+displayOrder: 22
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-11T17:27:24Z'

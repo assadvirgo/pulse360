@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: A new solar-powered model train has returned to a section of Lebanon’s
   historic railway.
-displayOrder: 14
+displayOrder: 21
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-11T18:00:51Z'

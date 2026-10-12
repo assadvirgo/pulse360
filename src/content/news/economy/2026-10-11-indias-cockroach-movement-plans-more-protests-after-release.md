@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Abhijeet Dipke of the youth-led Cockroach Janta Party was freed by a
   court order as police tightened security in New Delhi
-displayOrder: 45
+displayOrder: 48
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-11T13:07:40Z'

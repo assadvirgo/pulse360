@@ -5,7 +5,7 @@ countryCode: US
 description: To outlast the best and bring Street Fighter to the big screen, stunt
   coordinator John Valera paid close attention to the combat styles in the video game.
   Noah Centineo, who plays…
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 67.0
 pubDate: '2026-10-11T21:21:33Z'

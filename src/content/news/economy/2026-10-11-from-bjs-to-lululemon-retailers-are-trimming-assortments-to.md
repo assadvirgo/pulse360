@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Retail brands are shrinking assortments to get back to healthy growth,
   while box stores are culling products to better curate offerings and stabilize business.
-displayOrder: 39
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-11T17:08:30Z'

@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Ukrainian strikes have triggered the worst petrol shortages since the
   collapse of the Soviet Union but diesel is not in short supply
-displayOrder: 30
+displayOrder: 35
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-11T17:13:56Z'

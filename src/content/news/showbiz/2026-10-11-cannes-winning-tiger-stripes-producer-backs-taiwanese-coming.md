@@ -5,7 +5,7 @@ countryCode: TW
 description: A boy’s devotion to his uncle, a man with an intellectual disability,
   curdles into shame as he grows up and away from home in “Uncle,” the first feature
   written and directed by…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-11T23:20:47Z'

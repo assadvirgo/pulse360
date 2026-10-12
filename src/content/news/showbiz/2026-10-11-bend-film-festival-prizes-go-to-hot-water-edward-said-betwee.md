@@ -5,7 +5,7 @@ countryCode: US
 description: The Bend Film Festival wraps on Sunday after presenting awards for the
   23rd edition of the cinematic spectacle in central Oregon. Ramzi Bashour’s debut
   feature Hot Water, starring…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-11T18:24:33Z'

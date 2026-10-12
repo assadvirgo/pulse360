@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Learn more about Paramount's planned acquisition of Warner Bros. Discovery
   — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.
-displayOrder: 8
+displayOrder: 20
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-11T14:15:00Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Trump’s approach to the world has left Republicans floundering as the
   midterms approach. Liberals should plan their own strategy now
-displayOrder: 35
+displayOrder: 42
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-11T15:13:30Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Stop-motion animation is a notoriously time-consuming method to make
   a film, with most features taking several years of painstakingly detailed work by
   vast teams of creatives. But…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-11T14:02:12Z'

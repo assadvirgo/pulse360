@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: The president of Pakistan has declared a state of emergency in the country's
   northwestern Khyber Pakhtunkhwa province.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-11T13:48:00Z'
