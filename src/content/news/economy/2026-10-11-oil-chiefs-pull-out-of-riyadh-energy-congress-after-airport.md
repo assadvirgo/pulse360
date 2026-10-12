@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: BP and others skip World Petroleum Council meeting after 12 killed in
   Houthi attack
-displayOrder: 36
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-11T16:56:50Z'

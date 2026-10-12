@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Police detain tour bus driver after highway collision in western Turkiye
   leaves 11 dead and 27 injured.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-11T17:06:09Z'

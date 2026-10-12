@@ -5,7 +5,7 @@ countryCode: ID
 description: In an age where some call themselves activists merely through social
   media posting, stories of the dangers, consequences and occasional, very hard-won
   rewards of…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-12T00:55:39Z'

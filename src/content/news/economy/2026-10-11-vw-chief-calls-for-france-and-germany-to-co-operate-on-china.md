@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: ‘When it matters, we have found solutions together’, Oliver Blume says
   ahead of Paris Motor Show
-displayOrder: 43
+displayOrder: 48
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-11T18:09:24Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: CCTV footage shows the moment of a Russian strike on a residential street
   in Kharkiv, Ukraine.
-displayOrder: 15
+displayOrder: 32
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-11T22:49:23Z'

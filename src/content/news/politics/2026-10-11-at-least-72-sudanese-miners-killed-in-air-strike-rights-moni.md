@@ -3,7 +3,7 @@ category: Politics
 country: Sudan
 countryCode: SD
 description: Emergency Lawyers blames Egypt for the deadly attack in northern Sudan.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-11T22:08:26Z'

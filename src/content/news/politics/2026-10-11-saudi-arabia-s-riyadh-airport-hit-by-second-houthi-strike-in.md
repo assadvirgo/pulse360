@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: The Yemeni group says it carried out attacks that killed 13 people over
   the weekend and targeted two airports and oil facilities.
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-11T16:41:37Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Officials lobby European capitals and Kyiv following Trump’s diesel deal
   with Putin
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-11T18:40:51Z'

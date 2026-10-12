@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Sunday&#039;s strike on King Khalid International airport kills a Pakistani
   national.
-displayOrder: 3
+displayOrder: 16
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-12T02:11:21Z'

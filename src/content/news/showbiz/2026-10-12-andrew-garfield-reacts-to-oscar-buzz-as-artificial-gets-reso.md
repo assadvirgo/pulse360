@@ -5,7 +5,7 @@ countryCode: GB
 description: '&#8220;Artificial&#8221; isn&#8217;t hitting theaters until December,
   but Andrew Garfield is already sparking Oscar buzz for his performance as OpenAI
   CEO Sam Altman. Luca…'
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-12T00:36:39Z'

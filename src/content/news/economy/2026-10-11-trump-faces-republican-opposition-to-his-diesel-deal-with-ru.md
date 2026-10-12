@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawmakers from both parties say the agreement would finance Putin’s war
   machine in Ukraine and violate US law
-displayOrder: 24
+displayOrder: 38
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-11T21:17:58Z'

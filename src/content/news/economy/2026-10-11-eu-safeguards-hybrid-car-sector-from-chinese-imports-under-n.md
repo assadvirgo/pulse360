@@ -2,7 +2,7 @@
 category: Economy
 description: Auto sector welcomes ‘understanding’ reached with Beijing but other industries
   warn China’s huge trade surplus will persist without further action
-displayOrder: 19
+displayOrder: 37
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-11T20:00:01Z'

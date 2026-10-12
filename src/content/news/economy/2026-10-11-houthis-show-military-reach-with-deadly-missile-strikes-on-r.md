@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Yemen’s Iran-backed militants demonstrate that they are not just ‘guys
   in flip-flops’
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 25.5
 pubDate: '2026-10-11T13:04:47Z'
