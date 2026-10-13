@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'TechCrunch Disrupt 2026 is built around one question: How do you build
   an enduring company in the AI era? Our programming and speaker lineup reflect that.'
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-12T00:59:01Z'

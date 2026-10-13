@@ -5,7 +5,7 @@ countryCode: US
 description: Amber Siyavus, who competed on Season 8 of Big Brother, has died, the
   Clark County medical examiner in Nevada confirmed to Deadline. She was 46. According
   to her death records,…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-12T18:39:13Z'

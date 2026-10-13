@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: In-form Atletico host struggling Man United as the Champions League returns
   for the second set of games.
-displayOrder: 13
+displayOrder: 28
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-12T17:39:08Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: NATO commander issues warning as European officials have called for vigilance
   over potential Russian attacks.
-displayOrder: 4
+displayOrder: 17
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-12T19:27:41Z'

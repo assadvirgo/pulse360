@@ -5,7 +5,7 @@ countryCode: GB
 description: Ken Fero discusses the London-premiering story of young South Asian men
   who stood trial on terrorism charges for preparing to defend their community from
   a racist attack,…
-displayOrder: 21
+displayOrder: 999
 heroImage: ''
 importance: 67.8
 pubDate: '2026-10-12T11:00:00Z'

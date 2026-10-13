@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Totoa Auvaa leaves club following a swift internal investigation into
   a separate incident.
-displayOrder: 7
+displayOrder: 21
 heroImage: ''
 importance: 60.5
 pubDate: '2026-10-12T19:42:31Z'

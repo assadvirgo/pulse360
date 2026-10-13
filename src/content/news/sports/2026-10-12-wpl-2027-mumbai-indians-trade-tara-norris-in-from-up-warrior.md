@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The USA left-arm seamer played for Delhi Capitals in the inaugural edition
   when she became the first to take a five-for in the tournament
-displayOrder: 29
+displayOrder: 47
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-12T12:19:43Z'

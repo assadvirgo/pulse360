@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Homeland Security officials launch criminal investigation into the Minnesota
   representative
-displayOrder: 25
+displayOrder: 37
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-12T16:47:27Z'

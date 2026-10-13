@@ -5,7 +5,7 @@ countryCode: US
 description: Oil markets were struggling on Monday to gauge how President Donald Trump’s
   new declaration of an “energy ceasefire” between Russia and Ukraine might help mitigate
   a deepening…
-displayOrder: 17
+displayOrder: 29
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-12T18:36:00Z'

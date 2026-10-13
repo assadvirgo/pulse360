@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Officials say a staff member disarmed the suspect, who hid a hunting
   shotgun in a guitar case, before police arrived.
-displayOrder: 11
+displayOrder: 30
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-12T15:47:43Z'

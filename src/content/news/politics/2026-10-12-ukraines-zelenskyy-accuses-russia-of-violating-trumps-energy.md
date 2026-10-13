@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The EU also announced that it officially added almost 1,600 new sanctions
   on Russia&#039;s military industrial complex.
-displayOrder: 16
+displayOrder: 38
 heroImage: ''
 importance: 80.5
 pubDate: '2026-10-12T10:35:51Z'

@@ -3,7 +3,7 @@ category: Politics
 country: Israel
 countryCode: IL
 description: Israeli strike on tent in Gaza’s Khan Younis kills three
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 60.5
 pubDate: '2026-10-12T20:06:04Z'

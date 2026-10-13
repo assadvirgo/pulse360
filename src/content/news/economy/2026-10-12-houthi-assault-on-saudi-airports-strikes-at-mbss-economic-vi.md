@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Deadly bombardment of Riyadh’s international airport threatens crown
   prince’s plans to turn kingdom into finance and events hub
-displayOrder: 30
+displayOrder: 43
 heroImage: ''
 importance: 37.5
 pubDate: '2026-10-12T18:32:01Z'
