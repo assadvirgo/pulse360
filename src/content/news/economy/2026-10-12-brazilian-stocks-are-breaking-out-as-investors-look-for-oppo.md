@@ -5,7 +5,7 @@ countryCode: BR
 description: Brazil’s presidential election is powering optimism in the country’s
   stock market — and capturing the attention of investors wary of having too much
   exposure to U.S. stocks.
-displayOrder: 8
+displayOrder: 35
 heroImage: ''
 importance: 69.5
 pubDate: '2026-10-12T22:00:00Z'

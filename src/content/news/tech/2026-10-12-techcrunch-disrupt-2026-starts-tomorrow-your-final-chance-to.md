@@ -5,7 +5,7 @@ countryCode: US
 description: Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors,
   and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt
   2026 for three days of…
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-12T14:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The Fitbit Edge may not be Google's best-kept fitness-tracking secret,
   but as of today, its existence is official. The tracker sits smack-dab between the
   recently launched Fitbit…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-12T13:00:00Z'

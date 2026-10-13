@@ -5,7 +5,7 @@ countryCode: US
 description: 'The full list of MCU characters who will appear in “Avengers: Doomsday”
   may still be a mystery, but Jeremy Renner has made it clear he didn&#8217;t return
   as Hawkeye — and says…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-13T04:20:02Z'

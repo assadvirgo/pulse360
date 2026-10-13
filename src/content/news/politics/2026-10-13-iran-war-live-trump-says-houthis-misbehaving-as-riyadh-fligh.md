@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: US President Trump condemns Yemen&#039;s Houthis over escalating attacks,
   as Saudi Arabia halts flights at Riyadh airport.
-displayOrder: 6
+displayOrder: 32
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-13T00:00:00Z'

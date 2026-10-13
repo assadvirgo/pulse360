@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: A 14-year-old was detained after the middle-school principal and teacher
   were injured.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 45.2
 pubDate: '2026-10-12T21:01:28Z'

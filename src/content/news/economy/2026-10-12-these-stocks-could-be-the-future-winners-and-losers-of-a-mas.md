@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As more money flows toward AI software offerings, Salesforce could deepen
   its customer relationships while Adobe looks vulnerable, analysts say.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-12T16:47:00Z'

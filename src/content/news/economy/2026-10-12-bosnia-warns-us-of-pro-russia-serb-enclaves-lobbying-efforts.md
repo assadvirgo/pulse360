@@ -4,7 +4,7 @@ country: Bosnia and Herzegovina
 countryCode: BA
 description: Foreign minister expresses concern about public funds used for ‘political
   influence in the US’ on behalf of Moscow allies
-displayOrder: 27
+displayOrder: 45
 heroImage: ''
 importance: 52.5
 pubDate: '2026-10-12T19:46:58Z'

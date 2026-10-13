@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: The 'KPop Demon Hunters' star took home a slew of awards earlier this
   year for her songwriting in the Netflix animated movie.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-10-13T00:44:09Z'

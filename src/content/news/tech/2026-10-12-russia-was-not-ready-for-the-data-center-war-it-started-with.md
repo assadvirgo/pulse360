@@ -3,7 +3,7 @@ category: Tech
 country: Russia
 countryCode: RU
 description: Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.
-displayOrder: 32
+displayOrder: 47
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-12T17:52:36Z'

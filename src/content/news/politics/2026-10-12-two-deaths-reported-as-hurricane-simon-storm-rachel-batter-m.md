@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Simon caps a Pacific season of record-breaking intensity, as deadly storms
   wreak havoc from Hawaii to Mexico.
-displayOrder: 12
+displayOrder: 36
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-12T23:09:50Z'
