@@ -5,7 +5,7 @@ countryCode: US
 description: 'Apple is introducing a refreshed Apple TV 4K today with a pair of interesting
   new hardware features: far-field microphones to talk to Siri hands-free and Find
   My built into the…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-13T13:00:00Z'

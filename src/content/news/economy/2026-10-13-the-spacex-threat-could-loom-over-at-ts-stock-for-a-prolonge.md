@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bernstein analyst Laurent Yoon no longer recommends any of the major
   telecommunications stocks as he warns of more volatility ahead.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-13T00:18:00Z'

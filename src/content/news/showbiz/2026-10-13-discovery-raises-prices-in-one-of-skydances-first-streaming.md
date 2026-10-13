@@ -5,7 +5,7 @@ countryCode: US
 description: As it begins its second week as a bulked-up public company, Skydance
   has raised prices of stand-alone streaming service Discovery+. The base-level, ad-supported
   tier now costs…
-displayOrder: 2
+displayOrder: 14
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-13T15:28:56Z'

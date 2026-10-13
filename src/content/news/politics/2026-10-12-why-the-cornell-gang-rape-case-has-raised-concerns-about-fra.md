@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Experts say many fraternities offer a sense of community, but some rely
   on hazing and coercive tactics to build loyalty.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-12T22:23:44Z'

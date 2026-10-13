@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Mhatre damaged his right hamstring while opening the batting for Mumbai
   in the Ranji Trophy match against Chandigarh on Sunday
-displayOrder: 14
+displayOrder: 32
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-13T13:35:26Z'

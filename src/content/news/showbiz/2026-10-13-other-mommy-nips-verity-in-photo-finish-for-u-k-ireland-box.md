@@ -5,7 +5,7 @@ countryCode: GB
 description: Universal&#8217;s horror entry &#8220;Other Mommy,&#8221; directed by
   Rob Savage and starring Jessica Chastain and Jay Duplass, squeaked to the top of
   the U.K. and Ireland box…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-13T04:10:47Z'

@@ -2,7 +2,7 @@
 category: Politics
 description: El Niño has continued to strengthen, with several key measures now in
   record territory. Simon King explores how it compares to previous events.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-13T11:18:44Z'

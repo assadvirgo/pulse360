@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Government bond funds are attracting record inflows as borrowing costs
   hit their highest level in decades
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-13T04:00:28Z'

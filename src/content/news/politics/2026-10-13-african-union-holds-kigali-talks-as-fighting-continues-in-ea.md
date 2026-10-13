@@ -4,7 +4,7 @@ country: Rwanda
 countryCode: RW
 description: Three former African presidents discussed security commitments, refugee
   protection and regional cooperation.
-displayOrder: 1
+displayOrder: 16
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-13T12:40:26Z'

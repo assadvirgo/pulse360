@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Protesters climbed over barricades in central Delhi to demand the election
   chief resign over revised voter lists.
-displayOrder: 19
+displayOrder: 40
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-13T07:31:10Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A protester wearing a ‘Release the Epstein files’ shirt was punched by
   Trump supporters at a Republican rally in Ohio.
-displayOrder: 11
+displayOrder: 31
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-13T10:02:30Z'

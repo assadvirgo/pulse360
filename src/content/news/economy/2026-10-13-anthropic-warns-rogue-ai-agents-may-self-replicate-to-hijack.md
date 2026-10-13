@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Claude maker suggests models could act as ‘worms’ to spread across smart
   home appliances such as lawnmowers and TVs in future cyber security threat
-displayOrder: 27
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-13T10:11:23Z'

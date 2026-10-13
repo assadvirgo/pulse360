@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Strike on cargo ship marks latest escalation in Russia-Ukraine war in
   the Black Sea
-displayOrder: 18
+displayOrder: 38
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-13T12:21:30Z'

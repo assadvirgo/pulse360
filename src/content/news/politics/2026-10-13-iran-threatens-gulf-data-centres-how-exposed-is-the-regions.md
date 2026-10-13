@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iran has warned that cables and data centres in the region could be attacked,
   as Houthi allies hold internet chokepoint.
-displayOrder: 13
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-13T13:03:33Z'

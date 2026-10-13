@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Despite the US president announcing energy infrastructure would not be
   targeted strikes have continued, Ukraine says.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 75.2
 pubDate: '2026-10-12T21:20:51Z'

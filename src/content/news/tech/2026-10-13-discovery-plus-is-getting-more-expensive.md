@@ -5,7 +5,7 @@ countryCode: US
 description: Discovery Plus is raising prices across its ad-free and ad-supported
   plans. Starting Tuesday, the ad-supported plan will go from $5.99 to $6.99 / month,
   while the ad-free tier…
-displayOrder: 3
+displayOrder: 19
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-13T13:52:18Z'

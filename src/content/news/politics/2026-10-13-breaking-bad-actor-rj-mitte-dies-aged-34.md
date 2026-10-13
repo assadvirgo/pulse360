@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Mitte, who lived with cerebral palsy, starred as Walter White Jr in the
   Emmy-winning drama series.
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-13T03:44:40Z'

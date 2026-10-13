@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: My Muse agent told me its kink was exerting “control” and described pornographic
   encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-12T20:13:28Z'

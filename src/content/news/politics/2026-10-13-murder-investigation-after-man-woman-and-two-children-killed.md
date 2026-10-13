@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: A murder investigation has been launched after two children and two adults
   died in a house fire in Waterford.
-displayOrder: 23
+displayOrder: 42
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-13T09:25:00Z'
