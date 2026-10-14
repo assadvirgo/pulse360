@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Six crew members are rescued but 10 are missing after a merchant ship
   was sunk overnight, Bulgaria says.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-13T14:51:59Z'

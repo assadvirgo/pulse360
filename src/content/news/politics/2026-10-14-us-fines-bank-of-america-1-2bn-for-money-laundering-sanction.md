@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The second-largest US bank faces record penalties for failing to comply
   with money laundering and sanctions laws.
-displayOrder: 3
+displayOrder: 8
 heroImage: ''
 importance: 71.5
 pubDate: '2026-10-14T01:15:30Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: When a filmmaker tells a story based on real events, especially ones
   that are inspiring or heroic, there’s always a risk of hagiography. “Clean Hands”
   is a movie where the…
-displayOrder: 9
+displayOrder: 23
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-13T23:14:27Z'

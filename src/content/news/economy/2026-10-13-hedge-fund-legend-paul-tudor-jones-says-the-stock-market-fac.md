@@ -5,7 +5,7 @@ countryCode: US
 description: U.S. stocks could face a serious test in 2027 as a tsunami of new equity
   issuance threatens to upend the artificial-intelligence-driven bull market, according
   to hedge-fund…
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-13T14:10:00Z'

@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro
   Martinez slams club&#039;s failure to invest in team.
-displayOrder: 11
+displayOrder: 27
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-13T22:57:56Z'

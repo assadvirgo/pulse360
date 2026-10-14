@@ -5,7 +5,7 @@ countryCode: US
 description: Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment
   of Doug Field as president in a major coup for the CEO's secretive robotics project.
   Field was a VP of…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-10-13T18:30:00Z'

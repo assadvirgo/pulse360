@@ -5,7 +5,7 @@ countryCode: US
 description: University of Michigan spinout Laplace Intelligence uses AI agents and
   interactive simulation to stress-test robots and self-driving vehicles before deployment.
   The profitable…
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-13T17:30:00Z'

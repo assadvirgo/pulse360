@@ -5,7 +5,7 @@ countryCode: US
 description: SPOILER ALERT! This post contains details from Tuesday&#8217;s episode
   of Dancing with the Stars. Another week, another night of Dancing with the Stars.
   It&#8217;s the first-ever…
-displayOrder: 6
+displayOrder: 14
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-14T01:59:43Z'

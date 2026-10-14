@@ -5,7 +5,7 @@ countryCode: FR
 description: Student protesters in France have told the BBC's James Waterhouse that
   they will continue to take action until change has been made. The protests have
   now entered their fourth…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-13T18:23:22Z'

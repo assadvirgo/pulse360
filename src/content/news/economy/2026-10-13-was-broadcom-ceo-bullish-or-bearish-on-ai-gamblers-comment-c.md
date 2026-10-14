@@ -4,7 +4,7 @@ country: Singapore
 countryCode: SG
 description: The comments made by Broadcom’s CEO at a conference in Singapore have
   been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-13T20:27:00Z'

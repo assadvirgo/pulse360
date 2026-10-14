@@ -3,7 +3,7 @@ category: Politics
 country: United States
 countryCode: US
 description: The US and Europe can’t agree on how to end Russia’s war on Ukraine.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-13T18:07:05Z'

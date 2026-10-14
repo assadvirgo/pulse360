@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Each of the 11 remaining couples is tasked with reinterpreting some of
   the most iconic performances from Super Bowls past.
-displayOrder: 5
+displayOrder: 19
 heroImage: ''
 importance: 71.8
 pubDate: '2026-10-13T20:45:15Z'

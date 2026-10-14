@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: Former Australia Under-19 captain makes second One-Day century of the
   season to help Queensland beat WA
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-14T00:34:02Z'

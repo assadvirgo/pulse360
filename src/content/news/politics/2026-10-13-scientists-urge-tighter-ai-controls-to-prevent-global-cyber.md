@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Call comes amid polls casting doubts on political leaders&#039; ability
   to manage AI risks as US midterm elections near.
-displayOrder: 15
+displayOrder: 34
 heroImage: ''
 importance: 60.5
 pubDate: '2026-10-13T20:00:32Z'

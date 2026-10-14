@@ -5,7 +5,7 @@ countryCode: FR
 description: PSG boss Luis Enrique says he was surprised to learn Manchester City
   had been found guilty of breaching Premier League financial rules and hopes the
   club avoid sanctions.
-displayOrder: 35
+displayOrder: 45
 heroImage: ''
 importance: 54.2
 pubDate: '2026-10-13T17:33:33Z'

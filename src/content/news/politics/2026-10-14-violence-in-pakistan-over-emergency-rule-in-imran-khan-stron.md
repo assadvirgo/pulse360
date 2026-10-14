@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Protesters in Pakistan’s Khyber Pakhtunkhwa province clashed with police
   over emergency and governor’s rule.
-displayOrder: 4
+displayOrder: 13
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-14T01:56:23Z'

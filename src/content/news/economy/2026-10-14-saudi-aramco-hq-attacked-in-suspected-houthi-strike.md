@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Iran-backed militants retaliate after Riyadh-led coalition targets sites
   in Yemen’s capital
-displayOrder: 33
+displayOrder: 39
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-14T02:20:48Z'
