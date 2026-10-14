@@ -4,7 +4,7 @@ country: Jamaica
 countryCode: JM
 description: Opposition leaders in Jamaica question why the deportation deal with
   the Trump White House has not been made public.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-14T01:44:09Z'

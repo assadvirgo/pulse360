@@ -2,7 +2,7 @@
 category: Economy
 description: Ignore the doomsayers, this technology has transformed the game for the
   better and it can do the same for education
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-14T04:00:03Z'

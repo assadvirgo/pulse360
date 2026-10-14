@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Saudi civil defence authority says danger passed after it issued alerts
   via its national early warning platform.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-14T11:39:06Z'

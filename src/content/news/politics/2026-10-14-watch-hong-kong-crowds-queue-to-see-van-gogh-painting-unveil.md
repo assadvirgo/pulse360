@@ -2,7 +2,7 @@
 category: Politics
 description: Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected
   to receive record bids at auction this weekend.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-14T04:21:25Z'

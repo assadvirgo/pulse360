@@ -5,7 +5,7 @@ countryCode: US
 description: Shares of Skydance Corp., formed through the merger of Paramount and
   Warner Bros. Discovery, fell as much as 25% in trading Wednesday. The drop came
   as the Skydance, led by…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-14T15:00:52Z'

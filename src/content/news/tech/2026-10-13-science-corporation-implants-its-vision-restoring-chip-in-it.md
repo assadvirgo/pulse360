@@ -5,7 +5,7 @@ countryCode: US
 description: Max Hodak, the former president and co-founder of Neuralink, detailed
   on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its
   path toward a novel…
-displayOrder: 35
+displayOrder: 999
 heroImage: ''
 importance: 78.0
 pubDate: '2026-10-13T23:13:31Z'

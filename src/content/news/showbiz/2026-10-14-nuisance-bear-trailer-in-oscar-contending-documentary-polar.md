@@ -3,7 +3,7 @@ category: Showbiz
 description: 'EXCLUSIVE: It’s been called “beautifully crafted and meticulously composed,”
   praised by Werner Herzog, awarded at Sundance and honored with five Critics Choice
   Documentary Awards…'
-displayOrder: 10
+displayOrder: 24
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-14T16:00:00Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Volodymyr Zelenskyy says Ukraine&#039;s partners failed to warn of Russian
   ballistic missile attack on Kyiv.
-displayOrder: 24
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-14T07:08:32Z'

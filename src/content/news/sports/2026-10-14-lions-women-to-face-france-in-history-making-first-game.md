@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: The British and Irish Lions are to take on France at Cardiff's Principality
   Stadium before their historic three-Test 2027 tour to New Zealand.
-displayOrder: 31
+displayOrder: 45
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-14T09:00:24Z'

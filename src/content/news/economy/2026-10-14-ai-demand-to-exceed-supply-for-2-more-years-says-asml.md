@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: Europe’s most valuable company said its clients that include TSMC and
   Intel were experiencing ‘very, very strong demand’
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-14T06:50:27Z'

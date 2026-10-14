@@ -4,7 +4,7 @@ country: Ireland
 countryCode: IE
 description: It comes amidst an an ongoing pay dispute between public sector workers
   and the Irish government.
-displayOrder: 14
+displayOrder: 29
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-14T14:18:18Z'

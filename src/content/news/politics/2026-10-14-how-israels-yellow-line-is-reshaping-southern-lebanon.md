@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Demolished homes, shifting military lines, stalled withdrawals leave
   Lebanese uncertain if they can return.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-14T07:38:09Z'

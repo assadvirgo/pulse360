@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only
   session, more roundtables, and more. Register to save 50% on your pass.
-displayOrder: 15
+displayOrder: 30
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-14T14:30:00Z'

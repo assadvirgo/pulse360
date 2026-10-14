@@ -5,7 +5,7 @@ countryCode: GB
 description: Outgoing &#8220;Doctor Who&#8221; showrunner Russell T. Davies has criticised
   BBC director general Matt Brittin over recent comments he made regarding an AI-generated
   episode of…
-displayOrder: 18
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-14T09:04:04Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The Ukrainian president says the ballistic missile strikes came with
   "no early warning from our partners".
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 73.2
 pubDate: '2026-10-14T01:56:57Z'

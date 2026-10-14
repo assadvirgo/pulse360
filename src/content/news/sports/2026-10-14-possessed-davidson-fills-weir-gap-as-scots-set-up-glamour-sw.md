@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's
   absence to set up a World Cup play-off tie with Sweden.
-displayOrder: 27
+displayOrder: 43
 heroImage: ''
 importance: 49.2
 pubDate: '2026-10-14T08:16:53Z'

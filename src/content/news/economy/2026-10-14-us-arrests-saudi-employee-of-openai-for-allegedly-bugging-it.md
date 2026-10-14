@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI lab discovered a recording device concealed behind a television in
   a conference room
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 37.5
 pubDate: '2026-10-14T01:59:24Z'
