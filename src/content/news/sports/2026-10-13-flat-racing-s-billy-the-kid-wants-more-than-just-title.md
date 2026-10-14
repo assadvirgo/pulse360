@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: BBC Sport speaks to Billy Loughnane, the prodigy nicknamed 'Billy the
   Kid' who is set to be named champion jockey on Saturday and targeting a record.
-displayOrder: 13
+displayOrder: 26
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-13T18:31:28Z'

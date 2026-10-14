@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Sir Ken McCallum says operations to tackle terrorism and state threats
   are now roughly of an "equal scale".
-displayOrder: 10
+displayOrder: 27
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-13T15:52:15Z'

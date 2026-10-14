@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Explosions in Sanaa reported shortly after Saudi-led coalition&#039;s
   evacuation order as Houthis promise &#039;harsh&#039; response.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-13T15:01:36Z'

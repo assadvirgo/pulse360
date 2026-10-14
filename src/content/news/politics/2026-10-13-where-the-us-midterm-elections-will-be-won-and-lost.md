@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: An in-depth look at the key polling, races and issues ahead of an election
   that will define Trump’s final two years as president.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-13T05:02:44Z'

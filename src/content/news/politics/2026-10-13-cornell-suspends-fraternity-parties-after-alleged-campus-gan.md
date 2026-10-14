@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fraternities face immediate emergency suspensions for violations amid
   sweeping ban tackling parties at US university.
-displayOrder: 18
+displayOrder: 30
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-13T18:45:51Z'

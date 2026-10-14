@@ -5,7 +5,7 @@ countryCode: US
 description: 'Mattel&#8217;s American Girl brand makes history this week with the
   release of “Samantha: The Next Chapter,” its first novel for adults. Since her introduction
   in 1986, Samantha…'
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-13T15:00:00Z'

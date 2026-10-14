@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: The Ukrainian leader stops short of linking intelligence gap to Trump
   administration’s threats to withdraw US support
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-13T12:06:15Z'

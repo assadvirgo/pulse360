@@ -5,7 +5,7 @@ countryCode: US
 description: The health-insurance giant said its medical-cost ratio was 88.4% in the
   third quarter of this year, as the company tries to rein in spending on medical
   care.
-displayOrder: 21
+displayOrder: 34
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-13T20:29:00Z'

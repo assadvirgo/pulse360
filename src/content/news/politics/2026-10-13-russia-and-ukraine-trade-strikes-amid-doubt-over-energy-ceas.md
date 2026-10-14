@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure
   are continuing despite &#039;energy ceasefire&#039;.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 75.5
 pubDate: '2026-10-13T03:11:19Z'

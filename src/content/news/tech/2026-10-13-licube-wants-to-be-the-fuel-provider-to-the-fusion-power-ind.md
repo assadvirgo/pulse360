@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Fusion power plants will need a lot of lithium, and Licube is preparing
   to be a key supplier.
-displayOrder: 9
+displayOrder: 22
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-13T20:00:00Z'

@@ -5,7 +5,7 @@ countryCode: UA
 description: Days after Ukrainian military drones took down several Russian data centers,
   President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation
   efforts. "It…
-displayOrder: 12
+displayOrder: 25
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-13T18:31:31Z'

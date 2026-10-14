@@ -5,7 +5,7 @@ countryCode: US
 description: An OpenAI engineer was arrested after the company said it discovered
   a "sophisticated recording device" hidden in one of its offices. The employee, 35-year-old
   Abdulrahman…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-13T20:45:25Z'

@@ -2,7 +2,7 @@
 category: Economy
 description: The electric vehicle market shows how legacy EU companies continue to
   fail when it comes to countering Chinese competition
-displayOrder: 33
+displayOrder: 44
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-13T15:03:49Z'

@@ -4,7 +4,7 @@ country: Congo (DRC)
 countryCode: CD
 description: The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history
   as health workers face mistrust from communities.
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-13T19:39:01Z'

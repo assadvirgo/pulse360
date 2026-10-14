@@ -1,7 +1,7 @@
 ---
 category: Politics
 description: The alliance presents a common vision to deter adversaries.
-displayOrder: 15
+displayOrder: 24
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-13T19:32:16Z'
