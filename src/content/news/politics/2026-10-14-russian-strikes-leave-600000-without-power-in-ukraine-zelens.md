@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine's president says "critical" infrastructure was hit overnight,
   while emergency services say at least three were killed.
-displayOrder: 2
+displayOrder: 20
 heroImage: ''
 importance: 63.2
 pubDate: '2026-10-14T07:21:50Z'

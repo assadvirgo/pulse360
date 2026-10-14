@@ -4,7 +4,7 @@ country: Zimbabwe
 countryCode: ZW
 description: Simbarashe Kundizeza was responding to an accusation that has caused
   an uproar on social media.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-13T23:31:10Z'

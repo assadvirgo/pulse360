@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: United Airlines is doing away with flight segment as a way to reach Premier
   status and increasing the spending requirements for Premier 1K.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-13T21:02:43Z'

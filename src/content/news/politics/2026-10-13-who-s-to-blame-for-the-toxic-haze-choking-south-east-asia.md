@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Anger is mounting at the companies accused of burning land in Indonesia
   and the authorities who have failed to stop them.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-13T22:01:43Z'

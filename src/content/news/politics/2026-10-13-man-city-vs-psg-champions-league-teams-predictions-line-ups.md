@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Man City host PSG in their first UCL match since being found guilty of
   serious Premier League financial breaches.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-13T22:17:26Z'

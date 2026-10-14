@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: The Hokkaido Shimbun journalist is accused of collecting information
   on Moscow's defence capabilities for Tokyo.
-displayOrder: 3
+displayOrder: 21
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-14T08:00:03Z'

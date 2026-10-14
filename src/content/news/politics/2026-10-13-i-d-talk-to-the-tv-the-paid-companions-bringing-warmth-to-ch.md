@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: As loneliness grows in China, a new industry is emerging to provide companionship
   and support.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-13T22:02:09Z'

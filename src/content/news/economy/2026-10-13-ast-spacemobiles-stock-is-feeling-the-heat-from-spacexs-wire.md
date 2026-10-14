@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AST’s commercial rollout could face delays due to satellite-launch challenges
   and SpaceX’s growing ambitions, an analyst warns.
-displayOrder: 37
+displayOrder: 999
 heroImage: ''
 importance: 52.5
 pubDate: '2026-10-13T20:32:00Z'

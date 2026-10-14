@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as
   investors fret over the scale of AI investment
-displayOrder: 35
+displayOrder: 48
 heroImage: ''
 importance: 56.5
 pubDate: '2026-10-13T20:28:15Z'

@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Far-right leader aims for radical change in bloc’s powers and budget
   even as she tries to reassure voters over her pragmatism
-displayOrder: 43
+displayOrder: 47
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-14T04:00:21Z'

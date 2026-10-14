@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ten years after the series finale, the "Girls" are getting back together
   to explore the "milestone of turning forty", HBO says.
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-14T02:09:30Z'

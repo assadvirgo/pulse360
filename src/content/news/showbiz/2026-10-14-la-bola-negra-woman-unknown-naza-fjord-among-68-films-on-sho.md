@@ -3,7 +3,7 @@ category: Showbiz
 description: The European Film Academy has unveiled the short list of films in the
   running for prizes at its 39th European Film Awards ceremony scheduled to take place
   on January 16, 2027 in…
-displayOrder: 4
+displayOrder: 22
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-14T09:00:06Z'
