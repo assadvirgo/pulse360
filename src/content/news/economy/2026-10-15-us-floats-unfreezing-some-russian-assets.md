@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: European officials balked at proposal made by Donald Trump’s negotiators
   during meeting in Miami
-displayOrder: 37
+displayOrder: 49
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-15T09:19:26Z'

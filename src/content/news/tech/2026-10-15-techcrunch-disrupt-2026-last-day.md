@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for
   a day of connections and insights. Save 75% on your pass now.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-15T14:00:00Z'

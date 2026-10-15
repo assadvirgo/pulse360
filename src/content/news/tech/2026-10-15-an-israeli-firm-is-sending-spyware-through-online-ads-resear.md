@@ -5,7 +5,7 @@ countryCode: IL
 description: An Israeli ad tech firm worked with spyware companies to infect devices,
   including at Al Jazeera, by simply showing users an online ad, according to a joint
   investigation by…
-displayOrder: 4
+displayOrder: 16
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-15T14:10:50Z'

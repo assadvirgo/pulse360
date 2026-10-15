@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: North America boss Eric Kutcher is the candidate to beat in the consultancy’s
   byzantine election
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-15T04:00:29Z'

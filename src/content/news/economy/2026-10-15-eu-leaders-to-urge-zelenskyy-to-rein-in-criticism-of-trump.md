@@ -3,7 +3,7 @@ category: Economy
 country: Ukraine
 countryCode: UA
 description: Ukrainian leader’s comments about US president alarm European capitals
-displayOrder: 35
+displayOrder: 48
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-15T10:05:55Z'

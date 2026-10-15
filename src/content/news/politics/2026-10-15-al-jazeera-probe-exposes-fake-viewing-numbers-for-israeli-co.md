@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Data investigation casts doubt on claims that Israeli counter-documentary
   to &#039;NAZA&#039; received 40 million views.
-displayOrder: 7
+displayOrder: 27
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-15T13:35:46Z'

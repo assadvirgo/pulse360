@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine relies on Starshield, the military-grade version of Elon Musk&#039;s
   Starlink satellite service, to fight Russia.
-displayOrder: 13
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-15T13:32:16Z'

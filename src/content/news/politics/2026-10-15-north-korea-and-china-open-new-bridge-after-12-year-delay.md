@@ -4,7 +4,7 @@ country: North Korea
 countryCode: KP
 description: China is the North's largest trading partner and a lifeline against the
   sanctions Pyongyang faces.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-15T06:24:45Z'

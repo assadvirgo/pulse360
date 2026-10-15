@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian president expresses anger in FT interview at ‘dangerous’ withdrawal
   of US intelligence sharing
-displayOrder: 29
+displayOrder: 47
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-15T10:32:33Z'

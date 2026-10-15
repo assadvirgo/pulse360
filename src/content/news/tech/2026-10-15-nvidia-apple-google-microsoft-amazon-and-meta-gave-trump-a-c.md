@@ -5,7 +5,7 @@ countryCode: US
 description: We knew that a number of big tech firms were helping to fund the construction
   of Trump's ballroom, but we didn't know just how much they were giving to the cause.
   Now the…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-15T15:46:00Z'

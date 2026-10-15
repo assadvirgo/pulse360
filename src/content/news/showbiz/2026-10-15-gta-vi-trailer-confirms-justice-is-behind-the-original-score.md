@@ -3,7 +3,7 @@ category: Showbiz
 description: '&#8220;Grand Theft Auto VI&#8221; continues to roll out the major music
   moments from the upcoming game with the announcement that French electronic duo
   Justice will compose the…'
-displayOrder: 3
+displayOrder: 15
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-15T16:04:23Z'

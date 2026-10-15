@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Katie Zacharia has repeatedly claimed to be a lawyer, but critics question
   whether she was ever licensed.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-15T01:35:40Z'

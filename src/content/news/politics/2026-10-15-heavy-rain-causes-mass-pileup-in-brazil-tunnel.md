@@ -4,7 +4,7 @@ country: Brazil
 countryCode: BR
 description: Flooding left vehicles piled up and people stranded inside Sao Paulo’s
   Anhangabau tunnel.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-15T04:19:06Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Coworker alerted police after receiving disturbing messages from 19-year-old
   suspect.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-15T07:54:50Z'

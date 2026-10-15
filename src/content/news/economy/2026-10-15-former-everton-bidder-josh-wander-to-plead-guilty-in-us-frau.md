@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 777 Partners co-founder expected to change plea one day before trial
   over alleged scheme to defraud investors and lenders
-displayOrder: 21
+displayOrder: 36
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-15T15:33:40Z'

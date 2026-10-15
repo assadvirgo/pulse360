@@ -3,7 +3,7 @@ category: Tech
 description: Unlock significant savings on hotels, resorts, and getaways with our
   verified Hotels.com promo codes and gift card discounts. Plan your perfect trip
   today!
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-15T05:00:00Z'

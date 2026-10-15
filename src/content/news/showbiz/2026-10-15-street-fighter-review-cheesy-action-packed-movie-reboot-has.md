@@ -3,7 +3,7 @@ category: Showbiz
 description: Taking a cue from various attempts to breathe cinematic life into the
   Mortal Kombat franchise, including one earlier this year, another oldie but goodie
   from the heyday and…
-displayOrder: 6
+displayOrder: 19
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-15T16:00:00Z'

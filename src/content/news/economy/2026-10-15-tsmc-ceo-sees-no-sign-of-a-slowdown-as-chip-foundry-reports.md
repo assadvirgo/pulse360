@@ -4,7 +4,7 @@ country: Taiwan
 countryCode: TW
 description: The semiconductor foundry announced third-quarter net profits of 763.34
   Taiwanese new dollars, marking a record.
-displayOrder: 26
+displayOrder: 44
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-15T08:42:00Z'

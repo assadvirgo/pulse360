@@ -5,7 +5,7 @@ countryCode: IN
 description: Kirti Kulhari’s first feature as a producer, “Kinaare” (“Shores”), will
   premiere at the 15th Dharamshala International Film Festival (DIFF), which will
   open with Rima Das’…
-displayOrder: 28
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-15T06:30:00Z'
