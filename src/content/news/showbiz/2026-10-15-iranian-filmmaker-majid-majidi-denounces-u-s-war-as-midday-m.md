@@ -5,7 +5,7 @@ countryCode: IR
 description: The Oscar-nominated director nearly skipped Asia's leading film festival,
   but ultimately decided to attend so that he could speak out about the war’s toll
   on ordinary Iranians.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-15T05:40:48Z'

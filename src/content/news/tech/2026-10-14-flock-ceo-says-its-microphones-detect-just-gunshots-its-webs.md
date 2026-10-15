@@ -5,7 +5,7 @@ countryCode: US
 description: Langley’s comments come amid mounting scrutiny of Flock from privacy
   advocates, including the ACLU, and members of the public who are concerned about
   the misuse of its technology.
-displayOrder: 19
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-14T21:30:33Z'

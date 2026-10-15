@@ -2,7 +2,7 @@
 category: Economy
 description: European and Asian equities slide as investors question durability of
   AI boom
-displayOrder: 31
+displayOrder: 41
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-15T07:30:00Z'

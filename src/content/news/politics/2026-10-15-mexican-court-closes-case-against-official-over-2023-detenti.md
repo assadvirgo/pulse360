@@ -4,7 +4,7 @@ country: Mexico
 countryCode: MX
 description: Victims&#039; groups, however, have denounced the ruling as &#039;selective&#039;
   justice that exonerates the former migration chief.
-displayOrder: 16
+displayOrder: 39
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-15T00:08:58Z'

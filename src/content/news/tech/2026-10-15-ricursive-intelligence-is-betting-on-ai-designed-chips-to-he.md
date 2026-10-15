@@ -5,7 +5,7 @@ countryCode: US
 description: The founders detailed how their startup is developing AI that can design
   chips, learn from each iteration, and improve subsequent designs, all with the goal
   of automating and…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-15T01:01:32Z'

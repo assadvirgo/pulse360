@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Rapid growth is slower than some anticipated as fears about AI trade
   rattle markets
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-15T00:59:36Z'

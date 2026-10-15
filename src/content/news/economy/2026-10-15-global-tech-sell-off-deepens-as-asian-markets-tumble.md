@@ -4,7 +4,7 @@ country: South Korea
 countryCode: KR
 description: AI-related stocks in South Korea and Japan suffer after Wall Street falls
   on hot US inflation
-displayOrder: 23
+displayOrder: 42
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-15T01:44:46Z'

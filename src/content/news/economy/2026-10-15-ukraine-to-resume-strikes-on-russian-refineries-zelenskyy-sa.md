@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian president expresses anger in FT interview at ‘dangerous’ withdrawal
   of US intelligence sharing and weakening of Starlink satellite internet service
-displayOrder: 20
+displayOrder: 40
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-15T04:00:39Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Investors are wondering if steep inflation and increased borrowing costs
   could derail the AI buildout.
-displayOrder: 27
+displayOrder: 45
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-14T23:36:00Z'

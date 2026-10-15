@@ -4,7 +4,7 @@ country: Norway
 countryCode: 'NO'
 description: Bodo/Glimt bounce back from their thrashing at Bayern with a fine 1-0
   win in the Champions League over Borussia Dortmund.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-14T21:28:39Z'

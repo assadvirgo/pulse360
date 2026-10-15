@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Russia&#039;s Pacific Fleet has test-fired cruise missiles from a nuclear-powered
   submarine, striking a target 1,200km away.
-displayOrder: 6
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-15T07:44:35Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Anthropic’s revenue growth appears to be cooling as the company prepares
   for its public debut, further stoking investors’ AI jitters
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-15T01:07:00Z'

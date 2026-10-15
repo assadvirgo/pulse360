@@ -5,7 +5,7 @@ countryCode: DE
 description: Brajan Gruda's brilliant strike earns RB Leipzig a 1-0 win against PSV
   Eindhoven to get their first win in the league phase of this season's Champions
   League.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-10-14T21:01:05Z'

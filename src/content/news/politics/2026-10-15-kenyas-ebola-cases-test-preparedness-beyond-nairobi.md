@@ -4,7 +4,7 @@ country: Kenya
 countryCode: KE
 description: The scare exposed gaps in how far outbreak readiness reaches Kenya’s
   remote communities.
-displayOrder: 10
+displayOrder: 34
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-15T02:45:49Z'

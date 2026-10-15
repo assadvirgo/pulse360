@@ -3,7 +3,7 @@ category: Showbiz
 description: 'SPOILER ALERT: This post contains spoilers for The Diplomat Season 4,
   now streaming on Netflix. There have been three British Prime Ministers and five
   Foreign Secretaries since…'
-displayOrder: 4
+displayOrder: 24
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-15T07:01:00Z'

@@ -4,7 +4,7 @@ country: Australia
 countryCode: AU
 description: All of the spots are in South Australia, reportedly because the state
   government paid for incognito inspectors to visit.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-14T22:31:10Z'

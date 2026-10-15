@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: Investors demand big discounts against regional peers to reflect troubled
   public finances and looming presidential election
-displayOrder: 11
+displayOrder: 31
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-15T04:00:29Z'

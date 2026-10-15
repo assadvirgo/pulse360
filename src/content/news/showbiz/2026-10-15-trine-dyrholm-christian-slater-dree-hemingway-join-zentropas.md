@@ -5,7 +5,7 @@ countryCode: DK
 description: Trine Dyrholm, Christian Slater, Dree Hemingway are set to star in Jesper
   Just’s Incidents of Intimacy, the second production in Zentropa’s new collection
   of Dogma25 pictures. The…
-displayOrder: 3
+displayOrder: 22
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-15T08:39:33Z'

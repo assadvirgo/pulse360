@@ -5,7 +5,7 @@ countryCode: US
 description: At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's
   surveillance technology despite growing privacy concerns, arguing that its crime-fighting
   benefits outweigh…
-displayOrder: 22
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-15T00:49:31Z'
