@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Clay analysis traces recovered storage jars to early history workshops
   operating across the Jordan Valley.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-14T20:33:20Z'

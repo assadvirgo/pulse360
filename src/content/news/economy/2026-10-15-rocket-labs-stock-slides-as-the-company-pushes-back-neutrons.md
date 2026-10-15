@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Neutron, a medium-lift rocket meant to rival SpaceX’s Falcon 9, will
   no longer launch this year.
-displayOrder: 38
+displayOrder: 43
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-15T00:02:00Z'

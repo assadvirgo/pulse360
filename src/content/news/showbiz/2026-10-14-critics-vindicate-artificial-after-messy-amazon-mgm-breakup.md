@@ -5,7 +5,7 @@ countryCode: GB
 description: Looks like “Artificial” is the real thing. Luca Guadagnino’s genre-blending
   movie about the evils of artificial intelligence (and one of its fathers, Sam Altman)
   had a triumphant…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-14T21:49:13Z'

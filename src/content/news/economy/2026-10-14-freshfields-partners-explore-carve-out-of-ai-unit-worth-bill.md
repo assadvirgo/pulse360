@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Exchange discussed putting legal tech unit into separate entity before
   valuations fall
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-14T15:48:09Z'

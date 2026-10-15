@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Food manufacturers warn of impact on consumers ahead of midterm elections
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-14T14:14:28Z'

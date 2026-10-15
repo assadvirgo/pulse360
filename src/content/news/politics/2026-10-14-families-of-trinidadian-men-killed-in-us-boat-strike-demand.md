@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Trump administration has killed at least 239 people in boat strikes
   denounced as extrajudicial killings.
-displayOrder: 20
+displayOrder: 33
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-14T20:42:59Z'

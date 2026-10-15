@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: A brilliant strike from Santiago Mourino helped Villarreal come from
   behind to beat Napoli 3-1, to secure their first Champions League win in eight matches.
-displayOrder: 27
+displayOrder: 38
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-14T21:00:58Z'

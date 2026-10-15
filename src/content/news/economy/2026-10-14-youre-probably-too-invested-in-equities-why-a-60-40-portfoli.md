@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: For most of U.S. history, an all-stock and a 60-40 portfolio have run
   neck-and-neck for trailing 30-year returns.
-displayOrder: 42
+displayOrder: 47
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-14T22:25:00Z'

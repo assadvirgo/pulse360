@@ -4,7 +4,7 @@ country: Switzerland
 countryCode: CH
 description: Gianni Infantino faces FIFA rebels after failed World Cup sale, while
   members to be offered $6.35bn development fund.
-displayOrder: 26
+displayOrder: 35
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-14T20:25:30Z'

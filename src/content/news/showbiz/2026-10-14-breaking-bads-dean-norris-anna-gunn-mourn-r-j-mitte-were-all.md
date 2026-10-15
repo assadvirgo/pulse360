@@ -2,7 +2,7 @@
 category: Showbiz
 description: The actors from the massively successful show remember the actor who
   played Walt Jr., who died by suicide at age 34.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-14T21:25:39Z'

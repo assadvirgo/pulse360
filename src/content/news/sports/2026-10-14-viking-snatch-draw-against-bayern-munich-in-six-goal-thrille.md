@@ -5,7 +5,7 @@ countryCode: 'NO'
 description: Norwegian champions Viking score a 90th minute equaliser to snatch a
   3-3 draw against six-time European champions Bayern Munich in the Champions League,
   securing one of the…
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-14T21:00:40Z'

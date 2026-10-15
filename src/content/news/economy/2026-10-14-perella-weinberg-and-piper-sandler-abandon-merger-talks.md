@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A deal would have created an independent investment bank with an equity
   value of more than $6bn
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-14T20:16:29Z'

@@ -4,7 +4,7 @@ country: Albania
 countryCode: AL
 description: Buildings were set alight on the second day of demonstrations from thousands
   of students who want better university conditions and job prospects.
-displayOrder: 8
+displayOrder: 21
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-14T20:29:05Z'

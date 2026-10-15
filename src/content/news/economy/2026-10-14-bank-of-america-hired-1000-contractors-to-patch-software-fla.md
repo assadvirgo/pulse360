@@ -5,7 +5,7 @@ countryCode: US
 description: Bank of America hired 1,000 contractors to patch software flaws exposed
   by Anthropic’s Mythos, offering a rare look at costs involved in defending against
   AI.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-14T20:06:28Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India
   in fourth cricket T20 as another record falls.
-displayOrder: 19
+displayOrder: 32
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-14T20:52:25Z'

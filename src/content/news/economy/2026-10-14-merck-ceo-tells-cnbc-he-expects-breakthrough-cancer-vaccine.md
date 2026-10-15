@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: His comments come after Merck officially opened its new 120,000-square-foot
   research facility in the Greater Philadelphia area.
-displayOrder: 45
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-14T17:33:57Z'

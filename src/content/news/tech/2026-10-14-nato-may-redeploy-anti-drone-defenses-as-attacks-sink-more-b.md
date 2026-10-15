@@ -4,7 +4,7 @@ country: Bulgaria
 countryCode: BG
 description: Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and
   Romania.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-14T21:03:11Z'

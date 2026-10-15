@@ -5,7 +5,7 @@ countryCode: GB
 description: Sally Rooney is sticking to her guns. The Irish author behind the bestselling
   novels “Conversations with Friends” and “Normal People” — the latter adapted into
   an award-winning…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-14T20:18:35Z'

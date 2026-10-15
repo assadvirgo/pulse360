@@ -5,7 +5,7 @@ countryCode: US
 description: Jodie Sweetin is giving fans a health update on her “Full House” co-star
   Dave Coulier, eight months after the actor announced he was in remission from tongue
   cancer. Speaking with…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-15T00:07:37Z'

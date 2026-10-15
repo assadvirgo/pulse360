@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Colossal announced a new AI platform to help accelerate its de-extinction
   efforts and Peter Diamandis has launched a new fund to back startups who use it.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-14T21:00:00Z'

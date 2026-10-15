@@ -5,7 +5,7 @@ countryCode: BE
 description: Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side
   edge Inter Milan 4-3, extending Inter's Champions League losing run to four matches
   for the first time in…
-displayOrder: 28
+displayOrder: 39
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-14T21:00:52Z'

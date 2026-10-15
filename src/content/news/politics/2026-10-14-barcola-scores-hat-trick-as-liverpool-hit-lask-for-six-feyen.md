@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Following a move from Paris Saint-Germain, Bradley Barcola gets first
   Liverpool goals with Champions League hat-trick.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-14T20:12:20Z'

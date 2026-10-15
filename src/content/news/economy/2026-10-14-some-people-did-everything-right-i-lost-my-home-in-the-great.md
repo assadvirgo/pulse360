@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: ”I earn $110,000 a year.”
-displayOrder: 41
+displayOrder: 46
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-14T22:30:00Z'
