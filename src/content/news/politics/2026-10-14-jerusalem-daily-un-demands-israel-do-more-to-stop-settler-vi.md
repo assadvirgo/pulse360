@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Netanyahu warns again of Israel’s ‘enemies’ planning an attack before
   elections.
-displayOrder: 3
+displayOrder: 10
 heroImage: ''
 importance: 80.5
 pubDate: '2026-10-14T15:49:54Z'

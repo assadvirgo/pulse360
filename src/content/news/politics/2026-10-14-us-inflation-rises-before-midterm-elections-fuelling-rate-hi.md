@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Economists divided on Fed rate hike as inflation creates uncertainty
   before US midterm elections in a tense market.
-displayOrder: 4
+displayOrder: 14
 heroImage: ''
 importance: 80.5
 pubDate: '2026-10-14T15:31:29Z'

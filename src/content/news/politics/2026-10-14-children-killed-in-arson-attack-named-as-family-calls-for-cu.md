@@ -5,7 +5,7 @@ countryCode: IE
 description: Two children who died in an arson attack at a home in Ireland have been
   named as Callum and Jayden, as their family and police urge anyone with information
   to come forward.
-displayOrder: 34
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-14T11:58:00Z'

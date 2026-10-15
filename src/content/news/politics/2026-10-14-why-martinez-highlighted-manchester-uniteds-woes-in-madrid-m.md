@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Amid Premier and Champions League woes, Man United players and fans ponder
   how preseason optimism has turned to despair.
-displayOrder: 18
+displayOrder: 35
 heroImage: ''
 importance: 64.5
 pubDate: '2026-10-14T15:24:08Z'

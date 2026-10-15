@@ -5,7 +5,7 @@ countryCode: US
 description: Gavin Newsom and Mark Ruffalo haven&#8217;t patched things up since David
   Ellison&#8217;s contentious mega-bucks Paramount and Warner Bros Discovery merger
   was approved and…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-14T21:00:03Z'

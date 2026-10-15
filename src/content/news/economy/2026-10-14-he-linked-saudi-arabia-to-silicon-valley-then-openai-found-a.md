@@ -4,7 +4,7 @@ country: Saudi Arabia
 countryCode: SA
 description: Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures
   in Saudi Arabia, where he is deeply connected
-displayOrder: 35
+displayOrder: 47
 heroImage: ''
 importance: 47.5
 pubDate: '2026-10-14T14:40:47Z'

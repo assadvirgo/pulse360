@@ -5,7 +5,7 @@ countryCode: US
 description: Consulting firm McKinsey &#38; Company is going to ask some entry-level
   candidates to have a 10-minute conversation with an AI simulation of a client as
   part of the interview…
-displayOrder: 7
+displayOrder: 11
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-14T22:53:31Z'

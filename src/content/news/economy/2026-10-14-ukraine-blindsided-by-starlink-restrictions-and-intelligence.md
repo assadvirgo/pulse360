@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces
   experience connectivity problems on Elon Musk’s satellite network
-displayOrder: 26
+displayOrder: 39
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-14T21:37:16Z'

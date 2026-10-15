@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively
   guide drones to Russian targets.
-displayOrder: 31
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-14T13:11:17Z'

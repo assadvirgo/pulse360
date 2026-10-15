@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Private capital group looks to fund ambitious expansion plan to keep
   pace with rivals Blackstone and Apollo Global
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-14T10:00:02Z'

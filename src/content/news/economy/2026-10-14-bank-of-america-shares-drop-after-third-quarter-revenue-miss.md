@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Bank of America shares fell Wednesday after the company posted weaker-than-expected
   trading revenue and the impact of a $1.2 billion Treasury fine.
-displayOrder: 40
+displayOrder: 50
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-14T20:20:46Z'

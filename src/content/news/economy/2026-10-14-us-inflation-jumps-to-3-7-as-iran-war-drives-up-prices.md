@@ -3,7 +3,7 @@ category: Economy
 country: United States
 countryCode: US
 description: Rebound in fuel costs has piled pressure on voters ahead of midterm elections
-displayOrder: 20
+displayOrder: 37
 heroImage: ''
 importance: 69.5
 pubDate: '2026-10-14T13:51:24Z'

@@ -4,7 +4,7 @@ country: Colombia
 countryCode: CO
 description: Colombia has opened an embassy in West Jerusalem under new far-right
   President Abelardo de la Espriella.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-14T12:28:06Z'

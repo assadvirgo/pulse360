@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: It is the latest in a series of crackdowns on media critical of the Turkish
   president and his government.
-displayOrder: 38
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-14T10:50:11Z'

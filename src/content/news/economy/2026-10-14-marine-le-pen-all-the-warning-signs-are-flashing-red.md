@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: In a wide-ranging interview with the FT, the far-right leader declares
   that France is ready to close the chapter on mainstream politics
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-14T11:02:02Z'

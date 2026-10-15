@@ -4,7 +4,7 @@ country: Netherlands
 countryCode: NL
 description: The Dutch supplier for the semiconductor industry said there is strong
   interest in placing orders for 2029 and 2030.
-displayOrder: 47
+displayOrder: 999
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-14T08:41:00Z'

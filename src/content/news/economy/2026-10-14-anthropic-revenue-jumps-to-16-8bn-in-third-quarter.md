@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI start-up gathered investors for presentations in San Francisco on
   Wednesday ahead of its anticipated public listing
-displayOrder: 32
+displayOrder: 44
 heroImage: ''
 importance: 36.5
 pubDate: '2026-10-14T22:06:31Z'

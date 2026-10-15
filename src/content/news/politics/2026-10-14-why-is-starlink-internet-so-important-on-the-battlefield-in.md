@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: It is the "backbone of military communications in Ukraine" that provides
   vital high-speed internet to forces across the country.
-displayOrder: 10
+displayOrder: 25
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-14T19:52:04Z'

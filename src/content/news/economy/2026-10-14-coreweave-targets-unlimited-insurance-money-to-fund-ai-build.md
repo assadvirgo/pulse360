@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed
   cloud provider seeks to fund the data centre build-out
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-14T04:00:04Z'

@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Kyiv’s attacks exposed vulnerabilities of Kremlin effort to centralise
   internet services under one company
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-14T04:00:21Z'

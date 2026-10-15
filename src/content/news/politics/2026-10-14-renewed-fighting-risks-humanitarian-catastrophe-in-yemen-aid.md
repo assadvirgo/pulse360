@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Almost one million people cut off from food aid as health infrastructure
   overwhelmed by war-wounded.
-displayOrder: 16
+displayOrder: 34
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-14T15:06:18Z'
