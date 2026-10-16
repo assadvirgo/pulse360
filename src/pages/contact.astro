@@ -1,0 +1,32 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { CONTACT_EMAIL, CORRECTIONS_EMAIL } from '../site';
+const base = import.meta.env.BASE_URL;
+---
+
+<PageLayout
+  title="Contact"
+  description="How to reach pulse360 with feedback, corrections or other enquiries."
+>
+  <p>We read every message. Whatever your question, the quickest way to reach us is by email.</p>
+
+  <h2>General enquiries and feedback</h2>
+  <p><a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a></p>
+
+  <h2>Corrections</h2>
+  <p>
+    Spotted an error in a brief? Email <a href={`mailto:${CORRECTIONS_EMAIL}?subject=Correction`}>{CORRECTIONS_EMAIL}</a>
+    with the article link and the details. Our <a href={`${base}editorial-policy`}>editorial policy</a>
+    explains how we handle corrections.
+  </p>
+
+  <h2>Rights holders</h2>
+  <p>
+    If you represent a publication we summarize and have a concern about how your
+    reporting is credited or used, contact us at the address above and we will respond
+    promptly.
+  </p>
+
+  <h2>Privacy</h2>
+  <p>For questions about your data, see our <a href={`${base}privacy`}>privacy policy</a>.</p>
+</PageLayout>

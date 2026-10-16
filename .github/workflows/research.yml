@@ -38,7 +38,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
           GNEWS_KEY: ${{ secrets.GNEWS_KEY }}
-          MAX_ARTICLES_PER_RUN: "25"
+          MAX_ARTICLES_PER_RUN: "12"
         run: python scripts/researcher.py
 
       - name: Check for new articles
