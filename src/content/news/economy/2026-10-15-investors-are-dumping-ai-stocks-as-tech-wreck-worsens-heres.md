@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A continued selloff in the AI trade is forcing investors to move from
   tech names to the relative safety of government bonds and defensive stock sectors.
-displayOrder: 37
+displayOrder: 45
 heroImage: ''
 importance: 41.5
 pubDate: '2026-10-15T20:40:00Z'

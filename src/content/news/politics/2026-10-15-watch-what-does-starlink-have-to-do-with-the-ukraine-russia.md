@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukraine's president has told Elon Musk that any restriction on the Starlink's
   system cost lives.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-15T17:31:37Z'

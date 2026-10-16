@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US president overrules decision to broadcast execution of former soldier
   who carried out Texas mass shooting in 2009
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 45.5
 pubDate: '2026-10-15T17:16:02Z'

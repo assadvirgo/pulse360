@@ -4,7 +4,7 @@ country: Albania
 countryCode: AL
 description: Prime Minister Edi Rama condemns &#039;chaos&#039; as protests continue
   for third day in the capital and spread to other cities.
-displayOrder: 33
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-15T16:41:30Z'

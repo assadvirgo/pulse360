@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Intero Biosystems beat out 199 other Startup Battlefield companies to
   take home the $100,000 grand prize at TechCrunch Disrupt 2026.
-displayOrder: 18
+displayOrder: 31
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-15T23:33:45Z'

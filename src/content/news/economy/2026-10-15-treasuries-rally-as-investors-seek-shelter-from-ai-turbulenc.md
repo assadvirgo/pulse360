@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Global chip stocks hit with two-day sell-off amid fears over sustainability
   of AI boom
-displayOrder: 50
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-15T14:56:35Z'

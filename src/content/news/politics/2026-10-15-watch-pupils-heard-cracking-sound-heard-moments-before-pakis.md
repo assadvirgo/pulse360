@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Our Urdu correspondent reports from the scene in Peshawar, north-west
   Pakistan, where emergency services have been responding to the incident.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-15T15:05:29Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The president’s party is shifting spending on advertising to previously
   safe seats as election day approaches
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 59.5
 pubDate: '2026-10-15T10:00:09Z'

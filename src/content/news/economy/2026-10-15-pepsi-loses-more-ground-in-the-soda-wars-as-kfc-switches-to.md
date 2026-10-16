@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As more people switch to Coke, some analysts are getting more worried
   about the state of archrival Pepsi.
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-15T23:29:00Z'

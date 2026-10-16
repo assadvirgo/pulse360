@@ -4,7 +4,7 @@ country: Yemen
 countryCode: YE
 description: Yemen's information minister says the prime minister and other ministers
   were unhurt when ballistic missiles hit al-Maashiq Palace.
-displayOrder: 20
+displayOrder: 35
 heroImage: ''
 importance: 71.2
 pubDate: '2026-10-15T17:18:49Z'

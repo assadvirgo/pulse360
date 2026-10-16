@@ -5,7 +5,7 @@ countryCode: US
 description: Lightning strikes as Prime Video has found its leading stars for the
   upcoming TV series Fourth Wing, the small-screen adaptation of Rebecca Yarros&#8217;
   bestselling novel of the…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-10-15T21:00:00Z'

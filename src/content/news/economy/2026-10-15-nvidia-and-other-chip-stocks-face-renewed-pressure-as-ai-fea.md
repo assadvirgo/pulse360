@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Reported details about Anthropic’s financial progress are adding to concerns
   about the health of the AI ecosystem.
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 29.5
 pubDate: '2026-10-15T21:23:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Though movies about disruptive tech founders are nothing new, 2026 has
   been unusually stacked with features that take a much more critical look at how
   Silicon Valley is reshaping…
-displayOrder: 6
+displayOrder: 24
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-15T21:39:52Z'

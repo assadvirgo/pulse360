@@ -5,7 +5,7 @@ countryCode: US
 description: 'EXCLUSIVE: &#8220;Netflix is fortunate to have him.&#8221; That&#8217;s
   what LA28 boss Casey Wasserman said Thursday night of Peter Rice as the mastermind
   behind the upcoming…'
-displayOrder: 8
+displayOrder: 19
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-16T02:08:20Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The company generated over $30 million in revenue in two years and was
   acquired by MyFitnessPal for an undisclosed amount of money in March.
-displayOrder: 15
+displayOrder: 28
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-15T23:44:56Z'

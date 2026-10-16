@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Popular AI names are under pressure again this week — but the pain could
   worsen after the Nov. 3 election.
-displayOrder: 9
+displayOrder: 26
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-15T21:56:00Z'

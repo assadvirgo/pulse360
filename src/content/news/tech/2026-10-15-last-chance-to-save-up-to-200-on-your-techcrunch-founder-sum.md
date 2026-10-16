@@ -5,7 +5,7 @@ countryCode: US
 description: Savings of up to $200 end October 16 for TechCrunch Founder Summit. These
   savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders
   and investors on…
-displayOrder: 25
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-15T18:00:00Z'
