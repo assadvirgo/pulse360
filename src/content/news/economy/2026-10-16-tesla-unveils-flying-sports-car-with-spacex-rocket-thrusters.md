@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Roadster makes debut after decade in development as EV maker tries to
   revive image as brash innovator
-displayOrder: 37
+displayOrder: 47
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-16T02:41:40Z'

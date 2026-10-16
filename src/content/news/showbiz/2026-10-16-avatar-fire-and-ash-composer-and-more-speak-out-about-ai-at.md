@@ -5,7 +5,7 @@ countryCode: BE
 description: 'At a recent World Soundtrack Awards industry panel, composer Simon Franglen
   struck a common chord when talking about his work on &#8220;Avatar: Fire and Ash.&#8221;
   &#8220;We had…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-16T06:28:01Z'

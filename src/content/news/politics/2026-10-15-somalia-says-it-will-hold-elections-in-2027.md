@@ -3,7 +3,7 @@ category: Politics
 country: Somalia
 countryCode: SO
 description: Critics say unilateral decision to call polls is a recipe for more conflict.
-displayOrder: 32
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-15T20:04:02Z'

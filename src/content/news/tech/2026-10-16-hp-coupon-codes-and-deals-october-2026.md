@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers,
   PCs, and more tech.
-displayOrder: 14
+displayOrder: 31
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-16T05:00:00Z'

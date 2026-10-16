@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Four people, including three children, have died after a school shooting
   in Oregon.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-15T23:09:00Z'

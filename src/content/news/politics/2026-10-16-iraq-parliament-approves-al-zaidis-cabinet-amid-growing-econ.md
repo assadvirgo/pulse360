@@ -4,7 +4,7 @@ country: Iraq
 countryCode: IQ
 description: Iraq&#039;s parliament has finalised key minister appointments five months
   after al-Zaidi&#039;s government took office.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-16T00:31:18Z'

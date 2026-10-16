@@ -5,7 +5,7 @@ countryCode: JP
 description: 'Sega is removing Total War: Shogun 2 - Complete Edition from storefronts
   following a disastrous launch where users complained about issues like bugs and
   upscaling that appears to…'
-displayOrder: 21
+displayOrder: 40
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-15T22:35:55Z'

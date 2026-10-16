@@ -4,7 +4,7 @@ country: South Africa
 countryCode: ZA
 description: The SA coach could look for middle-order replacements outside the current
   squad but he cautioned against overreacting to their 214-run loss against Australia
-displayOrder: 48
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-15T14:15:33Z'

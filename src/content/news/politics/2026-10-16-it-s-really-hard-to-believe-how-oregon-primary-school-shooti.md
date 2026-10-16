@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old
   suspect opened fire in the city of Bend, local police say.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-16T01:36:45Z'

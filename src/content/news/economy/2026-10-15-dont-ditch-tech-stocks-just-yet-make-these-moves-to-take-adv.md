@@ -5,7 +5,7 @@ countryCode: US
 description: Investors have a ‘love-hate relationship’ with tech stocks now — and
   experts recommend selectively hunting for bargains while also betting on the major
   cloud companies.
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-15T21:21:00Z'

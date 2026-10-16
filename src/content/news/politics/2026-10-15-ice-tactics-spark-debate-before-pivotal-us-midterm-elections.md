@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Polls have found that Trump&#039;s hardline immigration enforcement effort
   has divided voters before the 2026 midterm race.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-15T21:02:31Z'

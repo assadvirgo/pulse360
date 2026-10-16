@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US central bank chair says economy has ‘broadly conformed with our expectations’
   since rate increase in September
-displayOrder: 22
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-16T06:37:09Z'

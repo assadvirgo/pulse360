@@ -1,7 +1,7 @@
 ---
 category: Economy
 description: Quicker responses to trade challenges mean companies can free up capital
-displayOrder: 33
+displayOrder: 42
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-16T04:00:17Z'

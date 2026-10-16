@@ -5,7 +5,7 @@ countryCode: SG
 description: The Singapore Media Festival will add a dedicated creator economy event
   to its lineup this year, launching the Asia Creator Summit alongside the long-running
   Asia TV Forum &#38;…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-16T08:36:57Z'

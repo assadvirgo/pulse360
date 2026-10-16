@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: British Cycling is to launch an "action plan" following a survey in which
   some responses reportedly described its World Class Programme as "toxic".
-displayOrder: 49
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-15T15:15:17Z'

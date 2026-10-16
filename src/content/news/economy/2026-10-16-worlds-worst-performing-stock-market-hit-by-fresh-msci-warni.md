@@ -4,7 +4,7 @@ country: Indonesia
 countryCode: ID
 description: Warning from global index provider fuels concerns about investability
   in south-east Asia’s biggest economy
-displayOrder: 36
+displayOrder: 45
 heroImage: ''
 importance: 35.5
 pubDate: '2026-10-16T03:35:18Z'

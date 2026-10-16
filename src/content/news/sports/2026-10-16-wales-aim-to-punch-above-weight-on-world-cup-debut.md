@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Despite a daunting group Wales women's head coach Tom Brindle says the
   team want to play their part in growing rugby league.
-displayOrder: 17
+displayOrder: 33
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-16T03:57:44Z'
