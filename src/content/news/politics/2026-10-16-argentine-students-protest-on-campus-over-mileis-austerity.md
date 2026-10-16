@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Judge fines the government for failing to fund universities as protests
   over Milei&#039;s cuts turn violent.
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-10-16T02:11:33Z'

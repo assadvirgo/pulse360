@@ -4,7 +4,7 @@ country: Ethiopia
 countryCode: ET
 description: After military pushed back TPLF uprising, PM Abiy Ahmed promises free
   elections within six months.
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-16T13:54:06Z'

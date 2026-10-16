@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Companies wanted a president who would cut taxes and rules, they got
   one who has blown holes in free trade and global alliances
-displayOrder: 38
+displayOrder: 49
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-16T04:00:17Z'

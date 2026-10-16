@@ -4,7 +4,7 @@ country: Argentina
 countryCode: AR
 description: Protesters in Buenos Aires demanded the government implement a law to
   boost university funding.
-displayOrder: 36
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-16T01:19:25Z'

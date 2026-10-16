@@ -4,7 +4,7 @@ country: Poland
 countryCode: PL
 description: Countries along NATO’s eastern flank growing increasingly concerned about
   the risk of escalation of the war in Ukraine.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 77.5
 pubDate: '2026-10-16T10:56:20Z'

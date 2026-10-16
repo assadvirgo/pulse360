@@ -4,7 +4,7 @@ country: France
 countryCode: FR
 description: France's prime minister has suggested that student anger is being weaponised,
   as the unions and other protesters prepare to take to the streets too.
-displayOrder: 30
+displayOrder: 999
 heroImage: ''
 importance: 81.2
 pubDate: '2026-10-15T23:25:06Z'

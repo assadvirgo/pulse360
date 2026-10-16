@@ -5,7 +5,7 @@ countryCode: GB
 description: 'EXCLUSIVE: A number of staffers including creative chief Damon Pattison
   have been laid off at Ricochet, the Skydance UK-owned indie that produces hit BBC
   show The Repair Shop. We…'
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-16T08:00:33Z'

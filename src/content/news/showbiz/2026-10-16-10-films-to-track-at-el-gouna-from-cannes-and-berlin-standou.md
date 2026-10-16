@@ -5,7 +5,7 @@ countryCode: EG
 description: The ninth edition of Egypt’s El Gouna Film Festival brings together a
   strong showing of Arab cinema to the Red Sea, with a lineup spanning emerging regional
   voices, established…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-16T14:30:40Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade
   status
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-16T04:00:18Z'

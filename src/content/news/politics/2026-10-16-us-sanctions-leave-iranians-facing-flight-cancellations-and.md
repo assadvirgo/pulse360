@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: New US aviation sanctions force Iranians to take longer, costlier journeys
   as international flight routes disappear.
-displayOrder: 27
+displayOrder: 999
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-16T05:51:40Z'

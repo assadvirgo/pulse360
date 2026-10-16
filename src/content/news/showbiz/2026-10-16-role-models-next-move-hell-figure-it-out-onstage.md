@@ -3,7 +3,7 @@ category: Showbiz
 description: The 29-year-old singer, who is currently on his global tour after releasing
   his third album 'Chuck Timely &#38; the Hourglass,' is embracing his new era with
   "sunglasses and this…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-16T14:45:00Z'

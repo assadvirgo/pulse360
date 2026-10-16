@@ -3,7 +3,7 @@ category: Tech
 description: Nvidia's RTX Spark N1X processor is finally here, and we've been collectively
   testing a small fortune's worth of powerful laptops sporting this new "superchip."
   RTX Spark is…
-displayOrder: 8
+displayOrder: 18
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-16T15:00:00Z'

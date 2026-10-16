@@ -4,7 +4,7 @@ country: Myanmar
 countryCode: MM
 description: ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens
   a military still bombing civilians.
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 83.5
 pubDate: '2026-10-16T01:34:47Z'

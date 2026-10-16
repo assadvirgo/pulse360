@@ -5,7 +5,7 @@ countryCode: US
 description: The author talks carrying “anxiety baggage” about the book series, revisiting
   the story in an alternate-universe retelling and reflects on the film adaptations
   never getting an…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-16T15:15:00Z'
