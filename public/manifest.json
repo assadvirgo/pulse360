@@ -1,7 +1,7 @@
 {
   "name": "pulse360",
   "short_name": "pulse360",
-  "description": "AI-synthesized global news, refreshed every 4 hours. No ads, no noise.",
+  "description": "AI-synthesized global news, refreshed every 4 hours.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#faf8f5",

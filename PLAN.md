@@ -4,7 +4,7 @@ Vision: A high-end, minimalist, AI-driven news platform covering 195+ countries,
 
 1. Core Mission & Design Philosophy
 
-"Zen" Reading: No ads, no popups, no clutter. The focus is purely on high-quality typography and clear information.
+"Zen" Reading: The focus is purely on high-quality typography and clear information.
 
 Global Intelligence: 24/7 AI-driven research covering every country across Politics, Economy, Sports, and Showbiz.
 
