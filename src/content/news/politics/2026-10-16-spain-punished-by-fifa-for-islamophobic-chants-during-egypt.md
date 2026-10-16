@@ -4,7 +4,7 @@ country: Spain
 countryCode: ES
 description: Spain sanctioned by FIFA after incidents at Espanyol&#039;s stadium in
   Barcelona, which staged the friendly with Egypt.
-displayOrder: 22
+displayOrder: 25
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-16T13:13:12Z'

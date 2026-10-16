@@ -3,7 +3,7 @@ category: Showbiz
 description: Beyond bringing back Captain John Price and Ghost, Infinity Ward narrative
   director Jeff Negus only had a rough idea of what he was looking for when he set
   out to cast…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-16T17:00:00Z'

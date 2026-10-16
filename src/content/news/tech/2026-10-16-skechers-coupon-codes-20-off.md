@@ -2,7 +2,7 @@
 category: Tech
 description: Learn how to find, compare, and apply the best Skechers online discounts
   to save on comfortable sneakers, athletic apparel, and accessories.
-displayOrder: 44
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-10-16T05:00:00Z'

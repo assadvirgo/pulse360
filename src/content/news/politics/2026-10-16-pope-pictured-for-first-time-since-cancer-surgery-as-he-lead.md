@@ -2,7 +2,7 @@
 category: Politics
 description: The Pope is said to be showing "continued improvement" as the first images
   of him were released following his lung cancer surgery.
-displayOrder: 26
+displayOrder: 29
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-16T12:22:00Z'

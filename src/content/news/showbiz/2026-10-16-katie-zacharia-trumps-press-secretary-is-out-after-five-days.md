@@ -5,7 +5,7 @@ countryCode: US
 description: White House Press Secretary Katie Zacharia is out after just five days
   on the job. President Trump told reporters Friday that he would talk to Zacharia
   about a new role. &#8220;I…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-16T18:31:26Z'

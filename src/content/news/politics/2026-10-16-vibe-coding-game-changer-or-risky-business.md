@@ -2,7 +2,7 @@
 category: Politics
 description: Vibe coding lets users build software with AI, but free alternatives
   to popular programmes raise security concerns.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-16T06:01:34Z'

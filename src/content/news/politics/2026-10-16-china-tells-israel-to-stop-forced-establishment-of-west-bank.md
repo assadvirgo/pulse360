@@ -4,7 +4,7 @@ country: China
 countryCode: CN
 description: Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog
   on the sidelines of a conference.
-displayOrder: 40
+displayOrder: 43
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-16T08:45:54Z'

@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Larry McDonald says the S&amp;P 500’s record chasing is hiding lots of
   companies with sliding stocks. He has ideas on how to play that.
-displayOrder: 17
+displayOrder: 20
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-16T14:28:00Z'

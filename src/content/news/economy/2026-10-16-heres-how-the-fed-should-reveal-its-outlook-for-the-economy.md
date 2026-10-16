@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: As Chairman Kevin Warsh looks to revamp the central bank’s communication
   strategy, the dot plot is ripe for change.
-displayOrder: 16
+displayOrder: 19
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-16T17:07:00Z'

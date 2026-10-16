@@ -5,7 +5,7 @@ countryCode: US
 description: It's been a couple of days since Apple's big smart home announcement,
   and we have some more information - and a bunch of new questions - about the Apple
   HomeView. The device has…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-16T15:38:17Z'

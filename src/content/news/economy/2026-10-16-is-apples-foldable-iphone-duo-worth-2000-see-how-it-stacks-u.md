@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Preorders for the iPhone Duo began Friday, marking Apple’s debut in a
   foldable phone market largely dominated by Samsung and Google.
-displayOrder: 33
+displayOrder: 34
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-16T14:40:00Z'

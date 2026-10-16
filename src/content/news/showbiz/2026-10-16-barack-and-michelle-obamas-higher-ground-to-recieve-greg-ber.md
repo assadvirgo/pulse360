@@ -5,7 +5,7 @@ countryCode: US
 description: Higher Ground, the media company founded by Barack and Michelle Obama,
   will receive the second annual Greg Berlanti Social Impact Award, the Center for
   Scholars &#38; Storytellers…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 67.8
 pubDate: '2026-10-16T15:04:50Z'
