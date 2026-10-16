@@ -14,6 +14,12 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from researcher import (
     RawArticle,
     _COUNTRY_LINE_RE,
+    already_covered,
+    build_source_prompt,
+    cluster_stories,
+    lead_paragraph,
+    source_text_length,
+    title_tokens,
     build_existing_slugs,
     diversify_sorted,
     extract_domain,
@@ -386,3 +392,63 @@ class TestLoadSources:
             assert by_name["BBC"].categories == ["Politics", "Economy"]
         finally:
             researcher.SOURCES_FILE = original
+
+
+class TestClusterStories:
+    def test_merges_same_story_from_different_outlets(self):
+        a = _make_article(title="Japan earthquake kills dozens in Ishikawa", source_name="Reuters", importance=80)
+        b = _make_article(title="Earthquake in Ishikawa, Japan kills dozens", source_name="BBC News",
+                          url="https://bbc.com/x", importance=70)
+        c = _make_article(title="Apple unveils new iPad lineup", source_name="The Verge",
+                          url="https://verge.com/y", importance=60)
+        stories = cluster_stories([a, b, c])
+        assert len(stories) == 2
+        assert stories[0] is a
+        assert stories[0].related == [b]
+        assert stories[0].importance > 80  # multi-outlet boost
+
+    def test_does_not_merge_same_outlet(self):
+        a = _make_article(title="Japan earthquake kills dozens", source_name="Reuters")
+        b = _make_article(title="Japan earthquake kills dozens more", source_name="Reuters", url="https://r.com/2")
+        assert len(cluster_stories([a, b])) == 2
+
+    def test_title_tokens_drop_stopwords(self):
+        assert title_tokens("The President of the US says") == {"president", "us"}
+        assert title_tokens("arrests") == title_tokens("arrested")
+
+
+class TestSourceGrounding:
+    def test_prompt_includes_every_source(self):
+        a = _make_article(source_name="Reuters", summary="Fact one.")
+        a.related.append(_make_article(source_name="BBC News", url="https://bbc.com/x", summary="Fact two."))
+        prompt = build_source_prompt(a)
+        assert "Reuters" in prompt and "BBC News" in prompt
+        assert "Fact one." in prompt and "Fact two." in prompt
+
+    def test_source_text_length_sums_sources(self):
+        a = _make_article(summary="x" * 50)
+        a.related.append(_make_article(summary="y" * 30))
+        assert source_text_length(a) == 80
+
+    def test_already_covered(self):
+        a = _make_article(title="Japan earthquake kills dozens in Ishikawa")
+        assert already_covered(a, [title_tokens("Ishikawa earthquake kills dozens in Japan")])
+        assert not already_covered(a, [title_tokens("Apple unveils new iPad lineup")])
+
+    def test_lead_paragraph_skips_headings_and_lists(self):
+        body = "## Key facts\n\n- one\n- two\n\nOpening paragraph here."
+        assert lead_paragraph(body) == "Opening paragraph here."
+
+    def test_write_article_records_all_sources(self, tmp_path, monkeypatch):
+        import frontmatter as fm
+        import researcher
+        monkeypatch.setattr(researcher, "CONTENT_DIR", tmp_path)
+        a = _make_article(source_name="Reuters", url="https://reuters.com/a")
+        a.related.append(_make_article(source_name="BBC News", url="https://bbc.com/b"))
+        path = write_article(a, "Our own opening paragraph.\n\n## Key facts\n\n- one", "2026-03-20-test")
+        post = fm.load(str(path))
+        assert post["sources"] == [
+            {"name": "Reuters", "url": "https://reuters.com/a"},
+            {"name": "BBC News", "url": "https://bbc.com/b"},
+        ]
+        assert post["description"] == "Our own opening paragraph."

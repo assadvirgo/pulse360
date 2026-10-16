@@ -14,7 +14,7 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
-const { title, pubDate, description, category, heroImage, sentiment, sourceUrl, tags } = article.data;
+const { title, pubDate, description, category, heroImage, sentiment, sourceUrl, source, sources, tags } = article.data;
 
 const index = await getArticleIndex();
 const readingTime = readingTimeOf(index, article);
@@ -33,6 +33,7 @@ const related = getRelated(index, article);
   heroImage={heroImage}
   sentiment={sentiment}
   sourceUrl={sourceUrl}
+  sources={sources.length > 0 ? sources : [{ name: source, url: sourceUrl }]}
   readingTime={readingTime}
   tags={tags}
 >

@@ -1,0 +1,64 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { CONTACT_EMAIL } from '../site';
+const base = import.meta.env.BASE_URL;
+---
+
+<PageLayout
+  title="About"
+  description="What pulse360 is, how our news briefs are produced, and who to contact."
+  updated="October 16, 2026"
+>
+  <p>
+    pulse360 is an independent news digest. We follow reporting from established
+    outlets around the world, including wire services, public broadcasters and
+    specialist publications, and turn it into short, plain-language briefs that you
+    can read in a minute or two.
+  </p>
+  <p>
+    We don't claim to replace original journalism. Every brief names and links to
+    the outlets that did the reporting, and we encourage you to read them.
+  </p>
+
+  <h2>How a brief is made</h2>
+  <ol>
+    <li>
+      <strong>Monitoring.</strong> Every few hours we check a fixed list of news
+      sources, from Reuters, AP and the BBC to sector publications in technology,
+      business, sport and entertainment.
+    </li>
+    <li>
+      <strong>Grouping.</strong> When several outlets report the same event, we group
+      their coverage into one story rather than publishing it several times.
+    </li>
+    <li>
+      <strong>Selection.</strong> Stories are ranked by how widely they are covered,
+      how credible the reporting outlets are and how significant the subject is. We
+      skip stories when the available reporting is too thin to summarize accurately.
+    </li>
+    <li>
+      <strong>Drafting with AI.</strong> An AI language model drafts the brief, under
+      strict instructions to use only facts stated by the reporting outlets, to
+      attribute claims, and never to add speculation or invented detail.
+    </li>
+    <li>
+      <strong>Sourcing and corrections.</strong> Each brief lists its sources. If you
+      find an error, tell us and we will correct it. See our
+      <a href={`${base}editorial-policy`}>editorial policy</a>.
+    </li>
+  </ol>
+
+  <h2>What we add</h2>
+  <p>
+    Beyond the briefs themselves, pulse360 tags every story by country, topic and
+    tone, so you can see at a glance what is happening in a particular
+    <a href={`${base}country`}>country</a> or field, and how coverage compares across
+    outlets.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Questions, corrections or feedback: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.
+    More options are on our <a href={`${base}contact`}>contact page</a>.
+  </p>
+</PageLayout>

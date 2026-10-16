@@ -15,6 +15,7 @@ const news = defineCollection({
     sentiment: z.enum(['Positive', 'Negative', 'Neutral']).default('Neutral'),
     tags: z.array(z.string()).default([]),
     source: z.string().optional().default(''),
+    sources: z.array(z.object({ name: z.string(), url: z.string().url() })).default([]),
     importance: z.number().optional().default(0),
     displayOrder: z.number().optional().default(999),
   }),

@@ -24,7 +24,7 @@ import re
 import subprocess
 import sys
 from dataclasses import dataclass, field
-from datetime import UTC, datetime
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
 
 # Load .env file automatically when running locally
@@ -58,10 +58,20 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "")
 GNEWS_KEY = os.environ.get("GNEWS_KEY", "")
 
-MAX_ARTICLES_PER_RUN = int(os.environ.get("MAX_ARTICLES_PER_RUN", "25"))
+MAX_ARTICLES_PER_RUN = int(os.environ.get("MAX_ARTICLES_PER_RUN", "12"))
 MAX_PER_SOURCE = int(os.environ.get("MAX_PER_SOURCE", "8"))
+HOMEPAGE_SIZE = int(os.environ.get("HOMEPAGE_SIZE", "50"))
 LLM_MODEL = "gpt-4o-mini"
-LLM_WORD_TARGET = "400-600"
+LLM_WORD_TARGET = "150-300"
+
+# Stories whose combined source text is shorter than this are skipped:
+# there is not enough reported fact to summarize without padding.
+MIN_SOURCE_CHARS = int(os.environ.get("MIN_SOURCE_CHARS", "200"))
+
+# Title similarity (Jaccard over significant words) at which two items
+# from different outlets are treated as the same story.
+STORY_SIMILARITY = float(os.environ.get("STORY_SIMILARITY", "0.33"))
+MAX_SOURCES_PER_STORY = 5
 
 NEWSAPI_CATEGORIES = ["general", "business", "sports", "entertainment", "technology", "science"]
 GNEWS_CATEGORIES = ["general", "business", "sports", "entertainment", "technology", "science"]
@@ -129,6 +139,12 @@ class RawArticle:
     category: str  # normalised to Politics/Economy/Sports/Showbiz
     published_at: datetime
     importance: float = 0.0  # 0-100 composite score set by score_article()
+    # Other outlets' coverage of the same story (set by cluster_stories())
+    related: list["RawArticle"] = field(default_factory=list)
+
+    @property
+    def all_sources(self) -> list["RawArticle"]:
+        return [self, *self.related]
 
 
 @dataclass
@@ -511,16 +527,122 @@ def discover(sources: list[SourceConfig]) -> list[RawArticle]:
     for a in unique:
         a.importance = score_article(a)
 
-    # Sort by importance (highest first), then diversify so adjacent
-    # articles aren't all from the same source
+    # Sort by importance (highest first), merge coverage of the same story
+    # from different outlets, then diversify so adjacent articles aren't
+    # all from the same source
     unique.sort(key=lambda a: a.importance, reverse=True)
-    unique = diversify_sorted(unique)
+    stories = cluster_stories(unique)
+    stories.sort(key=lambda a: a.importance, reverse=True)
+    stories = diversify_sorted(stories)
 
-    if unique:
-        log.info("Top scored: [%.1f] %s (%s)", unique[0].importance, unique[0].title[:60], unique[0].source_name)
+    if stories:
+        log.info("Top scored: [%.1f] %s (%s)", stories[0].importance, stories[0].title[:60], stories[0].source_name)
 
-    log.info("Discovery complete: %d unique articles across all sources", len(unique))
-    return unique
+    multi = sum(1 for s in stories if s.related)
+    log.info(
+        "Discovery complete: %d unique articles → %d stories (%d with multiple outlets)",
+        len(unique), len(stories), multi,
+    )
+    return stories
+
+
+# ---------------------------------------------------------------------------
+# Story clustering (same event, different outlets)
+# ---------------------------------------------------------------------------
+
+_TITLE_STOPWORDS: set[str] = {
+    "a", "an", "the", "and", "or", "but", "of", "to", "in", "on", "at", "for",
+    "with", "by", "from", "as", "is", "are", "was", "were", "be", "been", "its",
+    "it", "this", "that", "after", "over", "into", "about", "says", "said",
+    "new", "will", "has", "have", "had", "not", "no", "up", "out", "who", "what",
+    "how", "why", "than", "more", "amid", "vs", "his", "her", "their",
+}
+
+
+def _stem(word: str) -> str:
+    """Crude suffix stripping so 'arrests'/'arrested' match."""
+    for suffix in ("ing", "ed", "es", "s"):
+        if len(word) > len(suffix) + 2 and word.endswith(suffix):
+            return word[: -len(suffix)]
+    return word
+
+
+def title_tokens(title: str) -> set[str]:
+    """Significant, stemmed lowercase words of a headline, used for story matching."""
+    words = re.findall(r"[a-z0-9]+", title.lower())
+    return {_stem(w) for w in words if w not in _TITLE_STOPWORDS and len(w) > 1}
+
+
+def title_similarity(a: str, b: str) -> float:
+    ta, tb = title_tokens(a), title_tokens(b)
+    if not ta or not tb:
+        return 0.0
+    return len(ta & tb) / len(ta | tb)
+
+
+def cluster_stories(articles: list[RawArticle]) -> list[RawArticle]:
+    """Group articles from different outlets that cover the same story.
+
+    *articles* must be sorted by importance (highest first). The first
+    article of each group becomes the lead; the others are attached to
+    it as ``related`` sources. Stories covered by several outlets get an
+    importance boost, since independent coverage signals significance.
+    """
+    leads: list[RawArticle] = []
+    lead_tokens: list[set[str]] = []
+
+    for article in articles:
+        tokens = title_tokens(article.title)
+        match: RawArticle | None = None
+        for lead, lt in zip(leads, lead_tokens):
+            if not tokens or not lt:
+                continue
+            if len(tokens & lt) / len(tokens | lt) < STORY_SIMILARITY:
+                continue
+            if any(s.source_name == article.source_name for s in lead.all_sources):
+                continue
+            if len(lead.all_sources) >= MAX_SOURCES_PER_STORY:
+                continue
+            match = lead
+            break
+        if match is None:
+            leads.append(article)
+            lead_tokens.append(tokens)
+        else:
+            match.related.append(article)
+
+    for lead in leads:
+        if lead.related:
+            lead.importance = round(min(100.0, lead.importance + 4 * min(3, len(lead.related))), 1)
+
+    return leads
+
+
+def source_text_length(article: RawArticle) -> int:
+    """Total characters of reported text available across a story's sources."""
+    return sum(len(s.summary.strip()) for s in article.all_sources)
+
+
+def recent_story_tokens(existing: list["ExistingArticle"], days: int = 3) -> list[set[str]]:
+    """Title tokens of articles published in the last *days* days (by slug date)."""
+    cutoff = (datetime.now(UTC) - timedelta(days=days)).strftime("%Y-%m-%d")
+    return [
+        title_tokens(ea.title)
+        for ea in existing
+        if ea.slug[:10] >= cutoff
+    ]
+
+
+def already_covered(article: RawArticle, recent: list[set[str]]) -> bool:
+    """True if any of the story's headlines matches a recently published one."""
+    for src in article.all_sources:
+        tokens = title_tokens(src.title)
+        if not tokens:
+            continue
+        for rt in recent:
+            if rt and len(tokens & rt) / len(tokens | rt) >= STORY_SIMILARITY:
+                return True
+    return False
 
 
 def interleave_sources(articles: list[RawArticle]) -> list[RawArticle]:
@@ -651,49 +773,72 @@ def is_duplicate(slug: str, existing_slugs: set[str]) -> bool:
 client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 SYSTEM_PROMPT = (
-    "You are a sophisticated, neutral, and authoritative news writer for pulse360, "
-    "a global news platform. Your writing is calm, precise, and insightful — free of "
-    "sensationalism, bias, and clickbait. Use Markdown headers (## ) to structure the "
-    "article. Write in English regardless of the source language. "
-    f"Target length: {LLM_WORD_TARGET} words.\n\n"
-    "IMPORTANT: On the very first line of your response, output the ISO 3166-1 alpha-2 "
-    "country code of the country this article is primarily about, in this exact format:\n"
+    "You write short, factual news briefs for pulse360, a news digest that summarizes "
+    "reporting from established outlets and always links to them. Readers rely on you "
+    "to be accurate, so these rules are strict:\n"
+    "- Use ONLY facts stated in the source excerpts provided. Never add names, numbers, "
+    "dates, quotes, causes, reactions or context that are not in the excerpts.\n"
+    "- Attribute claims to the outlet that reported them (e.g. 'according to Reuters').\n"
+    "- Do not speculate, predict, editorialize or pad. No generic filler such as "
+    "'this highlights the importance of…' or 'it remains to be seen…'. If the sources "
+    "say little, write little.\n"
+    "- Write in English regardless of the source language. Neutral, plain tone.\n"
+    f"- Length: {LLM_WORD_TARGET} words, shorter if the sources are brief.\n\n"
+    "Format the body in Markdown:\n"
+    "1. An opening paragraph (2-3 sentences) stating what happened.\n"
+    "2. '## Key facts' — 3-5 bullet points, each a concrete fact from the sources.\n"
+    "3. Only when more than one outlet is provided and they differ in emphasis or "
+    "detail: '## How outlets reported it' — 1-3 bullets naming each outlet. Omit "
+    "this section otherwise.\n"
+    "4. Only when the sources themselves state upcoming steps: '## What's next' — one "
+    "short paragraph. Omit this section otherwise.\n"
+    "Do not repeat the headline as a heading.\n\n"
+    "On the very first line of your response, output the ISO 3166-1 alpha-2 "
+    "country code of the country this story is primarily about, in this exact format:\n"
     "COUNTRY: XX\n"
     "Use the code that best represents the main country of the story (e.g. US, GB, FR, "
     "CN, IN). If the story is truly global with no single primary country, use COUNTRY: ZZ.\n"
-    "Then leave a blank line and write the article body."
+    "Then leave a blank line and write the body.\n\n"
+    "If the excerpts do not contain enough concrete facts for at least three bullet "
+    "points, output only the COUNTRY line followed by the single word INSUFFICIENT."
 )
 
 
 _COUNTRY_LINE_RE = re.compile(r"^COUNTRY:\s*([A-Z]{2})\s*$", re.MULTILINE)
 
 
+def build_source_prompt(article: RawArticle) -> str:
+    """Render a story's headline and every outlet's excerpt for the LLM."""
+    parts = [f"Headline: {article.title}", f"Category: {article.category}", ""]
+    for i, src in enumerate(article.all_sources, start=1):
+        parts.append(f"Source {i} — {src.source_name} ({extract_domain(src.url)})")
+        parts.append(f"Headline: {src.title}")
+        parts.append(f"Excerpt: {src.summary.strip()}")
+        parts.append("")
+    parts.append("Write the news brief using only the information above.")
+    return "\n".join(parts)
+
+
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=30))
 def synthesize(article: RawArticle) -> tuple[str, str]:
-    """Call GPT-4o-mini to synthesize a full Markdown article body.
+    """Call the LLM to write a short, source-grounded Markdown news brief.
 
     Returns (body, country_code) where country_code is a 2-letter ISO code
     extracted from the first line of the LLM response (e.g. "US", "GB").
     Falls back to "" if the model doesn't include the COUNTRY line.
+    body is "" when the model judged the sources too thin to summarize.
     """
     if client is None:
         raise RuntimeError("OPENAI_API_KEY is not set")
-
-    user_content = (
-        f"Headline: {article.title}\n\n"
-        f"Source snippet:\n{article.summary}\n\n"
-        f"Category: {article.category}\n\n"
-        "Write a complete, well-structured news article based on the above information."
-    )
 
     response = client.chat.completions.create(
         model=LLM_MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_content},
+            {"role": "user", "content": build_source_prompt(article)},
         ],
-        temperature=0.4,
-        max_tokens=900,
+        temperature=0.2,
+        max_tokens=600,
     )
     raw = response.choices[0].message.content or ""
 
@@ -706,6 +851,8 @@ def synthesize(article: RawArticle) -> tuple[str, str]:
         raw = raw[:m.start()] + raw[m.end():]
 
     body = raw.strip()
+    if body.upper().rstrip(".") == "INSUFFICIENT":
+        body = ""
     return body, country_code
 
 
@@ -730,6 +877,15 @@ def truncate_description(text: str, max_chars: int = 180) -> str:
     return text[:max_chars].rsplit(" ", 1)[0] + "…"
 
 
+def lead_paragraph(body: str) -> str:
+    """First prose paragraph of a Markdown body (skips headings and lists)."""
+    for block in re.split(r"\n\s*\n", body):
+        block = block.strip()
+        if block and not block.startswith(("#", "-", "*", ">")) and not re.match(r"\d+\.", block):
+            return block
+    return ""
+
+
 # ---------------------------------------------------------------------------
 # Writer
 # ---------------------------------------------------------------------------
@@ -743,11 +899,17 @@ def write_article(article: RawArticle, body: str, slug: str, country_code: str =
 
     # Final sanitisation pass before writing to disk
     clean_title = sanitize_plain_text(article.title)
-    clean_desc = sanitize_plain_text(article.summary or article.title)
-    description = truncate_description(clean_desc)
     clean_body = sanitize_body(body)
+    # Describe the story with our own opening paragraph rather than
+    # copying the source outlet's excerpt
+    clean_desc = sanitize_plain_text(lead_paragraph(clean_body) or article.summary or article.title)
+    description = truncate_description(clean_desc)
     sentiment = infer_sentiment(clean_body)
     source_domain = extract_domain(article.url)
+    sources = [
+        {"name": s.source_name or extract_domain(s.url), "url": s.url}
+        for s in article.all_sources
+    ]
 
     post = frontmatter.Post(
         clean_body,
@@ -757,6 +919,7 @@ def write_article(article: RawArticle, body: str, slug: str, country_code: str =
         category=article.category,
         sourceUrl=article.url,
         source=source_domain,
+        sources=sources,
         importance=article.importance,
         displayOrder=999,
         heroImage="",
@@ -1023,7 +1186,7 @@ def main() -> None:
         sys.exit(1)
 
     log.info("=== pulse360 researcher starting ===")
-    homepage_size = MAX_ARTICLES_PER_RUN * 2  # 2 iterations → 50
+    homepage_size = HOMEPAGE_SIZE
 
     # Phase 1: Discover & score new articles (no AI tokens spent)
     sources = load_sources()
@@ -1032,13 +1195,28 @@ def main() -> None:
     # Phase 2: Load existing articles from disk
     existing_articles = load_existing_articles()
     existing_slugs = {a.slug for a in existing_articles}
+    recent_titles = recent_story_tokens(existing_articles)
 
-    # Phase 3: Pick top N *new* candidates by importance → synthesize
+    # Phase 3: Pick top N *new* candidates by importance → synthesize.
+    # Skip stories we already covered (under another outlet's headline)
+    # and stories whose sources carry too little reported text.
     new_candidates: list[tuple[RawArticle, str]] = []
+    skipped_thin = skipped_covered = 0
     for article in raw_articles:
         slug = make_slug(article)
-        if slug not in existing_slugs:
-            new_candidates.append((article, slug))
+        if slug in existing_slugs:
+            continue
+        if source_text_length(article) < MIN_SOURCE_CHARS:
+            skipped_thin += 1
+            continue
+        if already_covered(article, recent_titles):
+            skipped_covered += 1
+            continue
+        new_candidates.append((article, slug))
+    log.info(
+        "Skipped %d thin stories and %d already-covered stories",
+        skipped_thin, skipped_covered,
+    )
 
     new_candidates.sort(key=lambda x: x[0].importance, reverse=True)
     to_synthesize = select_with_quotas(new_candidates, MAX_ARTICLES_PER_RUN)
@@ -1050,11 +1228,17 @@ def main() -> None:
 
     new_files: list[Path] = []
     for article, slug in to_synthesize:
-        log.info("Synthesizing [%.1f]: %s", article.importance, article.title[:80])
+        log.info(
+            "Synthesizing [%.1f] (%d sources): %s",
+            article.importance, len(article.all_sources), article.title[:80],
+        )
         try:
             body, country_code = synthesize(article)
         except Exception as exc:
             log.warning("Synthesis failed for '%s': %s — skipping", article.title[:60], exc)
+            continue
+        if not body:
+            log.info("Sources too thin for '%s' — skipping", article.title[:60])
             continue
         path = write_article(article, body, slug, country_code=country_code)
         new_files.append(path)

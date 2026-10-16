@@ -1,0 +1,58 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { CORRECTIONS_EMAIL } from '../site';
+---
+
+<PageLayout
+  title="Editorial policy"
+  description="How pulse360 chooses sources, uses AI, attributes reporting and handles corrections."
+  updated="October 16, 2026"
+>
+  <h2>Our standards</h2>
+  <ul>
+    <li><strong>Accuracy first.</strong> A brief may only state what the reporting outlets stated. If the reporting is too thin to summarize, we don't publish.</li>
+    <li><strong>Attribution.</strong> Claims are credited to the outlet that reported them, and every brief links to its sources.</li>
+    <li><strong>Neutrality.</strong> We don't editorialize, take political positions or write sensational headlines.</li>
+    <li><strong>No duplication.</strong> When several outlets cover the same event, we publish one brief that draws on all of them.</li>
+  </ul>
+
+  <h2>Sources</h2>
+  <p>
+    We monitor a fixed list of established news organizations: international wire
+    services, public broadcasters, national newspapers and recognized specialist
+    publications. Sources are weighted by reliability, and more credible outlets carry
+    more weight in what we choose to cover. We don't use anonymous blogs, social media
+    posts or press releases as sole sources.
+  </p>
+
+  <h2>Use of AI</h2>
+  <p>
+    pulse360 uses an AI language model to draft its briefs from the source reporting.
+    The model works under fixed instructions:
+  </p>
+  <ul>
+    <li>use only facts contained in the source material;</li>
+    <li>attribute claims to the outlet that reported them;</li>
+    <li>don't speculate, predict or add commentary;</li>
+    <li>decline to write a brief when the source material is insufficient.</li>
+  </ul>
+  <p>
+    AI can still make mistakes. That is why every brief links to the original reporting,
+    and why we act on corrections quickly. Every article carries a note saying it was
+    produced with AI assistance.
+  </p>
+
+  <h2>Corrections</h2>
+  <p>
+    If you find a factual error, email <a href={`mailto:${CORRECTIONS_EMAIL}`}>{CORRECTIONS_EMAIL}</a>
+    with the article link and what is wrong. We review every report. Confirmed errors
+    are corrected, and briefs that cannot be corrected are removed.
+  </p>
+
+  <h2>Independence</h2>
+  <p>
+    pulse360 isn't affiliated with any of the outlets it summarizes. Advertising,
+    if shown, is served by third-party networks and has no influence on which
+    stories we cover or how they are summarized.
+  </p>
+</PageLayout>
