@@ -5,7 +5,7 @@ countryCode: US
 description: David Ellison&#8217;s freshly formed Skydance Corp. is off to a rocky
   start on Wall Street. He won Warner Bros. Discovery after a yearlong battle. But
   investors, at this point,…
-displayOrder: 10
+displayOrder: 21
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-15T20:03:50Z'

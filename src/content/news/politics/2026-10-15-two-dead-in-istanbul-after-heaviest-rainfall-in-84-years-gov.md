@@ -4,7 +4,7 @@ country: Turkey
 countryCode: TR
 description: Residents have been told to avoid leaving their homes unless absolutely
   necessary.
-displayOrder: 41
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-15T10:05:29Z'

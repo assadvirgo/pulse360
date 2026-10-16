@@ -2,7 +2,7 @@
 category: Economy
 description: Debt issued by AI infrastructure providers and neocloud companies has
   sunk towards stressed territory
-displayOrder: 24
+displayOrder: 36
 heroImage: ''
 importance: 56.5
 pubDate: '2026-10-15T15:25:47Z'

@@ -5,7 +5,7 @@ countryCode: IQ
 description: Neanderthals were not the unintelligent cave dwellers of popular imagination,
   but may have been capable of showing both violence and care, researchers who have
   discovered bones…
-displayOrder: 11
+displayOrder: 24
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-15T18:25:00Z'

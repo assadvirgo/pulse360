@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainians accuse the US of gambling with their lives as Russian strikes
   devastated residential buildings in the capital
-displayOrder: 29
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-15T13:19:09Z'

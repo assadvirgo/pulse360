@@ -2,7 +2,7 @@
 category: Politics
 description: Video shows containers and debris scattered around the Strait of Hormuz
   due to the recent attacks on vessels.
-displayOrder: 42
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-10-15T08:06:06Z'

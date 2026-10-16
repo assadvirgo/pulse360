@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Zimbabwe, who are yet to win a T20I this year, are playing their first
   ever bilateral series against India
-displayOrder: 38
+displayOrder: 47
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-15T12:19:47Z'

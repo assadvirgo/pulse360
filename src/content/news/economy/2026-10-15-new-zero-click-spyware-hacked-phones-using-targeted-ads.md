@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Citizen Lab researchers uncover Israeli-developed ‘AdFection’ technique
   that requires no interaction from victim to infect devices
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 49.5
 pubDate: '2026-10-15T10:00:09Z'

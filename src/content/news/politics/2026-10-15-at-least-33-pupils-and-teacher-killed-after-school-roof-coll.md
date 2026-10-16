@@ -4,7 +4,7 @@ country: Pakistan
 countryCode: PK
 description: Children were buried under the debris after the roof crashed through
   three classrooms, police say.
-displayOrder: 12
+displayOrder: 26
 heroImage: ''
 importance: 68.2
 pubDate: '2026-10-15T15:26:16Z'

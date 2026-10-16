@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lawsuit comes weeks before midterm elections and follows debunked claims
   of noncitizens voting in various states.
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 67.5
 pubDate: '2026-10-15T21:44:59Z'

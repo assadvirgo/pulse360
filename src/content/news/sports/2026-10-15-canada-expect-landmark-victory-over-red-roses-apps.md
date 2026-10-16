@@ -4,7 +4,7 @@ country: Canada
 countryCode: CA
 description: Scrum-half Olivia Apps believes the time is right for Canada to end England's
   four-year unbeaten run when the teams meet on Friday
-displayOrder: 40
+displayOrder: 48
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-15T13:34:56Z'

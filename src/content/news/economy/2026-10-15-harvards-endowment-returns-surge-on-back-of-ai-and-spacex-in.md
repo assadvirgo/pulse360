@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ivy League university’s fund gains 27.1%, boosting total assets to $68bn
   as private capital holdings rebound
-displayOrder: 30
+displayOrder: 35
 heroImage: ''
 importance: 43.5
 pubDate: '2026-10-15T20:06:22Z'

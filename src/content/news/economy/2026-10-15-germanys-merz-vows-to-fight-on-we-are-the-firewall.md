@@ -4,7 +4,7 @@ country: Germany
 countryCode: DE
 description: Defiant chancellor tells the FT he is determined to drive through unpopular
   reforms and equip Europe for an age of upheaval
-displayOrder: 46
+displayOrder: 999
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-15T12:00:08Z'

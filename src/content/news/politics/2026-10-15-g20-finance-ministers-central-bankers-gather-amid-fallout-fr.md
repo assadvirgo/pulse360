@@ -4,7 +4,7 @@ country: Thailand
 countryCode: TH
 description: Officials meet in Thailand as conflict drives energy prices higher and
   casts uncertainty over global economy.
-displayOrder: 39
+displayOrder: 999
 heroImage: ''
 importance: 77.5
 pubDate: '2026-10-15T06:16:46Z'

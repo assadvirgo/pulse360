@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Ukraine's president says a pause on striking energy sites is over following
   fresh Russian attacks.
-displayOrder: 14
+displayOrder: 27
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-15T15:09:15Z'
