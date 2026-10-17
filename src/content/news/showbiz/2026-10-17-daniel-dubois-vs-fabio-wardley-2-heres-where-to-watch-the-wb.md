@@ -5,7 +5,7 @@ countryCode: GB
 description: Daniel Dubois is set to defend his WBO heavyweight title against Fabio
   Wardley in a rematch organized by Queensberry Promotions in England. The fight is
   scheduled for 12 rounds.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-17T15:00:00Z'

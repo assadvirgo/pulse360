@@ -5,7 +5,7 @@ countryCode: US
 description: Bose has introduced new wired earbuds, which come at a time when sales
   of wired earbuds have increased after five years of decline. This resurgence in
   wired earbud sales is…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-17T13:00:00Z'
