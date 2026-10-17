@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: AI is likely to pay off eventually, but investors are getting sick of
   all the hand-wringing over near-term returns, analysts say.
-displayOrder: 27
+displayOrder: 24
 heroImage: ''
 importance: 41.5
 pubDate: '2026-10-16T18:01:00Z'

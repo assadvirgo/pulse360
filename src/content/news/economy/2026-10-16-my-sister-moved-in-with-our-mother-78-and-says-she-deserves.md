@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: “The house is worth $925,000 and mom owns it outright. She also has $480,000
   in investments.”
-displayOrder: 39
+displayOrder: 37
 heroImage: ''
 importance: 32.5
 pubDate: '2026-10-16T19:00:00Z'

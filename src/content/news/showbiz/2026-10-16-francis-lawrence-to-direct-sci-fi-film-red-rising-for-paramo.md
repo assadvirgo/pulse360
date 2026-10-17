@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount has acquired the film rights to the sci-fi book series "Red
   Rising" by Pierce Brown. Francis Lawrence will direct the adaptation of the first
   installment.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-16T21:18:47Z'

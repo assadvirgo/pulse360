@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Announcement follows deal with Putin as US president tries to contain
   impact of higher fuel costs ahead of midterm elections
-displayOrder: 999
+displayOrder: 48
 heroImage: ''
 importance: 82.5
 pubDate: '2026-10-12T10:44:13Z'

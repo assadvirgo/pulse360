@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: The agents got in through credentials and connection settings left exposed
   in app configurations, public code repositories, and overly permissive cloud roles.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-16T17:52:24Z'

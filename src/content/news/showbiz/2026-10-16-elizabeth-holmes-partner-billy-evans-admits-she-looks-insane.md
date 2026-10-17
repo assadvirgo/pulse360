@@ -5,7 +5,7 @@ countryCode: US
 description: Elizabeth Holmes' partner Billy Evans discussed the documentary "You
   Can See Everything" on the "All-In" podcast. He explained why they allowed a camera
   crew into their home…
-displayOrder: 7
+displayOrder: 8
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-16T22:00:54Z'

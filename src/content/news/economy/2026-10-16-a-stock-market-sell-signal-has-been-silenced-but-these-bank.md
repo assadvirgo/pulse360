@@ -5,7 +5,7 @@ countryCode: US
 description: Even though October’s correction has brought about some relief for bond
   markets and revivified the rate sensitive sectors of the stock market, Bank of America’s
   strategists…
-displayOrder: 40
+displayOrder: 39
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-16T14:14:00Z'
