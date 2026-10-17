@@ -5,7 +5,7 @@ countryCode: US
 description: Selma Blair has pleaded not guilty after being charged with second-degree
   assault for allegedly assaulting two flight attendants on a Delta flight from Los
   Angeles to New York.…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-10-16T20:06:40Z'

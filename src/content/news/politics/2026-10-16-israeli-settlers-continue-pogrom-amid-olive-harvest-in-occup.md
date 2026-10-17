@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: At least two people, including Washington Post journalist, injured as
   settlers armed with clubs and guns attack.
-displayOrder: 27
+displayOrder: 31
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-16T13:04:32Z'

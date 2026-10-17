@@ -4,7 +4,7 @@ country: Russia
 countryCode: RU
 description: Russia has close ties with the Taliban and is courting Islamabad, but
   analysts say its leverage remains uncertain.
-displayOrder: 21
+displayOrder: 24
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-16T13:56:43Z'

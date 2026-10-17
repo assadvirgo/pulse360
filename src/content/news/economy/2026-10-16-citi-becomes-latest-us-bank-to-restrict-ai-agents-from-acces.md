@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: US lenders fear chatbots could shift billions of dollars in deposits
   to higher-yielding accounts
-displayOrder: 28
+displayOrder: 26
 heroImage: ''
 importance: 46.5
 pubDate: '2026-10-16T14:58:54Z'

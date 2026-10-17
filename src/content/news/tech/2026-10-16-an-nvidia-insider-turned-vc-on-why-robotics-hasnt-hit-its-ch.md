@@ -5,7 +5,7 @@ countryCode: US
 description: Amulya Vishwanath, a former product marketing leader for NVIDIA’s robotics
   platforms, describes the current state of robotics as being in its "Lego era." He
   notes that fundamental…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-10-16T16:30:00Z'

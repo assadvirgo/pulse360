@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has launched its own smart home devices after over a decade of
   encouraging other companies to create products for its platform. The new Apple Home
   Collection includes…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-16T18:30:27Z'

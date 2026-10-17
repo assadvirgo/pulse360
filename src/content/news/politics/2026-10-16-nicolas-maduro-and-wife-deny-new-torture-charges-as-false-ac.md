@@ -4,7 +4,7 @@ country: Venezuela
 countryCode: VE
 description: Ousted Venezuelan President Nicolas Maduro has rejected newly unsealed
   torture allegations against him and his wife as "false accusations".
-displayOrder: 40
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-16T09:00:00Z'

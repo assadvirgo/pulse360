@@ -4,7 +4,7 @@ country: Lebanon
 countryCode: LB
 description: Hezbollah said explosives were to be used against Israel but political
   figures and some analysts fear assassinations.
-displayOrder: 15
+displayOrder: 17
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-16T16:09:43Z'

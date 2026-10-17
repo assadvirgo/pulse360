@@ -4,7 +4,7 @@ country: Croatia
 countryCode: HR
 description: Croatia&#039;s Hajduk Split hosted Ajax on Thursday, but chants for pre-World
   War II regime precede UEFA Europa League game.
-displayOrder: 30
+displayOrder: 35
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-16T12:42:30Z'

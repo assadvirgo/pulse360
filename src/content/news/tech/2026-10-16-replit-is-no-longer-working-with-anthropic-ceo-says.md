@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Replit has ended its partnership with Anthropic, according to the company's
   CEO. The decision was influenced by various factors, including cost considerations.
-displayOrder: 6
+displayOrder: 11
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-16T21:22:28Z'

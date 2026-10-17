@@ -5,7 +5,7 @@ countryCode: US
 description: The hiring of Peter Rice at Netflix may indicate a shift in corporate
   culture regarding the future of movies. The traditional profile of a Hollywood executive
   is undergoing…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-16T23:18:36Z'

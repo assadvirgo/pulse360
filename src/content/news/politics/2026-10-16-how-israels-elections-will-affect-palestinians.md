@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: How Israel votes this month will shape the future of over 5.5 million
   Palestinians who have no say in the election.
-displayOrder: 43
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-16T07:04:54Z'

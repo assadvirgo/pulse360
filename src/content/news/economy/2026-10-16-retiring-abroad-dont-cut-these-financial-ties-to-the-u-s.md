@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Think carefully about your Social Security, Medicare, credit cards and
   bank accounts before picking your new home overseas.
-displayOrder: 36
+displayOrder: 33
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-16T15:00:00Z'

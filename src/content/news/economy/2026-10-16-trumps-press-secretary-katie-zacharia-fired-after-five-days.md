@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Exit comes amid deepening turmoil for White House as midterm elections
   loom
-displayOrder: 22
+displayOrder: 18
 heroImage: ''
 importance: 42.5
 pubDate: '2026-10-16T18:23:09Z'

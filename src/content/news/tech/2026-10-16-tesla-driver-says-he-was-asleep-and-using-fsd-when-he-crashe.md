@@ -5,7 +5,7 @@ countryCode: US
 description: A Tesla driver reportedly stated he was asleep and using the Full Self-Driving
   (FSD) mode when he crashed into highway patrol cars. The California Highway Patrol
   has issued a…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 76.2
 pubDate: '2026-10-16T20:49:04Z'

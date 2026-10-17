@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Tesla CEO Elon Musk showcased the vehicle at a facility owned by his
   SpaceX company, which helped develop the model.
-displayOrder: 33
+displayOrder: 39
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-16T12:32:31Z'

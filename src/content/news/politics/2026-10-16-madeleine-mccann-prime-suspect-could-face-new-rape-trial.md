@@ -5,7 +5,7 @@ countryCode: DE
 description: The prime suspect in the Madeleine McCann case may face a new rape trial.
   German prosecutors have initiated a legal effort to overturn his acquittal on multiple
   sex charges that…
-displayOrder: 42
+displayOrder: 44
 heroImage: ''
 importance: 46.0
 pubDate: '2026-10-16T11:03:00Z'

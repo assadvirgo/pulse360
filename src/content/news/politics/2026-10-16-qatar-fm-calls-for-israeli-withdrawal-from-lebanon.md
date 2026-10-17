@@ -4,7 +4,7 @@ country: Qatar
 countryCode: QA
 description: Qatar’s prime minister and minister of foreign affairs has reaffirmed
   his country’s support for Lebanon.
-displayOrder: 17
+displayOrder: 19
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-16T14:01:08Z'
