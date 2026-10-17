@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic and New York City’s comptroller have opened a line of communication
   to discuss “existential risks” posed by AI and what that could mean for the company’s
   future stock.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-10-16T18:37:00Z'

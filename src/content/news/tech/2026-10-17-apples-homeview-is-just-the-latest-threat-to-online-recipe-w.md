@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has introduced HomeView, a new smart display, showcasing it through
   an unconventional advertisement that highlights a family's chaotic morning routine.
   This approach…
-displayOrder: 7
+displayOrder: 11
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-17T12:00:00Z'

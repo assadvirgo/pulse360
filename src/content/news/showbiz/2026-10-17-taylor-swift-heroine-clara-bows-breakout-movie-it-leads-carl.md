@@ -5,7 +5,7 @@ countryCode: FR
 description: A distribution deal has been established between French classic film
   distributor Carlotta Films and U.S. restoration company Artcraft Pictures. The 1927
   silent film "It,"…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-17T10:37:17Z'

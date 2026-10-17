@@ -5,7 +5,7 @@ countryCode: GB
 description: J.K. Rowling's agent, Neil Blair, criticized transgender rights activists
   for protesting before a gala performance of "Harry Potter and the Cursed Child"
   in London. The protest…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-17T11:03:38Z'

@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: India&#039;s Cockroach Janta Party founder Abhijeet Dipke and student
   leader Neha Bora were detained ahead of a flag march.
-displayOrder: 20
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-16T16:16:13Z'

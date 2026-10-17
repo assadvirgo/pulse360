@@ -5,7 +5,7 @@ countryCode: US
 description: Mark Wahlberg is developing his own gym concept aimed at making fitness
   more accessible. He promises features such as a cold plunge, blood panel, and protein
   muffin without…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-17T02:36:18Z'

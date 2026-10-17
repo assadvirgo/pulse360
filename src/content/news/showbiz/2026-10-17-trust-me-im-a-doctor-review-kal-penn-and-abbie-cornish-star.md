@@ -5,7 +5,7 @@ countryCode: US
 description: '"Trust Me, I’m a Doctor" is a film featuring Kal Penn and Abbie Cornish,
   focusing on Sandeep Kapoor, the physician who treated Anna Nicole Smith. The film
   explores Kapoor''s…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-17T11:31:28Z'

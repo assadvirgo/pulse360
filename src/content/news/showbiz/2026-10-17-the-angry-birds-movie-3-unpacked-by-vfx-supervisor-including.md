@@ -5,7 +5,7 @@ countryCode: US
 description: The VFX supervisor for "The Angry Birds Movie 3" discussed the character
   Red's redesign and the automation of character effects. DNEG Animation had to rebuild
   much of Red to bring…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-10-17T13:56:06Z'

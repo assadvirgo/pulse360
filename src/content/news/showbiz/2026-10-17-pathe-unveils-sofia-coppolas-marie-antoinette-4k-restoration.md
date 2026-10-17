@@ -5,7 +5,7 @@ countryCode: FR
 description: Pathé has unveiled a 4K restoration of Sofia Coppola's film "Marie Antoinette"
   along with three works by Louis Daquin. This announcement coincides with the honoring
   of Jérôme…
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-17T12:07:35Z'
