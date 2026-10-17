@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has updated its App Store rules to more explicitly ban "nudify"
   apps that create intimate images of individuals without their consent using AI tools.
   This change follows…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-16T22:51:22Z'

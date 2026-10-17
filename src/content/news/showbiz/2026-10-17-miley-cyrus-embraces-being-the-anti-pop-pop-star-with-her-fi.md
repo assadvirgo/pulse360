@@ -5,7 +5,7 @@ countryCode: US
 description: Miley Cyrus performed her first 'Bass Persuades' concert at the Hollywood
   Bowl. During the show, she expressed feeling drained after a lengthy trek back to
   the main stage.
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-17T07:53:16Z'

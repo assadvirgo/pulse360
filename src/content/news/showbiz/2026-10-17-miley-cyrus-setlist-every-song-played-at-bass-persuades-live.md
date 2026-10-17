@@ -5,7 +5,7 @@ countryCode: US
 description: 'Miley Cyrus began her "Miley: Bass Persuades – Live at the Hollywood
   Bowl" shows at the Hollywood Bowl in Los Angeles. This marks her first headlining
   performance in years.'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-17T03:37:30Z'

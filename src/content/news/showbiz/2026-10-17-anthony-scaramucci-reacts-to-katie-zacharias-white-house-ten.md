@@ -5,7 +5,7 @@ countryCode: US
 description: Anthony Scaramucci commented on Katie Zacharia's tenure as White House
   press secretary, which was shorter than his own 10-day term as communications director
   in 2017. He stated,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-10-17T03:38:34Z'

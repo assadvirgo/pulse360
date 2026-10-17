@@ -4,7 +4,7 @@ country: Iran
 countryCode: IR
 description: Iranian President Masoud Pezeshkian has decried the ecological damage
   caused by conflict in the Middle East
-displayOrder: 13
+displayOrder: 15
 heroImage: ''
 importance: 63.5
 pubDate: '2026-10-16T16:45:03Z'

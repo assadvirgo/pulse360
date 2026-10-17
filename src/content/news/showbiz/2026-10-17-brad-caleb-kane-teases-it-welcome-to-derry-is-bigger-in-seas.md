@@ -5,7 +5,7 @@ countryCode: US
 description: 'Brad Caleb Kane, the showrunner for Season 2 of "It: Welcome to Derry,"
   has indicated that the upcoming season will present a new version of the character
   Pennywise. Kane…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-17T01:30:07Z'

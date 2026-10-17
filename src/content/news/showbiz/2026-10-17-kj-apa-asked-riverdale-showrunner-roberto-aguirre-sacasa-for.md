@@ -5,7 +5,7 @@ countryCode: US
 description: KJ Apa has expressed interest in a cameo for the upcoming adaptation
   of "Afterlife with Archie." The actor, who portrayed Archie in "Riverdale" for seven
   seasons, reached out to…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 49.0
 pubDate: '2026-10-17T02:50:05Z'

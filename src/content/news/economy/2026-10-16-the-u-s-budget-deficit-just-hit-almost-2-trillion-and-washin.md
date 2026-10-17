@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The deficit figure is the largest since 2021 and amounts to an estimated
   6.2% of U.S. gross domestic product.
-displayOrder: 23
+displayOrder: 33
 heroImage: ''
 importance: 39.5
 pubDate: '2026-10-16T18:00:00Z'
