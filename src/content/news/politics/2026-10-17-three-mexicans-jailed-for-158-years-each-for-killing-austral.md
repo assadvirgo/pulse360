@@ -5,7 +5,7 @@ countryCode: MX
 description: Three Mexican men have been sentenced to 158 years each in prison for
   the murders of Australian and US surfers. The sentencing follows their conviction
   for the 2024 killings.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 61.5
 pubDate: '2026-10-17T05:01:14Z'

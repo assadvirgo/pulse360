@@ -5,7 +5,7 @@ countryCode: US
 description: TikTok has banned the social media account associated with Alex Gibney's
   documentary about Elon Musk. The ban occurred just before the film's wider release,
   and the distributor,…
-displayOrder: 10
+displayOrder: 9
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-17T19:32:23Z'

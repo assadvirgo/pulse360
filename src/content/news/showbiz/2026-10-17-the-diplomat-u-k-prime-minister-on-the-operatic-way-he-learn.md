@@ -3,7 +3,7 @@ category: Showbiz
 description: The Netflix series "The Diplomat" features a political shakeup in its
   latest season, which includes surreal elements such as hallucinations, costumes,
   and an aria. Showrunner…
-displayOrder: 2
+displayOrder: 3
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-17T23:11:46Z'
