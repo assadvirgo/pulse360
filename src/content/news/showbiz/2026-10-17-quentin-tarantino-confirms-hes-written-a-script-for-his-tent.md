@@ -5,7 +5,7 @@ countryCode: US
 description: Quentin Tarantino has confirmed that he has written a script for his
   tenth feature film. However, he will not pursue it further until his newly opened
   play, "The Popinjay…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-17T23:59:24Z'

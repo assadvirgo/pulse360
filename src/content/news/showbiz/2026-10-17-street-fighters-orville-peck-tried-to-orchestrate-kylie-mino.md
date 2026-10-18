@@ -5,7 +5,7 @@ countryCode: US
 description: Orville Peck, who stars as Vega in the new "Street Fighter" movie, attempted
   to arrange a cameo for Kylie Minogue, who famously portrayed Cammy in the original
   game. Peck…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-17T21:06:20Z'

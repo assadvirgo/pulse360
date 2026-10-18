@@ -5,7 +5,7 @@ countryCode: DE
 description: Mercedes-AMG has introduced its first ground-up SUV, the 2028 Mercedes-AMG
   GT SUV, which features over 1,150 horsepower and ultra-fast charging capabilities.
   This new model…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-17T17:00:00Z'

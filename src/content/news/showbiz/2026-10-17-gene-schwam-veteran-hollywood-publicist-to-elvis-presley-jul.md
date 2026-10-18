@@ -5,7 +5,7 @@ countryCode: US
 description: Veteran Hollywood publicist Gene Schwam has died at the age of 96 in
   Los Angeles after a brief illness. Schwam represented notable talents including
   Elvis Presley, Julie Andrews,…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 67.8
 pubDate: '2026-10-17T17:28:07Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The New York Knicks are set to play their home opener at Madison Square
   Garden on October 20. The game has generated significant interest, making it one
   of the most sought-after…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-17T23:03:54Z'

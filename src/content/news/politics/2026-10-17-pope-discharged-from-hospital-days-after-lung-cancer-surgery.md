@@ -5,7 +5,7 @@ countryCode: IT
 description: Pope Francis has been discharged from the hospital following lung cancer
   surgery. He is set to give the traditional Angelus prayer and blessing in St Peter's
   Square on Sunday.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-17T13:51:36Z'
