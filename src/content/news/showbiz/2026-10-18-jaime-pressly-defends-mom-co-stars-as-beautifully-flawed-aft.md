@@ -5,7 +5,7 @@ countryCode: US
 description: Jaime Pressly has defended her former "Mom" co-star Anna Faris in response
   to comments made by co-creator Chuck Lorre in his memoir "Sitcom." Lorre expressed
   his hesitation to…
-displayOrder: 3
+displayOrder: 5
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-18T17:23:50Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Lenovo has introduced the Legion Go S, a handheld device running SteamOS,
   which is positioned as an alternative to the Steam Deck OLED. The Legion Go S features
   a larger…
-displayOrder: 8
+displayOrder: 11
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-18T15:00:00Z'

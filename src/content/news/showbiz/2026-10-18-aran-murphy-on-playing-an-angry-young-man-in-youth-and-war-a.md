@@ -5,7 +5,7 @@ countryCode: US
 description: Aran Murphy is currently co-starring in two HBO shows, "Youth" and "War,"
   and plays a lead role in Taika Waititi's upcoming film "Klara and the Sun," which
   is set to be released…
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-18T18:00:00Z'

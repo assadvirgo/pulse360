@@ -5,7 +5,7 @@ countryCode: US
 description: Cindy Crawford, Rande Gerber, and Kaia Gerber remembered Presley Gerber
   on social media following his death in September at the age of 27. They expressed
   their heartbreak and…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 65.8
 pubDate: '2026-10-18T17:52:24Z'

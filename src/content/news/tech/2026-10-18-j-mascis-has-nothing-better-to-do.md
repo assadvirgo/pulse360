@@ -5,7 +5,7 @@ countryCode: US
 description: Dinosaur Jr. frontman J Mascis is recognized for his laid-back stage
   presence and guitar skills. He has also gained a reputation for being a quiet interview
   subject, often…
-displayOrder: 11
+displayOrder: 14
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-18T14:00:00Z'
