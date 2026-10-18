@@ -5,7 +5,7 @@ countryCode: US
 description: KJ Apa is being considered for the role of Jimmy Stewart in a new biopic
   titled "Jimmy." He reflected on his preparation for the role by revisiting the classic
   film "It's a…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-17T19:00:00Z'

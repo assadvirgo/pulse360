@@ -3,7 +3,7 @@ category: Showbiz
 description: The costume designer for "Sense and Sensibility," Grace Snell, is focusing
   on blending historical accuracy with modern styling in her work for the film adaptation
   of Jane Austen's…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-17T18:00:00Z'

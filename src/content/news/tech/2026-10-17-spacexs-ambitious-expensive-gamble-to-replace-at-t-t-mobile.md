@@ -5,7 +5,7 @@ countryCode: US
 description: SpaceX has announced plans to become a major wireless carrier by acquiring
   a significant portion of low-band spectrum to expand its Starlink network. This
   move is seen as an…
-displayOrder: 8
+displayOrder: 9
 heroImage: ''
 importance: 69.2
 pubDate: '2026-10-17T14:00:00Z'
