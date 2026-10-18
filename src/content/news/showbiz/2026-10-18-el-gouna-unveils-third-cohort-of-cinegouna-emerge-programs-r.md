@@ -5,7 +5,7 @@ countryCode: EG
 description: Egypt’s El Gouna Film Festival has announced the third cohort of emerging
   talents selected for its Rising Stars program. The program highlights filmmakers
   from across the Arab…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-18T12:01:00Z'

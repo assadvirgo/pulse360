@@ -3,7 +3,7 @@ category: Tech
 description: The introduction of overhead projectors in classrooms significantly altered
   the educational environment. Originally used for military purposes, this technology
   changed not only…
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-18T12:55:01Z'

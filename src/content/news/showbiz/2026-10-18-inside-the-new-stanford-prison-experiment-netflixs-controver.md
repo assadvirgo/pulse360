@@ -5,7 +5,7 @@ countryCode: US
 description: A new reality series on Netflix explores the infamous Stanford Prison
   Experiment, a social study conducted in 1971. The experiment, led by Stanford psychology
   professor Philip…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-10-18T15:05:00Z'
