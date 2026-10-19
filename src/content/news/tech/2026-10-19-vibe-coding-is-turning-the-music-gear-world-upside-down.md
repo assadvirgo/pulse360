@@ -3,7 +3,7 @@ category: Tech
 description: The music gear world is experiencing significant changes due to the rise
   of vibe coding. This trend is characterized by the development of custom firmware
   for hardware…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-10-19T12:30:00Z'

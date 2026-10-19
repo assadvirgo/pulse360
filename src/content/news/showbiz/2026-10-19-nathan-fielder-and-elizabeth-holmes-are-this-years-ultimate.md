@@ -5,7 +5,7 @@ countryCode: US
 description: Nathan Fielder has inspired a Halloween costume duo featuring himself
   and Elizabeth Holmes. This follows the release of his documentary, which has led
   to the creation of…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-19T17:24:12Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Maeve Communications has launched a new publicity and strategic communications
   company based in New York. Co-founded by Laura Puig and Michelle Ciciyasvili, the
   company will focus…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-19T17:22:00Z'

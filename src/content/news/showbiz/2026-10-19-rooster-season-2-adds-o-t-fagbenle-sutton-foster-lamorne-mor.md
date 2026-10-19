@@ -5,7 +5,7 @@ countryCode: US
 description: HBO Max's "Rooster" has announced several guest stars for its upcoming
   second season. The new additions include O-T Fagbenle, Sutton Foster, Lamorne Morris,
   Zavior Phillips, and…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-19T18:00:00Z'

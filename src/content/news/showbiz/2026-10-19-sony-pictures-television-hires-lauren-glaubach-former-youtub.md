@@ -5,7 +5,7 @@ countryCode: US
 description: Sony Pictures Television has appointed Lauren Glaubach as executive vice
   president of distribution for digital and social platforms. This is a newly created
   role aimed at…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-19T17:00:00Z'

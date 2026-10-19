@@ -3,7 +3,7 @@ category: Politics
 description: European football chiefs have sent a list of questions to FIFA regarding
   Gianni Infantino's alleged conflicts of interest related to business dealings with
   the Trump family and…
-displayOrder: 12
+displayOrder: 14
 heroImage: ''
 importance: 40.0
 pubDate: '2026-10-19T14:05:00Z'
