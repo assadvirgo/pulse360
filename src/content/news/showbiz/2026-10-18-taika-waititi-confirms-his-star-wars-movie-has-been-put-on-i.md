@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Taika Waititi has confirmed that his "Star Wars" movie is on hold indefinitely.
   The director announced this while promoting his latest film, "Klara and the Sun."
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-18T23:39:01Z'

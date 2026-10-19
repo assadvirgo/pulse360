@@ -5,7 +5,7 @@ countryCode: GB
 description: Amid supporter discontent, Celtic's situation has drawn attention following
   a recent protest against the major shareholder. Veteran manager Martin O'Neill stated
   that now is not…
-displayOrder: 12
+displayOrder: 10
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-18T20:50:09Z'

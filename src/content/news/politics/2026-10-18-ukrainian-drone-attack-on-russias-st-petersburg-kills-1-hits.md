@@ -5,7 +5,7 @@ countryCode: RU
 description: A Ukrainian drone attack on St. Petersburg resulted in one death and
   targeted energy sites, according to reports. This incident follows Russian attacks
   on Ukraine that reportedly…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-18T10:34:09Z'

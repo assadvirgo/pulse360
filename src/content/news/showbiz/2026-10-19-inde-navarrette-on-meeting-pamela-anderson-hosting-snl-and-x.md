@@ -5,7 +5,7 @@ countryCode: US
 description: Inde Navarrette had a busy weekend attending events in California. The
   "Obsession" star participated in the Academy Museum Gala on Saturday and attended
   the Newport Beach Film…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-19T00:40:41Z'

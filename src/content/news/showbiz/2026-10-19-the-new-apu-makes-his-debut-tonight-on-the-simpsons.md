@@ -5,7 +5,7 @@ countryCode: US
 description: Apu will make his vocal return on "The Simpsons" in tonight's episode
   titled "The Revengening." The character, previously voiced by Hank Azaria for nearly
   30 years, has not been…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-19T02:16:52Z'

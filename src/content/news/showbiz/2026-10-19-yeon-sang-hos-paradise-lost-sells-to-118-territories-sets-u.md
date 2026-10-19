@@ -5,7 +5,7 @@ countryCode: KR
 description: Yeon Sang-ho's film "Paradise Lost" has been sold to 118 territories
   globally. The film, a psychological thriller, will also have its U.S. premiere at
   the Hawaii International…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-19T02:18:36Z'

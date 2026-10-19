@@ -5,7 +5,7 @@ countryCode: AL
 description: Albania's prime minister stated he will not resign amid ongoing protests
   and unrest. He warned that the escalating violence poses a threat to the country's
   prospects for joining…
-displayOrder: 10
+displayOrder: 15
 heroImage: ''
 importance: 74.0
 pubDate: '2026-10-18T12:54:00Z'
