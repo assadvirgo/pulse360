@@ -5,7 +5,7 @@ countryCode: IN
 description: Indian superstar Rajinikanth’s film "Jailer 2" ranked as the second-biggest
   film globally over the weekend of October 16-18, grossing $31.2 million. The film
   was outperformed by…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-19T08:41:49Z'

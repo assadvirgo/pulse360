@@ -5,7 +5,7 @@ countryCode: PH
 description: '"Ria," the debut feature by Filipino filmmaker Arvin Belarmino, has
   been acquired by international sales company Lights On after its world premiere
   at the Busan International Film…'
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-10-19T07:02:36Z'

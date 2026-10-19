@@ -5,7 +5,7 @@ countryCode: KR
 description: '"Paradise Lost," a new psychological thriller by director Yeon Sang-ho,
   has secured sales in 118 countries. The film is set to have its U.S. premiere at
   the 46th Hawai‘i…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-19T07:20:07Z'

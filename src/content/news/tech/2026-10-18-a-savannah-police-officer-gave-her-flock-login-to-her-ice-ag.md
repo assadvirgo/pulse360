@@ -5,7 +5,7 @@ countryCode: US
 description: Former Savannah police officer Amber Harpe was fired after an investigation
   revealed she shared her Flock login information with her husband, who is an ICE
   agent. The Savannah…
-displayOrder: 9
+displayOrder: 13
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-18T22:20:53Z'

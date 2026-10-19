@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A woman in Philadelphia was arrested for blocking the path of an Uber
   delivery robot. She was charged with disorderly conduct after refusing to move.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-18T18:28:10Z'

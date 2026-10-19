@@ -5,7 +5,7 @@ countryCode: US
 description: Disney has agreed to hire the majority of Character.AI's workforce, with
   most employees accepting job offers. However, the agreement is a stalking horse
   bid, meaning another…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-18T16:30:00Z'

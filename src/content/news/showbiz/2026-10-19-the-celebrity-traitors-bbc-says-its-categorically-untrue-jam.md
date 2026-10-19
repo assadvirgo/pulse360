@@ -5,7 +5,7 @@ countryCode: GB
 description: The BBC has denied claims that James Acaster made a complaint regarding
   the behavior of his co-stars, Rob Beckett and Romesh Ranganathan, during the show
   The Celebrity Traitors.…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-19T09:09:05Z'

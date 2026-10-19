@@ -5,7 +5,7 @@ countryCode: US
 description: Selena Gomez revealed that heavy nicotine vaping has altered her voice
   and announced that she has quit the habit. She shared this information in a video
   posted to her Instagram…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-19T09:20:32Z'

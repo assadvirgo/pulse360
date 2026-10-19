@@ -5,7 +5,7 @@ countryCode: KR
 description: Seventeen's Jeonghan and Joshua have released their first album as the
   duo JxJ, titled "Dreamscape." This marks Jeonghan's first new music since completing
   South Korea's mandatory…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-19T09:01:00Z'
