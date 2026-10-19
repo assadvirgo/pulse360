@@ -5,7 +5,7 @@ countryCode: NZ
 description: Mister Organ is a documentary directed by David Farrier, an Auckland
   journalist. The film explores the unsettling life of Michael Organ and his campaign
   of terror against those…
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 72.2
 pubDate: '2026-10-18T19:30:00Z'

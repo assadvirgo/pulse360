@@ -5,7 +5,7 @@ countryCode: US
 description: Taylor Swift performed a four-song set with a full band at the Academy
   Museum's 6th Annual Gala, marking her first such performance since the Eras Tour.
   The event took place in…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-18T18:05:24Z'

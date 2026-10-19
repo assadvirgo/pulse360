@@ -5,7 +5,7 @@ countryCode: US
 description: Rep. Ritchie Torres of New York introduced the Power To The Players Act,
   which aims to ensure consumers have ownership of video games upon purchase rather
   than a licensing…
-displayOrder: 999
+displayOrder: 15
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-18T16:27:51Z'

@@ -4,7 +4,7 @@ country: Israel
 countryCode: IL
 description: Donald Trump has endorsed Benjamin Netanyahu ahead of the upcoming Israeli
   elections. He referred to Netanyahu as a "great warrior prime minister" in his endorsement.
-displayOrder: 6
+displayOrder: 9
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-18T14:50:00Z'

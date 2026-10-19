@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix's Spanish drama "La Bola Negra" debuted with box office grosses
   of $277.5k across four screens, marking the company's first official box office
   figures. The film, which…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-10-18T16:46:26Z'

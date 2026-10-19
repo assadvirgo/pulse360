@@ -5,7 +5,7 @@ countryCode: US
 description: A new wave of synthetic drugs is impacting communities in the United
   States, with particular concern in South Side, Chicago. Local residents are actively
   engaged in efforts to…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-18T21:00:22Z'
