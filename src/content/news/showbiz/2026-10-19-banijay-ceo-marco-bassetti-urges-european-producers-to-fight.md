@@ -5,7 +5,7 @@ countryCode: IT
 description: Marco Bassetti, CEO of Banijay Entertainment, emphasized the need for
   European producers to negotiate better terms of trade with U.S. studios and streamers.
   He made these remarks…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 69.8
 pubDate: '2026-10-19T17:14:44Z'

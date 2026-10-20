@@ -5,7 +5,7 @@ countryCode: US
 description: AI labs are focusing on model benchmarking to evaluate AI products, but
   the methods used for these evaluations are complex and still developing, according
   to Irene Solaiman,…
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 65.0
 pubDate: '2026-10-19T22:49:27Z'

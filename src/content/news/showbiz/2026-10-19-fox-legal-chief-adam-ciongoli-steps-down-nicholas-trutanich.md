@@ -5,7 +5,7 @@ countryCode: US
 description: Fox has announced that Adam Ciongoli, the Chief Legal and Policy Officer,
   will step down when his contract ends on December 1. Nicholas Trutanich has been
   promoted to General…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-19T22:51:09Z'

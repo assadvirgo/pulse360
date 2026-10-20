@@ -5,7 +5,7 @@ countryCode: US
 description: Kris Bowers will compose the original score for Disney's animated feature
   "Hexed." The film features a cast that includes Hailee Steinfeld, Rashida Jones,
   Jodie Foster, and Walton…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-19T19:48:06Z'
