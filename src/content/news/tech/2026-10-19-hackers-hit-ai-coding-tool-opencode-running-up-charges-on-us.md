@@ -5,7 +5,7 @@ countryCode: US
 description: OpenCode, an open source AI coding agent, has been targeted by hackers
   who accessed part of its online platform and stole some users' API keys. The platform
   is noted as a popular…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-19T19:28:34Z'

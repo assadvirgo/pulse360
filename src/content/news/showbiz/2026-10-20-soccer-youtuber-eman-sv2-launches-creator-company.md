@@ -2,7 +2,7 @@
 category: Showbiz
 description: Soccer YouTuber Eman SV2 is launching a creator company named Frenzy.
   The company will focus on content, commerce, and live experiences.
-displayOrder: 2
+displayOrder: 13
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-20T08:00:00Z'

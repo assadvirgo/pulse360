@@ -2,7 +2,7 @@
 category: Showbiz
 description: The newly-merged Banijay/All3Media entity, now known as Banijay Entertainment,
   has announced its senior leadership team.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-20T08:00:00Z'

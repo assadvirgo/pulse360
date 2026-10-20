@@ -5,7 +5,7 @@ countryCode: KE
 description: Self-proclaimed pastor Paul Mackenzie and his co-accused have been found
   guilty of multiple murder charges in Kenya. The charges include the murders of 190
   children and one adult.
-displayOrder: 10
+displayOrder: 15
 heroImage: ''
 importance: 76.2
 pubDate: '2026-10-19T17:18:04Z'

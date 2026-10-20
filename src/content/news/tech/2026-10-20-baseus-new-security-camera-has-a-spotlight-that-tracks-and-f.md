@@ -3,7 +3,7 @@ category: Tech
 description: Baseus has introduced a new AI-assisted security camera designed to actively
   deter unwanted visitors. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual
   Camera features a…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-20T04:00:00Z'
