@@ -5,7 +5,7 @@ countryCode: US
 description: Disney will feature an animated "Alterna-Cast" for the 2027 Super Bowl,
   including C-3PO from the "Star Wars" franchise. The golden droid will guide viewers
   through ESPN's coverage…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-20T01:48:29Z'

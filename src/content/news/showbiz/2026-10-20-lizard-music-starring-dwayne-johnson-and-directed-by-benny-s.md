@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon MGM Studios has announced the theatrical release date for the
   film "Lizard Music," which stars Dwayne Johnson and is directed by Benny Safdie.
   The movie is set to premiere…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-20T00:00:00Z'

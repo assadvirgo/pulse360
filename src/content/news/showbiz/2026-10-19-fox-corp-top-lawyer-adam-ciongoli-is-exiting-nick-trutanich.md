@@ -5,7 +5,7 @@ countryCode: US
 description: Fox Corp. announced that Adam Ciongoli, the chief legal and policy officer,
   will not renew his contract and will step down from his role effective December
   1. Nicholas Trutanich,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 66.8
 pubDate: '2026-10-19T20:31:42Z'

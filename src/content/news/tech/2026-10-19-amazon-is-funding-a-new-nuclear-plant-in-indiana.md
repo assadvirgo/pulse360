@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon has signed an agreement with X-energy and American Electric Power
   (AEP) to fund the construction of a new nuclear energy facility in Indiana. The
   proposed plant is intended…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-19T15:44:20Z'
