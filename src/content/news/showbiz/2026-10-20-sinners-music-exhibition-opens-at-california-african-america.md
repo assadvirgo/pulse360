@@ -5,7 +5,7 @@ countryCode: US
 description: 'An exhibition titled “Sinners: Sounds That Summon” has opened at the
   California African American Museum. The exhibition is dedicated to the music of
   Ryan Coogler’s Oscar-winning…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-20T15:30:00Z'

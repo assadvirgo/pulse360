@@ -5,7 +5,7 @@ countryCode: JP
 description: Wii Sports has been reintroduced on the Switch 2, marking a significant
   moment in Nintendo's history. The game is recognized as the best-selling software
   from the company and has…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-20T13:00:00Z'

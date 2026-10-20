@@ -5,7 +5,7 @@ countryCode: US
 description: Adobe has announced a new feature for the mobile version of Lightroom
   that allows users to open closed eyes in photos using generative AI. This functionality
   is available for iOS,…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-20T13:06:44Z'

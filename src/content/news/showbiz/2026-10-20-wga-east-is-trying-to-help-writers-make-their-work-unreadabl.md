@@ -5,7 +5,7 @@ countryCode: US
 description: The Writers Guild of America East is assisting its members in making
   their work less accessible to artificial intelligence models. The union has started
   providing free access to a…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-20T16:00:00Z'

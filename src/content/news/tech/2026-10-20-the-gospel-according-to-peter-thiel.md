@@ -5,7 +5,7 @@ countryCode: US
 description: A recent report discusses the rise of effective altruism (EA) in Silicon
   Valley, particularly in the context of AI. This philosophy, which has been present
   for years, has gained…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-20T15:45:00Z'

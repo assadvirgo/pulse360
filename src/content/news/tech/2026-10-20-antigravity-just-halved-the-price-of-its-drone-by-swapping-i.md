@@ -5,7 +5,7 @@ countryCode: US
 description: Antigravity has halved the price of its A1 drone by replacing its headset
   control with wristwatch control. The A1 is noted for being beginner-friendly, allowing
   users with no…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-20T13:00:00Z'
