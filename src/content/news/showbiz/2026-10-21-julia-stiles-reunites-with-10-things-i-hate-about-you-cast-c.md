@@ -5,7 +5,7 @@ countryCode: US
 description: Julia Stiles honored the late Heath Ledger during a recent episode of
   "Dancing With the Stars." She performed a contemporary routine with her partner
   Ezra Sosa, dedicating the…
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 59.8
 pubDate: '2026-10-21T02:01:00Z'

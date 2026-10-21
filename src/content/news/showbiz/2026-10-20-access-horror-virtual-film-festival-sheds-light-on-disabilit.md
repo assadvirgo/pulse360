@@ -5,7 +5,7 @@ countryCode: US
 description: A virtual film festival is focusing on disability by highlighting ableism
   as the true horror rather than disability itself. Ariel Baska, who transitioned
   from a 15-year teaching…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-20T23:32:04Z'

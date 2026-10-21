@@ -5,7 +5,7 @@ countryCode: JP
 description: Disney+ has announced the upcoming release of its latest Japanese original
   series, "Night Tales Club." The supernatural thriller follows a businessman named
   Hojo, who becomes…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-21T00:00:00Z'
