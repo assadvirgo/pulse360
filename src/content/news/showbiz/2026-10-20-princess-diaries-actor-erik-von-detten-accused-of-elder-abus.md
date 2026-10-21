@@ -5,7 +5,7 @@ countryCode: US
 description: Erik von Detten, known for his roles in "The Princess Diaries" and "Brink!",
   is facing a lawsuit that alleges elder abuse and fraud. An elderly couple claims
   he convinced them to…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-20T21:54:42Z'

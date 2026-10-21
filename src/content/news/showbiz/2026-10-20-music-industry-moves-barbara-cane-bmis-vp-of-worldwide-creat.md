@@ -5,7 +5,7 @@ countryCode: US
 description: Barbara Cane, BMI’s Vice President of Worldwide Creative, has announced
   her retirement after a five-decade career with the company. She will leave her current
   role at the end of…
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-20T21:35:44Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon and United Artists have greenlit an untitled thriller featuring
   Denzel Washington, with Christopher McQuarrie set to direct. The film is scheduled
   for release in late 2027.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-20T22:19:50Z'

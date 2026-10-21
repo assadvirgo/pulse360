@@ -5,7 +5,7 @@ countryCode: GB
 description: The UK Ministry of Defence announced the deployment of Typhoon jets to
   assist in defending Saudi Arabia from Houthi attacks. The warplanes will operate
   in a defensive role and…
-displayOrder: 14
+displayOrder: 16
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-20T11:37:43Z'

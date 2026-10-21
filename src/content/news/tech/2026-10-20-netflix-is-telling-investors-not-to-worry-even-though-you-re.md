@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix is prioritizing monetization in response to reports of declining
   viewing time. In its third-quarter earnings report, the company highlighted improvements
   to monetization…
-displayOrder: 6
+displayOrder: 11
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-20T20:52:07Z'
