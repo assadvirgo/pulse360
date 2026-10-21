@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump and Vice President JD Vance announced a $25 million bounty
   program for reporting fraud, alongside a $10,000 payment to right-wing YouTuber
   Nick Shirley. The…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-20T22:20:11Z'

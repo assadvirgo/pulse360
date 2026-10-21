@@ -5,7 +5,7 @@ countryCode: US
 description: Interscope Geffen A&M has announced promotions within its leadership
   team. Michelle An has been promoted to President and Chief Creative Officer, while
   Laura Carter and Ramon…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-21T15:40:49Z'

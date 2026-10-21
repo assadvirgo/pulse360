@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has officially launched a rebrand of Apple Music, introducing a
   new logo and updated wordmark. This announcement follows the appearance of the redesigned
   elements in a video…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-21T15:48:12Z'

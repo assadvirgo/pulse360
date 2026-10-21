@@ -5,7 +5,7 @@ countryCode: US
 description: Peyton Manning and Brent Montgomery are investing in competitive barbequing
   through their companies, Omaha Productions and Wheelhouse. They have invested in
   the BBQ World Cup &…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-21T15:45:00Z'

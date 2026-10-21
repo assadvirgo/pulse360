@@ -5,7 +5,7 @@ countryCode: US
 description: David Macias, president of Thirty Tigers, is previewing his first book
   titled "Circulation." The book addresses the impact of algorithms on music consumption
   and suggests that an…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-21T16:01:00Z'

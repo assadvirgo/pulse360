@@ -5,7 +5,7 @@ countryCode: US
 description: Serato DJ has launched its DJ suite for iOS, making it available on iPhone
   and iPad. This marks the first time the company has introduced most of its features
   to mobile devices.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-21T13:51:31Z'

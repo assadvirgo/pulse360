@@ -3,7 +3,7 @@ category: Showbiz
 description: Studiocanal's genre label Sixth Dimension is developing a feature adaptation
   of the multiplayer horror game "The Headliners." The game was released by Kafi Games
   in 2025 and was…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-21T15:30:00Z'
