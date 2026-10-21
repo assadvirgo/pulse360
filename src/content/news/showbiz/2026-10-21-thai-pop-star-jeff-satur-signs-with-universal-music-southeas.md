@@ -5,7 +5,7 @@ countryCode: TH
 description: Thai singer-songwriter and actor Jeff Satur has signed with Universal
   Music Southeast Asia as he aims to promote T-pop globally. His first major release
   under this new deal will…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-21T06:44:50Z'

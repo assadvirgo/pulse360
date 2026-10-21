@@ -5,7 +5,7 @@ countryCode: DK
 description: Copenhagen-based DR Sales has acquired the international distribution
   rights for the Danish film "Father’s House," which features actors David Dencik
   and Trine Dyrholm. The film…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-21T07:19:28Z'

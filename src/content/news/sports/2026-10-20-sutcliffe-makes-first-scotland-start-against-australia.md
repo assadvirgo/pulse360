@@ -5,7 +5,7 @@ countryCode: GB
 description: Glasgow Warriors hooker Aicha Sutcliffe will make her first Scotland
   start in the final WXV Global Series match against Australia in Canberra. This decision
   is part of three…
-displayOrder: 10
+displayOrder: 13
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-20T21:36:45Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: A suspect has been arrested following a fire at the town hall of Limoges,
   according to reports from French media. The fire caused significant damage, including
   the dramatic…
-displayOrder: 9
+displayOrder: 14
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-20T21:05:50Z'

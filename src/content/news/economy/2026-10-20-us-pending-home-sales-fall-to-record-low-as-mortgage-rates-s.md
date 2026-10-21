@@ -5,7 +5,7 @@ countryCode: US
 description: Pending home sales in the United States have reached a record low, with
   sales contracts dropping significantly in September. This decline is attributed
   to rising borrowing costs,…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 40.5
 pubDate: '2026-10-20T15:47:56Z'

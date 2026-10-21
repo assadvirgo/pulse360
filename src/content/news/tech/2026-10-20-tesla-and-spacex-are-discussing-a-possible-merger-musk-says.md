@@ -5,7 +5,7 @@ countryCode: US
 description: Tesla and SpaceX are in discussions regarding a potential merger, as
   stated by Elon Musk during SpaceX's third quarter earnings call. Special committees
   have been formed at both…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 64.2
 pubDate: '2026-10-20T21:30:24Z'

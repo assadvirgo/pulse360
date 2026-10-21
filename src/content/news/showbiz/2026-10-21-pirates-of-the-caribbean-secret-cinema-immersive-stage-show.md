@@ -5,7 +5,7 @@ countryCode: GB
 description: 'Olivier winner George Maguire has been cast as Captain Jack Sparrow
   in the London stage production "Disney’s Pirates of the Caribbean: The Immersive
   Adventure," produced by Secret…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-21T07:00:00Z'

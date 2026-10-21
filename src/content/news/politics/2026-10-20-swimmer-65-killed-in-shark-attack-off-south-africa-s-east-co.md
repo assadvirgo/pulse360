@@ -5,7 +5,7 @@ countryCode: ZA
 description: A 65-year-old woman was killed in a shark attack while swimming off South
   Africa's east coast. The incident occurred during her daily morning swim with her
   club, according to her…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-10-20T15:58:57Z'
