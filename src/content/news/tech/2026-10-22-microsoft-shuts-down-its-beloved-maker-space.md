@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft is closing down The Garage, a set of maker spaces where employees
   engaged in experimental projects and collaborated on new apps and hardware during
   hackathon events.
-displayOrder: 2
+displayOrder: 10
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-22T16:00:00Z'

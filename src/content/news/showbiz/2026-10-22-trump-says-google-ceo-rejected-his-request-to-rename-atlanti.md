@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump stated that he requested Google CEO to rename
   the Atlantic Ocean, but the CEO rejected the idea. This claim was made during a
   rally at Clemson University in…
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-22T15:23:07Z'

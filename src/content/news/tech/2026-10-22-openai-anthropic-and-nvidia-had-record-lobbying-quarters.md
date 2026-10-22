@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI, Anthropic, and Nvidia reported their highest lobbying expenditures
   in the third quarter of the year, according to federal disclosures. Nvidia led the
   group with $2.2…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-10-22T15:50:30Z'

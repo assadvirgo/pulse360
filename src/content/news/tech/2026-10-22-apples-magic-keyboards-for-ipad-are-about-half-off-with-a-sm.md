@@ -5,7 +5,7 @@ countryCode: US
 description: Apple's Magic Keyboards for iPad are currently available at a significant
   discount through Woot. However, these keyboards come with a catch regarding warranty
   and support.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-22T15:14:20Z'

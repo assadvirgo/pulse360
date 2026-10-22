@@ -5,7 +5,7 @@ countryCode: GB
 description: Aardman, the Bristol studio known for "Wallace & Gromit" and "Shaun the
   Sheep," is celebrating its 50th anniversary. The employee-owned company is focusing
   on handmade animation…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-22T15:56:29Z'
