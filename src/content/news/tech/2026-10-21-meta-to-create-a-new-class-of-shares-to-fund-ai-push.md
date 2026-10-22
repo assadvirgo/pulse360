@@ -5,7 +5,7 @@ countryCode: US
 description: Meta is set to issue a new class of shares to support its artificial
   intelligence initiatives. This decision was announced in the company's third-quarter
   earnings report, which…
-displayOrder: 5
+displayOrder: 8
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-21T21:30:02Z'

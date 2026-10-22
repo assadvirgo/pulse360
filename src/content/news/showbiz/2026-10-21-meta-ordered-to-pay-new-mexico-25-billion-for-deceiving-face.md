@@ -5,7 +5,7 @@ countryCode: US
 description: A judge in New Mexico has ordered Meta to pay $25 billion in civil penalties
   for deceiving Facebook users about privacy. This ruling is part of the state's landmark
   Cambridge…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 55.0
 pubDate: '2026-10-21T23:49:47Z'

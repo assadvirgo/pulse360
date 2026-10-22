@@ -5,7 +5,7 @@ countryCode: US
 description: The article discusses the upcoming reboot of the musical dramedy series
   "Glee," which originally aired from 2009 to 2015. It raises questions about returning
   characters and…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-21T22:00:00Z'

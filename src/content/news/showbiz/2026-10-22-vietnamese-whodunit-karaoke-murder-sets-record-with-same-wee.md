@@ -5,7 +5,7 @@ countryCode: VN
 description: Vietnamese film "Karaoke Murder" will open in cinemas across North America,
   Europe, Australia, and Asia on the same weekend, marking a first for a film from
   Vietnam, according to…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-22T00:49:00Z'
