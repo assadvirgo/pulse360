@@ -5,7 +5,7 @@ countryCode: US
 description: Media mogul John Malone stated that the Trump administration informed
   Netflix that their proposed acquisition of Warner Bros. Discovery would be blocked.
   Following this…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 78.0
 pubDate: '2026-10-21T16:04:01Z'

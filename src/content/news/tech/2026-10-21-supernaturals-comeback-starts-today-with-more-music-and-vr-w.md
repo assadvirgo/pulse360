@@ -5,7 +5,7 @@ countryCode: US
 description: Supernatural, a fitness VR game, has relaunched with an Early Access
   preview in the Meta Horizon Store. The game now offers thousands of remastered workouts
   along with some new…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-21T16:05:51Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: After a busy year of acquisitions across two continents, Canal+ Group
   has strengthened its position in the media industry, according to Anna Marsh, CEO
   of Studiocanal and deputy…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-21T19:17:41Z'

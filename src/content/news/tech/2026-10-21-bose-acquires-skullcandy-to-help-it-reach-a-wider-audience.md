@@ -5,7 +5,7 @@ countryCode: US
 description: Bose has announced its acquisition of Skullcandy, a move aimed at expanding
   its audience reach. Despite being competitors in the consumer audio market, the
   two companies have…
-displayOrder: 10
+displayOrder: 12
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-21T20:15:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic has announced the launch of Claude Duet, a new AI agent designed
   to compete with Meta's Muse and OpenAI's Dots. The agent is aimed at professionals
   and small business…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-21T19:53:20Z'

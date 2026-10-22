@@ -5,7 +5,7 @@ countryCode: US
 description: Automattic has initiated layoffs affecting employees across various teams,
   including WordPress.com and its enterprise business. This decision follows a recent
   board shakeup and…
-displayOrder: 9
+displayOrder: 11
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-21T20:15:00Z'

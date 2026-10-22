@@ -5,7 +5,7 @@ countryCode: US
 description: Brandi Carlile will receive the Los Angeles Press Club's annual Visionary
   Award for Humanitarian Work at the National Arts and Entertainment Journalism Awards
   Gala in December.…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-21T19:10:12Z'
