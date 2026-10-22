@@ -5,7 +5,7 @@ countryCode: US
 description: Electronic Arts (EA) is laying off approximately 400 employees, which
   represents about 3% of its workforce, and is shutting down video game developer
   BioWare. The layoffs include…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-22T03:23:05Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Alan Bennett's play "The History Boys" is returning to London's West
   End after a 20-year absence. Nicholas Hytner, who directed the original production
   in 2004, will reprise his…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-22T08:00:00Z'

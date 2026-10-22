@@ -5,7 +5,7 @@ countryCode: GB
 description: Paul Mescal and Daisy Edgar-Jones have signed an open letter in support
   of Sally Rooney, whose books are being withdrawn from sale in the UK. This decision
   follows Rooney's…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-22T08:41:03Z'

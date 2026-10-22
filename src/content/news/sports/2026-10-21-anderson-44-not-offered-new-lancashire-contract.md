@@ -5,7 +5,7 @@ countryCode: GB
 description: James Anderson, the all-time leading wicket-taker for England, has not
   been offered a new contract by Lancashire, which may signal the end of his career.
   The decision raises…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-10-21T15:35:42Z'

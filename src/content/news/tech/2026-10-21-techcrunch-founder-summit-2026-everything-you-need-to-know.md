@@ -5,7 +5,7 @@ countryCode: US
 description: The TechCrunch Founder Summit is scheduled for November 4 in Boston.
   This full-day event will bring together founders at various stages to connect with
   venture capitalists and…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-21T21:16:20Z'
