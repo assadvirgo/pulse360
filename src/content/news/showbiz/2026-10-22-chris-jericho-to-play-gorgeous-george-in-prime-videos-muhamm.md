@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Jericho will portray Gorgeous George in the upcoming Prime Video
   limited series "The Greatest," which chronicles the life of Muhammad Ali. The series,
   created by Ben…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-22T23:13:40Z'

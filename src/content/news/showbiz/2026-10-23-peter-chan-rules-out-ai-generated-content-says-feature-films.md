@@ -3,7 +3,7 @@ category: Showbiz
 description: Acclaimed filmmaker Peter Chan Ho-sun stated that he will likely use
   AI in his filmmaking but will not use AI-generated content. He expressed confidence
   that two-hour feature…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-23T00:27:55Z'

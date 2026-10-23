@@ -5,7 +5,7 @@ countryCode: US
 description: Trump has advised Republican gubernatorial candidate Vivek Ramaswamy
   to continue airing a controversial advertisement that features the estranged mother
   of rival candidate Amy…
-displayOrder: 1
+displayOrder: 2
 heroImage: ''
 importance: 70.5
 pubDate: '2026-10-23T02:22:24Z'
