@@ -3,7 +3,7 @@ category: Tech
 description: Global PC shipments experienced a significant decline in the third quarter
   of 2026, dropping by 21 percent year-over-year, according to Counterpoint Research.
   This decrease is…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-22T21:30:39Z'

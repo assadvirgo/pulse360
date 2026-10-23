@@ -5,7 +5,7 @@ countryCode: GB
 description: A Paramount U.K. upfront event in London featured notable appearances
   from Kelly Reilly, Kenneth Branagh, and a video message from Samuel L. Jackson.
   The event included updates on…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-22T19:48:07Z'

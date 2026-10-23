@@ -5,7 +5,7 @@ countryCode: US
 description: Former President Donald Trump stated that Google CEO Sundar Pichai advised
   him against renaming the Atlantic Ocean. This comment was made during a rally where
   Trump discussed his…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-22T16:00:29Z'

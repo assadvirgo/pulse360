@@ -5,7 +5,7 @@ countryCode: US
 description: Veteran communications executive Liz Morentin has launched a new venture
   called Greenvalley Media & Marketing. The company will focus on serving entertainment,
   media, and…
-displayOrder: 1
+displayOrder: 6
 heroImage: ''
 importance: 66.8
 pubDate: '2026-10-22T20:35:00Z'

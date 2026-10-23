@@ -5,7 +5,7 @@ countryCode: US
 description: Chaka Khan will receive the Classic Soul Honor at the 2026 Soul Train
   Awards, recognizing her influence on R&B. Her career spans over five decades, during
   which she has…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-22T21:05:53Z'

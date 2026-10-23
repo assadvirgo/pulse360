@@ -5,7 +5,7 @@ countryCode: SE
 description: Teenage Engineering has launched the EP-35, a new multi-input, battery-powered
   instrument amplifier featuring built-in effects. The amp is designed for various
   instruments and…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-22T19:44:51Z'

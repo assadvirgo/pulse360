@@ -5,7 +5,7 @@ countryCode: CA
 description: Laysla De Oliveira and Riccardo Scamarcio have completed filming on the
   indie sci-fi thriller "Telephone," directed by Anthony Scott Burns. The project
   was shot in Sudbury,…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-22T22:24:06Z'
