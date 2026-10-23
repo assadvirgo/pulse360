@@ -5,7 +5,7 @@ countryCode: US
 description: Megyn Kelly faced criticism from the hosts of "The View" for her comments
   regarding Christina Applegate's misdiagnosis with multiple sclerosis (MS). The hosts
   labeled Kelly a…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-23T14:45:04Z'

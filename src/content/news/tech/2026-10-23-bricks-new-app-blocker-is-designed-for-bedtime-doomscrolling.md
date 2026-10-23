@@ -5,7 +5,7 @@ countryCode: US
 description: Brick has launched a new device called the Brick Night, aimed at helping
   users reduce doomscrolling before bedtime. This device is priced at $129 and introduces
   a location-based…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-23T12:50:17Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Shane Gillis and Danny McBride star in a new ad for the prediction market
   platform Kalshi. The four-minute commercial features Gillis as a weatherman struggling
   with accurate…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-23T15:00:00Z'

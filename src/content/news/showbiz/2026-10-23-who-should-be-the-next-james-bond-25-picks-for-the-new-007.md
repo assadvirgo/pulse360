@@ -3,7 +3,7 @@ category: Showbiz
 description: The search for the next James Bond has intensified following Daniel Craig's
   announcement of his departure from the role. Speculation about potential candidates
   has been ongoing,…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-23T15:30:00Z'

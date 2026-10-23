@@ -5,7 +5,7 @@ countryCode: SE
 description: Spotify is implementing a new QR code verification method to identify
   Family plan users who do not reside at the same address. This was confirmed by co-CEO
   Alex Norström during an…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-22T23:02:43Z'

@@ -5,7 +5,7 @@ countryCode: MX
 description: Cinépolis Distribution has acquired the Latin American rights to the
   Spanish film "5 More Minutes" ("5 Minutos Más"), which stars Javier Cámara. This
   marks a rare move for the…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-23T16:05:07Z'

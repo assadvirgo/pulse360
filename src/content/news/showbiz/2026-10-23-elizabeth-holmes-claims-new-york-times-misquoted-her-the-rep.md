@@ -5,7 +5,7 @@ countryCode: US
 description: Elizabeth Holmes claims that The New York Times misquoted her in a 2023
   profile. In the documentary "You Can See Everything," she expresses this concern
   to Nathan Fielder, stating…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-23T16:12:59Z'

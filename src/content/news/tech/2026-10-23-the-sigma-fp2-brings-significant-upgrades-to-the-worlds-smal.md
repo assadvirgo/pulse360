@@ -5,7 +5,7 @@ countryCode: JP
 description: The Sigma FP2 has been announced as a compact follow-up to the original
   fp, which was claimed to be the world's smallest and lightest full-frame mirrorless
   camera. The new model…
-displayOrder: 7
+displayOrder: 12
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-23T14:42:46Z'
