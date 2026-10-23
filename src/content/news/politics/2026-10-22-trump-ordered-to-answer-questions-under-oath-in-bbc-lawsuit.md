@@ -5,7 +5,7 @@ countryCode: US
 description: Former President Donald Trump has been ordered to answer questions under
   oath in a defamation lawsuit against the BBC. The lawsuit stems from an episode
   of Panorama that edited…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-22T17:14:04Z'

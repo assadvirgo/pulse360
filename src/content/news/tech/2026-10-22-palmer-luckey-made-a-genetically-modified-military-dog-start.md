@@ -5,7 +5,7 @@ countryCode: US
 description: Palmer Luckey has launched a startup named Warhound, which aims to develop
   genetically modified military dogs. The company has secured $200 million in funding
   and focuses on…
-displayOrder: 8
+displayOrder: 11
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-22T23:15:00Z'

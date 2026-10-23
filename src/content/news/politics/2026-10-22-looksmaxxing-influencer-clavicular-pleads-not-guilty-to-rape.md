@@ -5,7 +5,7 @@ countryCode: US
 description: A 'looksmaxxing' influencer known as Clavicular has pleaded not guilty
   to a rape charge. The influencer, whose real name is Braden Peters, is accused of
   sexually assaulting a…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-22T17:21:42Z'

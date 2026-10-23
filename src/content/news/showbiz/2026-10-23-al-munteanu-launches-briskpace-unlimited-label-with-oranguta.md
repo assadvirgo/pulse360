@@ -5,7 +5,7 @@ countryCode: DE
 description: Al Munteanu has launched a new label called BriskPace Unlimited under
   his German company BriskPace Studios. The label's first original series is titled
   "The Light and Hard Times…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-10-23T07:04:13Z'

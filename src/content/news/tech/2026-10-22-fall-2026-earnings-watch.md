@@ -3,7 +3,7 @@ category: Tech
 description: Every company is positioning itself as an AI company, according to The
   Verge. The report suggests that compute is becoming a valuable asset and mentions
   advancements such as…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-22T21:15:16Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A University of Houston student, Vasant Bhatt, who previously supported
   Republican candidates, has changed his voting behavior. He had actively campaigned
   for Sen. Ted Cruz and…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-22T19:15:00Z'

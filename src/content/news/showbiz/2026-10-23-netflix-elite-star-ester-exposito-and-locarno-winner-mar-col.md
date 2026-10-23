@@ -5,7 +5,7 @@ countryCode: ES
 description: Netflix is adapting the classic novel "La Regenta" into a feature film,
   with Ester Expósito and Mar Coll involved in the project. Production began on October
   23, and María Zamora…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-10-23T08:02:57Z'

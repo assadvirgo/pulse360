@@ -5,7 +5,7 @@ countryCode: KR
 description: U-KNOCK 2026 is set to take place from November 4 to 6, 2026, at The
   Biltmore Los Angeles, connecting Korean content and technology companies with U.S.
   investors and entertainment…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-10-23T08:32:07Z'

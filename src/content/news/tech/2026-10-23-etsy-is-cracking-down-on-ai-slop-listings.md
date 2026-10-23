@@ -5,7 +5,7 @@ countryCode: US
 description: Etsy is implementing stricter rules regarding the use of AI in product
   listings to address concerns about low-quality AI-generated content on its platform.
   The company noted that…
-displayOrder: 10
+displayOrder: 13
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-23T00:09:58Z'
