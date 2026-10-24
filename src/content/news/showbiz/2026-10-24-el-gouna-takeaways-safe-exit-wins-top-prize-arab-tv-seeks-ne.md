@@ -5,7 +5,7 @@ countryCode: EG
 description: Egypt’s El Gouna Film Festival concluded its ninth edition after nine
   days of screenings and industry activities. The festival awarded its top prize to
   Mohammed Hammad’s…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-10-24T10:23:00Z'

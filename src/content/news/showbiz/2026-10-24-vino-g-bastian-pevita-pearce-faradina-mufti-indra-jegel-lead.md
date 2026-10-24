@@ -5,7 +5,7 @@ countryCode: ID
 description: Korean filmmaker Lee Hwan-kyung is directing a new Indonesian film titled
   "Gasigogi," featuring an ensemble cast that includes Vino G. Bastian, Pevita Pearce,
   Faradina Mufti, and…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-24T07:00:00Z'

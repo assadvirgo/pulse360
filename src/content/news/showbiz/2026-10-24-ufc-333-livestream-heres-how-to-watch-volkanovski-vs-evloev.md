@@ -5,7 +5,7 @@ countryCode: US
 description: The Ultimate Fighting Championship (UFC) is set to hold UFC 333 in Abu
   Dhabi, where Alexander Volkanovski will defend his UFC Featherweight Championship
   against a Russian fighter.…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-24T10:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Laika has been developing its latest project, Wildwood, over the course
   of 20 years. The film involves notable contributions from cinematographer Caleb
   Deschanel, who has a long…
-displayOrder: 11
+displayOrder: 14
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-24T12:00:00Z'

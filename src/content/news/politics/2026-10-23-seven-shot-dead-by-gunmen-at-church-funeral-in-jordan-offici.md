@@ -5,7 +5,7 @@ countryCode: JO
 description: Seven people were shot dead and thirty-four others were injured during
   a shooting at a church funeral in Jordan. The incident occurred in the southern
   Karak governorate, and…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-23T19:46:30Z'
