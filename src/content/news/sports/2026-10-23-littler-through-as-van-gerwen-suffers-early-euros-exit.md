@@ -5,7 +5,7 @@ countryCode: GB
 description: World champion Luke Littler advanced to the second round of the European
   Championship after defeating William O'Connor. In contrast, Michael van Gerwen was
   eliminated in the first…
-displayOrder: 10
+displayOrder: 14
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-23T21:51:18Z'

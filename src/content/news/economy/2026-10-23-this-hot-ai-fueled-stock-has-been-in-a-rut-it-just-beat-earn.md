@@ -5,7 +5,7 @@ countryCode: US
 description: Bloom Energy, a fuel-cell maker, has reported earnings that exceeded
   expectations by 36% and revenue that surpassed expectations by 15%. Despite these
   positive results, the…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 33.5
 pubDate: '2026-10-23T14:40:00Z'

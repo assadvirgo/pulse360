@@ -5,7 +5,7 @@ countryCode: US
 description: Kenneth Atchity, a producer known for "The Meg" and a literary agent,
   has died at the age of 82. His career included producing over 30 films and writing
   more than 20 books.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-24T00:59:59Z'

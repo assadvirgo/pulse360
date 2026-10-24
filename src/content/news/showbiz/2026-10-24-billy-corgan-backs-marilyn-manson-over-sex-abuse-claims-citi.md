@@ -5,7 +5,7 @@ countryCode: US
 description: Billy Corgan expressed his support for Marilyn Manson regarding the sexual
   abuse claims against him. Corgan stated that he did not believe Manson was guilty
   of the charges brought…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-24T02:11:14Z'

@@ -3,7 +3,7 @@ category: Tech
 description: Development of the Popcorn Time app has been abandoned for years, but
   it remains installed on millions of devices. These devices are at risk of being
   exploited, potentially…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-23T19:35:15Z'

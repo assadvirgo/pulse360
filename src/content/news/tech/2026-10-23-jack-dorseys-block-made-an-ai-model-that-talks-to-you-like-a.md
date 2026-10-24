@@ -5,7 +5,7 @@ countryCode: US
 description: Jack Dorsey's Block has announced the development of an AI model named
   Dessa, which is designed to engage in conversation similar to that of an awkward
   new friend. The model has…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-23T19:32:39Z'

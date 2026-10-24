@@ -5,7 +5,7 @@ countryCode: GB
 description: Aston Villa is reportedly having doubts about making Alejandro Garnacho's
   deal a permanent move. The situation comes amid other transfer news, including Brighton's
   firm stance on…
-displayOrder: 12
+displayOrder: 16
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-23T21:32:04Z'

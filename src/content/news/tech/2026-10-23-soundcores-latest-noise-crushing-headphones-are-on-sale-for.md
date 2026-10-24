@@ -5,7 +5,7 @@ countryCode: US
 description: Soundcore's latest headphones, the Space 2, are currently on sale at
   Amazon, Best Buy, and Walmart. The Space 2 are considered an improvement over their
   predecessor, the Space…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-23T18:43:30Z'

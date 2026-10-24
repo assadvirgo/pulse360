@@ -5,7 +5,7 @@ countryCode: MX
 description: Tatiana Huezo's film "Galerna" has won the top José María Riba Award
   at the Impulso Morelia event, part of the Morelia Film Festival. The award includes
   a monetary prize aimed at…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-10-24T08:33:02Z'
