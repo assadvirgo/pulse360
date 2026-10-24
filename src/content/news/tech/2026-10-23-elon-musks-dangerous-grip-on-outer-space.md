@@ -5,7 +5,7 @@ countryCode: UA
 description: Last week, SpaceX's Starshield, the version of Starlink used by the Ukrainian
   military, was throttled to restrict access for terminals traveling above certain
   speeds. This change…
-displayOrder: 12
+displayOrder: 14
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-23T17:35:15Z'

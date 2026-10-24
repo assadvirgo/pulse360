@@ -5,7 +5,7 @@ countryCode: YE
 description: Kartik Aaryan's upcoming action drama "Captain India" is set against
   the backdrop of the Houthi conflict in Yemen. The film will feature Aaryan in his
   first role as a pilot and is…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-24T02:26:30Z'
