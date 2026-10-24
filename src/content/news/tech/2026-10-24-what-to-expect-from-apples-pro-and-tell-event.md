@@ -5,7 +5,7 @@ countryCode: US
 description: Apple is set to hold its "Pro and tell" event on October 28th at 1 PM
   ET in Los Angeles, focusing on the MacBook Pro. This event follows closely after
   the recent Welcome Home…
-displayOrder: 12
+displayOrder: 14
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-24T14:15:00Z'

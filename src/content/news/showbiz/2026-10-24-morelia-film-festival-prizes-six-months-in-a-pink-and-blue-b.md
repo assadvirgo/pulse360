@@ -5,7 +5,7 @@ countryCode: MX
 description: Bruno Santamaría Razo’s film "Six Months in a Pink and Blue Building"
   has won the top Ojo award at the 24th Morelia Film Festival. The festival is set
   to conclude on October 25.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-24T12:52:22Z'

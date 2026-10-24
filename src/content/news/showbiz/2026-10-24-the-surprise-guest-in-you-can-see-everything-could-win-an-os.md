@@ -5,7 +5,7 @@ countryCode: US
 description: The film "You Can See Everything," currently in theaters, has sparked
   discussions about Amanda Seyfried's potential for an Oscar nomination or win. The
   film features Seyfried in a…
-displayOrder: 4
+displayOrder: 8
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-24T17:00:00Z'

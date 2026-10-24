@@ -5,7 +5,7 @@ countryCode: KR
 description: Lee Chang Dong's seventh feature film, Possible Love, explores the ethics
   of the camera. The film is inspired by true events from 2009, when a Korean conglomerate
   fired a…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 34.2
 pubDate: '2026-10-24T12:30:00Z'

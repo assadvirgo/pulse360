@@ -5,7 +5,7 @@ countryCode: US
 description: October began with Ben Affleck and Kerry Washington premiering their
   new political thriller "Animals" in Beverly Hills. The film features a Los Angeles
   mayoral candidate whose…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-24T15:30:38Z'

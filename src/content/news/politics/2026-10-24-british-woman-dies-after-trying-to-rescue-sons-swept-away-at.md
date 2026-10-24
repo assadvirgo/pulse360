@@ -5,7 +5,7 @@ countryCode: BS
 description: A British woman died while attempting to rescue her two sons who were
   swept away at sea in the Bahamas. The incident is currently under investigation
   by local police.
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-24T17:11:56Z'

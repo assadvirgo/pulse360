@@ -5,7 +5,7 @@ countryCode: GB
 description: In a title fight, promoter Matchroom Boxing is organizing a match in
   England between Dalton Smith and Alberto Puello. Smith will defend his WBC junior
   welterweight championship…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-24T14:00:00Z'

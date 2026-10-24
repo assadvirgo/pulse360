@@ -5,7 +5,7 @@ countryCode: US
 description: Sylvester Stallone addressed the casting of his daughter, Scarlet Rose
   Stallone, in the series "Tulsa King" during a recent interview. He openly acknowledged
   the nepotism involved…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 46.0
 pubDate: '2026-10-24T18:03:45Z'
