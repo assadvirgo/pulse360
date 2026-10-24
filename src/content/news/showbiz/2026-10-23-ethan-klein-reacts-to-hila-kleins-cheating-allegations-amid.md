@@ -5,7 +5,7 @@ countryCode: US
 description: Ethan Klein has addressed allegations of infidelity made by his wife,
   Hila Klein, amid turmoil surrounding their marriage and the "H3 Podcast." Hila Klein
   publicly accused Ethan…
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-23T20:01:42Z'

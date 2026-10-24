@@ -5,7 +5,7 @@ countryCode: US
 description: A new series titled "The Cycle" is now streaming on Shudder. The show
   presents a unique twist on the police procedural genre, exploring the concept of
   a werewolf that continues to…
-displayOrder: 5
+displayOrder: 8
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-23T19:30:00Z'

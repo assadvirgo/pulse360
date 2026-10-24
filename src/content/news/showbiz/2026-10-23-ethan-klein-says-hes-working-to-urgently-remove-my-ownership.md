@@ -5,7 +5,7 @@ countryCode: US
 description: Ethan Klein announced he is working to "urgently remove" his ownership
   and financial stakes from the H3 Podcast following the revelation of his affair
   by his wife, Hila Klein. The…
-displayOrder: 6
+displayOrder: 9
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-23T22:05:50Z'
