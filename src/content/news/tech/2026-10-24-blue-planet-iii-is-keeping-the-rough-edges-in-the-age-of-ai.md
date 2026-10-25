@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC's Blue Planet III aims to showcase authenticity by including less-than-perfect
   shots in its footage. This approach contrasts with previous versions of the nature
   series, which…
-displayOrder: 7
+displayOrder: 8
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-24T21:29:12Z'

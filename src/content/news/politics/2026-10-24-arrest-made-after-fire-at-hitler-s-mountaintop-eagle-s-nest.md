@@ -5,7 +5,7 @@ countryCode: DE
 description: A suspect has been arrested following a fire at the Eagle's Nest, a historic
   retreat associated with Adolf Hitler in Germany. Approximately 200 emergency personnel
   were dispatched…
-displayOrder: 10
+displayOrder: 11
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-24T14:16:05Z'

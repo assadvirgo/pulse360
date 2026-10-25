@@ -5,7 +5,7 @@ countryCode: US
 description: The SAG-AFTRA board has voted to extend Duncan Crabtree-Ireland's contract
   as national executive director and to add CEO to his title. The contract extension
   will keep him in the…
-displayOrder: 3
+displayOrder: 5
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-25T01:20:54Z'

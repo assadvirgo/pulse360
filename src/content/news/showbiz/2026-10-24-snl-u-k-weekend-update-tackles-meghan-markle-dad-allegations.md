@@ -5,7 +5,7 @@ countryCode: GB
 description: “Saturday Night Live U.K.” featured a Weekend Update segment that addressed
   various controversial topics, including allegations concerning Meghan Markle's father.
   Co-host Paddy…
-displayOrder: 5
+displayOrder: 7
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-24T22:11:59Z'
