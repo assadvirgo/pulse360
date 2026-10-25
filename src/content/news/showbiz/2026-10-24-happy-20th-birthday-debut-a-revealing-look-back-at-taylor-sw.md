@@ -5,7 +5,7 @@ countryCode: US
 description: Today marks the 20th anniversary of the release of Taylor Swift's self-titled
   debut album. The album's impact on country music and pop culture has been recognized
   over the years.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-10-24T20:22:39Z'

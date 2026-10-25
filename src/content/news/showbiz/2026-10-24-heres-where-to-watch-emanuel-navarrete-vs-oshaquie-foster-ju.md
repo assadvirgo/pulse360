@@ -5,7 +5,7 @@ countryCode: US
 description: Promoters Top Rank Boxing will host a junior lightweight championship
   bout this weekend in San Antonio. The match features Mexican boxer Emanuel Navarrete
   facing American…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-24T20:00:00Z'

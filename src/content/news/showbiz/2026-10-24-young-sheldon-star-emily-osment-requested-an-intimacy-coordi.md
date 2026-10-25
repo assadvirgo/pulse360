@@ -5,7 +5,7 @@ countryCode: US
 description: Emily Osment, a star of "Young Sheldon," requested an intimacy coordinator
   due to her discomfort with the age gap between herself and co-star Montana Jordan.
   This request was made…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-24T20:50:00Z'

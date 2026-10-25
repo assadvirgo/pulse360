@@ -5,7 +5,7 @@ countryCode: GB
 description: '"SNL U.K." featured a cold open that spoofed Prime Minister Andy Burnham''s
   recent appearance on "Celebrity Gogglebox." The segment included Burnham, portrayed
   by George Fouracres,…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-24T21:28:27Z'

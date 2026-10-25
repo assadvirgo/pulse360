@@ -5,7 +5,7 @@ countryCode: US
 description: Jeff Garlin, who left the ABC comedy "The Goldbergs" following an HR
   investigation into complaints about his behavior, revealed he considered suicide
   during this tumultuous…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-24T21:11:45Z'
