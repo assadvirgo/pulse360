@@ -5,7 +5,7 @@ countryCode: US
 description: The film "Clayface" debuted at No. 1 at the box office, earning $24.5
   million during its opening weekend. Meanwhile, the A24 documentary "You Can See
   Everything" continued to…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-25T15:07:00Z'

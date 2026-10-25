@@ -5,7 +5,7 @@ countryCode: US
 description: The Crkd Nitro Deck 2, designed for both the original Nintendo Switch
   and the larger Switch 2, is a new accessory that follows the success of its predecessor.
   The original Nitro…
-displayOrder: 8
+displayOrder: 13
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-25T17:00:00Z'

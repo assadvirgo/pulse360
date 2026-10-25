@@ -5,7 +5,7 @@ countryCode: BR
 description: Brazil's presidential candidates, Lula and Bolsonaro, held significant
   election-eve rallies as they prepare for a pivotal run-off election. The outcome
   will decide whether Brazil…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 73.5
 pubDate: '2026-10-24T21:39:29Z'

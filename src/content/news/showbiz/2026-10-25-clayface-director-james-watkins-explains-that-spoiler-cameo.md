@@ -5,7 +5,7 @@ countryCode: US
 description: The film "Clayface," directed by James Watkins, is currently playing
   in theaters and introduces Gotham City to the rebooted DC Universe. The movie is
   described as an R-rated body…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-25T15:00:00Z'
