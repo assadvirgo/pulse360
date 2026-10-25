@@ -5,7 +5,7 @@ countryCode: ES
 description: The Serielizados Prizes were awarded in Barcelona, recognizing outstanding
   television series. Hagai Levi's "Etty" won best international series, while the
   Spanish duo Jorge and…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-25T10:38:47Z'

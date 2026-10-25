@@ -5,7 +5,7 @@ countryCode: US
 description: The creators of "The New Stanford Prison Experiment" have discussed the
   finale of their project, which concludes on a more hopeful note compared to the
   original 1971 trial…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 45.8
 pubDate: '2026-10-25T15:00:00Z'
