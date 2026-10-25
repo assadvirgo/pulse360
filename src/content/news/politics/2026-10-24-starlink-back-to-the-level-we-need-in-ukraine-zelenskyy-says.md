@@ -5,7 +5,7 @@ countryCode: UA
 description: The Starlink satellite system has resumed its necessary operational speed
   in Ukraine, according to President Volodymyr Zelenskyy. The system had experienced
   a slowdown for over a…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-24T13:29:00Z'

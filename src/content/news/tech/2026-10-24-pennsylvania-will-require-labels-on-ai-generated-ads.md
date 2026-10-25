@@ -5,7 +5,7 @@ countryCode: US
 description: Pennsylvania has enacted the Artificial Intelligence Deceptive Advertising
   Act, which mandates labeling for ads that are significantly modified or generated
   by artificial…
-displayOrder: 12
+displayOrder: 13
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-24T18:32:21Z'

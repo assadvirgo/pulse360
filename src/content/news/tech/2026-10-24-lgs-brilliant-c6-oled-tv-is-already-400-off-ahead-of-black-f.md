@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: LG has initiated an early Black Friday sale, offering discounts on the
   LG C6 OLED TV and various soundbars. The sale will continue until November 1st.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-24T15:00:00Z'

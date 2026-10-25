@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Harrison has commented on the legal action taken by Warner Bros.
   against his new reality show, The Vow. He described the cease-and-desist issued
   by Warner Bros. as feeling…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-10-24T23:12:19Z'

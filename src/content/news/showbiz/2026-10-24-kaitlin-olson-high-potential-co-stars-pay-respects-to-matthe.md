@@ -5,7 +5,7 @@ countryCode: US
 description: Kaitlin Olson and the cast of "High Potential" have expressed their support
   for co-star Matthew Lamb after the death of his mother, Meredith. Lamb, who plays
   Elliot on the ABC…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-10-24T22:45:19Z'

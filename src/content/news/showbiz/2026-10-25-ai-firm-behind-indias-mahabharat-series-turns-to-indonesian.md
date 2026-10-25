@@ -5,7 +5,7 @@ countryCode: IN
 description: 'The AI technology behind the Indian series "Mahabharat: Ek Dharmayudh"
   is expanding to Indonesia. Developer Galleri5 and Collective Studios'' Historyverse
   plan to create film and…'
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-25T02:30:00Z'

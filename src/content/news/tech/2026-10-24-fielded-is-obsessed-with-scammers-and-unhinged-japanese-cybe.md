@@ -5,7 +5,7 @@ countryCode: US
 description: Lindsay Powell, known as Fielded, has a career focused on subverting
   expectations and genre conventions. Initially starting as an experimental noise
   project, Fielded has evolved…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-24T15:00:00Z'
