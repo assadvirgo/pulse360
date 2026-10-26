@@ -5,7 +5,7 @@ countryCode: IL
 description: In Israel, a political trend is emerging among young people who are leaning
   to the right, contrasting with global tendencies of youth leaning left, according
   to Al Jazeera.…
-displayOrder: 10
+displayOrder: 11
 heroImage: ''
 importance: 53.5
 pubDate: '2026-10-25T16:30:51Z'

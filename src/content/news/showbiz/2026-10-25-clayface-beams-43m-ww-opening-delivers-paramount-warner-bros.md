@@ -5,7 +5,7 @@ countryCode: US
 description: The newly merged Paramount-Warner Bros. (Skydance) achieved its second
   consecutive No. 1 weekend at the global box office with the release of DC's "Clayface,"
   which earned $43…
-displayOrder: 5
+displayOrder: 7
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-25T18:15:35Z'

@@ -3,7 +3,7 @@ category: Tech
 description: Scott Walker's album "The Drift," released in 2006, is described as genuinely
   terrifying and upsetting. The Verge highlights that the album falls into a distinct
   category of…
-displayOrder: 7
+displayOrder: 9
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-25T21:08:09Z'
