@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The film "VelociPastor 2" premiered at FilmQuest, where it was well-received
   by the audience. The sequel celebrates human-made films in an era dominated by AI.
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-26T08:53:16Z'

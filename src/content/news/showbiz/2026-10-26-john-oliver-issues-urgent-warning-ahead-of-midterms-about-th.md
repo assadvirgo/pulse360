@@ -5,7 +5,7 @@ countryCode: US
 description: John Oliver addressed concerns regarding the Republican Party's connections
   to Nazi ideology during his return to "Last Week Tonight." He dedicated the entire
   episode to…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.8
 pubDate: '2026-10-26T04:21:03Z'

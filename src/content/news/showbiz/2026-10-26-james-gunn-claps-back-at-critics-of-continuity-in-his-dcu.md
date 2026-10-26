@@ -5,7 +5,7 @@ countryCode: US
 description: James Gunn responded to online critics questioning the continuity of
   the DC Cinematic Universe (DCU) he is developing with Peter Safran. The discussion
   arose as DC's Clayface…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 59.0
 pubDate: '2026-10-26T04:06:45Z'

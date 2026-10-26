@@ -5,7 +5,7 @@ countryCode: AU
 description: Defending champions Australia came from behind to defeat Fiji 36-22 in
   their second pool match at the Rugby League World Cup. This victory secures Australia's
   place in the…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-25T15:53:11Z'

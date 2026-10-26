@@ -5,7 +5,7 @@ countryCode: KR
 description: Ted Sarandos, co-CEO of Netflix, participated in a two-day fan festival
   in Seoul to celebrate the company's tenth anniversary in Korea. He joined stars
   from popular Korean series…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-26T06:05:45Z'

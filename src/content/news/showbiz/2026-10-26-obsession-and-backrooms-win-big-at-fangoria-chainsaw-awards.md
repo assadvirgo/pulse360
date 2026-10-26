@@ -5,7 +5,7 @@ countryCode: US
 description: The Fangoria Chainsaw Awards celebrated achievements in horror film,
   television, and gaming, with "Obsession" winning the most awards this year. The
   event premiered on Shudder and…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-10-26T02:30:00Z'

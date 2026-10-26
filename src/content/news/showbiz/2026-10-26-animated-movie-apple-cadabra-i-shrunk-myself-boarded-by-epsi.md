@@ -5,7 +5,7 @@ countryCode: DE
 description: Epsilon Film has acquired worldwide rights to the animated movie "Apple
   Cadabra – I Shrunk Myself," which is based on the successful German children's book
   series "Petronella…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-10-26T08:30:00Z'

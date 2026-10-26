@@ -5,7 +5,7 @@ countryCode: US
 description: The Arc browser has been replaced by Zen Browser, which is being recognized
   as a suitable alternative. The Arc browser was noted for its innovative design approach
   before its…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-25T19:24:50Z'

@@ -5,7 +5,7 @@ countryCode: VE
 description: María Corina Machado, a Venezuelan opposition leader, has returned to
   Venezuela after months in exile. Her return comes amid national protests calling
   for free elections.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 73.2
 pubDate: '2026-10-25T18:29:00Z'
