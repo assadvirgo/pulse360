@@ -5,7 +5,7 @@ countryCode: US
 description: Instagram has launched its platform for Apple TV, allowing users to watch
   Instagram Reels on their television. This expansion into living rooms follows a
   testing phase that began…
-displayOrder: 13
+displayOrder: 15
 heroImage: ''
 importance: 48.2
 pubDate: '2026-10-25T16:20:17Z'

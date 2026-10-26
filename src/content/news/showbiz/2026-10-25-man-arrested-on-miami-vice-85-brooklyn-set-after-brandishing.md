@@ -5,7 +5,7 @@ countryCode: US
 description: A man was arrested on the set of "Miami Vice '85" in Brooklyn after brandishing
   a knife. The incident occurred on Friday night, leading to charges of menacing and
   criminal…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-25T18:37:53Z'
