@@ -5,7 +5,7 @@ countryCode: US
 description: Skydance is offering certain employees a voluntary buyout as part of
   its integration efforts with Paramount and Warner Bros. Discovery. This program
   is described as a "one-time…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 69.8
 pubDate: '2026-10-26T17:45:01Z'

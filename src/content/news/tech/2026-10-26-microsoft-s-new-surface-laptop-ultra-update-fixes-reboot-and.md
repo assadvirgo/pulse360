@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft has released a firmware update for its Surface Laptop Ultra
   to address several bugs that were present at launch. The update, released on October
   22, aims to fix issues…
-displayOrder: 9
+displayOrder: 13
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-26T15:28:11Z'

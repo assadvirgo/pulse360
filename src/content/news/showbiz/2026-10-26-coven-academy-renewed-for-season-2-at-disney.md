@@ -5,7 +5,7 @@ countryCode: US
 description: Disney's supernatural young adult series "Coven Academy" has been renewed
   for a second season. The series, created by Tim Federle, follows three teenage witches
   and their warlock…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-26T18:00:00Z'

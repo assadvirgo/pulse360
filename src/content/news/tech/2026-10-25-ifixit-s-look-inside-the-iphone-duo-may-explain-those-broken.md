@@ -5,7 +5,7 @@ countryCode: US
 description: iFixit has disassembled the latest iPhone Duo, revealing insights into
   its design and repairability. The teardown highlights how Apple may be concealing
   the crease on the device's…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-25T21:40:27Z'

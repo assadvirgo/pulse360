@@ -5,7 +5,7 @@ countryCode: US
 description: Instagram is making a significant move into longform horizontal video,
   a feature it is branding as "Features." This shift comes despite Instagram boss
   Adam Mosseri's previous…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-26T16:05:44Z'

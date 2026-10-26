@@ -5,7 +5,7 @@ countryCode: US
 description: Fox's reboot of "Baywatch" is set to premiere on January 6 at 9 p.m.
   The series continues the story of Hobie Buchannon, who is portrayed as a grown-up
   version of the character…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-26T18:00:00Z'

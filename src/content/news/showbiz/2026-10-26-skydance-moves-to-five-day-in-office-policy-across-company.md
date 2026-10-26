@@ -5,7 +5,7 @@ countryCode: US
 description: Skydance has implemented a new policy requiring all staff to work in
   the office five days a week. This decision was made by co-CEOs David Ellison and
   Ynon Kreitz, who previously…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-26T18:01:23Z'
