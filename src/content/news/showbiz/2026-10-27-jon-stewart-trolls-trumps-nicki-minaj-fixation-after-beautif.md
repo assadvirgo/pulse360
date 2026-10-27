@@ -5,7 +5,7 @@ countryCode: US
 description: Jon Stewart addressed Donald Trump's comments about Nicki Minaj on a
   recent episode of "The Daily Show." Stewart used humor to critique Trump's fixation
   on the rapper,…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 74.8
 pubDate: '2026-10-27T03:39:24Z'

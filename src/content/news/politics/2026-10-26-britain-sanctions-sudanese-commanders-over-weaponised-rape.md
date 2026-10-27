@@ -5,7 +5,7 @@ countryCode: GB
 description: The UK government has imposed sanctions on senior commanders from the
   Rapid Support Forces (RSF) and the Sudanese Armed Forces due to their alleged involvement
   in a campaign of…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 64.5
 pubDate: '2026-10-26T17:32:46Z'

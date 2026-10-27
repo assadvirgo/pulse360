@@ -5,7 +5,7 @@ countryCode: GB
 description: 'Lionsgate U.K.''s horror-comedy "Ghosts: The Possession of Button House"
   topped the U.K. and Ireland box office during its opening weekend, earning £2.4
   million ($3.2 million). The…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-10-27T03:28:11Z'

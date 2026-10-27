@@ -5,7 +5,7 @@ countryCode: US
 description: Nothing's Ear 3A earbuds are currently on sale for $79, which is a $20
   discount and matches their best price to date. The wireless earbuds feature noise-canceling
   capabilities and…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-26T17:25:34Z'

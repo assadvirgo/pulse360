@@ -5,7 +5,7 @@ countryCode: US
 description: The Netflix docuseries "The One About Matthew Perry" presents a portrayal
   of the late actor's struggles with addiction. The three-part series features interviews
   with Perry's…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-27T07:01:00Z'

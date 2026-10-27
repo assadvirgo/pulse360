@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has acknowledged an issue with the inner display of a small number
   of iPhone Duo units, following reports of cracked and broken screens. The company
   stated that the problem…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-26T17:28:07Z'
