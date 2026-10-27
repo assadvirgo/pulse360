@@ -5,7 +5,7 @@ countryCode: GB
 description: A judge has dismissed an indecent assault charge against Russell Brand,
   replacing it with a count of attempted indecent assault. This decision was made
   during the trial at…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-27T16:18:57Z'

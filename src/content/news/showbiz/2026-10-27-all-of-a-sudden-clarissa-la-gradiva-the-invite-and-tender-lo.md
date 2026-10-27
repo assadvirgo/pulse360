@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: The Gotham Film & Media Institute announced the nominations for the 36th
   edition of The Gothams, with five films leading the nominations.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-27T16:30:00Z'

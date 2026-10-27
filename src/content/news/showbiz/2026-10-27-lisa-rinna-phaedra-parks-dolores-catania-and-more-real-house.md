@@ -5,7 +5,7 @@ countryCode: US
 description: Lisa Rinna, Phaedra Parks, and Dolores Catania will star in a new Off-Broadway
   revival of Neil Simon's farce "Rumors." The production will feature several other
   "Real Housewives"…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-10-27T16:38:09Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI has announced three significant discoveries in mathematics, computer
   science, and physics. This follows its recent release of numerous manuscripts addressing
   longstanding…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-26T23:34:58Z'

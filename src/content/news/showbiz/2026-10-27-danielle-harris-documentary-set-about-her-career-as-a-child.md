@@ -5,7 +5,7 @@ countryCode: US
 description: Deranged Minds Entertainment has announced a feature-length documentary
   about actress Danielle Harris, known for her roles in four "Halloween" films. The
   film, which has been in…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-10-27T16:00:00Z'

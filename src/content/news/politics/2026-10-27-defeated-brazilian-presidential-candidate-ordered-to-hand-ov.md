@@ -5,7 +5,7 @@ countryCode: BR
 description: Flavio Bolsonaro, Brazil's defeated presidential election candidate,
   has reported that he is being prevented from leaving the country. He claims that
   police have ordered him to…
-displayOrder: 5
+displayOrder: 12
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-27T13:01:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A company called Arctic Fox Technologies has announced a new multifunction
   mouse called the Super Mouse. This device features a compact touchscreen located
   beneath the user's…
-displayOrder: 8
+displayOrder: 13
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-27T17:00:00Z'
