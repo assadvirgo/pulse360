@@ -5,7 +5,7 @@ countryCode: US
 description: Morgan Stanley's chief stock-market strategist has indicated that support
   for semiconductor stocks could be as much as 15% lower than current levels. Despite
   this caution, he…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 32.5
 pubDate: '2026-10-26T09:02:00Z'

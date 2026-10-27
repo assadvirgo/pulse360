@@ -5,7 +5,7 @@ countryCode: US
 description: The horror film "The Block," directed by Craig Singer, has completed
   production and revealed a first look at its lead actor, Jack Falahee. Falahee, a
   recent Tony award winner,…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-10-26T22:04:44Z'

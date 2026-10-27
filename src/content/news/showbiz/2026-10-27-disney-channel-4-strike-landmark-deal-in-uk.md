@@ -5,7 +5,7 @@ countryCode: GB
 description: Disney and Channel 4 have reached a landmark content deal in the UK,
   marking a significant development in the television landscape. This agreement will
   allow the Channel 4 linear…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-10-27T00:01:00Z'

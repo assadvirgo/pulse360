@@ -5,7 +5,7 @@ countryCode: US
 description: Taylor Swift was inducted into the Nashville Songwriters Hall of Fame,
   becoming its youngest member at the age of 36. The induction ceremony took place
   on Monday, where she…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-27T02:55:14Z'
