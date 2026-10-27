@@ -5,7 +5,7 @@ countryCode: US
 description: Chris DeFaria, a producer of "Coyote vs. Acme," announced the death of
   Eric Bauza, who voiced many "Looney Tunes" characters. DeFaria expressed his heartbreak
   over Bauza's…
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-26T20:55:09Z'

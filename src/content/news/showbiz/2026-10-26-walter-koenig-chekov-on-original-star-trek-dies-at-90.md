@@ -5,7 +5,7 @@ countryCode: US
 description: Walter Koenig, known for his role as Chekov in the original "Star Trek"
   series, has died at the age of 90. His passing was confirmed by his representatives,
   who noted his…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 76.8
 pubDate: '2026-10-26T16:42:01Z'

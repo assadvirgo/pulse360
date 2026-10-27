@@ -5,7 +5,7 @@ countryCode: IN
 description: The Marathi-language thriller "Gondhal" has unveiled its global trailer
   as part of India's campaign for the international feature Oscar at the 99th Academy
   Awards. This film marks…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-26T22:03:48Z'

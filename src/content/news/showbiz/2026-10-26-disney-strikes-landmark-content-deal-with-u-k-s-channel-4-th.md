@@ -5,7 +5,7 @@ countryCode: GB
 description: Disney+ has announced a landmark content deal with U.K. network Channel
   4, which it describes as one of its "most significant" arrangements globally. This
   deal will allow the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-26T23:01:00Z'

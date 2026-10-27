@@ -5,7 +5,7 @@ countryCode: US
 description: Arthur McAlpine III has been cast in a recurring role in the upcoming
   Black Rodeo drama series from Starz. The series is an eight-episode family drama
   produced by Kirk A. Moore,…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 66.0
 pubDate: '2026-10-26T22:55:50Z'

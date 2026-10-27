@@ -5,7 +5,7 @@ countryCode: GB
 description: Harry Kane has won the 2026 Ballon d'Or, marking the first time an English
   player has received this award since Michael Owen in 2001. The ceremony took place
   in London.
-displayOrder: 9
+displayOrder: 10
 heroImage: ''
 importance: 49.2
 pubDate: '2026-10-26T23:10:59Z'
