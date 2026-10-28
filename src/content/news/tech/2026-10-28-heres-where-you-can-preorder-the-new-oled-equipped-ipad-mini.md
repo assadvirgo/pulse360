@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has announced the eighth-generation iPad Mini, which will feature
   OLED technology for the first time. Preorders for the device are currently available
   through various…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-28T17:12:47Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Jennifer Lawrence has confirmed that she is the Bravo superfan who helped
   identify the leaker of the Summer House reunion audio. In a recent episode of the
   podcast Call Her Daddy,…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-28T17:31:35Z'

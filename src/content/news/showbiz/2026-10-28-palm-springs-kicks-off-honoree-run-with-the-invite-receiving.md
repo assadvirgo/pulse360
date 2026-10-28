@@ -5,7 +5,7 @@ countryCode: US
 description: A24's film "The Invite" will receive the Vanguard Award at the Palm Springs
   International Film Awards. This award is part of the opening-night gala for the
   2027 Palm Springs Film…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-28T17:00:00Z'

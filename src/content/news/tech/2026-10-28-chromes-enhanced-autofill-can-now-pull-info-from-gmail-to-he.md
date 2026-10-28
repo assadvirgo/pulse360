@@ -5,7 +5,7 @@ countryCode: US
 description: Google's Chrome browser has expanded its enhanced autofill feature to
   include information sourced from Gmail. This update aims to streamline the process
   of filling out forms by…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-28T17:00:00Z'

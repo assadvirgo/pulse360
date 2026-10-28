@@ -5,7 +5,7 @@ countryCode: US
 description: Meta has indicated that it may delay the implementation of its new business
   terms beyond November 20th due to backlash from publishers regarding concerns about
   AI training. The…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-28T16:15:30Z'

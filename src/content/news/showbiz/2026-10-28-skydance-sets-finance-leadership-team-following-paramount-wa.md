@@ -5,7 +5,7 @@ countryCode: US
 description: Skydance Corp. has established its finance leadership team following
   the merger of Paramount and Warner Bros. Discovery. The new company was formed by
   David Ellison, who is also…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-28T16:43:17Z'

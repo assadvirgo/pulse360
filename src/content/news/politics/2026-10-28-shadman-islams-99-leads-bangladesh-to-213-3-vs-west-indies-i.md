@@ -5,7 +5,7 @@ countryCode: BD
 description: Bangladesh scored 213-3 against West Indies in the first Test match in
   Mirpur. Shadman Islam was on 99 runs when bad light halted play, preventing him
   from completing his century.
-displayOrder: 11
+displayOrder: 12
 heroImage: ''
 importance: 51.5
 pubDate: '2026-10-28T14:38:27Z'

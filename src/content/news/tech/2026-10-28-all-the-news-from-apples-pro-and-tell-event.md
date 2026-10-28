@@ -5,7 +5,7 @@ countryCode: US
 description: Apple's "Pro and tell" event is scheduled to begin at 1 PM ET / 10 AM
   PT on October 28th. This event follows the recent debut of the HomeView, Apple's
   first smart display, and the…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-28T16:30:00Z'

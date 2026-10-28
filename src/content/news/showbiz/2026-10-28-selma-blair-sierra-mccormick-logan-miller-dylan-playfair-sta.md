@@ -5,7 +5,7 @@ countryCode: US
 description: Production has wrapped on the film "Dead At 27," which is described as
   a "Gen Z music thriller." The film stars Selma Blair, Sierra McCormick, Logan Miller,
   and Dylan Playfair. It…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-28T17:40:30Z'

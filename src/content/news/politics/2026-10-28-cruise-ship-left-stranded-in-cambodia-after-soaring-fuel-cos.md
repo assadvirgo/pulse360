@@ -5,7 +5,7 @@ countryCode: KH
 description: A luxury cruise ship has suspended its three-year round-the-world voyage
   in Cambodia due to rising fuel costs. The operators have stated that they are working
   with passengers on…
-displayOrder: 13
+displayOrder: 14
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-28T10:05:00Z'

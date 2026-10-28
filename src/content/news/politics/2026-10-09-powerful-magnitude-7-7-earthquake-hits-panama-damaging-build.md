@@ -4,7 +4,7 @@ country: Panama
 countryCode: PA
 description: Tsunami warnings are issued for neighbouring countries as videos of destruction
   circulate online.
-displayOrder: 28
+displayOrder: 26
 heroImage: ''
 importance: 88.2
 pubDate: '2026-10-09T19:39:52Z'
