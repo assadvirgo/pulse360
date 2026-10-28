@@ -5,7 +5,7 @@ countryCode: US
 description: Meta has been ordered by a New Mexico judge to pay $25 billion to resolve
   claims that it misled users regarding privacy issues from 2018. This ruling significantly
   exceeds a…
-displayOrder: 12
+displayOrder: 16
 heroImage: ''
 importance: 69.2
 pubDate: '2026-10-27T16:44:40Z'

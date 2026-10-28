@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Harrison is responding to a cease-and-desist letter regarding his
   new dating show, The Vow, which has been compared to his former show, The Bachelor.
   In an interview, he…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-28T02:40:05Z'

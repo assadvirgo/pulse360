@@ -5,7 +5,7 @@ countryCode: JP
 description: Japan's entertainment industry needs to adopt Hollywood's distribution
   model to achieve its content export targets, according to Shiina Yasushi, CEO of
   TIFFCOM. The Tokyo…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-27T22:29:04Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Kevin Bleyer, an Emmy- and Peabody Award-winning television writer, died
   in a car accident on October 25 in Millrift, Pennsylvania. He was known for his
   work on The Daily Show and…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 77.0
 pubDate: '2026-10-27T20:30:33Z'
