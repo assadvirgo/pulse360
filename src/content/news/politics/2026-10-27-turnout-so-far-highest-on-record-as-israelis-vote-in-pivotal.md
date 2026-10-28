@@ -5,7 +5,7 @@ countryCode: IL
 description: Voter turnout in Israel's elections is reported to be the highest on
   record. These elections are the first since the Hamas-led attacks on Israel and
   the subsequent wars, and they…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 76.2
 pubDate: '2026-10-27T17:00:51Z'

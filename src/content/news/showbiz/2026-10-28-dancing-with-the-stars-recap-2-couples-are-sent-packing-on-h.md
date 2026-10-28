@@ -5,7 +5,7 @@ countryCode: US
 description: This week's episode of "Dancing With The Stars" featured a Halloween
   theme, with performances inspired by famous horror movies. Two couples were eliminated
   during this episode.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-28T01:59:11Z'

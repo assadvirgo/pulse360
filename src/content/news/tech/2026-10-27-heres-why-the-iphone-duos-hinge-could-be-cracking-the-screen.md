@@ -5,7 +5,7 @@ countryCode: US
 description: Reports have emerged following the launch of the iPhone Duo, indicating
   that some users experienced issues with the inner screen cracking. This problem
   appears to be related to…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-10-27T22:55:05Z'

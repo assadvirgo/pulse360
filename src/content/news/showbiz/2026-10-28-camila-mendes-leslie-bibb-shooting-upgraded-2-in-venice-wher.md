@@ -5,7 +5,7 @@ countryCode: IT
 description: Shooting is currently taking place in Venice for "Upgraded 2," the sequel
   to the 2024 rom-com "Upgraded." The film stars Camila Mendes and Leslie Bibb, with
   Mendes reprising her…
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-28T09:40:45Z'

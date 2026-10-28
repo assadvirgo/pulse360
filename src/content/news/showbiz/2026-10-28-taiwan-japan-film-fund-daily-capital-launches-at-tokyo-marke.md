@@ -5,7 +5,7 @@ countryCode: TW
 description: Daily Capital, a new fund for Taiwan-Japan film and television co-productions,
   launched at the Tokyo International Film Festival market on the opening day of TIFFCOM.
   The fund…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-28T08:20:51Z'

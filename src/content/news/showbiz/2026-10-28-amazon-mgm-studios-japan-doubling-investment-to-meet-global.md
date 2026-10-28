@@ -5,7 +5,7 @@ countryCode: JP
 description: Amazon MGM Studios Japan is doubling its investment to enhance its content
   to meet global standards, according to studio head Buddy Marini. This announcement
   was made during a…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-28T10:08:02Z'

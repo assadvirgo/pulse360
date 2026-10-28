@@ -5,7 +5,7 @@ countryCode: BR
 description: Flavio Bolsonaro, the son of former Brazilian President Jair Bolsonaro,
   has traveled from Argentina to Ecuador following his defeat in Brazil's presidential
   election. He…
-displayOrder: 10
+displayOrder: 17
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-27T21:35:00Z'

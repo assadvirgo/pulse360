@@ -5,7 +5,7 @@ countryCode: US
 description: Michael Douglas expressed his hope for an electoral "massacre" for Donald
   Trump in the upcoming U.S. midterm elections. He anticipates a significant decline
   in support for Trump,…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-10-28T09:11:30Z'

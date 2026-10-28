@@ -5,7 +5,7 @@ countryCode: IL
 description: Israel's recent election appears to be deadlocked, with exit polls indicating
   no clear winner. Neither Prime Minister Benjamin Netanyahu nor Gadi Eisenkot is
   projected to secure a…
-displayOrder: 13
+displayOrder: 19
 heroImage: ''
 importance: 57.5
 pubDate: '2026-10-27T20:18:18Z'
