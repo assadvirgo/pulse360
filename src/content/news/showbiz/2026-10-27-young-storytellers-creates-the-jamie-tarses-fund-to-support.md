@@ -5,7 +5,7 @@ countryCode: US
 description: Young Storytellers, a nonprofit organization in Los Angeles, has established
   The Jamie Tarses Fund to support writing programs in public schools. The fund is
   named in memory of…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-27T23:20:53Z'

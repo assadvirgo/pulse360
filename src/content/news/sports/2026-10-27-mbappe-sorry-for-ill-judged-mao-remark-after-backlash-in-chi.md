@@ -5,7 +5,7 @@ countryCode: CN
 description: Kylian Mbappe has apologized for referring to Mao Zedong as a "dictator"
   during an interview. His comments have led to backlash in China and resulted in
   him being dropped by…
-displayOrder: 16
+displayOrder: 18
 heroImage: ''
 importance: 42.2
 pubDate: '2026-10-27T13:25:54Z'

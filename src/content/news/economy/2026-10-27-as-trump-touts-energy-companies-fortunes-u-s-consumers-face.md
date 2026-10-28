@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump is promoting the financial success of U.S. energy
   companies amid the ongoing Iran war while campaigning for Republican candidates
   ahead of the midterm…
-displayOrder: 3
+displayOrder: 4
 heroImage: ''
 importance: 69.5
 pubDate: '2026-10-27T21:29:00Z'

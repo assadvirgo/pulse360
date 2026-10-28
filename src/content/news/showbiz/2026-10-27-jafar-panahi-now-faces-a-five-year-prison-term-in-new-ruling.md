@@ -5,7 +5,7 @@ countryCode: IR
 description: Jafar Panahi, an Iranian filmmaker, has been sentenced to five years
   and one month in prison by a Tehran Revolutionary Court. This new ruling adds to
   his previous one-year prison…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-10-27T21:36:00Z'

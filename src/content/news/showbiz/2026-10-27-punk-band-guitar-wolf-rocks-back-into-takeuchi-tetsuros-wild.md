@@ -5,7 +5,7 @@ countryCode: JP
 description: Guitar Wolf, a punk band known for its international touring, is set
   to headline the film "Wild Zero Overdrive," directed by Takeuchi Tetsuro. This project
   is part of the Tokyo…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-27T23:21:14Z'

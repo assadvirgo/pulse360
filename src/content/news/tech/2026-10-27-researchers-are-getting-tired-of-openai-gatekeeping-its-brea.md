@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI announced breakthroughs in mathematics, computer science, and
   physics, along with a new approach to communicating its findings. However, researchers
   expressed growing…
-displayOrder: 2
+displayOrder: 3
 heroImage: ''
 importance: 72.2
 pubDate: '2026-10-27T20:48:58Z'
