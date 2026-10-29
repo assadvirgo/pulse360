@@ -5,7 +5,7 @@ countryCode: US
 description: The current season of 'The Celebrity Traitors' is experiencing high ratings,
   yet it has been described as feeling unusually flat. Observers note a lack of jeopardy
   in the show,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-29T10:00:00Z'

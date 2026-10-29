@@ -5,7 +5,7 @@ countryCode: US
 description: Prada has launched a new hand-drawn holiday campaign featuring Sadie
   Sink and Maya Hawke, created by legendary Disney animator John Pomeroy. The campaign
   has received widespread…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-29T10:35:47Z'

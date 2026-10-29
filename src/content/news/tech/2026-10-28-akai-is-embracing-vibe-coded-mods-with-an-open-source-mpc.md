@@ -5,7 +5,7 @@ countryCode: US
 description: Akai is preparing to introduce the MPC Sample Key, which features open-source
   firmware. The company is engaging with the modding community by providing early
   access to the device…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-28T21:34:04Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: James Gunn discussed the characters of the DC universe, referring to
   Batman, Superman, and Wonder Woman as the "Diamond Characters." He also mentioned
   that Krypto, John Stewart,…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-10-29T03:53:49Z'

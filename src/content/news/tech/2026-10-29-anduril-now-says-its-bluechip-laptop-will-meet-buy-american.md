@@ -5,7 +5,7 @@ countryCode: US
 description: Anduril and Qualcomm announced a partnership to produce laptops entirely
   in the United States, beginning with the BlueChip model in 2027. The companies aim
   to establish a fully…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-29T02:22:46Z'

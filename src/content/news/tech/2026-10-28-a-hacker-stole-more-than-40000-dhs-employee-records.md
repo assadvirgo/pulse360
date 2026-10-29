@@ -5,7 +5,7 @@ countryCode: US
 description: A hacker has stolen personal information from over 41,000 employees of
   the Department of Homeland Security (DHS). The breach includes sensitive data such
   as names, job titles,…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-10-28T21:57:45Z'

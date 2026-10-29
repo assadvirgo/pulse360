@@ -5,7 +5,7 @@ countryCode: JP
 description: The Tokyo Broadcasting System (TBS) Group presented its initiatives at
   TIFFCOM, the content market of the Tokyo International Film Festival, aimed at promoting
   Japanese content…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-29T09:59:27Z'
