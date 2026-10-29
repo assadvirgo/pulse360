@@ -5,7 +5,7 @@ countryCode: US
 description: Adam Mosseri, head of Instagram, discussed the growing negativity surrounding
   artificial intelligence (AI) during an interview. He noted that this sentiment is
   not limited to…
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-28T23:05:39Z'

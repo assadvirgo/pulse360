@@ -5,7 +5,7 @@ countryCode: JP
 description: A panel titled "How We Make Films" at the 39th Tokyo International Film
   Festival featured five filmmakers from the Nippon Cinema Now initiative. They discussed
   unexpected…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-29T00:50:20Z'

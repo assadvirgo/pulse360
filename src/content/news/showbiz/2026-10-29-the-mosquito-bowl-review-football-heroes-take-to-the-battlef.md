@@ -3,7 +3,7 @@ category: Showbiz
 description: The review of "The Mosquito Bowl," directed by Peter Berg, suggests that
   viewers should not expect great restraint or good taste from the film. The movie
   is described as a combat…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-29T01:40:14Z'

@@ -5,7 +5,7 @@ countryCode: NL
 description: A zookeeper has died following an attack by a leopard at a safari park
   where she had worked for nearly 40 years. The incident occurred while she was performing
   her duties at the…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 44.0
 pubDate: '2026-10-28T08:36:00Z'

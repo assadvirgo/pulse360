@@ -5,7 +5,7 @@ countryCode: US
 description: 'Remington Scott, known for his work on the motion capture of Gollum
   in "The Lord of the Rings: The Two Towers" and for creating digital humans for "Spider-Man
   2," will lead Eros…'
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-10-28T23:09:57Z'

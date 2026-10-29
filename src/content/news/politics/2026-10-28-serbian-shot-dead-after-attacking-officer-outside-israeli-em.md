@@ -5,7 +5,7 @@ countryCode: RS
 description: A male attacker was shot dead by police outside the Israeli embassy in
   Belgrade after he attacked an officer. Authorities reported that the attacker was
   underage and was being…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-10-28T10:17:54Z'

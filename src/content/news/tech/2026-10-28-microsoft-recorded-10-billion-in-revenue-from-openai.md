@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft reported $10 billion in revenue from commercial arrangements
   with OpenAI for the quarter ending September 30. This figure includes revenue-sharing
   payments and…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-10-28T21:34:30Z'

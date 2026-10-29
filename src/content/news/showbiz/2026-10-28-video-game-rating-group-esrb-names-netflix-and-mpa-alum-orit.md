@@ -5,7 +5,7 @@ countryCode: US
 description: Orit Michiel has been named the next president of the Entertainment Software
   Rating Board (ESRB), which is responsible for assigning age and content ratings
   for video games and…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 71.8
 pubDate: '2026-10-28T17:46:08Z'
