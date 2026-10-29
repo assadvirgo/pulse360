@@ -5,7 +5,7 @@ countryCode: US
 description: Hayden Panettiere's death has been ruled accidental, and the investigation
   by the Greenville, South Carolina police department has concluded. The police department
   announced the…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-28T21:31:13Z'

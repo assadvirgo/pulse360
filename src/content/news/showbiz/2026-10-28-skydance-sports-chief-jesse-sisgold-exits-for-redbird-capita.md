@@ -5,7 +5,7 @@ countryCode: US
 description: Longtime Skydance Sports chief Jesse Sisgold is leaving his position
   to take on an advisory role at RedBird Capital. He was previously the president
   and COO of Skydance, which has…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-28T20:45:17Z'

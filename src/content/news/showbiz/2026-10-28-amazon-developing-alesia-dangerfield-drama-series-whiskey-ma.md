@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon is developing a new drama series titled "Whiskey Matriarch," which
   will star and be executive produced by Taraji P. Henson. The series was sold to
   Amazon after a…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-28T21:15:00Z'

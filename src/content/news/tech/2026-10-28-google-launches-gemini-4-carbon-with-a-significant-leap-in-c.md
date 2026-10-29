@@ -5,7 +5,7 @@ countryCode: US
 description: Google has launched its latest model, Gemini 4 Carbon, which features
   significant advancements in coding, agentic tasks, and cybersecurity. The announcement
   highlights that Gemini…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-28T20:03:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Barbara Barrie, an Oscar-, Emmy-, and Tony-nominated actress, has died
   at the age of 95 in Manhattan. Her daughter confirmed that Barrie's death was medically
   assisted following a…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-28T22:15:25Z'
