@@ -5,7 +5,7 @@ countryCode: US
 description: Dream, a new venture launched by former Palantir executives, has secured
   $17 million in funding from a16z to develop AI world models specifically for the
   construction industry.…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-29T16:21:00Z'

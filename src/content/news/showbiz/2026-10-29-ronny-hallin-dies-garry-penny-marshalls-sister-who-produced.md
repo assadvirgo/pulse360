@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Ronny Hallin, sister of Garry and Penny Marshall, has died at the age
   of 88. According to her daughter, she passed away peacefully at home.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-10-29T16:58:34Z'

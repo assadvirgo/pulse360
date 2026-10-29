@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix is developing a live-action series based on the video game "PlayerUnknown's
   Battlegrounds" (PUBG), with Donald Glover attached to star. Glover will also write,
   executive…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-29T17:30:00Z'

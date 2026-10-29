@@ -5,7 +5,7 @@ countryCode: IT
 description: '"Shaun the Sheep: The Beast of Mossy Bottom" is set to launch in Italy
   as the opening film of Lucca Comics and Games on the eve of Halloween. This film
   is the third feature in the…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-29T16:16:13Z'

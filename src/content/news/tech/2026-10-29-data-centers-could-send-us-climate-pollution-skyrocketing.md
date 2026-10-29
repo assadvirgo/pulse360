@@ -5,7 +5,7 @@ countryCode: US
 description: The US power sector may see a significant increase in carbon dioxide
   pollution due to the growing demand for electricity from data centers. A new analysis
   by the Sierra Club…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-29T17:10:46Z'

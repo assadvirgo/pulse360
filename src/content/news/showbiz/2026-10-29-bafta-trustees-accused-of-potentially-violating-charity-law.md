@@ -5,7 +5,7 @@ countryCode: GB
 description: BAFTA trustees are facing allegations of potentially violating U.K. charity
   and company laws by accepting complimentary tickets to the awards show. These tickets
   were reportedly…
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-29T16:29:19Z'
