@@ -5,7 +5,7 @@ countryCode: GB
 description: Russell Brand's appearance on The Wendy Williams Show in October 2017
   has been referenced by the prosecution during his rape trial in London. This occurred
   during closing remarks…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-30T15:35:26Z'

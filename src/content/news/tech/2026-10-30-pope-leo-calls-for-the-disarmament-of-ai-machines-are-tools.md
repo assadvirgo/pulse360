@@ -3,7 +3,7 @@ category: Tech
 description: Pope Leo XIV has called for the disarmament of artificial intelligence
   (AI) systems, emphasizing that they are tools and not persons. In a recent Papal
   Address, he urged United…
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 62.2
 pubDate: '2026-10-30T14:58:06Z'

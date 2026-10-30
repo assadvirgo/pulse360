@@ -5,7 +5,7 @@ countryCode: US
 description: Vizio has a discounted Mini LED Quantum TV available at Walmart, allowing
   users to bypass smart features and privacy concerns associated with modern smart
   TVs. The TV focuses on…
-displayOrder: 7
+displayOrder: 12
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-30T17:01:07Z'

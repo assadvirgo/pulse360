@@ -5,7 +5,7 @@ countryCode: US
 description: Daniel Sullivan, a Tony-winning Broadway director, has announced his
   retirement after a 55-year career in theater. He was set to direct the upcoming
   production of David Hare's…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-10-30T17:03:50Z'

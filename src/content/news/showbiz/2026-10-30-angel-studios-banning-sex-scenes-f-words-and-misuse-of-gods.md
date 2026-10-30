@@ -5,7 +5,7 @@ countryCode: US
 description: Angel Studios is implementing a new content policy that prohibits sex
   scenes, nudity, the use of F-words, and the misuse of God's name in its films. The
   studio, recognized for…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-30T16:46:02Z'

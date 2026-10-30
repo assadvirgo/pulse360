@@ -5,7 +5,7 @@ countryCode: ES
 description: Voicemod, a company based in Spain, has announced a licensing deal with
   Disney to make audio clips from Star Wars characters available to users. The Mandalorian
   and Grogu will be…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-10-30T15:53:47Z'

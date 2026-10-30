@@ -5,7 +5,7 @@ countryCode: US
 description: A short film titled "Long’s Long Lost & Mini Mart" won the grand prize
   of $100,000 at the Ripcord Halloween Film Festival. This amount is noted as the
   largest ever awarded at a…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-10-30T17:33:58Z'

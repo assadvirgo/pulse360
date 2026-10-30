@@ -5,7 +5,7 @@ countryCode: US
 description: Rivian is preparing to test its point-to-point hands-free driving feature
   later this year. During an earnings call, CEO RJ Scaringe focused more on the company's
   autonomous…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-10-30T17:16:09Z'
