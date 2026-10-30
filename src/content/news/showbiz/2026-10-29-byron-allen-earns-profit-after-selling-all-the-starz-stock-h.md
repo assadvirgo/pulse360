@@ -5,7 +5,7 @@ countryCode: US
 description: Byron Allen has sold all of his shares in Starz, which he had acquired
   from Steve Mnuchin earlier this year. The sale resulted in a profit for the investor
   and media entrepreneur.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-29T21:31:15Z'

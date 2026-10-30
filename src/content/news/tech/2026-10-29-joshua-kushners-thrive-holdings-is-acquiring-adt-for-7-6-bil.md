@@ -5,7 +5,7 @@ countryCode: US
 description: The Joshua Kushner-led Thrive Holdings is acquiring ADT in an all-cash
   deal valued at $7.6 billion. The deal is expected to close in the first quarter
   of 2027 and will take ADT…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-29T16:03:28Z'

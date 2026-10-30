@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has introduced a new MacBook Pro featuring an OLED display and
   touchscreen functionality. This model is noted for its PROLED XDR Display technology,
   which is particularly…
-displayOrder: 8
+displayOrder: 10
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-29T17:48:09Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Patrick Stewart, a prominent actor known for his roles in "Star Trek"
   and the "X-Men" movies, has died at the age of 86. He had a career spanning 60 years,
   during which he starred…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-29T21:26:55Z'

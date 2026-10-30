@@ -5,7 +5,7 @@ countryCode: FR
 description: France’s National Film Board, the CNC, celebrated its 80th anniversary
   with a gathering of industry leaders in Paris. Cannes Film Festival chief Thierry
   Frémaux praised the…
-displayOrder: 2
+displayOrder: 5
 heroImage: ''
 importance: 81.8
 pubDate: '2026-10-29T17:08:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Utah has filed criminal charges against Kalshi and its executives for
   allegedly violating anti-gambling laws. The state has brought 14 charges against
   the prediction market,…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-29T17:40:23Z'

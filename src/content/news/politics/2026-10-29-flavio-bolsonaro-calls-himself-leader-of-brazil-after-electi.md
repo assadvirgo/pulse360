@@ -5,7 +5,7 @@ countryCode: BR
 description: Flávio Bolsonaro, the defeated presidential candidate, has stated that
   he will lead the opposition from the United States. He made this declaration following
   his election loss.
-displayOrder: 10
+displayOrder: 12
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-29T14:58:28Z'
