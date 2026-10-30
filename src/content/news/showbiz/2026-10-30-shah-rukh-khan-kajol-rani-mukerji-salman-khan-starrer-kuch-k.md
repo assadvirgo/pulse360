@@ -5,7 +5,7 @@ countryCode: IN
 description: '"Kuch Kuch Hota Hai," directed by Karan Johar, will be screened at the
   Edinburgh International Film Festival in 2028 to celebrate its 30th anniversary.
   Karan Johar is set to…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 41.8
 pubDate: '2026-10-30T10:30:00Z'

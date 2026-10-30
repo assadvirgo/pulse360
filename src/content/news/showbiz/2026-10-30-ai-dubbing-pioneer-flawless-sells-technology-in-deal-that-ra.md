@@ -5,7 +5,7 @@ countryCode: US
 description: Flawless, a British-American company known for its AI dubbing technology,
   has sold its intellectual property, including its TrueSync dubbing technology and
   DeepEditor. The buyer…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-10-30T09:23:09Z'

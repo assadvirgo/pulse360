@@ -5,7 +5,7 @@ countryCode: US
 description: Meta has launched an AI fashion app called Style Sketch. The app integrates
   with Instagram to create a virtual closet using photos users have shared, and it
   also allows users to…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-10-29T19:14:36Z'

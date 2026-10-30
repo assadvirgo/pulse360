@@ -5,7 +5,7 @@ countryCode: GB
 description: Patrick Stewart has died at age 86. He was known for his roles in Star
   Trek and X-Men. A message on his Instagram account stated that he passed away in
   his Los Angeles home…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-29T20:10:02Z'

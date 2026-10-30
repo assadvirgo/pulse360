@@ -5,7 +5,7 @@ countryCode: TH
 description: Microdrama platform FlareFlow is set to launch in Thailand on November
   2 through AIS Play, the entertainment service of Advanced Info Service (AIS). The
   launch is part of a deal…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-30T09:46:39Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Curry Barker, the director of the horror film Obsession, has released
   a new horror short titled "Mama Bear" on YouTube. The short is nearly five minutes
   long and is described as…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-29T23:57:18Z'

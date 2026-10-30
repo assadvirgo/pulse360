@@ -5,7 +5,7 @@ countryCode: EE
 description: 'Several offbeat films are being showcased at the Tallinn Black Nights
   Film Festival (PÖFF). The lineup includes a Christmas mystery titled "Fruitcakes:
   Dawn of Drag," a Hungarian…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 44.8
 pubDate: '2026-10-30T09:00:00Z'

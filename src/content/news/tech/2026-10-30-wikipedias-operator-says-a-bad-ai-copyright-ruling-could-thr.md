@@ -5,7 +5,7 @@ countryCode: US
 description: The Wikimedia Foundation is advocating for legal protections for large
   language models (LLMs) that train on copyrighted work in ongoing AI copyright cases.
   The organization warns…
-displayOrder: 1
+displayOrder: 12
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-30T09:00:00Z'
