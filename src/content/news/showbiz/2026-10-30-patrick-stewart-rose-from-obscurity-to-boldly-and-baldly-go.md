@@ -5,7 +5,7 @@ countryCode: US
 description: Sir Patrick Stewart's collaborator on his 2023 memoir, 'Making It So,'
   reflects on his unexpected rise to fame. Stewart transitioned from the Shakespearean
   stage to leading the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-30T00:22:36Z'

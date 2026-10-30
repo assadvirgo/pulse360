@@ -5,7 +5,7 @@ countryCode: US
 description: SAG-AFTRA, the American Federation of Music, and the Writers Guild of
   America East and West have requested a federal judge to reject a fair use exemption
   for training AI models.…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-10-30T00:13:06Z'

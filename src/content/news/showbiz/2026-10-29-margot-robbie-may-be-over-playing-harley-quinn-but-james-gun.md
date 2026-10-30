@@ -5,7 +5,7 @@ countryCode: US
 description: James Gunn has indicated that Harley Quinn will "almost certainly" return
   in the expanding DC Universe. However, Margot Robbie, who portrayed the character
   in three DCEU films,…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-10-29T22:10:39Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The CBS Halloween special of "Ghosts" features Rebecca Wisocky's character,
   Hetty Woodstone, encountering more ghosts from her past. The special introduces
   Hetty's estranged…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-10-30T02:00:00Z'

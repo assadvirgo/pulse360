@@ -3,7 +3,7 @@ category: Tech
 description: Reddit has announced a significant change to its platform, stating that
   it will require all users to log in to access the site. Currently, users can browse
   Reddit without an…
-displayOrder: 9
+displayOrder: 10
 heroImage: ''
 importance: 54.2
 pubDate: '2026-10-29T20:07:00Z'
