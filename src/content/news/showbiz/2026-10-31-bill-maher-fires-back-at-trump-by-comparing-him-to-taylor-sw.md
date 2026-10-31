@@ -5,7 +5,7 @@ countryCode: US
 description: Bill Maher responded to Donald Trump by comparing him to Taylor Swift
   during an episode of "Real Time with Bill Maher." Maher defended his recent dinner
   with Trump, stating that…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-10-31T02:21:47Z'

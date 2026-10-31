@@ -5,7 +5,7 @@ countryCode: US
 description: Pope Leo XIV has become the first pontiff to vote in a U.S. election.
   The Chicago-born pope mailed in a ballot for the upcoming midterm elections, which
   will determine control of…
-displayOrder: 13
+displayOrder: 15
 heroImage: ''
 importance: 65.2
 pubDate: '2026-10-30T14:48:22Z'

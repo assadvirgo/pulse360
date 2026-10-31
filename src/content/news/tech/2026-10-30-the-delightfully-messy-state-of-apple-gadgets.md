@@ -5,7 +5,7 @@ countryCode: US
 description: Apple is currently engaged in a phase of gadget experimentation, introducing
   new features across its product lineup. This includes the iPhone with additional
   screens, a…
-displayOrder: 12
+displayOrder: 13
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-30T17:25:20Z'
