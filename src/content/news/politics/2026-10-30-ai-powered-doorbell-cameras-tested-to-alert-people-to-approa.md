@@ -5,7 +5,7 @@ countryCode: CA
 description: Artificial intelligence-powered "doorbell cameras" are being tested in
   Canada to alert communities about approaching polar bears. This initiative is part
   of efforts by…
-displayOrder: 13
+displayOrder: 15
 heroImage: ''
 importance: 70.0
 pubDate: '2026-10-30T11:49:00Z'

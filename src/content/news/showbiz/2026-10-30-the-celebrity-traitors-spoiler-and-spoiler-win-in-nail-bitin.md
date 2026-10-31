@@ -5,7 +5,7 @@ countryCode: GB
 description: The season 2 finale of "The Celebrity Traitors" aired recently, featuring
   an unexpected outcome. Faithfuls Sebastian Croft and Romesh Ranganathan emerged
   as the winners,…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-10-30T21:38:07Z'

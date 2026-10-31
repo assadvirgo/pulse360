@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI, Google, Microsoft, and Anthropic have announced plans to adopt
   a new standard that allows publishers to opt out of being scraped by AI. This initiative
   aims to enable…
-displayOrder: 9
+displayOrder: 11
 heroImage: ''
 importance: 56.2
 pubDate: '2026-10-30T20:26:10Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The Santa Barbara International Film Festival has announced the recipients
   of the 2027 Virtuosos Award, recognizing talent in film. The award highlights individuals
   whose…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 67.8
 pubDate: '2026-10-30T17:00:00Z'

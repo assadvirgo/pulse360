@@ -5,7 +5,7 @@ countryCode: US
 description: The Human Consent Foundation, a nonprofit supported by Cate Blanchett,
   along with various Hollywood companies, has filed an amicus brief in the New York
   Times' lawsuit against…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-30T22:52:35Z'

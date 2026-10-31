@@ -5,7 +5,7 @@ countryCode: US
 description: The Halloween weekend box office is seeing competition between A24's
   "You Can See Everything" and Warner Bros/DC's "Clayface," with both films projected
   to earn over $10 million.…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 67.0
 pubDate: '2026-10-30T22:06:00Z'

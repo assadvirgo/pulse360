@@ -5,7 +5,7 @@ countryCode: JP
 description: Milcho Manchevski's film "Sister Brother Manhole Cover" is competing
   in the main competition at the Tokyo International Film Festival. The director discusses
   the recurring theme…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-30T23:24:27Z'
