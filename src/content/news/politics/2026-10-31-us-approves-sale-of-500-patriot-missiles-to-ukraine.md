@@ -5,7 +5,7 @@ countryCode: US
 description: The United States has approved the sale of 500 Patriot missiles to Ukraine.
   This decision comes as the American-made interceptors are recognized as the only
   effective weapon for…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-10-31T00:40:43Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A24's documentary "You Can See Everything" topped the Friday box office,
   surpassing Warner Bros. and DC's "Clayface." The film earned $3.56 million in its
   third Friday from an…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-10-31T15:49:12Z'

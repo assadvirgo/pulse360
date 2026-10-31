@@ -5,7 +5,7 @@ countryCode: JP
 description: A new anime award is set to be introduced in Japan in 2027, aimed at
   highlighting the contributions of creators in the anime industry. Industry leaders
   discussed this initiative…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-10-31T06:51:00Z'

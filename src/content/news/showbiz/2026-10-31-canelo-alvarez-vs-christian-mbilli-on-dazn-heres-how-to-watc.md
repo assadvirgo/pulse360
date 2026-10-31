@@ -5,7 +5,7 @@ countryCode: SA
 description: Canelo Alvarez will defend his WBC super middleweight title against Christian
   M'billi in a boxing match scheduled for 12 rounds. The fight will take place on
   October 31 at ANB…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-31T14:00:00Z'

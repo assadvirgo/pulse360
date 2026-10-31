@@ -3,7 +3,7 @@ category: Tech
 description: The Verge reports on the prevalence of political texts that often appear
   unhinged or overly aggressive in their messaging. Examples include requests for
   small donations and…
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 68.2
 pubDate: '2026-10-31T12:00:00Z'

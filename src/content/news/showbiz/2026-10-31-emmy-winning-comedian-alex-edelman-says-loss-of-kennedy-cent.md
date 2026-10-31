@@ -5,7 +5,7 @@ countryCode: US
 description: Alex Edelman, an Emmy-winning comedian, expressed disappointment over
   the Kennedy Center becoming politicized, which he believes negatively impacts comedians.
   He feels that this…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 43.0
 pubDate: '2026-10-31T14:03:25Z'

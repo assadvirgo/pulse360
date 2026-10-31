@@ -5,7 +5,7 @@ countryCode: US
 description: The latest Windows 11 Insider build introduces new shortcuts for Xbox
   gaming mode and enhanced search features. These updates allow users to manage settings
   without leaving gaming…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 38.2
 pubDate: '2026-10-31T15:12:19Z'
