@@ -5,7 +5,7 @@ countryCode: US
 description: Akai has teased its new MPC Sample Key on Instagram, announcing plans
   to open-source its software for the modding community. The Verge has obtained exclusive
   images of the device,…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-10-30T21:01:32Z'

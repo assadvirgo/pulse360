@@ -5,7 +5,7 @@ countryCode: CN
 description: Apple will launch Apple Intelligence in China with iOS 27.3, as reported
   by The Verge. The features will first be available in an iOS 27.3 beta set to launch
   on November 4th,…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-30T22:32:53Z'

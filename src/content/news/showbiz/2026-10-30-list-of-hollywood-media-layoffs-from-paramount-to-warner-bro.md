@@ -5,7 +5,7 @@ countryCode: US
 description: Media layoffs across the entertainment industry are continuing, with
   significant job cuts reported since mid-2024. This trend follows the impacts of
   the Covid-19 pandemic, dual…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 71.0
 pubDate: '2026-10-30T23:30:04Z'

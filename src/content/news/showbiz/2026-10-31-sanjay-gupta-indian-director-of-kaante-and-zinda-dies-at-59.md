@@ -4,7 +4,7 @@ country: India
 countryCode: IN
 description: Indian filmmaker Sanjay Gupta has died following a fall at his residence
   in Mumbai. He was 59 years old.
-displayOrder: 2
+displayOrder: 9
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-31T09:33:22Z'

@@ -5,7 +5,7 @@ countryCode: JP
 description: Japan's film industry is exploring new financing models beyond the traditional
   production committee system. This system, where multiple companies finance a film
   and share its…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-10-31T08:15:56Z'

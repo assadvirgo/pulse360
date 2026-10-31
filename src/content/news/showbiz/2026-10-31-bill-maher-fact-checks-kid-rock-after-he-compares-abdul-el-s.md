@@ -5,7 +5,7 @@ countryCode: US
 description: Bill Maher addressed comments made by Kid Rock during an episode of "Real
   Time." Kid Rock compared Abdul El-Sayed to 9/11 hijackers, prompting Maher to fact-check
   the statement.
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 71.8
 pubDate: '2026-10-31T03:13:17Z'

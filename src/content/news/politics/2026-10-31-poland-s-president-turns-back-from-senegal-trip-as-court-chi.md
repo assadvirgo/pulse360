@@ -5,7 +5,7 @@ countryCode: PL
 description: Poland's president returned from a trip to Senegal amid a crisis triggered
   by the ousting of the president of the Constitutional Tribunal. Riot police were
   deployed as hundreds of…
-displayOrder: 6
+displayOrder: 13
 heroImage: ''
 importance: 64.0
 pubDate: '2026-10-31T01:16:00Z'
