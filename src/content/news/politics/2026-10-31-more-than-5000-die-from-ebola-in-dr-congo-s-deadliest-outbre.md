@@ -5,7 +5,7 @@ countryCode: CD
 description: More than 5,000 people have died from an Ebola outbreak in the Democratic
   Republic of Congo (DRC), according to government data. The outbreak is reported
   to be the deadliest in…
-displayOrder: 10
+displayOrder: 13
 heroImage: ''
 importance: 59.2
 pubDate: '2026-10-31T15:16:20Z'

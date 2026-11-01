@@ -5,7 +5,7 @@ countryCode: US
 description: The TechCrunch Founder Summit is set to take place on November 4 at Boston’s
   SoWa Power Station. The event will focus on networking opportunities and insights
   aimed at helping…
-displayOrder: 6
+displayOrder: 9
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-31T21:36:07Z'

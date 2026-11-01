@@ -5,7 +5,7 @@ countryCode: CN
 description: 'Chinese painter and filmmaker Qiu Jiongjiong has created a new film
   titled “Fuxi: Four Tales of Feasting,” which is competing at the Tokyo Competition.
   The film was shaped during…'
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-01T00:46:15Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: Milcho Manchevski, a North Macedonian director, is competing at the Tokyo
   International Film Festival with his film "Sister Brother Manhole Cover." The project
   faced delays after…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-10-31T22:21:28Z'

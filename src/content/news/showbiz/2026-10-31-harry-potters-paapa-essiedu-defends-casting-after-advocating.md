@@ -5,7 +5,7 @@ countryCode: US
 description: Paapa Essiedu, who plays Severus Snape in the upcoming HBO adaptation
   of Harry Potter, is addressing controversy surrounding his casting. This comes in
   light of criticisms related…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-10-31T22:28:18Z'
