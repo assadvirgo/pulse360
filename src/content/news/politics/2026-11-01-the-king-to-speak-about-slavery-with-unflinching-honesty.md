@@ -5,7 +5,7 @@ countryCode: GB
 description: The King will address Commonwealth leaders about slavery, emphasizing
   "unflinching honesty" and "sincere sorrow." This speech comes as there is growing
   pressure for Britain to…
-displayOrder: 11
+displayOrder: 12
 heroImage: ''
 importance: 54.0
 pubDate: '2026-11-01T03:07:00Z'

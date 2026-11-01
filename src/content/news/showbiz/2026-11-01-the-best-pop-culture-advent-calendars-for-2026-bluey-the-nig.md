@@ -3,7 +3,7 @@ category: Showbiz
 description: Advent calendars are evolving beyond traditional chocolates, with brands
   offering creative alternatives for the 2026 holiday season. Notable collaborations
   include Nespresso…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-01T14:00:00Z'

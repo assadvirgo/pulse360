@@ -5,7 +5,7 @@ countryCode: US
 description: Warner Bros' film "Clayface" is competing for the top spot at the box
   office over the Halloween weekend, reportedly earning $10.4 million. However, A24's
   "You Can See Everything"…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-01T15:51:00Z'

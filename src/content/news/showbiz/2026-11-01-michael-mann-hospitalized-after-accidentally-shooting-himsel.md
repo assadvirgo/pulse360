@@ -5,7 +5,7 @@ countryCode: US
 description: Michael Mann was hospitalized after accidentally shooting himself in
   the leg at a gun range in Los Angeles. The incident occurred while he was attempting
   to holster a firearm…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-01T15:16:59Z'

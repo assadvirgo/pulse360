@@ -5,7 +5,7 @@ countryCode: US
 description: The new HomePod Mini 2 was announced at Apple's Welcome Home event last
   month. The speaker is priced at $149 and features a chip upgrade, enhanced color
   options, and improved…
-displayOrder: 8
+displayOrder: 11
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-01T14:00:00Z'

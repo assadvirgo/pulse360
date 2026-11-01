@@ -5,7 +5,7 @@ countryCode: US
 description: Inde Navarrette hosted the Halloween edition of "Saturday Night Live,"
   which featured a sketch titled "The Inventor’s Wife" involving a penis-destroying
   robot. The episode…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-11-01T08:33:26Z'
