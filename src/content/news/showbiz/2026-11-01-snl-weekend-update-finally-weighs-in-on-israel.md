@@ -5,7 +5,7 @@ countryCode: US
 description: The Halloween edition of "SNL" Weekend Update featured a cameo by Ben
   Marshall's Pennywise and included jabs at President Trump's recent comments about
   candidates' posteriors.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-01T05:03:38Z'

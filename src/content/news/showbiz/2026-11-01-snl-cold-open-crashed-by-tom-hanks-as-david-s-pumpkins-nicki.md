@@ -5,7 +5,7 @@ countryCode: US
 description: Tom Hanks made a return to "Saturday Night Live" on Halloween night,
   reprising his character David S. Pumpkins in a cold open. The segment parodied President
   Trump's unusual…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 74.8
 pubDate: '2026-11-01T04:03:35Z'

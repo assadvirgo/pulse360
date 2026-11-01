@@ -5,7 +5,7 @@ countryCode: US
 description: A new AI product called Muse Charm has been developed, which resembles
   a Tamagotchi. This product is being compared to Meta's upcoming AI offering, which
   features a cute design…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-10-31T16:05:00Z'

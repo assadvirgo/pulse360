@@ -5,7 +5,7 @@ countryCode: JP
 description: The cast of "Godzilla Minus Zero" received a standing ovation at the
   39th Tokyo International Film Festival. This event took place two days before the
   film's release in Japan.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-11-01T05:18:22Z'
