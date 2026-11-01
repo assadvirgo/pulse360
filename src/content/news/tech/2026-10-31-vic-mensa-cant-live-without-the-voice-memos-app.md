@@ -5,7 +5,7 @@ countryCode: US
 description: Vic Mensa has expressed his reliance on the Voice Memos app, highlighting
   its importance in his creative process. The app aids him in capturing ideas and
   inspirations on the go.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-10-31T15:00:00Z'

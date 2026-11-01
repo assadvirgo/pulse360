@@ -5,7 +5,7 @@ countryCode: GB
 description: Maya Jama was a key figure in the finale of "Celebrity Traitors" Season
   2, where she was the only original Traitor to reach the final episode. She managed
   to remain undetected for…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-10-31T20:09:35Z'

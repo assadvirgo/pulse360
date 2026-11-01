@@ -5,7 +5,7 @@ countryCode: US
 description: Taika Waititi has responded to negative reviews of his film "Klara and
   the Sun," calling critics "sad lost souls." He defended the film on social media,
   noting its audience score…
-displayOrder: 4
+displayOrder: 7
 heroImage: ''
 importance: 55.8
 pubDate: '2026-10-31T22:41:34Z'

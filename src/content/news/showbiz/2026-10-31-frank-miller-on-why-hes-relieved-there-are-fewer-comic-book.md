@@ -5,7 +5,7 @@ countryCode: IT
 description: Comic book writer and screenwriter Frank Miller expressed relief over
   the decrease in comic book adaptations, stating they were "really in danger of losing
   their souls." He made…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-10-31T22:34:25Z'

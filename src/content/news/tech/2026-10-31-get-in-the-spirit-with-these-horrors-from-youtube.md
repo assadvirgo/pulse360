@@ -3,7 +3,7 @@ category: Tech
 description: The Verge has compiled a selection of creepy and disturbing videos from
   YouTube for the spooky season. The collection includes various genres, catering
   to different tastes in…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 66.2
 pubDate: '2026-10-31T21:06:58Z'
