@@ -5,7 +5,7 @@ countryCode: ID
 description: Cristian Mungiu’s Palme d’Or winner “Fjord” opened the fifth edition
   of Jakarta World Cinema at CGV Grand Indonesia. The film is Romania’s submission
   for the international feature…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-01T23:29:18Z'

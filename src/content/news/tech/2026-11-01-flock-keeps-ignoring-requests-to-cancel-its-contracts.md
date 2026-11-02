@@ -5,7 +5,7 @@ countryCode: US
 description: Flock Safety is facing challenges as cities attempt to cancel their contracts.
   Plymouth, Minnesota's city council voted to terminate its contract with Flock in
   September, but the…
-displayOrder: 8
+displayOrder: 10
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-01T19:58:02Z'

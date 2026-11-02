@@ -5,7 +5,7 @@ countryCode: US
 description: Dave Bautista has gained 20 pounds of muscle as he prepares to play Kratos
   in the upcoming "God of War" series. The actor previously shared updates on his
   physical transformation…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-02T01:05:45Z'

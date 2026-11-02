@@ -5,7 +5,7 @@ countryCode: JP
 description: Afghan director Shahrbanoo Sadat addressed issues of discrimination in
   film funding during a talk at the Tokyo International Film Festival. She highlighted
   that a lack of funding…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-02T01:35:45Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Marty Erlichman, the entertainment manager known for discovering and
   managing Barbra Streisand for over sixty years, has died at the age of 97 due to
   age-related causes. His…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-02T00:06:37Z'
