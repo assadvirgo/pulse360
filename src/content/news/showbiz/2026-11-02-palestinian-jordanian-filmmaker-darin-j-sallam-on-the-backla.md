@@ -5,7 +5,7 @@ countryCode: JO
 description: Palestinian-Jordanian filmmaker Darin J. Sallam expressed that she has
   no regrets about her debut feature film "Farha." The film, which tells the story
   of a Palestinian girl…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-02T10:48:33Z'

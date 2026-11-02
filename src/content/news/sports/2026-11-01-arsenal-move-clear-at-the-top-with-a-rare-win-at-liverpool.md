@@ -5,7 +5,7 @@ countryCode: GB
 description: Arsenal secured a victory at Anfield against Liverpool, marking their
   first win there since 2012. This win allows Arsenal to gain a three-point lead at
   the top of the Premier…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 30.2
 pubDate: '2026-11-01T20:00:18Z'

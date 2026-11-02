@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: A private Learjet crashed in Greenacres, Florida, resulting in the deaths
   of nine people. The jet was traveling from Austin, Texas, to the Bahamas.
-displayOrder: 8
+displayOrder: 15
 heroImage: ''
 importance: 53.5
 pubDate: '2026-11-01T23:29:48Z'

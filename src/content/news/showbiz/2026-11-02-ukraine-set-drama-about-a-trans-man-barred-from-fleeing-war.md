@@ -5,7 +5,7 @@ countryCode: JP
 description: German director and screenwriter Isabelle Stever's film "I Rarely Wake
   Up Dreaming" has won the Tokyo International Film Festival's Ethical Film Award.
   The award, established in…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-02T11:14:08Z'

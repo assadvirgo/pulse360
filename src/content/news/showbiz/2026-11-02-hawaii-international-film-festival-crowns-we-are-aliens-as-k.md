@@ -5,7 +5,7 @@ countryCode: US
 description: The 46th Hawai’i International Film Festival awarded the Kau Ka Hōkū
   (Shooting Star) Award to the animated feature "We Are Aliens," directed by Kadowaki
   Kōhei. The awards were…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-02T09:45:50Z'

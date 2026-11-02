@@ -5,7 +5,7 @@ countryCode: GB
 description: Russell Brand's defense argued that a 2023 Channel 4 documentary about
   him "poisoned the well of justice deliberately" and "fundamentally corrupted" his
   accusers. This claim was…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-02T11:43:44Z'
