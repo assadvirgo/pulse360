@@ -5,7 +5,7 @@ countryCode: US
 description: Apple may be adding security camera features to its HomeView smart home
   hub, according to a discovery by a Reddit user. The hints were found in the HomeView
   27.2 code, suggesting…
-displayOrder: 9
+displayOrder: 10
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-01T17:16:07Z'

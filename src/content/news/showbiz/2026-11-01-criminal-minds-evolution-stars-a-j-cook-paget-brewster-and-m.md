@@ -5,7 +5,7 @@ countryCode: US
 description: '"Criminal Minds: Evolution" has been canceled at Paramount+. The announcement
   comes as the show approaches its 20th and final season, prompting reactions from
   the cast.'
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-01T20:37:34Z'

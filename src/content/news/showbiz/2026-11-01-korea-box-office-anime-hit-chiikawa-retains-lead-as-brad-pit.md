@@ -5,7 +5,7 @@ countryCode: KR
 description: 'Japanese animated film "Chiikawa the Movie: The Secret of the Mermaid
   Island" maintained its position at the top of the South Korean box office for the
   weekend of October 30 to…'
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-01T22:38:58Z'

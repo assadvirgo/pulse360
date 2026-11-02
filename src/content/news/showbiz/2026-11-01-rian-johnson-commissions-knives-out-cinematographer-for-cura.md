@@ -5,7 +5,7 @@ countryCode: US
 description: Rian Johnson has partnered with cinematographer Steve Yedlin to create
   a new iPhone app called Chromagraph Camera. The app aims to replicate the aesthetic
   they have developed over…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-01T22:50:29Z'

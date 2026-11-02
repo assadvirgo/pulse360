@@ -5,7 +5,7 @@ countryCode: US
 description: NASA is exploring options to extend the operational life of the Hubble
   Space Telescope, which is facing an eventual decline in its orbit. The agency is
   accepting proposals from…
-displayOrder: 8
+displayOrder: 9
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-01T21:09:21Z'

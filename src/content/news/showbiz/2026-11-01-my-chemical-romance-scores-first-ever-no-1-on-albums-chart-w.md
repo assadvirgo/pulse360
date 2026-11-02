@@ -5,7 +5,7 @@ countryCode: US
 description: My Chemical Romance has achieved its first-ever No. 1 on the Billboard
   200 chart with "The Black Parade," which has risen from No. 139 to the top position.
   This milestone comes 20…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-01T20:53:51Z'

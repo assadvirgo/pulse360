@@ -5,7 +5,7 @@ countryCode: US
 description: Oscar-nominated filmmaker Ava DuVernay expressed concerns about the upcoming
   midterm elections in the U.S., stating that the situation does not look promising
   regardless of the…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-01T19:22:14Z'
