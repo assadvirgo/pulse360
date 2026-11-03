@@ -5,7 +5,7 @@ countryCode: US
 description: Adobe is collaborating with Universal Music Group and Warner Music Group
   to enhance its Premiere mobile video editing app with a library of licensed music
   clips. The partnership…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-03T14:00:00Z'

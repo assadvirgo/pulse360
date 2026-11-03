@@ -3,7 +3,7 @@ category: Showbiz
 description: Olga Kurylenko and Alex Pettyfer will star in the crime thriller "Breakwater,"
   which has been acquired for world sales by WestEnd Films. The film is directed by
   Luc Walpoth and is…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-03T15:00:00Z'

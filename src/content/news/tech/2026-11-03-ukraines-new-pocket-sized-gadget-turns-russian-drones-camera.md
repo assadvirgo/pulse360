@@ -5,7 +5,7 @@ countryCode: UA
 description: A Kyiv startup has developed a pocket-sized receiver that allows Ukrainian
   troops to access the video feeds of Russian drones. The device weighs 10 ounces,
   but advancements in…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-03T01:12:55Z'

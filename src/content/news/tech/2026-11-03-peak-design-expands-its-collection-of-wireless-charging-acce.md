@@ -5,7 +5,7 @@ countryCode: US
 description: Peak Design has announced an expansion of its collection of wireless
   charging accessories. The new devices will focus on combining premium materials
   with innovative functionality.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-03T14:00:00Z'

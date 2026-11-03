@@ -5,7 +5,7 @@ countryCode: US
 description: Jon Stewart criticized Michigan congresswoman Haley Stevens for her endorsement
   of Republican Mike Rogers over Democrat Abdul El-Sayed just before Election Day.
   During an episode…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-11-03T04:43:37Z'

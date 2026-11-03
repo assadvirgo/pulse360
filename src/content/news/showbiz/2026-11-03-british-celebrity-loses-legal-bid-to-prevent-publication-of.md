@@ -5,7 +5,7 @@ countryCode: GB
 description: A well-known British celebrity has lost a legal bid to prevent the publication
   of sexual misconduct allegations against him. The High Court denied his request
   for an injunction,…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 59.8
 pubDate: '2026-11-03T15:06:43Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Apple will implement new age rating requirements for dating apps and
   romanceable chatbots, restricting access to users over 18. Developers will need
   to provide additional details…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-03T13:22:38Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: NASA's Swift Observatory, launched nearly 22 years ago, is expected to
   re-enter Earth's atmosphere on Wednesday. Attempts to push the aging space telescope
   into a higher orbit…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-03T14:17:55Z'

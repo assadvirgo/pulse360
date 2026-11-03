@@ -5,7 +5,7 @@ countryCode: US
 description: Former President Trump has requested the U.S. Supreme Court to block
   20,000 mail-in ballots in California before the midterm elections. The request is
   based on claims that these…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 47.5
 pubDate: '2026-11-02T19:06:52Z'

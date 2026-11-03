@@ -5,7 +5,7 @@ countryCode: US
 description: The second season of the animated series "Blue Eye Samurai" will premiere
   on Netflix on January 19, 2027. This release comes more than three years after the
   first season aired in…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-11-03T15:29:25Z'
