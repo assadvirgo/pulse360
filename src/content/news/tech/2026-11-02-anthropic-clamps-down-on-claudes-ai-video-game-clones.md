@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic has updated Claude Code's system prompt to prevent the AI tool
   from recreating existing video games. This decision comes amid concerns over AI-made
   decompilations,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-02T18:56:02Z'

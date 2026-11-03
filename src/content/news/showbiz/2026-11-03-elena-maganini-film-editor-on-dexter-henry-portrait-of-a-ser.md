@@ -5,7 +5,7 @@ countryCode: US
 description: Elena Maganini, a film and television editor known for her work on "Dexter"
   and "Henry, Portrait of a Serial Killer," has died at the age of 70. She passed
   away on October 21 in…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-03T02:19:34Z'

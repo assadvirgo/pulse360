@@ -5,7 +5,7 @@ countryCode: DE
 description: BMW plans to expand its navigation-guided, partially automated driving
   capabilities into urban environments starting in 2027. The new system will first
   launch in Germany, with…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-02T20:03:52Z'

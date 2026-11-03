@@ -5,7 +5,7 @@ countryCode: US
 description: Y Combinator's Garry Tan has revealed that he spends up to $200,000 a
   year on tokens for AI agents. He humorously described his enthusiasm for working
   with these agents as leading…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-03T00:35:52Z'

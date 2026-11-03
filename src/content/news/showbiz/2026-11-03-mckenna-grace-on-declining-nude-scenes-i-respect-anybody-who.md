@@ -5,7 +5,7 @@ countryCode: US
 description: Mckenna Grace has discussed her decision to decline nude scenes in film,
   citing a powerful reason for her choice. In a recent interview, she expressed her
   respect for those who…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-03T03:24:16Z'

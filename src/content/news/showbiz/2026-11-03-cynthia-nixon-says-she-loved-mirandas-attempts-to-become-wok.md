@@ -5,7 +5,7 @@ countryCode: US
 description: Cynthia Nixon expressed her support for her character Miranda Hobbes'
   storyline in the reboot "And Just Like That," despite mixed reactions from fans.
   In an interview, she…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-03T02:15:00Z'

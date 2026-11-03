@@ -5,7 +5,7 @@ countryCode: IN
 description: A new screenwriting lab in India aims to shift the focus of the country's
   horror films away from traditional ghost stories and horror-comedy hybrids. The
   initiative, led by…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-03T01:48:11Z'

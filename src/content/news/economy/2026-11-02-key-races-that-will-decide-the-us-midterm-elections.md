@@ -5,7 +5,7 @@ countryCode: US
 description: The upcoming midterm elections in the United States are generating significant
   attention, particularly regarding the potential for a Democratic 'blue wave' to
   shift control of…
-displayOrder: 9
+displayOrder: 14
 heroImage: ''
 importance: 49.5
 pubDate: '2026-11-02T20:12:26Z'

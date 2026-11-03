@@ -5,7 +5,7 @@ countryCode: US
 description: Anti-oligarchy activists known as the Capytistas plan to dox Elon Musk
   and homes linked to hundreds of billionaires. The group claims to have over $1.2
   million in backing and has…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-02T17:00:00Z'
