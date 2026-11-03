@@ -5,7 +5,7 @@ countryCode: CL
 description: The Sanfic Mórbido Lab has announced its lineup for the 7th edition,
   featuring a variety of genre films. The event is part of Sanfic Industria and will
   take place in Santiago de…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-02T19:37:21Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI announced its "Grid Protectors Program," which will be piloted
   at a data center in Effingham County, Georgia. The program aims to provide up to
   1,000 megawatts of power…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-02T18:01:30Z'

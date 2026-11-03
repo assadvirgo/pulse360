@@ -5,7 +5,7 @@ countryCode: US
 description: John King will be using a new layer of digital features at CNN's "Magic
   Wall" during Election Night coverage. He is currently in Maine and is preparing
   for important calls that…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-02T19:40:00Z'

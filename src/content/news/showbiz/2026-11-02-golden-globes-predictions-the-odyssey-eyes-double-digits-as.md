@@ -3,7 +3,7 @@ category: Showbiz
 description: The Variety Awards Circuit section has released predictions for the upcoming
   Golden Globes, highlighting that "The Odyssey" is expected to perform well. The
   predictions are…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-11-02T21:15:00Z'

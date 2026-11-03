@@ -5,7 +5,7 @@ countryCode: FR
 description: 'Filmmaker Antonin Baudry discusses the portrayal of Charles de Gaulle
   in his new two-part historical epic, "De Gaulle: Resistance and Liberty." Baudry
   emphasizes that the…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-02T20:51:37Z'

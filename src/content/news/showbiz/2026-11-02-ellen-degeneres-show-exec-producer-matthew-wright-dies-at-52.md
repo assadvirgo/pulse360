@@ -5,7 +5,7 @@ countryCode: US
 description: Ellen DeGeneres is mourning the loss of Matthew Wright, an executive
   producer on The Ellen DeGeneres Show for 16 years. Wright died while working remotely
   in Los Angeles,…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-02T20:24:58Z'

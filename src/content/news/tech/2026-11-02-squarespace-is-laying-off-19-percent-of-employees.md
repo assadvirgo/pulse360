@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Squarespace is laying off 19 percent of its employees as part of a restructuring
   effort. The job cuts will impact approximately 300 of the company's 1,800 employees.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-02T16:50:47Z'

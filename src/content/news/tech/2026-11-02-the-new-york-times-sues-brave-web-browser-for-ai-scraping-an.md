@@ -5,7 +5,7 @@ countryCode: US
 description: The New York Times has filed a lawsuit against the company behind the
   Brave web browser, alleging unlawful scraping of content to train AI and enabling
   users to bypass paywalls.…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-02T17:51:19Z'
