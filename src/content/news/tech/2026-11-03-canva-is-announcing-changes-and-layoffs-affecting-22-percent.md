@@ -5,7 +5,7 @@ countryCode: AU
 description: Canva is implementing significant changes that will affect 22 percent
   of its workforce, resulting in layoffs of 1,271 employees. Co-founder and CEO Melanie
   Perkins announced these…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-03T22:59:36Z'

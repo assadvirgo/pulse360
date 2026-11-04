@@ -5,7 +5,7 @@ countryCode: IT
 description: Italian director Tinto Brass, known for his erotic films including "Caligula"
   and "Salon Kitty," has died at the age of 93. His family announced his death to
   the Italian press…
-displayOrder: 2
+displayOrder: 6
 heroImage: ''
 importance: 68.8
 pubDate: '2026-11-04T14:40:32Z'

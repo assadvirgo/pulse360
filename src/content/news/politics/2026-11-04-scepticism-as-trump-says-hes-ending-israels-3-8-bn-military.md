@@ -5,7 +5,7 @@ countryCode: US
 description: US President Donald Trump announced plans to stop the annual military
   aid package to Israel, which amounts to $3.8 billion, by the end of the year. This
   announcement has raised…
-displayOrder: 10
+displayOrder: 13
 heroImage: ''
 importance: 61.5
 pubDate: '2026-11-04T01:13:49Z'

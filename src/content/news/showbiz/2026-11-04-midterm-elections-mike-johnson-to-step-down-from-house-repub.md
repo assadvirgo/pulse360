@@ -5,7 +5,7 @@ countryCode: US
 description: House Speaker Mike Johnson will step down from his position as Republican
   leader as Democrats are set to take control of the House in January. Hakeem Jeffries
   is expected to…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-04T15:37:14Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Democrats achieved significant victories in the midterm elections, with
   ongoing vote counting suggesting a potential 75-seat majority in the House and at
   least 54 seats in the…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-11-04T14:50:01Z'

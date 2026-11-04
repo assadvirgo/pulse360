@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI CEO Sam Altman defended his views on PC RAM purchases during election
   night. He expressed his desire for people to have ample memory in their computers.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-04T14:46:01Z'

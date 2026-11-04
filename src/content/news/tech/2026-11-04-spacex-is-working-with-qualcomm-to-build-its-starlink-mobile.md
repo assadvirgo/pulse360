@@ -5,7 +5,7 @@ countryCode: US
 description: SpaceX is collaborating with Qualcomm to develop a nationwide mobile
   network. The partnership involves deploying Qualcomm's Dragonwing technology at
   numerous 5G cell sites across…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-04T14:38:20Z'
