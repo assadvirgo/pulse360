@@ -5,7 +5,7 @@ countryCode: US
 description: Apple is rumored to be planning a price increase for the base iPhone
   18, along with upgrades including a larger battery. This follows a previous price
   hike for iPhones earlier…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-03T20:16:54Z'

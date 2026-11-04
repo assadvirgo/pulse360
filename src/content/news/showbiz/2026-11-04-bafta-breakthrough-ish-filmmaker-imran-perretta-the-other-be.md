@@ -5,7 +5,7 @@ countryCode: GB
 description: The British Academy of Film and Television Arts (BAFTA) has announced
   its 2026 Breakthrough U.K. cohort, which includes 21 emerging creatives from film,
   television, and games.…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 73.0
 pubDate: '2026-11-04T00:01:00Z'

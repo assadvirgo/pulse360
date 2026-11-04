@@ -5,7 +5,7 @@ countryCode: KR
 description: '"Tristes Tropiques," directed by Park Hoon-jung, has been sold to multiple
   territories, including North America, France, and Spain. The film is set for a theatrical
   release in…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-04T01:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Democrats are projected to capture a majority of seats in the House of
   Representatives in the 2026 midterm elections. Control of the Senate remains uncertain,
   but Democratic…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-11-04T03:23:22Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: England secured a place in the semi-finals of the Wheelchair Rugby League
   World Cup with a significant victory over the USA. The match ended with England
   scoring 23 tries,…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 53.2
 pubDate: '2026-11-03T15:05:14Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Paramount's acquisition of Warner Bros Discovery into Skydance is leading
   to changes in its drama slate, with series moving to HBO. The content operations
   of Paramount+ and…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-11-04T01:12:50Z'

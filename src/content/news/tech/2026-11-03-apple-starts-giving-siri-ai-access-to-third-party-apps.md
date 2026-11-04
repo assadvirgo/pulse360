@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has announced that Siri AI will now have the ability to perform
   actions across third-party apps. This feature is part of the iOS 27.3 update that
   is rolling out.
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-03T20:16:17Z'

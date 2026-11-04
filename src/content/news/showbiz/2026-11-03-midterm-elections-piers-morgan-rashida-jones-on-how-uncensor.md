@@ -3,7 +3,7 @@ category: Showbiz
 description: Piers Morgan discussed the potential impact of the ongoing war and the
   decision to attack Iran on the upcoming midterm elections. He suggested that if
   Republicans lose both the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 59.0
 pubDate: '2026-11-03T22:58:43Z'

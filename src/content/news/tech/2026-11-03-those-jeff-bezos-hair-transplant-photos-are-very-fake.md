@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon founder Jeff Bezos and actor Jason Statham are the subjects of
   circulating images that falsely depict them with significantly more hair than usual.
   These images have…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-03T21:01:07Z'
