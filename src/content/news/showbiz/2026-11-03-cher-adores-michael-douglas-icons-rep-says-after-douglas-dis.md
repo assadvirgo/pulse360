@@ -5,7 +5,7 @@ countryCode: US
 description: Cher is responding to Michael Douglas' comments regarding her 1988 Oscar
   win for "Moonstruck." A representative for Cher stated that "Cher adores Michael
   Douglas."
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-03T20:49:07Z'

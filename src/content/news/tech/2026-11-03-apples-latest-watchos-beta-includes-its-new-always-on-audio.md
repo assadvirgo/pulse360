@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has released a new developer beta for watchOS 27.3, which includes
   new Audio Intelligence features for the Apple Watch. These features allow Siri to
   utilize the watch's…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-03T18:31:00Z'

@@ -5,7 +5,7 @@ countryCode: GB
 description: Josh O'Connor has commented on the rumors surrounding his potential candidacy
   for the role of James Bond. He described the speculation as an "incredibly bizarre
   pinch me moment."
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-11-03T15:21:45Z'

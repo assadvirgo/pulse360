@@ -5,7 +5,7 @@ countryCode: US
 description: Impossible Dream Entertainment is collaborating with Wall to Wall to
   develop a new series titled "The Invited." This supernatural mystery thriller is
   inspired by the ghost story…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-03T21:13:13Z'

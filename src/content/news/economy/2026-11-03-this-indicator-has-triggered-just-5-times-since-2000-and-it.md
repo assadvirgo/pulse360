@@ -3,7 +3,7 @@ category: Economy
 description: The current market setup is considered vulnerable due to rising inflation,
   which limits central banks' ability to ease rates and reflate asset prices, according
   to MarketWatch. A…
-displayOrder: 13
+displayOrder: 15
 heroImage: ''
 importance: 49.5
 pubDate: '2026-11-03T14:06:00Z'

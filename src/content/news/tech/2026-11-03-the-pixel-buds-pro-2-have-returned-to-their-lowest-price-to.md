@@ -5,7 +5,7 @@ countryCode: US
 description: The Google Pixel Buds Pro 2 are currently available at a price of $169,
   matching their lowest price to date. This deal is offered at Amazon, Best Buy, and
   the Google Store, and is…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-03T20:29:26Z'
