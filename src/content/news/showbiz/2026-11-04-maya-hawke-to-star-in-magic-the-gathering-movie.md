@@ -5,7 +5,7 @@ countryCode: US
 description: 'Maya Hawke will star in a movie adaptation of "Magic: The Gathering,"
   based on the popular trading card game. Details about her role and the plot remain
   undisclosed.'
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 65.8
 pubDate: '2026-11-04T20:47:21Z'

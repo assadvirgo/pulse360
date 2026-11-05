@@ -5,7 +5,7 @@ countryCode: US
 description: '"Godzilla Minus Zero" is projected to lead the box office with an estimated
   $30 million opening weekend. The film will debut in 3,254 North American theaters,
   surpassing other new…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-04T21:12:24Z'

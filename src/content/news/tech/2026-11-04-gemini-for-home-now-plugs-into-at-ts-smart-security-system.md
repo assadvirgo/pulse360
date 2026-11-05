@@ -5,7 +5,7 @@ countryCode: US
 description: AT&T's smart home security system has integrated with Gemini for Home.
   This integration allows users to access various Gemini-powered features, including
   summarizing home events…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-04T20:23:24Z'

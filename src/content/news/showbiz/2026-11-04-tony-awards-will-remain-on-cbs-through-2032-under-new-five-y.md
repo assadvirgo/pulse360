@@ -5,7 +5,7 @@ countryCode: US
 description: The Tony Awards will continue to be broadcast on CBS through 2032 under
   a new five-year deal. This agreement was announced on Wednesday and involves the
   American Theatre Wing and…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 66.8
 pubDate: '2026-11-04T20:26:59Z'

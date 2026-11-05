@@ -5,7 +5,7 @@ countryCode: US
 description: Google is offering discounts on its Pixel 11 phones, with savings of
   up to 27 percent available until November 8th. This includes the standard Pixel
   11 and the more expensive…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-04T19:00:00Z'

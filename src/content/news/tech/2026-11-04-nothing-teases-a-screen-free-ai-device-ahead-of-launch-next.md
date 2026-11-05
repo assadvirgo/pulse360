@@ -5,7 +5,7 @@ countryCode: US
 description: Nothing is set to launch its first AI device in December, according to
   CEO Carl Pei. This announcement comes a little over a year after Pei revealed plans
   for "AI-native" devices…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-04T18:26:07Z'

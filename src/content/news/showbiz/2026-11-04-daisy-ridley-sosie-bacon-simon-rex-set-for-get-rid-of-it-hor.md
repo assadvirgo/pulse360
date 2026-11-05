@@ -5,7 +5,7 @@ countryCode: US
 description: Daisy Ridley, Sosie Bacon, and Simon Rex have been cast in the horror
   film "Get Rid of It," directed by Ry Russo-Young. The screenplay is written by Gemma
   Holdway, and the film is…
-displayOrder: 3
+displayOrder: 6
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-04T21:18:28Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Lance Hammer's "Queen at Sea" and Jordan Firstman's "Club Kid" received
   top honors at the Philadelphia Film Festival. The festival, now in its 35th edition,
   achieved the highest…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-04T21:03:28Z'
