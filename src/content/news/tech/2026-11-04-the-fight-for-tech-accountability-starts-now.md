@@ -5,7 +5,7 @@ countryCode: US
 description: When Donald Trump began his second term as president, Silicon Valley
   embraced moral nihilism, according to The Verge. Major tech companies, including
   Google, Amazon, and…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 69.2
 pubDate: '2026-11-04T15:02:25Z'

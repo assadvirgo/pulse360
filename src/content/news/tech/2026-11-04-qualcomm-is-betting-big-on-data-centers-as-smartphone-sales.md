@@ -5,7 +5,7 @@ countryCode: US
 description: Qualcomm is shifting its focus to data centers as smartphone sales decline
   significantly. The company announced its plans to enter the AI data center market
   during its Q4 2026…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-04T22:42:15Z'

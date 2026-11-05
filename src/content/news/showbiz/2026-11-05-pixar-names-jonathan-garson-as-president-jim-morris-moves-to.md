@@ -5,7 +5,7 @@ countryCode: US
 description: Pixar Animation Studios is undergoing a leadership change, with Jonathan
   Garson named as the new president. Jim Morris, who has served as president for 12
   years, will transition…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-05T00:45:00Z'

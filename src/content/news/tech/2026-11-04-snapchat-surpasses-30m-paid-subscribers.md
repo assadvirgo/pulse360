@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Snapchat has surpassed 30 million paid subscribers. This milestone follows
   a year after the platform announced a limit on free storage for its Memories feature.
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-04T21:49:29Z'

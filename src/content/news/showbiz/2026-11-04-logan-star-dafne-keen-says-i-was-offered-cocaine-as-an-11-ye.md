@@ -5,7 +5,7 @@ countryCode: US
 description: Dafne Keen, known for her role in "Logan," shared her experiences of
   being offered cocaine at Hollywood parties when she was 11 years old. She also spoke
   about Hugh Jackman's…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-04T23:10:58Z'

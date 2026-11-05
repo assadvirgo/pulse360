@@ -3,7 +3,7 @@ category: Sports
 description: West Indies coach Daren Sammy has expressed confidence in the team's
   progress and ambitions as they approach their last match of the 2025-27 World Test
   Championship cycle. He…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-11-04T13:07:23Z'

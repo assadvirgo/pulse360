@@ -5,7 +5,7 @@ countryCode: US
 description: Bose's first-generation QuietComfort Headphones are currently on sale
   for $169.99, which is a discount of $190. This price matches the headphones' best
   price to date and is…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-11-04T21:13:11Z'

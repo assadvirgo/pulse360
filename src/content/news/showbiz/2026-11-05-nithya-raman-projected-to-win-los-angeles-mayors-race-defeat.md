@@ -5,7 +5,7 @@ countryCode: US
 description: Nithya Raman is projected to win the Los Angeles mayoral race, defeating
   Karen Bass. Raman, a city councilmember, ran a progressive campaign against the
   city's Democratic Party…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-05T02:09:27Z'
