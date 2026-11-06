@@ -5,7 +5,7 @@ countryCode: US
 description: Fox Entertainment Studios has signed a first-look development and producing
   deal with Cottage Industry Entertainment, founded by Lisa Hamilton Daly and Alysia
   Cotter Thomas. The…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-05T21:00:00Z'

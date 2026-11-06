@@ -5,7 +5,7 @@ countryCode: JP
 description: Nintendo president Shuntaro Furukawa stated that the company is not planning
   any further price increases for the Switch 2. This announcement came during the
   latest earnings call,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-05T17:24:39Z'

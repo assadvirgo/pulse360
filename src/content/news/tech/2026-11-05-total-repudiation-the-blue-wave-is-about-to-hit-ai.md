@@ -5,7 +5,7 @@ countryCode: US
 description: On Tuesday night, Democrats gained control of both the House and the
   Senate, marking a significant political shift. This event is described as a "blue
   wave" that impacted…
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-05T17:51:52Z'

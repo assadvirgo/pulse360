@@ -5,7 +5,7 @@ countryCode: US
 description: The Democratic National Committee (DNC) Vice Chair discussed the potential
   benefits of recent electoral victories for attracting donors. The DNC's earlier
   challenges included…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 70.0
 pubDate: '2026-11-05T20:55:49Z'

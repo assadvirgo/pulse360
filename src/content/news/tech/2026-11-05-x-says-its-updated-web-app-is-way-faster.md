@@ -3,7 +3,7 @@ category: Tech
 description: X has announced an updated version of its web app, claiming it is significantly
   faster than the previous version. The rollout of the updated app is occurring "one
   country at a…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-05T00:25:12Z'

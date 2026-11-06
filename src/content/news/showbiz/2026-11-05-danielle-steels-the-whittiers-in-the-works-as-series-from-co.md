@@ -5,7 +5,7 @@ countryCode: US
 description: Cottage Industry Entertainment, founded by former Hallmark Media executive
   Lisa Hamilton Daly and Warner Bros. and Legendary executive Alysia Cotter Thomas,
   has announced a series…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-05T21:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix has hired Roberto Stanichi as its vice president of consumer
   products and experiences. Stanichi, who has nearly 20 years of experience at Mattel,
   will oversee Netflix's…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-11-05T21:05:04Z'

@@ -2,7 +2,7 @@
 category: Tech
 description: TikTok has launched a standalone app for TikTok Shop in several countries.
   The app provides features aimed at enhancing the shopping experience for users.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-05T15:33:58Z'
