@@ -5,7 +5,7 @@ countryCode: US
 description: 'Netflix has announced a live-action spinoff of Stranger Things titled
   Other Worlds: A Stranger Things Adventure, which is expected to debut in 2028. This
   series will explore…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-11-06T14:25:48Z'

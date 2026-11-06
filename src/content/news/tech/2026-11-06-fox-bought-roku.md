@@ -5,7 +5,7 @@ countryCode: US
 description: Fox has officially closed its acquisition of Roku for $22 billion. The
   companies announced the completion of the deal, which allows Fox to control a major
   streaming platform that…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-06T15:00:56Z'

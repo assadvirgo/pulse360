@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI announced that it will no longer use non-disclosure agreements
   (NDAs) with public officials for its data center projects. This decision follows
   recent midterm elections…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-06T00:37:56Z'

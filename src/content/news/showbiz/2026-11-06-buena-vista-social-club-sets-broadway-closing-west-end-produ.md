@@ -5,7 +5,7 @@ countryCode: US
 description: Buena Vista Social Club, the Tony-winning musical, will close on Broadway
   on January 17, 2027, after a run of 96 weeks and 767 performances. Producers announced
   the closing date,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-06T14:00:00Z'

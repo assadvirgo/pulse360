@@ -5,7 +5,7 @@ countryCode: US
 description: CNBC is increasing its investment in Jim Cramer, who leads the network's
   "Mad Money" and co-anchors "Squawk on the Street." Cramer will expand his investing
   club by launching a…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-06T14:30:00Z'

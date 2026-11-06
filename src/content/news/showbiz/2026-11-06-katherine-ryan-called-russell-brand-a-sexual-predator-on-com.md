@@ -5,7 +5,7 @@ countryCode: GB
 description: Katherine Ryan has expressed feelings of "grief and relief" following
   Russell Brand's conviction for rape and sexual assault. Ryan previously confronted
   Brand about his alleged…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-11-06T15:16:31Z'
