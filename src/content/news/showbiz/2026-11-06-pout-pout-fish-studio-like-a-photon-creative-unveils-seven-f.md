@@ -5,7 +5,7 @@ countryCode: AU
 description: Like a Photon Creative, an Australian animation studio known for "The
   Pout-Pout Fish," has announced a slate of seven new animated features. The studio
   has granted international…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-06T03:10:59Z'

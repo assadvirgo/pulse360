@@ -5,7 +5,7 @@ countryCode: US
 description: Pamela Abdy made her first industry appearance following her departure
   from Warner Bros. at the Women in Film Honors at the Beverly Hilton. She was announced
   as the inaugural…
-displayOrder: 2
+displayOrder: 12
 heroImage: ''
 importance: 61.8
 pubDate: '2026-11-06T04:29:54Z'

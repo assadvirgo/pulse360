@@ -5,7 +5,7 @@ countryCode: US
 description: Perplexity has launched its own work-focused AI agents called "Teammates,"
   aiming to compete with OpenAI and Anthropic. These agents are designed to perform
   multiple roles within…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-05T22:26:50Z'

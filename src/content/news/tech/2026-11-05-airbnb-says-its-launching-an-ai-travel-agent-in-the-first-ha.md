@@ -5,7 +5,7 @@ countryCode: US
 description: Airbnb announced plans to launch an AI travel agent in the first half
   of 2027. The AI agent is designed to assist travelers with trip planning, comparing
   options, managing…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-11-05T22:40:55Z'

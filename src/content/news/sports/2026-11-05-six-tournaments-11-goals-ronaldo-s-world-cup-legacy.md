@@ -5,7 +5,7 @@ countryCode: PT
 description: Cristiano Ronaldo has retired from international football after a distinguished
   career with Portugal, during which he scored 146 goals in 234 appearances. His legacy
   includes 11…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-05T13:15:21Z'

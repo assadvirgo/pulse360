@@ -5,7 +5,7 @@ countryCode: US
 description: Salon has announced that it is ceasing publication after 31 years of
   operation. The company cited changes in the business realities of independent digital
   journalism as a key…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-05T22:08:14Z'
