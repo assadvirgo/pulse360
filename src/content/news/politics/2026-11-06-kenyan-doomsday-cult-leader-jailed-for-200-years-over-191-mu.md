@@ -5,7 +5,7 @@ countryCode: KE
 description: Paul Mackenzie, the leader of a doomsday cult, has been sentenced to
   200 years in prison for the murder of 191 individuals, including 190 children and
   one adult. The murders took…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.0
 pubDate: '2026-11-06T12:50:00Z'

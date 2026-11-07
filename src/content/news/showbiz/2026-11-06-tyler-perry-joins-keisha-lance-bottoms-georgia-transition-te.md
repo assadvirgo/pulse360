@@ -5,7 +5,7 @@ countryCode: US
 description: Keisha Lance Bottoms won the 2026 Georgia gubernatorial election, becoming
   the first Black woman to be elected governor of any U.S. state and Georgia's first
   Black governor. Tyler…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 77.8
 pubDate: '2026-11-06T20:13:53Z'

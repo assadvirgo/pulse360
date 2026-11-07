@@ -3,7 +3,7 @@ category: Tech
 description: Massive new data centers are being developed to support the growing demands
   of AI technology. However, this rapid expansion has led to conflicts regarding their
   effects on power…
-displayOrder: 8
+displayOrder: 9
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-06T20:02:22Z'

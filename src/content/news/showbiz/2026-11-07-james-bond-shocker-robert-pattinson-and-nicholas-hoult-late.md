@@ -5,7 +5,7 @@ countryCode: GB
 description: As casting rumors for the next James Bond intensify, actors Robert Pattinson
   and Nicholas Hoult have reportedly participated in screen tests for the role. They
   join a list of…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 72.8
 pubDate: '2026-11-07T03:07:18Z'
