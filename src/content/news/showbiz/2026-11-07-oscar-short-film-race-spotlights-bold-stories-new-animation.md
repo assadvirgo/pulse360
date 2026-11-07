@@ -5,7 +5,7 @@ countryCode: US
 description: The Oscar short film categories are highlighting compelling stories told
   in a shorter format. This year's race features emerging filmmakers and established
   talents who are…
-displayOrder: 1
+displayOrder: 5
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-07T18:30:00Z'

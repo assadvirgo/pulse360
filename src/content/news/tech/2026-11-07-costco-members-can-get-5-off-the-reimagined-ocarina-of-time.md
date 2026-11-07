@@ -5,7 +5,7 @@ countryCode: US
 description: 'Costco members can currently receive a $5 discount on the digital version
   of the remastered Legend of Zelda: The Ocarina of Time. This brings the price down
   to $54.99, following…'
-displayOrder: 8
+displayOrder: 12
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-07T16:00:00Z'

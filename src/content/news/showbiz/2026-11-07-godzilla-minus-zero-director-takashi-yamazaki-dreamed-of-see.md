@@ -5,7 +5,7 @@ countryCode: JP
 description: Takashi Yamazaki, the writer, director, and VFX supervisor of "Godzilla
   Minus One," has expressed his long-held dream of seeing his hometown destroyed by
   the monster King…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-07T17:16:00Z'

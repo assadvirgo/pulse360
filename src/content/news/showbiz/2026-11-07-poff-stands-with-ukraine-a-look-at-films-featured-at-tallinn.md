@@ -5,7 +5,7 @@ countryCode: EE
 description: The Tallinn Black Nights Film Festival (PÖFF) continues to show solidarity
   with Ukraine during its 30th edition, which features films made in response to the
   ongoing war. This…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-11-07T11:00:00Z'

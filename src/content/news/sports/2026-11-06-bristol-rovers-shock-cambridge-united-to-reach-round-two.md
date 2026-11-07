@@ -5,7 +5,7 @@ countryCode: GB
 description: Bristol Rovers defeated Cambridge United 2-0 at the Memorial Stadium,
   marking the end of a six-match winless streak for the League Two side. This victory
   allows Bristol Rovers to…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 40.2
 pubDate: '2026-11-06T23:26:39Z'
