@@ -5,7 +5,7 @@ countryCode: US
 description: Buying the 4K Blu-ray disc version of KPop Demon Hunters is now available
   for $24.99 at Barnes and Noble, down from its original price of $49.95. This price
   point is lower than a…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 61.2
 pubDate: '2026-11-06T15:27:09Z'

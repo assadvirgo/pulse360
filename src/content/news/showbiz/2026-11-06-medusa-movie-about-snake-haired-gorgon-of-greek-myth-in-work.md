@@ -5,7 +5,7 @@ countryCode: US
 description: A live-action original movie about Medusa is in development at Disney,
   with Michael Montemayor writing the first draft. The project is being developed
   by Seven Bucks under their…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-06T20:30:00Z'

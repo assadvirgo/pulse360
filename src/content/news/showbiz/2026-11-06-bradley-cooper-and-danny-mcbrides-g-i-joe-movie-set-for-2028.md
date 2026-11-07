@@ -5,7 +5,7 @@ countryCode: US
 description: Danny McBride's "G.I. Joe" movie, featuring Bradley Cooper, is set for
   release in 2028. Paramount announced that the film will have a wide theatrical release
   on October 20, 2028.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-06T21:00:00Z'

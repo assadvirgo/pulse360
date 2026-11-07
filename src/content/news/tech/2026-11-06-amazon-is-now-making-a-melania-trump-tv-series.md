@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'Amazon is developing a two-part series titled "Melania: The Series,"
   which will focus on Melania Trump. The series is set to debut on November 20th.'
-displayOrder: 8
+displayOrder: 12
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-06T17:56:58Z'

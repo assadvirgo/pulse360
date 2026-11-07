@@ -5,7 +5,7 @@ countryCode: TW
 description: Taiwanese actor Chang Chen introduced six rising actors during a showcase
   co-organized by the Golden Horse Awards and the Taiwan Creative Content Fest (TCCF).
   This event, held at…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-06T14:53:37Z'

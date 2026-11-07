@@ -5,7 +5,7 @@ countryCode: FR
 description: A bus crash in eastern France has resulted in the deaths of two individuals,
   a child and a young adult, according to local authorities. Several others were reported
   injured in the…
-displayOrder: 5
+displayOrder: 11
 heroImage: ''
 importance: 72.2
 pubDate: '2026-11-06T15:26:30Z'

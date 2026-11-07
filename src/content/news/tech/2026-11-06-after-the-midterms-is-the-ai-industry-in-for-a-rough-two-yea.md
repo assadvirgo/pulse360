@@ -5,7 +5,7 @@ countryCode: US
 description: Democrats' victories in the recent U.S. midterm elections may lead to
   significant changes in the tech industry, particularly affecting data center development.
   Voters approved 41…
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 68.0
 pubDate: '2026-11-06T17:23:52Z'
