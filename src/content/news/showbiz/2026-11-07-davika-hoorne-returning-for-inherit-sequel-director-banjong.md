@@ -5,7 +5,7 @@ countryCode: TH
 description: Banjong Pisanthanakun, the Thai director, has confirmed that his psychological
   horror film "Inherit" will have a sequel, with star Davika Hoorne returning. The
   original film was a…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-07T08:59:03Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Bill Maher has been in the spotlight for his interactions with Donald
   Trump leading up to the midterm elections. While John Oliver warned against voting
   for the GOP, Maher spent…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 67.8
 pubDate: '2026-11-07T03:20:01Z'

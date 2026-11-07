@@ -5,7 +5,7 @@ countryCode: US
 description: OpenAI has reached a valuation of $1.25 trillion following a new funding
   round that raised $11 billion. This valuation positions OpenAI among the world's
   most valuable companies.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-06T23:46:18Z'

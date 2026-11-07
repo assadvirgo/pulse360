@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic is reportedly using AI to develop more advanced AI systems,
   with significant success. A new report from the AI safety research organization
   METR indicates that the…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 46.2
 pubDate: '2026-11-07T12:30:00Z'

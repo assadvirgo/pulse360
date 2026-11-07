@@ -5,7 +5,7 @@ countryCode: SA
 description: WWE is set to hold its Crown Jewel 2026 event in Saudi Arabia on November
   7. This follows the recent Money in the Bank event where Roman Reigns retained the
   World Heavyweight…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 42.8
 pubDate: '2026-11-07T13:00:00Z'

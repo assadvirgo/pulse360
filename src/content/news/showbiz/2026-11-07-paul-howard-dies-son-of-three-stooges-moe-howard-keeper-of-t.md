@@ -5,7 +5,7 @@ countryCode: US
 description: Paul Howard, the only son of Moe Howard from The Three Stooges, has died
   at the age of 91. His death was confirmed by a spokesperson for C3 Entertainment,
   the owner of The Three…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-11-07T14:34:20Z'
