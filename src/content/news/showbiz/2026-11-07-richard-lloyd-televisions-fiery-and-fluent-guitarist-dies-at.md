@@ -5,7 +5,7 @@ countryCode: US
 description: Richard Lloyd, a guitarist known for his work with the influential band
   Television, has died at the age of 75. He passed away at his home in Chattanooga,
   Tennessee, and the cause…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-07T18:06:47Z'

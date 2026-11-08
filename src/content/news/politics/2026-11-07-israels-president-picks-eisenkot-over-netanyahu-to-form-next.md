@@ -5,7 +5,7 @@ countryCode: IL
 description: Israel's president, Isaac Herzog, has tasked Gadi Eisenkot with forming
   a new government, giving him 28 days to secure the necessary support in the Knesset.
   This decision comes…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 71.5
 pubDate: '2026-11-07T20:26:58Z'

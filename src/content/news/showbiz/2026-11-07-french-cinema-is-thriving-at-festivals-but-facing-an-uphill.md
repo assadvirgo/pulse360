@@ -5,7 +5,7 @@ countryCode: FR
 description: French cinema is experiencing success at film festivals and in awards
   competitions, but it faces challenges in U.S. theaters. Distributors are finding
   it increasingly difficult to…
-displayOrder: 4
+displayOrder: 7
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-07T22:59:05Z'

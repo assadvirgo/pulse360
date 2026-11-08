@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump has offered the position of White House press secretary
   to Dana White, the President and CEO of UFC. It is unclear if Trump was joking or
   serious about the offer.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-07T20:40:01Z'
