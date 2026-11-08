@@ -5,7 +5,7 @@ countryCode: NZ
 description: The New Zealand general election has concluded without a clear winner,
   as the two main parties are nearly tied in the popular vote. Preliminary results
   indicate a divided national…
-displayOrder: 14
+displayOrder: 16
 heroImage: ''
 importance: 64.0
 pubDate: '2026-11-07T13:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: President Donald Trump has offered UFC President and CEO Dana White the
   role of White House press secretary following the ousting of Katie Zacharia in October.
   Trump announced the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 68.8
 pubDate: '2026-11-07T19:52:53Z'

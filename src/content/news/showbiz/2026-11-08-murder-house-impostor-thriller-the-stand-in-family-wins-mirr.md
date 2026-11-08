@@ -5,7 +5,7 @@ countryCode: TW
 description: Taiwanese literary IP developer and production company Mirror Fiction
   announced the winners of its fifth Mirror Fiction Award at the Taiwan Creative Content
   Fest. The Grand Prize…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-08T02:46:37Z'

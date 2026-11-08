@@ -5,7 +5,7 @@ countryCode: ID
 description: Cristian Mungiu's film "Fjord," which won the Palme d'Or, received the
   audience award at the Jakarta World Cinema. The festival concluded with the Thai
   horror film "Inherit" by…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 61.8
 pubDate: '2026-11-08T03:50:26Z'

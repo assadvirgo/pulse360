@@ -5,7 +5,7 @@ countryCode: US
 description: Kevin Lewandowski, the founder of Discogs, has been influential in creating
   a comprehensive online platform for vinyl collectors. Discogs serves as a marketplace
   for buying and…
-displayOrder: 10
+displayOrder: 12
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-07T16:00:00Z'
