@@ -5,7 +5,7 @@ countryCode: ID
 description: Indonesian studio MD Entertainment announced plans for a sequel to its
   2025 horror film "Pabrik Gula," set to be released in early 2028. The company also
   revealed it has three…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-08T08:11:55Z'

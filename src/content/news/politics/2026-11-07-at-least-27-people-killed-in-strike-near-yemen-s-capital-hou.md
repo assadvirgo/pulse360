@@ -5,7 +5,7 @@ countryCode: YE
 description: At least 27 people have been killed and 36 others wounded in airstrikes
   that hit homes in a village near Yemen's capital, Sanaa, according to a spokesman
   for Yemen's Houthi-run…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-11-07T14:19:00Z'

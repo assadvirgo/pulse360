@@ -5,7 +5,7 @@ countryCode: US
 description: Texas Senator-elect James Talarico made a surprise appearance during
   the cold open of "Saturday Night Live," where he addressed the show's frequent use
   of Donald Trump…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-08T04:53:48Z'

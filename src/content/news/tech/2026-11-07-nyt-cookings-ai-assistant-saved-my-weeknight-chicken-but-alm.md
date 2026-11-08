@@ -5,7 +5,7 @@ countryCode: US
 description: A user of NYT Cooking's AI assistant reported mixed results with its
   meal suggestions. The assistant helped with a weeknight chicken dish but nearly
   ruined a cake.
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-07T15:50:00Z'

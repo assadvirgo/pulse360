@@ -5,7 +5,7 @@ countryCode: US
 description: A person attending an outdoor party in Los Angeles experienced exhaustion
   and dizziness despite sitting under a patio umbrella and near a fan. The incident
   occurred during a…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-07T17:00:00Z'

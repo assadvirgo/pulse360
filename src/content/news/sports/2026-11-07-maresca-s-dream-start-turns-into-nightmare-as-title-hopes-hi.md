@@ -5,7 +5,7 @@ countryCode: GB
 description: Enzo Maresca's tenure as Manchester City manager began positively but
   has quickly deteriorated. After a recent match at the City Ground, the atmosphere
   shifted from celebratory to…
-displayOrder: 9
+displayOrder: 11
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-07T20:54:12Z'
