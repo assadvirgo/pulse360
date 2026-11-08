@@ -3,7 +3,7 @@ category: Showbiz
 description: Latin American distributor Cineplex has acquired the North and South
   American sales rights to "La Residencia," directed by Mariel García Spooner. This
   film is a follow-up to her…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 41.8
 pubDate: '2026-11-08T17:12:50Z'

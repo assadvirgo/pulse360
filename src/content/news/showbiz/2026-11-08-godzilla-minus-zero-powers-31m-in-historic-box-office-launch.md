@@ -5,7 +5,7 @@ countryCode: US
 description: The box office debut of "Godzilla Minus Zero" has generated $31 million,
   marking a strong start for the sequel to "Godzilla Minus One." In contrast, "The
   Cat in the Hat"…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 65.8
 pubDate: '2026-11-08T16:56:35Z'

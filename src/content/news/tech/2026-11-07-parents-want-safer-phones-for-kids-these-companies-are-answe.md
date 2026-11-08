@@ -3,7 +3,7 @@ category: Tech
 description: As parents seek safer phone options for their children, various companies
   are developing devices tailored for kids. These alternatives range from feature-limited
   mobile phones to…
-displayOrder: 26
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-07T19:00:00Z'

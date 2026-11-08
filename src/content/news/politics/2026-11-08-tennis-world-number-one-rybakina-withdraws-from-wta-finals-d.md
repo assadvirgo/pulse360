@@ -3,7 +3,7 @@ category: Politics
 description: Elena Rybakina, the world number one in tennis, has withdrawn from the
   WTA Finals due to a viral illness. Marta Kostyuk from Ukraine will replace her as
   the top seed.
-displayOrder: 6
+displayOrder: 13
 heroImage: ''
 importance: 58.5
 pubDate: '2026-11-08T10:03:21Z'

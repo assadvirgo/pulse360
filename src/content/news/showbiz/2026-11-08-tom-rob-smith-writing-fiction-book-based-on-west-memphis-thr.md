@@ -5,7 +5,7 @@ countryCode: GR
 description: British writer Tom Rob Smith is working on a fiction book based on the
   West Memphis Three murder case. He announced this during a Q&A session at the Thessaloniki
   Film Festival,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 43.0
 pubDate: '2026-11-08T14:48:47Z'
