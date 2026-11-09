@@ -3,7 +3,7 @@ category: Showbiz
 description: The Variety Awards Circuit section has released predictions for the upcoming
   Oscars, focusing on the Best Casting category. The predictions highlight "Being
   Heumann" and "La Bola…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-08T22:50:00Z'

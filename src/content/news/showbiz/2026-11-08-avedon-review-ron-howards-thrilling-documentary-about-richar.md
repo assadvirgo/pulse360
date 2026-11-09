@@ -5,7 +5,7 @@ countryCode: US
 description: Ron Howard's documentary "Avedon" focuses on the influential photographer
   Richard Avedon. The film has been praised for its editing and the way it presents
   Avedon's images.
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 72.8
 pubDate: '2026-11-08T21:02:08Z'

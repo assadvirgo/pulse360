@@ -5,7 +5,7 @@ countryCode: US
 description: Alycia Baumgardner is set to face Elif Nur Turhan in a title bout on
   ESPN Unlimited. The event will take place in Texas and features a unification title
   match scheduled for 10…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-08T19:30:00Z'

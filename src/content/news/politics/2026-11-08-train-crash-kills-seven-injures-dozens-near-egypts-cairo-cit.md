@@ -5,7 +5,7 @@ countryCode: EG
 description: A train crash near Cairo has resulted in at least seven fatalities and
   over 100 injuries. The passenger train was traveling from Cairo to Aswan when it
   derailed and overturned.
-displayOrder: 9
+displayOrder: 11
 heroImage: ''
 importance: 64.5
 pubDate: '2026-11-08T16:37:20Z'

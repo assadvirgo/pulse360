@@ -5,7 +5,7 @@ countryCode: US
 description: '"Passing Strange" will be performed at the Pasadena Playhouse, marking
   its arrival in Los Angeles nearly two decades after its successful Broadway run.
   The musical originally…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-08T20:43:24Z'
