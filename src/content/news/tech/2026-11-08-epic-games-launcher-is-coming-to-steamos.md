@@ -5,7 +5,7 @@ countryCode: US
 description: Epic Games has confirmed that the Epic Games Launcher will be compatible
   with SteamOS. This announcement follows an earlier statement from October, where
   Epic Games indicated it…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-08T20:52:05Z'

@@ -5,7 +5,7 @@ countryCode: CN
 description: '"Traces of Justice" has reclaimed the top position at the mainland China
   box office for the weekend of November 6-8, according to Variety. The film, a crime
   procedural drama from…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-09T03:05:03Z'

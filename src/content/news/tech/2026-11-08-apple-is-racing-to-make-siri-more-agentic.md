@@ -5,7 +5,7 @@ countryCode: US
 description: Apple is working to enhance Siri's capabilities to make it more competitive
   with AI agents from OpenAI and Meta. CEO John Ternus is reportedly urging AI chief
   Craig Federighi to…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-08T19:18:19Z'

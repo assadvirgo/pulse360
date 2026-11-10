@@ -5,7 +5,7 @@ countryCode: US
 description: Soul Glo has announced a new record titled NA I'M GON GRAB ALLAT, set
   to be released in January. The announcement comes as fans are revisiting their previous
   album, Diaspora…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 59.2
 pubDate: '2026-11-08T22:37:22Z'

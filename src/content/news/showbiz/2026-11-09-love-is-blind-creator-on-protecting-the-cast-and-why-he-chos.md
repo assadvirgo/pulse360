@@ -5,7 +5,7 @@ countryCode: US
 description: Another season of "Love Is Blind" has concluded, with the Season 11 reunion
   now available for streaming on Netflix. The reunion revealed that one couple, Sarah
   Williams and…
-displayOrder: 1
+displayOrder: 29
 heroImage: ''
 importance: 72.8
 pubDate: '2026-11-09T03:00:00Z'

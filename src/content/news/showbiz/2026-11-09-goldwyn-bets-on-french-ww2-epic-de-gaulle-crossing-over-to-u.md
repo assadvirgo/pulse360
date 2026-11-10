@@ -5,7 +5,7 @@ countryCode: FR
 description: Antonin Baudry's two-part World War II film "De Gaulle" premiered in
   the U.S. at the American French Film Festival in Los Angeles. The film received
   a seven-minute standing…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-09T03:16:45Z'
