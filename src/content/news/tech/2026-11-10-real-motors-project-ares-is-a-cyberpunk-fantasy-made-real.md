@@ -3,7 +3,7 @@ category: Tech
 description: Real Motors has introduced Project Ares, showcasing a new approach to
   motorcycle design enabled by electrification. The removal of traditional components
   like the engine and fuel…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-10T11:00:00Z'

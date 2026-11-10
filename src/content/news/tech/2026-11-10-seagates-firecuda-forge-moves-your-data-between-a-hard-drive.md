@@ -5,7 +5,7 @@ countryCode: US
 description: Seagate has announced a new external storage solution named FireCuda
   Forge. This product combines the speed advantages of a solid-state drive (SSD) with
   the cost-effectiveness of…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-11-10T11:01:00Z'

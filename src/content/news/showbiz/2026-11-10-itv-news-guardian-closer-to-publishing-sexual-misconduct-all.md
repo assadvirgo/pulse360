@@ -5,7 +5,7 @@ countryCode: GB
 description: ITV News and The Guardian are set to publish allegations regarding a
   British celebrity after a legal battle. The individual lost an attempt to secure
   an injunction against the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-11-10T09:39:06Z'

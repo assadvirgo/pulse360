@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC Studios has appointed Sreya Biswas as the Head of its Natural History
   Unit, which produces programs like Planet Earth III and Blue Planet III. She will
   succeed Jonny Keeling,…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-10T11:01:12Z'

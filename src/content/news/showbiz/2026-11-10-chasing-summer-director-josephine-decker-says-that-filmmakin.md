@@ -5,7 +5,7 @@ countryCode: US
 description: Josephine Decker, director of "Chasing Summer," has expressed her feelings
   about the isolation in filmmaking and her desire to foster community among filmmakers.
   She envisions…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-10T09:00:00Z'

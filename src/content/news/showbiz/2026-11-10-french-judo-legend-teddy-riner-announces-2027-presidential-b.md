@@ -5,7 +5,7 @@ countryCode: FR
 description: French judo superstar Teddy Riner has announced his candidacy for the
   French presidency in 2027. Riner, a five-time Olympic gold medalist and multiple
   world champion, made the…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 72.8
 pubDate: '2026-11-10T01:28:28Z'

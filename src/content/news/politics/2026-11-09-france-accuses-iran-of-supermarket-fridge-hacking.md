@@ -5,7 +5,7 @@ countryCode: FR
 description: France has accused Iran of being behind a cyberattack that affected supermarkets,
   resulting in significant spoilage of chilled and frozen food. The French Foreign
   Minister has…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-09T20:20:08Z'
