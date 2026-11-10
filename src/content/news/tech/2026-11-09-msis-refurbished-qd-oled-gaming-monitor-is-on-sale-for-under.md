@@ -5,7 +5,7 @@ countryCode: US
 description: MSI's refurbished Mag 272QP X24 QD-OLED gaming monitor is currently on
   sale for $290.99 at Woot, with a 180-day manufacturer warranty. This price is over
   $100 less than its full…
-displayOrder: 7
+displayOrder: 12
 heroImage: ''
 importance: 54.2
 pubDate: '2026-11-09T21:43:41Z'

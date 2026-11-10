@@ -5,7 +5,7 @@ countryCode: US
 description: Nvidia is conducting an investigation into its CEO, Jensen Huang, following
   reports of an affair with Alice Huang, a Chinese businesswoman. The investigation
   is linked to claims…
-displayOrder: 11
+displayOrder: 14
 heroImage: ''
 importance: 59.2
 pubDate: '2026-11-09T14:50:35Z'

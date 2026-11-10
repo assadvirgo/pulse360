@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic has launched two new models, Claude Fable 5.2 and Claude Mythos
   5.2, aimed at addressing significant technical challenges. The company claims these
   models exhibit…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-11-09T19:00:00Z'

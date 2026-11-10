@@ -5,7 +5,7 @@ countryCode: US
 description: The Vision Theatre Performing Arts Center in South Los Angeles is set
   to reopen after 15 years of renovations and a $40 million investment. The WACO Theater
   Center, founded by…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-10T00:41:39Z'
