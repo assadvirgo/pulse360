@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft has announced the rollout of Automatic Super Resolution (Auto
   SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally
   X, Xbox Ally X20, and…
-displayOrder: 8
+displayOrder: 10
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-11T00:34:24Z'

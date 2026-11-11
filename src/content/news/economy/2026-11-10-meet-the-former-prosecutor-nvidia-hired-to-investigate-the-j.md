@@ -5,7 +5,7 @@ countryCode: US
 description: Nvidia has hired Joon Kim, a former prosecutor, to lead an independent
   investigation into whether CEO Jensen Huang was targeted in a spy operation involving
   China. Kim recently…
-displayOrder: 13
+displayOrder: 29
 heroImage: ''
 importance: 41.5
 pubDate: '2026-11-10T22:05:00Z'

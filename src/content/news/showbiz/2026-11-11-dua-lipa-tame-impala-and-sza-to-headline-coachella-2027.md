@@ -5,7 +5,7 @@ countryCode: US
 description: Dua Lipa, Tame Impala, and SZA are set to headline the Coachella Valley
   Music and Arts Festival in 2027. The announcement follows a social media tease from
   SZA regarding the…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-11T06:26:15Z'

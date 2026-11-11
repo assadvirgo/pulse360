@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge has decided not to dismiss Donald Trump's defamation
   claim against the BBC regarding edits made to a documentary about January 6th. The
   judge ruled that Trump had…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-11-11T02:06:50Z'

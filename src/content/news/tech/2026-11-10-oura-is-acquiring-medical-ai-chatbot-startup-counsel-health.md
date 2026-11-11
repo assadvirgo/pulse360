@@ -5,7 +5,7 @@ countryCode: US
 description: Oura has announced its agreement to acquire Counsel Health for $625 million.
   This acquisition follows the integration of Counsel Health's AI chatbot into Oura's
   app earlier this…
-displayOrder: 10
+displayOrder: 12
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-10T21:40:31Z'

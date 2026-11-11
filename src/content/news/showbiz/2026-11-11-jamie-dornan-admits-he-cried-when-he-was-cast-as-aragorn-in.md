@@ -5,7 +5,7 @@ countryCode: US
 description: 'Jamie Dornan expressed his emotional reaction to being cast as Aragorn
   in “Lord of the Rings: The Hunt for Gollum.” He stated that he cried upon receiving
   the role, which was…'
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-11T05:54:14Z'
