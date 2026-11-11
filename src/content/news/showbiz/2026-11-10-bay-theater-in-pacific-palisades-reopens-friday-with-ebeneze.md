@@ -5,7 +5,7 @@ countryCode: US
 description: The Bay Theater in Pacific Palisades is set to reopen on Friday, following
   a month after the announcement of its takeover by Paramount Pictures. The theater
   has been updated with…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-11-10T23:33:08Z'

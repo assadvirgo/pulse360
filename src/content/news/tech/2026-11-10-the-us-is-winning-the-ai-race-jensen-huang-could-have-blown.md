@@ -5,7 +5,7 @@ countryCode: US
 description: The Verge reports on Jensen Huang, the CEO of Nvidia, highlighting his
   significant role in the AI industry. Huang leads one of the world's most valuable
   companies and is closely…
-displayOrder: 4
+displayOrder: 9
 heroImage: ''
 importance: 69.2
 pubDate: '2026-11-10T19:04:05Z'

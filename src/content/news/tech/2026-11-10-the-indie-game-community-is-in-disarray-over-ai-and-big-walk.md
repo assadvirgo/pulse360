@@ -5,7 +5,7 @@ countryCode: US
 description: The indie game community is experiencing turmoil regarding the use of
   generative AI in game development. Some jurors from the Independent Games Festival
   (IGF) announced they would…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-11-10T17:32:47Z'

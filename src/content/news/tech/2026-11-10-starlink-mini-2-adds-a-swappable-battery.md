@@ -5,7 +5,7 @@ countryCode: US
 description: SpaceX announced a new version of its satellite internet terminal, the
   Starlink Mini 2, which now includes a swappable battery. The device integrates a
   dish, Wi-Fi router, and…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-11-10T19:19:12Z'

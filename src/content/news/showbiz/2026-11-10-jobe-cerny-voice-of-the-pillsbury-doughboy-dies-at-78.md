@@ -5,7 +5,7 @@ countryCode: US
 description: JoBe Cerny, known for voicing the Pillsbury Doughboy, passed away on
   October 30 at the age of 78. He was born and raised in Cicero, Illinois, and held
   degrees in speech and drama…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-10T22:17:14Z'

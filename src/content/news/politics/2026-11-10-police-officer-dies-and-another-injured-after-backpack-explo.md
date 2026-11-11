@@ -5,7 +5,7 @@ countryCode: ES
 description: A police officer has died and another has been seriously injured following
   an explosion in northern Spain. The incident occurred while officers were responding
   to a separate…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-11-10T11:25:46Z'
