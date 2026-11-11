@@ -5,7 +5,7 @@ countryCode: GB
 description: Jemima Goldsmith has stated that she was a victim of Russell Brand's
   "violence, coercive control and abuse." This revelation comes after Brand received
   a 10-year prison sentence…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-11-10T11:37:17Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 'Highland Film Group has unveiled the first look image of the thriller
   "The Black Demon: Atlantis." This film is a sequel to "The Black Demon" and features
   Jack Kesy in the lead…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-10T18:05:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Google's Pixel Tag tracker is now available for purchase. This product
   is designed to work with Google's tracking network and app, which was renamed the
   Find Hub last year.
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 59.2
 pubDate: '2026-11-10T19:00:00Z'

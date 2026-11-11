@@ -5,7 +5,7 @@ countryCode: US
 description: Hugging Face executive Irene Solaiman has warned that increasing cyberattacks
   on open AI platforms may lead to stricter security measures. This could jeopardize
   the accessibility…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-10T13:00:00Z'

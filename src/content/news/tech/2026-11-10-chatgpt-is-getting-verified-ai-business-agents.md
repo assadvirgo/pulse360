@@ -5,7 +5,7 @@ countryCode: US
 description: ChatGPT is introducing verified "Business Agents" that will represent
   brands and assist users with tasks such as comparison shopping. This feature is
   set to launch in beta for…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-10T18:00:00Z'

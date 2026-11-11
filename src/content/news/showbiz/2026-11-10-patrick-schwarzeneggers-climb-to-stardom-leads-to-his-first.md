@@ -5,7 +5,7 @@ countryCode: US
 description: Patrick Schwarzenegger has landed his first lead film role in "The Journeyman."
   The actor, known for his work in "White Lotus," has described his journey to film
   stardom as a long…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-10T18:30:00Z'
