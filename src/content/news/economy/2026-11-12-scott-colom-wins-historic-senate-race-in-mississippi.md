@@ -5,7 +5,7 @@ countryCode: US
 description: Democrat Scott Colom has won the U.S. Senate race in Mississippi, marking
   a historic victory as he becomes the first Black person to represent the state since
   the Reconstruction…
-displayOrder: 9
+displayOrder: 29
 heroImage: ''
 importance: 43.5
 pubDate: '2026-11-12T00:24:56Z'

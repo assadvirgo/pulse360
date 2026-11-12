@@ -5,7 +5,7 @@ countryCode: FR
 description: Nicole Kidman will receive an honorary Cesar at France's Cesar Awards.
   The presentation is scheduled for the 52nd ceremony on February 25, 2027, at the
   Olympia in Paris, as…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-12T10:12:24Z'

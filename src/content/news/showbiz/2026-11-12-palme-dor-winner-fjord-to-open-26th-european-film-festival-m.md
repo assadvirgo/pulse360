@@ -5,7 +5,7 @@ countryCode: MY
 description: Cristian Mungiu's Palme d'Or winner "Fjord" will open the 26th European
   Film Festival Malaysia (EUFF) on November 26 at TGV Pavilion Kuala Lumpur. This
   year, the festival will…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-12T11:23:19Z'

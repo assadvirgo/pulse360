@@ -5,7 +5,7 @@ countryCode: IT
 description: More than 6,000 schools in Italy, along with schools in Scotland and
   Northern Ireland, received threats in what is suspected to be a coordinated bomb
   hoax. Authorities in all…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-11T18:38:45Z'

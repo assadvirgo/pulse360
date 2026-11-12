@@ -5,7 +5,7 @@ countryCode: CN
 description: Boutique sales company Asian Shadows has acquired "Vertigo Garden," a
   new feature from Chinese filmmaker and animation artist Lei Lei. The film is set
   to have its world premiere…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-12T11:07:25Z'

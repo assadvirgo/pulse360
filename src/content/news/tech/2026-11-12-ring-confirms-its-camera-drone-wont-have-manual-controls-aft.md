@@ -5,7 +5,7 @@ countryCode: US
 description: Ring has confirmed that its security camera drone will not feature manual
   controls. The drone, set to be released in January, will operate solely using an
   "AI Pilot" system for…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 65.2
 pubDate: '2026-11-12T11:12:32Z'

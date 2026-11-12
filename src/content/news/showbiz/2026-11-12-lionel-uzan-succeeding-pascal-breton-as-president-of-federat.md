@@ -5,7 +5,7 @@ countryCode: FR
 description: Lionel Uzan is succeeding Pascal Breton as the president of Federation
   Studios, according to Deadline. Montefiore Investments has increased its stake to
   become the majority…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-11-12T08:59:51Z'

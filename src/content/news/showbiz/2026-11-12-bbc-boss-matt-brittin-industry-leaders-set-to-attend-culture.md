@@ -5,7 +5,7 @@ countryCode: GB
 description: BBC Director General Matt Brittin will attend an emergency meeting convened
   by the UK Culture Secretary next week. This meeting follows recent scandals involving
   Russell Brand,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-12T11:08:27Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: The film "Ghost Soldier," directed by William Eubank, has been reviewed
   by Variety. The review describes the movie as uninspired and retrograde, noting
   that it relies heavily on…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-12T11:24:37Z'
