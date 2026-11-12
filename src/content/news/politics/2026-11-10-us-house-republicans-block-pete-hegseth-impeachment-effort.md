@@ -5,7 +5,7 @@ countryCode: US
 description: House Republicans have blocked an impeachment effort against Secretary
   of Defense Pete Hegseth. The resolution was referred to committee, preventing it
   from being voted on by the…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-11-10T22:36:14Z'

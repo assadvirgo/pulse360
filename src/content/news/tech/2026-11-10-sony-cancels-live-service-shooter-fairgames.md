@@ -5,7 +5,7 @@ countryCode: US
 description: Sony has canceled the live-service shooter Fairgames, which was announced
   in 2023. The decision is part of a broader cancellation of several planned live-service
   titles by the…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-11-10T21:06:12Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Karla Souza has been cast as a lead in the new Grey's Anatomy spinoff
   set in West Texas. She is the first actor to join the series, which is produced
   by Shonda Rhimes and others.
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-11T18:00:00Z'

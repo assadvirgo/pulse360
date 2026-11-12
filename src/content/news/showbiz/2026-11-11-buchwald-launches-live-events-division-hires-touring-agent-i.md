@@ -5,7 +5,7 @@ countryCode: US
 description: Buchwald is launching a new division focused on live events and has hired
   touring agent Isaiah Jones. Jones joins Buchwald after spending over nine years
   at UTA, where he…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-11T17:46:02Z'

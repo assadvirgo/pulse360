@@ -5,7 +5,7 @@ countryCode: US
 description: Anne Hathaway will receive the American Riviera Award at the 42nd annual
   Santa Barbara International Film Festival on February 5. The award honors actors
   who have made significant…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-11T18:00:00Z'

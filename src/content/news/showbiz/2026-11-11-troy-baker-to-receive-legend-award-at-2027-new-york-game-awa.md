@@ -5,7 +5,7 @@ countryCode: US
 description: Troy Baker has been announced as the recipient of the Andrew Yoon Legend
   Award for the 2027 New York Game Awards. He is recognized for his extensive work
   as a voice actor in the…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-11T18:14:00Z'
