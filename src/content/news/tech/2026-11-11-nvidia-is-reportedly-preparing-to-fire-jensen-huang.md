@@ -5,7 +5,7 @@ countryCode: US
 description: Nvidia's board is reportedly preparing to dismiss CEO Jensen Huang following
   allegations of a second extramarital affair. This comes shortly after Huang admitted
   to a separate…
-displayOrder: 5
+displayOrder: 8
 heroImage: ''
 importance: 56.2
 pubDate: '2026-11-11T22:44:36Z'

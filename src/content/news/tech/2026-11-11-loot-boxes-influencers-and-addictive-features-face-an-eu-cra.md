@@ -3,7 +3,7 @@ category: Tech
 description: The European Union is proposing new regulations aimed at improving online
   consumer experiences. The Digital Fairness Act (DFA) targets gaming, social media,
   and e-commerce…
-displayOrder: 11
+displayOrder: 12
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-11T18:13:52Z'

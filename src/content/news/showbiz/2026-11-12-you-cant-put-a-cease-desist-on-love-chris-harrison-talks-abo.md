@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Harrison is returning to the dating scene with a new reality series
   titled The Vow. This follows his nearly 20-year tenure with The Bachelor, from which
   he departed five…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-12T00:16:31Z'

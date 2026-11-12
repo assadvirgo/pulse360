@@ -5,7 +5,7 @@ countryCode: US
 description: The creator of 'VisionQuest,' Terry Matalas, discussed the show's finale
   and a post-credits surprise in an interview with Hollywood Reporter. He also paid
   tribute to the late…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-11T22:41:40Z'

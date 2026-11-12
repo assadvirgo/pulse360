@@ -5,7 +5,7 @@ countryCode: GB
 description: Russell Brand's Instagram account has been removed by Meta following
   his recent rape conviction in London. Brand announced the removal on X, sharing
   a screenshot indicating that…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-12T00:23:22Z'

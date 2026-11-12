@@ -5,7 +5,7 @@ countryCode: US
 description: Irma P. Hall, known for her roles in "Soul Food" and "The Ladykillers,"
   has died at the age of 91, according to her family. Her passing was confirmed on
   Tuesday.
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 65.8
 pubDate: '2026-11-11T18:38:22Z'

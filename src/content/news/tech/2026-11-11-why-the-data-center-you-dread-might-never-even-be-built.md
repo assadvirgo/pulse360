@@ -3,7 +3,7 @@ category: Tech
 description: The data center boom is facing significant challenges that may prevent
   many announced projects from being built. Local opposition, permitting delays, and
   a scramble for…
-displayOrder: 10
+displayOrder: 11
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-11T20:15:15Z'
