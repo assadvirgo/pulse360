@@ -5,7 +5,7 @@ countryCode: US
 description: Google has launched its new Gemini 4 Hydrogen model, which is designed
   to provide more helpful answers to complex questions. The model can handle inquiries
   that include multiple…
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-12T21:55:32Z'

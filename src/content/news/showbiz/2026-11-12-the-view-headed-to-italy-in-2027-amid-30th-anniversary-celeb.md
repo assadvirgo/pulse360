@@ -5,7 +5,7 @@ countryCode: US
 description: The View will travel to Italy in May 2027 for a special event celebrating
   its 30th anniversary. The announcement was made by Whoopi Goldberg during her birthday
   celebration on the…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-12T18:15:20Z'

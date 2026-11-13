@@ -3,7 +3,7 @@ category: Showbiz
 description: The gaming industry is preparing for the release of "Grand Theft Auto
   VI," which is anticipated to be a significant event in entertainment. Analysts have
   repeatedly stated that it…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-12T20:36:14Z'

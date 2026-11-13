@@ -5,7 +5,7 @@ countryCode: US
 description: Kaylee Hottle's sister, Jasmine Hottle, will take over her role in the
   unfinished film following Kaylee's death. Kaylee Hottle died in July in a car crash
   in Maryland.
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-11-12T21:58:17Z'

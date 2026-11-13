@@ -5,7 +5,7 @@ countryCode: IN
 description: 'The film "Ramayana: Rise of a Legend" has surpassed $100 million at
   the global box office. The movie, directed by Nitesh Tiwari, has generated $67.1
   million from India.'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-12T20:03:22Z'

@@ -5,7 +5,7 @@ countryCode: MM
 description: In 2021, Canadian photojournalist Bryan Dickie gained access to Myanmar
   following the military's overthrow of the democratically elected government. This
   experience led him to…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-12T20:30:40Z'

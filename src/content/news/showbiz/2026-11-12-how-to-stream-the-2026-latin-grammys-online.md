@@ -5,7 +5,7 @@ countryCode: US
 description: The 27th Annual Latin Grammy Awards will take place on November 12 at
   the MGM Garden Arena in Las Vegas. The event will feature performances from prominent
   Latin music artists.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-11-12T21:52:25Z'
