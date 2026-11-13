@@ -5,7 +5,7 @@ countryCode: US
 description: The Oura Ring 4 is currently available at a discounted price of $249,
   which is $100 off its retail price. This marks the first significant discount on
   the device since July. The…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-12T21:28:53Z'

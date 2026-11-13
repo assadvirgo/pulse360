@@ -5,7 +5,7 @@ countryCode: US
 description: Amanda Seyfried expressed her eagerness to campaign for her film "You
   Can See Everything" as awards eligibility approaches. In her first one-on-one interview
   about the film, she…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-12T23:37:04Z'

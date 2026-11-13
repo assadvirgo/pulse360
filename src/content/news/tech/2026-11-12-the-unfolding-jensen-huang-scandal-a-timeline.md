@@ -5,7 +5,7 @@ countryCode: US
 description: Jensen Huang has resigned from Nvidia following an affair, which may
   have implications for national security amid the competition between the U.S. and
   China in AI development.
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 65.0
 pubDate: '2026-11-12T21:35:00Z'

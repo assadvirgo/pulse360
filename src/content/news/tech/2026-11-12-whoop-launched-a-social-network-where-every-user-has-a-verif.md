@@ -5,7 +5,7 @@ countryCode: US
 description: Whoop has launched a new social network called Whoop Humans, allowing
   members to share data from their wearables. The platform enables users to display
   their metrics, activities,…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-12T23:43:22Z'

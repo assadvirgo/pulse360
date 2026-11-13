@@ -5,7 +5,7 @@ countryCode: US
 description: Jensen Huang resigned as CEO of Nvidia, and the company is currently
   led by its CFO on an interim basis. President Donald Trump has suggested that former
   Apple CEO Tim Cook should…
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-13T00:46:07Z'
