@@ -5,7 +5,7 @@ countryCode: US
 description: 'Johnny Depp''s new film "Ebenezer" has earned $1.5 million in box office
   previews. This marks Depp''s return to a major Hollywood movie since 2018''s "Fantastic
   Beasts: The Crimes of…'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-11-13T15:32:12Z'

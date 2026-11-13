@@ -5,7 +5,7 @@ countryCode: US
 description: New York City Mayor Zohran Mamdani is launching a youth video game design
   competition this weekend. The event, called the NYC Game Jam, will take place in
   the city where "Grand…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-11-13T15:00:00Z'

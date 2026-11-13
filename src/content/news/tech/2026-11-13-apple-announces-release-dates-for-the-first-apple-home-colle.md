@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has announced that the first smart home devices from its new Apple
   Home Collection are now available for preorder. These devices, co-developed with
   LG Electronics and…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-13T15:22:14Z'

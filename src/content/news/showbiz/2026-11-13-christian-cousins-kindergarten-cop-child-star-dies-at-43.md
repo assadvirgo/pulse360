@@ -5,7 +5,7 @@ countryCode: US
 description: Christian Cousins, known for his role in "Kindergarten Cop," has died
   at the age of 43 after battling liver disease. His brother, Jonas Roeser, announced
   the news on Instagram on…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-13T15:45:07Z'

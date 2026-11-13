@@ -5,7 +5,7 @@ countryCode: US
 description: Claude Duet, Anthropic's AI agent for consumers, aims to demonstrate
   the usefulness of AI agents for non-coders. Unlike typical products, Duet offers
   assistance in documenting…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-13T14:00:00Z'
