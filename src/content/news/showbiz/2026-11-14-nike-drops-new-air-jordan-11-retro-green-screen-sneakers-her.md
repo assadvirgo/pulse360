@@ -5,7 +5,7 @@ countryCode: US
 description: Nike has released the new Air Jordan 11 Retro ‘Green Screen’ sneakers,
   inspired by the 1996 film "Space Jam," which featured Michael Jordan. The sneakers
   are now available for…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-14T12:00:00Z'

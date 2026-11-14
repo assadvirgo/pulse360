@@ -5,7 +5,7 @@ countryCode: RO
 description: Cinephil has acquired Alexandru Solomon’s documentary "Small Expectations"
   ahead of its world premiere at the International Documentary Film Festival Amsterdam.
   The film provides…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-11-14T11:40:53Z'

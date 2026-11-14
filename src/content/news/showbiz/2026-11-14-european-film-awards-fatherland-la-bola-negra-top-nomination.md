@@ -5,7 +5,7 @@ countryCode: GR
 description: The European Film Academy has announced the nominations for the 39th
   European Film Awards, which will take place in Greece in January 2027. "Fatherland,"
   directed by Paweł…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-14T10:28:48Z'

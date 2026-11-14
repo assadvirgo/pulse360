@@ -5,7 +5,7 @@ countryCode: CA
 description: Kamal Khera has been appointed as the new Canadian Consul General in
   Los Angeles. She expressed her hopes to inspire a renewed sense of unity between
   Canada and the U.S.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 56.8
 pubDate: '2026-11-14T01:24:58Z'
