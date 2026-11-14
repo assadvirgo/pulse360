@@ -5,7 +5,7 @@ countryCode: IN
 description: A truck and bus collision in Assam, India, has resulted in at least 24
   fatalities. Among the deceased are several children and college students, as reported
   by officials.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-11-13T16:01:45Z'

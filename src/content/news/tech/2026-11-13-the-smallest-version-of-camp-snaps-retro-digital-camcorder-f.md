@@ -5,7 +5,7 @@ countryCode: US
 description: Camp Snap has launched the CS-8 Micro, a miniaturized version of its
   screen-free CS-8 video camera. This new model is even smaller than the original,
   designed to fit on a keychain…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-13T17:12:56Z'

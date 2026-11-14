@@ -5,7 +5,7 @@ countryCode: US
 description: Michael Mann is involved in a legal dispute with New Regency as he seeks
   to reclaim the copyright to his original screenplay for the film "Heat." New Regency,
   which produced the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-14T02:51:07Z'

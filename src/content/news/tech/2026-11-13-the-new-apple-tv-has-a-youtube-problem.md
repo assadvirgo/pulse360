@@ -5,7 +5,7 @@ countryCode: US
 description: People who received the new Apple TV 4K experienced issues with the YouTube
   app upon opening it. The app displayed a black screen along with a QR code and an
   error message…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-13T16:55:57Z'
