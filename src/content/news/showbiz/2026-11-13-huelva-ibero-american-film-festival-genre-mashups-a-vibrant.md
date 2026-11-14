@@ -5,7 +5,7 @@ countryCode: ES
 description: The 52nd Huelva Ibero-American Film Festival will commence on November
   13, honoring actress Paulina García. The festival will showcase works from emerging
   Latin American directors.
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-13T20:54:57Z'

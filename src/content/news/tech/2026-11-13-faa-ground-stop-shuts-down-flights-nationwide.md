@@ -5,7 +5,7 @@ countryCode: US
 description: The FAA issued a nationwide ground stop affecting all U.S. airports due
   to a communication issue impacting Air Route Traffic Control Centers. This pause
   in takeoffs was described…
-displayOrder: 4
+displayOrder: 7
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-13T21:38:25Z'

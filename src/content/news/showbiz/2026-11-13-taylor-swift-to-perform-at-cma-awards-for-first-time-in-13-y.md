@@ -5,7 +5,7 @@ countryCode: US
 description: Taylor Swift will perform live at the 60th CMA Awards, marking her return
   to the stage for the first time since 2013. The Country Music Association announced
   her performance on…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 64.0
 pubDate: '2026-11-13T15:20:00Z'

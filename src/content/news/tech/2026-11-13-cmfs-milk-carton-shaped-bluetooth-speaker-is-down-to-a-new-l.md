@@ -5,7 +5,7 @@ countryCode: US
 description: CMF's milk carton-shaped Bluetooth speaker, the CMF Speaker S, is now
   available for $39 as part of Nothing's early Black Friday promotion. This price
   reflects a $20 discount and…
-displayOrder: 7
+displayOrder: 9
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-13T20:30:00Z'

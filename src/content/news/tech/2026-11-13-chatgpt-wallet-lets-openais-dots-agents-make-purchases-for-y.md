@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: OpenAI is launching a wallet for its Dots AI agents, called ChatGPT Wallet.
   This feature is rolling out to ChatGPT Pro subscribers in the US.
-displayOrder: 6
+displayOrder: 8
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-13T20:45:10Z'

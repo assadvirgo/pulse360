@@ -5,7 +5,7 @@ countryCode: US
 description: Jessica Marie Garcia will star in and produce a new vampire comedy film
   titled "Randy Mandy and the Curse of the Plaza Theatre." The film is directed by
   Kristina Arjona and…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-13T19:57:26Z'
