@@ -5,7 +5,7 @@ countryCode: US
 description: Danny Boyle discussed his filmography and the common themes in his movies
   while receiving the Deadline Legend Award. He reflected on his belief that he never
   made the same film…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-11-15T01:00:33Z'

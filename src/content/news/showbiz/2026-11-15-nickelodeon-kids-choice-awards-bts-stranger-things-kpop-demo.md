@@ -5,7 +5,7 @@ countryCode: US
 description: The Nickelodeon Kids’ Choice Awards took place, with BTS, Stranger Things,
   and Percy Jackson and the Olympians among the notable winners. BTS won the award
   for Favorite Music…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-15T02:30:00Z'

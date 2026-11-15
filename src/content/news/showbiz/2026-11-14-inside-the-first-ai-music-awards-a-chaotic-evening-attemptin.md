@@ -5,7 +5,7 @@ countryCode: US
 description: The first AI Music Awards took place recently, featuring performances
   and announcements that highlighted the integration of technology in music. The event
   included a notable…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-14T23:39:41Z'

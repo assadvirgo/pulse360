@@ -5,7 +5,7 @@ countryCode: US
 description: Brandi Carlile is currently on her "Burn the Setlist!" tour, which consists
   of 19 dates. The tour is characterized by its all-request format, allowing the audience
   to choose the…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-15T03:24:07Z'

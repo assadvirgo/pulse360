@@ -5,7 +5,7 @@ countryCode: GB
 description: A former commanding officer of the SAS criticized the state for breaking
   a "moral contract" with soldiers. This statement comes in light of an ongoing inquiry
   into war crimes that…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-14T14:33:00Z'

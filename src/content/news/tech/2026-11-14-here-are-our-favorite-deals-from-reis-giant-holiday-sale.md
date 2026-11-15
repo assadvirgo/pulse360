@@ -5,7 +5,7 @@ countryCode: US
 description: REI is holding its annual holiday sale, offering discounts on outdoor
   gear and gifts. The sale is part of the broader Black Friday shopping season, which
   has seen retailers…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-14T15:00:00Z'

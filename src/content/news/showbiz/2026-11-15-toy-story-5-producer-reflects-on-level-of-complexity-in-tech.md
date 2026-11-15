@@ -5,7 +5,7 @@ countryCode: US
 description: The producer of "Toy Story 5," Lindsey Collins, discussed the evolving
   technology in animation and its impact on the film franchise. She emphasized the
   importance of balancing…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-15T00:05:58Z'

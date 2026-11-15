@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Pratt expressed his desire for James Gunn to direct a fourth "Guardians
   of the Galaxy" film following Gunn's recent departure from DC Studios. Pratt believes
   it would be…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-14T22:25:26Z'
