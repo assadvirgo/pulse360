@@ -5,7 +5,7 @@ countryCode: US
 description: 'Magic: The Gathering is set to receive an animated series titled "Planeswalker,"
   which will be available on Netflix in 2027. This announcement was made by Roy Graham,
   Head of…'
-displayOrder: 5
+displayOrder: 8
 heroImage: ''
 importance: 51.2
 pubDate: '2026-11-14T19:47:40Z'

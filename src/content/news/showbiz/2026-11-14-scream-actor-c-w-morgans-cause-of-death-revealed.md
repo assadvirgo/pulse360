@@ -5,7 +5,7 @@ countryCode: US
 description: C.W. Morgan, known for his role in the "Scream" franchise, has had his
   cause of death revealed by the Los Angeles County Department of Medical Examiner.
   He passed away at the age…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-14T17:16:30Z'

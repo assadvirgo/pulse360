@@ -5,7 +5,7 @@ countryCode: UA
 description: The Ukrainian president stated that U.S. envoys have proposed the idea
   of Ukraine ceding the Donbas region in exchange for NATO membership as part of efforts
   to end the war with…
-displayOrder: 1
+displayOrder: 11
 heroImage: ''
 importance: 87.2
 pubDate: '2026-11-14T11:41:20Z'

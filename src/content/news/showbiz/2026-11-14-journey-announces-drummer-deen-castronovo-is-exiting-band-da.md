@@ -5,7 +5,7 @@ countryCode: US
 description: Journey has announced that drummer Deen Castronovo is leaving the band
   due to health issues. This decision follows two instances in which he had to exit
   mid-concert in just over a…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-14T19:07:38Z'

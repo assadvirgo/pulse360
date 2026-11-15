@@ -5,7 +5,7 @@ countryCode: US
 description: 'The Contenders Film: Los Angeles event is currently taking place, showcasing
   15 films from eight studios and streamers. The all-day event is being held at the
   DGA Theater and…'
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-14T17:15:00Z'

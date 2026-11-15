@@ -5,7 +5,7 @@ countryCode: CA
 description: Dawn Greenhalgh, a veteran Canadian actress known for her work in stage,
   film, and television, has died at the age of 93. She passed away on November 6 in
   Toronto.
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-14T19:08:40Z'

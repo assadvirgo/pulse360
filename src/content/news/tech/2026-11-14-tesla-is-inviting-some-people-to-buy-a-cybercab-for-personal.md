@@ -5,7 +5,7 @@ countryCode: US
 description: Tesla is offering select customers the opportunity to purchase a Cybercab
   for personal use. However, the vehicle will only be available in certain service
   areas.
-displayOrder: 13
+displayOrder: 14
 heroImage: ''
 importance: 45.2
 pubDate: '2026-11-14T14:18:36Z'
