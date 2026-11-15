@@ -5,7 +5,7 @@ countryCode: BH
 description: Iran's Islamic Revolutionary Guard Corps (IRGC) launched six drones at
   a US radar installation located at an air base in Bahrain. This incident marks the
   second attack on the…
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 65.5
 pubDate: '2026-11-15T12:15:51Z'

@@ -3,7 +3,7 @@ category: Tech
 description: In the 1990s, Sony believed society was nearing a robot takeover, envisioning
   a future with humanoid robots as coworkers, friends, and pets. The company focused
   on creating a…
-displayOrder: 4
+displayOrder: 12
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-15T13:57:30Z'

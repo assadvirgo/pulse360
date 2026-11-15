@@ -5,7 +5,7 @@ countryCode: GB
 description: One of Russell Brand's accusers has waived her legal right to anonymity.
   Mia Latter alleged that she was orally raped by Brand in 2006 when she was 16 years
   old.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-11-15T12:09:06Z'

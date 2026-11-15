@@ -5,7 +5,7 @@ countryCode: GR
 description: 'Jacqueline Lentzou’s film “A Day in the Life of Jo: Chapter Phaedra”
   won the Golden Alexander at the Thessaloniki Film Festival. The film received the
   top prize in the Arrivals…'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-15T13:45:14Z'

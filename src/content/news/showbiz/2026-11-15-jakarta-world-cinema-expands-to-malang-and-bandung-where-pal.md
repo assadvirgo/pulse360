@@ -5,7 +5,7 @@ countryCode: ID
 description: Jakarta World Cinema has expanded its festival to Malang and Bandung,
   marking the first time it has taken place outside the Indonesian capital. The inaugural
   events opened…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 40.8
 pubDate: '2026-11-15T07:34:29Z'
