@@ -5,7 +5,7 @@ countryCode: US
 description: United Launch Alliance (ULA) experienced its first mission failure in
   20 years, resulting in the destruction of 40 Amazon Leo satellites intended for
   orbit. The Leo project is…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-15T21:05:02Z'

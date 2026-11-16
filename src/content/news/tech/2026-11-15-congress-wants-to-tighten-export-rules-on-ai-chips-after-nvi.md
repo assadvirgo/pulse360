@@ -5,7 +5,7 @@ countryCode: US
 description: Congress is seeking to tighten export rules on AI chips following a scandal
   involving former Nvidia CEO Jensen Huang and a suspected Chinese spy. Both Democrats
   and Republicans…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-11-15T19:15:43Z'

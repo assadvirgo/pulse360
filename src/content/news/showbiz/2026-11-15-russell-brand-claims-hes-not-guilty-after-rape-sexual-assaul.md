@@ -5,7 +5,7 @@ countryCode: GB
 description: Russell Brand has claimed he is "not guilty" following his sentencing
   to 10 years and six months in prison for rape and sexual assault. His wife, Laura
   Gallacher, shared his…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-15T20:54:02Z'

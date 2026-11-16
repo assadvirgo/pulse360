@@ -5,7 +5,7 @@ countryCode: US
 description: Kevin Feige expressed that incorporating the X-Men into the Avengers
   franchise is a "fun way" to celebrate 25 years of Marvel's cinematic journey. He
   noted that it "just felt…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-11-15T19:21:52Z'

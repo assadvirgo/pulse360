@@ -5,7 +5,7 @@ countryCode: IN
 description: The directors of "Writing With Fire," Rintu Thomas and Sushmit Ghosh,
   have announced the fourth cohort of the Himalayan Story Lab, a fellowship for documentary
   filmmakers from the…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-11-16T03:30:00Z'

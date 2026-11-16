@@ -5,7 +5,7 @@ countryCode: US
 description: 'Prime Video has announced the release date for Season 3 of "Beast Games."
   The new season, titled "Beast Games: World Champions," will premiere on December
   16.'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-11-16T01:15:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has launched a new app aimed at studying how people use AI for
   health-related inquiries. The initiative is part of the Apple Health AI Usage Study,
   which seeks to improve…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.0
 pubDate: '2026-11-16T01:30:00Z'

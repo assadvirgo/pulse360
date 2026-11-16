@@ -5,7 +5,7 @@ countryCode: AU
 description: Chadd Sayers has supported Usman Khawaja's claims regarding the sandpaper
   incident during the South Africa tour, contradicting Pat Cummins' statements. Sayers,
   who played in the…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-11-15T09:26:54Z'
