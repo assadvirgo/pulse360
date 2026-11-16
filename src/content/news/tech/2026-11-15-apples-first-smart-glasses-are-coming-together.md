@@ -5,7 +5,7 @@ countryCode: US
 description: Apple is reportedly set to announce its first model of smart glasses
   at next year's WWDC in June. According to Bloomberg's Mark Gurman, these glasses
   will not feature augmented…
-displayOrder: 9
+displayOrder: 11
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-15T16:59:16Z'

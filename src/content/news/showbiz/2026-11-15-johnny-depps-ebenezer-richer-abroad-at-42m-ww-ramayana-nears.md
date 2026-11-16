@@ -5,7 +5,7 @@ countryCode: US
 description: Johnny Depp's film "Ebenezer" has achieved a global opening of $42 million,
   with $23 million coming from foreign audiences across 62 markets. The film had a
   $19 million opening in…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-15T18:00:41Z'

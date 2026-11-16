@@ -5,7 +5,7 @@ countryCode: US
 description: Author Karin Slaughter is considering a sequel in the form of a short
   story to her 2017 novel "The Good Daughter." This follows her adaptation of the
   novel into a series for…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-15T20:27:36Z'

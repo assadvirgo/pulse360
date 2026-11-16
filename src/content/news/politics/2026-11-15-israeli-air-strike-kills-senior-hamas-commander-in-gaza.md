@@ -5,7 +5,7 @@ countryCode: IL
 description: An Israeli air strike has killed a senior Hamas commander in Gaza. Hamas
   confirmed the death of Rafah brigade commander Samir Abu Younis in an attack on
   Khan Younis.
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 65.5
 pubDate: '2026-11-15T01:00:42Z'
