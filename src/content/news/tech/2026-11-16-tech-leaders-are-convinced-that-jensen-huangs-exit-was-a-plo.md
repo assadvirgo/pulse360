@@ -5,7 +5,7 @@ countryCode: US
 description: Jensen Huang's resignation from Nvidia after over 33 years has caused
   significant reactions in the tech industry. Prominent figures are advocating for
   Huang's reinstatement and…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 60.2
 pubDate: '2026-11-16T23:17:34Z'

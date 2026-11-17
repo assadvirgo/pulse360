@@ -5,7 +5,7 @@ countryCode: GB
 description: Johnny Depp's film "Ebenezer," directed by Ti West, has debuted at the
   top of the U.K. and Ireland box office, earning £3.9 million ($5.2 million). The
   film features Depp as…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 61.8
 pubDate: '2026-11-17T12:20:59Z'

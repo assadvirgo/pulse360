@@ -5,7 +5,7 @@ countryCode: US
 description: The US government plans to impose further restrictions on China's access
   to advanced AI chips, specifically those supplied by Nvidia. This move is part of
   ongoing efforts to limit…
-displayOrder: 23
+displayOrder: 999
 heroImage: ''
 importance: 48.0
 pubDate: '2026-11-16T14:59:00Z'

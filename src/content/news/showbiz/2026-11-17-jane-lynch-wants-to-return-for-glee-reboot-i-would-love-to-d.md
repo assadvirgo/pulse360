@@ -5,7 +5,7 @@ countryCode: US
 description: Jane Lynch expressed her desire to reprise her role as Sue Sylvester
   in a potential "Glee" reboot. The reboot was recently greenlit for Disney+ and Hulu,
   leading to speculation…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-17T12:01:01Z'

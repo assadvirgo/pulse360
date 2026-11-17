@@ -4,7 +4,7 @@ country: Ukraine
 countryCode: UA
 description: Ukrainian president said Russia conducted strikes on power plants after
   US president’s announcement on Sunday
-displayOrder: 50
+displayOrder: 49
 heroImage: ''
 importance: 70.5
 pubDate: '2026-10-12T11:22:07Z'
