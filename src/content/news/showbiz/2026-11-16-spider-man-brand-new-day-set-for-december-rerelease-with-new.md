@@ -5,7 +5,7 @@ countryCode: US
 description: 'A re-release of "Spider-Man: Brand New Day" is scheduled for December
   4, featuring previously unseen footage. The new cut will be titled "Spider-Man:
   [Brand New] Brand New Day."'
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-16T23:00:00Z'

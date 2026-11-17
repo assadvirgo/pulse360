@@ -5,7 +5,7 @@ countryCode: US
 description: Robert Pattinson has been confirmed as the next James Bond, succeeding
   Daniel Craig, who ended his tenure with the film 'No Time to Die' in 2021. Pattinson
   expressed that being…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-16T23:49:25Z'

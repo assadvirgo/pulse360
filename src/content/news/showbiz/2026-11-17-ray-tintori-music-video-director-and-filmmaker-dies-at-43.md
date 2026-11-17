@@ -5,7 +5,7 @@ countryCode: US
 description: Ray Tintori, a music video director and filmmaker known for his work
   with bands such as Arcade Fire and MGMT, has died in New York. The New York City
   Office of Chief Medical…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-17T01:27:22Z'

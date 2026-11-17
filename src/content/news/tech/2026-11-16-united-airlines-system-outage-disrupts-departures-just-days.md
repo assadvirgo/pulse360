@@ -5,7 +5,7 @@ countryCode: US
 description: United Airlines experienced a system outage that disrupted departing
   flights. This incident occurred less than a week after a nationwide ground stop
   due to air traffic control…
-displayOrder: 6
+displayOrder: 10
 heroImage: ''
 importance: 56.2
 pubDate: '2026-11-16T22:54:59Z'

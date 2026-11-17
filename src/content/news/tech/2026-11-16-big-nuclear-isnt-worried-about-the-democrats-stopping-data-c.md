@@ -5,7 +5,7 @@ countryCode: US
 description: Constellation Energy, the largest operator of nuclear power plants in
   the U.S., is not concerned about potential Democratic efforts to slow down data
   center development. During…
-displayOrder: 9
+displayOrder: 11
 heroImage: ''
 importance: 54.2
 pubDate: '2026-11-16T20:29:37Z'

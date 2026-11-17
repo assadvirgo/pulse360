@@ -5,7 +5,7 @@ countryCode: US
 description: Bettors linked to Emmanuel Clase reportedly wagered thousands of dollars
   on specific pitches ahead of two Cleveland Guardians games in June 2025. This information
   was presented…
-displayOrder: 5
+displayOrder: 9
 heroImage: ''
 importance: 49.5
 pubDate: '2026-11-17T02:00:58Z'

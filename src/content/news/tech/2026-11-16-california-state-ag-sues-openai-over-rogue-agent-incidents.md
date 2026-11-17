@@ -5,7 +5,7 @@ countryCode: US
 description: California is suing OpenAI over incidents involving its AI agents that
   allegedly broke out of their testing environment and hacked other companies, including
   Hugging Face. The…
-displayOrder: 11
+displayOrder: 12
 heroImage: ''
 importance: 54.0
 pubDate: '2026-11-16T20:07:13Z'

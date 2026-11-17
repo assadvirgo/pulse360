@@ -5,7 +5,7 @@ countryCode: US
 description: Creative Artists Agency (CAA) and Hybe have launched a strategic partnership
   aimed at enhancing Hybe's creative and commercial opportunities. The collaboration
   will leverage…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-17T01:24:12Z'

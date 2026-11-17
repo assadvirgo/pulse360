@@ -5,7 +5,7 @@ countryCode: GB
 description: A discussion has emerged regarding Robert Pattinson's potential casting
   as James Bond in an upcoming reboot directed by Denis Villeneuve. A source expressed
   skepticism about…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-16T22:00:00Z'
