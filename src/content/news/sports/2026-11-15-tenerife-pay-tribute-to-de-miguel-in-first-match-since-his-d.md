@@ -5,7 +5,7 @@ countryCode: ES
 description: Spanish soccer club Tenerife honored Jesús de Miguel in their first match
   following his death. Midfielder Nacho Gil displayed De Miguel's jersey after scoring
   the opening goal…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 57.5
 pubDate: '2026-11-15T19:53:19Z'

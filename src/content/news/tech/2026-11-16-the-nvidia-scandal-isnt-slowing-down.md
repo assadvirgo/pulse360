@@ -5,7 +5,7 @@ countryCode: US
 description: Nvidia continues to be a central figure in the AI technology landscape,
   with CEO Jensen Huang holding significant influence over its advancement. The company's
   chips are described…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 76.2
 pubDate: '2026-11-16T13:00:00Z'

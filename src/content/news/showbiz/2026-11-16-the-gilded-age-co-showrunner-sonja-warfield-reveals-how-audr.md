@@ -5,7 +5,7 @@ countryCode: US
 description: The Gilded Age co-showrunner Sonja Warfield discussed the influence of
   Audra McDonald on the show's narrative. McDonald contributed to the "core conflict"
   surrounding Peggy's…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 77.0
 pubDate: '2026-11-16T03:00:00Z'

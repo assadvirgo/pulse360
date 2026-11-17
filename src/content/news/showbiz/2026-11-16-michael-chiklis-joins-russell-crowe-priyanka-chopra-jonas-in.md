@@ -5,7 +5,7 @@ countryCode: AU
 description: Michael Chiklis has joined the cast of the upcoming science-fiction action
   thriller "Bluefly," alongside Russell Crowe and Priyanka Chopra Jonas. The film
   is directed by Nimród…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-16T17:31:06Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: 2PM Sharp has promoted Michelle Schwartz and Rob Greenwald to Partners
   of the strategic communications agency. This decision follows the firm's significant
   growth in the…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-16T16:22:11Z'

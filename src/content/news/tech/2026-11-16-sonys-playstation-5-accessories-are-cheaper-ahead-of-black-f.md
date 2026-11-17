@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Several retailers are offering discounts on PlayStation 5 accessories
   ahead of Black Friday. The discounts include price cuts on various games and hardware.
-displayOrder: 1
+displayOrder: 10
 heroImage: ''
 importance: 65.2
 pubDate: '2026-11-16T16:48:01Z'

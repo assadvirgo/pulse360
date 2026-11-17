@@ -5,7 +5,7 @@ countryCode: US
 description: Google is launching a new AI trip-planning feature for Google Maps that
   enables the app to create custom itineraries. This update is part of the Gemini-powered
   Ask Maps chatbot…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-16T14:00:00Z'
