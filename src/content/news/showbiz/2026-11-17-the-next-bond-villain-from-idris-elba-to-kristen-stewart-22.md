@@ -3,7 +3,7 @@ category: Showbiz
 description: The article from Variety discusses potential actors who could play the
   next Bond villain opposite Robert Pattinson. It highlights the importance of the
   villain in the James Bond…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-17T22:15:00Z'

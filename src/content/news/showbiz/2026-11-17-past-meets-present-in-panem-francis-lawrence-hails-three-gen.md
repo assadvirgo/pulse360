@@ -5,7 +5,7 @@ countryCode: US
 description: 'The world premiere of "The Hunger Games: Sunrise On The Reaping" featured
   a significant cast reunion, according to Deadline. Director Francis Lawrence described
   the event as…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-17T21:44:22Z'
