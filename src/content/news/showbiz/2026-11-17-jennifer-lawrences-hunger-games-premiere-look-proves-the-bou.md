@@ -5,7 +5,7 @@ countryCode: US
 description: 'Jennifer Lawrence attended the premiere of "The Hunger Games: Sunrise
   on the Reaping," showcasing a fashion trend with her outfit choice. She wore a fur-trimmed
   satin coat, which…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-17T22:43:29Z'

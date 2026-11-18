@@ -5,7 +5,7 @@ countryCode: US
 description: Nvidia's new board chair, Harvey Jones, announced during the company's
   quarterly earnings call that the board does not intend to reinstate former CEO Jensen
   Huang following his…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 56.2
 pubDate: '2026-11-17T22:05:05Z'

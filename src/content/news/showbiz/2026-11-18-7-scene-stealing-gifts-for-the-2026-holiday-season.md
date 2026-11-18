@@ -3,7 +3,7 @@ category: Showbiz
 description: The holiday season is underway, and Variety has compiled a list of standout
   gifts for 2026. The selection includes options for various interests, catering to
   tech lovers, wellness…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-18T03:49:25Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The semifinals of Season 35 of "Dancing With The Stars" took place, resulting
   in a surprising elimination. A couple that received a perfect score was sent home,
   narrowing the…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-11-18T03:00:03Z'

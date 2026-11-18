@@ -5,7 +5,7 @@ countryCode: US
 description: Director Ron Howard has clarified that a sequel to "How the Grinch Stole
   Christmas" featuring Jim Carrey will only proceed if it has the potential to be
   great. He emphasized the…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-18T00:47:42Z'

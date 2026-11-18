@@ -5,7 +5,7 @@ countryCode: US
 description: The MacBook Neo is currently available at a $50 discount at various retailers
   ahead of Black Friday. This discount applies to both storage sizes and all four
   colors of the laptop.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-17T21:46:20Z'
