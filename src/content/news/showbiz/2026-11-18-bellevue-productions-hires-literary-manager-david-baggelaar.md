@@ -5,7 +5,7 @@ countryCode: US
 description: Bellevue Productions has announced the hiring of literary manager David
   Baggelaar. He joins the company after more than a decade at Benderspink and its
   successor, Good Fear.
-displayOrder: 2
+displayOrder: 11
 heroImage: ''
 importance: 66.0
 pubDate: '2026-11-18T16:45:00Z'

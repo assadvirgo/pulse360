@@ -3,7 +3,7 @@ category: Tech
 description: Shelly has announced a new smart valve designed to prevent flooding by
   shutting off water flow when a leak is detected. This valve is intended to work
   in conjunction with a…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 55.2
 pubDate: '2026-11-18T16:00:00Z'

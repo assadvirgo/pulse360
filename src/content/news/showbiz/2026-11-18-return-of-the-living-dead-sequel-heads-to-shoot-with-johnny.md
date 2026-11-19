@@ -5,7 +5,7 @@ countryCode: US
 description: A new installment of the cult horror franchise "Return of the Living
   Dead" is set to begin shooting. The film will feature a cast that includes Johnny
   Knoxville, Ruby Snowber,…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 66.0
 pubDate: '2026-11-18T16:33:30Z'

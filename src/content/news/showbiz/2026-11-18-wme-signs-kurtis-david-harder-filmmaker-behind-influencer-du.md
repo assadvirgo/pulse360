@@ -5,7 +5,7 @@ countryCode: CA
 description: Kurtis David Harder, a Canadian filmmaker known for the "Influencer"
   films, has signed with WME. This move aims to expand his efforts in genre filmmaking
   and beyond.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-18T16:30:00Z'

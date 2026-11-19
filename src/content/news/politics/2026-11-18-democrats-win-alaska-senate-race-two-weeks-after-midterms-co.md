@@ -5,7 +5,7 @@ countryCode: US
 description: Democrat Mary Peltola has won the Alaska Senate race, defeating incumbent
   Republican Dan Sullivan. This victory concludes a successful midterm election for
   the Democratic Party in…
-displayOrder: 10
+displayOrder: 13
 heroImage: ''
 importance: 65.2
 pubDate: '2026-11-18T10:23:57Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Also, the mobility startup that spun out of Rivian last year has paused
   e-bike deliveries due to battery and software bugs. The company has faced challenges
   in delivering its…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-18T14:56:43Z'

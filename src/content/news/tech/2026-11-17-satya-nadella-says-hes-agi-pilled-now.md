@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft CEO Satya Nadella expressed his belief in the transformative
   potential of artificial general intelligence (AGI) during a recent discussion. He
   highlighted the…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-17T23:41:18Z'
