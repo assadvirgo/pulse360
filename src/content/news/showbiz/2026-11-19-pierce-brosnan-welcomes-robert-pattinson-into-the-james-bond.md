@@ -5,7 +5,7 @@ countryCode: US
 description: Pierce Brosnan has publicly welcomed Robert Pattinson as the new James
   Bond on social media. Brosnan, who portrayed Bond in four films from 1995 to 2002,
   expressed his enthusiasm…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-19T00:14:26Z'

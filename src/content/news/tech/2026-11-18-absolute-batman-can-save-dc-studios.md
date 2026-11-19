@@ -5,7 +5,7 @@ countryCode: US
 description: With James Gunn and Peter Safran leaving their positions as co-heads
   of DC Studios after Skydance's acquisition of Warner Bros. Discovery, the future
   of the cinematic universe is…
-displayOrder: 8
+displayOrder: 13
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-18T21:20:00Z'

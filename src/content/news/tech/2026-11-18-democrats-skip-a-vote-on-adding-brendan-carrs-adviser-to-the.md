@@ -5,7 +5,7 @@ countryCode: US
 description: Senate commerce committee Chair Ted Cruz held a meeting to confirm President
   Donald Trump's nominee to the Federal Communications Commission. The meeting featured
   a significant…
-displayOrder: 4
+displayOrder: 11
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-18T22:05:48Z'

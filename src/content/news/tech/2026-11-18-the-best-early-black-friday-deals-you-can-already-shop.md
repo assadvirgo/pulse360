@@ -3,7 +3,7 @@ category: Tech
 description: The early Black Friday shopping season has begun, with retailers offering
   discounts on various tech products ahead of the official holiday on November 27th.
   While discounts are…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-11-18T18:44:27Z'

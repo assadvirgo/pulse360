@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Variety has announced the honorees for its third annual Faith and Spirituality
   in Entertainment Honors. The event will take place in Los Angeles on December 2.
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 64.8
 pubDate: '2026-11-18T21:12:57Z'

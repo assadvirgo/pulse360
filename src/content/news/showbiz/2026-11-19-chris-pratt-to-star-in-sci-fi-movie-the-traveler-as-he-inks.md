@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Pratt will star in the sci-fi film "The Traveler," which is being
   produced by Paramount Pictures. This project is part of a new three-year first-look
   producing deal that…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-19T00:26:05Z'

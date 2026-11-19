@@ -5,7 +5,7 @@ countryCode: PH
 description: President Donald Trump arrived in the Philippines, where he was welcomed
   by five beauty queens. Upon his arrival, a child presented him with small US and
   Philippine flags, and a…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-18T19:40:36Z'
