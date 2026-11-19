@@ -5,7 +5,7 @@ countryCode: UA
 description: Elon Musk stated that Ukrainian President Volodymyr Zelenskyy is lying
   about disruptions to Starshield in Ukraine and accused him of attempting to misuse
   SpaceX's consumer…
-displayOrder: 9
+displayOrder: 13
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-19T01:39:45Z'

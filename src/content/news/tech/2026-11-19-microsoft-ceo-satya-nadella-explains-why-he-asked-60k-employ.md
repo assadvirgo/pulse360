@@ -5,7 +5,7 @@ countryCode: US
 description: Microsoft CEO Satya Nadella explained the rationale behind offering buyouts
   to 60,000 employees, encouraging them to voluntarily quit instead of implementing
   another large-scale…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-19T00:42:56Z'

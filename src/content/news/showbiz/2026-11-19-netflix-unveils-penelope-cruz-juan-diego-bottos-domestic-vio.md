@@ -5,7 +5,7 @@ countryCode: US
 description: Netflix has announced the start of production on the domestic violence
   drama "Patricia," starring and produced by Penélope Cruz. The film is directed by
   Juan Diego Botto and is…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 63.0
 pubDate: '2026-11-19T08:00:03Z'

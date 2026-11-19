@@ -5,7 +5,7 @@ countryCode: US
 description: The US has lost its measles elimination status after 26 years due to
   ongoing outbreaks. This marks a significant public health setback as the country
   faces its largest outbreak in…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 63.5
 pubDate: '2026-11-18T20:18:25Z'
