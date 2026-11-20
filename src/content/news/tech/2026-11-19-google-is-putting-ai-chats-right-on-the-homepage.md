@@ -5,7 +5,7 @@ countryCode: US
 description: Google is updating its homepage to include AI searches. Users will now
   be able to open a collapsible sidebar to view and continue their AI chats, as demonstrated
   by Google's vice…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-19T20:05:06Z'

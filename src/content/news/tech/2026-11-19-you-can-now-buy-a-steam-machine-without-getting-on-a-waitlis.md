@@ -5,7 +5,7 @@ countryCode: US
 description: Valve announced updates regarding the availability of Steam Machines,
   stating that customers can now purchase a 512GB Steam Machine without needing to
   join a waitlist. Previously,…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-19T19:33:22Z'
