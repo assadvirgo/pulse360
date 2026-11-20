@@ -5,7 +5,7 @@ countryCode: US
 description: Meta has announced that it now offers over 150 3D movies for purchase
   or rental on its Quest 3 and 3S VR headsets. The movies can be accessed through
   Meta's TV app.
-displayOrder: 9
+displayOrder: 10
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-19T21:12:06Z'

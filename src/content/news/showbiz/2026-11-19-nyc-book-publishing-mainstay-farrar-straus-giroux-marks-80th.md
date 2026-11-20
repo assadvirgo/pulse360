@@ -5,7 +5,7 @@ countryCode: US
 description: Farrar, Straus & Giroux, a prominent book publisher in New York City,
   is celebrating its 80th anniversary. Originally a small boutique publisher, it has
   become a significant…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-19T21:43:53Z'

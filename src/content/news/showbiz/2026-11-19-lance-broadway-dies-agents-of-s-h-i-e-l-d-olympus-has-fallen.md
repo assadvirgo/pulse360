@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: Lance Broadway, a former MLB pitcher turned actor, has died unexpectedly
   at the age of 43. He was found dead in a Dallas, TX apartment complex stairwell.
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-19T21:54:25Z'

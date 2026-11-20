@@ -5,7 +5,7 @@ countryCode: MM
 description: The International Court of Justice has ruled that Myanmar committed genocide
   against the Rohingya minority during a military crackdown in 2017. This unprecedented
   verdict…
-displayOrder: 1
+displayOrder: 4
 heroImage: ''
 importance: 77.2
 pubDate: '2026-11-19T20:07:02Z'

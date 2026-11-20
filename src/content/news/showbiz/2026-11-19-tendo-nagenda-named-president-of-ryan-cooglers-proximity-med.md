@@ -5,7 +5,7 @@ countryCode: US
 description: Tendo Nagenda has been named the President of Proximity Media, a company
   founded by Ryan Coogler, Zinzi Coogler, and Sev Ohanian. The announcement was made
   by the company's heads.
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-19T21:09:39Z'

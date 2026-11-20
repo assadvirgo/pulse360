@@ -5,7 +5,7 @@ countryCode: US
 description: Variety will host its annual Entertainment Summit at CES on January 7
   at Aria Las Vegas. The event will feature executives from major brands including
   the Walt Disney Company,…
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-19T21:31:44Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge is set to rule on whether the Kennedy Center can move
   forward with its plan to close for two years for renovations. Concerns have been
   raised regarding the…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-11-19T22:43:48Z'

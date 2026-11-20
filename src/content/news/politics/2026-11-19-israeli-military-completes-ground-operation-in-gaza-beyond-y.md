@@ -5,7 +5,7 @@ countryCode: IL
 description: The Israeli military has completed a ground operation in Gaza beyond
   the Yellow Line, which Hamas has condemned as a violation of the ceasefire. The
   operation aimed to dismantle a…
-displayOrder: 11
+displayOrder: 13
 heroImage: ''
 importance: 73.2
 pubDate: '2026-11-19T11:07:37Z'
