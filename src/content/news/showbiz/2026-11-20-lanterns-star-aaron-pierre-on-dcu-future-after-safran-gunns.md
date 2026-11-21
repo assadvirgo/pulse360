@@ -5,7 +5,7 @@ countryCode: US
 description: Aaron Pierre, who starred as John Stewart in the HBO and DC Studios series
   "Lanterns," commented on the uncertainty surrounding the future of the DC Universe
   following the exit of…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-11-20T23:50:33Z'

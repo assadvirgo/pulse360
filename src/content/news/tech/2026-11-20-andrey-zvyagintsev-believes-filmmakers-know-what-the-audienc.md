@@ -5,7 +5,7 @@ countryCode: RU
 description: Andrey Zvyagintsev's film "Minotaur," set in the fictional town of Krasoborsk,
   explores the lives of a couple, Gleb and Galina, against the backdrop of geopolitical
   tensions…
-displayOrder: 8
+displayOrder: 12
 heroImage: ''
 importance: 65.2
 pubDate: '2026-11-20T16:00:00Z'

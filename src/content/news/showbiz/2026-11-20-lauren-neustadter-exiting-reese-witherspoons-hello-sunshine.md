@@ -5,7 +5,7 @@ countryCode: US
 description: Lauren Neustadter, President of Film and Television at Hello Sunshine,
   is leaving the company after nearly a decade. Her departure follows a recent acquisition
   of the company by…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-11-20T22:37:32Z'
