@@ -5,7 +5,7 @@ countryCode: US
 description: Ivy Lion Productions has secured development capital for IP acquisitions
   and has changed its management from Zero Gravity to the Gotham Group. Lamar Richardson,
   who runs Ivy Lion,…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-20T16:15:00Z'

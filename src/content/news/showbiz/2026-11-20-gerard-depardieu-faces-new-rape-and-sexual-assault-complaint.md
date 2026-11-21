@@ -5,7 +5,7 @@ countryCode: FR
 description: French actor Gérard Depardieu is facing a new complaint alleging rape
   and sexual assault during the filming of Guillaume Nicloux’s “Thalasso” in 2018.
   The complaint also names…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 55.8
 pubDate: '2026-11-20T16:03:20Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Signal is implementing restrictions on screenshot capabilities for its
   app on Android and iOS devices. This move aims to prevent AI agents, such as Gemini
   and Siri, from accessing…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-20T12:30:47Z'

@@ -5,7 +5,7 @@ countryCode: FR
 description: Sofia Coppola paid tribute to her late mother, Eleanor Coppola, at the
   Paris premiere of the documentary “Making Marie Antoinette.” The documentary, directed
   by Sofia Coppola,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-20T15:38:10Z'

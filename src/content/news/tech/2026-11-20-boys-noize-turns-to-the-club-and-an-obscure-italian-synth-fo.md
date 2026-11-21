@@ -3,7 +3,7 @@ category: Tech
 description: Alex Ridha, known as Boys Noize, has released a new record titled 7LLVSION.
   The album's creation was not directly influenced by his collaboration with Nine
   Inch Nails, although he…
-displayOrder: 3
+displayOrder: 11
 heroImage: ''
 importance: 59.2
 pubDate: '2026-11-20T16:22:15Z'
