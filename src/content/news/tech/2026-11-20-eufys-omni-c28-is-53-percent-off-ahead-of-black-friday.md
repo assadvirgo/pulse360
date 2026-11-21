@@ -5,7 +5,7 @@ countryCode: US
 description: Eufy's Omni C28 robot vacuum and mop hybrid is currently available at
   a discounted price ahead of Black Friday. The vacuum is priced at $379.99, reflecting
   a $420 reduction from…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-11-20T19:15:00Z'

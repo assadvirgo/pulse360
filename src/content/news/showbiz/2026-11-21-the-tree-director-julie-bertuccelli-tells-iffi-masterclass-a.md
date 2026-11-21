@@ -5,7 +5,7 @@ countryCode: FR
 description: French filmmaker Julie Bertuccelli discussed her experiences at the IFFI
   Masterclass, revealing that her adaptation of Henning Mankell's novel "Italian Shoes"
   was taken from her…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-21T11:55:26Z'

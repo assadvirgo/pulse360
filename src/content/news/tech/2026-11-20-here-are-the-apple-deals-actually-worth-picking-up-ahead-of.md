@@ -5,7 +5,7 @@ countryCode: US
 description: A new report discusses Apple deals available ahead of Black Friday, highlighting
   the potential for savings on popular products like AirPods and the latest Apple
   Watch. The report…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-20T17:33:59Z'

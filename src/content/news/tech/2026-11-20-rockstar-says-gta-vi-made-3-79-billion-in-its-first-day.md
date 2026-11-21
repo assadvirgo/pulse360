@@ -5,7 +5,7 @@ countryCode: US
 description: GTA VI earned $3.79 billion in its first day of sales, setting a new
   record for entertainment across any medium, according to an announcement from Rockstar
   Games. The game also…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-20T19:35:06Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Google has announced plans to make significant changes to its smart home
   software. The company will retire Google Assistant on its smart home devices and
   shut down the Nest app in…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-11-20T18:00:00Z'
