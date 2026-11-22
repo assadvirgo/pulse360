@@ -3,7 +3,7 @@ category: Tech
 description: The United Nations failed to reach an agreement on regulations for autonomous
   weapons, referred to as "killer robots," during a meeting in Geneva. Representatives
   concluded the…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-21T20:03:37Z'

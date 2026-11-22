@@ -5,7 +5,7 @@ countryCode: US
 description: The representation of women composers in Hollywood remains low, with
   only eight of this year's top 100 grossing films featuring original scores by women.
   This marks a decline from…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-11-21T17:25:00Z'

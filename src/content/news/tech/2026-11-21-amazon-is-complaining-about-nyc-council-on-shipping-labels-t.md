@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon is opposing the New York City Council's Delivery Protection Act
   by placing labels on shipments. The labels assert that the Council's actions could
   increase the cost of…
-displayOrder: 2
+displayOrder: 8
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-21T21:59:31Z'
