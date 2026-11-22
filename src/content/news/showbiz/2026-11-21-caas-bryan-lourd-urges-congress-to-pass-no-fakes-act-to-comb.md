@@ -5,7 +5,7 @@ countryCode: US
 description: Creative Arts Agency CEO Bryan Lourd has called on Congress to pass the
   NO FAKES Act, which aims to regulate unauthorized AI deepfakes. Lourd expressed
   his views in a New York…
-displayOrder: 5
+displayOrder: 10
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-21T17:10:18Z'

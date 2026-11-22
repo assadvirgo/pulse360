@@ -5,7 +5,7 @@ countryCode: US
 description: Steven Paul, a special advisor to former President Donald Trump, expressed
   hope that a U.S. federal tax credit will be "active" in some form by January 2027.
   He made these…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-21T10:29:05Z'

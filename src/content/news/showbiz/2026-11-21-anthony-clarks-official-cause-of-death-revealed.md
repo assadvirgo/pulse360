@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: An official cause of death for comedian Anthony Clark has been reported.
   He passed away on November 10 at the age of 63.
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-21T13:33:03Z'

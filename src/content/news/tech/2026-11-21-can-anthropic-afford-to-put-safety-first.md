@@ -5,7 +5,7 @@ countryCode: US
 description: Anthropic, the AI lab known for its Claude model, went public on the
   Nasdaq last Thursday. This event is part of a series discussing AI in real life,
   featuring insights from The…
-displayOrder: 9
+displayOrder: 12
 heroImage: ''
 importance: 50.2
 pubDate: '2026-11-21T15:00:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Chess.com is expanding its offerings beyond chess with the launch of
   a new Classic Games platform. The platform will include ten additional games, enhancing
   the company's gaming…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-21T14:00:00Z'

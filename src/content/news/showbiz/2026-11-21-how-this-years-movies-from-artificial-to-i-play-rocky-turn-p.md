@@ -5,7 +5,7 @@ countryCode: US
 description: For years, Simon Rich has aimed to raise awareness about artificial intelligence
   (AI). He collaborated with his childhood friend Dan Selsam, who worked as a researcher
   at OpenAI,…
-displayOrder: 2
+displayOrder: 4
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-21T17:05:00Z'

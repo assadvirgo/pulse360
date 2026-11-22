@@ -5,7 +5,7 @@ countryCode: US
 description: Harbinger, an electric truck maker, has raised $240 million in a Series
   D funding round. This follows a significant $300 million order from FedEx and a
   new defense contract with…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-21T12:00:00Z'
