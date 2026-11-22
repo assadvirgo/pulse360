@@ -5,7 +5,7 @@ countryCode: GB
 description: Coventry City secured a 3-2 victory over Crystal Palace, aided by a late
   own goal from Dwight McNeil in the 85th minute. This match marked Thomas Frank's
   first game in charge of…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 30.2
 pubDate: '2026-11-21T19:58:52Z'

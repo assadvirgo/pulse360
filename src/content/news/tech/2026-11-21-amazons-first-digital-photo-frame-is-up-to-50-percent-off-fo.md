@@ -5,7 +5,7 @@ countryCode: US
 description: Amazon has announced a significant discount on its first digital photo
   frame, the Alexa Photo Frame, for Black Friday. The frame, which was introduced
   less than a month ago, is…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-21T16:00:00Z'

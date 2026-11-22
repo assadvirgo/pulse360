@@ -5,7 +5,7 @@ countryCode: US
 description: Filmmaker James Gray shared how a piece of advice from Francis Ford Coppola
   influenced his career. Gray wrote a fan letter to Coppola as a teenager, and the
   legendary director…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 38.8
 pubDate: '2026-11-22T10:15:50Z'

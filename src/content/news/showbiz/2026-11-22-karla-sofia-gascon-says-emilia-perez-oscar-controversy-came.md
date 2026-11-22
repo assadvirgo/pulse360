@@ -5,7 +5,7 @@ countryCode: ES
 description: Spanish actor Karla Sofia Gascon stated that the controversy surrounding
   her Oscar nomination for "Emilia Pérez" stemmed from individuals who did not want
   to see someone like her…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-22T07:39:54Z'

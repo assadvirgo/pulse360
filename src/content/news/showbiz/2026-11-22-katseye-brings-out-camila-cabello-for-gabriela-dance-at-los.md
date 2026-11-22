@@ -5,7 +5,7 @@ countryCode: US
 description: Katseye featured Camila Cabello during their performance in Los Angeles,
   inviting her on stage to dance to their song "Gabriela." This occurred roughly six
   songs into their set.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 40.8
 pubDate: '2026-11-22T08:04:12Z'

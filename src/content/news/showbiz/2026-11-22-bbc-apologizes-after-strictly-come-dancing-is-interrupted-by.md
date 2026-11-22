@@ -5,7 +5,7 @@ countryCode: GB
 description: The BBC has issued an apology to viewers following an incident during
   the live show of "Strictly Come Dancing" at Blackpool's Tower Ballroom, where lewd
   noises were heard. The…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 41.0
 pubDate: '2026-11-22T10:36:00Z'
