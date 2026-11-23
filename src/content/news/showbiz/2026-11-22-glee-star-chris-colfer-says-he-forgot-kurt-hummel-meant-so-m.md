@@ -5,7 +5,7 @@ countryCode: US
 description: Chris Colfer discussed the significance of his character, Kurt Hummel,
   from "Glee," reflecting on the impact it had on viewers. He mentioned that he had
   forgotten how much the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-22T21:31:30Z'

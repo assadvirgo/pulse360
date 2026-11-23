@@ -3,7 +3,7 @@ category: Tech
 description: Sheherazaad has released her debut LP titled Khudgarzi, which features
   a blend of traditional South Asian music styles. The album is primarily sung in
   Urdu and showcases a…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 50.2
 pubDate: '2026-11-22T16:33:29Z'

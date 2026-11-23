@@ -5,7 +5,7 @@ countryCode: KR
 description: Showbox's mystery thriller "White Blast" debuted at No. 1 in the South
   Korean box office over the weekend of November 20-22, ending the five-week reign
   of the Japanese anime…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-23T04:49:39Z'

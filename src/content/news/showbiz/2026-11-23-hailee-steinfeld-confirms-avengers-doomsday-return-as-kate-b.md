@@ -5,7 +5,7 @@ countryCode: US
 description: 'Hailee Steinfeld will reprise her role as Kate Bishop in the upcoming
   film "Avengers: Doomsday." The announcement was made by Marvel Studios and Disney
   Animation through an…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-23T01:32:26Z'

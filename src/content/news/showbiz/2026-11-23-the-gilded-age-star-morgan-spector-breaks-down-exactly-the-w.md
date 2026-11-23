@@ -5,7 +5,7 @@ countryCode: US
 description: Morgan Spector, a star of "The Gilded Age," discussed the implications
   of George Russell's gunshot wound as the show reaches its midpoint in Season 4.
   He noted that this event is…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-11-23T03:00:00Z'
