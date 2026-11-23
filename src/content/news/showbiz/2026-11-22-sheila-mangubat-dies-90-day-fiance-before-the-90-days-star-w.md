@@ -5,7 +5,7 @@ countryCode: PH
 description: Sheila Mangubat, a participant in TLC's 90 Day Fiancé franchise, has
   died at the age of 35. Her death was announced by David Dangerfield, who dated her
   on the show, and occurred…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-22T16:41:07Z'

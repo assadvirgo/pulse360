@@ -5,7 +5,7 @@ countryCode: US
 description: Rian Johnson expressed optimism about the future of indie filmmaking,
   highlighting the role of YouTube in helping early-career filmmakers gain visibility.
   He made these comments…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-22T17:40:00Z'

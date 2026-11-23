@@ -4,7 +4,7 @@ country: United States
 countryCode: US
 description: 'Joseph Zada has taken on the leading role in "The Hunger Games: Sunrise
   on the Reaping." His first day on set involved filming the opening cornucopia scene.'
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-22T20:30:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The Verge published a review of Apple's HomeView, the company's first
   smart display, addressing numerous questions about its audio capabilities and functionality
   as a smart…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 44.2
 pubDate: '2026-11-22T13:00:00Z'

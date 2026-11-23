@@ -5,7 +5,7 @@ countryCode: US
 description: 'The developer of The Binding of Isaac: Repentance Plus has removed AI-generated
   music from the game following backlash from players. The removal comes after a segment
   of the game…'
-displayOrder: 8
+displayOrder: 9
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-22T17:25:20Z'

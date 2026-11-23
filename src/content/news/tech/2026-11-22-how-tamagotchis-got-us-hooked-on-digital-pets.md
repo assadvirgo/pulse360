@@ -3,7 +3,7 @@ category: Tech
 description: Tamagotchis, tiny digital pets, became an overnight sensation in the
   late 1990s, captivating millions of children. Many kids either owned a Tamagotchi
   or were familiar with…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 54.2
 pubDate: '2026-11-22T13:15:27Z'
