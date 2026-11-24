@@ -5,7 +5,7 @@ countryCode: US
 description: Kodak has introduced a new product called the Kodak SlideTag, a tiny
   digital photo frame that also functions as a tracker. This follows the expansion
   of its Charmera collection,…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 42.2
 pubDate: '2026-11-23T03:00:00Z'

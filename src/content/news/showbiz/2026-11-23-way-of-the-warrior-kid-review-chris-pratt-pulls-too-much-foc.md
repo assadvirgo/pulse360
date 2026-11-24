@@ -5,7 +5,7 @@ countryCode: US
 description: The film "Way of the Warrior Kid," featuring Chris Pratt, attempts to
   convey two lessons but ultimately falls short, according to a review by Variety.
   The movie is adapted from a…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-23T18:08:17Z'

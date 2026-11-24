@@ -5,7 +5,7 @@ countryCode: US
 description: The White House has stated that President Donald Trump was significantly
   involved in the reinstatement of Jensen Huang as CEO of Nvidia. White House communications
   director Steven…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-23T16:30:11Z'

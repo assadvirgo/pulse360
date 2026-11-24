@@ -5,7 +5,7 @@ countryCode: US
 description: Taylor Swift presented Brenda Lee with a plaque recognizing the diamond-selling
   status of Lee's song "Rockin' Around the Christmas Tree." This event took place
   during Swift's…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-23T18:22:51Z'

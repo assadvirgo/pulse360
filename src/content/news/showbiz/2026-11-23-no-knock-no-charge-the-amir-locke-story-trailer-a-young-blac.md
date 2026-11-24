@@ -5,7 +5,7 @@ countryCode: US
 description: A trailer for the documentary "No Knock – No Charge? The Amir Locke Story"
   has been released, focusing on the police shooting of Amir Locke in Minneapolis.
   The incident occurred…
-displayOrder: 1
+displayOrder: 7
 heroImage: ''
 importance: 70.0
 pubDate: '2026-11-23T18:57:29Z'

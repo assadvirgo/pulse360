@@ -5,7 +5,7 @@ countryCode: US
 description: Alienware's AW2726DM QD-OLED gaming monitor is currently priced at $280,
   down from its original price of $349.99. The monitor has been noted for its impressive
   specifications and…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-23T16:00:00Z'

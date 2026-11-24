@@ -5,7 +5,7 @@ countryCode: US
 description: A record number of films are eligible for the Oscars this season, according
   to the Academy of Motion Picture Arts and Sciences. The announcement includes 104
   international…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-23T19:00:00Z'

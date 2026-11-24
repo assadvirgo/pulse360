@@ -5,7 +5,7 @@ countryCode: ES
 description: 'Production designer Uli Hanisch is working on the upcoming film "Hunger
   Games: Sunrise on the Reaping," which is being shot in Asturias, Spain. The location
   is a remote town that…'
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 51.8
 pubDate: '2026-11-23T19:15:00Z'

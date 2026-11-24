@@ -5,7 +5,7 @@ countryCode: US
 description: Nothing has announced its upcoming Ear Note, a pair of earbuds designed
   to record and transcribe conversations. The device includes a microphone-equipped
   charging case and a…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 49.2
 pubDate: '2026-11-23T19:04:52Z'

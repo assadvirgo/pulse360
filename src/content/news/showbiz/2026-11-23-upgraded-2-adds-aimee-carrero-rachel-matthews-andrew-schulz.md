@@ -5,7 +5,7 @@ countryCode: US
 description: The cast of "Upgraded 2" has been expanded with the addition of four
   actors who will reprise their original roles. Aimee Carrero, Rachel Matthews, Andrew
   Schulz, and Saoirse…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 50.0
 pubDate: '2026-11-23T19:00:00Z'
