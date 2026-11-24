@@ -5,7 +5,7 @@ countryCode: US
 description: Jensen Huang has been reinstated as CEO of Nvidia following discussions
   over the weekend that involved Donald Trump. The interim chief and senior management
   were reportedly…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 60.5
 pubDate: '2026-11-23T18:48:33Z'

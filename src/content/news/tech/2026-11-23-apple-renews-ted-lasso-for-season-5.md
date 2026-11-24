@@ -5,7 +5,7 @@ countryCode: US
 description: Apple has announced the renewal of its popular show "Ted Lasso" for a
   fifth season on Apple TV. This decision follows what the company describes as a
   "record-breaking season four…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-23T20:56:00Z'

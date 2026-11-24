@@ -5,7 +5,7 @@ countryCode: US
 description: 'Production has begun on "Hooters: The Movie," which is filming in the
   Tampa Bay, Florida area. The film features Owen Patrick Joyner, Kyle Clark, and
   Audrey Trullinger in leading…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 57.0
 pubDate: '2026-11-24T01:41:15Z'

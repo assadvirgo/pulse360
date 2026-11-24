@@ -5,7 +5,7 @@ countryCode: US
 description: Jensen Huang has been reappointed as CEO of Nvidia, a move that surprised
   many observers. The decision reportedly received support from President Donald Trump
   and Vice President…
-displayOrder: 3
+displayOrder: 12
 heroImage: ''
 importance: 68.2
 pubDate: '2026-11-23T22:09:26Z'

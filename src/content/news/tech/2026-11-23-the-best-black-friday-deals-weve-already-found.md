@@ -3,7 +3,7 @@ category: Tech
 description: The countdown to Black Friday is underway, with many retailers already
   offering early discounts on tech products. Although Black Friday is officially on
   November 27th, discounts…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 66.2
 pubDate: '2026-11-23T17:14:20Z'

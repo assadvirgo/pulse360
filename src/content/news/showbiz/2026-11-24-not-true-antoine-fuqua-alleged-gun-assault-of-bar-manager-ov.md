@@ -5,7 +5,7 @@ countryCode: US
 description: Antoine Fuqua has been accused of assault and battery by a bar manager
   in Los Angeles, according to a civil claim filed in the Los Angeles Superior Court.
   The allegations include…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 51.0
 pubDate: '2026-11-24T01:50:35Z'

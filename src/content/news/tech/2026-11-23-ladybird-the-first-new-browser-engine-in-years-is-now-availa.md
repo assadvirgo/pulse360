@@ -5,7 +5,7 @@ countryCode: US
 description: Ladybird, an independent web browser featuring a newly developed engine,
   is now available for testing. The browser was announced by developer Andreas Kling
   and is launching in…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-23T22:38:09Z'

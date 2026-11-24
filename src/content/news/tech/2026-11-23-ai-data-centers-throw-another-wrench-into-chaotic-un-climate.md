@@ -5,7 +5,7 @@ countryCode: TR
 description: The recent United Nations climate conference, COP31, faced challenges
   related to the increasing demand for energy from data centers. Delegates discussed
   the implications of this…
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-23T21:09:37Z'
