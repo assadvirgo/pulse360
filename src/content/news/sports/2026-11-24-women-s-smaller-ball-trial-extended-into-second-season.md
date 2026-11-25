@@ -5,7 +5,7 @@ countryCode: GB
 description: World Rugby has extended the women's 4.5 ball trial into a second season.
   This decision follows the release of data indicating improvements in various aspects
   of the game, along…
-displayOrder: 11
+displayOrder: 13
 heroImage: ''
 importance: 34.2
 pubDate: '2026-11-24T14:00:37Z'

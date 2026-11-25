@@ -5,7 +5,7 @@ countryCode: US
 description: Nvidia's CEO Jensen Huang has returned to the company, prompting various
   reactions regarding the implications of his reinstatement. Concerns have been raised
   about potential…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 51.5
 pubDate: '2026-11-23T23:06:03Z'

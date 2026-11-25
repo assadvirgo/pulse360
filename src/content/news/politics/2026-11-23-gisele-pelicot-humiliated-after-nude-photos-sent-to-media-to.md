@@ -5,7 +5,7 @@ countryCode: FR
 description: Gisèle Pelicot expressed feelings of shock and humiliation after nude
   photos of her were sent to the media without her consent to promote her new book
   on coercive control. The…
-displayOrder: 17
+displayOrder: 999
 heroImage: ''
 importance: 51.2
 pubDate: '2026-11-23T21:24:47Z'
