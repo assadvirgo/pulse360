@@ -5,7 +5,7 @@ countryCode: US
 description: The Academy's Visual Effects Branch has revealed the top 20 films in
   the running for the visual effects category at the upcoming Oscars. Disney leads
   with four titles among the…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-25T01:57:22Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Wyze has announced its new Window Bird Cam, which features a window-mounted
   camera designed to record birds from inside the home. This product builds on a previous
   security camera…
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-24T15:14:05Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Tidal will begin banning AI-generated music on December 9th. The platform
   plans to delete approximately 29 million AI-generated songs and will reject an estimated
   80,000 to 85,000…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-24T17:17:09Z'

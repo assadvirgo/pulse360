@@ -5,7 +5,7 @@ countryCode: US
 description: ABC has announced that Rei Ami will host its new musical competition
   series, "Who's In The Band?" Rei Ami is known for her role as the singing voice
   of Zoey in the Netflix…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-25T03:00:00Z'

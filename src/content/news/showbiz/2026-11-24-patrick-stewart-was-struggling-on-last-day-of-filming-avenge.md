@@ -5,7 +5,7 @@ countryCode: US
 description: 'Marvel Studios is preparing to honor the late Patrick Stewart in the
   upcoming film "Avengers: Doomsday," which marks his final on-screen appearance.
   Stewart''s last day of filming…'
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 76.8
 pubDate: '2026-11-24T23:27:20Z'

@@ -3,7 +3,7 @@ category: Showbiz
 description: The Golden Globes nominations process has begun, with 170 films and 475
   actors competing for recognition. Variety's Awards Circuit section provides predictions
   for various awards,…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 67.8
 pubDate: '2026-11-25T02:35:00Z'

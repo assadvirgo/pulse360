@@ -5,7 +5,7 @@ countryCode: US
 description: Philip Rosenberg, an Oscar-winning production designer known for his
   work on "All That Jazz," has died at the age of 91. He passed away on October 28
   in West Palm Beach, Florida,…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-25T00:50:47Z'

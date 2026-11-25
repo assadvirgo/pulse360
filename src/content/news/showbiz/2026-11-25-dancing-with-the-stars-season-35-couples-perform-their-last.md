@@ -5,7 +5,7 @@ countryCode: US
 description: The finale of Season 35 of "Dancing With the Stars" features five remaining
   celebrities competing for the Len Goodman Mirrorball Trophy. The contestants are
   Tatyana Ali, Ezra…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-25T00:58:00Z'
