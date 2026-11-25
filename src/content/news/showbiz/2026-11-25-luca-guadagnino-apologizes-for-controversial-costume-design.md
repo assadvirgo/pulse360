@@ -5,7 +5,7 @@ countryCode: IT
 description: Luca Guadagnino apologized to costume designers at the Marrakech Film
   Festival after facing backlash for his previous comments about preferring to work
   with fashion designers.…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 47.8
 pubDate: '2026-11-25T13:40:08Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Yale's Jeffrey Sonnenfeld has expressed concerns regarding Nvidia, suggesting
   that the company's recent developments could be detrimental to U.S. industrial strength.
   He cautioned…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 70.0
 pubDate: '2026-11-25T00:12:02Z'

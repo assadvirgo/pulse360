@@ -5,7 +5,7 @@ countryCode: US
 description: Donald Trump is preparing to raise tariffs on several major economies,
   including China and the European Union. Reports indicate that Japan and South Korea
   will also be affected by…
-displayOrder: 12
+displayOrder: 15
 heroImage: ''
 importance: 58.0
 pubDate: '2026-11-25T02:45:00Z'

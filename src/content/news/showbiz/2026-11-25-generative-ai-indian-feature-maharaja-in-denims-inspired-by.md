@@ -5,7 +5,7 @@ countryCode: IN
 description: A feature-length generative AI film titled "Maharaja in Denims," inspired
   by the life of 19th-century Sikh ruler Maharaja Ranjit Singh, is nearing completion.
   The film is based on…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-25T12:17:16Z'
