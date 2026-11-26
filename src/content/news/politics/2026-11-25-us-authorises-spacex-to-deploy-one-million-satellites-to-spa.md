@@ -5,7 +5,7 @@ countryCode: US
 description: The US Federal Communications Commission has authorized SpaceX to deploy
   one million satellites for data centers in space. This approval is part of SpaceX's
   Starmind project.
-displayOrder: 12
+displayOrder: 999
 heroImage: ''
 importance: 54.0
 pubDate: '2026-11-25T18:03:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: Google's Familiar Faces AI feature is now compatible with select Walmart
   smart home cameras. The update allows the $35 Onn Outdoor Camera Plug-In and the
   $77 Onn Floodlight Camera…
-displayOrder: 4
+displayOrder: 15
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-26T00:04:34Z'

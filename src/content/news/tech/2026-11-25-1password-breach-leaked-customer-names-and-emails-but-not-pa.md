@@ -5,7 +5,7 @@ countryCode: US
 description: 1Password reported a breach in which a hacker accessed its backend systems,
   leading to the theft of customer names and email addresses. The company stated that
   passwords and other…
-displayOrder: 13
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-25T19:10:15Z'

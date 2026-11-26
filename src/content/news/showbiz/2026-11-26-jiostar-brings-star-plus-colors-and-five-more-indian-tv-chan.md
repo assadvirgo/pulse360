@@ -5,7 +5,7 @@ countryCode: US
 description: JioStar has launched seven Indian television channels on the live TV
   service Fubo in the U.S. This includes popular Hindi-language channels such as Star
   Plus and Colors.
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 41.8
 pubDate: '2026-11-26T06:27:20Z'

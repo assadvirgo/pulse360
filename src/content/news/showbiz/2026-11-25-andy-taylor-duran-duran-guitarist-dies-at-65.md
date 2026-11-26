@@ -5,7 +5,7 @@ countryCode: US
 description: Guitarist Andy Taylor, known for his role in the band Duran Duran, has
   died at the age of 65. He passed away at his home from prostate cancer while surrounded
   by family.
-displayOrder: 8
+displayOrder: 999
 heroImage: ''
 importance: 62.8
 pubDate: '2026-11-25T21:24:39Z'

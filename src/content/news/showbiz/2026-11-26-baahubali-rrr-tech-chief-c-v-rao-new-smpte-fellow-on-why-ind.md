@@ -5,7 +5,7 @@ countryCode: IN
 description: C.V. Rao, the chief technology officer at Annapurna Studios in Hyderabad,
   has been named a Fellow of the Society of Motion Picture and Television Engineers
   (SMPTE). He is…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-26T02:57:01Z'

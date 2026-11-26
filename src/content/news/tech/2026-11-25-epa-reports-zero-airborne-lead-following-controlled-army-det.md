@@ -5,7 +5,7 @@ countryCode: US
 description: The US Army conducted a controlled detonation of over 9,700 pounds of
   lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa. The detonation
   was deemed necessary to…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-25T19:45:51Z'

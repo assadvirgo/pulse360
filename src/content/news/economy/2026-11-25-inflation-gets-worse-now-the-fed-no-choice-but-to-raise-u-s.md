@@ -5,7 +5,7 @@ countryCode: US
 description: The measure of inflation used by the Federal Reserve rose again in October
   at an accelerated rate, indicating that the central bank will likely increase borrowing
   costs next month.
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 46.5
 pubDate: '2026-11-25T13:34:00Z'

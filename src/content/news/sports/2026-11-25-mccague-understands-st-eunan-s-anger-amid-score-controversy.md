@@ -5,7 +5,7 @@ countryCode: GB
 description: Scotstown manager David McCague has acknowledged the anger expressed
   by St Eunan's following a score controversy in their Ulster Club SFC semi-final
   match. St Eunan's has lodged a…
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-25T11:23:43Z'
