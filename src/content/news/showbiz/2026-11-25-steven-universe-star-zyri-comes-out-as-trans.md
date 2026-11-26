@@ -5,7 +5,7 @@ countryCode: US
 description: Zyri, known for voicing the titular character in "Steven Universe" and
   for their role as Brian Corbett on "The Goldbergs," has come out as transgender.
   In a Substack post, Zyri…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-25T21:12:35Z'

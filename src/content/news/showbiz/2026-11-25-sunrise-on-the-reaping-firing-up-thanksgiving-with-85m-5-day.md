@@ -5,7 +5,7 @@ countryCode: US
 description: 'Lionsgate anticipates a strong Thanksgiving box office for "The Hunger
   Games: Sunrise on the Reaping," projecting earnings of over $85 million over the
   five-day holiday period.…'
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-25T23:10:00Z'

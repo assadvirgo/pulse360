@@ -3,7 +3,7 @@ category: Showbiz
 description: Michael Giles, the original drummer of King Crimson, has died at the
   age of 84. His passing was announced in a post on the band's website. No cause of
   death has been provided.
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 57.8
 pubDate: '2026-11-25T23:09:43Z'

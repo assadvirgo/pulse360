@@ -5,7 +5,7 @@ countryCode: US
 description: Constance Wang, the former COO of FTX, criticized the portrayal of her
   character in Netflix's series "The Altruists." She described the depiction as "very
   stereotypical" and…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 56.0
 pubDate: '2026-11-25T23:13:58Z'

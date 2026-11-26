@@ -5,7 +5,7 @@ countryCode: US
 description: Google filed a patent for a system called My Channel, which aims to generate
   personalized, AI-generated video feeds and advertisements based on user information.
   The patent has…
-displayOrder: 7
+displayOrder: 10
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-25T21:51:26Z'
