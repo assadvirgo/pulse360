@@ -5,7 +5,7 @@ countryCode: MM
 description: Myanmar's leader announced that the government will not comply with all
   measures ordered by the International Court of Justice (ICJ) following a ruling
   that found Myanmar guilty…
-displayOrder: 12
+displayOrder: 16
 heroImage: ''
 importance: 54.0
 pubDate: '2026-11-26T10:48:00Z'

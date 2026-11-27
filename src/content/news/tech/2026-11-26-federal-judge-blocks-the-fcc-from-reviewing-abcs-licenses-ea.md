@@ -5,7 +5,7 @@ countryCode: US
 description: A federal judge has issued a preliminary injunction preventing the Federal
   Communications Commission (FCC) from conducting an early review of ABC's broadcast
   licenses. The judge…
-displayOrder: 6
+displayOrder: 13
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-26T16:38:00Z'

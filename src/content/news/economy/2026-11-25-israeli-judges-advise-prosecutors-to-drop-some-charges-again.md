@@ -5,7 +5,7 @@ countryCode: IL
 description: Israeli judges have advised prosecutors to drop some charges against
   Prime Minister Netanyahu, indicating a low likelihood of a bribery conviction. This
   recommendation comes as…
-displayOrder: 16
+displayOrder: 999
 heroImage: ''
 importance: 50.5
 pubDate: '2026-11-25T23:18:48Z'

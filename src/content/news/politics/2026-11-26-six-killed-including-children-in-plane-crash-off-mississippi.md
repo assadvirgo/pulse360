@@ -5,7 +5,7 @@ countryCode: US
 description: A plane crash off the coast of Mississippi has resulted in the deaths
   of six individuals, including two children. US authorities are currently investigating
   the cause of the crash.
-displayOrder: 13
+displayOrder: 17
 heroImage: ''
 importance: 57.5
 pubDate: '2026-11-26T04:48:42Z'

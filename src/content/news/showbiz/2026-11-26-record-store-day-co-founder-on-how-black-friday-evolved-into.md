@@ -5,7 +5,7 @@ countryCode: US
 description: The 19th installment of Record Store Day in April 2023 was reported as
   the most successful ever. Another opportunity for vinyl enthusiasts is approaching
   with Record Store Day…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-26T16:43:10Z'

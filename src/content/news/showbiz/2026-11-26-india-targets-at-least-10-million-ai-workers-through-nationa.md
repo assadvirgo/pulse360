@@ -5,7 +5,7 @@ countryCode: IN
 description: India plans to bring at least 10 million people into its AI workforce
   through the National AI Talent Mission, according to Lt. Col. Vikram Singh Bhati,
   director of the National…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 54.8
 pubDate: '2026-11-26T12:50:50Z'
