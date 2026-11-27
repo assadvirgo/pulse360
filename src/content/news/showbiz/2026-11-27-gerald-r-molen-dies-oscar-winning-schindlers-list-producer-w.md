@@ -5,7 +5,7 @@ countryCode: US
 description: Gerald R. Molen, an Academy Award-winning producer known for his work
   on Steven Spielberg's "Schindler's List," has died at the age of 91. His death was
   announced by his…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 61.0
 pubDate: '2026-11-27T00:33:50Z'

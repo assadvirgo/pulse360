@@ -5,7 +5,7 @@ countryCode: US
 description: Courtney B. Vance has taken over the role of Zeus in the upcoming Season
   3 of "Percy Jackson and the Olympians," following the death of Lance Reddick. Vance
   expressed his…
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 43.0
 pubDate: '2026-11-26T23:33:41Z'

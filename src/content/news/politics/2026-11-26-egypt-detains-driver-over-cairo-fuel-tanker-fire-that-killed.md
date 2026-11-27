@@ -5,7 +5,7 @@ countryCode: EG
 description: Egyptian authorities have detained a driver suspected of causing a fuel
   tanker crash that resulted in the deaths of 31 people. The driver, who is 21 years
   old, claims he was…
-displayOrder: 4
+displayOrder: 10
 heroImage: ''
 importance: 67.5
 pubDate: '2026-11-26T21:08:44Z'

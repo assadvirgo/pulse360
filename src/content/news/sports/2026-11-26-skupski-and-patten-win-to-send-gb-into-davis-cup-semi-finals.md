@@ -5,7 +5,7 @@ countryCode: GB
 description: Great Britain's Neal Skupski and Henry Patten won a decisive doubles
   match against Germany's Kevin Krawietz and Tim Puetz. This victory secured Great
   Britain's place in the Davis…
-displayOrder: 12
+displayOrder: 15
 heroImage: ''
 importance: 56.2
 pubDate: '2026-11-26T15:54:42Z'

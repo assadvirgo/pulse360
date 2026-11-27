@@ -3,7 +3,7 @@ category: Tech
 description: Google announced that independent Android app developers will be required
   to share their phone number and address publicly starting next year. This policy
   change is intended to…
-displayOrder: 9
+displayOrder: 13
 heroImage: ''
 importance: 59.2
 pubDate: '2026-11-26T17:06:24Z'

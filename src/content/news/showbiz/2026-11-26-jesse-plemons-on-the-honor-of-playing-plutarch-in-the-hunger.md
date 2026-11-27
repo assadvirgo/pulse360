@@ -5,7 +5,7 @@ countryCode: US
 description: 'Oscar nominee Jesse Plemons has been cast as Plutarch Heavensbee in
   the upcoming film "The Hunger Games: Sunrise on the Reaping." Plemons was the first
   person cast in the film,…'
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 50.8
 pubDate: '2026-11-26T22:30:37Z'

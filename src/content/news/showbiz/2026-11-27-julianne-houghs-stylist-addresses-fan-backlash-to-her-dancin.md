@@ -5,7 +5,7 @@ countryCode: US
 description: Julianne Hough's stylist has addressed the backlash from fans regarding
   her wardrobe choices on this season of "Dancing with the Stars." Hough has worn
   "super extravagant and wild…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 60.0
 pubDate: '2026-11-27T02:34:52Z'

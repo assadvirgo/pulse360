@@ -4,7 +4,7 @@ country: United Kingdom
 countryCode: GB
 description: Daniel Sams will return to Somerset for the 2027 T20 Blast campaign.
   This follows his successful first spell at Taunton.
-displayOrder: 15
+displayOrder: 999
 heroImage: ''
 importance: 42.5
 pubDate: '2026-11-26T14:26:17Z'

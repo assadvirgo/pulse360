@@ -5,7 +5,7 @@ countryCode: US
 description: Workers at Grand Theft Auto VI developer Rockstar Games have voted against
   unionization, with only 25 percent of votes in favor of a formal recognition agreement.
   The Independent…
-displayOrder: 14
+displayOrder: 999
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-26T15:55:24Z'
