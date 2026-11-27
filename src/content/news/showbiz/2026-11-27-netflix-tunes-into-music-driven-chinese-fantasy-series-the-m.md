@@ -5,7 +5,7 @@ countryCode: CN
 description: Netflix has acquired the Chinese fantasy drama series The Melody Of Love,
   which will be available in the U.S. and internationally on November 29. The series
   is produced by Stellar…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 47.0
 pubDate: '2026-11-27T12:01:14Z'

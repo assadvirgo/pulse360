@@ -5,7 +5,7 @@ countryCode: ZA
 description: South African President Cyril Ramaphosa attended the launch of Canal+
   Academy in Johannesburg, a new initiative by Canal+ Group aimed at expanding training
   and professional…
-displayOrder: 2
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-27T11:36:44Z'

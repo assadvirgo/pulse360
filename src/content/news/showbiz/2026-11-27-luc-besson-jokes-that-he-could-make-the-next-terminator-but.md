@@ -3,7 +3,7 @@ category: Showbiz
 description: Luc Besson commented on the possibility of making the next 'Terminator'
   film, suggesting he could do so only if the character expressed emotional sentiments,
   such as missing his…
-displayOrder: 5
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-27T11:34:55Z'

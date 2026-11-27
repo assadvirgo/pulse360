@@ -5,7 +5,7 @@ countryCode: ZA
 description: Canal+ launched a skills academy in South Africa, supported by the country's
   President Cyril Ramaphosa. The initiative aims to benefit between 800 and 1,000
   individuals in its…
-displayOrder: 3
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-27T11:43:28Z'

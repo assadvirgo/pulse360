@@ -5,7 +5,7 @@ countryCode: GB
 description: Northern Ireland Screen has appointed Laura Livingstone as its new Chief
   Executive, effective January. She will succeed Richard Williams, who is stepping
   down after over 23 years…
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 53.0
 pubDate: '2026-11-27T09:41:45Z'

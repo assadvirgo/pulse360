@@ -3,7 +3,7 @@ category: Tech
 description: Most Sony, LG, and TCL TVs are currently over 50 percent off for Black
   Friday, according to The Verge. The discounts highlight the significance of televisions
   in daily…
-displayOrder: 8
+displayOrder: 11
 heroImage: ''
 importance: 45.2
 pubDate: '2026-11-27T12:30:00Z'

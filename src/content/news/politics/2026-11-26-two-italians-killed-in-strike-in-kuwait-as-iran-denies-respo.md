@@ -5,7 +5,7 @@ countryCode: KW
 description: Two Italian technicians were killed in Kuwait, reportedly due to debris
   from a drone strike. They were employed by the German company Rheinmetall and were
   working at an…
-displayOrder: 11
+displayOrder: 999
 heroImage: ''
 importance: 68.2
 pubDate: '2026-11-26T17:54:22Z'

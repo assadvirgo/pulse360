@@ -3,7 +3,7 @@ category: Tech
 description: The upcoming Grand Theft Auto VI is set to feature a different kind of
   ending compared to previous titles in the series. Traditionally, Grand Theft Auto
   games leave the world open…
-displayOrder: 7
+displayOrder: 10
 heroImage: ''
 importance: 45.2
 pubDate: '2026-11-27T13:00:00Z'
