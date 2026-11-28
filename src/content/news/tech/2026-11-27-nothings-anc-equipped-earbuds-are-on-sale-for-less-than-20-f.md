@@ -5,7 +5,7 @@ countryCode: US
 description: Nothing's CMF Buds 2A are currently on sale for Black Friday at a price
   starting at $17.89 on Amazon. This price is approximately $11 less than the manufacturer's
   suggested retail…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-27T20:30:00Z'

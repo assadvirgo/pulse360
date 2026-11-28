@@ -5,7 +5,7 @@ countryCode: MA
 description: Director Tala Hadid spent over four years filming the documentary "Bardi,"
   which focuses on the Moroccan equestrian tradition of Tbourida. The project took
   her into communities…
-displayOrder: 6
+displayOrder: 999
 heroImage: ''
 importance: 58.8
 pubDate: '2026-11-27T21:20:59Z'

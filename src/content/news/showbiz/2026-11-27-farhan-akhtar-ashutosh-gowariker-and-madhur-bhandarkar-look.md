@@ -5,7 +5,7 @@ countryCode: IN
 description: 'In 2001, three films significantly impacted Hindi-language cinema: "Dil
   Chahta Hai," "Lagaan," and "Chandni Bar." These films are being revisited as they
   mark their 25th…'
-displayOrder: 2
+displayOrder: 7
 heroImage: ''
 importance: 61.8
 pubDate: '2026-11-27T23:42:45Z'

@@ -5,7 +5,7 @@ countryCode: DZ
 description: Franco-Algerian filmmaker Rachid Bouchareb is preparing to shoot his
   next feature, "Reggane," in the Algerian Sahara. He faces several challenges, including
   rebuilding a French…
-displayOrder: 7
+displayOrder: 999
 heroImage: ''
 importance: 48.8
 pubDate: '2026-11-27T22:09:28Z'

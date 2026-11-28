@@ -5,7 +5,7 @@ countryCode: US
 description: Allstate has been experiencing an outage since Monday, affecting its
   website, mobile apps, and roadside assistance service. This incident follows a series
   of outages that have…
-displayOrder: 8
+displayOrder: 11
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-27T21:52:42Z'

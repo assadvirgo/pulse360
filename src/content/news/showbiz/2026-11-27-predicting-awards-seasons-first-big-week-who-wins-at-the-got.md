@@ -3,7 +3,7 @@ category: Showbiz
 description: The Oscar season is set to begin on Monday, with significant events scheduled
   throughout the week. By the following Sunday, the landscape of the awards race is
   expected to become…
-displayOrder: 1
+displayOrder: 3
 heroImage: ''
 importance: 71.8
 pubDate: '2026-11-27T23:10:42Z'
