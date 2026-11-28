@@ -5,7 +5,7 @@ countryCode: AU
 description: WWE star Bronson Reed, whose real name was Jermaine Haley, has died at
   the age of 38. The WWE confirmed his passing, stating that he died due to medical
   complications.
-displayOrder: 4
+displayOrder: 999
 heroImage: ''
 importance: 52.8
 pubDate: '2026-11-28T04:27:07Z'

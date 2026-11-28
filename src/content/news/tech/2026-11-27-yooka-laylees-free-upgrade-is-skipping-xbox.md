@@ -5,7 +5,7 @@ countryCode: US
 description: 'Playtronic Games will release a free upgrade for Yooka-Laylee and the
   Impossible Lair: Definitive Edition on December 15th for PlayStation 5, Switch 2,
   and PC. However, the…'
-displayOrder: 10
+displayOrder: 999
 heroImage: ''
 importance: 48.2
 pubDate: '2026-11-27T23:30:32Z'

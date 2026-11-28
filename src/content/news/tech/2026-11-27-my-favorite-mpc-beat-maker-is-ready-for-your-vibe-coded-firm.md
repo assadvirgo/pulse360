@@ -5,7 +5,7 @@ countryCode: US
 description: Akai has released the MPC Sample 1.4 firmware, which enhances its music-making
   platforms. The update is designed to support the modding community, allowing for
   vibe-coded custom…
-displayOrder: 9
+displayOrder: 999
 heroImage: ''
 importance: 62.2
 pubDate: '2026-11-27T20:48:04Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: The 13-inch M5 MacBook Air is currently on sale for Black Friday, offering
   a significant discount since Apple raised its prices. The device, featuring 16GB
   of RAM and 512GB of…
-displayOrder: 6
+displayOrder: 10
 heroImage: ''
 importance: 52.2
 pubDate: '2026-11-28T03:30:00Z'

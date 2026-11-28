@@ -5,7 +5,7 @@ countryCode: US
 description: Sony has released the WH-1000XM4C headphones, an updated version of its
   popular WH-1000XM4 design. The new model is currently available for $198 during
   Black Friday sales at…
-displayOrder: 8
+displayOrder: 11
 heroImage: ''
 importance: 58.2
 pubDate: '2026-11-27T23:32:00Z'

@@ -5,7 +5,7 @@ countryCode: US
 description: BET announced the creation of the Chaka Khan Humanitarian Award to honor
   musicians and cultural figures for their contributions to humanitarianism, community
   service, and social…
-displayOrder: 1
+displayOrder: 999
 heroImage: ''
 importance: 67.0
 pubDate: '2026-11-28T03:43:24Z'
